@@ -1,0 +1,1223 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "sontag-against-interpretation-erotic-of-art",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "9a3ed078c9399fbc9e649f31",
+      "qdrant_id": "c8ace057-c936-5e69-a355-aae62d03e8e3",
+      "text": "﻿Introduction 3 interpreting of Hitchcock’s films in order to defend the claims I make about Hitchcock’s philosophy of the erotic. It seems important to be clear about what my interpretive strategies are and to what sort of interpretive authority I appeal. Susan Sontag, in her essay “Against Interpretation,” argues, as the title suggests, against interpreting works of art. Her idea is that most interpretations start with some kind of theory—Freudian Theory, Feminist Theory, Lacanian Theory, Jungian Theory—and then force the artwork into the box of the theory and thereby do terrible vio­ lence to the artwork, even killing it. I love theories and have many of my own, but I take Sontag’s point and I know just what she means about the violence a theory can do to a beautiful movie, say. At the end of her essay, however, she calls for an “erotics of interpretation.”3 I really like …",
+      "source": "[Routledge Research in Aesthetics] Richard Gilmore - Hitchcock as Philosopher of the Erotic (2024, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.81966066,
+      "importance": 0.8355981111526489,
+      "final_score": 0.8196605443954468
+    },
+    {
+      "id": "f0e9f50cf0dbf440d036592d",
+      "qdrant_id": "9191db20-2f85-51be-b347-19f1b9075fba",
+      "text": "formally innovative texts. To examine the pleasurable realm of these fictions, I propose an erotics of language, an embodied interpretive methodology that emphasizes the link between linguistic structures and the body. My interest in this methodology is influenced by Susan Sontag’s essay “Against Interpretation,” which con- demns the practice of interpretation of works of art, claiming that the inter- preter provides another text that nonetheless fails to render what the work of art really is. For Sontag, interpretation misses the “pure, untranslatable, sensuous immediacy” of art (9). Instead, Sontag proposes to avoid the over- emphasized focus on the content of a work by stressing form and content, which forces readers and viewers to consider their sensory experience. She 1. There has been a debate about the spelling of the title of Cha’s book. Following Juliana Spahr, I will capitalize DICTEE when I refer to it but keep other critics’ usage when",
+      "source": "Flore Chevaillier - The Body of Writing_ An Erotics of Contemporary American Fiction (2013, The Ohio State University Press) - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.8091738,
+      "importance": 0.8340553641319275,
+      "final_score": 0.8091738820075989
+    },
+    {
+      "id": "75282b6ceb431a28592fb968",
+      "qdrant_id": "d28bdbdb-8c3b-54c0-b916-7a6758315b0a",
+      "text": "standing, but rather genuine literature.29 Speaking of a sublime, intellectual genealogy of pornography, Sontag redeemed a tradition of (French, avant- garde) sex literature as “the pornographic imagination.” Later addressing an interviewer’s question as to what distinguishes “the pornographic imagina- tion” from other iterations of erotic culture, Sontag claimed that the former “treats sexuality as an extreme situation,” meaning that “what pornography depicts is in one obvious sense, quite unrealistic.”30 Th is rhetorical gesture retrieves Bourdieu’s insistence on the “pure taste” as focusing on the stylized and defamiliarized. Sontag’s recuperation of pornography clearly relies on a very important distinction between, simply stated, “good” intellectual eroticism and “bad” lowbrow exploitation. In Ross’s terms, Sontag’s “pornographic imagination” is “a realm of radical chic ple…",
+      "source": "Mattias Frey - Extreme Cinema_ The Transgressive Rhetoric of Today's Art Film Culture-Rutgers University Press (2016).pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.80787015,
+      "importance": 0.8214932084083557,
+      "final_score": 0.8078702092170715
+    },
+    {
+      "id": "677e7c2ff8b09dcf34ad3438",
+      "qdrant_id": "189206aa-1f3c-5c06-b8a6-70c1f2401a57",
+      "text": "understandable, but unacceptable. Sontag is correct in rejecting the old distinction content / form; she is less correct in connecting interpretation to the notion of content. Content has been traditionally the reserve of the critic looking for a clear ontology for works of art, but contentof which Sontag says, with reason, that it constitutes a hindrance16must be distinguished from meaning. Sontag's defense of style against content does not exclude meaning, which includes the style of the work. It is content that has lost its aura because it has been unmasked as ideology. But to say that interpretation represents a domestication of art as Sontag does would be defensible only if interpretation were to emulate art. This is not the case, since interpretation first of all functions as mediation between art and thought. If one claims that art is irreducible to thought since it is sensation and that it is susceptible only to visceral apprehension,",
+      "source": "Marcella Tarozzi Goldsmith - The Future of Art_ An Aesthetics of the New and the Sublime (S U N Y Series in Aesthetics and the Philosophy of Art) (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 584,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.80694205,
+      "importance": 0.8251380324363708,
+      "final_score": 0.8069419860839844
+    },
+    {
+      "id": "8b4987219e0755035f6f9c47",
+      "qdrant_id": "a6634fb9-efe6-55cd-9a03-b559bb01ca59",
+      "text": "(Bellamy 1974, 40-41). Susan Sontag, one of the first critics to support the New Fiction, argues against “the project of interpretation” which she considers “stifling” because “the merit of these works lies certainly elsewhere than in their ‘meanings’” (7, 9). She notes that “a great deal of today’s art may be understood as motivated by a flight from interpretation. To avoid interpretation, art may become parody. Or it may become abstract. Or it may become (‘merely’) decorative. Or it may become non-art” (10); art employs “techniques that would fragment, dissociate, alienate, break up” (200). Indeed, the anti-representational, self-reflexive postmodern narrative “systematically sets out to short-circuit traditional interpretive temptations” (Jameson 1987, 219).4 The question of in- terpretation and interpretability leads directly to questions of com- position, of the condition…",
+      "source": "[Postmodern Studies] Gerhard Hoffmann - From Modernism to Postmodernism_ Concepts and Strategies of Postmodern American Fiction (2010, Rodopi) - libgen.li (1).pdf",
+      "chunk_index": 76,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.80314523,
+      "importance": 0.8246068358421326,
+      "final_score": 0.8031452894210815
+    },
+    {
+      "id": "93c775e1c023c7775067d431",
+      "qdrant_id": "83d55831-1b8e-5a03-988a-ee9e60a12bac",
+      "text": "is why interpretation of a work of art is always deficient in terms of objectivity. This truth can be summarized by saying that art is confined to the finitude of a subject that knows what it does not know and does not know what it knows. Art recognizes this irony; consequently one purpose of aesthetics is to understand art's value as only approximating an harmonious truth. The true object of aesthetics, then, is the predilection for unexpected culminations. How art is to be interpreted if there are no permanent canons by which to judge it is the question that must be answered. The danger, the great temptation of postmodern aesthetics, is to culminate in sociology, just as Hegel's ethical philosophy was said to dissolve into sociology. 15 Sontag's insistence on \"banning\" interpretation is therefore understandable, but unacceptable. Sontag is correct in rejecting the old distinction content / form; she is less correct in",
+      "source": "Marcella Tarozzi Goldsmith - The Future of Art_ An Aesthetics of the New and the Sublime (S U N Y Series in Aesthetics and the Philosophy of Art) (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 583,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7985584,
+      "importance": 0.8190260529518127,
+      "final_score": 0.798558235168457
+    },
+    {
+      "id": "3398cb5af1cb830ac32d6d5d",
+      "qdrant_id": "bf9dd131-6010-5623-a301-c0ec0be48d98",
+      "text": "such as Rosso, Pontomo and Parmigianino also imply how deeply rooted in the past is her sense that artists are not imitating life, but expressing their own vision. Sontag’s second collection of essays, Styles of Radical Will (1969), again devalued the idea of the verbal and of content in essays such as ‘The Aesthetics of Silence’, in which she argued that what the artist does not say requires attention. Artists such as Jasper Johns (she seems to be thinking of his paintings of objects such as flags and tins of paint) create silence by focusing on the thing itself. Here her position is reminiscent of poet William Carlos Williams’s dictum: ‘no ideas but in things’. As in her controversial endorsement of Leni Riefenstahl, Sontag turns in ‘The Pornographic Imagination’ (a study of the French writer Georges Bataille) to a subject which is offensive and yet which can be treated in terms of its form and style as art.",
+      "source": "[Routledge Key Guides] Chris Murray - Key Writers on Art_ The Twentieth Century (2002, Routledge) - libgen.li.pdf",
+      "chunk_index": 160,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7895185,
+      "importance": 0.8084930777549744,
+      "final_score": 0.7895184755325317
+    },
+    {
+      "id": "7283c35e5aad4ac3be55657e",
+      "qdrant_id": "c27c71f5-e393-5e1e-a2c9-a99f39383061",
+      "text": "32 & “In place of hermeneutics we need an erotics of art,” she famously asserted, in the last line of her “Against Interpretation.” Certainly there were many precedents for this same desire: in Baude- laire; in Mallarmé, who called for a self-reflexive writing that would just be about writing; in Flau- bert, who dreamed of a novel that was all plot- less style; and above all, in the surrealists. These pure-style urges resurfaced in the sixties with a vengeance, curiously enough, in spite of its being such a politically active time. Partly a recurrence of the ideal of “art for art’s sake,” it yet held a political dimension: the revolutionary impulse that had crystallized in the New Left sought for a way to distance itself from the corny, moralizing agitprop of the Old Left. Sontag, nobody’s fool, was well aware that her call to reject interpretation made no sense on practical levels. As she wrote, decades later, in AIDS and Its Metaphors: “[O]f course, all think-",
+      "source": "Phillip Lopate - Notes on Sontag (2009, PrincetonUP) - libgen.li.pdf",
+      "chunk_index": 63,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7887059,
+      "importance": 0.8096527457237244,
+      "final_score": 0.7887057662010193
+    },
+    {
+      "id": "e660b43ef03c26cd4db6296c",
+      "qdrant_id": "36ea6b59-d89f-568d-9c75-e85d820c39e8",
+      "text": "Lewis and Bazin bring us to other complementary strategies. The title of Susan Sontag’s inﬂuential essay ‘‘Against Interpreta- tion’’ (1964) offers a rebuttal to overly fussy ﬁlm musician pre- scription. Sontag suggests that to interpret is to wrest or justify a work that requires neither. Interpretation is not absolute, and in most modern instances, interpretation amounts to the philistine refusal to leave the work of art alone. Real art has the capacity to make us nervous. By reducing the work of art to its content and then interpreting that, one tames the work of art. Interpretation makes art manageable, comfortable.48 With regard to our present topic we might admit that classical music can clearly make some ﬁlm types uncomfortable. We might then suggest that this discomfort, or the attempt to legis- late for the sake of its elimination, ﬁnally, harmfully limits ﬁlm itself. Opening ey…",
+      "source": "[Communications and Media Studies] Dean Duncan - Charms that soothe_ classical music and the narrative film (2003, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 77,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7885641,
+      "importance": 0.8140643835067749,
+      "final_score": 0.7885640263557434
+    },
+    {
+      "id": "426c27918103d8fef5c9599c",
+      "qdrant_id": "3d316160-5a65-5e54-b48c-6f305ced1b3b",
+      "text": "whether artists intend, or don't intend, for their works to be interpreted... the merit of these works lies elsewhere than in their 'meanings'\" (Sontag 1966: 19). What we have in Sontag is a plea for sensuousness — \"In place of a hermeneutics of art we need an erotics of art\" (Sontag 1966: 23) — and an extreme formalism: \"What matters in Marienbad is the pure, untranslat- able, sensuous immediacy of some of its images, and its rigorous if narrow solutions to certain problems of cinematic form\" (Sontag 1966: 19). For Sontag, then, Postmodernism is characterized by \" a flight from interpreta- tion,\" and that aversion against interpretation gives rise to certain parodic, abstract, or decorative forms, all defying interpretation. Postmodern art may even become \"non-art\" in order to resist interpretation, and it is this avowed aversion that constitutes a definite break with Modernist art that invited, if",
+      "source": "[Utrecht publications in general and comparative literature 21] Douwe Wessel Fokkema, Johannes Willem Bertens - Approaching postmodernism _ papers presented at a Workshop on Postmodernism, 21-23 September 1984, Uni.pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.78832173,
+      "importance": 0.8119471073150635,
+      "final_score": 0.7883214950561523
+    },
+    {
+      "id": "42864cfa35ec3df216c56022",
+      "qdrant_id": "eab45602-3e91-5152-9a52-a86f737988c8",
+      "text": "intrinsically attached to it. Sontag writes that a work of art is free to mean nothing. Certainly, aesthetic theory and the public must respect the wish of the artist to declare war against meanings, even to defy art's raison d'être. Art may direct itself toward that path which nullifies its content. Content, and not meaning, is the equivalent of expression, therefore artists have the right to profess their nihilism in this respect. However, interpretation resists such reductions because it has the means to analyze any given content or lack of it. Sontag reproaches interpretation for not being art, for reducing the work to the content. She implies that when content predominates it is more likely that a uniform view of art will take hold. There is some value in her approach, considering that style is more elusive than content, because content is easier to objectify in formulas. Content can",
+      "source": "Marcella Tarozzi Goldsmith - The Future of Art_ An Aesthetics of the New and the Sublime (S U N Y Series in Aesthetics and the Philosophy of Art) (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 588,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7879882,
+      "importance": 0.8093519806861877,
+      "final_score": 0.7879879474639893
+    },
+    {
+      "id": "632dd21a53dd61ced00c1b34",
+      "qdrant_id": "1691011a-ef2b-5f27-8241-aca83d36c818",
+      "text": "wisdom. The evidence for this for me is my sense of my own lack of wisdom in my earlier selves. I feel like I really do understand more now than I did, so I see more now than I did. A good interpretation for me is one that leads in the direction of wisdom, that leads a person to see more. Sontag, in her opposition to the reductive, all-too-knowing kind of interpretation, calls for an “erotics of art.”20 I take her to mean that she wants to see a way of reading artworks, say, movies, that does not reduce art but which makes it more complex, more subtle, more ambiguously rich. I understand her to mean that she is not opposed to all forms of interpretation, but just to interpretations of a certain sort. The kind of interpretation of which I take it that she would approve is an interpreta- tion that works the way a healthy love relationship works. A healthy love relationship works to embrac…",
+      "source": "Richard Allen Gilmore - Doing Philosophy At The Movies (2005, State Univ of New York Pr) - libgen.li.pdf",
+      "chunk_index": 68,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.77996504,
+      "importance": 0.8060909509658813,
+      "final_score": 0.7799649834632874
+    },
+    {
+      "id": "91c6fe78947a43d696fcc7fc",
+      "qdrant_id": "cc199644-7b76-5f2b-a3bc-4f5f7026a0ee",
+      "text": "16 Elizabeth S. Anker and Rita Felski shadowy, concealed, or counterintuitive meanings can lead to a neglect of the formal qualities of art and the sensual dimensions of aesthetic experience. In what might appear to be a reprise of Susan Sontag’s well-­known argument in “Against Interpretation”—­a stirring manifesto for an erotics rather than a hermeneutics of art—­critics have questioned the value of reducing art to its po­liti­cal utility or philosophical premises, while offering alternative models for engaging with literary and cultural texts. For example, Stephen Best and Sharon Marcus argue that symptomatic reading, as one of the most influential forms of critique, relies on question- able meta­phors of depth, concealment, and hiddenness. Against this assump- tion that the essential meaning of a text resides in a repressed or unconscious content that requires excavation by …",
+      "source": "Elizabeth S. Anker (editor)_ Rita Felski (editor) - Critique and Postcritique (2017, Duke University Press) [10.1515_9780822373049] - libgen.li.pdf",
+      "chunk_index": 63,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7728888,
+      "importance": 0.8037378191947937,
+      "final_score": 0.772888720035553
+    },
+    {
+      "id": "bf9e7df84c652164cb740091",
+      "qdrant_id": "2b117cb0-9aec-5847-9c14-59a3f9d43760",
+      "text": "guaranteeing their immunity from its power to constitute social identities that are in some way marked as subordinate.”27 Artists’ and critics’ recuperation of “ugly” or “downbeat materials” has a long tradition. It depends on its own meta-distinction: the aesthete-critic’s intellectual perception of the base or dangerous object. Andrew Ross has demonstrated how, time and again, artists and intellectuals have laid claim to the ability to separate their appreciation of sexually explicit art from a vis- ceral, emotional response typical of Bourdieu’s popular taste.28 Ross off ers the example of Susan Sontag’s recuperation of French erotic writing, “Th e Porno- graphic Imagination,” in which she argued that Georges Bataille and others produced not pornography in its contemporary patriarchal, lowbrow under- standing, but rather genuine literature.29 Speaking of a sublime, intellectual…",
+      "source": "Mattias Frey - Extreme Cinema_ The Transgressive Rhetoric of Today's Art Film Culture-Rutgers University Press (2016).pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7726353,
+      "importance": 0.8019127249717712,
+      "final_score": 0.7726352214813232
+    },
+    {
+      "id": "90ae2fbdb539f68cf5addfc7",
+      "qdrant_id": "54645922-c693-5991-8c0d-ff0f25682b63",
+      "text": "Williams notes, compel their audiences to reenact the screams, sobs, and orgasms they see on screen), the admirer of the cute puppy or baby often ends up unconsciously emulating that object's infantile qualities in the language of her aesthetic .appraisal. 6 We can thus see why Adorno makes such a point in \"Lyric Poetty and Society\" of singling out poems that de- part from the genre's more representative \"delight in things close at hand\" in order to resist the bourgeois subject's desire to \"reduce [them] to objects of fondling.\"7 Revolving-.around the desire for an ever more intimate, ever more sen- suous relati~n to objects already regarded as familiar and unthreatening, cuteness is not just an aestpeticization but an eroticizati,on of powerless- ness, evoking-tenderness for \"small things\" but alsQ, sometimes, a desire to belittle or diminish them further. The aesthetic categor…",
+      "source": "Sianne Ngai - Our Aesthetic Categories_ Zany, Cute, Interesting-Harvard University Press (2015).pdf",
+      "chunk_index": 10,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.77106786,
+      "importance": 0.8021332621574402,
+      "final_score": 0.7710679173469543
+    },
+    {
+      "id": "95f4762a83e5081459a886a3",
+      "qdrant_id": "37cc9ed9-5613-587d-9eb9-4aebadfc8767",
+      "text": "characters, as well as to understand them for their gifts and their flaws. Numerous critics have observed that even with Sontag’s commitment to fiction, she never entirely leaves the essayist behind.19 Regarding In America, Acocella writes, “some people will say, as they said of The Volcano Lover, that Sontag is not really a novelist, that she is still an essayist. But what is wonderful about the book is exactly this counterpoint of novelist and essayist, of innocence and knowingness” (456). Leslie Garis concurs that Sontag, and by extension her novels, are “a hybrid of reason and romance.”20 Part of what these critics imply with their statements is that Sontag has not made a seamless transition to her new genre. It would be a mistake, however, not to recognize that narrative",
+      "source": "Ann Jurecic - Illness as Narrative (Composition, Literacy, and Culture)-University of Pittsburgh Press (2012).pdf",
+      "chunk_index": 317,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.76968014,
+      "importance": 0.7945778965950012,
+      "final_score": 0.7696802616119385
+    },
+    {
+      "id": "3479d16a56e89b8524563308",
+      "qdrant_id": "a505eeaf-3df0-5d87-b8f4-b8ccd0125753",
+      "text": "perceptions of all that lies about us. Art that does not push us to re-view the world neglects its most important duty: It fails to offer the possibility of changing the world. In so doing, in not enabling us to see ourselves and the world we inhabit in a new light, déclassé art becomes, at best, nothing more than gauche entertainment. With this argument, Sontag is constructing something of a straw man. Obviously, we must champion art that scrupulously interrogates the vexing web of specious presumptions that run through our under- standing of identity, volition, power, knowledge, happiness, social con- sensus, guilt, responsibility, and any other important area of inquiry. Any art that can work through even a small portion of the above without ever voicing a cliché is an achievement to be celebrated; yet the belief that there exists art that exactly fulfills these desirable cr…",
+      "source": "Jonathan Lake Crane - Terror and Everyday Life_ Singular Moments in the History of the Horror Film-SAGE Publications, Inc (1994).pdf",
+      "chunk_index": 414,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7673733,
+      "importance": 0.8009871244430542,
+      "final_score": 0.7673733234405518
+    },
+    {
+      "id": "a236fb36ceb941eb644ae95c",
+      "qdrant_id": "41749db0-dda7-579c-91a8-21590f0c5418",
+      "text": "or room for more?), both ‘‘easily detachable’’ and altogether dangerous.4 In Sontag’s narrative, the supplement becomes an issue of resistance to and desire for more of the image: Images of atrocity, with their power to transﬁx, compel through a power of sheer fascination, a form of compul- sive attraction (perhaps one of the century’s many pathologies of addic- tion, the attachment with diminishing returns), which, in repetition of the experience of dissatisfaction, eventually neutralizes the force of encounter, canceling the shock effects of the image. No longer the medium of a frightful but possibly instructive and even ethical encounter, the photo- graph of ultimate horror now transmits only the negative returns of the banal and the same: the same predictable negativity, the image in its lack of (proper) effect, the narcissistic dead end of an anesthetized, benumbed, impotent viewer.…",
+      "source": "Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation (2022, Fordham University Press) [10.1515_9780823292189] - libgen.li.pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.76627594,
+      "importance": 0.804460346698761,
+      "final_score": 0.7662758827209473
+    },
+    {
+      "id": "a063469526528666da2a7ad6",
+      "qdrant_id": "7605f926-9124-5534-82a9-6f33d8df6a34",
+      "text": "denials of alterity continue unabated elsewhere. In this situation, the idealistic structures of the heterocosm would be isolated, supplanting nothing and ‘contaminating’ nothing. This is a point alluded to by Sontag in her discussion of the pornographic literature of writers such as Sacher-Masoch, de Sade, Bataille and Réage. Referring to the latter’s Story of O, Sontag comments upon the ‘stock type of pornographic trash’ and ‘anachronistic settings’ that it relies upon (2001: 97). The settings that she describes are familiar from Venus in Furs and more recent cultural texts: ‘that conveniently isolated château, luxuriously furnished and lavishly staffed with servants, in which a clique of rich men congregate and to which women are brought as virtual slaves to be the objects, shared in common, of the men’s brutal and inventive lusts’ (2001: 97–98). This description is highly…",
+      "source": "(Film Philosophy at the Margins) McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 521,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.766111,
+      "importance": 0.7946378588676453,
+      "final_score": 0.7661111354827881
+    },
+    {
+      "id": "d077bd86091c15fa6a449ae3",
+      "qdrant_id": "4fffcecb-1949-54a9-8e3b-dae74869b558",
+      "text": "(Sontag’s favorite word of dispraise) is not so much a category of evaluation as a stigmatiz- ing label. There is no way to refute a charge of philistinism; one stands hopelessly convicted in advance. Sontag is saying, in effect: “Come on, Anglo-American Novel, don’t embarrass me, look at atonal music and abstract expression- ism—get with the program!” Now I don’t dispute",
+      "source": "Phillip Lopate - Notes on Sontag (2009, PrincetonUP) - libgen.li.pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7625865,
+      "importance": 0.7894978523254395,
+      "final_score": 0.7625865936279297
+    },
+    {
+      "id": "bd39f819844713263593ad1f",
+      "qdrant_id": "aa32a068-f783-54d1-9e20-d16c8fd66153",
+      "text": "Porn and the Erotic 55 Rene, Sir Stephen, etc. Everything is personalized, one per- son is not exchangeable with another, as Sontag suggests is common to the pornographic.16 Exchangeability is not pos- sible in the erotic because of the present Absence of the Other and the subsequent doctrine of impossibility described ear- lier. The existence of these conventions described by Sontag makes a code possible. However, eroticism necessitates in- dividual ego to transcend individual direction and to create a space for what Bataille called, “self-violation and unthink- able societal transgression.”17 Obviously, the erotic exists beyond a code. It is accessible through the access to inner experience made possible through the experience of the im- possible identiﬁ able through a loss of consciousness. The poetic endeavor and the resisting nude’s dilemma to unite being and existence, t…",
+      "source": "Boodakian, Florence Dee - Resisting nudities _ a study in the aesthetics of eroticism-Peter Lang Publishing Inc (2008).pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.76012063,
+      "importance": 0.7842152714729309,
+      "final_score": 0.7601207494735718
+    },
+    {
+      "id": "a4998b58556b0635351c8e39",
+      "qdrant_id": "fd08a9b0-7a09-5709-ad8f-9832a6b5bf25",
+      "text": "annihilated by the serenity and intelligence of his imagination. Approving or disapproving morally of what a work of art “says” is just as extraneous as becoming sexually excited by a work of art. (Both are, of course, very common.) And the reasons urged against the propriety and relevance of one apply as well to the other. Indeed, in this notion of the annihilation of the subject we have perhaps the only serious criterion for distinguishing between erotic literature or films or paintings which are art and those which (for want of a better word) one has to call pornography. Pornography has a “content” and is designed to make us connect (with disgust, desire) with that content. It is a substitute for life. But art does not excite; or, if it does, the excitation is appeased, within the terms of the aesthetic experience. All great art induces contemplation, a dynamic contemplation. However …",
+      "source": "Susan Sontag - Against interpretation and other essays-FSG (1966).pdf",
+      "chunk_index": 75,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7564881,
+      "importance": 0.7891747951507568,
+      "final_score": 0.756488025188446
+    },
+    {
+      "id": "bbe674b54f1f30425a7f583f",
+      "qdrant_id": "52554b38-9fe6-54aa-9ec3-9d7d3c54b96c",
+      "text": "30 THE AGING ARTIST abhorred every \"vulgar\" or \"common\" word, like Louis XlV. Nietzsche, in The Gay Science, uses the same example to show how the suppression of these vulgar words also constitutes the attempt to repress the emotions associated with them. In addition, Aschenbach fulfills the role of the ascetic artist-priest that Wagner does in Nietzsche's texts. As 1.M. Hawes remarks: This ascetic tendency in Aschenbach's art (and his bachelor life-style) makes him. in Nietzsche's terminology, one of those \"decadent\" types. who are unable to cope with their own drives and must suppress them. Indeed, the way Mann presents Aschenbach's suspiciously passionate \"ferocity of the word\" ... in his rejection of moral plurality is distinctly reminiscent of the way Nietzsche mocks Schopenhauer's rejection of sensuality: \"What vehemence of words!\"SI And herein is the rub: Mann's critique of Nietszche's decadent artistry is no",
+      "source": "Caroline Joan Picart - Thomas Mann and Friedrich Nietzsche_ Eroticism, Death, Music, and Laughter-Amsterdam (1999).pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7546027,
+      "importance": 0.7871147394180298,
+      "final_score": 0.7546024322509766
+    },
+    {
+      "id": "f0dd39357aa9edcbedd45c8f",
+      "qdrant_id": "7f3c97ac-a5cd-5bcd-a767-9f17d1a67c29",
+      "text": "stated: ‘We are willing to defend obscenity on the grounds of artistic excellence but considered that in this case the avowed intention of the book was primarily a plea for sexual self expression.’65 In this statement the ideological terms of official culture are momentarily revealed. ‘Artistic excellence’ and ‘sexual self expression’ are, in this case, apparently antithetical; and yet, conventionally, some of the greatest masterpieces have been seen to be the result of the bringing together of artistic genius and sexual self-expression (Picasso’s female nudes are a good case in point). The problem, it seems, is not so much sexual self-expression but female sexual self-expression and it is this that, in 1976, is defined as obscene, as unsuitable for an Arts Council exhibition and thus placed beyond the boundaries of art. The insistence, in women’s art of the 1970s, on representing images…",
+      "source": "Lynda Nead - The Female Nude (1992) - libgen.li.pdf",
+      "chunk_index": 266,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7537769,
+      "importance": 0.7862527966499329,
+      "final_score": 0.7537767887115479
+    },
+    {
+      "id": "0442ea8dac8a7b645ae4bb3d",
+      "qdrant_id": "c6fbf070-d8bc-5b98-880d-8d6b0ed10b95",
+      "text": "any transcendence.’3 Susan Sontag denounces the interpretation of works of art on the grounds that ‘to interpret is to impoverish, to deplete the world - in order to set up a shadow world of “meanings.” ’4 Leslie Fiedler, writing on modern poetry, characterizes one of its chief tendencies as a ‘flight from the platitude of meaning.’5 As Jacob Brackman describes this attitude in The Put-On, ‘we are supposed to have learned by now that one does not ask what art means.’6 And, as Brackman shows, this deliberate avoidance of interpretability has moved from the arts into styles of personal behavior. It appears that the term ‘meaning’ itself, as applied not only to art but to more general experience, has joined ‘truth’ and ‘reality’ in the class of words which can no longer be written unless apologized for by inverted commas. Thus it is tempting to agree with Leslie Fiedler’s conclusion that ‘the Culture Religion of Modernism’ is now dead.7 The most advanced art and criticism of",
+      "source": "Bran Nicol - Postmodernism and the Contemporary Novel_ A Reader-Edinburgh University Press (2002).pdf",
+      "chunk_index": 163,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.75284123,
+      "importance": 0.7865195274353027,
+      "final_score": 0.7528411746025085
+    },
+    {
+      "id": "4a4e5f7c8b985875b33d61fb",
+      "qdrant_id": "b5b0f968-ee51-59c1-8652-e4cc21dfd963",
+      "text": "the publication. Part of the reason for this reliance on pornographic or erotically suggestive material is, evidently, to add a note of grotesquery to the portrait of the Blooms, to place them socially and to explode pretension and hypocrisy. There is also the more subtle and interesting suggestion that Joyce makes, drawing our attention to the fact that the world of the erotic imagination is governed by or transacted through the language and ideology of such kinds of literature. Psychological realism and a new kind of psychology, highly aware of the role of language, are at work here but evidently, also, this feature of Joyce's writing deliberately disrupts any kind of aesthetic designed to exclude sexual subjects, eroticism, or even vulgarly pornographic art. Far from remaining aloof from a sexual art Joyce increasingly identified himself as the Shem-like author of a 'usylessly unreadable Blue Book of Eccles, edition de tenebres,",
+      "source": "Richard Brown - James Joyce and Sexuality-Cambridge University Press (1989).pdf",
+      "chunk_index": 125,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.752761,
+      "importance": 0.7917696833610535,
+      "final_score": 0.7527608871459961
+    },
+    {
+      "id": "067aa2e8a4a4383599d63fd3",
+      "qdrant_id": "a428c2eb-055a-5007-88a2-860eee80d8a4",
+      "text": "ure importantly in the greatest masterpieces’ (ibid.). Just like a bowl of corn syrup and a plate of sugar will never be dinner, Dutton flippantly observes, erotic paintings, novels and poems will never qualify as art of the highest order. (It is certainly noteworthy that Dutton, who is the antipode of modern aesthetics in doing away with the very notion of a disinterested pleasure and assuming that matters of sexual reproduc- tion are vital in explaining our interest in art and aesthetics, actually finds himself in the company of Schopenhauer, Kant and Shaftesbury where erotic art is concerned.) To recapitulate, if (disinterested, contemplative) aesthetic responses are indeed irreconcilable with (interested, bodily) sexual responses, as so many philosophers of art in the past have thought, then there hardly remains any conceptual space for works that aim for both kinds of response. Yet, we do, as a matter of fact, have this long-standing tra-",
+      "source": "Pornographic Art and the Aesthetics of Pornography (Maes Hans (ed.)) (Z-Library).pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.75269777,
+      "importance": 0.7879639267921448,
+      "final_score": 0.7526976466178894
+    },
+    {
+      "id": "6a6eac7c5a4204698c74e5d5",
+      "qdrant_id": "6332b8ad-68ec-5eda-b560-1a26cc600b2d",
+      "text": "social roles in the first place. Instead I want to elucidate the functions and forms of representation. This becomes impossible once we abstract from representation, whether it takes the form of linguistic, visual, or embodied articulation. As for Martin Seel’s objections, my argument was in fact not a plea against being affected by the power of art. On the contrary, with the exam- ples I choose, I wanted to lay out in what way and through which form of language—something Seel also emphasizes—the critical potential of affir- mation expresses itself. His proposal to conceive art-critical practices as a form of aesthetic freedom in relation to the passivity shows in many ways merit. I must confess, that passivity has only been marginally an interest of mine. Above all, I have engaged the topic thus far by following the discus- sions Rousseau, Cavell and Sontag have led, i.e. on the subject of observing,",
+      "source": "Isabelle Graw (editor), Christoph Menke (editor) - The Value of Critique_ Exploring the Interrelations of Value, Critique, and Artistic Labour (Normative Orders) (2019, Campus Verlag) - libgen.li.pdf",
+      "chunk_index": 250,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7503743,
+      "importance": 0.7923334240913391,
+      "final_score": 0.7503743171691895
+    },
+    {
+      "id": "e7a2add028747d96a34264ac",
+      "qdrant_id": "abb6c618-4793-5968-8291-1ef12dca826a",
+      "text": "8 with those observing works of art: Have you ever seen the viewer of a pornographic magazine smile? A quiet cheerfulness, however, can often be observed in viewers of works of art, as if art brings forth an easing of the compellingly sensual. Those, however, who in a derogatory manner pronounce a work of art as pornographic, prove nothing more than having no appreciation of what is artistic in the depicted object. Turning away in disgust does not necessarily have to be a characteristic of an exceptional morality; such peo- ple simply have a non-erotic culture. Eduard Fuchs, the past master of erotic art, whose books were accused of being pornographic during his lifetime, considers eroticism the fundamental subject of all art. Sensuality is said to be present in any art, even if its objec- tive is not always of a sexual nature. Accordingly, it would almost be a tautology to speak of erot…",
+      "source": "[EBL ebooks online] coll. - Encyclopaedia erotica. (2005, Parkstone) - libgen.li.pdf",
+      "chunk_index": 13,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7501604,
+      "importance": 0.7789759635925293,
+      "final_score": 0.7501603364944458
+    },
+    {
+      "id": "a70c5b86748281cb424dd386",
+      "qdrant_id": "d31705c9-cd3e-530c-9e5f-d4a178729bd9",
+      "text": "Chapter 5: Hard-Core Eroticism 1 I paraphrase Richard Corliss: “Sex is too important to be left to the sex-film industry. The erotic impulse and its consequences are crucial. Lovemaking is a powerful experience, the most convulsive emotional and physical drama in most people’s lives. And it warrants as much artful attention from film auteurs as space operas or teen revenge fantasies.” Corliss, “In Defense of Dirty Movies,” 74. 2 Susan Sontag’s groundbreaking essay, “The Pornographic Imagination,” which discusses only pornographic literature, not film, is helpful on this point. Sontag argues that literary pornography’s aim of inducing sexual excitement is not at odds with supposedly more “detached involvement” evoked by genuine art. She points out that many certified masterpieces from Geoffrey Chaucer to D. H. Lawrence have excited readers sexually and that many other works of literary por- nography—Story of O, Story of the Eye, The Image—mix art and arousal. Sontag,",
+      "source": "Linda Williams - Screening Sex-Duke University Press (2008).pdf",
+      "chunk_index": 158,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7500473,
+      "importance": 0.7808188199996948,
+      "final_score": 0.7500473856925964
+    },
+    {
+      "id": "f1ea63ffcac054f18383fca7",
+      "qdrant_id": "c50d000b-7b10-5ba5-8a3e-d86940a1343f",
+      "text": "since authors like Pine, for example, do not provide the reader with a full literary analysis in support of their claims; they do not focus on the work itself as Wilde would have preferred. In fad, the route by which Wilde' s poem has acquired specifically homoerotic rather that simply erotic associations is relevant here because it illustrates how the interpretation of sexual subject matter in an author's works may become limited merely to perceptions which conforrn to what is known about the sexuality of the author when, in fact, a far more complex understanding of the author' s thought is both possible and desirable. For Pine and others, Wilde's known homosexuality merely illuminates the \"remorse\" of Wilde's poems; explains Wilde's \"dilemma\"; and echoes what Pine already knows: that Wilde was a homosexuaL I do not wish here merely to underrnine or to reject Pine's conclus…",
+      "source": "Patricia Flanagan Behrendt (auth.) - Oscar Wilde Eros and Aesthetics-Palgrave Macmillan UK (1991).pdf",
+      "chunk_index": 93,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7495173,
+      "importance": 0.780129075050354,
+      "final_score": 0.7495173811912537
+    },
+    {
+      "id": "6e138a50dbf484d35ce6894e",
+      "qdrant_id": "cd3196b6-3c6e-5802-a3f2-af38079a982b",
+      "text": "French writer Georges Bataille) to a subject which is offensive and yet which can be treated in terms of its form and style as art. Sontag’s attack on critics who wish to view art as an imitation or commentary on the world culminates in her masterpiece, On Photography (1977). In this collection of essays, originally published in the mid-1970s in The New York Review of Books, she rejects the ideas that photographs are a realistic representation of reality. On the contrary, she regards photography as surrealistic, a term she defines in ‘Happenings’ (included in Against Interpretation) as the ‘idea of destroying conventional meaning, and creating new meanings, or counter-meanings through radical juxtaposition (“the collage principle”).’ Thus photography includes or juxtaposes contrary elements—moving abruptly between different environments, time periods, cultures, classes, objects—and unites them in a ‘realistic’ frame. But this frame, she argues, is simply another aspect of",
+      "source": "[Routledge Key Guides] Chris Murray - Key Writers on Art_ The Twentieth Century (2002, Routledge) - libgen.li.pdf",
+      "chunk_index": 161,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.76059496,
+      "importance": 0.7989224791526794,
+      "final_score": 0.74944007396698
+    },
+    {
+      "id": "533f933caf8314553986d8af",
+      "qdrant_id": "020d175e-7ed6-56f8-9b4d-b72be4620adc",
+      "text": "of popular culture. Sontag’s aim is that we should enjoy camp but also take it seriously. To do this it must be elevated so that it can take its place as a lesser art, but an art no less. This is certainly one way of seeing it, but since the mid-1960s camp has also provided a momentum for the creation of postmodern culture, where the boundaries of high and low art are irrevocably blurred, and where camp detaches itself from the subcultural world of the gay scene and enters into mainstream, roaming free in the field of popular entertainment, while retaining an affectionate attachment to gay culture. Sontag’s main choices of pop culture, camp and pornography, both of which she draws into an 84 POSTMODERNISM AND POPULAR CULTURE",
+      "source": "Postmodernism and Popular Culture (Angela McRobbie) (Z-Library).pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74941957,
+      "importance": 0.784618616104126,
+      "final_score": 0.7494195699691772
+    },
+    {
+      "id": "552ef32c76495d4edc696157",
+      "qdrant_id": "e8f4d4b4-6dcf-5721-b358-dc57ed5a93c9",
+      "text": "seem strange, above all by altering the environment in which they are seen. Yet, despite the artists’ and critics’ statements that surround this work, and assure the viewer of its neutrality, the ambivalence is far from complete. Such work is modest and weak if taken as critique, strong and strident if taken as celebration, since after all – particularly in the work of Fleury and Beecroft – what is glossily and cannily produced is another set of commodities, and the publicity and sponsorship arrangements through which they are seen and sold. To consume these goods, bearing the tinge of a critique of themselves and their consumption, is the very deﬁnition of ‘camp’, which Susan Sontag argued long ago is the tactic intellectuals employ to sanction their enjoyment of mass culture. Thus art, a material manifestation of exchange-value, approaches the condition of that most abstract of commodities, money – it is actually used like that by the rich, as a quasi-liquid form of",
+      "source": "(Very short introductions, 146) Julian Stallabrass - Contemporary art _ a very short introduction-Oxford University Press (2006).pdf",
+      "chunk_index": 169,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7490554,
+      "importance": 0.7848767638206482,
+      "final_score": 0.7490553855895996
+    },
+    {
+      "id": "35f6bbdbebd4a27eb487907d",
+      "qdrant_id": "0a507760-c40e-5d53-b04e-5b6a2691480d",
+      "text": "the 1970s of many of the ideals (and risks) of enlightened modernity; and the new sexual realism goes with the rediscovery of the joys of tonal music, Bouguereau, a career in invest- ment banking, and church weddings. (AAIM, 166–67) This is undoubtedly one of the silliest passages Sontag ever wrote, not least because she sud- denly goes tone-deaf to the immeasurable suf-",
+      "source": "Phillip Lopate - Notes on Sontag (2009, PrincetonUP) - libgen.li.pdf",
+      "chunk_index": 92,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74728143,
+      "importance": 0.7774501442909241,
+      "final_score": 0.7472814321517944
+    },
+    {
+      "id": "f47952042e9bc9ae0a0fee53",
+      "qdrant_id": "00a47b01-c165-5492-8842-b07634d47894",
+      "text": "I share Lyotard’s later repudiation of the ‘metaphysics of desire’ implicit here, because it heads in the direction of an indifference in which there can be no discrimination between the intensities inscribed on the ‘libidinal band’, merely the anarchic, arhythmic pulsation of unconscious energy. However, one should not therefore dismiss what is going on in Economic libidinale and Des Dispositifs pulsionnels as merely wrong or silly (though some of the erotic writing in defence of adultery in the former is rather hard to take, even as strategy). The problem lies not so much in the evocation of the event as resistant to the theatricality of conceptual representation (which is a constant theme in Lyotard’s work) as in the way in which the resistance of the event is articulated and characterized. What it might mean to breach the outer limit that installs the theatre of representat…",
+      "source": "(Critics of the Twentieth Century) Bill Readings - Introducing Lyotard_ Art and Politics (Critics of the Twentieth Century)-Routledge (1991).pdf",
+      "chunk_index": 425,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74698794,
+      "importance": 0.7877182364463806,
+      "final_score": 0.74698805809021
+    },
+    {
+      "id": "3bfecc25e08a60252c60d07f",
+      "qdrant_id": "0a47d072-ddf8-55b8-92a8-6ed9fc803f3c",
+      "text": "remained utopian until now). Recall that the pervert’s sexual fetish that Freud takes to be exemplary is an object treated “as if ” it were the lost object (paradigmatically, the penis “missing” from the female body). In the case of cultural objects, the subject treats them “as if” they were primary objects. Art, play, and the word therefore offer possibilities for happy discharge in the realm of the imaginary (which does not mean the realm of the unreal, the nonexistent, or the unrealizable). I am referring not only to the discharge of sexual drives, but also to the discharge of the drives to destruction and death. The forms of expression that we con- sider “cultural”—because, on the one hand, they can coexist with the social and legal spheres, and, on the other, they stand opposed to narcissistic forms and efforts to annihilate the other—are the privileges of speech. They let us recover in language, defi ned as a system of communication, the dy-",
+      "source": "Rosaura Martínez Ruiz - Eros_ Beyond the Death Drive-Fordham University Press (2021).pdf",
+      "chunk_index": 413,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7465395,
+      "importance": 0.7925522327423096,
+      "final_score": 0.7465395927429199
+    },
+    {
+      "id": "1fbdb9dc451b5b1eb1367ace",
+      "qdrant_id": "d4524144-717b-5830-bc3e-eeb40511bc65",
+      "text": "and the erotic. These readings can then be used to close a circular argument and to underwrite the initial assumption that the erotic side of life was closed to the author. The history of the reception of Conrad's fiction - both its critical reception and too its reception by 'common readers' - is thus quite unlike that of other major modernist novelists. This is not the way in which the fiction of James, Forster, Joyce, Lawrence and Woolf has been read. Nor is it the way in which the fiction of modernists writing in languages other than English - such as Knut Hamsun and Franz Kafka - has been read. I mentioned above a 'third view' of Conrad - that he is essentially a political novelist whose art is important only when it engages with the public and the impersonal, and not when it investigates the complexity of individual feelings and relationships, especially those concerned with the pa…",
+      "source": "[Continuum Literary Studies] Jeremy Hawthorn - Sexuality and the Erotic in the Fiction of Joseph Conrad (2007, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7465278,
+      "importance": 0.7784653306007385,
+      "final_score": 0.7465277314186096
+    },
+    {
+      "id": "cd55a1c984747383b4fde174",
+      "qdrant_id": "789bb53a-0e31-555c-a857-b931fdd5af2a",
+      "text": "entered, really entered, the age of nihilism. So I can’t help viewing the writings collected in Against Interpretation with a certain irony. I still like most of the essays and a few of them, such as “Notes on Camp” and “On Style,” quite a lot. (Indeed, there’s only one thing in the collection I don’t like at all: two theater chronicles, the brief result of a commission from a literary magazine with which I was allied, that I had accepted against my better judgment.) Who would not be pleased that a collection of contentious writings from more than three decades ago continues to matter to new generations of readers in English and in many foreign languages? Still, I urge the reader not to lose sight of—it may take some effort of imagination —the larger context of admirations in which these essays were written. To call for an “erotics of art” did not mean to disparage the role of the critic…",
+      "source": "Susan Sontag - Against interpretation and other essays-FSG (1966).pdf",
+      "chunk_index": 196,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74593914,
+      "importance": 0.7777040004730225,
+      "final_score": 0.7459391355514526
+    },
+    {
+      "id": "3c2778bf222450266a3019c2",
+      "qdrant_id": "bc1d2065-c985-5f6d-8ffe-8ac57aeeea87",
+      "text": "the anthology enjoy an iconic status in the art historical canon. Finally, historiographical considerations are used as a point of departure to revisit the works under consideration. A dialogue is thus established between past and present, which no longer allows for a linear direction of interpretation of art in terms of gender and sexuality. ‘Erotic’ content is ampli- ﬁed or underscored, depending not only on the work itself but also its historiographical context. The volume not only includes cases of overseen sexuality (both female and male) and ushers in works in the domain of gender studies, but also engages with the limitations of such approaches. Even though the essays address established categories: male/female sexuality, ‘homosex- uality,’ their stereotypical portrayals and their ‘perverse’ nuances, such as fetishism, the volume is not structured around them. Attempting to…",
+      "source": "[Visual Culture in Early Modernity] Angeliki Pollali, Berthold Hub - Images of Sex and Desire in Renaissance Art and Modern Historiography (2018, Routledge) - libgen.li.pdf",
+      "chunk_index": 55,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.745571,
+      "importance": 0.7848581671714783,
+      "final_score": 0.7455708980560303
+    },
+    {
+      "id": "98566728cde1bd9650483503",
+      "qdrant_id": "fe78cf6c-d51f-520d-8f17-788a5974d62a",
+      "text": "can understand the source of its original allure. Yet it cannot be pure ac- cident that some texts and images from sixteenth- century London or Florence held to be erotic then are still considered so today, or that even those from seventeenth- century Kyoto might still exert a magnetic pull in the West four centuries later. What we mustn’t do is switch off our own erotic sensibilities when responding to art— a syndrome that, depressingly, appears far too often in academic discourse. As soon as we do so, we im- poverish aesthetic experience and deprive ourselves of the blindingly ob- vious. If anything, we might follow Kenneth Clark and remain open to that “vestige of erotic feeling” that in Wagner’s music is so often “dragged into the foreground” so as to consider how an artist poured old ideas into new molds. If there is a fundamental premise underlying the idea of an “erotic impulse,” it is the truism that one misses something important when ignoring human sexual urges.",
+      "source": "Laurence Dreyfus - Wagner and the Erotic Impulse-Harvard University Press (2010).pdf",
+      "chunk_index": 78,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74508566,
+      "importance": 0.7818895578384399,
+      "final_score": 0.7450855374336243
+    },
+    {
+      "id": "872b942a017156a4c39a894c",
+      "qdrant_id": "bc3fd1f6-0112-52cb-9ad9-42c21e52cdab",
+      "text": "upon that relationship. I examine the ways in which Adorno confronts a seminal problem in the philosophical interpretation of art: Without the intervention of theoretical or philosophical discourse, the conceptual dimension of an artwork would remain incomprehensible. But if the com- mentator succeeded fully in articulating and interpreting the conceptual truth content of the artwork, this success also would have made the art- work itself superfluous. After all, what the artwork represents and achieves in its singular way could be replaced by discursive logic. One of the themes that a reading of The Trial therefore should emphasize is the very way in which a literary text both calls for philosophical interpretation and resists such interpretation at the same time. This double gesture of calling forth and resisting philosophical interpretation, while shared by all great literary …",
+      "source": "[Idiom_ Inventing Writing Theory] Gerhard Richter - Thinking with Adorno_ The Uncoercive Gaze (2019, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 52,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74491036,
+      "importance": 0.7878839373588562,
+      "final_score": 0.7449101209640503
+    },
+    {
+      "id": "b8acb563bfa1de5bd2c5a1e7",
+      "qdrant_id": "a3e8f313-6998-5475-b513-3d227c63045f",
+      "text": "thetic judgment. (Thus for Sontag, pornography and evil, and by exten- sion aesthetics and ethics, are inextricably linked—through what she calls a ‘‘law.’’)6 Yet the anxiety over distinguishing a ‘‘proper’’ versus an ‘‘im- proper’’ use of the image extends beyond the ongoing debates over pornography. And, notwithstanding the speciﬁcity of the atrocity supple- ment and its focus on the photographic image as medium and object, con- cerns over such paired terms as representation and atrocity, aesthetics and",
+      "source": "Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation-Fordham University Press (2022).pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7444341,
+      "importance": 0.7870950102806091,
+      "final_score": 0.7444341778755188
+    },
+    {
+      "id": "91b235b37f80bebe505ddee6",
+      "qdrant_id": "73ee3943-9b36-5a70-82ce-bf8abf4e993c",
+      "text": "through the intersections of Wilke’s abstract sculpture and Lippard’s essays on “eccentric abstraction.” Since art critics’ purview consisted of gallery openings, museum exhibitions, and artist- sponsored events, the question was usually not if erotic art was “art” per se, but how this new sexually explicit art could be understood as different from pornography. Janis made a point to articulate the difference between pornography and the art on display in his gallery, relying on aesthetic justifications: “Pornography is merely done to arouse the carnal spirit. While eroticism may be titillating, it has esthetic interest first and foremost.”21 In the catalog for Erotic Art ’66, he positioned new erotic art as the most up-to-date iteration of a univer- sal theme and, even more importantly, as a timely response to abstraction. “For it was only natural to find after a succession of XXth…",
+      "source": "Rachel Middleman (editor) - Radical Eroticism_ Women, Art, and Sex in the 1960s (2018, University of California Press) [10.1525_9780520356153] - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74370134,
+      "importance": 0.7804123759269714,
+      "final_score": 0.7437012791633606
+    },
+    {
+      "id": "9d520e41c1add3240f22b2b4",
+      "qdrant_id": "55a93880-f91b-5e37-8a89-784a619c76c0",
+      "text": "posed by Roland Barthes. If I am reading a crime novel for the second time, and know, this time round, that the butler did it, is the whodunnit better or worse for my improved interpretation of clues that are buried in the text? Clues, that is, which were overlooked on the first reading when I was certain that it was the chambermaid who actually did it. “In place of a hermeneutics we need an erotics of art.” So declared Susan Sontag, in her influential 1966 manifesto, Against Interpretation. In a decade in which universities, and their disciplines, were being rocked to their foundations by student rebellion, Sontag argued, with eloquent radicalism, that hermeneutics (by which she meant the professionalized academic study of literary texts) was not merely obsolete, but as pointless as Swift’s scientists laboring to extract sunbeams from cucumbers in Gulliver’s Travels. What was required, she proclaimed, was a full- bodied, whole-minded engagement with literature.",
+      "source": "John Sutherland - How Literature Works_ 50 Key Concepts (2011, Oxford University Press, USA) - libgen.li (1).pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7430099,
+      "importance": 0.7788687348365784,
+      "final_score": 0.7430100440979004
+    },
+    {
+      "id": "45f5040a1eca590e5f28d164",
+      "qdrant_id": "315d837c-d3cc-5688-bb65-c040d46beda4",
+      "text": "character of a text. We ﬁnd early examples of the formalist approach in such essays as Susan Sontag’s ‘‘Against Interpretation’’ and ‘‘Godard’s Vivre Sa Vie,’’ both of 1964, in which Sontag argues that critical interest should be formal rather than thematic and that the most gripping contemporary works of art are interesting because of the immediacy of their images and their handling of problems of form. Sontag’s essays stand at the beginning of a long line of critical work that, for diverse reasons, emphasizes the formal at the expense of the thematic in its discussions of the postmodern. The thematic approach is already present in some of Charles Olson’s essays of the 1950s and in Leslie Fiedler’s and Ihab Hassan’s work of the 1960s. What is emphasized here is a postmodern attitude, expressed through a variety of themes, that resists the modernist intellectualization of experience and …",
+      "source": "[Comparative History of Literatures in European Languages] Hans Bertens, Douwe W. Fokkema - International Postmodernism_ Theory and literary practice (1997, John Benjamins Publishing Company) - libgen.li.pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.74275017,
+      "importance": 0.7857350707054138,
+      "final_score": 0.7427501678466797
+    },
+    {
+      "id": "4b80fa4e29a3c88bde911b6a",
+      "qdrant_id": "6468a2c4-cf80-5a0a-8c87-ef860eca6d4b",
+      "text": "berry Hill) or attempted to remake it into something artiﬁcial (Versailles). . . . Today’s Camp taste eﬀaces nature, or else contradicts it outright.”27 With Os- car Wilde as her guide, Sontag oﬀers an account of the cleaving of nature from aesthetics and, by implication, of homosexual taste from normal sensibilities (Wilde: “The more we study art, the less we care for nature”28). For Sontag, the emergence of a theatrical sensibility at odds with the natural is linked to the emergence of homosexuality. And, of course, Wilde’s work makes clear why. To the extent that the newly formed regime of heterosexuality staked its claim",
+      "source": "Jack Halberstam - Wild Things_ The Disorder of Desire (2020, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7423971,
+      "importance": 0.7790497541427612,
+      "final_score": 0.7423973083496094
+    },
+    {
+      "id": "c802027c63dfa89251d1788c",
+      "qdrant_id": "8f12df5c-4aa9-5721-a4fe-40210db5ee3a",
+      "text": "a similar strategy of thinking which is clearly opposed to Oliva and Jencks. Lyotard attacked them directly as proposing the submission of art to bare commercialism. Welsch did it indirectly by denouncing an-aisthesis. II Jencks and Oliva tell another story. Reconstructing or rather constructing a pattern out of their various contributions makes it possible to identify clear themes. The new aesthetics is primarily opposed to the avant-garde heritage, to the tradition of the new. No endeavour to do justice to the world, save it or even meliorate it via art or by the activities of the artist ‘without",
+      "source": "Stefan Morawski - The Troubles With Postmodernism (1996) - libgen.li (1).pdf",
+      "chunk_index": 186,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7421646,
+      "importance": 0.7792320847511292,
+      "final_score": 0.7421646118164062
+    },
+    {
+      "id": "048bae4b38534620187f6eec",
+      "qdrant_id": "f1207e18-eb16-5f86-9bb8-2edcd0c26178",
+      "text": "that her saving action consists in spilling his spinneret of semen in the one short hour which, by analogy with Penelope's nocturnal unweaving, might just as well take place at night. In the process, the sexual politics of this sonnet traverse the boundary between the actions being narrated (when a mistress unweaves her suitor's efforts as fast as he weaves them) and the action of producing that narration (the writing of a text that does its own linguistic weaving). If the speaker cannot achieve consummation in the former set of actions, he may nevertheless achieve erotic pleasure in the latter. At the same time, the chiasmus of ``So when I thinke to end that I begonne, / I must begin and neuer bring to end'' creates a self-referential ®gure from which there is no linguistic or logical escape. Although the lover's design has matrimony as its end, the sonnet also re¯ects a wish to end the whole frustrating business by simply quitting. (Relaxation is a",
+      "source": "(Cambridge Studies in Renaissance Literature and Culture) Dorothy Stephens - The Limits of Eroticism in Post-Petrarchan Narrative_ Conditional Pleasure from Spenser to Marvell-Cambridge University Pre.pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.74114496,
+      "importance": 0.7837667465209961,
+      "final_score": 0.7411448955535889
+    },
+    {
+      "id": "97411fd712ba0e1a4ce5087b",
+      "qdrant_id": "98d5389b-fd77-5ff3-832a-5723b7608255",
+      "text": "Whether in the violent, agitated and erratic formalisms of Assyrian art or in the playful negations of a Mallarme poem, art, according to Bersani, interprets the sexual by repeating it as perceivable forms rather than elaborating repressive substitutes or symptoms of sexual desire. Hence, the unreadable sexual can be read precisely by the excessive visibility of its subversion of narrative readability.72 If, then, as Bersani asserts, primary narcissism represents the originary subli- mation (that of the masochistically enjoyed disturbance of psychic equilibrium in auto-eroticism73 ), and if irony can also act as an ambiguously formalising principle within the erotic, what is the nature and purpose of literary sublimation in writing like Duras's which, while it may 'sparkle' due to a certain 'drollery' (Foucault)/4 nevertheless trades directly in primal fantasies of seduction a…",
+      "source": "James S. Williams (auth.) - The Erotics of Passage_ Pleasure, Politics, and Form in the Later Work of Marguerite Duras (1997, Palgrave Macmillan) [10.1007_978-1-137-09878-8] - libgen.li.pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.740009,
+      "importance": 0.776996910572052,
+      "final_score": 0.740009069442749
+    },
+    {
+      "id": "704eabca69a340087a3f1998",
+      "qdrant_id": "fbf8eae7-865a-59a4-a987-ffc70454b4fe",
+      "text": "an exploration of the artistic possibilities of this contradiction. THE EROTIC SUPPLEMENT The importance of the problem of language for Shelley's treatment of desire can be inferred from the relationship of \"On Love\" to its 4 W. B. Yeats, \"Prometheus Unbound,\" in Essays and Introductions (New York: Macmil- lan, 1961), 419. I am also indebted to Harold Bloom's reconstruction of Shelley's ca- reer as an \"internalized quest to reach the limits of desire,\" in Shelley's Mythmaking (1959; reprint, Ithaca: Cornell University Press, 1969), vii. 5 W. B. Yeats, \"The Philosophy of Shelley's Poetry,\" in Essays and Introductions, 65. 6 Paul de Man, Allegories of Reading: Figural Language in Rousseau, Nietzsche, Rilke, and Proust (New Haven: Yale University Press, 1979), 10. 7 For late eighteenth- and early nineteenth-century linguistic theory, see Hans Aar- sleff, From Locke to Saussure: Ess…",
+      "source": "(Princeton Legacy Library, 1120) William A. Ulmer - Shelleyan Eros_ The Rhetoric of Romantic Love-Princeton University Press (1990).pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7399533,
+      "importance": 0.7856929898262024,
+      "final_score": 0.7399533987045288
+    },
+    {
+      "id": "af613650245f0dc3638ac68c",
+      "qdrant_id": "9b84ebca-0989-5b86-8902-9762b7e02bc2",
+      "text": "images from Uklanski’s all-male series with provocatively posed nude self- depictions, both painted and photographed, and fragments of text that com- ment subversively on the gestures and issues raised by the exhibition. Two linked text fragments specifically invoke both the traditional Jewish image ban and Adorno’s after-Auschwitz redaction, only to beat both back with irony: “ ‘Jews don’t like images,’ I said, / ‘because images are charged’.” The specificity of Krystufek’s citation indicates that at least some of these artists are well aware of the history of the ethic of representation they are challenging. But while they are certainly transgressive of that ethic in their willingness to work with extreme images and prurient material, their works are rigorously consistent with other aspects of Adorno’s critique. However irreverent and insensitive the art may be to survivors and their m…",
+      "source": "[Studies in European Culture and History ] Gene Ray (auth.) - Terror and the Sublime in Art and Critical Theory_ From Auschwitz to Hiroshima to September 11 (2005, Palgrave Macmillan) [10.1057_9781403979445] - libg.pdf",
+      "chunk_index": 273,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.739607,
+      "importance": 0.7795546650886536,
+      "final_score": 0.7396069169044495
+    },
+    {
+      "id": "5b0b9448891b44c7a89c7d0f",
+      "qdrant_id": "cd92a23c-493b-504c-b71b-ef3353a5642e",
+      "text": "The view is belied in the actual facts of the poems from the past which we read, as well as in the poems of the present which are being written. Furthermore, it is a view which betrays a corresponding idealization of criticism, and in particular of the criticism practiced by Macherey and Althusser themselves.'^ Let me begin with the poems and their relation to ideology. As has been argued in the course of the previous study, and as Marx himself said in The German Ideology, works of art—depending as they do upon their special circumstances of production and of reproduction—will represent themselves, or be made to represent through our criticism, the widest possible 156",
+      "source": "Jerome J. J. McGann - The Romantic Ideology_ A Critical Investigation (1985, University of Chicago Press) - libgen.li.pdf",
+      "chunk_index": 435,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.73911184,
+      "importance": 0.7770358324050903,
+      "final_score": 0.7391117811203003
+    },
+    {
+      "id": "2052b3fdab4cc5f97d5396ae",
+      "qdrant_id": "dd697662-9080-57e5-b3c9-497d428f7f67",
+      "text": "C O L D N E S S A N D C R U E L TY Sodom hinges on tales told to the libertines by \"women chro­ niclers,\" and in principle the heroes may not take any initiative in anticipation of these tales. Words are at their most powerful when they compel the body to repeat the movements they sug­ gest, and \"the sensations communicated by the ear are the most enjoyable and have the keenest impact.\" In Masoch's life as well as in his fiction, love affairs are always set in motion by anony­ mous letters, by the use of pseudonyms or by advertisements in newspapers. They must be regulated by contracts that formalize and verbalize the behavior of the partners. Everything must be stated, promised, announced and carefully described before being accomplished. However, the work of Sade and Masoch cannot be regarded as pornography; it merits the more exalted title of \"pornology\" because its erotic language cannot be reduced to the elementary functions of ordering and describing.",
+      "source": "Gilles Deleuze, Leopold von Sacher-Masoch - Masochism_ Coldness and Cruelty by Gilles Deleuze, Venus in Furs by Leopold von Sacher-Masoch-Zone Books (2006).pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.73910356,
+      "importance": 0.7765741944313049,
+      "final_score": 0.7391032576560974
+    },
+    {
+      "id": "a72bd60f693f9f383b2be75a",
+      "qdrant_id": "2ed1d2cd-8555-52fe-af33-f724c97cc85b",
+      "text": "them their erotic appeal in the first place. This is of course a long argument, and it has been much better made by others, such as Rene Girard, especially in his superb commentary on Freud's 1911 essay \"On Narcissism\" in Des choses cachdes depuis lafondation du monde (a truly unfashionable book nowadays, but one that contains insights I continue to value).13 In turning away from us, the dead lover enacts the ruses of erotic desire itself, mimicking the characteristic unfindability of the erotic object, its simultaneous immanence in and transcendence of its material medium, its tendency to recede from the lover in his every attempt to possess it. That is precisely what appeals to Jean Genet about criminals: on virtually the first page of Journal du voleur, we read that criminals, \"as in love, withdraw from you, take their distance, and put me at a distance from the world and its laws.\"'4 Rilke's Nietzschean injunction, in the twelfth sonnet of the second se-",
+      "source": "Dr. Basil Dufallo, Dr. Peggy McCracken - Dead Lovers_ Erotic Bonds and the Study of Premodern Europe (2007, University of Michigan Press) - libgen.li.pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7384378,
+      "importance": 0.7803016304969788,
+      "final_score": 0.7384378910064697
+    },
+    {
+      "id": "9c9ec9b599605047c8cb078f",
+      "qdrant_id": "80bcecf5-ad7d-56fa-b00c-c72f63cd7df3",
+      "text": "While there are wide cultural swings during different eras in the degree to which sexual acts are suppressed or allowed expression, cultural critics have yet to explain the cultural background for the escalating public enactment of sadomasochistic sex. But the histor- ical origins of the icons contemporary sadomasochists invoke are self-evident. Susan Sontag called attention to the way the insignia of fascism—leather, Nazi helmets, steel spike collars, caps, and chains—had been recruited to sadomasochistic sexuality (Sontag, 1980, p. 105). Fascism was a radical, ultimately malevolent attempt to reconﬁgure power in the real world. It seems somewhat para- doxical that sadomasochists should have recruited this obscene historical legacy to provide the props with which to construct their own dress-up fantasies, but the reasons may reside in subliminal fantasies. Sontag viewed the use of such Nazi derived plot-lines as an overarching scenario in which “the fantasy is death”.",
+      "source": "Jean Petrucelli - Longing_ Psychoanalytic Musings on Desire (2006, Karnac Books) - libgen.li.pdf",
+      "chunk_index": 90,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7383622,
+      "importance": 0.7740199565887451,
+      "final_score": 0.7383619546890259
+    },
+    {
+      "id": "3cfa7d216b2f5982c3c7f935",
+      "qdrant_id": "d11cb528-da54-5e6d-a9da-7d03e96f32d8",
+      "text": "as to arouse it” (21). Viewers would do better, she thinks, to attend to the form of the images and their context, not just their content. In exposing what photography fails to do, Sontag suggests what she would like her writing to accomplish. Sontag clearly wants her writing to give access to what is real, transmit knowledge, and create the conditions for compassionate understanding and ethical action. Indeed, the project of many of Sontag’s best known, early essays is to protect reality from the distorting influence of repre- sentation. She wants her ideas to affect and change minds and culture. So at the end of On Photography, she announces, “If there can be a better way for the real world to include the one of images, it will require an ecology not only of real things but of images as well” (180). She calls for a “conservationist” approach to the dissemination of photograph…",
+      "source": "Ann Jurecic - Illness as Narrative (Composition, Literacy, and Culture)-University of Pittsburgh Press (2012).pdf",
+      "chunk_index": 287,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.74325836,
+      "importance": 0.785671055316925,
+      "final_score": 0.7374991178512573
+    },
+    {
+      "id": "3c97d8d7efe2e823e74f37dd",
+      "qdrant_id": "3b0b4621-398f-5489-b877-8827a2cfebaf",
+      "text": "expressed in sculpture? And so on. The texts on other images also help to deconstruct, in the crude sense of ‘show the contradictions in’, the assumptions of consumerism. For example, ‘Buy me I’ll change your life’ (1984) or ‘I shop therefore I am’ (1987). However, it has been pointed out that Kruger’s photographs get themselves into their own contradictions (from some feminist points of view), because they are as seductive as the commercial advertising they parody. They have been attacked for a consequent failure to be sufﬁciently politically effective. Are they a critique of the consumerist spectacle or a part of it? There is a good old- fashioned modernist formal achievement here, and so Kruger has also been attacked for the ‘graphic beauty’ of her work, let alone for showing it in a commercial gallery. The options here are as I suggested earlier: either to come within dominant discou…",
+      "source": "(Very Short Introductions) Christopher Butler - Postmodernism - A Very Short Introduction-Oxford University Press, USA (2003).pdf",
+      "chunk_index": 279,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7373563,
+      "importance": 0.7780019640922546,
+      "final_score": 0.7373562455177307
+    },
+    {
+      "id": "69c6426248f451786a016686",
+      "qdrant_id": "39b6a350-9013-51be-8f7f-f98cfeb5530c",
+      "text": "ful spots in nature, the purest movements of the Greek tragedies, the sparest lines of temples, would be finally reducible to eroticism. I would like to demonstrate virtually the opposite, i.e., that it is the appear- ances and thrusts oflove which should be interpreted from the symbol, to show at the very least that purely esthetic beauty on the one hand and erotic beauty on the other, have fundamentally the same structure. And we have already shown this, in essence, in underlining the symbolic scope of the nude. For in both cases (esthetic and erotic) it is a matter of symbols or of images, that is to say, objects which designate something other than themselves, which pose a question, and pose it without at the same time bringing the answer which could extinguish it. Every esthetic image (whether it be a fact of art or one of nature) is a disclosure which eludes, an imminenc…",
+      "source": "Enzo Paci (auth.), F. J. Smith, Erling Eng (eds.) - Facets of Eros_ Phenomenological Essays-Springer Netherlands (1973).pdf",
+      "chunk_index": 439,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7367985,
+      "importance": 0.7843417525291443,
+      "final_score": 0.7367985844612122
+    },
+    {
+      "id": "569b2a01342bad53ae90f22d",
+      "qdrant_id": "a988870a-a84e-5977-9cc9-591dba584c0e",
+      "text": "of gender binaries are to be admired, this interpretation seems to misread the process of Erika’s fragmentation that is traced through the trajectory of the film and fails to account for the horror that the rape invokes in the spectator. Additionally, there is a glaring mistake evident in such an interpretation: the equation of masochistic corporeal pleasures with the act of vaginal penetration. Erika’s letter makes no mention of such an act, indeed, the only penetration that occurs in the passage that Walter reads pertains to Erika’s tongue and his anus. The formula of ‘normal’ sex that has been reiterated over and over in Western discourse overwrites the deviant practices that the masochist covets. The extent to which Walter is in control in this scene is ambiguous, for his subjectivity is also thrown into chaos as the film progresses, but it is clear that this ‘rape’ is",
+      "source": "[Film Philosophy at the Margins] McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics (2014, Ashgate Pub Co) - libgen.li.pdf",
+      "chunk_index": 165,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7366871,
+      "importance": 0.7782326936721802,
+      "final_score": 0.7366870641708374
+    },
+    {
+      "id": "74d5e20e7f46937d935bfc0c",
+      "qdrant_id": "41e7c48d-d668-5a9b-96ab-fb125dff355e",
+      "text": "on the word “orgasm” but also by any of its typographical near- misses: organism, organic, once even Claus Ogerman, potentially but never in actuality organza. Evincing more than the usual allegiance of the scholar for her object, my momentarily suckering attraction to those words that have even some passing morphological resemblance—as when, picking up a familiar at the airport, I first recognize her in error several times in 1. Koestenbaum, Andy Warhol, 44, and Koestenbaum, Model Homes, 36. Preface",
+      "source": "Annamarie Jagose - Orgasmology (2012, Duke University Press) [10.1515_9780822397526] - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7366729,
+      "importance": 0.7767863869667053,
+      "final_score": 0.7366727590560913
+    },
+    {
+      "id": "220568464b2195f5237fda87",
+      "qdrant_id": "7255f3c6-d47e-50be-a5ac-09945cff25a5",
+      "text": "of “an erotics of art” because she wanted people to have a richer experience of art—to see, hear, and feel more (14). The turn to fiction, however, marks a shift in her understanding of how readers gain access to reality and meaning- ful experience. Early in her career, Sontag used her essays to defend Platonic truths that she believed were diminished by representation in literature or pho- tographs. In “In Plato’s Cave,” she coaxed her audience out of the cave of shad- ows and into the light of the sun to see the real. By turning to fiction, she now seems to understand Plato’s “Allegory of the Cave” differently: it is, after all, a story. Plato represents humans’ alienation from the truth using the vehicle of narrative. Novels will now provide Sontag with a medium for exploring the hu- man dramas and meanings that her critical essays kept at bay. After reinventing herself as a no…",
+      "source": "Ann Jurecic - Illness as Narrative (Composition, Literacy, and Culture)-University of Pittsburgh Press (2012).pdf",
+      "chunk_index": 303,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7363331,
+      "importance": 0.7767618298530579,
+      "final_score": 0.7363331913948059
+    },
+    {
+      "id": "8abe1159130ea9f7e8d1b48b",
+      "qdrant_id": "e1d0c532-6167-513a-a6e4-2e4ba03c192b",
+      "text": "such perverted content, in its turn, will impress the stamp of vulgarity on this form.”16 Even Walter Benjamin, whose account of the “withering” of the “aura” of the work of art “in the era of its technological reproducibility” can feel as elegiac as celebratory, declares that “art” “reacted” to the “advent of the ﬁ rst truly revolutionary means of reproduction” with “the doctrine of l’art pour l’art—that is, with a theology of art.”17 From the perspective of deconstruction, in which de Man’s last essays still constitute the last word, the sensory “seductions” of the aesthetic conceal a more originary violence that can only be confronted in the textual disarticu- lations disclosed through the experience of reading. It is impossible to work through the essays collected in The Resistance to Theory or Aesthetic Ideology without regarding them in an important sense as the extended dismantling of the premises and promises of the aesthetic—this “seductive notion” full",
+      "source": "Forest Pyle - Art's Undoing_ In the Wake of a Radical Aestheticism (2021, Fordham University Press) [10.1515_9780823290956] - libgen.li.pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7358168,
+      "importance": 0.7801210880279541,
+      "final_score": 0.7358168363571167
+    },
+    {
+      "id": "6343f9ac420c50d44d001628",
+      "qdrant_id": "9c6a29b8-aa27-5edb-bf4f-481dadb61aa9",
+      "text": "voice rises from street loud-speakers to resemble the howling of sirens announcing panic—from which modern propaganda can hardly be distinguished anyway. The National Socialists knew that the wireless gave shape to their cause just as the printing press did to the Reformation.70 Reproductive Aberrations It is perhaps unnecessary to emphasize that there is a certain gender subtext underlying Adorno’s denunciations. According to a familiar Pla- tonic logic, an uncontrolled mimetic series would be indistinguishable from the wanton propagation which makes potential bastards of every offspring. Even Telemachus is not so sure who his father is (1.216). Repro- ductive confusion at the aesthetic level suggests as always the fragility of the sexual contract. If the unproductive foreplay of the culture industry yields only the simulacral pleasures of false adversiting, its demonic self- replication would both soften the virile ‘‘ﬁrmness’’ of every subject and",
+      "source": "Penn State University Press - Feminist Interpretations of Theodor Adorno - libgen.li.pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7356938,
+      "importance": 0.7731623649597168,
+      "final_score": 0.7356938719749451
+    },
+    {
+      "id": "63c7f57b2c548372cf053da1",
+      "qdrant_id": "b132c09c-5a24-5bad-a46a-8233614f73f3",
+      "text": "there exists art that exactly fulfills these desirable criteria is made far too hastily. High art, if it is not hectoringly didactic, is usually never as indefatigably responsible as Sontag suggests it is, and low art, that which harbors one cliché too many, usually fails to completely abdicate the compunction to question the world it represents.",
+      "source": "Jonathan Lake Crane - Terror and Everyday Life_ Singular Moments in the History of the Horror Film-SAGE Publications, Inc (1994).pdf",
+      "chunk_index": 415,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.73564804,
+      "importance": 0.7677343487739563,
+      "final_score": 0.7356478571891785
+    },
+    {
+      "id": "5530565a01465372033e06da",
+      "qdrant_id": "52f86445-e067-5012-9a80-28efb48386d2",
+      "text": "texture. In other words, nothing is excluded from the text. It does not belong to the dialectical logic of dialogue, which is articulated in both the conjunctions and the disjunctions of discourses. The text is autonomous and independent of the speaker’s and listener’s subjectivity, of the reader’s and writer’s identity. Therefore we have an essentially important shift for aesthetics: the transit from “I feel” to “it feels.” The whole ﬁeld of all affections and emotions shifts into the neutral space of the text. If masochism is, as we have seen, the perversion of pleasure, fetishism is the perversion of literary work. Fetish is a kind of anima- tion of the inorganic, a coincidence of abstractiveness and materiality. In fact the text is, according to Barthes, something that feels, that desires, that enjoys. I I I . T H E E P O C H E¯ A N D T H E N E U T R A L In the philosophy of the seventies, Roland Barthes is, in my opinion, the",
+      "source": "Extreme Beauty Aesthetics, Politics, Death (James Swearingen, Joanne Cutting-Gray) (Z-Library).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "roland-barthes-lover-s-discourse-punctum-camera-lucida",
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7467916,
+      "importance": 0.7951839566230774,
+      "final_score": 0.7353920936584473
+    },
+    {
+      "id": "6611a4da59ab748c314d8e61",
+      "qdrant_id": "d626d292-e43b-5c96-b4d7-a7730631d454",
+      "text": "Jahrhunderts’, in Bremmer and Roodenburg (eds): 109–26. Sade, Donatien Alphonse François, Marquis de (2008 [1785]), The 120 Days of Sodom, Radford, VA: Wilder Publications. Saussure, Ferdinand de (1987 [1916]), Cours de linguistique générale, Paris: Payot. Schiller, Friedrich (2005 [1793]), ‘Über Anmut und Würde’, in Friedrich Schiller, Sämtliche Werke, vol. VIII: Philosophische Schriften, Berlin: Aufbau, 168–204. Sennett, Richard (1978 [1974]), The Fall of Public Man, New York: Vintage. Slouka, Mark (1995), War of the Worlds. Cyberspace and the High-Tech Assault on Reality, New York: Basic Books. Sontag, Susan (2001a [1964]), ‘Against Interpretation’, in Susan Sontag, Against Interpretation and Other Essays, New York: Picador, 3–14. Sontag, Susan (2001b [1964]), ‘Notes on “Camp”’, in Susan Sontag, Against Interpretation and Other Essays, New York: Picador, 275–92. Spinoza, Benedic…",
+      "source": "Robert Pfaller - Interpassivity_ The Aesthetics of Delegated Enjoyment (2017, Edinburgh University Press) [10.1515_9781474422949] - libgen.li.pdf",
+      "chunk_index": 398,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7350316,
+      "importance": 0.7768461108207703,
+      "final_score": 0.7350316047668457
+    },
+    {
+      "id": "6f7151d8ad4910067a778603",
+      "qdrant_id": "b243c618-9614-57a0-a07c-26c4cd08688d",
+      "text": "is an offense only in terms of a decorum that gives the gleatest honor to the artistic creations of a centripetal self. PyncbOD iil- sists instead that the issues he writes about and the probleDlS his literary manner brings to light are more important than anything he, as a writer, can ever say about them. But this offense becomes benign when it is removed from-the contexts of the romantic tradition and its successor, modemillD'. Both these traditions find the greatest seriousness in the act 01 im- agination. They therefore can have little tolerance for comedy, as they can never admit the possibility of a contradiction that is ,,'ithout pain. A ny contradiction is ultimately tragic in the romaD- tic and modernist world, for the only contradiction that world can recognize is one that di\"ides the world perceived and or- dered by the artist's imagination. and so divides and desbLOYS the artist's imagination itself. The closest approach these trad-",
+      "source": "Pynchon A Collection of Critical Essays (Edwin Mendelson (Editor)) (Z-Library).pdf",
+      "chunk_index": 15,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7333704,
+      "importance": 0.7722185850143433,
+      "final_score": 0.7333703637123108
+    },
+    {
+      "id": "48f0adb2d1d7d6a1be414da7",
+      "qdrant_id": "58b6ad98-1ea8-5539-9e85-6fd4d3696005",
+      "text": "ideology permits no such (maybe male-determined) ﬁguration of female desire? But this photo does not really represent the sexploitational posing of the beautiful woman as tease: this is the pose of a self-assertive woman wearing the semiotic signs of masculinity atop her nude body – a tie, low-slung jeans. If ‘fascist feminism’ meant prudish feminism, then the commodiﬁcation of the female body in male art (is this how to link Marxism and Art?) might be what such feminism underwrites by refusing woman the use of her own body and its pleasures. But what about the position of the addressed viewer: is it voyeuristic, narcissistic, critical? Can we even tell? Does this work problematize or conﬁrm the maleness of the gaze? I really cannot tell. In the face of the manifest contradictions of this work, it is tempting to say that, while Wilke is clearly playing with the conventions of pornographi…",
+      "source": "Linda Hutcheon - The politics of postmodernism (2002, Routledge) - libgen.li.pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7331222,
+      "importance": 0.7785301208496094,
+      "final_score": 0.7331221699714661
+    },
+    {
+      "id": "003ae58c3e7c5813816dcc88",
+      "qdrant_id": "1816c90b-a87d-5281-9828-34dd28340081",
+      "text": "E c h o e s 7 ridiculing the erotic babble of Tristan and Isolde— Eduard Hanslick was fond of this stratagem— not to mention that critics have always poked fun at the theatrical gesticulations of singers. All very unsexy, it seems. But if certain music is “erotic,” as the differing testimonies of Stoeckel, Kalbeck, and Lee make clear, what is it in the notes and sounds— in their melodies, harmony, orchestration, rhythm, and texture— that arouse thoughts of sexual desire? By comparison with the other arts, the an- swer isn’t straightforward. In the visual arts, the nude and semi- nude stare one plainly in the face as an arousing stimulus, which since Classical times has made routine refer- ences to the erotic unavoidable. It is true, of course, that some writers on art try to detach erotic reactions from erotic subject matter. In a cele- brated essay of 1933, for example, the phi los o pher Samuel Alexander",
+      "source": "Laurence Dreyfus - Wagner and the Erotic Impulse-Harvard University Press (2010).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7326461,
+      "importance": 0.7692816853523254,
+      "final_score": 0.732646107673645
+    },
+    {
+      "id": "5d65fcfe9314cf3e86488845",
+      "qdrant_id": "1b95be3a-8258-5d16-9aff-2f33ff7f2cca",
+      "text": "politics. It is of course Walter Benjamin who is most famous for cautioning us about the inﬂexible puriﬁcation of domains that lurks at the core of fascist ideology.24 In her critique of Nazi ﬁlmmaker Leni Riefenstahl, Susan Sontag has reminded us that fascism appeals to the masses most not by virtue of its brutality, but with its beautiful images and sentiments.25 Increasingly, then, my study was becoming evaluative and ethical, in the “cultural studies” sense that I have described above, or concerned with a politics of representation of various others. By 2001 it had transformed itself into a study of what I was calling the ethics of those aesthetics. For a variety of reasons, my readers, however, convinced me that the manuscript was not yet ready for publication. As I reorganized, rewrote, and rethought each of the sections of the manuscript in keeping with those readers’ recommendations, I also began to feel constrained by the limita-",
+      "source": "[Routledge Contemporary Japan Series] Cornyetz, Nina_Kawabata, Yasunari_Mishima, Yukio_Shinoda, Masahi - The Ethics of Aesthetics in Japanese Cinema and Literature_ Polygraphic Desire (2008_2007, Routledge) - lib.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7321682,
+      "importance": 0.7747821807861328,
+      "final_score": 0.7321683168411255
+    },
+    {
+      "id": "aff697df4ed9ea04fe59fcc9",
+      "qdrant_id": "922f5c12-a6bb-5ddf-9954-48d996add912",
+      "text": "I N T R O D U C T I O N As a graduate student she becomes conscious of the implications of Picasso's virility: he was a good fucker, and he had imbued his images with brazen sexuality, as only a man can. Her brazen sexuality, alive from before she drew Dora Maar and always strong, could be misread so as to identify her only as a romantic or a good fuck. She was a good fucker. The pornerotic body subverts simple romanticism and sexualization, for it smells, smiles, bleeds, and shits, thus living beyond the boundaries of fine art's myths and murders. The pornerotic body plays with the tra- dition of fetishizing and sentimentalizing the female nude, but creates its own myths through autoeroticism. In Part One, \"Fucking Around,\" I meddle with the art world's recent veneration of fashionable theory. As the title of the chapter on \"Fuck Theory\" suggests, I treat theory with playful and erotic disrespect in hopes of asserting an expansive and accessible erotic theory. \"Mouth",
+      "source": "Joanna Frueh - Erotic Faculties-University of California Press (2020).pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.73168755,
+      "importance": 0.7778317928314209,
+      "final_score": 0.7316876649856567
+    },
+    {
+      "id": "dc99b68ca22896c1704db5eb",
+      "qdrant_id": "ed5e7acb-d8fd-5280-9ea9-154f0c3e4891",
+      "text": "Sontag would probably object to such a statement. For Sontag, the photo- graphic image never interprets us. At best, it aﬀects us. The role of aﬀect in photography is in fact far more important for Sontag than any capacity of interpretation it may or may not have. It is particularly so, Sontag goes on to aﬃrm, for war photos. Butler indicates that, for Sontag, in times of war, the “transitive aﬀectivity of the photograph may overwhelm and numb the viewers.”9 Numbed viewers are less likely to understand what the reality that the photo allegedly depicts is about. Their capacity of interpretation is thus further dulled, unless narrative/textual explanations or captions accompany the image. Still, for Sontag, this incapacity of war photography to achieve or enable greater meaning is not only expected but also acceptable, because war photos serve a diﬀerent and crucial function. War photos, S…",
+      "source": "[Interventions] François Debrix, Alexander D. Barder - Beyond Biopolitics_ Theory, Violence, and Horror in World Politics (2012, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 21,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7513524,
+      "importance": 0.7894287109375,
+      "final_score": 0.7306025624275208
+    },
+    {
+      "id": "45dddb6167db5bc524839be3",
+      "qdrant_id": "0653a08e-3fc1-5fc5-8120-3c3dcd2ee02c",
+      "text": "12 S!ISAN SONTAG the way Woolf does, to vivify the condemnation of war, and may bring home, for a spell, a portion of its reality to those who have no experience of war at all. However, someone who accepts that in the world as currently di- vided war can become inevitable, and even just, might re- ply that the photographs supply no evidence, none at all, for renouncing war-except to those for whom the no- tions of valor and sacrifice have been emptied of mean- ing and credibility. The destructiveness of war-short of total destruction, which is not war but suicide-is not in itself an argument against waging war unless one thinks (as few people actually do think) that violence is always unjustifiable, that force is always and in all circumstances wrong-wrong because, as Simone Weil affirms in her sublime essay on war, \"The Iliad, or The Poem of Force\" (1940), violence turns anybody subjected to it into a thing.* No, retort those who in a given situation see no",
+      "source": "Susan Sontag - Regarding the Pain of Others (2004, Picador) - libgen.li.pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.73015094,
+      "importance": 0.7694759368896484,
+      "final_score": 0.7301508784294128
+    },
+    {
+      "id": "03099be092a85e887a99a247",
+      "qdrant_id": "bd00cd8b-bb09-5276-8bf0-15afe5f884e1",
+      "text": "Taking Account of Poetry upon the sense of their name, ars, and that massive drift affecting the gen- eral sense of a word that was supposed to be subject to the authority of the aesthetic-it is hardly surprising that this exhibition should not be ac- companied by a disqualifying of major \"art\" and a rediscovery-itself a major event-of its own technicity. Prosody, poetic meter, the canonical determinations of form, poetic \"license,\" as well as lexical or syntactic freedom, \"real sonority\" (Hegel), all these things insist within us, they cluster together, so to speak, in Celan's auseinandergeschrieben--and be- yond. I obviously do not mean that the ode or the sonnet, the hexameter or the caesura, is waiting for us on our immediate horizon; but I do mean that the tension of which they were the outcome is back-never having gone away, never having been capable of going away. In that case let me add something else: once poetry is approached from",
+      "source": "Jean-Luc Nancy (editor)_ Simon Sparks (editor) - Multiple Arts_ The Muses II (2006, Stanford University Press) [10.1515_9781503618923] - libgen.li.pdf",
+      "chunk_index": 62,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.72991765,
+      "importance": 0.7734769582748413,
+      "final_score": 0.7299176454544067
+    },
+    {
+      "id": "5b88d1531c527dba536a98dd",
+      "qdrant_id": "b4bca587-881e-51d6-9679-291682da125c",
+      "text": "132 Language and sexuality in countless personal ads makes its own contribution to reproducing and naturalizing them. When desire is expressed or represented in language (and there are many genres and speech events devoted to that purpose, from personal ads to pornography and from high-ﬂown love sonnets to crude locker-room ban- ter), it is intelligible because it draws on codes of signiﬁcation that circulate within the wider society – in Eckert’s terms, they are ‘external and shared’. Individuals cannot choose not to have their desires understood in terms of prevailing social norms – that is why some women still say ‘no’ when they would like to say ‘yes’ (see chapter 2, note 9), and why some men still refuse to take ‘no’ as a deﬁnitive answer. Of course Keith Harvey and Celia Shalom (1997: 1) have a point when they suggest, following Lacan, that erotic experience always exceeds the capa…",
+      "source": "Deborah Cameron, Don Kulick - Language and Sexuality-Cambridge University Press (2003).pdf",
+      "chunk_index": 525,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.72928447,
+      "importance": 0.7746995091438293,
+      "final_score": 0.729284405708313
+    },
+    {
+      "id": "da14faffaad34a79763b3f51",
+      "qdrant_id": "94c30fb8-33ba-512c-bed0-1c2eb5a57f60",
+      "text": "2. For a description of pornographic looking, see Carby (2004). 3. As we have seen, Malek Alloula diagnoses the effects and politics of postcards of Algerian women taken by the French occupying Algeria, and Zahid Chaudhary discusses the role of the camera in the British occupation of India. 4. It is interesting to note that Sontag concludes that photography accomplishes a feat to which literature hopelessly aspires—simultaneously providing a copy of reality and an inter- pretation of it—while using metaphors of textuality, interpretation, and transcription to de- scribe photography. In other words, even while attributing a privilege to photography over literature. 5. Slavoj Žižek says “the real in its extreme violence as the price to be paid for peeling off the deceiving layers of reality,” a reality that became suspect in the nineteenth century with the so-called masters of suspicion, N…",
+      "source": "Kelly Oliver, Alison Suen (editor) - Response Ethics-Rowman & Littlefield (2018).pdf",
+      "chunk_index": 150,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7527499,
+      "importance": 0.7947427034378052,
+      "final_score": 0.7291090488433838
+    },
+    {
+      "id": "fa4707bde6e137e88b221588",
+      "qdrant_id": "a93bbe2b-9cf3-5dfd-b433-554f4f62a9ad",
+      "text": "Introduction opposition \"phallic/castrated'\" .80 Montefiore makes a convincing case; but it is troubling that Irigaray, judging by her style, can conceive of female discourse only in the form of gush, as if incontinence were the equivalent of liberation. To speak as women, it seems we are obliged to echo the unpunctuated rhapsody of Molly Bloom, in which the flow of words is ill-distinguished from the flow of bodily secretions; yet the notion that liquidity in discourse is superior to dryness is based on a bizarre confusion of the orifices. Whatever the future of women in language, it would be sad if Irigaray's ethics of 'mucosity' displaced the keener energies of women's wit, for 'brevity', as Dorothy Parker has observed, 'is the soul of lingerie' . Julia Kristeva also turns her attention to the pre-Oedipal in order to explore what Freud as described as the 'dark continent' of femininity; yet her work, in my opinion, is much richer and",
+      "source": "[Longman Critical Readers] Ellmann, Maud - Psychoanalytic Literary Criticism (1994, Routledge) - libgen.li.pdf",
+      "chunk_index": 102,
+      "page": null,
+      "seed_hits": [
+        "irigaray-two-lips-sexual-difference-fluids"
+      ],
+      "raw_score": 0.6771052,
+      "importance": 0.775170087814331,
+      "final_score": 0.7277717590332031
+    },
+    {
+      "id": "a18eb6acbbe9cf18b5c5c6a6",
+      "qdrant_id": "71db7a97-fe83-5ff4-a230-218ff5323326",
+      "text": "Susan Sontag (b. 1933) is an American cultural critic and fiction writer. She has published essays on a vast range of subjects: philosophy, style, \"camp\", film, pornography, fascism, photography, and illness. But the main issues she tackles are concerned with aesthetics and ethics. Her critical essay on Illness as Metaphor (1978) examines how illnesses such as TB and cancer have been seen as mysterious afflictions. Metaphors are constructed according to the trends of the times. 77",
+      "source": "Sophia Phoca - Introducing Postfeminism-Totem Books (1999).pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.82211906,
+      "importance": 0.8297344446182251,
+      "final_score": 0.6991286277770996
+    },
+    {
+      "id": "b8617e8db7f2eaaa9117b124",
+      "qdrant_id": "183368ab-cd92-53a4-96eb-a18f6f0a36c9",
+      "text": "secret, the smaller enigma.”9 In contrast, the erotic is never free of secrecy. Contra Agamben, a face loaded with exhibi­ tion-value to the point of bursting promises no “new collec­ tive use of sexuality.”10 Indeed, exhibition destroys any and all possibilities for erotic communication. A naked face without mystery or expression—reduced simply to being on display—is obscene and pornographic. Capitalism is aggra­ vating the pornographication of society by making every­ thing a commodity and putting it on display. Knowing no other use for sexuality, it profanes eros—into porn. On this score, Agamben’s “profanation” amounts to just so much profanity. This profanation is unfolding as deritualization and desacralization. Today, ritual spaces and actions are disap­ pearing. The world is becoming more naked and more",
+      "source": "[Untimely Meditations] Byung-Chul Han, Erik Butler, Alain Badiou - The Agony of Eros (2017, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 78,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art"
+      ],
+      "raw_score": 0.7356338,
+      "importance": 0.7779389023780823,
+      "final_score": 0.6543052792549133
+    }
+  ]
+}

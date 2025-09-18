@@ -1,0 +1,1223 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "mark-fisher-capitalist-realism-depression-hauntology",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "7ee4ccd095e43e441f8689d1",
+      "qdrant_id": "f5450bfc-c2be-5322-bab5-c1d7628350a3",
+      "text": "in terms of more modern ‘realistic’ hauntology, it is just the props and the paraphernalia that are different. It does not matter really if hauntology is seen through a phenomenological or psychoanalytical lens. These forces haunt traditional rationality itself, which is presumably why they are such prominent features in the gothic genre. To understand Fisher’s idea of hauntology, one must first grasp what he means by capitalist realism. Basically, this means that capitalism has now become so pervasive that it is not even possible to imagine an alternative. However, what Fisher emphasises in addition is the obstinacy of the ghost itself, no matter what form it takes. 25 ­ 26 J. WRETHED",
+      "source": "(Palgrave Gothic) Joakim Wrethed - Gothic Hauntology_ Everyday Hauntings and Epistemological Desire-Palgrave Macmillan (2023) (1).pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.78921545,
+      "importance": 0.8189756870269775,
+      "final_score": 0.7892155647277832
+    },
+    {
+      "id": "21650e25b8705da5b01e3a79",
+      "qdrant_id": "c82e01b9-9738-5ac9-83cb-fb96e060583d",
+      "text": "Shining: killing yourself and family is not the sort of thing you would for- get, and not the sort of thing you could possibly remember (i.e., that which must be repressed). Killing hope for the future is what haunts Fisher and his readings of popular music from 1980 to 2010, the mood of futures foreclosed (“being haunted by events that had not happened, futures that failed to materialize” as he quotes Derrida) (2014: 106). “What is being longed for in hauntology is … the resumption of the processes of democ- ratization and pluralism” (27). Fisher’s arguments are fascinating, all the more so, because of his own temporality. Just as Fisher writes that neither Derrida, nor Jean Baudrillard, would live to see the full effects of cyberspace or techno-tele-discursivity and simulacra that they wrote about (and that he suggests Specters of Marx is importantly about), so too Fisher’s analyses feel very much still waiting,",
+      "source": "Sadeq Rahimi (auth.) - The Hauntology of Everyday Life (2021, Palgrave Pivot) [10.1007_978-3-030-78992-3] - libgen.li.pdf",
+      "chunk_index": 340,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.8017853,
+      "importance": 0.8262971043586731,
+      "final_score": 0.7684109210968018
+    },
+    {
+      "id": "58e1ec164f9f22e79c485054",
+      "qdrant_id": "b325b091-68b8-592b-9feb-fa1c2c382470",
+      "text": "Paul Morley, were accused of cashing in on Curtis’s death. This is very far from the intention of this chapter which seeks, above all, to demonstrate the resonances between Fisher’s writing and the music of Joy Division as being intricately bound up with multiple processes of haunting extending towards industrial modernity itself. Nevertheless, the fact of Fisher’s death, like Cur- tis’s before him, is inevitably caught up in these hauntological relations. HAUNTOLOGY, SONIC HAUNTOLOGY AND THE SPECTRALITY OF RECORDED MUSIC First used in Jacques Derrida’s Spectres of Marx (2006 [1994]), hauntology refers to a specific relationship with the past, in which the past, specifically the past of labour struggle and communism is not dead and buried but exerts a call and an ‘injunction’ on the present. Reading Marx alongside Hamlet’s communing with ghosts and sense that time is ‘out of joint’, Derrida contends",
+      "source": "(Popular Musics Matter_ Social, Political and Cultural Interventions) Martin J. Power (editor)_ Eoin Devereux (editor)_ Aileen Dillane (editor) - Heart and Soul_ Critical Essays on Joy Division-Rowman.pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.8251874,
+      "importance": 0.8419834971427917,
+      "final_score": 0.7670688629150391
+    },
+    {
+      "id": "a51b13f121f1d1ce29303960",
+      "qdrant_id": "97bc20a3-61ae-59ef-ace1-1012f115c654",
+      "text": "tities that were in any case poor fiction” (28). But in the twenty-­first cen- tury, it had been “reduced to being a mirror held up to late capitalist subjectivity” (ibid.). Hauntology was the term that Fisher and a few other music critics adopted/adapted (a blue note difference) from Derrida (like his différance that extends the note, deferring, differing) to designate both the mood and the sonic experimentation with the nervous system. The ghosts here, he writes, are not supernatural, but the traumatically Real in the Lacanian sense, having to do also with the link between social anomie and psycho- pathology, depression, and breakdown, linked in the political economy and individual mental health. He illustrates the traumatic Real with the memory block and double bind in Stanley Kubrick’s 1980 film The Shining: killing yourself and family is not the sort of thing you would for-…",
+      "source": "Sadeq Rahimi _ Byron J. Good _ Michael M.J. Fischer - The Hauntology of Everyday Life-Palgrave Macmillan (2021).pdf",
+      "chunk_index": 339,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7620615,
+      "importance": 0.7988086938858032,
+      "final_score": 0.762061595916748
+    },
+    {
+      "id": "a229a5a8f2cdddf12b3e9ae8",
+      "qdrant_id": "bcebd7eb-968b-55a5-9476-342cd933f7cb",
+      "text": "this capitalist framework establishes a new cultural reality that Mark Fisher calls capitalist realism. Although Fisher (2009, p.7) differentiates capitalist realism from postmodernism through its comparably ‘deeper, far more pervasive, sense of exhaustion,’ this inescapable reality of capitalism resonates with twenty-­first-­century uses of postmodernism. The chaotic reality produced by post-­Cold War capitalist culture is both inescapable and in perpetual states of crisis, exemplifying a range of postmodernism’s stylistic features – fragmentation, disillusionment, hedonism, hypervio­ lence, and abstraction. The continued critical repurposing of postmodern­ ism, embedded within post-­Cold War capitalism, provides a means of navigating the intensified mechanisms of consumption, excess, and deregu­ lation while acknowledging a ‘stuckness’ within this epochal moment within America…",
+      "source": "MATT. GRAHAM - Postmodernism, Twenty-First Century Culture, and American Fiction_ Establishing the Continuum-Routledge (2024) (1).pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.756757,
+      "importance": 0.791014552116394,
+      "final_score": 0.7567571401596069
+    },
+    {
+      "id": "b58eb5007d874e3edf0ba995",
+      "qdrant_id": "718cbb35-c15f-5e6f-b052-0e893d795b28",
+      "text": "Fisher calls capitalist realism (Fisher 2009). As Fisher puts it, echoing both Fredric Jameson and Slavoj Žižek, today “it is easier to imagine the end of the world than it is to imagine the end of capitalism”(2). Even as we shudder with apocalyptic premonitions, we are haunted by “the widespread sense, not only that capitalism is the only viable political and economic system, but that it is now impossible even to imagine a coherent alternative to it.” In such a world, the future is no longer open. We have an inescapable sense that “the future harbours only reiteration and repermutation. Could it be that there are no breaks, no ‘shocks of the new’ to come? ” (Fisher 2009, 3). For all processes, and all relations, have been captured in the form of saleable commodities. This is the real meaning of Hegel’s and Kojève’s “end of history” (Fukuyama 1993). Capitalism not only “subsumes and cons…",
+      "source": "Post Cinematic Affect (Shaviro, Steven) (Z-Library).pdf",
+      "chunk_index": 227,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7546729,
+      "importance": 0.7893557548522949,
+      "final_score": 0.7546731233596802
+    },
+    {
+      "id": "88db1efdb805772c3487a9e0",
+      "qdrant_id": "3e6f3838-0096-516e-8485-2bd2f482c086",
+      "text": "‘avant-conservative,’ its unwavering repetitions - denoting stylistic differing iterations, yet continually regurgitating the same pulsating form. Some find it transiently impassive, others latently reactionary and others imminently intense - regardless, Flatline Constructs comments on the indeterminate tendency, the falling rate of aesthetics, which starts from the crevasse of the abyss and still looks down. Fisher’s work was devoted to explaining, disseminating and delineating the concept of capitalist realism through criticism, amounting to decades of k-punk, which typed lines of criticism on innumerable prolific and mass-mediated trends, phenomena, events, etc. Claims made throughout Fisher’s most commercially distributed/cited, the very contagious Capitalist Realism: is there no alternative?, tend to come full stop in a general diagnosis of cultural melancholia as resulta…",
+      "source": "Mark Fisher - Flatline Constructs_ Gothic Materialism and Cybernetic Theory-Fiction - libgen.li.pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.753652,
+      "importance": 0.7864308953285217,
+      "final_score": 0.7536520957946777
+    },
+    {
+      "id": "a168aba2f85bd1825870eadb",
+      "qdrant_id": "76369922-cc32-50cc-aa13-4931920a7efc",
+      "text": "tated and are more evidently and more immediately available.”69 As the discussion brings us back to the questions of hauntology and transmission of affect, I would like also to make an undeservedly brief mention of the work of Mark Fisher here, in which we can find the beginnings of an ideal convergence of these themes of interest toward a more comprehensive model for hauntology. Networked Subjectivity and Virtual Agency In his brilliant treatment of what one might think of as a stoppage of rapid change, and an abrupt end to the twentieth century’s defining fantasy of “progress,” Mark Fisher traces a picture of the twenty-first century as a haunted era, one in which a more or less finite set of structures of feeling continue to be reproduced by each coming generation, as if haunted by a history that has just fallen victim to its unanticipated end—to the cancel- lation of its future. The reliance of contemporary artists on styles and",
+      "source": "Sadeq Rahimi (auth.) - The Hauntology of Everyday Life (2021, Palgrave Pivot) [10.1007_978-3-030-78992-3] - libgen.li.pdf",
+      "chunk_index": 185,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.8175156,
+      "importance": 0.839989960193634,
+      "final_score": 0.7525137662887573
+    },
+    {
+      "id": "874b59695a54795976b62ea7",
+      "qdrant_id": "b5f2e2c7-5c97-526d-9aa5-fd37f298412a",
+      "text": "For my wife, Zöe and my son, George Mark Fisher is the author of Capitalist Realism: Is There No Alternative? (Zer0, 2009). His writing has appeared in many publications, including Sight & Sound, The Wire, The Guardian, Film Quarterly and frieze. He is Programme Leader of the MA in Aural and Visual Cultures at Goldsmiths, University of London, and a lecturer at the University of East London. He lives in Suffolk.",
+      "source": "Mark Fisher - Ghosts of My Life_ Writings on Depression, Hauntology and Lost Futures-Zero Books (2014).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7495929,
+      "importance": 0.7772691249847412,
+      "final_score": 0.7495929002761841
+    },
+    {
+      "id": "65fd05b0000436b0c95ee1b6",
+      "qdrant_id": "4ee379e8-0397-56ab-9cd8-9dc5141fe73a",
+      "text": "could think in terms of region or nation, a luxury now reserved for the most benighted and reactionary elements of many societies, whose sheer blindness to the ways of the world today can be registered in the perplexities of transnational finance alone, never mind the thoroughly imbricated matters of production, trade, energy policies, diplomatic and military relations, ecological development and degradation, and so on. One reason that the end of the world may be easier to imagine than the end of capitalism is that the former seems more real—this is Fisher’s point in using the term “capitalist realism”—partly because many of us feel that we are already experiencing an end-of-the-world in progress. For example, in his diagnosis of the contemporary experience of “living in the end times,” Žižek organizes his analysis along the lines of the fabled five stages of grief (Denial, A…",
+      "source": "Robert T. Tally Jr. - The Fiction of Dread_ Dystopia, Monstrosity, and Apocalypse (2024, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 443,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7481595,
+      "importance": 0.783699095249176,
+      "final_score": 0.7481595277786255
+    },
+    {
+      "id": "fb5020972b68d85a17e8635e",
+      "qdrant_id": "77c0f560-118c-5217-8568-b7079bd8cb45",
+      "text": "Recent Hauntology Studies Ever since the 1990s and the publication of Derrida’s Specters of Marx, hauntology has haunted literary studies, and various aspects of ghosts within prose fiction have been scrutinised on different ontological levels. However, it is also useful to have a look at some more recent studies of hauntology in order to situate the coming chapters theoretically. Mark Fisher had an almost uncanny ability to diagnose the contemporary ideo­ logical situation. In Ghosts of My Life, he pursues a hauntology that he claims has saturated our time to such an extent that we hardly discern the phenomenon any longer. Since Fisher mainly traces hauntology in popular fiction, he probably has the ability to capture its most recent shape and the speed with which it moves, or perhaps more accurately, the speed with which it loses speed and almost gets stuck in a frenzy of recycling, posing as perpetual novelty.",
+      "source": "(Palgrave Gothic) Joakim Wrethed - Gothic Hauntology_ Everyday Hauntings and Epistemological Desire-Palgrave Macmillan (2023) (1).pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.8164483,
+      "importance": 0.8318760395050049,
+      "final_score": 0.7379916906356812
+    },
+    {
+      "id": "3e117e6edf4b8c5b396b2e90",
+      "qdrant_id": "d98cd107-e61f-5e8b-8bcc-fc7aa3b1866a",
+      "text": "predicament that we have! Through examples from daily life and popular culture, but without sacrificing theoretical stringency, he provides a ruthless portrait of our ideological misery. Although the book is written from a radically Left perspective, Fisher offers no easy solutions. Capitalist Realism is a sobering call for patient theoretical and political work. It enables us to breathe freely in our sticky atmosphere.’ Slavoj Žižek ‘What happened to our future? Mark Fisher is a master cultural diagnostician, and in Capitalist Realism he surveys the symptoms of our current cultural malaise. We live in a world in which we have been told, again and again, that There Is No Alternative. The harsh demands of the ‘just-in-time’ marketplace have drained us of all hope and all belief. Living in an endless Eternal Now, we no longer seem able to imagine a future that might be different from the p…",
+      "source": "Mark Fisher - Ghosts of My Life_ Writings on Depression, Hauntology and Lost Futures-Zero Books (2014) (1).pdf",
+      "chunk_index": 2,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7377865,
+      "importance": 0.7766970992088318,
+      "final_score": 0.737786591053009
+    },
+    {
+      "id": "82938b39c6c4a80c70a6c93a",
+      "qdrant_id": "c54d2e9c-60ce-518c-892b-5d66fdce39e6",
+      "text": "son in 1984 claimed that the “Unconscious” had been captured by cir- cuits of multinational capital, he surely couldn’t have predicted (nor could anyone else) that epidemics of “bipolar disorder” would sweep through whole preschool populations and ­require—­of ­course—­new, expensive, brand-name pharmaceuticals for treatment.11 Postmod- ernism is not enough to describe this neoliberal scene. Fisher suggests that capitalist realism might be. Postmodernism could still remember precapitalist enclaves with enough nuance to produce a nostalgia for them; it could still look to the Eastern bloc for a site of economic otherness. Indeed, whether de facto Eastern communism offered a vi- able alternative or not, its existence provided a trope for the Western,",
+      "source": "(New American canon) La Berge, Leigh Claire_ Shonkwiler, Alison - Reading Capitalist Realism-University of Iowa Press (2014).pdf",
+      "chunk_index": 19,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7365833,
+      "importance": 0.7704200744628906,
+      "final_score": 0.7365832924842834
+    },
+    {
+      "id": "a842ab0d9a8e9f5d18bf659d",
+      "qdrant_id": "ccfa7a89-e9c5-5975-bbd6-57f090058f92",
+      "text": "the cancellation of the twin futures of modernity and modernism. What was already sensed and felt in 1977 is now realized as the dystopic imposition of what Fisher labelled Capitalist Realism (2009) and which is summed up in the neo-liberal Thatcherite slogan, ‘there is no alternative’. But hauntology, as a temporal mode, is already more oriented to the past than the future, or rather to an idea of the future predicated on a haunted relationship with the ghosts of the past. In Fisher’s hauntological terms, Berardi’s paradoxical insight that in some way fundamentally connected to the 1970s we are now ‘after the future’ becomes or rather became expressed by the sense of the ‘slow cancellation of the future’ (Fisher 2013, 13ff.). Fisher especially associated this cancellation of the future with popular music and its declining capacity to produce the new: ‘If the late 1970s and early 80s were the moment when the current crisis",
+      "source": "(Popular Musics Matter_ Social, Political and Cultural Interventions) Martin J. Power (editor)_ Eoin Devereux (editor)_ Aileen Dillane (editor) - Heart and Soul_ Critical Essays on Joy Division-Rowman.pdf",
+      "chunk_index": 85,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.8020084,
+      "importance": 0.8226958513259888,
+      "final_score": 0.7335011959075928
+    },
+    {
+      "id": "2be9fcee8b79efbdc87e6f5a",
+      "qdrant_id": "8da7e8a7-48bb-5b55-b0df-fcb3043ffb71",
+      "text": "in part so as to anchor the left/right division in strongly distinct and opposing values. But he also does this to show what he means by “market.” And this is important, because the content of “general will” is rather vague. If he cannot say precisely what it is he is for, he can at least specify what he is against. In a text that scrupulously avoids any robust engagement with economic analysis, he ultimately defines market as “an aggregate of individual interests.” Here, at the end of his book, Fisher attempts to go beyond realism, to define the politics of anti-mimesis. But his attempt is critically weakened because his picture of the anti-government left lacks just what a strong fiction could provide him: a robust and detailed vision of the “general will.” The fictions he has surveyed are either bad capitalist ­realisms—­works that pretend to describe capitalist reality …",
+      "source": "(New American canon) La Berge, Leigh Claire_ Shonkwiler, Alison - Reading Capitalist Realism-University of Iowa Press (2014).pdf",
+      "chunk_index": 112,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7305684,
+      "importance": 0.7713744044303894,
+      "final_score": 0.7305683493614197
+    },
+    {
+      "id": "d1b283d2408acd5cfb492e40",
+      "qdrant_id": "dafcbd4d-ccf2-5b29-9232-1dfdd82b4d5a",
+      "text": "and simulacra that they wrote about (and that he suggests Specters of Marx is importantly about), so too Fisher’s analyses feel very much still waiting, anticipating, trying to forecast from the present side of a digital transition that is still emerging. He underscores the fascination of the artists of this period in prior forms of recording and particularly the 1970s, the sounds 6 EPILOGUE BY MICHAEL M.J. FISCHER: HAUNTOLOGY’S GENESIS…",
+      "source": "Sadeq Rahimi _ Byron J. Good _ Michael M.J. Fischer - The Hauntology of Everyday Life-Palgrave Macmillan (2021).pdf",
+      "chunk_index": 341,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7303037,
+      "importance": 0.7730788588523865,
+      "final_score": 0.7303038835525513
+    },
+    {
+      "id": "4406b93dbed6400d88d1e0e2",
+      "qdrant_id": "34c9b7a2-a223-5a17-88dc-a53fa1a420b1",
+      "text": "biological and psychological manifestations. Thus, with the phrase ‘‘bank- ing on panic’’ I assume that in the Victorian period the human body and psyche are containers of the culture’s anxieties not only about capitalism but also about the transition from competitive capitalism to monopolistic capitalism. That capitalism adores risk, individualism, and the return of the repressed, then, implies that in a capitalist society there is a need for investments in panic. In such a system, the subject is motivated by the panic caused by the fact that there are no assurances that the economy will not cycle through a depression at any time and there are few safety nets if that depression occurs as one faces retirement, catastrophic illness, divorce, natural disaster, racism, sexism, or any of the other variables that enter into heightening the level of individual emotional and economic disaster experienced in a market crash. I have chosen to study Villette, Little",
+      "source": "(Cambridge Studies in Nineteenth-Century Literature and Culture) Gail Turley Houston - From Dickens to Dracula_ Gothic, Economics, and Victorian Fiction-Cambridge University Press (2005) (1).pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7284303,
+      "importance": 0.7677326798439026,
+      "final_score": 0.7284305095672607
+    },
+    {
+      "id": "47b6aef03533669f7ec3a21e",
+      "qdrant_id": "53ee57cf-dc1a-529d-990a-faaea9314675",
+      "text": "96\b Sounding spectres post-political indifference. We could say that global hauntology effects a practical deconstruction of traditions, institutions and identities but offers little by way of an impetus towards alternative constructions. Mark Fisher conceives the hauntological injunction in the form of the return of ‘ghosts of the Real’ to be enlisted in a struggle against the terminal, zombie state of neo-liberalism which precisely suppresses the real (2006a). The Real which is, for Fisher (after Žižek), a founding trauma which we cannot remember but are nevertheless compelled to retrieve, can act as a psychic defibrillator, a nihilatory force to shock the ‘dead’ back into life: ‘If the revolutionary tumult of the post-punk era was characterised by restless dissatisfaction, anxiety, uncertainty, rage, harshness, unfairness – that is, by an atmosphere of relentless ­criticism – today’s Pop scene is suffused with laxness, bland acceptance, quies-",
+      "source": "[International Gothic Series] Fred Botting_ Catherine Spooner (editors) - Monstrous media_spectral subjects_ Imaging Gothic from the nineteenth century to the present (2015, Manchester University Press) [10.7765_97.pdf",
+      "chunk_index": 360,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.72683775,
+      "importance": 0.7806555032730103,
+      "final_score": 0.7268376350402832
+    },
+    {
+      "id": "78a9b25bc09240d232821e4c",
+      "qdrant_id": "66097f33-9109-5e88-86bd-c718295f060e",
+      "text": "and innovation, culture has become increasingly homogenized and predictable. It’s no accident either that, at the same time as entertainment and pleasure have become so easily available, depression is on the rise, particularly amongst the young. That’s what I was trying to get to in my discussion of hedonic depression in Capitalist Realism: the in- ability to go beyond the pleasure principle doesn’t produce perpetual pleasure, but an endless insomniac drift. Isn’t our experience after",
+      "source": "(New American canon) La Berge, Leigh Claire_ Shonkwiler, Alison - Reading Capitalist Realism-University of Iowa Press (2014).pdf",
+      "chunk_index": 93,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.72355676,
+      "importance": 0.7616971135139465,
+      "final_score": 0.7235569953918457
+    },
+    {
+      "id": "a42ec2ff65d131c7cb86d38f",
+      "qdrant_id": "ffc94f54-b72a-52e0-a79e-b49b15a791fd",
+      "text": "Speculations I 22 the first place, the gestalt shift produced by information and communication technologies, yet another force is contribut- ing to the intellectual distancing from the past decades: the political status quo of the western societies. Today’s young philosophers have to confront themselves with what Mark Fisher has defined ‘Capitalist Realism’, the general feeling of inevitability regarding the capitalist struc- ture, the ‘widespread sense that not only is capitalism the only viable political and economic system, but also that it is now impossible even to imagine a coherent alternative to it’.37 Even if aiming to find new ways to counteract it, this new generation has formed its intellectual commitments within this climate of political staleness, therefore developing a radically different set of expectations (and hopes) viz. social change and revolution. As Fishe…",
+      "source": "Paul J. Ennis - Speculations I (2020) - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.72311383,
+      "importance": 0.7700865268707275,
+      "final_score": 0.7231137156486511
+    },
+    {
+      "id": "e561f4bdccd40c04503b72fc",
+      "qdrant_id": "95413ff0-28d7-5d9c-897e-bf2313a173f0",
+      "text": "to convey the truth of the subject. The reconciliation of cybernetic space, and the fabulation of its virtual potential, has led one delusional (read: deleuzional) astray with a youthful affirmation and optimism, celebrating the end times of histories and humans alike. But decisively, in Flatline Constructs, Fisher negotiates an episodic delineation on cyberspace - and all its fictions - with a devoutly acidic pessimism, at times teetering on a nihilism, that theorizes what comes after its crystalline instantiation: the decay, the rumination, the rust of it all. For Fisher, the interjection of cyberspace does not create, but supplements the current dismal reality as a mirror of the austere times and corroded imagination of its world subjects. As in the most critically dystopian fantasies of our times, the plot gravitates at the release of gradations of traumas, the pre-Oedipa…",
+      "source": "Mark Fisher - Flatline Constructs_ Gothic Materialism and Cybernetic Theory-Fiction - libgen.li.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.722892,
+      "importance": 0.7836085557937622,
+      "final_score": 0.7228920459747314
+    },
+    {
+      "id": "aefb444c06d95f7aa11e61b0",
+      "qdrant_id": "cd30f0bd-66ae-5118-b2bd-68e94bf88fbb",
+      "text": "to rarefied theoretical discourses as he is participating in more accessible fora in his capacities as an author and critic (Miéville 2008). Mark Fisher’s The Weird and the Eerie (2017), while very much emerging from his theo- retical background is a lucid and accessible essay on manifestations of the Weird across a range of media. Fisher argues that the mode can be identi- fied in the post-punk records of The Fall or the hallucinatory science fic- tion of Philip K. Dick, as much as the classic weird tales of M. R. James. Overall, The Weird and the Eerie is a demonstration and reinforcement of Lovecraft’s argument that ‘memorable fragments’ of the Weird are to be found everywhere (Fisher 2016). Negotiating Genres The present study is commensurate with Joshi’s and Miéville’s argument that the Weird Tales iteration of weird fiction in the 1920s and 1930s was only the conclusion of a ‘high phase’ of such writing which began in the",
+      "source": "(Palgrave Gothic) James Machin - Weird Fiction in Britain 1880–1939-Springer International Publishing_Palgrave Macmillan (2018) (1).pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.71959853,
+      "importance": 0.768455982208252,
+      "final_score": 0.7195983529090881
+    },
+    {
+      "id": "6330accf5e9c9c81148ac35c",
+      "qdrant_id": "b0fb5ec9-3bad-589c-b3d0-3b3b79b1c785",
+      "text": "and reconstructions of the sonic Hauntology in the 1980s–2010s, to the catalyzing and self-generating growth of new social processes to underpin our expanding electronic arts and bioarts understandings of worlds where the present is an unstable construct, realism is never natural but labored and peopled, and where datum and factum oscillate making appearances disappear and return otherwise in the uncanny, and the Real. References Derrida, J. (1994). Specters of Marx: The State of the Debt, the Work of Mourning, and the New International. Trans. P. Kamuf. Routledge. Fisher, M. (2014). Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures. John Hunt Publishing. S. RAHIMI",
+      "source": "Sadeq Rahimi _ Byron J. Good _ Michael M.J. Fischer - The Hauntology of Everyday Life-Palgrave Macmillan (2021) (1).pdf",
+      "chunk_index": 374,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7650801,
+      "importance": 0.7982693314552307,
+      "final_score": 0.7194087505340576
+    },
+    {
+      "id": "2e5de8b7cac1bcabcf2c6c9b",
+      "qdrant_id": "085cb9a8-e5c9-5f56-8280-736eb8c5abad",
+      "text": "genesis of the present depression collapse of the global economy can be read as the return of the soul. perfect machine of Neoliberal ideology, based on the rational of economic factors, is fulling to bits because it was based on flawed assumption that the soul can be reduced to mere rationality. dark side of the soul-fear, anxiety, panic and depression-has surfaced after looming for a decade in the shadow of the touted victory and the promised eternity of capitalism. In this short conclusion I want to consider twO different meanilogs of the word depression. By this word we mean a special kind of mental suffering, but the general shape of the global crisis that is darkening the his­ torical horizon of our time. This is nor Simple wordplay, this is not only a metaphor, but the interweaving and interacting of psycho­ logical flows and economic processes. In the year 2000 the A…",
+      "source": "[Semiotext(e) foreign agents] Franco _Bifo_ Berardi - The soul at work_ from alienation to autonomy (2009, Semiotext(e)) - libgen.li.pdf",
+      "chunk_index": 444,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7188255,
+      "importance": 0.7621671557426453,
+      "final_score": 0.7188255786895752
+    },
+    {
+      "id": "4bd0d35227df0186d90517bf",
+      "qdrant_id": "b779f13d-bb9e-54a9-bfe3-a803e151a5d7",
+      "text": "essentially recalls the plasticity of capitalism, since capitalist reality ‘is akin to the multiplicity of options available on a digital document, where no de- cision is final, revisions are always possible, and any previous moment can be recalled at any time’ (Ibid., 54). I think that this parallel casts an unfairly gloomy light on an instrument—the Internet—whose open structure has certainly engendered new phenomena of digital indifferent individualism, but that presents no inherent connivance with capitalist rule, and that in fact can as well be one of the main mediators for the formation of that new kind of political agency that Fisher calls for. 36 Taking the ‘Speculative Realism Aggregator’ (an aggregator website that links to a series of blogs related to speculative realism) as a crude sample, we can already see that eleven of the twenty-two blogs listed there are run b…",
+      "source": "Paul J. Ennis - Speculations I (2020) - libgen.li.pdf",
+      "chunk_index": 101,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.71445763,
+      "importance": 0.7618364095687866,
+      "final_score": 0.7144576907157898
+    },
+    {
+      "id": "8ffed372d9d8e60d2bb05d6d",
+      "qdrant_id": "7f811f34-64ab-5c62-9f29-800f395a4f96",
+      "text": "work' of city love-making; the damages of contemporary American capitalism: 'the machine is gradual, it takes a little of you at a time, it leaves the shell. It was all right as long as they stuck to dead things, the dead can defend themselves, to be half-dead is worse. They did it to each other also, without knowing'. But the dead father is threatening rather than reassuring: all reconciliations with such elemental forces, the powers of the gods in the landscape or in the self, are provisional. 'I laugh, and a noise comes out like something being killed: a mouse, a bird?' There is some further complexity. If the uncanniness of this -passage from Surfacing can be understood in quite conventional terms as a symptom of readjustment, or the lack of it, we are still under the aegis of the traditional, positivist Freud: nothing is quite by chance, everything signifies; even accid…",
+      "source": "Allan Gardner Lloyd-Smith (auth.) - Uncanny American Fiction_ Medusa’s Face-Palgrave Macmillan UK (1989).pdf",
+      "chunk_index": 563,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory",
+        "duras-minimalism-absence-presence-the-malady-of-death",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7539324,
+      "importance": 0.7972862124443054,
+      "final_score": 0.7136859893798828
+    },
+    {
+      "id": "4bd77ea1b92c10cf6bad78e6",
+      "qdrant_id": "96f811e4-815b-5bf4-ab2f-26663bbe0cf2",
+      "text": "83 Mark Fisher: Hauntological Music, Times Out of Joint, and Gaming for Justice You don’t have to believe in the supernatural to recognize that the family is a haunted structure. p 43 Where the unconscious was, there CGI (3-D computer generated imagery) shall be. p. 215 what is being longed for in hauntology is … the resumption of the processes of democratization and pluralism (27) —Mark Fisher, Ghosts of My Life Justice, Rahimi following Derrida suggests, is like a sling shot around a black hole, always only approaching the goal, and hence keeping things in play, for the next shot at justice around the black hole of Kafka’s trials, always trying to remedy the last injustice. And this Rahimi reminds us is not just justice for individuals, but the more serious business of social jus- tice. The ghosts of histories past enact obscured sets of desires. “The important advantage of formu…",
+      "source": "Sadeq Rahimi _ Byron J. Good _ Michael M.J. Fischer - The Hauntology of Everyday Life-Palgrave Macmillan (2021) (1).pdf",
+      "chunk_index": 331,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7615067,
+      "importance": 0.7932426929473877,
+      "final_score": 0.713121235370636
+    },
+    {
+      "id": "bc0c942380f71cc1d43a0a88",
+      "qdrant_id": "e885e8ea-23f8-560b-a86c-0af86a09f031",
+      "text": "hauntology is especially apparent in his book Ghosts of My Life (2013) which begins its first section on the ‘Return of the 1970s’ (49–96) with a chapter on Joy Division (50–63), adapted from an earlier blog post ‘Nihil Rebound’ (2005). Given Fisher’s more than semiautobiographical concerns with depression and lost futures, which along with hauntology make up the subtitle of the book, it is perhaps not surprising that Joy Division would be a key ref- erence point here, albeit among such disparate company as the TV adaptation of John Le Carré’s Tinker, Tailor, Soldier, Spy (1979); the novels of David Peace; Life on Mars (2006–2007); and even that bête noir of UK televisual memory Jimmy Saville. Joy Division stand out among these ‘contemporary’ 1970s ghosts and is rather more connected to the second ‘Hauntology’ section of the book whose electronic music examples range between John Foxx (the former front person of Joy Division contemporaries Ultravox and best known",
+      "source": "(Popular Musics Matter_ Social, Political and Cultural Interventions) Martin J. Power (editor)_ Eoin Devereux (editor)_ Aileen Dillane (editor) - Heart and Soul_ Critical Essays on Joy Division-Rowman.pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "hauntology-and-cancelled-futures",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.75775725,
+      "importance": 0.7885754108428955,
+      "final_score": 0.7129891514778137
+    },
+    {
+      "id": "1cd4f29093d5c296d4afdec4",
+      "qdrant_id": "4fd598b0-db1a-585e-b01e-5f181f697c43",
+      "text": "pop culture, politics, and personal life under the affective regime of digital capitalism. The most admirable qualities of Fisher’s work are its lucidity, reflecting the urgency of his commitment to communicating ideas; his high expectations of popular art’s power to challenge, enlighten, and heal; and his adamant refusal to settle for less. Simon Reynolds, author of Retromania and Rip It Up and Start Again A must read for modernists, and for anyone who misses the future. This is the first book to really make sense of the fog of ideas that have been tagged as “hauntology”. Ghosts Of My Life is enjoyable, progressive and exciting. Bob Stanley, author of Yeah Yeah Yeah: The Story of Modern Pop and member of Saint Etienne Praise for Capitalist Realism ‘Let’s not beat around the bush: Fisher’s compulsively readable book is simply the best diagnosis of our predicament that we have! Through ex…",
+      "source": "Mark Fisher - Ghosts of My Life_ Writings on Depression, Hauntology and Lost Futures-Zero Books (2014) (1).pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.71224797,
+      "importance": 0.7562427520751953,
+      "final_score": 0.7122480869293213
+    },
+    {
+      "id": "9fc91fa5566ae62c224d73d5",
+      "qdrant_id": "c0e669a8-98eb-58a4-8aee-4cfbbf37a42f",
+      "text": "List of Figures\b ix 1. Introduction\b 1 2. Purging the Rottenness from the System: The Blessed and the Damned in the Great Depression\b 27 3. “I Saw One Woman Faint”: Toward a Sociology of Panic\b 51 4. Fear Itself: Polio, Unemployment, and Other Things on the Doorstep\b 86 5. Awe: Toward a Depression Sublime\b 120 6. A Sordid, Futureless Mess? Love in Hard Times\b 153 7. What You Want to Hear: Hope in the Great Depression\b 186 8. “The Hazards and Vicissitudes of Life”: The Emotional Life of the Social Security Act\b 213 Notes\b 241 Bibliography\b 281 Index\b 293 Contents",
+      "source": "John Marsh - The Emotional Life of the Great Depression (2019, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7119354,
+      "importance": 0.7610323429107666,
+      "final_score": 0.7119354009628296
+    },
+    {
+      "id": "12e67e16b78eef037add84f8",
+      "qdrant_id": "405287e7-2c0a-573c-b183-ea017dc85e0c",
+      "text": "162 162 FURTHER READING introducing an alternative take to familiar themes in postmodern theory. Mark Fisher, Capitalist Realism: Is There No Alternative? (Winchester, UK: Zero Books, 2009). In this short text, Mark Fisher looks at some of the cultural developments that have taken place in the period following postmodernism. Drawing on arguments made by Fredric Jameson, Slavoj Žižek, and Gilles Deleuze, Fisher proposes the concept of “capitalist realism” to describe the contemporary form of cynical ideology. Hal Foster, ed., The Anti-​Aesthetic: Essays on Postmodern Culture (New York: New Press, 1998). The essays in this anthology are some of the first major works to define and develop the key theses on postmodern visual and cultural theory. Its approaches combine critical and cultural theory with art history and criticism. David Harvey, The Condition of Postmodernity (Oxford: Blackwell, 1989). In this book, Harvey develops a political economic analysis for the",
+      "source": "[Film Theory in Practice] Matthew Flisfeder - Postmodern Theory and Blade Runner (2017, Bloomsbury Academic) [10.5040_9781501311789] - libgen.li.pdf",
+      "chunk_index": 477,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.71120405,
+      "importance": 0.7591172456741333,
+      "final_score": 0.7112041711807251
+    },
+    {
+      "id": "99be1e9bb58209161db5bd19",
+      "qdrant_id": "82ff5ae4-dd79-5e67-907c-e6df7e2b4eef",
+      "text": "84 depressive and thinking of the democracy to come. The music Fisher invokes begins to explore the idea of minds as data-scapes that can be infiltrated, that are open to neoliberal manipulation, quite different from the imaginary of social democracy. The neoliberal imaginary is a techno- logical flatness devoid of any charge of the uncanny, “where the uncon- scious was, there CGI [3-D computer generated images] shall be” (215), the mind as a military zone rather than post-1960s’ psychodelia. Psychoanalysis becomes self-help inception. Fisher picks the year 1985 as a key turning point, when the times became obviously out of joint: the year of the bitter defeat of the Miners’ strike , a year after the Handsworth riots (documented in John Akmofrah and the Black Audio Film Collective’s Handsworth Songs), and political collectivities violently being decom- posed, soon after the 1979…",
+      "source": "Sadeq Rahimi _ Byron J. Good _ Michael M.J. Fischer - The Hauntology of Everyday Life-Palgrave Macmillan (2021).pdf",
+      "chunk_index": 334,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7095651,
+      "importance": 0.7570944428443909,
+      "final_score": 0.7095650434494019
+    },
+    {
+      "id": "9bf192ae12347040da6f70b4",
+      "qdrant_id": "599c9a4f-fe3a-5ba8-926a-f6d4aeafd3c9",
+      "text": "of progress, despite]. B. Bury's well-known attempt to celebrate it, had been condemned by W. R. Inge, the Dean of St Paul's, as a 'pernicious superstition'; and by Austin Freeman who, in Social Decay and Regeneration, suggested that the West was regressing at an accel- erating rate due to the degenerative effects of industrialism on both the environment and the human psyche.6 Sigmund Freud's view of history was equally pessimistic. Indeed, his entire system of ideas was shot through with pessimism, from his account of the individual ego, attempting to steer its precarious course through the irreconcilable demands of the 'pleasure princi- ple' and the 'reality principle' to the vision of civilisation itself turned neurotic by the repressions required to ensure its survival. His version of cultural decline, set out in Civilization and Its Discontents (1929), was not so much of …",
+      "source": "Oliver Bennett - Cultural Pessimism_ Narratives of Decline in the Postmodern World (2022, Edinburgh University Press) [10.1515_9781474464345] - libgen.li.pdf",
+      "chunk_index": 7,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.70811,
+      "importance": 0.7596110701560974,
+      "final_score": 0.7081100344657898
+    },
+    {
+      "id": "4c7adcddfb1b7ca3516d3368",
+      "qdrant_id": "a784699b-0e7b-5551-a892-9f60e280e76f",
+      "text": "is all the more dreadful when one considers all the creatures in the water with you, as well as those to be found along the riverbank in the distance. Sassoon also notes that, in writing of the old world dying and the new one struggling to be born in 1930, Gramsci may not have been quite as sanguine about that moment’s prospects as are the many who quote the lines in reference to the present conjecture today. After all, the “new” that Gramsci was seeing at the time was the rise and spread of fascism, and there was likely much about the “old” that he would like to see preserved and maintained in the future. As Sassoon puts it, Marxists traditionally saw crises as opportunities for radical change. Gramsci, so much closer to us, is less optimistic. The conjuncture he was describing was an “interregnum” teeming with “morbid",
+      "source": "Robert T. Tally Jr. - The Fiction of Dread_ Dystopia, Monstrosity, and Apocalypse (2024, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 357,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7051263,
+      "importance": 0.7604236006736755,
+      "final_score": 0.7051261067390442
+    },
+    {
+      "id": "8d339fa4b3b738f674355ca6",
+      "qdrant_id": "d337cec6-d9fd-55d3-b758-15ab13789c8f",
+      "text": "We are obsessed with death, war, science, absence, emptiness, solitude, excess, and inﬁnity, and it is a bad obsession, for in it a morbid vertigo seems to be combined with the impossibility of inscribing them in an economy, that is to say, also in an ecol- ogy, and, in general, in an oikos, in a dwelling, in a habitation, and within a familiarity (which is some- thing other than familiality). The evidence for this impasse is precisely the fact that the word ‘‘economy’’ means to us nothing more than the ‘‘icy waters of selﬁsh calculation’’ [Marx, Capital], whereas the word ecology ﬂoats on the same waters devoid of compass and concept. That is why, on every side, we rail against nihil- ism, against negativism, against all forms of retreat, suspension, ﬁnitude, or impossibility, judged wrongly or rightly—and most often wrongly and confusedly—to be either morbid or suicidal. In their place, we ask for afﬁrmation or value, decision and resolve, and from this perspective a symmetrical",
+      "source": "[Perspectives in continental philosophy] Jean-Luc Nancy, Franson Manjali - Philosophical chronicles (2008, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 107,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.70499027,
+      "importance": 0.7722514867782593,
+      "final_score": 0.7049903273582458
+    },
+    {
+      "id": "a07e04be51970838cfec14eb",
+      "qdrant_id": "18a81a7f-16a6-5e62-9af7-87fa4a5fa66d",
+      "text": "WHAT PEOPLE ARE SAYING ABOUT GHOSTS OF MY LIFE After the brilliance of Capitalist Realism, Ghosts Of My Life confirms Mark Fisher’s role as our greatest and most trusted navigator of these times out of joint, through all their frissons and ruptures, among all their apparitions and spectres, past, present and future. David Peace, author of the Red Riding Quartet and Red or Dead Mark Fisher reads the contemporary world like no other analyst of its miseries and madness and mores. He is driven by anger but, miraculously, he never forgets to celebrate, when that reaction is apposite. I find his work exhilarating, fascinating, deeply engaging and, not least, utterly vital; this world we have made for ourselves would be a lesser place without it. Niall Griffiths, author of Sheepshagger Ghosts Of My Life confirms that Mark Fisher is our most penetrating explorer of the connections between pop cu…",
+      "source": "Mark Fisher - Ghosts of My Life_ Writings on Depression, Hauntology and Lost Futures-Zero Books (2014).pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.70488715,
+      "importance": 0.7523897290229797,
+      "final_score": 0.7048871517181396
+    },
+    {
+      "id": "fbad8cbe4a6409a9eb128468",
+      "qdrant_id": "4e4dcec2-fdae-5dd1-9bdb-91cc638e8aaf",
+      "text": "86 of television, audio tape, and vinyl. He chronicles a time before MP3 and full digitalization. He identifies of what he calls capitalist realism with Frederic Jameson’s Postmodernism and Francis Fukuyama’s The End of History (nothing outside of capitalism can exist), though this seems both ideologically distorted, and running against his own curiosity about new technological affordances within (in the cracks of, the blue notes in) digi- tal worlds. Sonic tracings of times out of joint as a stratigraphy of the present, Fisher shows, are available in electronic popular music. They provide a series of experiments with sounds that had no pre-existing correlates (much like Baudrillard’s definition of simulacra as copies with no original). These experiments tested also how memory is technologically materialized in different time-stamped moments of music history (“a staining of pla…",
+      "source": "Sadeq Rahimi _ Byron J. Good _ Michael M.J. Fischer - The Hauntology of Everyday Life-Palgrave Macmillan (2021) (1).pdf",
+      "chunk_index": 342,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7038537,
+      "importance": 0.7564006447792053,
+      "final_score": 0.7038537263870239
+    },
+    {
+      "id": "00247937333e883a51541838",
+      "qdrant_id": "58f3318c-f6ba-540e-b8b3-e2cc2bae43c2",
+      "text": "Introduction m 5 repetition of accumulations producing far more actual pain than pleasure for all concerned. Informed by the immediately preceding, the third chapter, “The Self- Cleaning Fetish: Repression Under the Shadow of Fictitious Capital,” examines money as it features in both Marxism and psychoanalysis. Of course, money is the epitome of Marx’s fetishized commodity. And in Marxist discussions of the connected topics of currency and commodity fetishism (as reliant mainly on Capital, volume 1), it often is left underappreciated that such fetishism reaches its apotheosis only with the development of interest- bearing money- as- capital (i.e., with the emergence of fictitious finance capital in the guises of credit, banking, etc. as dealt with in Capital, volume 3). In psychoanalytic treatments of money from Freud onward, monetary means usually are tied to libidinal sources and stages in the subject’s ontogenetic life",
+      "source": "Adrian Johnston - Infinite Greed_ The Inhuman Selfishness of Capital (Insurrections_ Critical Studies in Religion, Politics, and Culture)-Columbia University Press (2024).pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7032273,
+      "importance": 0.7571672797203064,
+      "final_score": 0.7032273411750793
+    },
+    {
+      "id": "a23ede0f47e3d775e4ac4300",
+      "qdrant_id": "b2d7ac83-bbc7-56af-87b1-1b38c732c748",
+      "text": "Speculations I 38 speculative-realism/. 35 See, for example, Nicholas Carr’s well known 2008 article on The Atlan- tic, titled ‘Is Google Making Us Stupid?’ (Carr 2008) and his forthcoming The Shallows: What the Internet Is Doing to Our Brains (2010). Note that, his positive assessment of the philosophy blogosphere notwithstanding, Mark Fisher can also be said to be in substantial agreement with Carr. He claims that the younger generations are ‘too wired to concentrate’ and that ‘[t] he consequence of being hooked into the entertainment matrix is twitchy, agitated interpassivity, an inability to concentrate or focus.’ Mark Fisher, Capitalist Realism: is there no alternative? (Hants: Zer0 Books, 2009), 24. More than that, Fisher goes as far as suggesting that the structure of the internet essentially recalls the plasticity of capitalism, since capitalist reality ‘is akin to the multiplicity of options available on a digital document, where no de-",
+      "source": "Paul J. Ennis - Speculations I (2020).pdf",
+      "chunk_index": 100,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.702217,
+      "importance": 0.7532591223716736,
+      "final_score": 0.7022171020507812
+    },
+    {
+      "id": "13f6c3c9a3cedea2e0c4eb56",
+      "qdrant_id": "3f29d672-aa9a-5d22-a021-1abb4f9d7543",
+      "text": "for cyberpunk theory-fi ction. The chronological prophecy from 19991 to 2000 is either entirely a fabrication suspect to illusions of ends or an underlined portrayal of the ongoing climatological yet air-conditioned disaster in progress both hiding the conceit that contemporary (of Fisher’s time and ours) culture is a ruinous disaster, vacuously invaluable. Optimistic postulates to the contrary are relapsed simulations of Minervian owls, serpentine coils, twittering birds, redemptive angels facing forward. Fisher never printed Flatline Constructs; it remained dispossessed from any material form. But, it lied archived and formatted for anyone’s immediate search, side by side with the many web 1.0 radical informational hubs as it still 1. November 1999: Anarchists in Seattle spread over crowning downtown accomplishments of Empire and globalism, broadcast live from the select Seat…",
+      "source": "Mark Fisher - Flatline Constructs_ Gothic Materialism and Cybernetic Theory-Fiction - libgen.li.pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.701656,
+      "importance": 0.7670212388038635,
+      "final_score": 0.7016559839248657
+    },
+    {
+      "id": "ae62d1de7e1c939bda2dbf3b",
+      "qdrant_id": "5098009c-4d46-5a57-bd02-c5f6b0670c94",
+      "text": "Fellows, I am especially grateful. Untold comforts and luxuries— intellectual, crea- ture, and social—were afforded me during that Michaelmas term as a Visiting Research Fellow at Merton. My ﬁ nal and special acknowledgment goes to my husband Frank Keefe, who has seen me through, unwavering, during the year and a half the book has taken to ready for press. viii Acknowledgments contents Introduction 3 part i History: Intellectual and Medical History of Melancholy and Depression 27 1. Melancholia in the Writing of a Sixteenth- Century Spanish Nun 29 2. Melancholy: History of a Concept 37 3. Melancholy and Melancholia 58 part ii Categories: Melancholy and Depression as Medical, Psychological, and Moral Concepts 73 4. Is this Dame Melancholy? Equating Today’s Depression and Past Melancholia 75 5. The Psychiatry of Cross-Cultural Suffering 94 6. Epidemic Depression and Burtonian Melancholy 97",
+      "source": "Jennifer Radden - Moody Minds Distempered_ Essays on Melancholy and Depression-Oxford University Press, USA (2009).pdf",
+      "chunk_index": 7,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7002547,
+      "importance": 0.7527219653129578,
+      "final_score": 0.7002547979354858
+    },
+    {
+      "id": "8ae6903648b8f354d4ede447",
+      "qdrant_id": "99419cd0-78a6-57b8-9a7b-0d2947414dfc",
+      "text": "Trump’s energising of a significant sector of the rural working class has seen them demonised as monstrously out of control. As this study has tried to prove, the continuing discomfort that many in the U.S. feel “when forced to acknowledge the existence of poverty” (Isenberg, 319) finds its most interesting representation in the nation’s horror fiction. Whether this means horror is a politically transgressive format or a con- servative “safety valve” (Johnson, 105) negating radical feeling is a mat- ter for subjective interpretation. What cannot be disputed is that horror addresses the blind spots in the national psyche, providing a platform for what Isenberg describes as the “disturbing thread in our national nar- rative” (321). Be it in the form of the serial killer or the vampire, the Lovecraftian Great Old Ones or the zombie, the genre serves as a tool through which the reader can come face to face with the terrors that",
+      "source": "[Palgrave Gothic ] David Simmons (auth.) - American Horror Fiction and Class_ From Poe to Twilight (2017, Palgrave Macmillan) [10.1057_978-1-137-53280-0] - libgen.li.pdf",
+      "chunk_index": 163,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69863755,
+      "importance": 0.7543143033981323,
+      "final_score": 0.6986374855041504
+    },
+    {
+      "id": "4f7d7973ae0a8149a40eb7cf",
+      "qdrant_id": "951abf7f-d7aa-51e4-88fe-8c27634da0fc",
+      "text": "3. Chris Harman, “Zombie Capitalism”, Socialist Worker, (23 June 2009), https://socialistworker.co.uk/art/17914/Zombie%20capitalism 4. Owen Hatherley, Militant Modernism, (Zer0, 2009) “We Have to Invent the Future”: An Unseen Interview with Mark Fisher (2012) 1. Mark Fisher interviewed by Tim Burrows and Sam Berkson, posthumously published in Quietus, (22 January 2017), http://thequietus.com/articles/21616-mark-fisher-interview- capitalist-realism-sam-berkson Hauntology, Nostalgia and Lost Futures: Interviewed by Valerio Mannucci and Valerio Mattioli for Nero (2014) 1. Mark Fisher interviewed by Valerio Mannucci and Valerio Mattioli for Nero Magazine, Summer 2014, http://www.neromagazine.it/n/?",
+      "source": "Mark Fisher, Darren Ambrose (editor) - K-punk_ The Collected and Unpublished Writings of Mark Fisher-Repeater (2018).pdf",
+      "chunk_index": 177,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6985948,
+      "importance": 0.7493413090705872,
+      "final_score": 0.6985949873924255
+    },
+    {
+      "id": "a823dee8d0d513fb077b063d",
+      "qdrant_id": "76bbb102-2743-5f94-affb-216f2c030e82",
+      "text": "of The Communist Manifesto, which opens with the infamous statement that ‘A specter is haunting Europe—the specter of communism’ (Derrida, 1994, p. 20). This dual focus on spectrality and on Marx, is mobilized to segue into a wider discussion of the specters that haunt both Marx’s writ- ing and the spirit of Marxism that now haunts the contemporary world (Derrida, 1994, p. 64). 13. Mark Fisher, Capitalist Realism (Winchester: Zero Books, 2009) p. 2. 14. See also Jean Baudrillard, The Illusion of the End (trans.) Chris Turner (Stanford: Stanford University Press, 1994); Jean-Francois Lyotard, Postmodern Condition: A Report on Knowledge (Theory & History of Literature) (Manchester: Manchester University Press, 1984). 15. Derrida, 1994, p. 107. 16. Derrida, 1994, p. 54. 17. Jospeh Natoli and Linda Hutcheon (eds.) A Postmodern Reader (New York: State University Press of New York…",
+      "source": "Katy Shaw - Hauntology-Springer International Publishing_Palgrave Macmillan (2018).pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6982187,
+      "importance": 0.7713087797164917,
+      "final_score": 0.6982187628746033
+    },
+    {
+      "id": "6934be75d7eb94fc4bdd8bec",
+      "qdrant_id": "a20ff064-3129-5bd5-a9a9-5dfe6ace1b32",
+      "text": "How can practitioners and scholars of psychoanalysis worry about theo- retical challenges when the dire twins of psychopharmacology and HMOs appear so steadfastly intent on starving Freud’s creature to death? For- get the academic debates! Today what is truly doing psychoanalysis in is capitalism’s good old-fashioned market logic. In these unusually difﬁcult times for psychoanalysis, it is not surpris- ing that its inﬂuence within ﬁlm theory has been fading as well. The ﬁrst (and perhaps the last) nail in the cofﬁn was the 1996 publication of David Bordwell and No¨el Carroll’s massive anthology, Post-Theory: Reconstructing Film Studies. The title is admirable for the economy with which it expresses both major claims made by the book’s editors, namely that (a) psychoan- alytic ﬁlm theory had acquired so much status as to become Film Theory tout court (note their ironic use in the book of capital letters F and T); and (b) the damages caused to the ﬁeld by psychoanalysis’ alleged pre-",
+      "source": "[Cambridge studies in film] Schneider, Steven Jay - Horror film and psychoanalysis_ Freud's worst nightmare (2009, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69805026,
+      "importance": 0.7532155513763428,
+      "final_score": 0.6980501413345337
+    },
+    {
+      "id": "0cd2b36278c72a5fbc8d435e",
+      "qdrant_id": "de48f839-4224-540e-889e-7e3f2a013ad2",
+      "text": "disaster and the other sees possibilities for all sorts of wonderful things. These various forecasts are projections as they say, they even use the same word: projections. So we have to read these projections psychologically. What archetype is speaking in this or that projection? Also interesting—and we will come to this later—is Karl Marx’s fantasy that capitalism will produce a huge depression, that it cannot go on, that it will collapse, and that capitalism can only be rescued by war. The Marxists claim that is exactly how Roosevelt ended the depression of the 1930s, that it was only resolved by the war of 1940. That was the Marxist view. Now that view, that the only way out of the Saturnian condition is a martial one, reappears in psychiatry with the violent treatments of depression. So there are parallels all the way through between the economics or the politics and the psychology o…",
+      "source": "On Melancholy & Depression (Uniform Edition of the Writings -- James Hillman -- 2024 -- Spring Publications, Incorporated -- 9780882140438 -- f2946c92ee3987e660d5b0ad9bafb931 -- Anna’s Archive.pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69742095,
+      "importance": 0.7456942796707153,
+      "final_score": 0.6974208354949951
+    },
+    {
+      "id": "a9f6c8e580850fab397bb092",
+      "qdrant_id": "30e72429-2a29-543c-a94c-9b2583fe6feb",
+      "text": "During the 1990s, the culture of Prozac was inseparable from the culture of the new economy. Hundreds of thousands of operators, directors and managers of the Western economy have taken innumerable decisions in a state of chemical euphoria and psychopharmacological lightheadedness. But eventually the body [l’organismo] caved in, unable to support indefinitely the chemical euphoria that had sustained competitive enthusiasm and productivist fanaticism. Collective attention is now supersaturated and this is provoking social and economic collapse. Just as with a cyclotimic3 organism or a patient affected by bipolar disorder,4 the financial euphoria of the 1990s was followed by depression. This depression is also of the clinical variety; it undermines motivation, initiative, self-esteem, desire and sex-appeal. To understand the crisis of the new economy, we must begin from the psychic experience of the virtual class; we must reflect on the psychic and emotional state of the",
+      "source": "Max Henninger, Giuseppina Mecchia, and Timothy S. Murphy, Christian Marazzi, Paolo Virno, Antonio Negri, Franco Berardi, Michael Goddard, Maurizio Lazzarato, Antonella Corsani, Seth Graebner - SubStan.pdf",
+      "chunk_index": 282,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6969042,
+      "importance": 0.7444326877593994,
+      "final_score": 0.6969043016433716
+    },
+    {
+      "id": "fadc06c89518d555b3e1c66c",
+      "qdrant_id": "ab098e10-0104-5f61-8993-3e199177e4e6",
+      "text": "1996); and Kenneth Turan, “Behind the Scenes: Blade Runner.” In Now in Theatres Everywhere: A Celebration of a Certain Kind of Blockbuster (New York: Public Affairs, 2006). 4 See Lev Manovich, The Language of New Media (Cambridge, MA: MIT Press, 2001), 302. 5 I’m drawing, here, on a point that Fisher makes regarding the infinite “plasticity,” reality, and instability of capitalism in capitalist realism. Mark Fisher, Capitalist Realism: Is There No Alternative? (Winchester, UK: Zero Books, 2009), 54.",
+      "source": "[Film Theory in Practice] Matthew Flisfeder - Postmodern Theory and Blade Runner (2017, Bloomsbury Academic) [10.5040_9781501311789] - libgen.li.pdf",
+      "chunk_index": 433,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6963084,
+      "importance": 0.7479363083839417,
+      "final_score": 0.6963083744049072
+    },
+    {
+      "id": "19cec9b991bac0679e13f60c",
+      "qdrant_id": "dd6626fa-eb85-5d20-a672-60ac0bbe69b5",
+      "text": "of the tensions of modern individualism. This is why we need to listen less to the antidepressant and more to the spirit of depression. a m e r i c a n d e p r e s s i o n s The works of Karp and Martin arise from a particular tradition of American social inquiry. On the one hand, they describe a sociologi- cal problem; on the other, they fight the stigma associated with mental illness. Sociological and moral inquiries are linked in that they both describe how patients are victims not only of the illness that affects them but also of society’s intolerance. These works are informed by a self-help dimension, an attempt to empower indi- viduals.12 Horwitz and Wakefield’s The Loss of Sadness embodies an analytical spirit that brings together facts and organizes arguments and counter-arguments to form a dossier. Karp and Martin find their criteria for truth in culture, while Horwitz and Wakefield find theirs in nature. The Attachment to Experience",
+      "source": "The Weariness of the Self Diagnosing the History of Depression in the Contemporary Age (Alain Ehrenberg) (Z-Library).pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6959239,
+      "importance": 0.7551519870758057,
+      "final_score": 0.6959240436553955
+    },
+    {
+      "id": "1cfcc061978569d9ac569c67",
+      "qdrant_id": "991d6c89-42b8-555c-b2dc-0a51582dd026",
+      "text": "capitalism itself. The introduction and presence of economy was neverthe- less not a novelty within horror or related genres. Ever since the Great Depression of the 1930s when the American audiences started looking for an escape from the harsh everyday realities, which led to the creation and perpetuation of, for example, the Universal monster movies and the appearance of Dracula, Frankenstein, the Invisible Man, as well as the leg- endary, although somewhat unorthodox, King Kong, economy positioned itself as a relevant factor in relation to the horror genre. And while the horror production of the 1930s was the result of the need for escapism, the consequence of the economic depression of the 1970s was not neces- sarily a distraction but the introduction of the said new narrative dimension. The evidence of the new narrative paradigm making its way into the American horror subcons…",
+      "source": "Marko Lukić - Geography of Horror_ Spaces, Hauntings and the American Imagination (Palgrave Gothic) (2022, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 376,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6957481,
+      "importance": 0.7388157844543457,
+      "final_score": 0.6957480311393738
+    },
+    {
+      "id": "0f59f20196fcf6108ca792df",
+      "qdrant_id": "4f8830e5-cf3e-52d8-8752-438e4a5eb136",
+      "text": "ering, but also in its decline and in the various contents set free by its decay that a dialectically useful ‘legacy’ can be found. Seen in itself, immediately, the shimmering or euphoric illusion of fascism only serves big business, which uses it to scatter or plunge into night those classes which are sinking into poverty. Mediately, however, steam rising out of the abysses which are useful not only to capitalism can be seen in irra- tional euphoria. Beyond the cruelty and speechless brutality, beyond the stupidity and panic-stricken credulousness shown in every hour, every word of the horror, there is a piece of older, Romantic contradiction to capitalism, which misses something in present-day life, which longs for a different, as yet obscure, life. The vulnerable position of farm work- ers and white-collar workers reflects various conditions here, not merely of backwardness, but also at times one of genuine ‘temporal disparity’",
+      "source": "Samuel Thomas - Pynchon and the Political (2010, Routledge) - libgen.li.pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6954801,
+      "importance": 0.7499226927757263,
+      "final_score": 0.695480227470398
+    },
+    {
+      "id": "f3c2d06dd3748544a4de6cc1",
+      "qdrant_id": "9184956d-430b-5bee-b81c-6d535bafd8e2",
+      "text": "editor’s introduction “We have to invent the future.” — Mark Fisher1 Mark Fisher (k-punk) was not, and never wanted to be, a conventional academic writer, theorist or critic. His writing was too abrasive, polemical, lucid, unsentimental, personal, insightful and compelling for that. Despite displaying the most acute understanding of the physical, psychological, economic and cultural consequences of contemporary capitalism, his work was also optimistic and strategically operative. A great deal of his writing was undertaken in vehement opposition to the all- too evident PoMo dissociation and collective alienation around us, and as a response to what he termed the “boring dystopia” of our shared present, to the increasingly depthless present of this new millennium. Mark provided original, savage and stylish dissections of our moribund culture, and continually observed how popular modernist …",
+      "source": "Mark Fisher, Darren Ambrose (editor) - K-punk_ The Collected and Unpublished Writings of Mark Fisher-Repeater (2018).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6953784,
+      "importance": 0.7564433217048645,
+      "final_score": 0.695378303527832
+    },
+    {
+      "id": "d2ee8bd457d84f9c2753159a",
+      "qdrant_id": "938518df-587d-5a73-904a-85138fa26f7f",
+      "text": "cuteness, noted by Ngai and others, is key, we contend, to the pleasures of many forms of cute content, especially in an era when, as noted, numerous aspects of neoliberalization such as precarity in the labor market and the withdrawal of social safety nets engender widespread feelings of uncertainty and powerlessness. Given these last observations, it is illuminating to situate the rise of cute aesthetics within the context of political depression, a concept that has recently been theorized by Berlant and others; this is particularly striking in recent mobilizations of pop culture nostalgia. Political depression refers to an affective context in which citizen subjects have reached a state of exhaustion due to the “brutal relationship of ownership, control, security and their fantasmatic justiﬁcations in liberal political economies” (Cruel 261). According to Berlant, political depression…",
+      "source": "Joshua Paul Dale (editor) - The aesthetics and affects of cuteness (2017, Routledge) - libgen.li.pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.6726679,
+      "importance": 0.7505046129226685,
+      "final_score": 0.6937837600708008
+    },
+    {
+      "id": "bfd8278dfc128e832a8f4cd8",
+      "qdrant_id": "abea59bb-87e4-5bcc-b7fd-464d09f883ac",
+      "text": "interested in, the financial speculators of the Victorian period are most haunted by the chief representation in a capitalist society, capital.52 As Georg Luka´cs suggests, capitalist culture produces entities haunted by alienated beings – themselves – and disoriented by ‘‘the essence of commodity-structure.’’53 Like Marx’s ‘‘hauntology,’’ Dickens imagines a ghostly web of energies and structures that mimic and overshadow mechanical economic circulations. These ghosts in the (Macleodian) machine enact both the duty to increase the velocity of circulation as well as the ultimate outcome of such increased energies, the collapse of energy in fulfillment of the second law of thermodynamics. As Alison Milbank asserts, Little Dorrit impels the Gothic ‘‘into the metaphysical.’’54 The haunting Affery experiences in the Clennam banking house analogically simulates the circulation into frenzy and …",
+      "source": "From Dickens to Dracula Gothic, Economics, and Victorian Fiction (Gail Turley Houston) (Z-Library).pdf",
+      "chunk_index": 342,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6935464,
+      "importance": 0.7458507418632507,
+      "final_score": 0.69354647397995
+    },
+    {
+      "id": "6f472f06fdb73da24cc92bb8",
+      "qdrant_id": "2e5d510c-b7af-5947-83b9-52368772022a",
+      "text": "iour. It would be a great mistake for the champions of humanity to underestimate this new reality, and it is impera­ tive for them to be aware, on the contrary, that the race is already under way, and in this race time is now working against them. There is certainly not yet anything inexorable about the universal triumph of capitalism, but it has become eminently plausible. This means, as a consequence, that the disappearance of humanity (in the sense that Fukuyama and his masters actively use the phrase), along with the parallel destruction of nature, now constitute genuine working hypotheses, and no longer just distracting scenarios of Hollywood-style science fiction.14 Many readers will undoubtedly find it deeply demobilizing to end a critique of liberalism with such forecasts of gloom 14Jared Diamond's book Collapse (London: Allen Lane, 2005 ) offers a passionate approach to the problem raised by the suicidal",
+      "source": "JEAN CLAUDE MICHEA - Realm of Lesser Evil_ An Essay on Liberal Civilization-POLITY (2009).pdf",
+      "chunk_index": 429,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6933866,
+      "importance": 0.7560130953788757,
+      "final_score": 0.693386435508728
+    },
+    {
+      "id": "641f17bf34a441d4763051fc",
+      "qdrant_id": "4f0cf1dc-35a9-5227-89d1-bd1afb883fb8",
+      "text": "the world without having to use their bodies to physically change anything. Economists have turned to this new form of abstract economics in part to correct what they feel is wrong with the previous dominant economic theory, the Key- nesian macroeconomics of the early 20th century. As I discussed in Chapter 3, John Maynard Keynes felt that irrational desires, which he called “animal spirits,” had a crucial role in keeping the economy going. But economists at the end of the 20th century reject the notion that people are irrational. As John B. Egger puts it, “the actors of Keynes’s capitalism are caricatures of real people, partially lobotomized to retain only the properties that would support his cause. The accurate evaluation of the economics of capitalism requires real, choosing and acting, individuals” (463). The rejection of Keynes’s notion of irrational “animal spirits” has been so e…",
+      "source": "Michael Tratner - Love and Money_ A Literary History of Desires (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 448,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6926749,
+      "importance": 0.743481457233429,
+      "final_score": 0.6926746964454651
+    },
+    {
+      "id": "7b26124252f224a03b03af8e",
+      "qdrant_id": "2c6843e3-2500-5b25-a7eb-94ed4aaf34f9",
+      "text": "revivification of cultural representations of and from the past fifty years, in both mainstream and alternative culture and across a variety of cultural forms. For Fisher, this near-constant ‘temporal bleed-through from ear- lier periods’ created a sense that ‘the twenty first century is oppressed by a crushing sense of finitude and exhaustion. It doesn’t feel like the K. SHAW",
+      "source": "Katy Shaw - Hauntology-Springer International Publishing_Palgrave Macmillan (2018).pdf",
+      "chunk_index": 60,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69242966,
+      "importance": 0.7461288571357727,
+      "final_score": 0.692429780960083
+    },
+    {
+      "id": "79de716f356c89ae2ec2b696",
+      "qdrant_id": "244140fb-6c08-5abd-ba25-218d2e6b059f",
+      "text": "ferable gloom pervaded my spirit” (397). He goes on to describe in great detail the inexplicable “utter depression of soul” he feels, ﬁ nding it “a mystery all insoluble” (397). He even tries to modify his ﬁ rst impressions by examining the house’s reﬂ ection in the",
+      "source": "Dennis R. Perry, Carl H. Sederholm (auth.) - Poe, “The House of Usher,” and the American Gothic (2009, Palgrave Macmillan) [10.1057_9780230620827] - libgen.li.pdf",
+      "chunk_index": 155,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6916729,
+      "importance": 0.7454894781112671,
+      "final_score": 0.6916729211807251
+    },
+    {
+      "id": "2004e6bfba8c704cbb0acb4a",
+      "qdrant_id": "b57768d3-1cb6-5870-8172-402254135204",
+      "text": "that the literary modes that they develop to represent these experiences could be understood not as a rejection of realism, but as an expression of their situated experiences of reality. Similarly, I am suggesting that Anglophone novels deploy spectral content and form to reflect lived realities of capitalist development and resulting environmental inequalities and to incorporate ways of knowing that account for ongoing interactions with deceased ancestors and the animate voices of nonhuman matter; their narration of spectral experience does not necessarily convey a rejection of realist representation, but instead invites further attention to how definitions of and debates about realism participate in adjudicating whose experience of the world counts as real and the consequences those judgments carry for how we perceive and respond to social and environmental crises. Haunting the Anthropocene Ecospectrality offers terminology and concepts for thinking the current",
+      "source": "Laura A. White - Ecospectrality_ Haunting and Environmental Justice in Contemporary Anglophone Novels-Bloomsbury Academic (2020).pdf",
+      "chunk_index": 80,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69153315,
+      "importance": 0.7556695938110352,
+      "final_score": 0.6915332078933716
+    },
+    {
+      "id": "5c90b4fa4eddcdb4a32f26b3",
+      "qdrant_id": "8798f8a9-d422-5781-9c8c-a69ca8108da0",
+      "text": "world of the social problem, but it did improve the lives of those subject to it and, if you believe that automatic stabilizers like unemployment insurance keep recessions from becoming depressions, it improved the lives of every- one else, too. Perhaps more seriously, it seems hard to see how individuals would con- clude that capitalism is a problem in the first place without referring to their feelings about it, without, that is, consulting their sense of anger or injustice that it arbitrarily subjects some people but not others to social problems like unemployment and poverty, or their sense of fear that it might subject them to the same. In short, capitalism may be a problem. But if it is it will be because our feelings tell us so. Convinced, therefore, that it matters unto itself and for Americans today, in what follows I explore how Americans in and out of political power responded emotionally to the Great Depression. I draw on an eclectic archive",
+      "source": "John Marsh - The Emotional Life of the Great Depression (2019, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 62,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69092447,
+      "importance": 0.7391321063041687,
+      "final_score": 0.6909244656562805
+    },
+    {
+      "id": "1b4e35dfc344b408ad514381",
+      "qdrant_id": "2464a125-196d-5d9a-a61a-886e3670c750",
+      "text": "Fisher, Mark, Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures (Winchester, UK: Zero Books; 2014). Fisher, Mark, The Weird and the Eerie (London: Repeater Books, 2016). Freeman, Austin M. (ed.), Theology and H.P. Lovecraft: Theology, Religion, and Pop Culture (London: Lexington Books / Fortress Academic, 2022). Freud, Sigmund, The Uncanny (London, Penguin Books, 2003). Fukuyama, Francis, “The End of History?” (The National Interest 16, 1989), 3–18. Fukuyama, Francis, The End of History and the Last Man, 20th anniversary (ed) (London: Penguin Books, 2012 [1992]). Geniusas, Saulius, “The Horizon and the Origins of Sense-Formation” (The Origins of the Horizon in Husserl’s Phenomenology, Springer Netherlands, 2012), 137–54. Gilmore, Paul, “Poe and the Sciences of the Brain”, J. Gerald Kennedy and Scott Peeples (eds) (The Oxford Handbook of Edgar Allan Poe, Oxford Handbooks 2019). Girard, René, The Scapegoat (Baltimore: The Johns Hopkins University",
+      "source": "(Palgrave Gothic) Joakim Wrethed - Gothic Hauntology_ Everyday Hauntings and Epistemological Desire-Palgrave Macmillan (2023)-3.pdf",
+      "chunk_index": 332,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.69061637,
+      "importance": 0.775023877620697,
+      "final_score": 0.6906163096427917
+    },
+    {
+      "id": "9dcff05f985ff636616eb059",
+      "qdrant_id": "9aacc50c-536c-579b-bc72-0e32257debc7",
+      "text": "suggests any space of late capitalism. They exist in any place where characters see “space as threat, as harbinger of the unseen, [which] operates as medical and psychical metaphor for all the possible erosions of bourgeois bodily and social well being.”[26] Though the specters do not materially kill the victim, they authorize the conditions for the victim’s remaining life. Metaphorically, they are an uncanny by- product of capitalism, dispensing their despairing ideology into the bodies they have victimized. As Michel Foucault writes of the subject and his power, “To govern, in this sense, is to structure the possible field of action of other people.”[27] The victims abandon all agency and potential, wallowing instead in the despair produced by the ghosts. Not only do the specters produce a constant surveillance and a sense of hopelessness, but they also systematize their ideology so th…",
+      "source": "Lisa B. Kröger, Melanie Anderson - The Ghostly and the Ghosted in Literature and Film_ Spectral Identities (2013).pdf",
+      "chunk_index": 552,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6896473,
+      "importance": 0.7501252293586731,
+      "final_score": 0.689647376537323
+    },
+    {
+      "id": "8ec76b791851ce540cd22126",
+      "qdrant_id": "3a62e332-0c14-5f48-8e53-0dc4cbe64b2a",
+      "text": "that under neoliberalism: not as a product nor of individual failure or malfunc- tion but as collective trauma wrought by the zombie wars, themselves ascribable to the failed economics of the past. If Brooks’s zombies encapsulate the ruthless self-interest of neoliberal subjectivity, each being ‘its own self-contained, auto- mated unit’ with ‘no collective brain to speak of’, then its victims are viewed as the collective responsibility of the state.17 And there are many survivors too damaged as yet to celebrate their own survival – traumatised catatonics, feral children, ‘quislings’ who believe themselves to be zombies and more. Fortunately, the ‘resurgent economy’ of the present has introduced that great bugbear of neoliberals – ‘universal health care’ – and all who need it will be cared for.18 It is a very different perspective from that of neoliberalism, which drives populations into …",
+      "source": "The Cambridge History of the Gothic Volume 3, Gothic in the Twentieth and Twenty-First Centuries (Catherine Spooner, Dale Townshend) (Z-Library).pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6895045,
+      "importance": 0.7427799105644226,
+      "final_score": 0.6895043849945068
+    },
+    {
+      "id": "203faeaee545ea58b2924db6",
+      "qdrant_id": "41e0c6d5-b0fe-5864-9860-99a421d7aabb",
+      "text": "manipulators; in which human creatures seemed to be abandoned by those who had called them into being and those who might have been thought responsible for their welfare’23 or as escapist – ‘Large sections of the public, having difﬁculty in dealing with the Depression, were glad to spend some time in the company of a monster that could more easily be defeated.’24 Readings of that sort can only be more or a lot less inspired speculation. I’d prefer to look within the ﬁlm and see it as a practice, as an intervention in its world rather than just a picture of it or a retreat from it, a practice whose extent is marked out by the reconstruction of the text that I have indicated. Certainly it was released in the depths of the Depression, depths which can shock even when seen from Thatcherite Britain. The value of manufactured goods and services produced in the USA in 1929 had stood at 81 billion dollars and output",
+      "source": "Mark Jancovich - Horror, The Film Reader (In Focus--Routledge Film Readers) (2001).pdf",
+      "chunk_index": 508,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68935955,
+      "importance": 0.734175443649292,
+      "final_score": 0.6893595457077026
+    },
+    {
+      "id": "271666f390ffb081daf1bf51",
+      "qdrant_id": "b03dcb4c-2041-5153-b5db-f0416ceed1b3",
+      "text": "aff ects '\"\" is trapped in the trick of self-enterprise, as it is mobilized to generate value; depression becomes a common experience, and one that is inevitably managed by psychiatric medication (Berardi, 2009). This is also the world as portrayed by Christian Marazzi (2010), in which; as·Mark Fisher summarizes, \"post-Fordist workers are like the Old Testament Jews after they left the 'house of slavery': liber- ated from a bondage to which they have no wish to return but also abandoned, stranded in the desert, confused about the way forward. The psychological conflict raging within individuals cannot but have The factory of unhappiness Is It All the Fault·of Neoliberal Capitalism? 50",
+      "source": "Nikolas S Rose - Our Psychiatric Future (2018, Polity Press) - libgen.li.pdf",
+      "chunk_index": 191,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6888183,
+      "importance": 0.735341489315033,
+      "final_score": 0.6888184547424316
+    },
+    {
+      "id": "ac82bd428a79061e9d49b1b3",
+      "qdrant_id": "006bd780-cbbd-5767-8d66-11fe78403066",
+      "text": "Umbr(a) 53 we seem to be haunted by the contingency of life and alternate versions of reality. As Stephen Jay Gould — a Marxist biologist if there ever was one — put it bluntly: “wind back the ﬁlm of life and play it again. The history of evolution will be totally different.” This perception of our reality as one of the possible (and not even necessarily the most probable) outcomes of an “open” situation, this notion that other possible outcomes are not simply cancelled out but continue to haunt our “true” reality as the specters of what might have happened (thereby conferring on our reality a status of extreme fragility and contingency), is by no means foreign to Marxism — the felt urgency of the revolutionary act relies on it. Since the non-occurrence of the October Revolution is a favored topic of the conservative what-if historians, let us look at how Lenin himself related to it. Indeed, he was as far as possible from",
+      "source": "Ryan Anthony Hatch (Ed)_ Danielle Bergeron_ Juliet Flower Maccan - Umbr(a)_ Utopia (2008, Center for the Study of Psychoanalysis and Culture) - libgen.li.pdf",
+      "chunk_index": 184,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68863344,
+      "importance": 0.7506938576698303,
+      "final_score": 0.6886334419250488
+    },
+    {
+      "id": "4ec7d4f77234b55736d89bb8",
+      "qdrant_id": "27909028-32b6-52a0-92ac-4a1a99bc3793",
+      "text": "and a decline in home building, and in psychiatry, one of the feelings of depression is no future. In psychiatry the description of depression includes an inhibition of drive. In economics you get driving restrictions: energy crises, small cars, no gas. The things we had in 1973. In psychiatry, you have a lowering or loss of libido, and in economics, you get fantasies of the exhaustion of the reserve, of raw materials, fossil fuels. In economics there are all sorts of ideas of doom that programs like Medicare will fail, that Social Security will go bankrupt, that there will be rampant unemployment. And in depression, you cannot work, you cannot concentrate. These projections of the future are sociologically and economically parallel with the same kind of doom fantasies of the future that you get in the psychiatric descriptions of the depressive condition. And in economics, you put blame …",
+      "source": "On Melancholy & Depression (Uniform Edition of the Writings -- James Hillman -- 2024 -- Spring Publications, Incorporated -- 9780882140438 -- f2946c92ee3987e660d5b0ad9bafb931 -- Anna’s Archive.pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68859065,
+      "importance": 0.7327255010604858,
+      "final_score": 0.6885908246040344
+    },
+    {
+      "id": "195a9c03d2fb5b71b21321bb",
+      "qdrant_id": "823c6ea7-a779-5936-9f49-d37c0e744de2",
+      "text": "are exciting, imaginative, and often compelling in this second aspect of Kramer’s argument and reveal a sensitive and informed awareness of cultural and literary traditions. Before turning to these discussions aimed at showing that we must divest depression of its charm, let me express a general historical concern. The heroic view of melancholy, which dates to ancient times and texts, found one of its strongest expressions in the Romanticism of the early nineteenth cen- tury. Arguably, we are seeing a modest resurgence of that view in the present era, expressed in works such as Kay Jamison’s Touched with Fire and heard in the newly articulate voices of depression sufferers recounting their own experiences. Yet to some considerable extent through the last part of the nineteenth century and most of the twentieth, the deromanticizing of depression that Kramer supports was taking place. Though still remembered, the glamorous associations of melancholy were",
+      "source": "Jennifer Radden - Moody Minds Distempered_ Essays on Melancholy and Depression-Oxford University Press, USA (2009).pdf",
+      "chunk_index": 157,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6883131,
+      "importance": 0.7395692467689514,
+      "final_score": 0.6883128881454468
+    },
+    {
+      "id": "bd93f90ee1c9adb9ef5cec2c",
+      "qdrant_id": "bcb8c93e-6b72-5778-b463-a5aef0b0a10e",
+      "text": "eral sense, Lovecraft’s often extreme (some might say pathological) depictions of penury as a debasing force, and the city as a locus of hor- ror, served to lay the groundwork that later writers would engage with, if only to implicitly critique. In Chap. 2, therefore, I examine a germane selection of mid-century genre writers and chart their changing interac- tions with notions of social hierarchy and class as the pulps died away and were replaced with a growth in the cheap paperback market. I suggest that figures such as Ray Bradbury, Fritz Leiber and Robert Bloch provide a much more self-reflexive engagement with class than previous writers, partly as a result of their varying fortunes in publishing their work and the changing demands of the marketplace, and partly as a direct response to their experiences of real-life events such as the Depression and the increasing stratification of US society. These mid-century authors often",
+      "source": "[Palgrave Gothic ] David Simmons (auth.) - American Horror Fiction and Class_ From Poe to Twilight (2017, Palgrave Macmillan) [10.1057_978-1-137-53280-0] - libgen.li.pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68801975,
+      "importance": 0.7422827482223511,
+      "final_score": 0.6880199909210205
+    },
+    {
+      "id": "503d3194cb48553eb1457771",
+      "qdrant_id": "0a1a9981-72c5-597b-9d4e-9237538a39eb",
+      "text": "reject the present. Contemporary far-right movements try to direct nostalgia for Fordism into assaults on people and groups described as responsible for the socioeconomic plight of the working class.≥∞ Melancholy is a more complex and ambivalent subjective posture. The term referred originally to an illness caused by an excess of ‘‘black bile,’’ but by the seventeenth century it was understood as a more psychological malady.≥≤ According to the contemporary Freudian deﬁnition, melancholia combines dis- avowal and recognition of the loss of a loved one. The melancholic may form identiﬁcations that are symbolically ‘‘illegal,’’ clinging to objects that were",
+      "source": "(Politics, History, and Culture) Julia Hell (editor), Andreas Schönle (editor) - Ruins of Modernity-Duke University Press Books (2010).pdf",
+      "chunk_index": 145,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68692136,
+      "importance": 0.7430968880653381,
+      "final_score": 0.6869214177131653
+    },
+    {
+      "id": "d454e3ef03db9404d9678811",
+      "qdrant_id": "14d207c3-bd7d-51bb-acf3-9675b61f7d0b",
+      "text": "tions reflect important shifts in the self-perception of white, middle- class American men following rapid economic expansion in the United States after 1945. For Streufert, the apparition of the ghost connects to the declining social and economic status of the family patriarch, and is symbolic of a crisis of masculinity that also strikes at the heart of the myth of the American Dream. The ghosts discussed by Streufert belong to defined categories: they are affixed to the property and privilege of a white, middle-class population, and they tend to return to speak of their unjust deprivation or to denounce wrong deeds, a practice seemingly inherited from Renaissance and post-Restoration ghosts.52 Miller and Shepard do not share O’Neill’s compunctions about the popular appeal of ghosts; indeed, as Streufert argues, they deploy phantoms as ‘tools of serious political and social c…",
+      "source": "Mary Luckhurst, Emilie Morin (eds.) - Theatre and Ghosts_ Materiality, Performance and Modernity-Palgrave Macmillan UK (2014).pdf",
+      "chunk_index": 71,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68689597,
+      "importance": 0.7441797256469727,
+      "final_score": 0.6868958473205566
+    },
+    {
+      "id": "366456bb87f3c5ff275d27d8",
+      "qdrant_id": "6ede635d-8a33-5d5a-b977-ca954766de59",
+      "text": "our sensual accommodation of the real world is limited. James’s characters are haunted because what they know and hold dear to their hearts is ghosted by the unknowable, by the sacrifices they have made to cultivate the little, spare, space of perception they have carved out of the limitless chaos of ex- perience. The “ghost of a dollar,” then, serves as an apt phrase. Dollars secure one’s identity and pay for the “good life,” the life of cultivated sensibility that James endorses. But the precise source of funding for one’s life and adventures is always unmentionable: You can be proud of at least a moderate wealth, in James’s fictional world, but the source of wealth is always an embarrassment (which is why capitalism, according to Marx, amounts to nothing less than an irrational and ghostly mysticism). James is not, by any stretch of the imagi- nation, a proponent of the labor theory of value, of course; there are no “ra-",
+      "source": "Arthur F. Redding - Haints_ American Ghosts, Millennial Passions, and Contemporary Gothic Fictions (2011, University Alabama Press) - libgen.li (1).pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6865957,
+      "importance": 0.7396740317344666,
+      "final_score": 0.6865957379341125
+    },
+    {
+      "id": "57f7ef8f64470131e0b175ea",
+      "qdrant_id": "f0231f9a-3996-5ce4-a894-419c7a6ea211",
+      "text": "repressed traumas of twentieth-century utopianism. It brings to light the falseness of the claims that are made by contemporary states to be concerned only with pragmatic political and economic reason and thereby reveals the absence in neoliberal governmentality of any meaningful expression of human hopes and desires. 24",
+      "source": "Léger, Marc James - Brave new avant garde_ essays on contemporary art and politics-Zero Books (2012).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.686422,
+      "importance": 0.7399174571037292,
+      "final_score": 0.6864218711853027
+    },
+    {
+      "id": "ed91e61513e8bd298c3204d7",
+      "qdrant_id": "9c834315-842f-5017-a88d-e70e7809435c",
+      "text": "instead is the awareness of the entropy of sense in exist':ntiial rience and historical perspective, the consciousness aging and death. This is just what we need today: an depression that would not be depressing. Art as chaoid Within Semiocapital, then, the production of value tends cide with semioric production. Pressed by economic cOlnp,,,j the production of accelerated and proliferating signs ends up tioning like a pathogenic factor, congesting the collective that is becoming rhe primary object of exploiration. Mental alienation is no longer a metaphor, as it was ' industrial epoch: it becomes, rather, a specific diagnosis. Psv'chc)o: is the word we can use to refer to the effects of the mobilization of attention. Abstracred from the historicist 134 I The SOUl at Work once integrating it, the word \"alienation\" is replaced by , r.a'OdV>' of measuring the effects of expl…",
+      "source": "[Semiotext(e) foreign agents] Franco _Bifo_ Berardi - The soul at work_ from alienation to autonomy (2009, Semiotext(e)) - libgen.li.pdf",
+      "chunk_index": 290,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68629336,
+      "importance": 0.7428706884384155,
+      "final_score": 0.6862934827804565
+    },
+    {
+      "id": "315745920352610387f9bc7b",
+      "qdrant_id": "93e48f6e-48e3-574e-a3fe-b758863e39cc",
+      "text": "tive experience. Both Freud and Marx, claimed Fisher, “had discovered different modes of this spectral causality.”74 Recalling the two forces sug- gested earlier, one may say that while Marx built his future-oriented the- ory on the ghosts of things to come (as in the specter of communism, anticipation of the effects of abstracted capital, and so on), Freud’s haunto- logical edifice concerned itself with the past: (un)dead memories and 3 GHOSTS, METAPHORS, AND STRUCTURES OF FEELING",
+      "source": "Sadeq Rahimi (auth.) - The Hauntology of Everyday Life (2021, Palgrave Pivot) [10.1007_978-3-030-78992-3] - libgen.li.pdf",
+      "chunk_index": 190,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.68551624,
+      "importance": 0.7483246922492981,
+      "final_score": 0.6855162382125854
+    },
+    {
+      "id": "4d7410ed51697124ae0a14f5",
+      "qdrant_id": "9d2c395a-a47b-5f6b-bc1e-23287c8331c0",
+      "text": "Testo Junkie (2008) of a pharmacopornographic regime where our bodies are regulated by manipulations and control simultaneously by both big pharma- ceutical companies and the porn industry;3 Mark Fisher’s Capitalist Realism (2009) which sees society trapped in an endlessly oppressive capitalist system which condemns us to repetition, precarity in our lives and employments, and to no prospect of authenticity as individuals;4 and, more recently, Shoshana Zuboﬀ’s outlining of Surveillance Capitalism (2019), which details how the big media giants trap and control our lives for commercial gain through manip- ulation of our information trawled from social media.5 The general picture – and what all these visions and analyses have in common – is a pervasive depiction of the dystopian nature of a suﬀocating entrapment in the webs of faceless corporate manipulations. That is to say, a type of Foucauldian blue- print comes together through these various particular understandings and",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 113,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6818361,
+      "importance": 0.738441526889801,
+      "final_score": 0.6818361282348633
+    },
+    {
+      "id": "477b35787bba2cc5c469e82c",
+      "qdrant_id": "54ee31cc-d9fc-5f7a-875a-f29896373164",
+      "text": "by an extreme form of the dissociation from and abstraction of materiality that afflicts Axton in The Names. Lyle, we are told, ‘saw in the numbers and stock symbols’ that he manipulates, ‘an artful reduction of the external world to printed output, the machine’s coded model of exactitude’. His work gives him the ‘impression of reality disconnected from the resonance of its own senses’, one in which ‘a picture of the competitive mechanism of the world, of greasy teeth engaging on the rim of wheel, was nowhere in evidence’ (Players: p. 70). It is thus principally the process NATIONAL ALLEGORY AND THE ROMANCE OF UNDERDEVELOPMENT: THE NAMES 187",
+      "source": "Capital, Class and Technology in Contemporary American Culture Projecting Post-Fordism (Nick Heffernan) (Z-Library).pdf",
+      "chunk_index": 188,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6862323,
+      "importance": 0.7664342522621155,
+      "final_score": 0.6788463592529297
+    },
+    {
+      "id": "2acb24d6cfe47d9d44c9bb15",
+      "qdrant_id": "f5e01074-1a66-5961-8982-32f3317bdda8",
+      "text": "during this process. Rather, the nontherapeutic approach to trauma that she describes suggests a wild utopianism-a hopefulness in despair­ that is reminiscent of the politics of despair Sylvia Townsend Warner describes in Summer Will Show. For her examples, Cvetkovich turns to artists and activists whose work is bound up with the everyday experi­ ence of feeling bad. Cvetkovich is involved with an academic and activist organization, the Public Feelings Project, that has attempted to create a political move­ ment that takes seriously such apparently useless feelings. The Chicago­ based \"feeltank\" associated with the group organizes an annual depres­ sion march. The protesters march in bathrobes and slippers, carrying signs that say, \"Depressed? It might be political,\" and passing out fake prescriptions for Prozac. The point of an event like this is not only that the political landscape is bad but also that it makes you feel bad, and that",
+      "source": "Heather Love - Feeling Backward_ Loss and the Politics of Queer History (2007, Harvard University Press) - libgen.li.pdf",
+      "chunk_index": 521,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.667326,
+      "importance": 0.7547717094421387,
+      "final_score": 0.6711111068725586
+    },
+    {
+      "id": "7683b29106cef089586a16ed",
+      "qdrant_id": "9021a381-048e-59f6-8bfa-95f90e3c7513",
+      "text": "70 5. Edwards 2019, p. 39; Fredric Jameson, Archaeologies of the Future. The Desire Called Utopia and Other Science Fictions (London: Verso, 2005), p. xvi. 6. Edwards, 2019, p. 42. 7. Mathias Thaler, “Bleak Dreams, Not Nightmares: Critical Dystopias and the Necessity of Melancholic Hope”, Constellations 26, no. 4 (December 2019): 607–622. 8. Eugene Thacker, Cosmic Pessimism (Minneapolis: Univocal, 2015), p. 3. 9. Thacker, 2015, pp. 3–4. 10. John Storey, Radical Utopianism and Cultural Studies: On Refusing to Be Realistic (Abingdon: Routledge, 2019), p. 7. 11. Thacker, 2015, p. 9. 12. Storey, 2019, p. 7. 13. R. Radhakrishnan, “The Epistemology of Pessimism”, The Comparatist, no. 43 (2019): 41–67, p. 42; Eugene Thacker, Starry Speculative Corpse: Horror of Philosophy 2 (Winchester: Zero Books, 2015b), p. 138; see also the introduction in this book. 14. Thacker, 2018, p. 61. 15. Joshua Foa Dienstag, Pessimism: Philosophy, Ethic, Spirit (New Jersey:",
+      "source": "Mark Schmitt - Spectres of Pessimism_ A Cultural Logic of the Worst (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 205,
+      "page": null,
+      "seed_hits": [
+        "eugene-thacker-horror-of-philosophy-cosmic-pessimism",
+        "eugene-thacker-in-the-dust-of-this-planet-negative-theology"
+      ],
+      "raw_score": 0.77953684,
+      "importance": 0.8082982301712036,
+      "final_score": 0.6537153720855713
+    },
+    {
+      "id": "1ea9bdbc72513daf61514b94",
+      "qdrant_id": "8785e5bc-b9c2-5bdf-8840-9850c0e6cd79",
+      "text": "liberalism and the Demise of the Literary.” ¹⁴ On the left, Thatcher’s there is no alternative became, through the paraphrasing of a slightly different Fredric Jameson quote, it’s easier to imagine the end of the world than the end of capitalism. Mark Fisher took up this shibboleth and its implications for contemporary experience in Capitalist Realism (2009). Leigh Claire La Berge and Alison Shonkwiler extended Fisher’s project to contemporary ﬁction, nonﬁction, television, and ﬁlm in Reading Capitalist Realism (2014). In search of escapes from neoliberalism’s foreclosure of any future other than its own, novelists, poets, and scholars have turned to speculative modes. See Aimee Bahng’s Migrant Futures, a book that “might be considered a ‘starter archive’ of attempts to imagine if not the end of capitalism, then an alternative to it, by way of those who may ﬁnd themselves mired in capita…",
+      "source": "Dan Sinykin - American literature and the long downturn _ neoliberal apocalypse (2020) - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7136096,
+      "importance": 0.7666778564453125,
+      "final_score": 0.6490997076034546
+    }
+  ]
+}

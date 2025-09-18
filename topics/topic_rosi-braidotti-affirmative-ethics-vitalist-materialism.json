@@ -1,0 +1,1237 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "a1536c91a73615eaca55fc4a",
+      "qdrant_id": "fdbb8224-cf50-587b-ac41-bddfb6130e3f",
+      "text": "1 Reflections on Ethics, Destructiveness, and Life: Rosi Braidotti and the Posthuman Judith Butler Abstract This chapter engages with Rosi Braidotti’s affirmative ethical response to contemporary destructiveness and toxic forms. Braidotti’s notion of the posthuman, conceived as a dynamic amalgam of animal, machinic, technical, digital, organic, inorganic, viral, and capitalist dimensions, is considered as a welcome alternative to Agamben’s notion of bare life. Braidotti’s distinction between “sustainable” and “perverse” modalities is discussed in relation to what might be thought of as more than a simplistic opposition, challenging us to think of life in terms of intensities and becomings. Keywords Posthuman, destructiveness, affirmation, sustainability, transpositions It is a great honor to write a short piece on, and for, Rosi Braidotti on this occasion. I would like to take ad…",
+      "source": "Bolette Blaagaard (editor) - The Subject of Rosi Braidotti_ Politics and Concepts (2014, Bloomsbury Academic) [10.5040_9781472594426] - libgen.li.pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.8009058,
+      "importance": 0.8299648761749268,
+      "final_score": 0.7969343066215515
+    },
+    {
+      "id": "93f4e30cca60d12232a2f8cf",
+      "qdrant_id": "9db25373-c66b-5e89-9223-e136c9fa99fe",
+      "text": "Chapter 5 Posthumanism On ‘Posthuman Humanism’ by Rosi Braidotti (2013) Rosi Braidotti has been described – and described herself – as a New Materi- alist. The standpoint could be deﬁned as of one who is philosophically a monist (Braidotti uses the adjective ‘monistic’ at several points through her text here1) and rejects the long-ingrained Western habit of dualist thought of the types material versus mind, subject versus object, nature versus culture, and so on. In fact, it is probably a position she shares with most, if not all, of the con- temporary essay writers discussed here, with Karen Barad and Denise Ferreira da Silva perhaps the most notable for their intellectual presentation of the case for material and against dualism. Of course, the rejection of transcendentalism and dualism is not a new thing in western thought, and has featured strongly and historically in the work of Heraclitus, Spinoza, Hume, Nietzsche and",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 203,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.79485464,
+      "importance": 0.8207315802574158,
+      "final_score": 0.7725008130073547
+    },
+    {
+      "id": "fb4bb60adc3addabd247ae8b",
+      "qdrant_id": "b72d9b38-1d94-5eb8-a1ff-37482f3e5d4a",
+      "text": "with Simon Duffy). His work has appeared in the European Journal of Philosophy, Angelaki, Critical Horizons, Journal of Speculative Philosophy, Deleuze Studies and elsewhere. Rosi Braidotti (FAHA, 2009; MAE, 2014) is distinguished university pro­ fessor and founding director of the Centre for the Humanities at Utrecht University (2007–2016). Publications include Nomadic Subjects (Columbia University Press, 2011); Nomadic Theory: The Portable Rosi Braidotti (Columbia University Press, 2011); and The Posthuman (Polity Press, 2013). Braidotti has also recently co-edited Conflicting Humanities (with Paul Gilroy, Bloomsbury, 2016) and The Posthuman Glossary (with Maria Hjavajova, Bloomsbury, 2018). See details at www.rosibraidotti.com. Elizabeth de Freitas is professor in the Education and Social Research Institute at Manchester Metropolitan University. Her research focuses on phi…",
+      "source": "Rosi Braidotti and Simone Bignall - Posthuman Ecologies _ Complexity and Process After Deleuze (2019, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 175,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.8394097,
+      "importance": 0.8490285873413086,
+      "final_score": 0.759070634841919
+    },
+    {
+      "id": "a3f4489f526be8e59cf212d8",
+      "qdrant_id": "130709cf-c3bb-5cbf-9c40-5fc87932c758",
+      "text": "champions a “vital materialism” in which things exhibit “a positive, productive power of their own” (2010, 1 and passim). Rosi Braidotti similarly explores the possibility of a “vitalist materialism” that would involve “a nonhuman yet affirmative life force” (in Coole and Frost 2010, 203). Elizabeth Grosz, following up on suggestions from Bergson, proposes a notion of “freedom” that is “not tied to the emergence of reason, to the capacity for reflection, or to some inherent quality of the human” (in Coole and Frost 2010, 149). And Karen Barad proposes an “agential realism” in response to the continuing paradoxes of quantum mechanics (2007, 132–85). In this book, I both reconsider Whitehead’s thought in the light of speculative realism and new materialism and suggest revisions to these latter trends from a Whiteheadian standpoint. Let me summarize the remaining chapters briefly. The first chapter, “Self-Enjoyment and Concern,” compares Whitehead’s stance on",
+      "source": "Steven Shaviro - The Universe of Things_ On Speculative Realism (2014, U of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.75184005,
+      "importance": 0.7951393127441406,
+      "final_score": 0.7518400549888611
+    },
+    {
+      "id": "24914e22825948a69ba14fd0",
+      "qdrant_id": "18595279-6a8d-5fd5-80be-5e3f687e114a",
+      "text": "thing’, Rosi Braidotti argues that the strategic politics of essentialism are now the politics of change. In this brilliant reversal of the terms structuring debates on essentialism, Braidotti suggests that the denial of any essential bond is a simultaneous assertion that women have nothing in common other than oppression. This chapter continues and elaborates on Braidotti’s longstanding concern with the ethics of feminism. Her sophisticated discussion of essentialism refers both to the history of metaphysics and the metaphysical nature of philosophy. It makes clear distinctions about the implications of sexual difference and essentialism in the political context, which is Braidotti’s concern, and their implications in the psychoanalytic context. These themes carry over to the next paper, where Margaret Whitford rereads Irigaray. In this major reinterpretation Whitford argues against the received views on Irigaray, especially the stereotype of her as a crude",
+      "source": "Between Feminism and Psychoanalysis (Teresa Brennan) (Z-Library).pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.74600613,
+      "importance": 0.7933309674263,
+      "final_score": 0.7460060715675354
+    },
+    {
+      "id": "3be0379604a0473f983a6005",
+      "qdrant_id": "7a7543a3-382a-556e-b989-c30bbf9c094a",
+      "text": "7 Introduction subjects of knowledge – embedded, embodied and yet flowing in a web of relations with humans and nonhuman others’ (2018: 34). In this way, Braidotti’s neo-materialism seeks to solve the apparent paradox of posthumanism: the simultaneous disappearance and over exposure of the human. This paradox is not simply a theoretical conundrum; it has taken on material urgency in the contemporary climate crisis, which has been unequivocally caused by human actions yet has unleashed events and processes occurring at a scale and level of complexity that utterly rupture the fallacy of human transcendence from ‘nature’ and our exceptionalism. The material turn encompasses a variety of approaches, all of which share a rejection of philosophical dualism. Serenella Iovino and Serpil Opperman summarize the material turn as comprising myriad new ‘ways to analyse language, and realit…",
+      "source": "Chloe Germaine - Dark Matter of Children’s 'Fantastika' Literature, The_ Speculative Entanglements (Bloomsbury Perspectives on Children's Literat (2023, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.8047035,
+      "importance": 0.826366126537323,
+      "final_score": 0.7451812028884888
+    },
+    {
+      "id": "4a0b9a05c21617a6df9c8f05",
+      "qdrant_id": "5128a0c4-9a3c-59fe-9390-826f18012687",
+      "text": "that separates humans from animals, a political existence at least partly enabled by language, which is thought to be a skill unique to humans. As Braidotti shows, via Deleuze and Guattari, the post- structuralist critique of the humanistic subject forces us to challenge the anthropocentrism built into conceptions of the human subject. This anthropocentrism, she notes, ‘prevents us from relinquishing the categorical divide between bios and zoe’ (Braidotti 2006: 40). Braidotti’s understanding of posthumanism is built on the possibility of affirming the vitalist power of zoe and provides a way of transpos- ing modes of sexualisation and naturalisation into productive force (Braidotti 2006: 42). However, and to return to the emergence of ‘sexuality’ as a concept in the early nineteenth century, this concept does not affirm vitalism but presents, rather, a distinctly human sexu- ality determined through language and a political existence shaped by the conditions of the polis.",
+      "source": "Frida Beckman - Between Desire and Pleasure_ A Deleuzian Theory of Sexuality (2013, Edinburgh University Press) [10.1515_9780748645930] - libgen.li (1).pdf",
+      "chunk_index": 473,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.77343035,
+      "importance": 0.809813380241394,
+      "final_score": 0.7419828772544861
+    },
+    {
+      "id": "c8aa334dc90dec0614ba3712",
+      "qdrant_id": "6c1d57cf-7b22-539c-b119-95ad8985f34b",
+      "text": "imposed both from within and from the wider world beyond. This, she says, has led to a heterogeneous abundance of methodologies, approaches and dis- courses. Despite the apparent displacement and outrunning of the Humanities by the daily realities of advanced global capitalism however, she remains posi- tive (as, incidentally, were both Fanon and Said for an extra-European renewal of the Humanities), and sees the use of new resources for the disciplines, citing exploitation of new media and technology and scholarship in innovative ﬁelds like animal studies and eco-criticism. This multiplicity and non-uniﬁed direc- tion of the Humanities can no longer be organised around philosophy as the heart and master theory which judges truths and neither can the human be the unique subject of the posthuman Humanities, far less with ‘Man’ as that exclusive, universalist European rationalist with his dead certainties. As Braidotti puts it:",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 221,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.80779773,
+      "importance": 0.8316778540611267,
+      "final_score": 0.7402847409248352
+    },
+    {
+      "id": "e770f3d0709f3539ff526cb9",
+      "qdrant_id": "d6201d2f-b5f0-5755-9df2-1c33433ee119",
+      "text": "University Press, 2010). Braidotti, Rosi. The posthuman (Cambridge: Polity Press, 2013). Braidotti, Rosi. ‘Posthuman affirmative politics’, in S. E. Wilmer and A. Žukauskaitė (eds) Resisting biopolitics: Philosophical, political, and performative strategies (New York: Routledge, 2016). Braidotti, Rosi. ‘Posthuman relational subjectivity and the politics of affirmation’, in P. Rawes (ed.) Relational architectural ecologies: Architecture, nature and subjec­ tivity (London: Routledge, 2013). Brincat, Shannon. ‘Reclaiming the utopian imaginary in IR theory’. Review of International Studies 35 (2009), 581–​609. Brincat, Shannon. ‘Towards a social-​relational dialectic for world politics’. European Journal of International Relations 17:4 (2010), 679–​703. Brooks, John. ‘Tech insiders call out Facebook for literally manipulating your brain’. KQED Science, 2017. Available online: www.kqed.org/​futu​reof​you/​379​828/​",
+      "source": "(Contemporary Anarchist Studies) Matt York - Love and Revolution_ A Politics for the Deep Commons-Manchester University Press (2023).pdf",
+      "chunk_index": 140,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.80142224,
+      "importance": 0.8284977078437805,
+      "final_score": 0.7386890053749084
+    },
+    {
+      "id": "57e44bd3cbf085139ea45b7d",
+      "qdrant_id": "d3aafbf9-a745-5917-abff-8db86dfb650b",
+      "text": "and dualism is not a new thing in western thought, and has featured strongly and historically in the work of Heraclitus, Spinoza, Hume, Nietzsche and Bergson to mention just a few. From more recent work, the New Materialists could also have taken inﬂuence and inspiration from Deleuze, who claimed that this monist tradition is a minor one, and that these thinkers cited above had been neglected to a certain extent by the ‘mainstream’. Given Braidotti’s aims here though, it is not clear how useful or relevant it is anyway, to refer her to a tradition which, even if not absolutely orthodox, is nonetheless all European, all white, all male. Those aims of this essay, set out by Braidotti at the beginning, namely to assess the constructions of the human, of the idea of the Human at work in the Humanities, may appear simple inasmuch as they are surely part of a straightforwardly conscientious procedure expected of any professional in",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 204,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7369008,
+      "importance": 0.7837681174278259,
+      "final_score": 0.7369006872177124
+    },
+    {
+      "id": "681691ed5d465afc04417a21",
+      "qdrant_id": "1e8c02ed-5f7b-5f77-8a5f-124ca996cbbb",
+      "text": "history and of utopian sexual difference,” thus demonstrating that the “event of the Anthropocene is exceptional—­but not by being extrinsic to what we have come to refer to as nature or humanity.” Like Colebrook, Rosi Braidotti takes up the question of anthropo- cene feminism in relation to the concept of the posthuman, a concept she has theorized quite extensively. In “Four Theses on Posthuman Feminism,” Braidotti thinks through anthropocene feminism as a form of posthuman feminism, beginning with the thesis that “feminism is not a humanism.” For Braidotti, feminism is resolutely antihumanist and, she adds, anti-­Eurocentric. Her second thesis, “Anthropos is off-­center,” offers a zoe-­centric relational ontology that decenters humanism not from the outside but “from philosophies of radical immanence, vital materialism, and the feminist politics of locations.” Proclaiming zoe…",
+      "source": "Anthropocene Feminism (21st Century Studies) (Richard Grusin, Stacy Alaimo, Rosi Braidotti etc.) (Z-Library).pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.8301676,
+      "importance": 0.8464029431343079,
+      "final_score": 0.7359138131141663
+    },
+    {
+      "id": "338677184ed747e6416caf8c",
+      "qdrant_id": "38d19f7d-f70d-5c41-82e3-977be537f4f6",
+      "text": "The necessity to imagine alternative modalities for the subject is what femi- nist theorist Rosi Braidotti promotes when she writes: What counts as human in this posthuman world? How do we rethink the unity of the human subject, without reference to humanistic be- liefs, without dualistic oppositions, linking instead body and mind in a",
+      "source": "Kim Toffoletti - Cyborgs and Barbie Dolls_ Feminism, Popular Culture and the Posthuman Body (2007, I. B. Tauris) - libgen.li.pdf",
+      "chunk_index": 19,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.79909563,
+      "importance": 0.8227241635322571,
+      "final_score": 0.7343865036964417
+    },
+    {
+      "id": "4a5b67321201824c84b49e74",
+      "qdrant_id": "066414ff-8efc-5b54-8dca-7f50d70c7c50",
+      "text": "rary identities. Posthumanism should not be confused with antihumanism, however. Braidotti is at pains to explain how this radical feminist project is by no means groundless or without an ethics: “To be posthuman does not mean to be indifferent to the humans, or to be de- humanized. On the con- trary, it rather implies a new way of combining ethical values with the well- being of an enlarged sense of community, which includes one’s territorial or environmental inter- connections.”39 Postanthropocentric posthuman- ism, then, celebrates the afﬁrmative connections between human subjects and multiple, unfamiliar (unfamilial) others. It rejects the idea of a uni- versal normative human subject and autonomous subjective agency, but rejoices in the humanities and the cultivation of human ethics committed to expansive deﬁnitions of community and concern. It is here that Piccinini’s art pr…",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 259,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.78465617,
+      "importance": 0.8162520527839661,
+      "final_score": 0.7326439619064331
+    },
+    {
+      "id": "d451f6ae85c8273d88521440",
+      "qdrant_id": "ad576638-7f56-503b-89e2-2d933c7ade51",
+      "text": "cultural frameworks surrounding female subjectivity and sexuality. It is this process of interrogation and deconstruction that functions to germinate the ethical potential of an exploration of female masochism culturally and philosophically. Value-laden terminology surrounds the masochistic body and the female body alike: these bodies are perverse and taboo, monstrous and obscene, transgressive phenomenon that appear in the consciousness of society to thwart or demolish any stable notions of propriety or normality in regard to the socially situated human subject. Rosi Braidotti is one of a number of recent theorists who have engaged with the concept of the post-human in order to demonstrate not that the category of the human is transforming in the late twentieth and early twenty-first century but that the very concept of the human as expressed in the doctrines of Western Human…",
+      "source": "(Film Philosophy at the Margins) McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7959515,
+      "importance": 0.8220096230506897,
+      "final_score": 0.7303674221038818
+    },
+    {
+      "id": "55473ef646912c1c119734ee",
+      "qdrant_id": "40e85586-0c2c-5069-9d7d-423ded32ffe2",
+      "text": "ated with (a mostly Deleuzian) neomaterialist or neovitalist feminism which has been sensitive to the nonhuman, the in- organic and the vibrancy of matter. This would include theo- rists such as Stengers,90 Elizabeth Grosz,91 Rosi Braidotti,92 Ma- nuel de Landa,93 Myra Hird,94 and Claire Colebrook.95 It would also hold Jane Bennett’s Vibrant Matter: A Political Ecology of 89 Harman, Circus Philosophicus, 1. 90 Isabelle Stengers, Cosmopolitics 1, trans. Robert Bononno (Minneapolis: University of Minnesota Press, 2010). 91 Elizabeth Grosz, Chaos, Territory, Art: Deleuze and the Framing of the Earth (New York: Columbia University Press, 2008). 92 Rosi Braidotti, Transpositions: On Nomadic Ethics (Cambridge: Polity, 2006). 93 Manuel DeLanda, Philosophy and Simulation: The Emergence of Synthetic Reason (London: Continuum, 2011). For a queering of DeLanda’s work, see Jeff Lord’…",
+      "source": "After the Speculative Turn Realism, Philosophy, and Feminism (Katerina Kolozova, Eileen A. Joy) (Z-Library).pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.762794,
+      "importance": 0.8021637797355652,
+      "final_score": 0.7302653789520264
+    },
+    {
+      "id": "9f628f179b2c6c106b94439e",
+      "qdrant_id": "74880b3c-4388-58a9-8333-feaac2f30273",
+      "text": "work of contemporary philosophers – including Jacques Rancière, Slavoj Zˇ izˇek and Judith Butler – in relation to the classical psychoanalytical posi- tions of Freud and Lacan. He looks at the philosophical questions that are now emerging from the productive convergence of philosophy and psychoanalysis: questions of sexuality, ideology and radical ethics, for instance. In her strongly contemporary chapter, ‘Feminist Philosophy’, Rosi Braidotti calls poststructuralism and deconstruction the ‘classical’ positions to which current feminist philosophy responds and seeks to move beyond. When the once-subversive has become mainstream, she argues, the challenge for feminist philosophy is to ﬁnd the ‘conceptual creativity’ to produce new forms of radicalism. Braidotti identiﬁes new paths in ‘post-anthropocentric’ vitalist philosophies of embodiment, ecology and biotechnology that have the potential to transform theories of sexuality and the sex/gender distinction.",
+      "source": "(Continuum Companions) John Mullarkey, Beth Lord (editors) - The Continuum Companion to Continental Philosophy (Continuum Companions)  -Continuum (2009).pdf",
+      "chunk_index": 24,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7928983,
+      "importance": 0.8217418789863586,
+      "final_score": 0.7300363779067993
+    },
+    {
+      "id": "1a6f15753e758582fa70eb89",
+      "qdrant_id": "34c9297a-7b1b-5cab-9e62-270f340ce6aa",
+      "text": "sciences’ claims to objectivity, arguing instead for an understanding of the mutual implications of the material and the discursive. Life, she says, is not an inherent property of individuals but is performed through its material phenomena and discursive practices. Therefore, the matter of life can be understood only in its dynamic process of becoming. The notion of becoming is also central to chapter 12, by Rosi Braidotti, who pro- poses an understanding of life as “zoe,” by which she means a vitalistic and gener- xviii I INTRODUCTION",
+      "source": "Smelik, Anneke(Editor) - Bits of Life_ Feminism at the Intersections of Media, Bioscience, and Technology (2008, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7282026,
+      "importance": 0.7754203081130981,
+      "final_score": 0.7282027006149292
+    },
+    {
+      "id": "e15c4f632f1be5f3ceb8b50b",
+      "qdrant_id": "dff89b5a-694f-5d35-852f-ca8b9b713c4e",
+      "text": "36). As Braidotti’s evocation of the ‘nonhuman’ suggests, neo-materialism is an extension of posthumanism. Braidotti’s articulation of posthumanism emphasizes the freedom and self-determination of matter itself. She claims that ‘this understanding of matter animates the composition of posthuman",
+      "source": "Chloe Germaine - Dark Matter of Children’s 'Fantastika' Literature, The_ Speculative Entanglements (Bloomsbury Perspectives on Children's Literat (2023, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.77231854,
+      "importance": 0.802617073059082,
+      "final_score": 0.7270718812942505
+    },
+    {
+      "id": "23fbda41e2d4f42b7cc1229b",
+      "qdrant_id": "3491ad92-7684-59c8-9fc3-5bae8a398077",
+      "text": "ative life. Zoe allows for an a‹rmative appreciation of life. Braidotti extensively traces the history of “life as zoe” in philosophy and goes on to develop the concept of a sustainable self. She embraces the ethical principle of a‹rmation by putting forward what she calls a “sustainable nomadic ethics.” The concept of nomadism points to an understanding of the self and of the subject as a dynamic process of continuous becoming. In order for that nomadic self to be sustainable, Braidotti argues, the subject needs endurance. Endurance, for her, is joyful a‹rmation as the inherently positive potential of the subject. Thus Braidotti develops a new ﬁgura- tion of living subjectivities in the posthumanist mode. Bits of Life highlights the search for tools and theories by which it becomes pos- sible to analyze the complex interplay among textual, visual, imaginary, techno- logical, and biological dimensions of bodies, of subjects, and of life. We hope that",
+      "source": "Smelik, Anneke(Editor) - Bits of Life_ Feminism at the Intersections of Media, Bioscience, and Technology (2008, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7881551,
+      "importance": 0.8179823160171509,
+      "final_score": 0.7255940437316895
+    },
+    {
+      "id": "005775392c397bd789740850",
+      "qdrant_id": "752b22f0-df4e-53e5-9459-f52c21599f39",
+      "text": "for the Humanities at Utrecht University. Her work has consistently been placed in continental philosophy, at the intersection with social and political theory, cultural politics, gender, feminist theory and ethnicity studies. Influenced by philosophers such as Gilles Deleuze and especially “French feminist” thinker Luce Irigaray, Braidotti has brought postmodern feminism into the Information Age with her considerations of cyberspace, prosthesis, and the materiality of difference. Her books include The Posthuman (Polity Press, 2013), Nomadic Theory: The Portable Rosi Braidotti (Columbia University Press, 2011), Transpositions: On Nomadic Ethics (Polity Press, 2006), Metamorphoses: Towards a Materialist Theory of Becoming (Polity Press, 2002) and Nomadic Subjects: Embodiment and Sexual Difference in Contemporary Feminist Theory (Columbia University Press, 1994 and 2011). Rosemar…",
+      "source": "Bolette Blaagaard (editor) - The Subject of Rosi Braidotti_ Politics and Concepts (2014, Bloomsbury Academic) [10.5040_9781472594426] - libgen.li.pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.79998267,
+      "importance": 0.8203393816947937,
+      "final_score": 0.7228350639343262
+    },
+    {
+      "id": "95ee7033892ee9987c7df3b1",
+      "qdrant_id": "5db097b7-5ad1-5204-ab56-1e5acc2b564b",
+      "text": "(1996), 'Ruimte tussen de werelden. Spirifeminisme in de jaren negentig', Lover. Literatuuroverzicht over feminisme, cultuur en wetenschap, vol 23, (1996) 1, 4-13. 10 Thus Rosi Braidotti writes: 'Are feminists closet humanists, wanting to rescue what is left of rationality, needing some realist theory of discourse, or an alternative religion? Or can they adopt a radical form of epistemology that denies access to a real world and to a final truth?' (my italics). Braidotti, R. (1994a), Nomadic Subjects. Embodiment and Sexual Difference in Contemporary Feminist Theory, New York: Columbia University Press, 108. 11 I will discuss this critique of the supposed essentialism of Luce Irigaray's thought in chapters 5 and 7.",
+      "source": "Anne-Claire Mulder - Divine Flesh, Embodied Word_ Incarnation as a Hermeneutical Key to a Feminist Theologian's Reading of Luce Irigaray's Work (2006, Amsterdam University Press) - libgen.li.pdf",
+      "chunk_index": 73,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.79777396,
+      "importance": 0.8235912322998047,
+      "final_score": 0.7215954661369324
+    },
+    {
+      "id": "5222afde3817cb27755aa7a5",
+      "qdrant_id": "5250ab0f-794f-5c07-9758-a55b94278d03",
+      "text": "29 Hélène Frichot, Adrià Carbonell, Hannes Frykholm, Sepideh Karami 42 Rick Dolphijn and Iris van der Tuin, eds., New Materialism: Interviews and Cartographies (Ann Arbor: Open Humanities Press, 2012); and Stacy Alaimo and Susan Hekman, eds., Feminist Materialisms (Indianapolis: Indiana University Press, 2008). 43 Rosi Braidotti and Cecilia Åsberg, eds., A Feminist Companion to the Posthumanities (Cham, Switzerland: Springer, 2018); Rosi Braidotti, Posthuman Knowledge (Cambridge, UK: Polity, 2019); and Cary Wolfe, What Is Posthumanism? (Minneapolis: Universi- ty of Minnesota Press, 2010). privilege given in Western philosophy, at least since Aristotle, to form over matter. Although intersecting with new materialism and the environmental humanities, the posthumanities arrived in the twenty-first century via multiple channels. We follow the feminist path articulated…",
+      "source": "Adrià Carbonell, Hélène Frichot, Hannes Frykholm, Sepideh Karami - Infrastructural Love_ Caring for Our Architectural Support Systems (2022, Birkhäuser) - libgen.li.pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.8247037,
+      "importance": 0.8414706587791443,
+      "final_score": 0.7187818288803101
+    },
+    {
+      "id": "65c7b92f5b039e5be3775477",
+      "qdrant_id": "7e107c29-f3ab-5efc-ba3c-fada2da3f8e3",
+      "text": "4 Introduction For the vital materialist, however, the starting point of ethics is less the ­acceptance of the impossibility of “reconcilement” and more the recog- nition of ­human participation in a shared, vital materiality. We are vital materiality and we are surrounded by it, though we do not always see it that way. The ethical task at hand ­here is to cultivate the ability to discern nonhuman vitality, to become perceptually open to it. (2010, 14) The second is a passage from Dreaming the Dark, by Starhawk, the primary ­organizer of the Reclaiming network of co­vens in the San Francisco area beginning in the 1970s: Estrangement permeates our society so strongly that to us it seems to be consciousness itself. Even the language for other possibilities has dis­ appeared or been deliberately twisted. Yet another form of consciousness is pos­si­ble. Indeed, it has existed from e…",
+      "source": "Nathan Snaza - Tendings_ Feminist Esoterisms and the Abolition of Man (2024, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7186243,
+      "importance": 0.7680801749229431,
+      "final_score": 0.7186243534088135
+    },
+    {
+      "id": "7ad5959abd1feb1ce5bf88a4",
+      "qdrant_id": "257f7343-5389-5fca-97a6-af7a3c3d8d99",
+      "text": "(Alaimo 2008) materialities – which Donna Haraway poetically talked about as the “trickster” qualities and “witty” agency of matter (Haraway 1991, 199), and which Rosi Braidotti theorized as “life as zoe”, as generative, dynamic, inhuman, affective energy (Braidotti 2006, 36f); 5. an embedding of all scholarly knowledge production in ethico-onto- epistemological considerations (Barad 2007, 185), i.e. reﬂecting the ways in which ethics, ontologies, and epistemologies are “always already” entangled. To work on a semiotic-material and discursive-material basis, with only provi- sional cuts in knowledge production, and taking into account the above guidelines requires radically different ways of working and organizing in Academia than those currently in vogue. In particular, the division of labor between humanities, social sciences, medical, technical, and natural sciences needs to be transg…",
+      "source": "Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf",
+      "chunk_index": 145,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.753279,
+      "importance": 0.7977054715156555,
+      "final_score": 0.7169815897941589
+    },
+    {
+      "id": "d0df9c14f60405c52e0a9a02",
+      "qdrant_id": "730bb797-df9c-5dc0-9fae-857990f28bf2",
+      "text": "Introduction 11 Corollary 4 offers a theologico- political reﬂ ection on the ethical implications of dialectical materialism by turning around the well- known anti- idealist motto Hic Rhodus, hic saltus (used, among others, by Hegel, then Marx): the true dialectical- materialist motto should be Ibi Rhodus, ibi saltus : act in such a way that your activity does not rely on any ﬁ gure of the big Other as its ontological guarantee. Even the most “materialist” orientation all too often relies on some big Other supposed to register and legitimize our acts; how then would an activity look which no longer counts on it? The answer is deployed through the analysis of four works of art: Lillian Hellman’s drama Children’s Hour , the Danish crime movie Conspiracy of Faith , Wagner’s music drama Parsifal , and another crime movie, Taylor Sheridan’s Wind River . Each theorem and it…",
+      "source": "Slavoj Žižek - Sex and the Failed Absolute (2020, Bloomsbury Academic) [10.5040_9781350043800] - libgen.li.pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7161761,
+      "importance": 0.7618195414543152,
+      "final_score": 0.7161760926246643
+    },
+    {
+      "id": "87ade04b9e79bda3670d904a",
+      "qdrant_id": "bbb91f92-e5d8-53c0-9a07-38632c2299ca",
+      "text": "family, the construction of personality, the training of per- ceptions – as not singularly contributory but productive of eating disorders’ (50). In her 2000 book, The Male Body, she analyses masculinity and male bodies from a feminist perspective, thus contributing to the growing ﬁeld of masculinity studies. Her other books include The Flight to Objectivity (1987) and Twilight Zones: The Hid- den Life of Cultural Images from Plato to O.J. (1999). See embodiment Braidotti, Rosi: white Italian feminist philosopher teaching in the Netherlands, specialising in embodiment, poststruc- tualism and psychoanalysis. In Metamorphoses: Toward a Materialist Theory of Becoming (2002) Braidotti states that all of her books are connected by a question: ‘how can one free difference from the negative charge which it seems to have been built into it?’ (4). In her book Nomadic Subjects (1994) Braidotti provides a series of essays that consider the nomadic nature of subjectivity,",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.8051015,
+      "importance": 0.8261306881904602,
+      "final_score": 0.7160032987594604
+    },
+    {
+      "id": "fabd7405b3b18e0d93732ed4",
+      "qdrant_id": "f65e12c1-0950-59a8-8be4-66a514d50d6e",
+      "text": "humanities” of Elizabeth Grosz, “the posthuman humanities,” and “feminist post- humanities” of Rosi Braidotti and Cecilia Asberg, including “material feminisms” of Stacy Alaimo and Susan Hekman, “neo-materialism” of Rosi Braidotti, “zoontol- ogy” of Cary Wolfe, and “new materialism” of Diana Coole and Samantha Frost; and “cartography and new materialism” of Rick Dolphjin and Iris van der Tuin, “material ecocriticism” of Serenella Iovino and Serpil Opperman, “eco-feminism” of Val Plumwood, “queer ecologies” of Catriona Mortimer-Sandilands and Bruce Erickson, “vitalism” of Rosi Braidotti, and “vibrant matter” of Jane Bennett(Asberg and Braidotti 13). Hence, there is no end in the branch of feminist posthumanism that handles the inevitability of confronting nature and accepting other nonhuman beings as subjects. Instead, there is an affirmative and relational outlook including “nature-cultural” and “techno-scientific” issues.",
+      "source": "Zekiye Antakyalıoğlu - Post-Theories in Literary and Cultural Studies-Lexington Books (2022).pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7772386,
+      "importance": 0.8074942231178284,
+      "final_score": 0.7145417332649231
+    },
+    {
+      "id": "eb9e5c01e7450d2bfa9059ae",
+      "qdrant_id": "033a1f69-87ad-5cc3-9484-e358a697d324",
+      "text": "to position the human along an embodied continuum of newly vivified things. My approach to posthumanism is thus aligned with Hayles’s cri- tique of transhuman disembodiment, but this erosion of the boundary between vitalism and mortalism marks a departure from Hayles’s call to “celebrate finitude as a condition of human being.”12 Hayles seeks to reclaim the horizon of death from a transhumanist aspiration toward material transcendence, but defining the human through its finitude has significant political, ethical, and psychological implications; as Braidotti notes, philosophical conceptions of the subject’s finitude “fuel an affec- tive political economy of loss and melancholia at the heart of the sub- ject” and support “the constitutive vulnerability of the human subject, which sovereign power can kill.”13 Reconceptualizing death as part of a vitalist continuum rather than as a…",
+      "source": "Edwards, Erin E - The modernist corpse_ posthumanism and the posthumous (2018) - libgen.li.pdf",
+      "chunk_index": 23,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7140554,
+      "importance": 0.7741278409957886,
+      "final_score": 0.7140552997589111
+    },
+    {
+      "id": "0ff18000692f1f570221f318",
+      "qdrant_id": "4098ed40-3793-55cd-a26b-00edb02bfa2d",
+      "text": "106 Rosi Braidotti human embodied self, into the fake transcendence of a machine aiming at short- term profit. It makes feminism complicitous with the aims of advanced capitalism and its belligerent economy. This strikes me as molar, oedipalizing, despotic and profit-minded approach that results, in terms of eman cipatory politics, in a woman like Condoleeza Rice. It is against this social imaginary oftechno-domination that 1 want to argue for a more empowering and hence more dissipative, eroticized and fiowing interaction between the human and the bio-techno-Iogical. An evolution of the non-teleological, but rather the nomadological kind, as my friend Kathy Acker18 said. III. Moods of In-Between-ness What forms of symbolic mediation become possible and even necessary under the impact of the new prosthetic bodies we have come to inhabit? The advanced technologies enable a short-circuiting oftraditional social roles and a great deal of",
+      "source": "[TEXTURES_ Philosophy _ Literature _ Culture] Henk Oosterling, Ewa Plonowska Ziarek (eds.) - Intermedialities_ Philosophy, Arts, Politics (2010, Lexington Books) - libgen.li.pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7804339,
+      "importance": 0.8132224678993225,
+      "final_score": 0.7132413387298584
+    },
+    {
+      "id": "18f7cd27e3f11a8dc1347ae5",
+      "qdrant_id": "72b6c33e-e801-5bad-a09e-15b9d1ab77e7",
+      "text": "Contributors Purushottama Bilimoria is Professor of Philosophy and Comparative Studies at Deakin University in Australia and Senior Research Fellow, University ofMelboume. He has been Visiting Professor at Stony Brook University (New York) and Columbia University (New York). His areas of specialist research and publications cover c1assical Indian philoso- phy and comparative ethics; Continental thought; cross-cultural philosophy of religion, diaspora studies; bioethics, and personallaw in India. His most recent publication is lndian Ethics 1 (Ashgate, 2007). Rosi Braidotti is Distinguished Professor in the Humanities at Utrecht University. Her publications include: Transpositions. On Nomadic Ethics (Cambridge, Polity Press, 2006), Metamorphoses: Toward a Materialistic Theory of Becoming (Cambridge: Polity Press, 2002), Nomadic Subjects: Embodiment and Sexual Difference (New York: Columbia University Press, 1994), Women, the Environment and Sustainable Development: Towards",
+      "source": "[TEXTURES_ Philosophy _ Literature _ Culture] Henk Oosterling, Ewa Plonowska Ziarek (eds.) - Intermedialities_ Philosophy, Arts, Politics (2010, Lexington Books) - libgen.li.pdf",
+      "chunk_index": 165,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.71291375,
+      "importance": 0.7821831107139587,
+      "final_score": 0.7129138112068176
+    },
+    {
+      "id": "4a0c1fd9493997634bbbee5b",
+      "qdrant_id": "b5f90785-ae3e-570f-8b4a-b240cc36307d",
+      "text": "(Transpositions, p. 9). Though Braidotti is an ally when it comes to creating an ethical vision she puts more emphasis on the forces that push us out of habits rather than on the character traits one might develop to cultivate an openness to those encounters. 10. See Smith, ‘The Place of Ethics in Deleuze’s Philosophy’. 11. Braidotti, Nomad Subjects, p. 22. 12. Charles Taylor, The Ethics of Authenticity, Cambridge, MA: Harvard University Press, 1991; Onora O’Neill, Towards Justice and Virtue: A Constructive Account of Practical Reasoning, Cambridge: Cambridge University Press, 1996. 13. See especially Taylor’s chapter on ‘Atomism’ in Philosophy and the Human Sciences, p. 192. 14. See especially chapter 2 of Taylor’s The Ethics of Authenticity, ‘The Inarticulate Debate’. 15. Taylor, The Ethics of Authenticity, p. 27. 16. See Joe Hughes, Philosophy After Deleuze, London: Blo…",
+      "source": "Cheri Lynne Carr - Deleuze's Kantian Ethos_ Critique as a Way of Life-Edinburgh University Press (2022).pdf",
+      "chunk_index": 180,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.71232456,
+      "importance": 0.7598877549171448,
+      "final_score": 0.7123244404792786
+    },
+    {
+      "id": "c3a954c393705d17187467b0",
+      "qdrant_id": "d264c38a-f946-52ed-bc29-8b31d09d71a2",
+      "text": "and the pornography of representation’. The tendency of modern science and technology is to assume a link between visibility and truth. However, in Braidotti’s view, the authority of such technology is as perverse as it is pervasive. She argues that the idea that visibility equals truth is a deep- rooted fantasy. Seeing the world, bodies, etc., is not a mechanical operation, simply registering what is objectively out there. What one sees is a product of positioning, and different accounts of the world involve political struggles over how to see and how to interpret. Braidotti argues that a politics of visual culture is required; vision implies responsibility, it is not a neutral activity, and women need to challenge the ways in which biomedical science presents its ‘advances’, looking for built-in power structures. (Braidotti’s paper could be read in conjunction with Annette Fitzsimon’s contribution later in this section, which offers a more positive account of women’s possible",
+      "source": "Lennon, Kathleen_Whitford, Margaret - Knowing the Difference_ Feminist Perspectives in Epistemology (2002_1994, Routledge (E)) - libgen.li (1).pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7120724,
+      "importance": 0.7798624038696289,
+      "final_score": 0.7120722532272339
+    },
+    {
+      "id": "1b99fd39c3a4637be89ac124",
+      "qdrant_id": "2bdf3bb3-9f58-5c9a-ae14-a24370fd7e04",
+      "text": "The Ethics of Giacomo Leopardi 34 Such a critique of the so-called ‘vitality of the times’ is particularly prominent in the dialogues that Leopardi wrote in 1824, which I shortly examine, to illustrate the way in which he attended, first to the poor state of the world, before turning his attention to the vitality he saw people as lacking. Following this, I show how Leopardi stringent critique of the limits of the Enlightenment in their inception ultimately paves the way for a unique ethical stance, in which Leopardi underscores the philosophical necessity of cultivating courage, solidarity and compassion as central components of our ways of life within modernity. Barbarous times in the Zibaldone Given the important place that the Zibaldone has in Leopardi’s oeuvre, I wish to begin by introducing some of the key themes that traverse this work, earning him his reputation as one o…",
+      "source": "Alice Gibson - The Ethics of Giacomo Leopardi_ A Philosophy for the Environmental Crisis (2023, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 101,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7096011,
+      "importance": 0.7556427717208862,
+      "final_score": 0.7096010446548462
+    },
+    {
+      "id": "e7132a1536eedd29e9db91aa",
+      "qdrant_id": "33654f60-e035-5554-a031-ec6871bd2206",
+      "text": "206 Rosi Braidotti emplified by Giorgio Agamben.l5 It defines \"bios\" as the result of the intervention of sovereign power as that which is capable of reducing the subject to \"bare life:' that is to say \"zoe:' The being-aliveness ofthe subject (zoe) is identified with its perishability, its propens~ty and vulnerability to death and extinction. Biopower here means Thanatos-politics and results, among others, in the indictment ofthe project ofmodernity. A third important group is formed by feminist, envirorunentalist, and race theorists who have addressed the shifting status of \"diffe;rence\" in advanced capitalism in a manner that respects the complexity of social relations and critiques liberalism, while highlighting the specificity of a gender and race approach.16 These critical thinkers approach biopolitical analyses from the angle of the greed and ruthless exploitation that marks contem…",
+      "source": "Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 660,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7089701,
+      "importance": 0.7672941088676453,
+      "final_score": 0.7089701890945435
+    },
+    {
+      "id": "1c0fa91b41debe1f663c527a",
+      "qdrant_id": "01738740-1bf5-5412-9497-96c8ffe288ac",
+      "text": "matter and materiality outside ofthe dualism ofthe material and the ideal. In her comparative study ofthe vitalist philosophies ofHans Driesch and Henri Bergson, Jane Bennett explores efforts to specify and give a philo- sophical and scientific language to the liveliness ofliving matter while also warning of the ways vitalism can be given troubling new life in the po-",
+      "source": "Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 131,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7074801,
+      "importance": 0.7746424674987793,
+      "final_score": 0.7074800729751587
+    },
+    {
+      "id": "e5741ce91c22f74e0baca92e",
+      "qdrant_id": "444886c3-00b6-5e03-89d5-97db2cabbfa3",
+      "text": "to exceptional characteristics, such as the possession of syntactical language or of ‘free will’. The strand of new materialist posthumanism with which Connolly and Bennett are associated might be referred to as ‘new vitalism’. The latter has been particularly associated with the influence of Gilles Deleuze, who, it should be noted, did not consider himself a materialist but was concerned that his work be understood as vitalist (Coole and Frost, 2010: 9). In political work, this position is particularly clearly illustrated by the ‘enchanted’ or ‘vital’ materialism of Bennett (2010) who argues that inorganic matter, such as litter (trash) or an electricity grid, all exhibit force and vitality rendering them active, productive and self-creating. Bennett argues for a vital materialism in order to recognise the role of apparently inanimate matter affecting and configuring situations and events. The vitality",
+      "source": "[Interventions] Erika Cudworth, Stephen Hobden - The Emancipatory Project of Posthumanism (2018, Routledge) - libgen.li.pdf",
+      "chunk_index": 186,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.70695424,
+      "importance": 0.7683325409889221,
+      "final_score": 0.7069542407989502
+    },
+    {
+      "id": "e7e5e838c96b195e47d2367f",
+      "qdrant_id": "6b567044-42a1-5ee7-b755-d762b9030c3d",
+      "text": "The Subject of Rosi Braidotti 8 intricate entwinement with a symbolic order that positions the female gender either pejoratively or not at all. In other words, hers is a materialist feminism with strong links to feminist standpoint theory (cf. Harding 1986) and feminist interpretations of (Freudian) psychoanalysis (cf. Mitchell 1973; Wright 1992) in addition to being a poststructuralist philosophy. Patterns of Dissonance develops the category of “bodily materialism” for this feminist philosophical movement of which Braidotti considered herself, or her work, to be a part. In the following quote we can surely find the beginnings of what she has recently begun to label “matter-realism” (e.g., Braidotti 2011c; 2011e; 2013j): . . . the definition of the subject as a simultaneously semiotic and material agent . . . raises the possibility and even the desirability of a revision of wha…",
+      "source": "Bolette Blaagaard (editor) - The Subject of Rosi Braidotti_ Politics and Concepts (2014, Bloomsbury Academic) [10.5040_9781472594426] - libgen.li.pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7591933,
+      "importance": 0.7949216365814209,
+      "final_score": 0.7053297162055969
+    },
+    {
+      "id": "896f9a1a7db1543006e0a3f8",
+      "qdrant_id": "0985117f-11f7-54ef-8285-bd2264aa862b",
+      "text": "26 Rosi Braidotti and Rick Dolphijn human, post-human and inhuman forces. The eco-philosophical dimension is essential to the postsecular turn in that it values one’s reliance on the multiple ecologies that sustain us in a nature-culture continuum22 and within which subjects must cultivate affirmative ethical relations. Critical theory is rather about strategies of actualization of affirmation as an ethical practice, that consists of multiple micro-political practices of daily activism or interventions in and on the world we inhabit for ourselves and for future generations. The essence of the argument is that there is no logical necessity to link political subjectivity to oppositional consciousness and reduce critique to negativity. Critical theory can be just as critical and more persuasive theoretically, if it embraces philosophical monism and vital politics and disen…",
+      "source": "(Faux titre 400) Rosi Braidotti (ed.), Rick Dolphijn (ed.) - This Deleuzian Century_ Art, Activism, Life-Brill, Rodopi (2015).pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7050755,
+      "importance": 0.7562482357025146,
+      "final_score": 0.7050753831863403
+    },
+    {
+      "id": "d5eb47e5aba9062d7a812cb6",
+      "qdrant_id": "028ba1e8-56fa-5d70-9815-ba2a1701a68f",
+      "text": "that identify that the unregulated increase in surplus capital and its consequent rights, burdens and privileges must also be ethically distributed according to agreed principles rather than relying on myths of markets, hidden hands or Geist which support only (and partially) the interests of the established capitalist classes. In short, the intellectual ideality of contemporary society comes into confl ict with the material ideality that made it possible. Only when the ‘new’ perspective is granted a voice is such a critique possible. Vattimo talks explicitly of a responsible interpretation of one’s own moral fabric with all its inherent values and the recognition that such values derive from a world view and not from incontrovertible, absolute truth. And the values which are to be preferred are those",
+      "source": "[Bloomsbury Studies in Continental Philosophy] David Edward Rose - Free Will and Continental Philosophy_ The Death Without Meaning (2009, Continuum) [10.5040_9781472546494] - libgen.li.pdf",
+      "chunk_index": 417,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7029377,
+      "importance": 0.7536739110946655,
+      "final_score": 0.7029376029968262
+    },
+    {
+      "id": "9276a3bc441b9cfbd08208f7",
+      "qdrant_id": "3be95719-a38c-5ba7-991e-c8ae4cb1c2b1",
+      "text": "exceed it (Grant 2009). The thinkers who could be loosely described as “new materialists” are far less concerned than the speculative realists are with the particular paradoxes of correlationism. But they also seek to elaborate new ways of grasping the world, outside of anthropocentric paradigms and grounded in a firm commitment to realism (for a survey of the various new materialisms, see Coole and Frost 2010 and Dolphijn and van der Tuin 2012). Most of the new materialists are strongly influenced (as Graham Harman is also) by the work of Bruno Latour. They take inspiration from the way that Latour traces the power struggles and negotiations of nonhuman as well as human actants (Latour 1988, 151–238) and envisions a world of proliferating hybrids (Latour 1993, 1–3 and passim). Thus Jane Bennett champions a “vital materialism” in which things exhibit “a positive, productive power of their own” (2010, 1 and passim). Rosi Braidotti similarly explores the",
+      "source": "Steven Shaviro - The Universe of Things_ On Speculative Realism (2014, U of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.70251846,
+      "importance": 0.788000762462616,
+      "final_score": 0.7025185823440552
+    },
+    {
+      "id": "cb65c91e9dc1bee8e5267af6",
+      "qdrant_id": "664e08b2-aaa9-5116-b839-2059c85cfbaf",
+      "text": "by value pluralism. The challenge is to be able to state, in no uncer- tain terms, that certain ways of life are better than others and certain social practices are universally wrong. It seems that Rawls and Vattimo are both committed to the autonomy of the subject and its liberation, even if such a liberation is no longer a matter of the imposition of universal reason (Freeman, 2007: 361–3). The postmodern condition is, peculiarly and surprisingly, a commitment to the universality not of individual reason but of social dialogue. Vattimo affi rms an implicit postmodern normativity that inverts Rawls: The task of philosophy, once it is aware of the postmodern condi- tion, consists in articulating this pre-comprehension; attempting, or better inventing, starting from this very condition (projecting) a guiding thread for choices and plans, from individual ethics to politics. In place of the nostalgic effort, characteristic of reactive",
+      "source": "[Bloomsbury Studies in Continental Philosophy] David Edward Rose - Free Will and Continental Philosophy_ The Death Without Meaning (2009, Continuum) [10.5040_9781472546494] - libgen.li.pdf",
+      "chunk_index": 425,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.70185566,
+      "importance": 0.754690408706665,
+      "final_score": 0.7018556594848633
+    },
+    {
+      "id": "c688d1495b7c219f6bdf7b42",
+      "qdrant_id": "eb5937e2-4407-510d-a9a0-463ebc721f4e",
+      "text": "important though that these are. ‘New materialisms’ are necessarily pluralised, and throughout this book I consider Woolf’s wide-ranging reconceptualisation of the mate- rial world alongside various nuanced contemporary materialist theories. I begin in Chapter 1 with Woolf’s own theory of ‘granite and rainbow’ which, I argue, is entangled in a vibrant, multiple and creative engage- ment with, and conceptualisation of, the material world. The subsequent chapters go on to consider Braidotti’s materialist nomadic feminism in relation to A Room of One’s Own and To the Lighthouse (1927), Braidotti’s ‘polymorphous vitalism’ and Colebrook’s ‘queer vitalism’ alongside Orlando (1928), Haraway’s ‘mud philosophy’ and Flush (1933), and Barad’s quantum-inspired, material-discursive ‘intra-action’ alongside Bennett’s theory of ‘vital materialism’ in relation to The Waves (1931). All these theories are in one way or another infl uenced by",
+      "source": "Ryan, Derek - Virginia Woolf and the materiality of theory _ sex, animal, life (2013, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 57,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.69556737,
+      "importance": 0.7819408774375916,
+      "final_score": 0.6955674886703491
+    },
+    {
+      "id": "99467fb8808e84918b1e0b6f",
+      "qdrant_id": "334c04a8-9f3d-58bb-9e7e-c3a983ff3731",
+      "text": "8 I N T R O D U C T I O N In Pursuit of an Absolutely Grounded Ethical Pessimism The aim of this book is to accomplish a pessimistic reappraisal of the moral significance of the absolute truths of nature and to craft from it a practical ethics and effective politics. To do this first requires articu- lating an epistemology which would allow us to speak of the absolute metaphysical and ethical truths of reality, as achieved in the sciences. This requires challenging the prevailing modern assumption that reality is value- neutral— that, in other words, it is not only impossible to ascribe any proper moral value to existence itself, but that it is also impossible to talk meaningfully about existence as it is in its own right, rather only how it appears to and is evaluated by us— existence, in other words, as it merely seems from the human perspective. Only by showing how we might talk meaningfully of existence in itself, on a cosmic, universal, and",
+      "source": "Drew M. Dalton - The Matter of Evil_ From Speculative Realism to Ethical Pessimism-Northwestern University Press (2023).pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6947572,
+      "importance": 0.7541810274124146,
+      "final_score": 0.6947572231292725
+    },
+    {
+      "id": "f1696c9a4cdface638484a8d",
+      "qdrant_id": "0c5cc7eb-b01e-5d4e-b2bf-a7874b25a49a",
+      "text": "‘post-anthropocentric’ vitalist philosophies of embodiment, ecology and biotechnology that have the potential to transform theories of sexuality and the sex/gender distinction. The turn to naturalism is prominent across the essays in this collection: so much so that one could venture to say that the future of continental phil- osophy is naturalism, the point at which the gulf with analytic philosophy may ﬁnally be bridged. Naturalism emerges in different forms through this volume: materialism, vitalism, and eco-philosophy among them. Not only Braidotti, but also Bill Martin (‘Continental Marxist Thought’), Caroline Williams (‘Politics and Ethics’), and Douglas Burnham and Melanie Ebdon (‘Philosophy, Literature, and Interpretation’), show that the embodied eco- logical environment is already a key theme for continental philosophy in the early twenty-ﬁrst century. Braidotti, Williams and M…",
+      "source": "[Bloomsbury Companions] John Mullarkey_ Beth Lord (editors) - The Continuum Companion to Continental Philosophy (2009, Continuum) [10.5040_9781472547576] - libgen.li.pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.69457036,
+      "importance": 0.7613582015037537,
+      "final_score": 0.6945704817771912
+    },
+    {
+      "id": "1fc279fb594d1cc856da50cc",
+      "qdrant_id": "b427ad6f-0d06-5bf6-8c62-f8de69f8b2f3",
+      "text": "The central role of sex has grounded many strands of feminism in new forms of materialism. As Rosi Braidotti argues, there are two main types of feminist materialisms. A focus on embodiment develops the transversal of bodies and power. This led to a sensitivity to the entwining of body and mind, nature and culture (Dolphijn and van der Tuin 2012: 21). Another consequence is that",
+      "source": "Brian Willems - Speculative Realism and Science Fiction (2017, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 410,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.78165257,
+      "importance": 0.8113057613372803,
+      "final_score": 0.6932414770126343
+    },
+    {
+      "id": "76410df4cc0cf29cb774cd9f",
+      "qdrant_id": "b6f41b5e-73c4-5021-bfbf-7474d1c9f1c1",
+      "text": "149– 50) leads to the recognition of the need for rigorous study of the mate- rial conditions of life, including the role of human labor in making life pos- sible. However, in dominant cultural theory, the rewriting of “materialism” as premised on aleatory events, objective knowledge of which is assumed to be beyond the capacity of human concepts, is a speculative rewriting of the material. In fact, in the highly influential writings of the Italian autonomist Marxists and postworkerists (e.g., Negri, Christian Marazzi, and Tiziana Ter- ranova), the very idea of objective reality, and with it the ability to objectively measure surplus labor in the digital economy, is rejected in favor of the argu- ment that value is increasingly “subjective” (based no longer on labor but affect, values, and beliefs) and thus outside measure. Instead of dialectical inquiry into the objective conditions that turn labor against itself and divide",
+      "source": "The City of the Senses Urban Culture and Urban Space (Kimberly DeFazio (auth.)) (Z-Library).pdf",
+      "chunk_index": 346,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.693071,
+      "importance": 0.7581528425216675,
+      "final_score": 0.6930710077285767
+    },
+    {
+      "id": "a865a9a4d92ddc1289c498f3",
+      "qdrant_id": "8b58440b-f3be-5942-af89-f91a544f5ddd",
+      "text": "an ethical problem, since, as Barad points out: ‘[E]thics is not simply about the subsequent consequences of our ways of interacting with the world, as if effect followed cause in linear chain of events. Ethics is about mattering, about taking account of the entangled materializations of which we are a part’ (Barad 2007: 384). In Pi, Max declares to the Wall Street executives that he does not want to deal with petty materialists like them because he is just ‘trying to understand our world’. But this understanding does not come with any responsibility for the world of which he is a part. Perhaps his enlightenment is precisely his re- alization of this problem. Thus, his intellectual suicide would be a mode of acceptance of an uncertain, unalterably hybrid and plural world – the world of multiplicity, as Serres calls it. There is actually a strange tranquillity in the way in whic…",
+      "source": "Tarja Laine - Bodies in Pain_ Emotion and the Cinema of Darren Aronofsky (2015, Berghahn Books) - libgen.li.pdf",
+      "chunk_index": 153,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.69255173,
+      "importance": 0.7565066814422607,
+      "final_score": 0.6925517320632935
+    },
+    {
+      "id": "0d4ad6d0496eca82736ffb78",
+      "qdrant_id": "b8656cce-1ef6-5922-a9c2-0cdda90b8f06",
+      "text": "elements and ‘a bundle of highly individualised energies’ converged by moral, political and cultural exigencies (1975a: 1610–13). This evaluation evokes both Bazin’s anti-essentialist concept of a ‘revolutionary humanism’ (2002: 263) and Zavattini’s related observations that neorealism would always be deﬁ ned by a ‘moral position’ (2002: 913). Inherent in these views there is a conviction that, more than ‘aesthetics’, it was an ‘ethics of the aesthetics’ con- solidated by the awareness among young ﬁ lmmakers of their role in promoting human and social growth (Micciché 1999a: ix-xxiii); in that regard, Millicent Marcus’s observation that the ‘ethical impetus’ in effect produced a ‘certain school’, seems justiﬁ ed (1986: 23). The difﬁ culty in arriving at an aesthetic def- inition sheds light on the essentially hybrid nature of the phenomenon. Carlo Lizzani, who like Zavattini liv…",
+      "source": "Torunn Haaland - Italian Neorealist Cinema (2012, Edinburgh University Press) [10.1515_9780748636136] - libgen.li.pdf",
+      "chunk_index": 116,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6924627,
+      "importance": 0.7527090907096863,
+      "final_score": 0.692462682723999
+    },
+    {
+      "id": "4a69cc78d36824799825f206",
+      "qdrant_id": "20e73efe-aef2-5539-a0e6-8803a353ec2c",
+      "text": "at unity, abstraction, mediation, signification, relationality, interiority, interpretation, representation, intentionality and reconciliation. From the viewpoint of an alienated intelli- gentsia, there is little that is constructive to be discovered in everyday social existence. Instead, with a handful of qualifying clauses, we are offered a banal antithesis between the vital, creative, desirous and dynamic (to be unequivocally endorsed) and the oppressive realm of stable material forms (to be implicitly demonised). Deleuze’s cosmic vitalism is virulently anti- materialist. ‘Life’ is an etherealising force, blankly indif- ferent to corporeal human beings, whose highest attainment is to divest themselves of their creatureliness so as to become the pliant medium of this implacable power. The chief ques- tion is how we can be rid of ourselves. Some of those who",
+      "source": "Terry Eagleton - Materialism-Yale University Press (2017).pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.69213724,
+      "importance": 0.7574506402015686,
+      "final_score": 0.6921373605728149
+    },
+    {
+      "id": "bf928db3a9c0107f659bccc1",
+      "qdrant_id": "6a5f1e64-39a5-50b8-bf0b-ea72ea3cf373",
+      "text": "210 Rosi Braidotti rather about multiple micropolitical modes of daily activism. It is essential to put the ‘‘active’’ back into activism. Zo¯e, or life as absolute vitality, however, is not above negativity, and it can hurt. It is always too much for the speciﬁc slab of enﬂeshed existence that single subjects actualize. It is a constant challenge for us to rise to the occasion, to catch the wave of life’s intensities and ride it, exposing the boundaries or limits as we transgress them. We often crack in the process and just cannot take it anymore. The sheer activity of thinking about such intensity is painful: it causes intense strain, psychic unrest, and nervous tension. If thinking were pleasurable, more humans might be tempted to engage in this activity. Accelerations or increased intensities, however, are that which most humans prefer to avoid. Crucial to this ethics of a≈rmation or…",
+      "source": "Diana Coole (editor)_ Samantha Frost (editor)_ Jane Bennett (editor)_ Pheng Cheah (editor)_ Melissa A. Orlie (editor)_ Elizabeth Grosz (editor) - New Materialisms_ Ontology, Agency, and Politics-Duke .pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.69113684,
+      "importance": 0.743611752986908,
+      "final_score": 0.69113689661026
+    },
+    {
+      "id": "bbafb2d2778d3b8a4a3ec373",
+      "qdrant_id": "31a90fbf-6f7a-5bfb-b441-81105c97279f",
+      "text": "8. Postmodern feminists are not, of course, universally committed to this strat­ egy. Rosi Braidotti, for example, argues strongly in favor of a strategic ontological essentialism. In her view, \"taking a priori an antiessentialist stand may be politically right; nevertheless, it remains conceptually short-sighted\" (Nomadic Subjects, 1 85). I would argue, however, that for feminists as for anarchists, political concerns should be given priority over conceptual ones. 9. Durkheim's own work is not, however, particularly radical. Consider, for ex­ ample, his positive reflections on the division of labor which is to be found in any modern capitalist society: \"the progress of individual personality and that of the division of labor depend upon one and the same cause. It is thus impossible to de­ sire one without desiring the other\" (Durkheim, Division of Labor, 404-5). Equally troublin…",
+      "source": "Lewis Call - Postmodern Anarchism (2003, Lexington Books) - libgen.li.pdf",
+      "chunk_index": 427,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.69073266,
+      "importance": 0.7608023881912231,
+      "final_score": 0.690732479095459
+    },
+    {
+      "id": "92d782d58badec891662ca1d",
+      "qdrant_id": "c41034dc-c021-5bf6-91cc-65ef7a2b034e",
+      "text": "Contents Introduction 1 ANDREW GLEESON AND CRAIG TAYLOR 1 Ethics and Experience 12 CORA DIAMOND 2 Cora Diamond and the Uselessness of Argument: Distances in Metaphysics and Ethics 50 RESHEF AGAM-SEGAL 3 The Importance of Being Fully Human: Transformation, Contemplation, and Ethics 68 SARAH BACHELARD 4 How to Be Somebody Else: Imaginative Identification in Ethics and Literature 81 SOPHIE CHAPPELL 5 Different Themes of Love 98 CHRISTOPHER CORDNER 6 A Brilliant Perspective: Diamondian Ethics 113 ALICE CRARY 7 The Riddling God 132 ANDREW GLEESON 8 Shakespeare, Value, and Diamond 146 SIMON HAINES",
+      "source": "(Routledge Studies in Ethics and Moral Theory) Andrew Gleeson_ Craig Taylor - Morality in a Realistic Spirit_ Essays for Cora Diamond-Routledge (2019).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6902883,
+      "importance": 0.7480629086494446,
+      "final_score": 0.6902883052825928
+    },
+    {
+      "id": "90a461b17556f9edc924b404",
+      "qdrant_id": "bf28699c-f37c-5d52-9371-a5b89bc315d8",
+      "text": "of everyday objects, preferring the brutality of chaos and formlessness over the qualities of transfiguration and eternalization that typified art before the modern era. Today, philosophy seems to be taking a similar path in reaction against the bombastic, noisy ideologies of the twentieth century, preferring to take inspiration from the god of small things (to cite a perhaps too-​familiar title) in search of elusive meanings that broaden our mental horizons (Borsari, 1992). The final section of an essay in philosopher Remo Bodei’s, The Life of Things, The Love of Things (2009), on the many aesthetic and epistemological pathways that objects induce us to pursue, demonstrates the way in which this philosophical approach can become almost an ethical program: Life’s brevity and the chance circumstances of birth, which enclose every individual into a limited space and time, permit …",
+      "source": "Massimo Fusillo - The Fetish_ Literature, Cinema, Visual Art (2017, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6897532,
+      "importance": 0.7753753066062927,
+      "final_score": 0.689752995967865
+    },
+    {
+      "id": "f9f910a1832b0e5ff8ea1d4c",
+      "qdrant_id": "b506d22d-a7bd-5c6d-ba65-0f67f9586d6b",
+      "text": "his/her actions are likely to have upon the world. It is a process of engendering empowering modes of becoming (DR; Braidotti, 2006). Here is the punch-line of contemporary vital-materialist politics: given that the ethical good is equated with radical relationality aiming at affirmative empowerment, the ethical ideal is to increase one’s ability to enter into modes of relation with multiple others. Oppositional consciousness is replaced by affirmative praxis; political subjectivity is a process or assemblage that actualizes this ethical propensity. This position is postsecular in the sense that it actively works towards the creation of affirmative alternatives by working through the negative instances, including their representations. The propensity for affirmation is a key feature of neo- spinozist nomadic subjects. This view of subjectivity does not condition the emergenc…",
+      "source": "(Faux titre 400) Rosi Braidotti (ed.), Rick Dolphijn (ed.) - This Deleuzian Century_ Art, Activism, Life-Brill, Rodopi (2015).pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.689669,
+      "importance": 0.7504351139068604,
+      "final_score": 0.689669132232666
+    },
+    {
+      "id": "3ee534f0bbbbc5e6f810def2",
+      "qdrant_id": "840d8144-f0a0-5662-a538-fe537ed32ec4",
+      "text": "216 RosiBraidotti ing ofthe affirmative aspect ofwhat we manage to actualize here and now. Virtual futures grow out of sustainable presents and vice-versa. This is how qualitative transformations can be actualized and transmitted along the genetic or time line. Transformative postsecular ethics takes on the future affirmatively, as the shared collective imagining that goes on be- coming, to effect multiple modes of interaction with heterogeneous oth- ers. Futurity is made of this. Nonlinear evolution: an ethics that moves away from the paradigm of reciprocity and the logic of recognition and installs a rhizomic relation ofmutual affirmation. By targeting those who come after us as the rightful ethical interlocu- tors and assessors ofour own actions, we are taking seriously the implica- tions of our own situated position. This form of intergenerational justice is crucial. This point about…",
+      "source": "Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 694,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.68919975,
+      "importance": 0.7472969889640808,
+      "final_score": 0.689199686050415
+    },
+    {
+      "id": "015e5019de5f5f1ab809c5e1",
+      "qdrant_id": "f36e5da8-5abd-51b6-b625-5f92277df904",
+      "text": "an older, non-consequentialist moral world-view. There is, I suppose, an ascetic message to be heard now and again in these essays; at any rate I do not dispute the importance of the effort to resist stupid or antisocial desires, whether individually or at the level of legislation. This idea is one that we can accept as a legacy from the rationalist tradition, reaching back via Kant all the way to Aristotle and Plato. It ﬁnds a practical application today in thinking about the ethics of consumption, which is the topic of Essay 11, ‘“Ethical Living” in the Media and in Philosophy’. To have a conscience in this respect, I argue, is to be willing to test one’s actions both by the Kantian standard of universalizability and by the Aristotelian standard of natural need—or more generously (though still naturalistically), by the criterion of relevance to a ﬂourishing human life. Of course, the o…",
+      "source": "Sabina Lovibond_ - Essays on Ethics and Feminism-OUP Premium (2015).pdf",
+      "chunk_index": 53,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.68811303,
+      "importance": 0.7480302453041077,
+      "final_score": 0.6881132125854492
+    },
+    {
+      "id": "a5704df30fab4a5015486fa6",
+      "qdrant_id": "e56623f3-6608-5b50-bb70-edbd59ac2e93",
+      "text": "and the literary imagination of early-modern spiritualism in order to explore the pre- Kantian visions of human minds existing beyond this earth. By contrast, Jure Simoniti endeavors to track down the origins of Western antirealism and, for this purpose, examines the relation between the emergence of a surplus-truth and the subsequent disclosure of an inhuman, non-conceptual reality. Simoniti argues for a strict separation of the regime of truth from the regime of reality , the two philosophical concepts that beneﬁ t from their newly acquired dignity in contemporary realism. Another take on the issue of truth and reality is then presented by Maurizio Ferraris and, to some extent, Markus Gabriel, the two advocates of new realism. Ferraris proposes the concept of “mesotruth” as mediating between ontology and epistemology, and argues that it only emerges from reality as a produc…",
+      "source": "Gregor Kroupa (editor), Jure Simoniti (editor) - New Realism and Contemporary Philosophy (2020, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 10,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.68791825,
+      "importance": 0.7487407922744751,
+      "final_score": 0.6879182457923889
+    },
+    {
+      "id": "5cb411959264d60d725cc905",
+      "qdrant_id": "0ab22459-69ca-511e-842b-7c3e875b0756",
+      "text": "mid-twentieth century has been condemned for its romantic, pre-structuralist view of art and politically reactionary formalism. Such approaches provide at best suggestive points of departure for ethical criticism, rather than fully devel- oped interpretative frameworks. Moreover, the models of ethics discussed in this chapter either predate poststructuralism, or, in the case of one documentary theorist, reject it as having minimal regard for ethical experience (an allegation which is refuted throughout this book).3 Poststructuralist critics have challenged some of the fundamental beliefs of the Enlightenment philosophers alluded to here: their faith in universal humanity, a transcendental, uniﬁed subject and emancipatory grand narratives of science and reason. Subsequent chapters of this book highlight the problems with a Kantian view of the moral agent as rational, autonomous and univer…",
+      "source": "Lisa Downing, Libby Saxton - Film and Ethics_ Foreclosed Encounters (2010, Routledge) - libgen.li.pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.686567,
+      "importance": 0.7474775910377502,
+      "final_score": 0.6865668892860413
+    },
+    {
+      "id": "bb5fabc1d8402db924c174da",
+      "qdrant_id": "4854b958-751a-511e-a9b6-8d5c45df907a",
+      "text": "I am interested in developing the importance, for Guattari, of the thought of Viktor von Weizsacker's theorization of pathic vitality. I am in this regard following a trail opened by Peter Pal Pelbart in recognizing that the pathic dimension is a mode of lived experimentation intimately connected with the self-found­ ing and self-moving Guattarian subject living \"more on the modalities of 'existensifying' than on ontic determinations.\"1 Through this insight Pelbart introduces a fundamental distinction for von Weizsacker between pathic and ontic determinations and 1. Peter Pal Palbert, 'The Deterritorialized Unconscious,\" in The Guattari f3:ffect, eds. E. Alliez and A. Goffey (London: Continuum, 2011), p. 75. 119",
+      "source": "(Univocal) Félix Guattari, Gary Genosko, Jay Hetrick - Machinic Eros_ Writings on Japan-Univocal Publishing (2015).pdf",
+      "chunk_index": 275,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death",
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7458124,
+      "importance": 0.7904065251350403,
+      "final_score": 0.6864707469940186
+    },
+    {
+      "id": "baaf7a3e0b980da74ab50ce7",
+      "qdrant_id": "31561044-f4ff-5fdd-83db-de3d1f5e5d34",
+      "text": "in the words of Zourabichvili, is ‘the very consistence of that which exists’ (Zourabichvili 1994: 109). It is the depersonalisation and dehumanisation of the transcendental ﬁeld that makes the construction of the ethical ﬁeld necessary through an endless experimentation for the sake of the compossibility of abiding dif- ferences, with elements that cannot be expected to resemble the ﬁnished product. But this experimentation is never a solitary game. An ethics enjoining us to become worthy of the event must be supplemented with powerful politico-philosophical imperatives and tactics. A life ﬁlled as much as possible with active joy, and a life of striving to become worthy of the event may be facilitated or, alternatively, made impossible by the conditions prevailing inside the polis. Deleuze and the Political Lately, the questions whether or not Deleuze ever succeeded in articulat- ing a philosophico-political theory (rather than an ethical attitude and",
+      "source": "[Deleuze Connections] Constantin V. Boundas - Deleuze and Philosophy (2006, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 79,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6862228,
+      "importance": 0.7506020069122314,
+      "final_score": 0.6862226724624634
+    },
+    {
+      "id": "78304fcd7773762104bd7c8f",
+      "qdrant_id": "2348e683-448a-5ecd-a216-115fa2a873f7",
+      "text": "in terms of reproduction. By interrogating biotechnical, bacterial, parthenogenic (genital-­less), biodigital and machinic sex, she is able to articulate a theory of abstract sex as that which is (re)productive without being genital. Such sex escapes the Cartesian mind–body dualism, the Oedipal economy of desire and pleasure, as well as the division in cyberculture between essentialist nature and constructivist culture. The benefit of such an approach, apart from correspond- ing more closely to biophysical, biocultural and biodigital reality, is that it recognises the body as a mutating force and emphasises its ‘thousand modes of sex and reproduction’ (Parisi 2004: 197). Parisi’s project, heavily influenced by Spinoza as well as by Deleuze and Guattari, thus opens for ways of rethinking what bodies are and what they can do, and indeed, she argues herself, for acknowledging ‘new cultures and new species’ and ‘the proliferation of a new nature",
+      "source": "Between Desire and Pleasure_ A Deleuzian Theory of Sexuality -- Frida Beckman -- Plateaus _ new directions in Deleuze studies, Edinburgh, -- Edinburgh -- 9780748645923 -- e2ff90978ad21fc41c21bb8a1e81077a -- Anna’s .pdf",
+      "chunk_index": 215,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7583701,
+      "importance": 0.8012850284576416,
+      "final_score": 0.6859878897666931
+    },
+    {
+      "id": "036437d85430dae74e5d4f3b",
+      "qdrant_id": "29247577-2d43-5c1f-8cb3-a8eb74455f27",
+      "text": "is not transformative for ethics and the individual’s relation to knowledge because it nulliﬁes conventional accounts of agency and responsibility. On the contrary, it is transformative because the embodied, embedded, and agential human subject still maintains some degree of political and ethical accountability for the new possibilities that are brought forth. My point is this: in projects conceptually analogous to feminist mate- rialist critiques of technoscience, and similarly addressed to exigent socio- cultural concerns, artists such as Rist, Piccinini, and Mori are centrally concerned with how science, technology, and society, all of which possess",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 52,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6859672,
+      "importance": 0.7523031234741211,
+      "final_score": 0.6859673261642456
+    },
+    {
+      "id": "39276a1deae2cbd017c80b4c",
+      "qdrant_id": "322e736b-7f1a-5c8f-8ecb-34ea968ff648",
+      "text": "For Sally, Frida and Ilya Contents Acknowledgements viii Foreword by Alphonso Lingis ix The Practice of Ethics: A Manifesto xiii Part I: Medicine, Postmodernism, Microethics and the Body 1. Medicine and the Ethical Conditions of Modernity 3 2. From Bioethics to Microethics: The Need to Return Ethical Debate to the Clinic 20 3. Between Nature and Culture: The Ethics and Politics of Animal Experimentation 47 4. Sexuality and Ethics in the Medical Encounter 72 5. The Medicalisation of Everyday Life and the Moral Space of the Menopausal Woman 101 Part II: Love and Death 6. The Many Faces of the Clinic 123 7. The Experience of Evil 139 8. Death Sentence 157 9. Time, Ethics and the Archive 177 10. At the Gates of the Labyrinth 192 11. How to End a Life 211 12. Fardels of the Heart 226 13. The Case of Miss T 246 Epilogue 265 Index 271",
+      "source": "Paul A. Komesaroff - Experiments in Love and Death_ Medicine, Postmodernism, Microethics and the Body (Academic Monographs) (2008) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6850939,
+      "importance": 0.7463410496711731,
+      "final_score": 0.6850941181182861
+    },
+    {
+      "id": "78d04733bf85e0aff95d7057",
+      "qdrant_id": "881d2f9a-b0ea-574c-9a73-ed164f826bc1",
+      "text": "Indigenous cultures in European and American history or the significance of the work of Indigenous scholars for contemporary theorizing seems to me the greater violence.53 Vital materialism Religious traditions that see lively materiality as sacred or divine resonate with the turn to the material across the humanities, which not only gives greater attention to material context and culture but also has begun to develop an understanding of materiality as lively and agential. Contemporary theorists explore host of thinkers (Baruch Spinoza, Anne Conway, Alfred North Whitehead, Henri Bergson, Gilles Delueze), as well as creative work from the arts and sciences, to uncover a genealogy of vitalist thinking. In drawing together the resources of animism, new materialism and literary modernism, the present book contributes to this project. My work participates in the project of developing a ‘prehistory of",
+      "source": "Elizabeth Anderson - Material Spirituality in Modernist Women’s Writing-Bloomsbury Academic (2020).pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6848818,
+      "importance": 0.745991587638855,
+      "final_score": 0.6848818063735962
+    },
+    {
+      "id": "dcf52708f40639d50a4959ee",
+      "qdrant_id": "73e7f682-d66d-52ef-9b1b-482a13f3a089",
+      "text": "choices in the right direction. However, it cannot help us in resolving personal love conflicts or help us to build a loving moral character. I then consider Frankena’s virtue ethics of love, borrowing the notion of an agentic aretaic judgment to “be loving”. I read this judgment through the lenses of a relational theory of lan­ guage and a phenomenological ethics. From Husserl’s phenomenological inter­ pretation of love and its values emerged a rich relational love ethics grounded in love-​values. Love-​values are deeply rooted in our egoic psyche; although conflicts might arise among them, they inspire an obligation in us to care for ourselves and the other. Indeed, it is in ourselves that we find the first other. Being loving is an agentic virtue that connects us to the deepest roots of our being and demands the imperative to care for others. This connection to love-​values is the self-​evident",
+      "source": "Susi Ferrarello - The Ethics of Love_ Emotional Dilemmas for a Relational Life (2022, Routledge) - libgen.li.pdf",
+      "chunk_index": 40,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.68473065,
+      "importance": 0.7561846375465393,
+      "final_score": 0.6847304701805115
+    },
+    {
+      "id": "88d53dbef820502a42f9add9",
+      "qdrant_id": "e5cb0e30-6866-5659-a199-225cbe02406f",
+      "text": "6 Diana Coole & Samantha Frost recreate or procreate, we are ﬁnding our environment materially and con- ceptually reconstituted in ways that pose profound and unprecedented normative questions. In addressing them, we unavoidably ﬁnd ourselves having to think in new ways about the nature of matter and the matter of nature; about the elements of life, the resilience of the planet, and the distinctiveness of the human. These questions are immensely important not only because they cast doubt on some of modernity’s most cherished beliefs about the fundamental nature of existence and social justice but also because presumptions about agency and causation implicit in prevail- ing paradigms have structured our modern sense of the domains and dimensions of the ethical and the political as such. Recent developments thus call upon us to reorient ourselves profoundly in relation to the world, to one…",
+      "source": "Diana Coole (editor)_ Samantha Frost (editor)_ Jane Bennett (editor)_ Pheng Cheah (editor)_ Melissa A. Orlie (editor)_ Elizabeth Grosz (editor) - New Materialisms_ Ontology, Agency, and Politics-Duke .pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6846006,
+      "importance": 0.7672867774963379,
+      "final_score": 0.6846006512641907
+    },
+    {
+      "id": "61188620ea1a70fd03c79c85",
+      "qdrant_id": "5589d49f-2736-50a1-bc65-98fab2bf4db7",
+      "text": "hand, is inspired by “ethics”, instituted on the basis of persuasion, relativity, common sense and a restricted validity for definite groups. Immersed in the Italian cultural tradition, the confrontation between sci­ ence and lit­er­at­ure seems again to propose the long debate between rhetoric, aiming at what is verisimilar and probable, and logic, which, like science, deals with what is real and universal (Preti). Thus a different operative dy­ namic descends, in the sense that the scientist must always verify his/her interpretative hypotheses against a real referent, confirming them, following the experimental vocation which, in fact, linked even Aristotle and Bacon, Ptolemy and Galileo. Differently, the man of letters, with the “poetic” text, creates a monad that finds the source of its reliability in itself. For this very reason, an Italian scholar in aesthetics, Galvano d…",
+      "source": "Koppen, Randi_ Hagen, Margareth_ Skagen, Margery Vibe - The Art of Discovery _ Encounters in Litterature and Science (2010, Aarhus University Press) - libgen.li.pdf",
+      "chunk_index": 97,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6845536,
+      "importance": 0.751630961894989,
+      "final_score": 0.6845536231994629
+    },
+    {
+      "id": "2d7adc487dabeddfad931b4f",
+      "qdrant_id": "2e698b23-f48f-5528-b42e-b0eb5cb29ae1",
+      "text": "history (as Jean-François Lyotard calls them in The Postmodern Condition, 1979), is in fact the site of tantalizing and plural ethical alternatives to the uni- versalizing (straight, white, masculine, middle-class and hetero-patriarchal) discourses of modernism. A book-length work devoted to the thorny question of postmodern ethics is Zygmunt Bauman’s study of that name. By bringing currents of postmodern thought to bear on ethical philosophy, Bauman has contributed to the possibility of rethinking postmodernism in ethical terms, and vice versa. He argues that rather than abandoning all interest in ‘modern’ moral questions (human rights, social justice, balancing the needs of the individual and the collective), as a radical antihumanist thinker such as Alain Badiou would propose, a postmodern ethics may instead approach these very same questions in a new way. Postmodern ethics, according…",
+      "source": "Lisa Downing, Libby Saxton - Film and Ethics_ Foreclosed Encounters (2010, Routledge) - libgen.li.pdf",
+      "chunk_index": 553,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6843331,
+      "importance": 0.7471035122871399,
+      "final_score": 0.6843329668045044
+    },
+    {
+      "id": "24a078949d2e2e50341fc3cc",
+      "qdrant_id": "945d8c61-4781-56fd-befa-1cf771dad1f5",
+      "text": "priority to relations over relata. Critical posthumanist ethics is exemplary of J. Loh (*) Stiftung Liebenau, Meckenbeuren, Germany e-mail: mail@janinaloh.de © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2022 S. Herbrechter et al. (eds.), Palgrave Handbook of Critical Posthumanism, https://doi.org/10.1007/978-3-031-04958-3_34 1073",
+      "source": "[Reference] Stefan Herbrechter, Ivan Callus, Manuela Rossini, Marija Grech, - Palgrave Handbook Of Critical Posthumanism (2022, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 323,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6842342,
+      "importance": 0.7497995495796204,
+      "final_score": 0.6842340230941772
+    },
+    {
+      "id": "562fbc5b107c006d5d60857f",
+      "qdrant_id": "ee9b7be6-3551-500a-b828-7e7508fc258b",
+      "text": "to instantiate soul-like fungibility in bodies which are distinct as bodies. I will argue that in this way Lingis suggests another reading of Foucaul- dian “life” in Disicipline and Punish and History of Sexuality I: as ever- specific materiality subject to an irrevocable variation. Jane Bennett has recently asked, “Why did Foucault’s concern with ‘bodies and pleas- ures’ . . . not count as materialist? Why is there not a more robust debate between . . . contending accounts of how materiality matters to politics?”8 Lingis suggests the same rhetorical question. He offers a reading of Fou- cault’s concern with bodies and pleasures as precisely materialist: he finds that in Discipline and Punish discipline responds from all angles",
+      "source": "Randolph C. Wheeler (editor) - Passion in Philosophy_ Essays in Honor of Alphonso Lingis (2016, Lexington Books) - libgen.li.pdf",
+      "chunk_index": 377,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.684055,
+      "importance": 0.7686277031898499,
+      "final_score": 0.6840551495552063
+    },
+    {
+      "id": "8aabc36f07ebde0f6bb3d15c",
+      "qdrant_id": "ca37d4d3-7608-5e6b-829e-8c6d1e695913",
+      "text": "a non h u m a n i s t e t h ic s of t e c h nol o g y 23 Sloterdijk takes up this critique of humanism and radicalizes it in such a way that, ﬁfty years after Heidegger’s text, he came to be associated with the same fascism that Heidegger could not shake off. This chapter can be read as a reply to Sloterdijk’s “response to the Letter on Humanism.” In order to clear the path, I will ﬁrst investigate the human- ist character of contemporary ethics and its supporting modernist ontology. Second, I will elaborate the moral relevance of nonhuman reality by discuss- ing the mediating role of technology in moral practices and decisions. After this, I will critically engage with Sloterdijk’s “posthumanist” position. I will dispel all associations with fascism from his approach, while using his cri- tique of humanism as a basis for an amodern approach to ethics that does justice to nonhuman forms of morality and the ways humans have to deal with them.",
+      "source": "Peter-Paul Verbeek - Moralizing Technology_ Understanding and Designing the Morality of Things (2011, University of Chicago Press) - libgen.li (1).pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6837955,
+      "importance": 0.7520055174827576,
+      "final_score": 0.6837955117225647
+    },
+    {
+      "id": "7f0c6dbfe6e4ce5def0f9c7c",
+      "qdrant_id": "52e7bc02-ec2d-5da5-80a4-9a94eaba31aa",
+      "text": "Introduction 19 the case histories of Kristeva's patients amply demonstrate the suffering caused by its absence (see 'The True-Real' and 'Freud and Love'). Indicating the need for further investigation of this specifically female access to love, Kristeva expresses her hope that it may lead to the discovery of an ethics based on a new psychoanalytic understanding of motherhood: a herethics of love ('Stabat Mater'). It is this herethical ethics she finds embodied in psychoanalytic practice: 'If the analyst doesn't love his patients he ought to give up trying to cure them' (Interview in Les Cahiers du GRIF, 32, 1985, p. 21). Sustained and produced by love, psychoanalytic practice is unthinkable without it. NOTES All translations from untranslated French texts are mine. Documentation in the text and in the notes has been limited to give only the amount needed to identify a work in the list of references.",
+      "source": "Julia Kristeva (author), Toril Moi (editor) - The Kristeva Reader (1986, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 71,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70476043,
+      "importance": 0.7635465264320374,
+      "final_score": 0.6768136024475098
+    },
+    {
+      "id": "3c2357e687f8ce02738fb68a",
+      "qdrant_id": "6d0d0682-a195-59bc-81fd-a4493fdbb669",
+      "text": "out, I have demonstrated how connecting these seemingly discrete projects yields discoveries that serve to enrich and enhance both ﬁelds. The capsule aesthetic and the notion of encapsuled subjectivity exemplify how art and theory may in fact collaborate in the interest of broader ethical- political projects. As feminist materialisms, the new media installations by Pipilotti Rist, Patricia Piccinini, and Mariko Mori examined in A Capsule Aes- thetic: Feminist Materialisms in New Media Art consistently interrogate our ongoing interactive relations with new technologies and other forms of matter. At their best, however, these works of art invite us to experience not only our embodied absorption within, but also our ethical- political responsibility toward, the rest of the material world.",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 357,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7091001,
+      "importance": 0.7901725769042969,
+      "final_score": 0.6672163605690002
+    },
+    {
+      "id": "8cfea20fb3cc3729c0d3cf89",
+      "qdrant_id": "ae5067e9-e627-5bea-b9ba-d76945baa47e",
+      "text": "transforms his natural life into ethics.' She makes his very soul possible. 32 Totality andlnfinity, pp 170—71; Totalite et infini, p 185. 33 See Chalier, Figures du feminin, p 93. 34 Silvano Petrosino and Jacques Rolland, La verite nomade: Introduction a Emmanuel Levinas, La Decouverte, Paris, 1984, p 27 ff. 35 See, for example, Edith Wyschogrod, Emmanuel Levinas: the Problem of Ethical Metaphysics, Nijhoff, The Hague,1974, pp 66/7, 98, 116; Steven G. Smith, The Argument to the Other: Reason Beyond Reason in the Thought of Karl Earth and Emmanuel Levinas, California Scholars Press, Chico, CA, 1993, p 71; Gerard Bailhache, Le sujet chez Emmanuel Levinas: fragilite et subjectivite, Presses Universi- taires de France, Paris, 1994, pp 23, 111, 141. 36 Totality andlnfinity, p 157—8; Totalite et infini, p 169- 37 Ethics and Infinity, p 41; Ethique et infini, p 38. 38 Peperzak, To the Other, p…",
+      "source": "Stella Sandford - The Metaphysics of Love_ Gender and Transcendence in Levinas (2001) - libgen.li.pdf",
+      "chunk_index": 591,
+      "page": null,
+      "seed_hits": [
+        "emmanuel-levinas-face-of-the-other-ethics"
+      ],
+      "raw_score": 0.7665386,
+      "importance": 0.7961821556091309,
+      "final_score": 0.6631550788879395
+    },
+    {
+      "id": "faf74077ed8e6e29fc9c0211",
+      "qdrant_id": "e8b48b4f-52f5-51f6-9564-8710cd0b41c0",
+      "text": "would be severely limited by the incommensurability of their methods and concerns.”” It would however be possible to consider the two together by way of their responses to certain issues in literary aesthetics, particu- larly the problematic combination of autonomy and materiality found in modernist artworks. The issue of autonomy comes to be of importance to this inquiry, as it is a key part of the way that Blanchot views literature, the literary work being in some way autonomous, or absolute, as it is phrased on a number of occasions. By approaching this sense of the absolute from the history of the aesthetic understanding of autonomy, a perspective is gained that en- ables a greater understanding of how Blanchot works within and yet also without the tradition of post-Kantian thought, which provides a much- needed position from which to assess the implications of his works. It is for this reason that I will begin with an overview of the history of the",
+      "source": "[Fordham Perspectives in Continental Philosophy] William S. Allen - Aesthetics of negativity_ Blanchot, Adorno, and autonomy (2016, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 116,
+      "page": null,
+      "seed_hits": [
+        "maurice-blanchot-the-writing-of-the-disaster-space-of-literature"
+      ],
+      "raw_score": 0.74523234,
+      "importance": 0.7887717485427856,
+      "final_score": 0.6526052355766296
+    },
+    {
+      "id": "276c0a0cc41c44812ac8c647",
+      "qdrant_id": "9f1e3ab2-6b6c-5d70-93e1-08a3a1802c7b",
+      "text": "old, Fisiologia del piacere contains in a nutshell the scientific objectives and the ethical tenets that inform its author’s overall vision. Mantegazza 24 And it is also significant that, as Antonio Aimi has observed, ethnomedicine and ethnobo- tanics have recently reintroduced therapies based on coca leaves precisely for the kinds of situations initially contemplated in Mantegazza’s essay. See Antonio Aimi, ‘Mantegazza e la coca: una ricerca da rivalutare,’ in Cosimo Chiarelli and Walter Pasini, eds, Paolo Mantegazza: medico, antropologo, viaggiatore (Florence: Firenze University Press, 2002), p. 169. 25 These prejudices, by no means the only ones that can be found in Mantegazza’s discourse, can be connected to similar gendered-based biases in Quadri della natura umana, where Mantegazza justifies the male’s greater propensity to use nervine nourishments and other stimulants by mai…",
+      "source": "Paolo Mantegazza_ Nicoletta Pireddu - Physiology of Love and Other Writings-University of Toronto Press (2008).pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6516458,
+      "importance": 0.7189430594444275,
+      "final_score": 0.6449020504951477
+    },
+    {
+      "id": "be4e3dfcbe90eaf613713f50",
+      "qdrant_id": "d958a88a-a5ab-53d9-824d-2a6873a7295a",
+      "text": "and exploited, but free also to progress, move through the class- structure, choose and forge relationships, strenuously utilise its talents in scorn of autocracy or paternalism. The novels are deeply informed by this bourgeois ethic, but there is more to be said than that. For the social status finally achieved by the cfe- racini self is at once meritoriously won and inherently proper. Jane's uncle is said to be a tradesman, and the Reeds despise her for it; but Bessie comments that the Eyres were as much gentry as the Reeds, and her Rivers cousins have an impressively ancient lineage. Rochester seems a grander form of gentry, and Jane's relationship with him is of course socially unequal; but it is, never- theless, a kind of returning home as well as an enviable move upwards. Given relationships are certainly constrictive: they mediate a suave violence deep-seated in society itself, as John Reed's precociously snobbish remark suggests. But knowing where",
+      "source": "Brontë, Anne_Brontë, Charlotte_Brontë, Emily_Eagleton, Terry - Myths of power_ a Marxist study of the Brontës-Palgrave Macmillan (2010)-1.pdf",
+      "chunk_index": 148,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.5943038,
+      "importance": 0.7251319885253906,
+      "final_score": 0.6297990679740906
+    },
+    {
+      "id": "21a1d903c9a5d335d3cb63a6",
+      "qdrant_id": "c20733e3-70d9-5221-97b0-6f7baa91194b",
+      "text": "Chris Rojek, my first and strictly speaking, confidential reader, indulgently bearing my English which had, again and again, to be improved. Separate and most profound thanks must be addressed to Zygmunt Bauman, my friend and steady correspondent, who taught me a lot about postmodernity and postmodernism. It was he who instigated the publication of this book, supported me with his critical mind, tolerated my polemics with his always original, thoughtful conceptions. Despite his many duties and own workload he generously devoted precious time and his brilliant mind to my project.",
+      "source": "Stefan Morawski - The Troubles With Postmodernism (1996) - libgen.li.pdf",
+      "chunk_index": 21,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.588078,
+      "importance": 0.6888576149940491,
+      "final_score": 0.6168581247329712
+    },
+    {
+      "id": "106dcc0eb66054cf5e0bbc32",
+      "qdrant_id": "3725373e-8487-577f-a722-68749b1960ff",
+      "text": "Acknowledgements xv Francesco Fiumara, Valerie Mirshak, Gael Montgomery, Simona Ceci, Ste- fano Giannini, Fulvio Orsitto, Clarissa Clò, Teresa Fiore, Laura Schulz, Jessi Pakiela, Giuliana Chapman, Simone Dubrovic, Enrico Cesaretti, Phyllis Fleischman, Daniela de Pau, Roberta Ricci, Margie Behr, Ruth M. Hill, and Jennifer Hill. I have greatly beneﬁ ted from the conversations with Tomasina and Walter Fontanella, who have made it delightfully hard for Ruth and me to choose between their wit and their wisdom, their paint- ings and their music, as well as their risotto and their Philly cheesesteak. Valentina Rutolo and Cristian and Irusckha DeRitis have provided food, laughter, and relaxation when I most needed them. Imke Meyer and Heidi Schlipphacke’s fondness and intelligence have infused me with motivation. National Public Radio has been a constant friend throughout my residence in the States, especially Ira Glass’s This American Life. I thank my stu-",
+      "source": "[Routledge Studies in Twentieth-Century Literature] Letizia Modena - Italo Calvino's Architecture of Lightness_ The Utopian Imagination in An Age of Urban Crisis (2011, Routledge) - libgen.li.pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.5891845,
+      "importance": 0.6853142380714417,
+      "final_score": 0.6096930503845215
+    },
+    {
+      "id": "b03e3ef8abca8b476f9ee653",
+      "qdrant_id": "8040d7c9-3c89-5848-a6af-837b099043d3",
+      "text": "was stolen, which left him with a pair of R. M. Williams boots, a transparent Pelikan, Xenophon’s Anabasis, cuffed Momotaro’s, Rhodia paper, a creek named Cottaquila in another life, a Wetterling ax, an Ikaria disk, an abacus, a flower shirt that had never been washed, and Auburn, the color of the plains. Sometimes afterward he wrote Dreamworlds of Alabama, from University of Minnesota Press, 2007. He keeps time with a Bauman & Mercier mechanical. His latest book is Where the North Sea Touches Alabama (University of Chicago Press, 2013). His website is http://www​.softarcades​.com/. Craig Shepard, a composer and member of the Wandelweiser group, creates music related to stillness, often outside. He studied trombone and composition at Northwestern University and the University of the Arts Zurich, and has worked closely with Frank Crisafulli, Michael Pisaro, Manfred Werder, Jürg F…",
+      "source": "Bernd Herzogenrath - Practical Aesthetics (2020, Bloomsbury Academic) [10.5040_9781350116139] - libgen.li.pdf",
+      "chunk_index": 206,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.5838729,
+      "importance": 0.7009193897247314,
+      "final_score": 0.6067854166030884
+    }
+  ]
+}

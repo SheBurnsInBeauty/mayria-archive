@@ -1,0 +1,1220 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "2b5894c4495dff7ac8dd32a7",
+      "qdrant_id": "2336a4be-a970-52eb-b43f-eb793d79c6b2",
+      "text": "is to find ‘a space for political accountability and for cherishing ambigui- ties, multiplicities, and affinities without freezing identities’ (ibid.: 121). So there is a clear connection here across to her work on cyborgs and companion species in this grappling with difference and affinity, as well as to Chela Sandoval’s (1995) ‘methodology of the oppressed’ which influ- enced the Cyborg Manifesto. These ideas she further elaborated in a parallel essay, ‘Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective’ (Haraway 1992/1988b).This piece resonated through a whole other series of debates, too, in terms of feminist science studies; it has been as impactful as the Cyborg Manifesto, in fact, across a range of disciplines trying to find ways to think about the researching, writing and reading practices generally framed by the notion of the social construc- tion of knowledge. In this engagement with science studies and especially feminist science",
+      "source": "(Routledge Critical Thinkers) David Bell - Cyberculture Theorists_ Manuel Castells and Donna Haraway-Routledge (2007).pdf",
+      "chunk_index": 379,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8253403,
+      "importance": 0.8445227742195129,
+      "final_score": 0.8253402709960938
+    },
+    {
+      "id": "2c499368a8fc500f0bb92855",
+      "qdrant_id": "14fde9d9-7aef-54f3-a366-3f5d3094cb77",
+      "text": "preference, and others'. Haraway goes further: in the contemporary high-tech world, feminist embodiment is about 'nodes in fields, inflec- tions in orientations, and responsibility for difference in material- semiotic fields of meaning' (Simians, Cyborgs, and Women). What both thinkers are trying to do in these rather complex formulations isto insist both that the female subject isembodied - that women's knowledge and thought cannot be separated from their lived experience - and that this insistence does not mean that feminism cannot recognize the differ- ences both between women and within each woman. Within all of us, argues Braidotti, there is an interplay of differing levels of experience, so that our identities, while situated, are not fixed but 'nomadic'. It is such situated knowledges - 'partial, locatable, critical knowledges', as Haraway describes them - which permit both a new …",
+      "source": "The Routledge companion to postmodernism (2001, Routledge) - libgen.li.pdf",
+      "chunk_index": 177,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.82323664,
+      "importance": 0.8455392122268677,
+      "final_score": 0.8232365846633911
+    },
+    {
+      "id": "5f9b79b831b54d36ec699746",
+      "qdrant_id": "bb869d17-c5c2-52f1-8a74-8f8d014b7af5",
+      "text": "feminist cultural studies of technoscience may also include the perspectives of non- human actors. Their inclusion is in line with studies in science and technology that have given much attention to the signiﬁcance of the activities of nonhuman actors in sociotechnical networks. Indeed, some feminist scholars in the ﬁeld of science and technology studies have radicalized theories of the position of nonhuman actors. Probably the most famous example of this radicalization is Haraway’s appropriation of the cyborg (Haraway 1991a, 1991b). As mentioned in the introduction to this volume, the term “cyborg” is an abbreviation of “cybernetic organism.” In a more popular vein, we may speak of technobodies: machine-humans, or machine-animals. Haraway, referring to the fusions and to the increasingly intimate cohabitation between bodies and machines that are taking place in the wake of the current digital and biotechnological revo-",
+      "source": "Smelik, Anneke(Editor) - Bits of Life_ Feminism at the Intersections of Media, Bioscience, and Technology (2008, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 85,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.82115126,
+      "importance": 0.8387650847434998,
+      "final_score": 0.8211511969566345
+    },
+    {
+      "id": "1c85a3821869dceab17bfdeb",
+      "qdrant_id": "a303519f-09f7-577b-8d30-bb2b00546a76",
+      "text": "Donna Haraway’s work on technoculture brings together the fields of sf and science studies. She situates her work at “the cultural space hinted by the intersections of science fiction, speculative futures, feminist and antiracist theory, and fictions of science” (Haraway 1991b: 24) and frequently uses sf examples in her critiques. She exposes the gendered and racial assumptions shaping primatology (1989), while “A Manifesto for Cyborgs” (1985, revised as “A Cyborg Manifesto” (1991b)) has arguably been the most influential essay for sf scholarship about new models of subjectivity. Haraway considers the gene, the fetus, and race as three of the most important objects of knowledge in current science practice and theory, and traces them through “knowledge-making practices, industry and commerce, popular culture, social struggles, psychoanalytic formations, bodily histories, human and nonhuman actions,",
+      "source": "[Routledge companions] Bould, Mark - The Routledge companion to science fiction (2009, Routledge) - libgen.li (3).pdf",
+      "chunk_index": 193,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.82103944,
+      "importance": 0.8331092000007629,
+      "final_score": 0.8210394978523254
+    },
+    {
+      "id": "4fb522b860283ee00fe3f026",
+      "qdrant_id": "f9e0bcbd-6741-5c1b-9871-05559fbb138b",
+      "text": "21 FEMINISM, TECHNOLOGY AND THE POSTHUMAN existence. As ‘a cybernetic organism, a hybrid of machine and organism, a creature of social reality as well as a creature of ﬁction’ (Haraway 1985: 65), the cyborg is a feminist boundary rider that contests the dualisms of nature/artiﬁce, organism/technology and self/Other. By confusing the categories of nature, culture, organism and machine, Haraway challenges the myth of original unity and its intimate associations with the natural. The cyborg ﬁguration thus serves as a subversive and empowering strategy with which to reconsider women’s relationships to each other, technology and notions of the human subject. Most importantly, the cyborg provides new modes of conceiving both social and bodily realities and the universal notion of women’s shared experience. The cyborg operates as a positive indicator of what might emerge from the all…",
+      "source": "Kim Toffoletti - Cyborgs and Barbie Dolls_ Feminism, Popular Culture and the Posthuman Body (2007, I. B. Tauris) - libgen.li.pdf",
+      "chunk_index": 85,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.81976014,
+      "importance": 0.8371241092681885,
+      "final_score": 0.8197603225708008
+    },
+    {
+      "id": "aa69523c95ba4aa326363005",
+      "qdrant_id": "6a798513-de0d-555a-806b-b661df8c035b",
+      "text": "world that surrounds us—seems to be heightened. In such a world, the human relation to technology—and with it, human identity itself—must be imagined in new ways. Donna Haraway’s notion of the cyborg is, in fact, an attempt to rep- resent this mutation of identity, to ﬁgure a new, hybrid, and science- ﬁctional positionality from within a techno-cultural world or space.25 Haraway’s cyborg is not, as is often the case with the more masculinist cyborgs of Hollywood ﬁlms, merely a reproduction of the same old (white male) human subject, whose sense of mastery and autonomy is now protected against incursions by an armored, technological shell or body. For Haraway, the “cyborg subject position” is not stable, but muta- tional; it is not homogeneous or whole, but mixed, hybrid. As such, it necessarily disorganizes the boundaries between “the human” and its others, between a “living” subject and a “dead” technology. The cyborg is",
+      "source": "[Electronic mediations _2] R. L. Rutsky - High technē_ art and technology from the machine aesthetic to the posthuman (1999, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 77,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8189736,
+      "importance": 0.833061933517456,
+      "final_score": 0.8189734220504761
+    },
+    {
+      "id": "a4eb99611b4ec2d7e2be0f19",
+      "qdrant_id": "291bdb1c-dbb0-5a45-a807-6648e5e1fe32",
+      "text": "Donna Haraway (1944–) is a feminist scholar focusing on science and technology studies. Haraway is a Distinguished Professor Emerita in the History of Consciousness and Feminist Studies departments at the University of California, Santa Cruz. In 2000, Haraway was awarded the highest honor given by the Society for Social Studies of Science for lifetime contributions to the field. She graduated from Yale University in 1970 with a Ph.D. in Biology and published “A Cyborg Manifesto” in 1985. She has written numerous books, including Primate Visions (1989), Simians, Cyborgs, and Women (1991), and The Companion Species Manifesto (2003). Stefano Harney (1962–) is Professor of Strategic Management Education at Singapore Management University and co-founder of the School for Study, an ensemble teaching project. He employs autonomist and postcolonial theory in looking into issues associated with r…",
+      "source": "Fahs, Breanne - Burn It Down!_ Feminist Manifestos for the Revolution (2020, Verso Books) - libgen.li.pdf",
+      "chunk_index": 213,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8184133,
+      "importance": 0.8293229341506958,
+      "final_score": 0.8184131383895874
+    },
+    {
+      "id": "c340ad75321be7f0b9a7a81d",
+      "qdrant_id": "af424097-8a9b-5998-b022-5b36b09fa2d8",
+      "text": "In remembrance of my dear friend and colleague, John Itsuro Kitsuse Contents Acknowledgements ix 1 Introduction 1 2 Science as Stories of Nature: The Case of Primatology 25 3 A Queer Family of Companion Species: From Cyborgs to 58 Dogs and Beyond 4 Bodies, Knowledges, Politics, Ethics, and Truth: 87 Figuring a Feminist Technoscience 5 Conversations with Donna Haraway 114 6 Why Read Haraway? Recommendations 157 Notes 164 Bibliography 170 Index 182",
+      "source": "(Live theory series) Joseph W. Schneider - Donna Haraway_ Live Theory-Continuum (2005).pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.815428,
+      "importance": 0.8294528722763062,
+      "final_score": 0.8154280185699463
+    },
+    {
+      "id": "8e912f848973bf39e6d5e85b",
+      "qdrant_id": "95609bb9-93ab-5307-9665-bbdd777212b6",
+      "text": "grounded, Donna Haraway’s influential ‘A Cyborg Manifesto’ (1985) posits that the ubiquity of technology in Western culture meant we have all become cyborgs, ‘chimeras, theorized and fabricated hybrids of machine and organism’ (150). Haraway sees this ‘cyborg’ subjectivity as holding the potential to subvert dominant Western ideologies and move beyond familiar binaries of gender, race and class, enabling people to connect in new ways. The capacity of technological augmentation to help people connect is another key dimension of Kazuhiko Nakamura’s image on the cover of this collection: the two cybernetically enhanced figures face each other, ready for dialogue, for communication. Haraway’s argument paved the way for other theorists to explore the politics of embodied identity. New ways of understanding the self have germinated in response to the range of new technologies that influence the way we live. Most of all, as N. Katherine Hayles points out, discussion of the",
+      "source": "(Liverpool Science Fiction Texts and Studies 41) Sara Wasson (editor), Emily Alder (editor) - Gothic Science Fiction 1980-2010-Liverpool University Press (2011).pdf",
+      "chunk_index": 83,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8150015,
+      "importance": 0.8278631567955017,
+      "final_score": 0.815001368522644
+    },
+    {
+      "id": "190bb5702ee8098367feebfa",
+      "qdrant_id": "c38dad63-fc4a-5e6e-abc5-691c58c8c8f5",
+      "text": "viii • Contents 10 Cyborgs, Coyotes, and Dogs: A Kinship of Feminist Figurations and There Are Always More Things Going on Than You Thought! Methodologies as Thinking Technologies 321 An interview with Donna Haraway Conducted in two parts by Nina Lykke, Randi Markussen, and Finn Olesen Note on Sources Index 343 345",
+      "source": "Donna Haraway - The Haraway Reader (2004, Routledge) - libgen.li.pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.814516,
+      "importance": 0.8285912871360779,
+      "final_score": 0.8145161271095276
+    },
+    {
+      "id": "cab36092e5c147a81e8c4344",
+      "qdrant_id": "a7df2a9b-3dc1-5e46-b2b5-abcf17129d5b",
+      "text": "they can be enacted. The usefulness of the cyborg metaphor is that it is capable of operating on two levels at the same time: it can provide an account of the lived experience of the inequalities inherent in the ways in which science and technology structure social relations, as well as providing a means of imagina­ tively exploring the possibilities for fundamental change within those struc­ tures. Since Haraway is particularly concerned with the social relations of dominance within science and technology, she turns specifically to feminist science fiction for examples of what she refers to as ‘cyborg monsters’ who ‘make very problematic the statuses of man or woman, human, artefact, member of a race, individual identity, or body’ (201). The cyborg monsters of feminist science fiction are described by Haraway as ‘promising and danger­ ous monsters who help to redefine the pleasures and politics of embodiment and 4",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (2022, Edinburgh University Press) [10.1515_9781474473668] - libgen.li.pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8138385,
+      "importance": 0.8316784501075745,
+      "final_score": 0.8138384819030762
+    },
+    {
+      "id": "010109e04aaf795864a6fa9e",
+      "qdrant_id": "730e2707-3380-5508-ab5b-a089461fc601",
+      "text": "hybridities 133 there are only “contingent foundations”; bodies that matter. A bestiary of agencies, kinds of relatings, and scores of time trump the imaginings of even the most baroque of cosmologists. For me, this is what companion species signifies.34 Haraway’s intimation is correct. Her migration from the machin- ic assemblages of “The Cyborg Manifesto” to the “dogs, people, and significant otherness” who populate The Companion Species Manifesto is very much feminist theory. Similar to her theoretical predilection for mapping opposing binaries—representation ver- sus simulation; universal philosophies versus ethnophilosophies; organism versus biotic component—“The Cyborg Manifesto” and The Companion Species Manifesto represent a thought-machine for unconcealing, and thus overcoming, the binaries in her own feminist theory. Supposedly opposite pathways of thought—one cybernetic, the other organic; one “cyborgs for earthly survival,”",
+      "source": "[Posthumanities] Arthur Kroker - Body Drift_ Butler, Hayles, Haraway (2012, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 387,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8124516,
+      "importance": 0.8283936977386475,
+      "final_score": 0.8124516010284424
+    },
+    {
+      "id": "eb3f2f3df206fe446d5b655a",
+      "qdrant_id": "9c9f344f-59ca-5d31-a0c7-5fc14838c71a",
+      "text": "To all my companion species CONTENTS Introduction: A Kinship of Feminist Figurations 1 A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s 7 2 Ecce Homo, Ain't (Ar'n't) I a Woman, and Inappropriate/cl Others: The Human in a Post-Humanist Landscape 47 3 The Promises of Monsters: A Regenerative Politics for Inappropriate/cl Others 63 4 Otherworldly Conversations; Terran Topics; Local Terms 125 5 Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908-1936 151 6 Morphing in the Order: Flexible Strategies, Feminist Science Studies, and Primate Revisions 199 7 ModesLWitness@Second_Millennium 223 8 Race: Universal Donors in a Vampire Culture. It's All in the Family: Biological Kinship Categories in the Twentieth-Century United States 251 9 Cyborgs to Companion Species: Reconfiguring Kinship in Technoscience 295",
+      "source": "Donna Haraway - The Haraway Reader (2004, Routledge) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.81121695,
+      "importance": 0.827852725982666,
+      "final_score": 0.8112170100212097
+    },
+    {
+      "id": "6432a0716eb92efd43d32c8b",
+      "qdrant_id": "876a29f2-80ae-5580-bfa7-8abff474054e",
+      "text": "multinationals, sexism, racism and so on – although she is always circumspect about these categories (Haraway, 1997). These structures are seen as conditions and products of networks. But getting a handle on these is no simple empirical matter, and they do not impact upon us in some direct unmediated manner. Our knowledge of the world is ‘situated’ (Haraway, 1991a). In keeping with her complex conceptualization of the cyborg as a promising monster that can create spaces of transition, situated knowledge (and passionate detachment) is fundamentally about embodied practice. Thus, in contrast to the ‘God Trick’ of SSK and ANT in which the world is apprehended by a seer who is everywhere and nowhere, for Haraway all knowledge is situated and embodied. (As such, as Morse, 1994, also argues, ‘cyborgs’ do not entail the masculinist fantasy of corporeal transcendence, where human consciousness is downloaded into the machine.) This",
+      "source": "[International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf",
+      "chunk_index": 140,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8110814,
+      "importance": 0.8317120671272278,
+      "final_score": 0.8110815286636353
+    },
+    {
+      "id": "e6271d410eca9d4e0f5a54a0",
+      "qdrant_id": "94442cef-7326-53da-9d86-95a4b96e2662",
+      "text": "perhaps a reflection of the even more ambivalent outcomes of twenty more years of the informatics of domination. Out of this discussion, she moves towards a position of hope, or at least grounds for hope, in a new partial feminist politics that rejects ‘the feminist dream of a common lan- guage’ (Haraway 1991: 173) and does not need to resolve contradictions and find universality. C Y B O R G S : A M Y T H O F P O L I T I C A L I D E N T I T Y Hence a return to the cyborg, this time as it has been imagined in femi- nist science fiction, a source which Haraway finds inspiring for its abilities to think otherwise. Calling her chosen authors ‘theorists for cyborgs’ (Haraway 1991), she brings all the threads together, though together in the form of a cat’s cradle – a favourite metaphor of hers – rather than anything tidied up and finished. As well as science fiction, she discusses writin…",
+      "source": "[Routledge Critical Thinkers] David Bell - CYBERCUL TURE THEORISTS (2007, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 324,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.80971324,
+      "importance": 0.8318156599998474,
+      "final_score": 0.8097132444381714
+    },
+    {
+      "id": "acbe1b821f69cea389c34a8c",
+      "qdrant_id": "fb0cac1d-12ca-5981-b0f2-c394cd094cf2",
+      "text": "gineering, and the Cooperative Workplace. Boston: Unwin Hyman. Haraway, Donna (1988) ‘Situated Knowledge’, Feminist Studies, 14(3), 575-99. Haraway, Donna (1989a) Primate Visions: Gender, Race, and Nature in the World of Modern Science. New York: Routledge. Haraway, Donna (1989b) ‘Technics, erotics, vision, touch: Fantasies of the designer body’, Talk presented at the meeting of the Society for the History of Technology, 13 October. Haraway, Donna (1991) Simians, Cyborgs, and Women: The Reinvention of Nature. New York: Routledge. Haraway, Donna (1992) ‘The Promises of Monsters: A Regenerative Politics for Inappropriate/d Others’, in L. Grossberg, C. Nelson and P. Treichler (eds), Cultural Studies. New York and London: Routledge, pp. 295-337. Hartouni, Valerie (1991) ‘Containing women: Reproductive discourse in the 1980s’ in C. Penley and A. Ross (eds), Technoculture. Minneapolis: University of Minnesota Press.",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (2022, Edinburgh University Press) [10.1515_9781474473668] - libgen.li.pdf",
+      "chunk_index": 212,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8092897,
+      "importance": 0.8247845768928528,
+      "final_score": 0.8092896938323975
+    },
+    {
+      "id": "1ee279e1091315c1ebfc2fe1",
+      "qdrant_id": "7945e536-b917-594c-997f-7aed805dd01d",
+      "text": "is inscribed in artiﬁcial-intelligence systems. Adam argues that it is especially important to put AI systems in a cultural context because, unlike other computer systems, AI “claims to model aspects of human intelligence,” yet such knowledge is based on a model of a male knowing subject. Donna Haraway, trained as a biologist and perhaps the “original” cyberfeminist (though not self-proclaimed), is one of the most well known feminist critics of the ide- ologies and epistemologies of science. She treats science as a set of narratives: In Pri- mate Visions (1989), Haraway examines the studies of primatology and interprets them as stories that attempt to deﬁne human nature and human origins. To Haraway, reading these accounts also means reading the institutional contexts of their creation, distribu- tion, and reception. In other words, Haraway does not read primatology for what it tells us about primates, or human origins, but for what it tells us about our culture. She sug-",
+      "source": "Mary Flanagan_ Austin Booth - Reload_ Rethinking Women + Cyberculture-MIT Press (2002).pdf",
+      "chunk_index": 67,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8088335,
+      "importance": 0.8226805329322815,
+      "final_score": 0.8088334202766418
+    },
+    {
+      "id": "229d4f449a45de5337f4287b",
+      "qdrant_id": "c1e6554c-143c-5e80-b612-d3c76ba77090",
+      "text": "L Y O T A R D A N D T H E I N H U M A N H.M. Pashley. Harmondsworth: Penguin, 1972, p. 295. 52. Haraway, Simians, Cyborgs, p. 163. 53. Ibid., p. 174. 54. Ibid., p. 177. 55. Ibid., p. 178. 56. Ibid., p. 180. 57. Ibid., p. 230. 58. Sadie Plant, Zeros + Ones: Digital Women + the New Technoculture. London: Fourth Estate, 1997, pp. 39, 43. 59. Ibid., p. 49. 60. Ibid., p. 118. 61. Ibid., p. 37. 62. Ibid., p. 38. 63. Ibid., p. 173. 64. Donna J. Haraway, 'Ecce Homo, Ain't (Ar'n't) I a Woman, and Inappropriate/d Others: The Human in a Post-Humanist Landscape', in Judith Butler and Joan W. Scott (eds), Feminists Theorize the Political. New York and London: Routledge, 1992, pp. 86-100 (p. 86). 65. See the cover of William Gibson, Neuro-mancer. London: HarperCollins, 1993. 66. Ibid., pp. 158-9. 67. Ibid., p. 139. 68. Haraway, Simians, Cyborgs, p. 4. 70",
+      "source": "[Postmodern Encounters] Stuart Sim - Lyotard and the Inhuman (Postmodern Encounters) (1997, Totem Books) - libgen.li.pdf",
+      "chunk_index": 111,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8088263,
+      "importance": 0.8294392228126526,
+      "final_score": 0.8088264465332031
+    },
+    {
+      "id": "be80141c644a29fd5b5058f8",
+      "qdrant_id": "fee468fc-a1d3-54ec-bdb8-3641d65facec",
+      "text": "Perhaps the most ubiquitous example of women’s relationships with technologies is embodied in the cyborg ﬁgure. Back in 1985, Donna Haraway published the germinal article ‘A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s’ where she instigated a whole new way of thinking about not only women’s relationship to technology, but the conventional model of the subject based on origins, essences and organic",
+      "source": "Kim Toffoletti - Cyborgs and Barbie Dolls_ Feminism, Popular Culture and the Posthuman Body (2007, I. B. Tauris) - libgen.li.pdf",
+      "chunk_index": 84,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8079841,
+      "importance": 0.8212217688560486,
+      "final_score": 0.8079840540885925
+    },
+    {
+      "id": "037d0509fce2af6d5709e64a",
+      "qdrant_id": "30f387b2-67c3-5286-bc5b-ac71a4e8b4fa",
+      "text": "this possibility as a tantalizing issue for others to consider. All in all, by proposing the concept of the cyborg and consequently embrac- ing the machine, Haraway reclaims the technological systems which might oth- erwise be used further to marginalize already-oppressed voices. In so doing, however, she has implied a need for technology both to overcome the already- present power structure inherent in the western subject, and to reach what amounts to the true potential of the re-coded, cyborg (posthuman) self. This need becomes more pronounced as Haraway claims that the cyborg is capable of re-envisioning fundamental epistemological boundaries. \"There is a myth sys- tem waiting to become a political language to ground one way of looking at science and technology and challenging the informatics of domination-in order to act potently.\"28 One wonders if Haraway chose the word…",
+      "source": "Anthony Miccoli - Posthuman Suffering and the Technological Embrace (2010, Lexington Books) - libgen.li.pdf",
+      "chunk_index": 109,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.80741394,
+      "importance": 0.8275121450424194,
+      "final_score": 0.8074140548706055
+    },
+    {
+      "id": "23398c37fd5303d356021959",
+      "qdrant_id": "edc541b9-7329-5d96-9bb5-52b6b5b86f30",
+      "text": "Notes to Pages 4–14 141 16. See also Donna Haraway’s discussion of “situated knowledges” in the context of a “feminist empiricism” that would combine a recognition of “radical historical con- tingency” with a “no-nonsense commitment to faithful accounts of a ‘real’ world” in “Situated Knowledges: The Science Question in Feminism and the Privilege of Par- tial Perspective,” Simians, Cyborgs, and Women: The Reinvention of Nature (New York: Routledge, 1991), 187–88. 17. See, e.g., Brian Boyd, “Jane, Meet Charles: Literature, Evolution, and Human Nature,” Philosophy and Literature 22 (1998): 1–30. 18. Mary Crane, Shakespeare’s Brain: Reading with Cognitive Theory (Princeton: Princeton University Press, 2001), 7. Hereafter cited in the text. 19. Mark Turner, “The Cognitive Study of Art, Language, and Literature,” Poetics Today 23.1 (2002): 18. Hereafter cited in the text. 20. Gary Snyde…",
+      "source": "Richardson, Alan - The Neural Sublime_ Cognitive Theories and Romantic Texts (2010, Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 546,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.80689377,
+      "importance": 0.8213818073272705,
+      "final_score": 0.8068937063217163
+    },
+    {
+      "id": "4cac107e46269cb0fabbc11b",
+      "qdrant_id": "b2c41867-ce05-5970-b81b-707fab1ea7d5",
+      "text": "can be imagined. The cyborg Much has been written in recent years about the cyborg. Beginning with the real-world fighter pilot wired with sensors, electronically enhanced to operate his machinery faster than his own conscious decision-making will allow, to the machine-grafted human being kept alive or upgraded by cybernetic devices, to Donna Haraway’s network beings who break down the ontological walls among machine, animal, human being, and information, the cyborg has evolved into a dominant science-fictional trope for technological empire (see Gray 1995). As Haraway’s work and its great influence demonstrate, the cyborg is not limited to a particular bionic icon; it is rather a way of imagining relationships among domains in the technosocial world as interdependent and fluid. With the penetration of technoscience into the smallest regions of the body,",
+      "source": "[Routledge companions] Bould, Mark - The Routledge companion to science fiction (2009, Routledge) - libgen.li.pdf",
+      "chunk_index": 186,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8065356,
+      "importance": 0.8177758455276489,
+      "final_score": 0.8065356612205505
+    },
+    {
+      "id": "61f59f81a2c68347ff7f42a3",
+      "qdrant_id": "28af85ca-3329-5868-b81e-59e52bacb7c5",
+      "text": "invades or caresses her body. Cyborgs are ‘situated knowledges’ . . . with embodiment . . . (Gray et al., 1995, p. 7) This complex passage contains many of Haraway’s central themes. The cyborg is everywhere, but it is not simply a ‘product’. For Haraway, it serves as a way of articulating a politics that is not shy of the imbroglios of humans and non-humans, that does not yearn for an empowerment of the oppressed grounded in some version of authenticity or purity; for example, the ecofeminist mobilization around the motif of the Goddess. Hence, Haraway’s famous comment at the end of the ‘Cyborg Manifesto’: ‘I would rather be a cyborg than a goddess’ (Haraway, 1991a, p. 18; although see Lykke, 1996, who argues against the privileging of the cyborg over the goddess – the latter has her uses too). Rather, the cyborg, which Haraway has identiﬁed as a politically situated female entity (although she is also circumspect about the nature and potential of this",
+      "source": "[International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf",
+      "chunk_index": 137,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8055705,
+      "importance": 0.8248889446258545,
+      "final_score": 0.8055703639984131
+    },
+    {
+      "id": "42d31a5bf8203af43220734d",
+      "qdrant_id": "978836d1-2048-53db-b33b-9d684529edb6",
+      "text": "DONNA HARAWAY is Distinguished Profes- sor Emerita in the History of Consciousness Department at the University of California Santa Cruz. She writes on and teaches science and technology studies, feminist theory, and multispecies studies. At UCSC, she is an active participant in the Science & Justice Research Center and Center for Creative Ecologies. Har- away’s work explores science fact, science ﬁc- tion, speculative feminism, speculative fab- ulation, science and technology studies, and multispecies worlding. Her books include Stay- ing with the Trouble: Making Kin in the Chthulu- cene (2016); Manifestly Haraway (2016); When Species Meet (2008); The Companion Species Man- ifesto (2003); The Haraway Reader (2004); Mod- est_Witness@Second_Milennium (1997, 2018); Simians, Cyborgs, and Women (1991); Primate Visions (1989); and Crystals, Fabrics, and Fields (1976, 2004); Making Kin Not Population (coed- itor Adele Clarke) (2018). Fabrizio Terravova’s",
+      "source": "Bruno Latour (editor), Peter Weibel (editor) - Critical Zones_ The Science and Politics of Landing on Earth (2020, The MIT Press) - libgen.li (1).pdf",
+      "chunk_index": 239,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8045578,
+      "importance": 0.8195834755897522,
+      "final_score": 0.804557740688324
+    },
+    {
+      "id": "95bce3577629f29860303c89",
+      "qdrant_id": "1b7e26d5-67e1-5951-839a-00a0f5d73b38",
+      "text": "Lane. Grosz, Elizabeth (1994) Volatile Bodies. Towards a Corporeal Feminism, London: Routledge. Haraway, Donna (1991) ‘A Cyborg Manifesto: science, technology and socialist feminism in the late twentieth century’ in Simians, Cyborgs and Women: The Reinvention of Nature, London: Free Association Books. Haraway, Donna (1992) ‘The promises of monsters: a regenerative politics for inap­ propriate/d others’ in L. Grossberg, C. Nelson and P. Treichler (eds), Cultural Studies, London: Routledge. hooks, bell (1981) Ain’t I a Woman. Black Women and Feminism, Boston: Southend Press. 13",
+      "source": "Janet Price_ Margrit Shildrick - Feminist Theory and the Body_ A Reader (2022, Edinburgh University Press) [10.1515_9781474471770] - libgen.li (2).pdf",
+      "chunk_index": 63,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.80371135,
+      "importance": 0.8296651244163513,
+      "final_score": 0.8037114143371582
+    },
+    {
+      "id": "e88d922aa2ebd5b2cfc1c2e0",
+      "qdrant_id": "8b126d6f-9508-5c3c-88ba-d7422ab283c1",
+      "text": "passing the relationship between femininity and machines of reproduc- tion and communication. For recent feminist cultural theorists, the tradition of essentialism also constitutes the ultimate spectre of the metaphysical belief in nature as a space of unity and integration, serving as a model to culture and to the politics of difference. Donna Haraway’s ‘Cyborg Manifesto’ (1985;1991), explicitly rejects the unity of the body, the metaphysical bliss of nature, the essential truth of femininity. Careful in exploring the new sets of power in the cybernetic age, Haraway does not hesitate to emphazise the deviations that the cyborg offers to the linearity of reproduction and sameness.33 Haraway’s cyborg expresses antipathy for Marxist idealism and for the claustrophobic triangle of identiﬁcation rooted in the Oedipal complex. The cyborg shows no nostalgia for the model of exchange and reprod…",
+      "source": "(Transversals) Luciana Parisi - Abstract Sex_ Philosophy, Biotechnology and the Mutations of Desire-Continuum (2004).pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8028692,
+      "importance": 0.8253661394119263,
+      "final_score": 0.8028691411018372
+    },
+    {
+      "id": "8394dca636e5919a814c350f",
+      "qdrant_id": "f9a300e9-a98f-5a0e-b825-627616f9ab56",
+      "text": "parasites, exceeds the number of our bodily cells by up to a hundredfold (Lingis 1993; Haraway 2008). We are clearly “companion species”, engaged in lethal as much as enlivening games of becoming with one another (Haraway 2003, 2008). It is in the feminist registers of science studies – especially after the feminist conception of the cyborg and in the postdisciplinary efforts of Donna J. Haraway to bring science and cultural studies together – we ﬁnd especially fruitful starting points. Karen Barad’s foundational work on the agency of matter and on posthumanist perfor- mativity (abridged and included in this volume) point to the generative and collusive nature of the long feminist science studies tradition of reviewing and working along- side the natural sciences and to the generative nature of feminist encounters with the natural sciences. In similar veins, feminist science studies scho…",
+      "source": "Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.8021483,
+      "importance": 0.829933226108551,
+      "final_score": 0.8021483421325684
+    },
+    {
+      "id": "1472a5bdbee7aedc73bc0d5c",
+      "qdrant_id": "9806aa79-665c-56c8-b97b-3d5da81614a8",
+      "text": "with non-human others, which requires new politics, ethics and creative new cosmologies. She challenges specifically the long-standing association of females/non-Europeans with nature (Haraway 1990), stressing instead the need for feminist and anti-racist critiques that rest on a technologically mediated vision of a nature–culture continuum. She initiates a crossover dialogue between science and technology studies, race theory, socialist feminist politics and feminist neo-materialism by the figuration of the cyborg. A hybrid, or body-machine, the cyborg is a connection-making entity, a figure of inter-relationality, mobility, receptivity and global communication that deliberately blurs categorical distinctions (human/ non-human; nature/culture; male/female; Oedipal/non-Oedipal; European/ non-European). The cyborg as posthuman political subject exemplifies how Haraway combines c…",
+      "source": "Rosi Braidotti and Paul Gilroy (eds.) - Conflicting Humanities-Bloomsbury Academic (2016).pdf",
+      "chunk_index": 103,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.79882514,
+      "importance": 0.8257909417152405,
+      "final_score": 0.7988251447677612
+    },
+    {
+      "id": "899be23079debcff60444a3a",
+      "qdrant_id": "c860220a-6c88-5799-831e-316dc7645318",
+      "text": "hybridities 119 More than is customary, Haraway’s feminism contributes to a fundamentally new way of understanding nature and, by implica- tion, the damaged human nature that is liberal subjectivity. Here feminist theory finally becomes a mode of being in and for itself, emerging directly from the “situated knowledge” of the hybrid bodies so characteristic of cybernetic societies while, at the same moment, rethinking those hybrids of cyborgs, women, animals, and plants under the sign of social justice. That Haraway actually envisions a radically different way of being scientific–technical, an alternative approach to nature seeking to recapture unrealized, perhaps lost, connections, may be due to the fact that she herself is always already hybrid—part feminist, part cyborg, part compan- ion species. Indeed, there is in all of Haraway’s work a subtle but powerful sign of a nomadic thinker whose intellectual migration",
+      "source": "[Posthumanities] Arthur Kroker - Body Drift_ Butler, Hayles, Haraway (2012, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 345,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7973371,
+      "importance": 0.8210117220878601,
+      "final_score": 0.7973371744155884
+    },
+    {
+      "id": "426917b953da3e8a0afce208",
+      "qdrant_id": "5cab38a6-2722-5453-8477-271a630c044c",
+      "text": "Donna Haraway (b. 1944), Professor in the History of Consciousness Board at the University of California, Santa Cruz, issued A Cyborg Manifesto in 1991. This is an analysis of feminism in the advanced technological conditions of postmodern life in the Western world. Haraway employs Marxist, psychoanalytic and feminist methodologies to analyze how discourses of race, gender and class have been transformed by technological developments. We shall now see how she deals with these established discourses . . . 139",
+      "source": "Sophia Phoca - Introducing Postfeminism-Totem Books (1999).pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7970586,
+      "importance": 0.8135184049606323,
+      "final_score": 0.7970585823059082
+    },
+    {
+      "id": "89dcc794fafab6bd94764c5c",
+      "qdrant_id": "90b5116d-ac77-59de-afe7-887509f72dcd",
+      "text": "Adam Roberts, and Sherryl Vint, Fifty Key Figures in Science Fiction (London: Routledge, 2010). 9 Donna Haraway, “A Cyborg Manifesto,” reprinted in Simians, Cyborgs, and Women: The Reinvention of Nature (London: Routledge, 1991), p. 178. 10 Donna Haraway, “The Biopolitics of Postmodern Bodies,” in Simians, Cyborgs, and Women, p. 228. phillip e. wegner 504",
+      "source": "Gerry Canavan, Eric Carl Link - The Cambridge History of Science Fiction (2019, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 193,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7964575,
+      "importance": 0.8130503296852112,
+      "final_score": 0.7964576482772827
+    },
+    {
+      "id": "037457ed044ebc3ae0ddcfb6",
+      "qdrant_id": "08e622d6-a7bc-593d-a8ee-de77a5d29c67",
+      "text": "quent manifestations, in her own and others’ work – for this is not just about diverse readings, but also diverse cyborg rewritings, diverse invoca- tions of the cyborg. As Clough and Schnieder (2001: 345) say,‘Haraway’s figure of the cyborg … has spawned countless clones and there is yet no end to its productivity’; it has ‘managed to insinuate itself into diverse discursive spaces’ (Sofoulis 2002: 91), and we now have around us a ‘gallery of cyborg incarnation’ (Christie 1992: 195). C Y B O R G O L O G Y Perhaps inevitably, this morphing and cloning of the cyborg has put the figure to all kinds of work, a lot of it beyond what Haraway has imagined, though she is generously supportive of much of the reworking of her ideas, not wanting to stake a claim in ‘ownership’ of the cyborg as a tool for thinking: ‘These young feminists’, she comments in one interview, ‘have truly rewritten the manifesto in ways that were not part of my",
+      "source": "(Routledge Critical Thinkers) David Bell - Cyberculture Theorists_ Manuel Castells and Donna Haraway-Routledge (2007).pdf",
+      "chunk_index": 337,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7954958,
+      "importance": 0.8211197257041931,
+      "final_score": 0.7954958081245422
+    },
+    {
+      "id": "d674dd4befe56c8f3b6a1d05",
+      "qdrant_id": "c9db4420-afb0-5cd2-96ea-35b063da63d7",
+      "text": "ledge. ———. 1991a. Simians, Cyborgs, and Women. London: Free Association Books. ———. 1991b. “Situated Knowledges: The Science Question in Femi- nism and the Privilege of Partial Perspective.” In Simians, Cyborgs, and Women, 183–202. London: Free Association Books.",
+      "source": "Kathy Davis (editor)_ Inderpal Grewal (editor)_ Caren Kaplan (ed - The Making of Our Bodies, Ourselves_ How Feminism Travels across Borders (2007, Duke University Press) [10.1515_9780822390251] - libgen.li.pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7947314,
+      "importance": 0.8108335733413696,
+      "final_score": 0.7947314977645874
+    },
+    {
+      "id": "f7769ce1184692c1da30e0bb",
+      "qdrant_id": "6436e917-6360-5aef-ada5-b986976a9cd7",
+      "text": "Kunzru, H. (1998) ‘You are cyborg’, Wired 5(2): 1 – 8, available on-line at http://www.wired.com/archive//5.02/ffharaway.html (accessed 19 October 2005). Markussen, R., Olesen, F. and Lykke, N. (2003) ‘Interview with Donna Haraway’, in D. Idhe and E. Selinger (eds) Chasing Technoscience: Matrix for Materiality, Bloomington IN: Indiana University Press. [Reprinted as the first part of Markussen, R., Olesen, F. and Lykke, N. (2004) ‘Cyborgs, coyotes and dogs: a kinship of feminist figurations, and,There are always more things going on than you thought! Methodologies as thinking technologies’, in D. Haraway (ed.) The Haraway Reader, New York: Routledge]. Penley, C. and Ross, A. (1991) ‘Cyborgs at large: interview with Donna Haraway’, in C. Penley and A. Ross (eds) Technoculture, Minneapolis MN: University of Minnesota Press. Schneider, J. (2005) ‘Conversations with Donna Haraway’, in Donna …",
+      "source": "[Routledge Critical Thinkers] David Bell - CYBERCUL TURE THEORISTS (2007, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 429,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7946055,
+      "importance": 0.8104128837585449,
+      "final_score": 0.7946057319641113
+    },
+    {
+      "id": "f72281fcd620a928a66d45bd",
+      "qdrant_id": "dbfb7a91-86dd-51d5-b3cf-8f3f8ce7b8a9",
+      "text": "Donna Haraway’s project for feminist science studies’, Hypatia 19(1): 162 – 82. Critical summary of Haraway’s ‘situated knowledged’ work in the context of social studies of science and feminist studies of science. F U R T H E R R E A D I N G 143",
+      "source": "(Routledge Critical Thinkers) David Bell - Cyberculture Theorists_ Manuel Castells and Donna Haraway-Routledge (2007).pdf",
+      "chunk_index": 431,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.79424286,
+      "importance": 0.813055694103241,
+      "final_score": 0.7942428588867188
+    },
+    {
+      "id": "1bee29cdd78fa2994c580f79",
+      "qdrant_id": "06008567-3567-50ea-83a9-07dc15c411b6",
+      "text": "ACKNOWLEDGEMENTS 12. Jenny Wolmark, 'The Postmodern Romances of Feminist Science Fiction', from L. Pearce and J. Stacey (eds), Romance Revisited, London: Lawrence and Wishart, 1995. 13. Chela Sandoval, 'New Sciences: Cyborg Feminism and the Methodology of the Oppressed', from C. Gray (ed.), The Cyborg Handbook, London and New York: Routledge, 1995. 14. Jennifer Gonzalez, 'Envisioning Cyborg Bodies: Notes from Current Research', from C. Gray (ed.), The Cyborg Handbook, London and New York: Routledge, 1995. 15. Kathleen Woodward, 'From Virtual Cyborgs to Biological Time Bombs: Technocriticism and the Material Body', from G. Bender and T. Druckrey (eds), Culture on the Brink, Seattle: Bay Press, 1994. 16. Donald Morton, 'Birth of the Cyberqueer', from PMLA, 110, New York: Modern Language Association of America, 1995. 17. Donna Haraway, 'The Promises of Monsters: A Regenerat…",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7930594,
+      "importance": 0.8166531920433044,
+      "final_score": 0.7930594682693481
+    },
+    {
+      "id": "fda2a452052703b2d70c388d",
+      "qdrant_id": "431f2308-2e8d-53cf-a84d-38f317295af4",
+      "text": "particular dualism of bio/zoe, where human life (bio) was privileged over any other forms of life. There are theoretically then, no longer special rights and properties attached to the life of one species, and this is also seen in the type of interspecies studies pioneered by Donna Haraway, and seen here below in the work by Anna Tsing. Yet, of course, the breaking down of borders goes fur- ther, for Haraway was also a pioneer in studying relations between humans and the machine in her book Cyborg Manifesto of 1985. For feminist thinkers that book showed the way to a problematisation of traditional gender and feminist stereotypes through examination of the human interface with non-biological hardware. Our everyday interactions with the robotic, the digital, and with artiﬁcial intelligence leads us not only to question as Braidotti points out, our new relationship with matter, and ‘what happens to subjectivity in this com-",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 218,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.79029083,
+      "importance": 0.8207800388336182,
+      "final_score": 0.7902907729148865
+    },
+    {
+      "id": "318f43c61b43e3d2e48771d6",
+      "qdrant_id": "b6ac8020-80e9-523b-9853-8ff1c267329d",
+      "text": "ume. Feminism’s drive to oppose myth to logocentrism sometimes results in the search for an elusive alternative. In her essay Gene- vieve Liveley recounts how Donna Haraway ‘identiﬁes a series of key pairings. . . . which she claims, are radically destabilized by the monstrous hybrid of entity and myth that is the cyborg. However,’ she argues, ‘cyborgs do not re-inscribe or re-embody the traditional binarism between such categories’. Plurality in contrast to hierarchy becomes, in Haraway’s schema, the telos of feminism. This begs the question of whether plurality endangers the fundamental binary opposition at the heart of femininism—are we really ready to move beyond sexual difference? Post-feminism too often reduces the post-structuralist move to subvert oppositional categories into an end in itself. A politically engaged post-structuralism—which does not have to be a contradiction in terms—makes us aware of 12 Nancy Miller, Getting Personal: Feminist Occasions and Other Auto-",
+      "source": "Laughing with Medusa. Classical Myth and Feminist Thought (Classical Presences) (Vanda Zajko, Miriam Leonard) (Z-Library).pdf",
+      "chunk_index": 40,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7890727,
+      "importance": 0.8137409090995789,
+      "final_score": 0.7890728116035461
+    },
+    {
+      "id": "9cf23f86688907bd2154b607",
+      "qdrant_id": "70586fdb-fab5-5e38-accd-c94bf1bcd400",
+      "text": "theory by enrolling cyborgs and other nonhuman actors in the ethically and polit- ically a‹liated “lumpenproletariat” of “inappropriate/d others.” CONCLUSION: BETWEEN CYBORGS AND BITS OF LIFE Haraway’s feminist appropriation of the cyborg is perhaps the most inﬂuential ﬁguration produced by feminist cultural studies of technoscience. The cyborg has been used for very many purposes in feminist theories—so many that it has lost some of its critical power. Haraway has commented on the way in which her cyborg ﬁgure caught the imagination of her many readers, and she emphasizes that “as an oppositional ﬁgure the cyborg has a rather short half-life, and indeed for the most part, cyborg ﬁgurations, both in technical and in popular culture, are not, and have never been, oppositional, or liberatory, or had a critical dimension in the sense that I use critique, i.e., in the sense that things might be otherwise” (cited in Lykke,",
+      "source": "Smelik, Anneke(Editor) - Bits of Life_ Feminism at the Intersections of Media, Bioscience, and Technology (2008, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 88,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7887895,
+      "importance": 0.8112207651138306,
+      "final_score": 0.7887897491455078
+    },
+    {
+      "id": "5fe1184fb527d4d562da4528",
+      "qdrant_id": "5f31293f-2316-55b7-9a23-492d41a9809d",
+      "text": "will always be changing, be changelings:‘already in the few decades that they have existed, they have mutated, in fact and fiction, into second-order enti- ties like genomic and electronic databases and other denizens of the zone called cyberspace’ (Haraway 1995: xix). But she is also aware of the sen- sible limits of cyborg figuration, preferring to see the cyborg as one of the litter, along with ‘many sorts of entities that are neither nature nor culture’ (Markussen, Olesen and Lykke 2003: 57). Hence she arrives at the term ‘a kinship of feminist figurations’ (Haraway 2004a), made up of, as she puts it,‘florid, machinic, organic, and textual entities with which we share the earth and our flesh.These figures are full of bumptious life’ (ibid.: 1). By now echoing Lykke and Braidotti as well as reworking her own earlier formulations, in this kin group she sees ‘cyborgs and goddesses worki…",
+      "source": "[Routledge Critical Thinkers] David Bell - CYBERCUL TURE THEORISTS (2007, Routledge) - libgen.li.pdf",
+      "chunk_index": 350,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.78857505,
+      "importance": 0.8153064846992493,
+      "final_score": 0.7885752320289612
+    },
+    {
+      "id": "4fdd5920bc9e5e16c1774159",
+      "qdrant_id": "66d4f113-136a-58f2-a3ff-3b6fcf9dcbc3",
+      "text": "characterize a multicultural, multisexual world.’20 In fact, Haraway’s use of the cyborg as a figure for partial, hybrid ‘identities’ rewrites the narrative of the emergence of new social subjects (feminist, gay and lesbian, African-American, Chicano/a, postcolonial), in order to emphasize those subjects’ reactions against their various histories of ‘forced signification’ and enforced otherness. The cyborg figures an identity that is neither simply chosen nor entirely determined by others. Haraway therefore suggests that the coalitional grouping ‘women of color,’ as ‘a name contested at its origins by those whom it would incorporate,’ might also ‘be understood as a cyborg identity,’ while Arthur and Marilouise Kroker can make the more sweeping assertion that ‘women’s bodies have always been postmodern.’21 But as the Krokers indicate, these histories of forced signification were in place long before postmodernism became a",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (2022, Edinburgh University Press) [10.1515_9781474473668] - libgen.li.pdf",
+      "chunk_index": 168,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7880815,
+      "importance": 0.8156973719596863,
+      "final_score": 0.7880816459655762
+    },
+    {
+      "id": "4ae105700b28781cf5862610",
+      "qdrant_id": "6807593c-248e-5b2f-ae1d-3b066f434884",
+      "text": "V Donna Haraway: Live Theory is an invaluable introduction to the work of this key contemporary theorist and critic. Concise, accessible and comprehensive, it locates Haraway in the context of post-Vietnam US academic life, drawing out the roots of her political and intellectual concerns. The book makes clear the extent of her impact on the understanding of the relationship between ‘nature’ and ‘culture’, and how this helped shape the discipline of cultural studies. In particular, the book explores and illuminates Haraway’s important and ongoing contributions to ‘feminist science studies’, including the groundbreaking essays on the cyborg and situated knowledges. Haraway’s identification of science and technology as being closely entwined with global capitalism is discussed in detail, as are her sense of, and hopes for, better practice in both science and science studies. The book includes a new interview with Haraway herself, in which she discusses the key",
+      "source": "(Live theory series) Joseph W. Schneider - Donna Haraway_ Live Theory-Continuum (2005).pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.78647876,
+      "importance": 0.8112548589706421,
+      "final_score": 0.7864790558815002
+    },
+    {
+      "id": "f5cc081a742a1df4e1e3cfc7",
+      "qdrant_id": "99e4e487-0c77-52ae-bde9-8e728a57f8f5",
+      "text": "is lost and/or violated in the process, that is only recaptured (and not recovered) in différance, which is the possibility that the distinction could have been made otherwise. The deconstructive outline of this copulative logic indicates the difficulties inherent in attempts to rescue scientific knowledge for the feminist project. Donna Haraway, for example, seeks a rela- tion between subject and object that would permit the study of the physical and social sciences within a feminist framework more sym- pathetic to the insights of difference and identity, through the no- tion of “situated knowledge.” Situated knowledges require that the object of knowledge be pictured as an actor and agent, not as a screen or a ground or a resource, never finally as slave to the master that closes off the dialectic in his unique agency and his authorship of “objective” knowledge. . . . A corollary of the insistence that ethics and politics covertly or overtly provide the bases for",
+      "source": "(SUNY Series in Gender Theory) Robyn Ferrell - Copula_ Sexual Technologies, Reproductive Powers-State University of New York Press (2006).pdf",
+      "chunk_index": 396,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.78614306,
+      "importance": 0.8138940334320068,
+      "final_score": 0.7861433029174805
+    },
+    {
+      "id": "96264fa894c1b9b2de13c2f7",
+      "qdrant_id": "c4081bce-d44e-5f66-b851-3cab2850d588",
+      "text": "16 Donna Haraway: Live Theory ‘Cyborgs and Symbionts: Living Together in the New W o r ld Order’ (Haraway, 1995), with an appreciative footnote to fe llo w biologist Lynn Margulis, the biological entity Mixotricha paradoxa is introduced. Both empirical description and theory, M. paradoxa is a ‘concrete’, living entity as well as a ‘model’ of contradiction and complexity that immediately confounds the simple but c e n ­ tral distinction of the bounded self or separate ‘agent’ existing independent of that which is thought to be ‘outside’ and con text for it. It is also a clear instance of Haraway’s vision of the w orld in terms of a literal/figural meld and an example of her interest in issues of scale and changes in scale that close attention to b io ­ logical - she might say all physical - entities produces. F inally, it helps us appreciate her sense that attention to such entities often involves a troping or swerving of focus. While following",
+      "source": "(Live theory series) Joseph W. Schneider - Donna Haraway_ Live Theory-Continuum (2005).pdf",
+      "chunk_index": 52,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7860917,
+      "importance": 0.8117288947105408,
+      "final_score": 0.7860915660858154
+    },
+    {
+      "id": "8c192255080c6efab70a9223",
+      "qdrant_id": "1fb2dd7b-c572-50ac-9a19-bf8794391320",
+      "text": "Hamilton, Peter (1992), `The Enlightenment and the Birth of Social Science', in Hall, Stuart and Gieben, Bram (eds), Formations of Modernity, Cambridge: Polity, pp. 17±58. Haraway, Donna (1991a), `Situated Knowledges', in Simians, Cyborgs, and Women, London: Free Association Books, pp. 183±201. Haraway, Donna (1991b), `A Cyborg Manifesto', in Simians, Cyborgs, and Women, London: Free Association Books, pp. 149±81. Haraway, Donna (1991c), `The Actors are Cyborg, Nature is Coyote, and the Geography is Elsewhere: Postscript to ``Cyborgs at Large'' ', in Penley, Constance and Ross, Andrew (eds), Technoculture, Minneapolis: University of Minnesota Press, pp. 21±6. Hawthorne,Susan(1999),`Cyborgs,VirtualBodiesandOrganicBodies:Theoretical FeministResponses',inHawthorne,SusanandKlein,Renate(eds), CyberFeminism: Connectivity, Critique and Creativity, Melbourne: Spinifex, pp. 213±49. Hayles, Katherine (1999), How We Became Posthuman, Chicago & London: University of Chicago Press.",
+      "source": "Sue Thornham - Women, Feminism and Media (2007, Edinburgh University Press) [10.1515_9780748629282] - libgen.li.pdf",
+      "chunk_index": 596,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7855499,
+      "importance": 0.8039279580116272,
+      "final_score": 0.785550057888031
+    },
+    {
+      "id": "8fa176aa1ff984b669ddd962",
+      "qdrant_id": "a37f67c1-4880-5457-8684-f26c2bca25d0",
+      "text": "University of Minnesota Press. Schneider, J. (2005) ‘Conversations with Donna Haraway’, in Donna Haraway:Live Theory, London: Continuum. W O R K S A B O U T H A R A W AY Balsamo, A. (2000 [1988]) ‘Reading cyborgs writing feminism’, in G. Kirkup, L. Janes, K. Woodward and F. Hovenden (eds) The Gendered Cyborg: A Reader, London: Routledge [previously published in Communi- cation 10: 331 – 44]. Tracks science fiction’s cyborgs, with a close eye on their genderings. Bartsch, I., DiPalma, C. and Sells, L. (2001) ‘Witnessing the postmodern jeremiad: (mis)understanding Donna Haraway’s method of inquiry’, Configurations 9: 127 – 64. Compares the cyborg with the vampire figured in Modest_Witness, and dis- cusses Florida’s wetlands as vampiric and / or cyborgian landscape. Campbell, K. (2004) ‘The promise of feminist reflexivities: developing Donna Haraway’s project for feminist science studies’…",
+      "source": "[Routledge Critical Thinkers] David Bell - CYBERCUL TURE THEORISTS (2007, Routledge) - libgen.li.pdf",
+      "chunk_index": 430,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7840587,
+      "importance": 0.8045554161071777,
+      "final_score": 0.7840587496757507
+    },
+    {
+      "id": "a16dcf2abe5b06f48e2c56fb",
+      "qdrant_id": "4863c3f6-cf9d-53cf-9bbf-e89d36ecf027",
+      "text": "Theorist, Donna Haraway, too, was wary of binaries, and recommended art to feminists as a way of adjusting to the current world of globalisation, hybridi- sation and advanced technology. She proposed that, in the ‘border war’ between organism and machine, cyberfeminism should provide the framework for ‘respon- sibility’ in the construction of boundaries (Haraway 1991: 150). Although the term responsibility implies the existence of and adherence to some normative, ethical standard, Haraway did not spell it out in this way. Instead she stuck to the metaphor of war, in which the stakes were ‘the territories of produc- tion, reproduction, and imagination’ (1991: 150). In these terms she speciﬁcally looked at ‘two overlapping groups of texts for their insight into the construc- tion of a potentially helpful cyborg myth: constructions of women of colour and monstrous selves in science ﬁction’ …",
+      "source": "Helen McDonald - Erotic Ambiguities_ The Female Nude in Art (2001, Routledge) - libgen.li.pdf",
+      "chunk_index": 130,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.78397286,
+      "importance": 0.8115840554237366,
+      "final_score": 0.7839727401733398
+    },
+    {
+      "id": "bed5592589145b6df7133792",
+      "qdrant_id": "27fadc11-2928-5e67-90f3-2ac85b8312e2",
+      "text": "environmental feminism, environmental philosophy, and green cultural studies. Donna Haraway’s work, which has been essential for the develop- ment of all of the aforementioned ﬁelds, oﬀers comprehensive and compelling transformations of the category of nature. The nature- culture divide is unthinkable within Haraway’s conceptual universe, a universe that is replete with “material-semiotic actors” and such rich and revealing ﬁgures as the cyborg, the trickster coyote, and the Onco Mouse. Her essay in this volume takes on the question of what “nature” means in the complex practices of contemporary society. The stories with which she begins the essay illustrate that our understanding of Material Feminisms",
+      "source": "Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7829886,
+      "importance": 0.8155828714370728,
+      "final_score": 0.7829885482788086
+    },
+    {
+      "id": "7dc959f16d15d7d5baaed626",
+      "qdrant_id": "0f6b868e-fde6-587d-9219-12037c4d0ae4",
+      "text": "36 | Chapter Two My insistence on the erotic qualities of language is in line with Donna Haraway’s theory of the cyborg.1 In her model, the cyborg is a new entity that welcomes the human and the machine without making one superior to the other. It is also free of a binary logic. For Haraway, the “cyborg myth is about transgressed boundaries, potent fusions, and dangerous possibili- ties which progressive people might explore as one part of needed political work” (154). Haraway provides “an argument for pleasure in the confusion of boundaries,” and adds that “From the point of view of pleasure in [ . . . ] potent and taboo fusions, made inevitable by the social relations of science and technology, there might indeed be a feminist science” (150, 173). Sci- ence fiction provides a “catalogue of promising and dangerous monsters who help redefine the pleasures and politics of embodiment and feminist writing” (179). However, an analysis of how these fictions “redefine the",
+      "source": "Flore Chevaillier - The Body of Writing_ An Erotics of Contemporary American Fiction (2013, The Ohio State University Press) - libgen.li.pdf",
+      "chunk_index": 134,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.78200287,
+      "importance": 0.8033491969108582,
+      "final_score": 0.7820026874542236
+    },
+    {
+      "id": "a7ae713699f24c41e7039a47",
+      "qdrant_id": "b7e33d27-b305-54e8-bd88-356052e470a5",
+      "text": "Presented as such a learning-to-become-with practice, feminist posthumanities stand always as more than one possible response to the posthuman challenges to the humanities today (cf Lenz Taguchi, this volume; Braidotti 2013; Sjögren 2016). We may obviously draw on a rich set of meandering feminist alter- genealogies or anti-colonial critique and cyborg studies (Haraway 1991), science and literature studies, queer theory, cultural studies (Franklin et al. 2000), situated knowledge practices (Haraway 1991), advanced sex-gender theorising, power- knowledge praxis, feminist pedagogies, and sexual difference theory. Some of these are, under different headings, quite long-standing scholarly conversations; some are more recent. Some are yet to come or under rapid development, as seen in Matthew Fuller's special issue of Theory, Culture & Society on ‘Posthumanities’ where feminist and media ecol…",
+      "source": "Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.78102666,
+      "importance": 0.8160901665687561,
+      "final_score": 0.7810266613960266
+    },
+    {
+      "id": "02dd868a160fca92f8919690",
+      "qdrant_id": "9acabf0e-5faa-53ee-9e6f-d63b82218541",
+      "text": "44. Donna Haraway, “Situated Knowledges: the Science Question in Feminism and the Privilege of Partial Perspective,” Feminist Studies 14, no. 3 (1988): 575– 99. 45. Jerry Saltz, “Completing Pipilotti Rist’s MoMA Installation,” New York Magazine, February 2, 2009, http://www.vulture.com/2009/02/saltz_completing _pipilotti_ris.html. 4. Unbecoming Human 1. Donna Haraway interprets Piccinini’s oeuvre, following anthropologist Deb- orah Bird, in relationship to indigenous Australian models of care for Australia’s land and peoples in her “Speculative Fabulations for Technoculture’s Generations,” in (Tender) Creatures (Vitoria- Gasteiz, Spain: Atrium Gallery, 2007, exhibition cata- log). See also Deborah Bird Rose, Reports from a Wild Country: Ethics for Decolo- nisation (Sydney: University of New South Wales Press, 2004). While Haraway’s essay is predominantly interested in the loca…",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 422,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7808157,
+      "importance": 0.8121507167816162,
+      "final_score": 0.7808159589767456
+    },
+    {
+      "id": "5b300b41fa5c1c4cebd6e61f",
+      "qdrant_id": "44f77e2e-d105-50c5-a88d-27da5a2bc15e",
+      "text": "16 • Ruth M. Van Dyke Animals and Animisms Science and technology scholar Donna Haraway has long advocated for eliminating boundaries between humans and nonhumans. In her “Cyborg Manifestos” (1985, 1991), both hailed and reviled by third-­wave feminists, she critiqued the essentialized Judeo-­Christian view of “woman” and advo- cated for moving beyond gender altogether into an emancipatory realm of human-­machine hybrids. Haraway’s more recent (2003, 2008) work deals with the interrelationships among humans and animals, as she challenges a modernist vision of humans as discrete enemies and animals as Other, portraying the “face-­to-­face” relationships of dogs and people as knots of connections that bring into focus both entities’ complex histories encom- passing ecological, evolutionary, historical, and political dimensions. In Vibrant Matter, political scientist Jane Bennett (2010) similarly advo- cates for transcending any separation between human, animal, and mate-",
+      "source": "Van Dyke, Ruth M - Practicing Materiality (2015, University of Arizona Press) - libgen.li.pdf",
+      "chunk_index": 52,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.77945966,
+      "importance": 0.8040823936462402,
+      "final_score": 0.7794597148895264
+    },
+    {
+      "id": "6a10527df2f73cf9f6175bc6",
+      "qdrant_id": "13c2d81d-922a-57ac-94f6-6486bd88f3bf",
+      "text": "struction of the posthuman metamorph to be read as an afﬁrmation of the human status quo. But Donna Haraway’s classic ‘‘Cyborg Manifesto’’ con- cludes with an evocation of science ﬁction, feminist science ﬁction in partic- ular, as a realm of potentially liberatory reimagination of the human",
+      "source": "Bruce Clarke - Posthuman Metamorphosis_ Narrative and Systems (2008, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.77878773,
+      "importance": 0.8061355352401733,
+      "final_score": 0.7787876129150391
+    },
+    {
+      "id": "db533812854ccd0dce1febf3",
+      "qdrant_id": "6b02ad96-45d7-575b-9045-48ba81edfc7c",
+      "text": "Haraway, D. (1997) Modest_Witness@Second_Millennium.Female Man©_ Meets_OncoMouse™, New York: Routledge. Haraway, D. (2003a) The Companion Species Manifesto: Dogs, People, and Significant Otherness, Chicago IL: Prickly Paradigm Press. Haraway ‘gone to the dogs’, thinking the relationalities of dogs and their humans in all their complexity, as naturecultures. Haraway, D. (2003b) ‘Cyborgs to companion species: reconfiguring kin- ship in technoscience’, in D. Idhe and E. Selinger (eds) Chasing Technoscience: Matrix for Materiality, Bloomington IN: Indiana University Press. Charts her move towards the companion species manifesto, and from cyborgs to dogs and dog people.Also published in The Haraway Reader. Haraway, D. (2004a)’Introduction: a kinship of feminist figurations’, in D. Haraway (ed.) The Haraway Reader, New York: Routledge. A great introduction to this collection of her ‘greatest h…",
+      "source": "[Routledge Critical Thinkers] David Bell - CYBERCUL TURE THEORISTS (2007, Routledge) - libgen.li.pdf",
+      "chunk_index": 426,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.77860075,
+      "importance": 0.8029851317405701,
+      "final_score": 0.7786009907722473
+    },
+    {
+      "id": "1930419da3954e6791f0a038",
+      "qdrant_id": "b026e547-2105-57bb-a536-fc91f6614c69",
+      "text": "and genetic engineering. Here I examine these debates to pose another way of approaching posthuman representations of the biotechnological future, drawing on the works of the Australian visual artist Patricia Piccinini to develop my argument. In concluding this chapter and this book, I return to the question of tech- nology and representation to highlight the parallels and differences between the approaches of feminist thinker Donna Haraway and Jean Baudrillard. Through this book, I hope to open up further dialogue between feminist thought and the writings of Baudrillard to better understand the role played by posthuman representations in our perceptions of technology, selfhood and the real. What ensues is a theory of the posthuman that is an amalgam of feminist theory and postmodern image culture. In claiming that posthuman forms like Marilyn Manson and Barbie en- able new form…",
+      "source": "Kim Toffoletti - Cyborgs and Barbie Dolls_ Feminism, Popular Culture and the Posthuman Body (2007, I. B. Tauris) - libgen.li.pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.778099,
+      "importance": 0.8123937845230103,
+      "final_score": 0.7780991792678833
+    },
+    {
+      "id": "ae189eff0d460450cc411003",
+      "qdrant_id": "9760bcdd-2217-59c4-94c4-2dd3f1c39cb4",
+      "text": "such representation would be 'criti- cal' of simulation? Halley would argue that although it may be impos- sible to produce a comprehensive knowledge of a rapidly changing complex of institutional processes, we must continue to map the significant structures, practices and spaces of our social systems because the func- tion of art is to register interactions of power and knowledge. HARAWAY, DONNA: CULTURAL SCIEN- TIST AND PHILOSOPHER (1944- ) Donna Haraway has led the way in formulating a feminist approach to nature and techno-science. Her work forms a cornerstone of the increas- ingly popular field of techno-theory, 268 269",
+      "source": "[Routledge Companions] Stuart Sim - The Routledge Companion to Postmodernism (Routledge Companions) (2001, Routledge) - libgen.li.pdf",
+      "chunk_index": 269,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7771021,
+      "importance": 0.8020709156990051,
+      "final_score": 0.7771021127700806
+    },
+    {
+      "id": "da631407f5cc051132c41714",
+      "qdrant_id": "bfd66b53-66ac-5955-b1c3-86f396d49eec",
+      "text": "INTRODUCTION 7 and Piercy were adopted into the mainstream literary world. The 80s saw, among others, the emergence—or, rather, the popularization—of cyberpunk with Pat Cadigan ( Mindplayer , 1987) and Melissa Scott being among its most prominent female representatives. 80s science fi ction marks the passage from woman to women. Donna Haraway’s “A Cyborg Manifesto: Science, Technology and Socialist-Feminism in the Late Twentieth Century” tackles the universal, totalizing ambitions of both Marxist and radical feminist theories. 14 Revealing the feminist shortcomings in terms of understanding the experiential specifi cities on the level of race, class, and sexuality, Haraway analyzes the inherent fragmentation of both individual and communities and the irrelevance of the concept of identity itself. 15, 16 On the level of gothic horror, women writers embrace, refute, or…",
+      "source": "Sébastien Doubinsky (editor), Christina Kkona (editor) - Women of Horror and Speculative Fiction in Their Own Words_ Conversations with Authors and Editors (2024, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 24,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.77552354,
+      "importance": 0.8056852221488953,
+      "final_score": 0.7755235433578491
+    },
+    {
+      "id": "756f004bf4c2d9898ab02c5b",
+      "qdrant_id": "f020d726-649a-51f7-9f16-650917425e8f",
+      "text": "feminist and progressive: ‘cyborgs for earthly survival!’ (Haraway 1995) As Schneider (2005: 66) sums up, ‘Multiplicities. Heterodoxies. Monstrosities. Improbable but promising couplings made by choice and based on assumed short-term common ends as well as means.These are the marks of Haraway’s cyborg as a figure to think and live with’. H A R A W A Y ’ S K E Y I D E A S 109 G O D D E S S F E M I N I S M Also known as thealogy, contemporary goddess feminism emerged alongside so- called ‘second wave’ feminism, in the 1970s, and it remains a thriving global movement with a number of variants. Often connected to ecofeminism, a branch of feminism stressing women’s connection to the natural environment, and to the idea of the Earth goddess, it combines spiritualism, ecologism and feminism cen- tred on the goddess as a symbol of life, natural energy and female essence. The goddess is seen as …",
+      "source": "[Routledge Critical Thinkers] David Bell - CYBERCUL TURE THEORISTS (2007, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 333,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7735015,
+      "importance": 0.8024064898490906,
+      "final_score": 0.7735015749931335
+    },
+    {
+      "id": "720b01ed2d12226efeca4bca",
+      "qdrant_id": "8a82b38c-431a-5568-9c9e-c6b25ed161e6",
+      "text": "Durham and London: Duke University Press. Gunaratnam, Yasmin, and Nigel Clark. 2012. Pre-race post-race: Climate change and planetary humanism. Darkmatter. http://www.darkmatter101.org/site/2012/07/02/pre-race-post-race-cli- mate-change-and-planetary-humanism/. Accessed 1 May 2015. Halberstam, Judith M., and Ira Livingston. 1995. Posthuman bodies. Bloomington, IN: Indiana University Press. Haraway, Donna J. 1988. Situated knowledges: The science question in feminism and the privi- lege of partial perspective. Feminist Studies 14(3):575–599. Haraway, Donna J. 1991. Simians, cyborgs, and women: The reinvention of nature. New York: Routledge. Haraway, Donna J. 1994. A game of cat’s cradle: Science studies, feminist theory, cultural stu- dies. Conﬁgurations 2(1):59–71. Haraway, Donna J. 2003. The companion species manifesto: Dogs, people, and signiﬁcant other- ness. Chicago, IL: Prickly Para…",
+      "source": "Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf",
+      "chunk_index": 105,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7729483,
+      "importance": 0.8027729988098145,
+      "final_score": 0.7729484438896179
+    },
+    {
+      "id": "c710edbdfe78db4fad872a61",
+      "qdrant_id": "1de8612d-5ccb-5401-96e2-37a98ee1007c",
+      "text": "Trans-Corporeal Feminisms and the Ethical Space of Nature 251 just beyond reach: epistemological space as ethical space Feminist epistemology and environmental philosophy have long rec- ognized the ethical impact of epistemological paradigms and practices. There is no space here to sketch out the intersections between these two ﬁelds, but we may note two salient examples of environmental feminist theory that encourage more cautious and capacious ways of knowing—ways of knowing that do not foreclose the actions, signiﬁ- cance, and value of the more-than-human world. Donna Haraway, in “Situated Knowledges: The Science Question in Feminism and the Privilege of the Partial Perspective,” oﬀers a compelling epistemologi- cal model which requires that “the object of knowledge be pictured as an actor and agent, not a screen or ground or a resource, never ﬁnally as a slave to the master…",
+      "source": "Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf",
+      "chunk_index": 99,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.77280223,
+      "importance": 0.8052886724472046,
+      "final_score": 0.7728023529052734
+    },
+    {
+      "id": "54186c463ecbb13dc52b440c",
+      "qdrant_id": "b7d1b36e-e51e-54fa-b06a-8939172fd3b0",
+      "text": "from victimage entails even a modicum of self-expression, then feminist standpoint theory promises liberation only for the mediatrix and her ‘scientifically adequate’ elite. For all others, it promises only continued victimage. Nietzsche’s analysis of the psychology of the ascetic priest thus indicates that the mediatrix required by feminist standpoint theory might unwittingly sustain the privilege of her own (abstract) composite standpoint by compounding the victimage of subjugated agents. CONCLUSION As an antidote to the dream of foundational innocence, by which Sandra Harding is perhaps enthralled, Donna Haraway proposes various imaginative exercises designed to liberate feminists from the perceived need for an originary, epistemically pure standpoint. As an enabling narrative for postmodern feminists, Haraway offers the myth of the cyborg, a composite, hybrid creature that embodies t…",
+      "source": "Paul Patton - Nietzsche, Feminism and Political Theory (1993, Routledge) - libgen.li.pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.771713,
+      "importance": 0.8036634922027588,
+      "final_score": 0.771713137626648
+    },
+    {
+      "id": "ce7d9ab9d4720cc18a71cbc5",
+      "qdrant_id": "61ac7e22-88ae-5893-9c8e-13a1a18456ea",
+      "text": "(1994)), both of whom describe cyberspace as democratic and communal. It is also a place in which the troubling markers of gender difference can be transcended, since cyberspace renders the organic body superfluous. CYBORG As Donna Haraway has written in her ‘Cyborg Manifesto’ (1985), we live in a cyborg world of electronic communications, in which the difference between artificial and natural remains ambiguous: ‘our machines…disturbingly lively and we ourselves frighteningly inert’. The term is thus indicative of transgressed boundaries, and an interrogation of the assumption of a unified subjectivity. The term ‘cyborg’ is a conflation of ‘cybernetic organism’, and was coined in 1960 by the research space scientist Manfred Clynes. However, cyborgs appeared in science fiction stories decades earlier. A ‘cyborg’ can be anything from a human with a prosthesis to a robot with a thin veneer of skin (as in the Terminator films), and",
+      "source": "[Routledge Companions] Sarah Gamble - The Routledge Companion to Feminism and Postfeminism (Routledge Companions) (2001, Routledge) - libgen.li.pdf",
+      "chunk_index": 154,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.771351,
+      "importance": 0.7929226160049438,
+      "final_score": 0.7713508605957031
+    },
+    {
+      "id": "ad569b8ca1689bb0a599e471",
+      "qdrant_id": "878c3392-1492-593d-b76d-93da01496863",
+      "text": "427 Species Manifesto: Dogs, People, and Signiﬁcant Otherness; Simians, Cy- borgs, and Women: The Re-Invention of Nature; Primate Visions: Gender, Race, and Nature in the World of Modern Science; and Crystals, Fabrics, and Fields: Metaphors that Shape Embryos. In 2000, Haraway received the J. D. Bernal Prize for outstanding contributions to the ﬁeld of sci- ence and technology studies. She is currently working on a book called When Species Meet. She teaches in the Department of History of Con- sciousness at the University of California, Santa Cruz. Susan Hekman is Professor of Political Science and Director of Grad- uate Humanities at the University of Texas at Arlington. She has pub- lished books on the methodology of the social sciences and feminist theory, including most recently The Future of Diﬀerences and Private Selves, Public Identities. She is currently working on a book c…",
+      "source": "Stacy Alaimo and Susan Hekman _ (eds) - Material Feminisms (2008, Indiana University Press) - libgen.li.pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7702322,
+      "importance": 0.7941097021102905,
+      "final_score": 0.7702322006225586
+    },
+    {
+      "id": "5f4621c7b24866049f6afffb",
+      "qdrant_id": "1859675f-baba-5116-a5a5-59b3283caece",
+      "text": "but with a suggestion of menace, along the surface of Wilkinson's new Quattro titanium razor (see Figure 5.2); she is its blade. `Looking lustrous' and `giving a smooth comfortable glide action', this blade-woman is also extremely dangerous. Today, however, the most frequently quoted theoretical deployment of the concept of the cyborg is that of Donna Haraway. Haraway is acutely aware of the cyborg's origins in cybernetics, with its `translation of the world into a problem of coding', in the service of a military-industrial complex built on `command-control-communication-intelligence' (1991b: 164). Her feminist appropriation of the cyborg figure acknowledges both its metaphorical nature and the power of such `body imagery' in con- TECHNOLOGIES OF DIFFERENCE 139",
+      "source": "Sue Thornham - Women, Feminism and Media (2007, Edinburgh University Press) [10.1515_9780748629282] - libgen.li.pdf",
+      "chunk_index": 525,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.76955485,
+      "importance": 0.7954789996147156,
+      "final_score": 0.7695550322532654
+    },
+    {
+      "id": "6d6f803db247ff849441e8a7",
+      "qdrant_id": "06e9e016-7c6f-5a1f-8c4a-e37a3322c4ff",
+      "text": "ground that has supported the unacknowledged stories and plot lines of what we might call the master narratives of intellectual discourses. In this sense, the feminist turn toward engaging narrative in theory has become a vehicle for reworking our way through complex systems of discourse and power, thus clearing a space for what Haraway calls other \"narrative possibilities\" (Simians 3). As she explains with reference to her own study of primatology, \"I am arguing that the struggle to construct good stories is a major part of the craft. There would be no primatology without skillful, collectively contested stories. And, there would be no stories, no questions, without the complex webs of power, including the tortured realities of race, sex, and classand including people's struggles to tell each other how we might live with each other\" (\"Primatology Is Politics\" 80). Stories thereby become…",
+      "source": "[SUNY Series in Feminist Criticism and Theory] Ruth Salvaggio - The Sounds of Feminist Theory (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 150,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.769045,
+      "importance": 0.8058348298072815,
+      "final_score": 0.7690452337265015
+    },
+    {
+      "id": "7ac894edf8e864f3342ca68f",
+      "qdrant_id": "66b5f15c-b77e-57a2-bb35-ca6a58d1bc37",
+      "text": "and mosques, and on Islamic message boards to illustrate a cautionary tale about a girl who was transformed into an inhuman beast for abusing the Koran. Brennan, “Border Patrol,” 7. 35. Haraway, When Species Meet, 18. Haraway’s classic cyborg manifesto — which playfully celebrates the cyborg ﬁgure for its ability to transgress boundaries of gender, race, and difference and to disrupt ontological categories — is the foun- dational text in this regard. Donna Haraway, “A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s,” in Simians, Cyborgs and Women (New York: Routledge, 1991), 149– 81. 36. Michael, Patricia Piccinini: We Are Family, 18. 37. Rosi Braidotti stresses the need to conceptualize human/animal as constitu- tive of the identity of each, as opposed to anthropomorphizing animals as emblems of the universal ethical value of empathy, in The …",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 435,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7682327,
+      "importance": 0.7999781966209412,
+      "final_score": 0.7682327032089233
+    },
+    {
+      "id": "01be7d6123afde3768c3d748",
+      "qdrant_id": "5176771c-096c-578c-88f7-6bd7b2b15cbe",
+      "text": "under Creative Commons license cc by-nc-nd 3.0. © Donna Haraway. Chapter 5 is reprinted from wsq: Women’s Studies Quarterly 40, nos. 3/4 (spring/sum- mer 2012): 301–16. Copyright © 2012 by the Feminist Press at the City University of New York. Used by permission of The Permissions Company, Inc., on behalf of the publishers, feministpress.org. All Rights reserved. Chapter 6 is reprinted from Beyond the Cyborg: Adventures with Donna Haraway, ed. Margaret Grebowicz and Helen Merrick, 137–46, 173–75. Copyright © Columbia University Press, 2013. Chapter 7 is reprinted from Angelaki 20, no. 2 (2015): 5–14. Reprinted by permission of the publisher. © Taylor and Francis Ltd., tandfon- line.com. Figure 3.1, “Endosymbiosis: Homage to Lynn Margulis.” © Shoshanah Dubiner, www.cybermuse.com.",
+      "source": "[Experimental futures _ technological lives scientific arts anthropological voices 2016_ 1] Haraway, Donna Jeanne - Staying with the trouble_ making kin in the chthulucene (2016, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7674965,
+      "importance": 0.7975922226905823,
+      "final_score": 0.767496645450592
+    },
+    {
+      "id": "2e33e9ef59330863d5fa1511",
+      "qdrant_id": "2cb5774c-1eba-5ac8-a189-fec34b3d562a",
+      "text": "radiating triumph of computation? The doubled themes of grief and terror, computation and disem- bodiment, find, I believe, their effective mediation in the thought of Donna Haraway. Precisely because the psychoanalytic concerns of Butler and the scientific preoccupations of Hayles share very little on the surface with Haraway’s focus on thinking questions of gender and power, species-logic, and technology, Haraway has all the more powerfully translated questions of grief and terror, computation and disembodiment, into a form of thought that is, in effect, a way of working through the contemporary human condition. Grief and terror pervade Haraway’s writings, from her earliest reflections on the dispossessed role of women generally and immigrant women’s labor specifically in the “informatics of domination” to her studies of primates, cyborgs, and women, where the question of terrorism is always pronounced, from biological",
+      "source": "[Posthumanities] Arthur Kroker - Body Drift_ Butler, Hayles, Haraway (2012, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 404,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.76667297,
+      "importance": 0.797598123550415,
+      "final_score": 0.7666729688644409
+    },
+    {
+      "id": "6c18ad4a4ce4469e8c47229e",
+      "qdrant_id": "0061cede-d0c1-57a6-88be-2dbe9f018c62",
+      "text": "PAR-L/win/cyberfem.htm (consulted 20.01 2005). Cassell, Justine. 1998. ‘Storytelling as Nexus of Change in the Relationship between Gender and Technology: A Feminist Approach to Software Design’ in Cassell, Justine and Henry Jenkins (eds) From Barbie to Mortal Combat Gender and Computer Games. Cambridge, Mass: The MIT Press: 298-326. Faber, Monika. 1997. ‘Leap of Space. Time-Poem. Movement-Trace’ in Split:Reality Valie Export: Museum moderner Kunst Stiftung Ludwig Wien (ed.). Vienna, New York: Springer: 208-213. Haraway, Donna. 1991. Simians, Cyborgs, and Women. The Reinvention of Nature. New York: Routledge.",
+      "source": "Dietrich Scheunemann (Eds.), Dietrich Scheunemann (editor) - Avant-Garde Film. (Avant-Garde Critical Studies 23)-Editions Rodopi BV. (2007).pdf",
+      "chunk_index": 127,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7663187,
+      "importance": 0.7973116636276245,
+      "final_score": 0.7663189172744751
+    },
+    {
+      "id": "9e577d4854a7c9c268de7fc4",
+      "qdrant_id": "bc21bec8-663c-5c19-aa9a-ce320e2e7542",
+      "text": "ence Question in Feminism (1986), Whose Science? Whose Knowledge? (1991), and Is Sci- ence Multicultural? (1998). 29. In Simians, Cyborgs, and Women (1991). A version of the chapter ﬁrst appeared in the Socialist Review. 30. For Haraway, the ﬁgure of the cyborg also becomes a metaphor for coalition politics, the joining together of diverse political groups to ﬁght a speciﬁc political battle. Har- away’s later work Modest-Witness, Second-Millennium: Femaleman Meets OncoMouse (1996) again looks into the relationship between feminism and science, exploring is- sues such as reproductive freedom and biological approaches to race in an attempt to imagine a feminist, multicultural account of technoscience. Certainly Haraway’s man- ifesto argues for the productive use of the cyborg metaphor in feminist theory. 31. The pairing of women/nature has been studied in the works of countless scholars (Haraway, Keller, Plant, etc.) and is seen as an attack on feminine subjectivity and cul-",
+      "source": "Mary Flanagan_ Austin Booth - Reload_ Rethinking Women + Cyberculture-MIT Press (2002).pdf",
+      "chunk_index": 97,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.76542664,
+      "importance": 0.7925434708595276,
+      "final_score": 0.7654265761375427
+    },
+    {
+      "id": "0364c6b3e24155c12d568b99",
+      "qdrant_id": "d8f7c9f5-4f62-5d87-b98b-5fbbe101178b",
+      "text": "Notes on Contributors vii Acknowledgements xi Introduction Mary Eagleton 1 1 Place and Space Linda McDowell 11 2 Time Krista Cowman and Louise A. Jackson 32 3 Class Rosemary Hennessy 53 4 ‘Race’ Kum-Kum Bhavnani and Meg Coulson 73 5 Sexuality Rey Chow 93 6 Subjects Chris Weedon 111 7 Language Sara Mills 133 v Contents 8 Literature Mary Eagleton 153 9 The Visual Griselda Pollock 173 10 Feminist Philosophies Rosi Braidotti 195 11 Cyberculture Jenny Wolmark 215 12 Feminist Futures Sara Ahmed 236 Select Bibliography 255 Index 257 Contents vi",
+      "source": "Mary Eagleton - A Concise Companion to Feminist Theory (Concise Companions to Literature and Culture) (2003) - libgen.li.pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.76513165,
+      "importance": 0.8020263314247131,
+      "final_score": 0.7651315927505493
+    },
+    {
+      "id": "2b2296405808d718e22d9eb5",
+      "qdrant_id": "e418f21a-d5ea-5874-8ac4-e5e9516c6554",
+      "text": "centrism. This tension arises first in the field of science and technology studies, signalling that the social constructivist, oppositional approach does not always help to deal with the challenges of a post-anthropocentric or geo-centred shift. In 1985 Donna Haraway, the most prominent contemporary post- anthropocentric thinker, published her path-breaking ‘Manifesto for Cyborgs’, the first posthuman social-theory text of that generation. It guides us into the high-technology world of informatics and telecommu- nications and a post-anthropocentric universe marked by what Haraway (2003) would later define as non-human companion species. Haraway (2006) shows that contemporary technologies are enacting a qualitative shift in our understanding of how the human is constituted in its interaction with non-human others, which requires new politics, ethics and creative new cosmologies.…",
+      "source": "Rosi Braidotti and Paul Gilroy (eds.) - Conflicting Humanities-Bloomsbury Academic (2016).pdf",
+      "chunk_index": 102,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7641468,
+      "importance": 0.7979268431663513,
+      "final_score": 0.7641468048095703
+    },
+    {
+      "id": "d7ed72f014fcf0ce6861e38c",
+      "qdrant_id": "96480150-4f05-5b8b-a96b-befb31925d4b",
+      "text": "gratitude—both for the questions they centered and the conversations they started. In addition, because one of our aims in this volume is to show that queer feminist readings of science have been at the center of certain aca- demic feminist debates, there are notable absences in this volume. This volume consists primarily of scholarship by academics who write and teach in (but not exclusively about) the Global North and who were trained in humanistic and social scientific disciplines. We foresee collections of queer feminist science studies that highlight queer feminist interdisci- plinarity and decenter Western thought. There is much material for a vol- ume that highlights groundbreaking work in queer feminist speculative fictions, both as Aimee Bahng has argued (in this volume) and in the leg- acy of feminist science fiction and cyberpunk readers (Little 2007; Flana- gan and Booth 2002; Imarisha and brown 2015; Larbalestier 2006), or a",
+      "source": "[Feminist Technosciences] Cyd Cipolla_ Kristina Gupta_ David A. Rubin_ Angela Willey - Queer Feminist Science Studies_ A Reader (2017, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 53,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7205305,
+      "importance": 0.8021621704101562,
+      "final_score": 0.7624613046646118
+    },
+    {
+      "id": "09f0fd227120dcbab05d522b",
+      "qdrant_id": "b0abd89d-c159-5714-84e9-db676315ab04",
+      "text": "seem particularly relevant to the times we are living in: they signify the temporal, spatial and cultural shifts and dislocations of postmodernism, while also operating as a means of understanding those same shifts and dislocations. They allow us to explore the new critical contours of postmodernity, in which alternative constructions of difference and identity become possible. The writers included in this Reader have used one or both of these metaphors to do exactly this, informed by both feminist theory and cultural theory. The metaphors of the cyborg and of cyberspace have been widely used since their first appearance, and there is considerable diversity in the way that they have been employed, as might be expected. The concerns of feminist theory with embodiment, for example, focused in the first instance on the female body, but the interaction of feminist theory with both…",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7090996,
+      "importance": 0.8015024065971375,
+      "final_score": 0.7611218690872192
+    },
+    {
+      "id": "ec4f03835f25d2e6f257383b",
+      "qdrant_id": "b01a377e-aa4c-503c-98dc-fb7f2edb23bc",
+      "text": "in which ‘third world’ women are constructed as objects of information and knowledge exchange. Likewise, Sneja Gunew examines the potential effects on feminism of new forms of racism which emphasise cultural, rather than biolog- ical, difference. These contributions to this volume highlight the importance of feminists being vigilant about the perpetual reconfiguration of institutions, bodies, temporalities and categories. As well as recognising that some transformations in gender relations may be problematic for feminism, we also recognise how easily ‘transformation’ can itself become a buzz word for conservative politics and thus that not all calls for trans- formation are progressive. For example, flexible capitalism, modern forms of consumerism or what Celia Lury (1998), amongst others, has called ‘prosthetic culture’, may themselves use the discourse of transformation to produce a subject who can re-produce existing power relations. Lisa Adkins’s chapter illus-",
+      "source": "(Transformations_ Thinking Through Feminism) Sara Ahmed_ Jane Kilby_ Celia Lury_ Beverley Skeggs_ Maureen McNeil - Transformations_ Thinking Through Feminism-Routledge (2000).pdf",
+      "chunk_index": 90,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.73880374,
+      "importance": 0.793183445930481,
+      "final_score": 0.7388036251068115
+    },
+    {
+      "id": "ba94d83debda266c05e23fb9",
+      "qdrant_id": "0e776301-5b86-5714-89e1-f18d21411a72",
+      "text": "those same skills that comprise the methodology of the oppressed, which including the technologies of 'semiotics,' 'deconstruction,' 'meta-ideologizing,' 'democratics,' and 'differential movement.' It is these technologies that permit the constant, differential repositioning necessary for perception and action from what Haraway identifies as 'the standpoints of the subjugated.' Indeed, Haraway's essay on cyborg feminism identifies all five of these technologies (if only in passing) as ways to bring about what she hopes will become a new feminist methodology. Of the first 'semiotic' technology, for example, Haraway writes that 'self knowledge requires a semiotic-material technology linking meanings and bodies ... the opening of non-isomorphic subjects, agents, and territories to 257",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 176,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7855739,
+      "importance": 0.8176240921020508,
+      "final_score": 0.726940393447876
+    },
+    {
+      "id": "3b741b6cd3b16aed85949ac6",
+      "qdrant_id": "1ecc4360-cf0c-5e64-b45c-2038a852b07c",
+      "text": "opens this volume. As already noted, Haraway’s “Manifesto for Cyborgs” provides one of the earliest influential formulations of the inseparabil- ity of humans and nonhumans in the figure of the cyborg, which she deploys as a means of critiquing mid-­1980s variations of naturalizing feminism and Marxism. Her important writing on companion species works to similar purposes, and her very recent coinage, “Chthulucene,” appears in Jill Schneiderman’s mapping of the Anthropocene naming controversy. Butler and Grosz figure in Lynne Huffer’s essay as repre- sentatives of the persistence of a shared concept of life or vitality in denaturalizing and renaturalizing feminism, respectively. The work of both of these feminist/queer theorists, along with Karen Barad, appear in several of the essays as examples of different ways in which feminist theory has already been thinking the Anthropoce…",
+      "source": "Anthropocene Feminism (21st Century Studies) (Richard Grusin, Stacy Alaimo, Rosi Braidotti etc.) (Z-Library).pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.824677,
+      "importance": 0.8431462645530701,
+      "final_score": 0.722676157951355
+    },
+    {
+      "id": "a264b8679c602843981d5883",
+      "qdrant_id": "b6fa28d6-6709-5541-a7e8-24bafb560ef4",
+      "text": "Arts (MIt Press, 2011), Parables for the Virtual: Movement, Affect, Sensation (Duke University Press, 2002), and other books. He is the editor of The Politics of Everyday Fear (University of Minnesota Press, 1993) and A Shock to Thought: Expression after Deleuze and Guattari (Rout- ledge, 2002). With Erin Manning of the SenseLab, Concordia University, he organizes a series of events and activities under the title “Technologies of Lived Abstraction” and edits an MIt Press book series of the same title. luciana parisi is the convener of the Interactive Media M.A. at Goldsmiths University of London. In 2004 she published Abstract Sex: Philosophy, Biotechnology and the Mutations of Desire (Continuum Press). Recently, she has been writing on soft architecture and has completed a monograph on the metaphysics of computational culture (MIt Press, forthcoming). Jasbir puar is an associate…",
+      "source": "Patricia Ticento Clough and Craig Willse_ (eds.) - Beyond Biopolitics _ Essays on the Governance of Life and Death (2011, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 174,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage"
+      ],
+      "raw_score": 0.7090595,
+      "importance": 0.7694994807243347,
+      "final_score": 0.7142770886421204
+    },
+    {
+      "id": "17f567a1004c343d4da66602",
+      "qdrant_id": "41833e34-1a3b-535c-88a8-0d0327d94024",
+      "text": "are ee eo any coherent tively to construct radically different social arrangements “Gyithout the utopian mystifications that haunt some contemporary feminisms), we need to know what we are acting on. In other words, we have to have reliable knowledge of the social relations and institutions we § seek to change. It is, of course, common knowledge r now that f poststructuralism and ludic femi- nism deny the possibility of such reliable knowledge. In the following chapters, I will address the politics of such epistemological maneuvers. Here I want to state that critique, far from an act of trashing, is in fact the most trustable ally of transformative feminism because it produces knowl- edge of the social totality by examining existing practices. Critique enables. feminism to arrive, by democratic, public contestations, at a collective understanding of of — eal pauens and in…",
+      "source": "[Critical Perspectives on Women and Gender] Teresa L. Ebert - Ludic Feminism and After_ Postmodernism, Desire, and Labor in Late Capitalism (1996, University of Michigan Press) - libgen.li.pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.70895267,
+      "importance": 0.7893228530883789,
+      "final_score": 0.7089526057243347
+    },
+    {
+      "id": "6dd0c62240f0e28d1c3eb4e4",
+      "qdrant_id": "3fa6e47a-df9c-58c7-a32a-55326ea9e313",
+      "text": "nomedicine. One discursive option I have found extremely useful in sorting through the Prozac story is the work of cultural studies of science scholar Donna Haraway. If asked, Haraway might categorize herself as a postmodern feminist science historian of the present. In her writings, she has initiated a great expansion of the cyborg metaphor, and she is a major initiator of what many are calling cyber-feminism and others are calling posthumanism (Braidotti 1994, 102; Halberstam and Livingston 1995; Kirkup et al. 2000). For Haraway’s cyborg metaphor to make sense, however, it is helpful to explain what I mean by “metaphor” in this context. The surest way to misunderstand Haraway’s work is to approach it too “literally” or too “metaphorically” without rethinking the usual meanings of these terms. Haraway (in the company of most postmodern philosophers and antifoundational theorists, and consistent with my discussions of theory",
+      "source": "[Corporealities] Lewis, Bradley - Moving beyond Prozac, DSM, & the new psychiatry _ the birth of postpsychiatry (2006, University of Michigan Press) - libgen.li.pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7686318,
+      "importance": 0.7999224662780762,
+      "final_score": 0.6752871870994568
+    }
+  ]
+}

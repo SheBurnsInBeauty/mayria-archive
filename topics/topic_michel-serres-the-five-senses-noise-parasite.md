@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: michel-serres-the-five-senses-noise-parasite
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: 915d76104f02a7ea606016a7
+- qdrant_id: 4a1eb496-0341-5145-9ac4-a5e67a65b3dd
+- source: Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) [10.1515_9781474483476] - libgen.li.pdf
+- chunk_index: 55
+- importance: 0.8170
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+of sound studies has taken a different turn, however, as sound as an object of inquiry is no longer pursued in separate siloed disciplines but is instead informed by the generative points of contact between anthropology, music, art, literature, history, philosophy, neuroscience, linguistics and psychology. Thus, inspired by the information theory of Claude Shannon and Warren Weaver, Serres assigns noise a cosmological dimension: ‘it [noise] is the global basis of all structures, it is the background noise of all form and information, it is the milky noise of the whole of our messages gathered together’ (Serres 1995: 111). Or else, Hainge, seeking to develop an ontology of noise, commits to a metaphysical framework inspired by Deleuze’s dichotomy between the ‘actual’ and the ‘virtual’. Indeed Hainge, in Noise Matters: Towards an Ontology of Noise (2013) sought to pin down an essence for noise that might stretch
+
+## Excerpt 2
+- id: c67ddaaf7a8d45ecf2ccb4ef
+- qdrant_id: b74bc74a-9a07-5bc7-ac78-cf950033cd19
+- source: Stephen Crocker - Bergson and the Metaphysics of Media (2013, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 250
+- importance: 0.8093
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+70 Michel Serres also turns to hearing as a ‘model of understanding’. Sound reveals the productive capacity of our milieu. We hear multitudes of sensations congealing into wholes that are neither simply unified nor fragmented. These are structures that Serres, like Bergson before him, calls ‘multiplicities’. In Genesis , he gives many beautiful examples of some kinds of life that have this layered, interwoven and open quality: A flight of screaming birds, a school of herring tearing through the water like a silken sheet, a cloud of chirping crickets, a booming whirlwind of mosquitoes ... Crowds, packs, hordes on the move. 1 If we think of these images of animals and insects and roaming hordes as collections of many things, then we risk reducing their ‘multiplicity’ to meaning simply the numerous, i.e. several instances of what remain distinct entities. The many is not precise enough to catch the sense of
+
+## Excerpt 3
+- id: d91d73517231cf9c120fb1b0
+- qdrant_id: 03a8c0db-71a6-5011-8220-12d74213b5a1
+- source: Stephen Crocker - Bergson and the Metaphysics of Media (2013, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 265
+- importance: 0.8017
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+been thought, until recently, to be only partly in being, or to have some problematic, liminal status outside the web of life. Villarreal and others now believe, however, that viruses are far more complex and challenge our ideas of what constitutes life. What they suggest, in fact, is that cells may have required viruses in order to evolve. All of which affirms Serres’ basis premise of the productivity of the parasite and, more generally, the principle that relations precede being. Serres’ revaluation of ‘parasitic’ noise builds on a basic principle of information theory. In Claude Shannon’s pioneering work in informa- tion theory, noise is recognized as a necessary consequence of transmis- sion. 12 The snow on the television set, the hiss on a tape, or a missed registration in a printing operation are all instances of noise, or para- sitism. In each of these cases, the presence of the medium is registered in what would, seemingly, otherwise be a clear transmission. Noise
+
+## Excerpt 4
+- id: 2c44a6b96017cc6cbb265aeb
+- qdrant_id: 3b5421e9-00a1-5fa7-be15-c6d5633489a7
+- source: The Art of Excess Mastery in Contemporary American Fiction (Tom LeClair) (Z-Library).pdf
+- chunk_index: 106
+- importance: 0.8001
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+INTRODUCTION: Excess, Mastery, Systems 25 formation theory.”61 In The Parasite Serres plays on the double meaning of the word in French to describe the Hermes figure both as literal organ- ism in a system and as noise in an information channel. As formulated by Serres, the parasite symbolizes distinctive features of the systems novelist. The host (or reader) welcomes the parasite as a guest. When the parasite causes “perturbations” with his noise, the host attempts to exclude him; but the parasite, playing his position as guest, is “there, well-entrenched,” difficult to exclude because the host has already given him energy (as the reader has given the writer money or, at least, time). The host, says Serres, “can no longer do without him; he is our system itself: he com- mands, he has the power, his voice has become that of the master, he speaks so he is heard everywhere, no …
+
+## Excerpt 5
+- id: ed7c0f0fe9ad53db9fff5817
+- qdrant_id: f241837f-342d-5e4d-80f5-8ec79c369fc7
+- source: Tarja Laine - Bodies in Pain_ Emotion and the Cinema of Darren Aronofsky (2015, Berghahn Books) - libgen.li.pdf
+- chunk_index: 132
+- importance: 0.7944
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+prehensible buzz. It is at this point that the visual style of the film becomes even more ‘noisy’ in Serres’s sense: ‘Noise . . . is a turbulence . . . order and disorder at the same time, order revolving on itself through repetition and redundancy, disorder through chance occurrences, through the drawing of lots at the crossroads and through the global meandering, unpredictable and crazy. An arborescent and turbulent rumour’ (Serres 1995: 59). But Max, who is still striving for pure reason and uncontaminated mathematical abstraction, has not learnt to understand noise in that sense, which keeps him trapped in emotional and intellectual disorder. In this disorderly state, emotion no longer supports, but rather disturbs his continuous and dynamic exchange with the world. Normally, emotions are evaluative strategies that in a given situation direct our attention to salient featu…
+
+## Excerpt 6
+- id: 4d21d7635fce6c4c1d38cb94
+- qdrant_id: f2530bd7-375b-5811-9ed0-d62062113c03
+- source: [Zero Books] Dean Lockwood_ Rob Coley - Cloud Time_ The Inception of the Future (2012, Zero Books) - libgen.li.pdf
+- chunk_index: 162
+- importance: 0.7880
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+decentralized and highly distributed, within the flows themselves, within the body (capital, social, individual). The Cloud is media as force of nature, a world of transformational processes where power diffuses amid uneasy assemblages – a ‘strange ecology’ indeed. Far from exterminated, the parasite is everywhere. Expansion, proliferation becomes fundamental: ‘the absolute empire of relation.’122 This host-parasite power, as Serres makes clear, is one of the voice, of sound, and of noise. In his playful discussion of a fable of two rats feasting on the leftovers from a farmer’s meal, only to be disturbed by the noise of the farmer outside the door, Serres suggests that ‘the parasited one parasites the parasites,’ the farmer ‘jumps behind those who were eating behind his back and chases them.’ We are again reminded of Inception’s Penrose stairs. Here, the host ‘counter- parasites’ its gu…
+
+## Excerpt 7
+- id: ef0f33119ce7bd2b6dd55b0b
+- qdrant_id: 73298082-2c0e-59e5-9e95-f817ab60a696
+- source: Keith  Moser_ Karina Zelaya - The Metaphor of the Monster_ Interdisciplinary Approaches to Understanding the Monstrous Other in Literature-Bloomsbury Academic (2020).pdf
+- chunk_index: 31
+- importance: 0.7859
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+every day, we are definitively extinguishing their voice. [. . .] Here is the true scale of human deafness. Responsible for this Babylonian destruction, deaf to this Pentecost, how can we pretend to listen to our language brothers if we are forever silencing the voice of our cousins? (Musique 62) Beginning with the publication of his landmark essay Le Contrat naturel in 1990, Serres develops an ethics of compassion that unveils other-than-human subjects as sentient fellows with whom we share this interconnected and interdependent planet. Similar to Derrida, Serres realizes that the myopic “guerre mondiale” (world war) that we have launched against the rest of the biotic community of life is inseparable from the monstrous ideology that continues to justify the egregious, ecocidal violence that we incessantly inflict upon the earth. After probing the ecological implications of mo…
+
+## Excerpt 8
+- id: 73a5e3c0b9d6277a296cb03e
+- qdrant_id: 2798106b-7b2b-5dbd-ac0b-fedbf3ead9e5
+- source: Aaron Zwintscher - Noise Thinks the Anthropocene_ An Experiment in Noise Poetics (2019, Punctum Books) - libgen.li.pdf
+- chunk_index: 73
+- importance: 0.7807
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+ing and practice of noise and, following the CATTt, it is in contrast to other forms of noise research, setting itself up as analogous to both the composition practices of noise music and art and a positively envisioned practice of contextomy.45 It samples, it cuts, it modulates, and it post-processes. The text enacts Michel Serres’s theory of the parasite in its reliance on and adaptation, interruption, and disruption of academic noise discourse. It specifically targets politics not in the vein of noise abatement policies but as a method for changing the political status quo, especially with regard to coexistence. The tale is the result of the experiment itself, presented below. nnnnnn As mentioned above, the tale of this manifesto is self-contradictory. As a manifesto, it declaims with certainty. As a text developed as and then from a Ph.D. dissertation, it 43 Mark Amerika, remixthebook (Minneapolis: University of Minnesota Press, 2011).
+
+## Excerpt 9
+- id: 1c759ebb3ec5c5439c8bc733
+- qdrant_id: 4d03d00c-1069-527d-aeb5-414d58281cdb
+- source: [Posthumanities 29] Clarke, Bruce - Neocybernetics and narrative (2014, Univ Of Minnesota Press) - libgen.li.pdf
+- chunk_index: 34
+- importance: 0.7867
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+signal. A general reflection on informatic noise prepares for a substan- tial reading of some seminal work of Michel Serres at the four-way inter- section named in his famous paper with the English title, "The Origin of Language: Biology, Information Theory, and Thermodynamics." Serres puts the concept of noise to work with his signature informatic reading of dialogue, and also with an adaptation of information theory to bio- logical systems theory. I argue that, despite the popularity his approach has enjoyed, it does not actually work with regard to biological systems— which are, in the autopoietic conception, cognitive systems. It is instead, in Serrean parlance, a kind of parasiting of biology by physics, in which a discourse of energy feeds on a discourse of life, instead of the other way around, which would be more ecologically proper. The chapter ends by suggesting that the second…
+
+## Excerpt 10
+- id: bfbe2b7ecd620c192317af3f
+- qdrant_id: 136c57ec-7b2e-54fd-84f0-df0641542843
+- source: Aaron Zwintscher - Noise Thinks the Anthropocene_ An Experiment in Noise Poetics (2019, Punctum Books) - libgen.li.pdf
+- chunk_index: 43
+- importance: 0.7830
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Thus, I have compiled here a noise work that is textually noisy and that is intercut with sonic and visual noise (see also the bruit jouissance project21). Perhaps, the desire to make a noisy 19 Jacques Derrida, Limited Inc, trans. Samuel Weber and Jeffrey Mehlman (Evanston: Northwestern University Press, 1988), 9. 20 John Cage, Silence, 50th anniv. edn. (Middletown: Wesleyan University Press, 2011), xxix. 21 See below for a description of the Ouvroir de Bruit Potentielle avec The New York Society for the Expression of Unnecessary Noise present “bruit jouissance” as performed by the Delta Brainwave Society project.
+
+## Excerpt 11
+- id: 22f9fb38cbd2ba8ef374cae8
+- qdrant_id: ca14fd50-1ef9-5df3-aba9-3574b56794df
+- source: Tarja Laine - Bodies in Pain_ Emotion and the Cinema of Darren Aronofsky (2015, Berghahn Books) - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.7795
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+(Goddard, Halligan and Hegarty 2012: 2). As a sonic event, sound becomes noise when it is unpredictable, unfamiliar and uncontrollable, or when it an- noys, disturbs or causes harmful psychological and physiological effects in lis- teners (White 2012: 236). But Serres uses noise as a positive term to describe the state of possibility and creativity: ‘Everything is founded in the possible, all representations originate in the belle noiseuse, all states come to us from chaos’ (Serres 1995: 24).3 The distinction between disorder and noise seems relevant for Pi as well, since Max seems to be trapped in the former, unable to listen to the noise of multiplicity.4 For the spectator, however, this possibility is definitely there, embodied in the film’s epistemological insight that reveals itself in its ‘noise’, inciting philosophical reflection. In Pi, it is the collision of Max’s mind a…
+
+## Excerpt 12
+- id: 0a4e23273d09612b8ed7cbdc
+- qdrant_id: e6bed45b-268a-5d81-bc05-8d4ff537d627
+- source: Stephen Kennedy - Chaos Media_ A Sonic Economy of Digital Space (2015, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 213
+- importance: 0.7854
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+times amid crisis. Only they were not so much ‘appearances’ as echoes. In A Th ousand Plateaus , Gilles Deleuze and Félix Guattari also show how music contains certain territorial characteristics that are immanent and part of wider discourse and a political strategy of resistance (Deleuze and Guattari 1987: 342–86). ‘In Deleuze and Guattari’s terminology, bird calls are largely milieu components, ﬁ xed to speciﬁ c functions, whereas birdsongs are territorial elements, sonic components of milieus that have been unﬁ xed and reconﬁ gured in a more autonomous fashion’ (Bogue, cited in Khalfa 1999: 114). Sonic milieu components consist of sounds that perform a speciﬁ c function – marking out the availability of food, warning of danger, etc. Th ey are the noises our world makes. Th e refrain, on the other hand, organizes sounds together, bringing order to chaos. It can be but is n…
+
+## Excerpt 13
+- id: 507b7c895cccde494abc0e94
+- qdrant_id: ced7a2cd-9239-5872-99cf-3e3cc3983716
+- source: Stephen Crocker - Bergson and the Metaphysics of Media (2013, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 574
+- importance: 0.7780
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+ground murmur which throws up a multitude of signals that fade back and rise up as something altogether different. For an excellent analysis of these points, see Daniel W. Smith, ‘Deleuze’s Theory of Sensation: Overcoming the Kantian Duality’, in Paul Patton (ed.), Deleuze: A Critical Reader , New York: Routledge, 1997, pp. 29–58. 18 . Woolf, To the Lighthouse , p. 20. 4 Noise Is the Presence of the Medium 1 . Michel Serres, Genesis , Chicago: University of Michigan Press, 1997, p. 2. 2 . Serres, Genesis , p. 131. 3 . Serres, Genesis , p. 4. 4 . Mary Zouzani, ‘The Art of Living: A Conversation with Michel Serres’, in Mary Zouzani (ed.), Hope: New Philosophies for Change , Routledge: New York, 2003, p. 203. 5 . Bergson, Creative Evolution , p. 12. 6 . Michel Serres, The Parasite , Baltimore: Johns Hopkins University Press, 1982, p. 79. 7 . Serres, The Parasite , p. 79. 8 . Serres, The Parasite , p. 79.
+
+## Excerpt 14
+- id: eb964dbf0dc0dfab36ec6aa3
+- qdrant_id: 4135ec26-775e-5d5d-956b-b9859bf9ae73
+- source: Je, tu, nous_ toward a culture of difference -- Irigaray, Luce -- New York, N_Y, 1993 -- New York ; Routledge -- 9780415905824 -- f3654b45256496781edda0dc789f19f8 -- Anna’s Archive.pdf
+- chunk_index: 89
+- importance: 0.7874
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+of the imaginary of being wrong, but of being the only ways of theorizing what exists before language. It makes one wonder about this remarkable blindness to the processes of pregnancy, and especially to the particular role of the placenta, even though nowadays they’re quite familiar. In my study I took Michel Serres’s book The Parasite as an ex- ample of this blindness; I thought it paradigmatic of male rela- tionships with the mother tongue. In this book, Serres on the one hand rails against man, the parasite of fauna and flora, who takes all and gives nothing; on the other hand, he vaunts the delights 42
+
+## Excerpt 15
+- id: 366bbb8edb071e094d63e5fb
+- qdrant_id: cc2ec426-cdc2-5e6a-8936-2a0953fafb33
+- source: Sarah Horton (editor), Stephen Mendelsohn (editor), Christine Rojcewicz (editor), Richard Kearney (editor) - Somatic Desire_ Recovering Corporeality in Contemporary Thought-Lexington Books (2019).pdf
+- chunk_index: 124
+- importance: 0.8019
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+compositions. Its function is to replace the sun with heaters and the world with icons. The sound of the wind with gentle words.”4 However, despite these concerns, Serres’ thought exhibits some remark- able parallels with a hermeneutics more broadly conceived. His own project unfolds as a multi-decade engagement with “Hermes” (Hermes giving us hermēneuein, interpretation), angels, and other figures of transportation, tran- sition, and translation as part of an epistemological project seeking to demon- strate how communication happens across seemingly divergent modes of knowing. Such an approach results in a large number of potential points of contact between Serres’ work and a hermeneutics “beyond the metaphor of the text”; but in terms of somatic desire one of his most promising and hermeneutically significant insights is that reality, including the body, is inclined at the deepest and most fundamental level. How shall we characterize the relationship between the body and experi-
+
+## Excerpt 16
+- id: 7a35af036c1010133b09971f
+- qdrant_id: 53bd1508-0616-551d-a12f-7c4a41da0e14
+- source: Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li (1).pdf
+- chunk_index: 28
+- importance: 0.7942
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+of the narratives. Th is chapter will show how particular visual fi lm techniques can involve spectators and lead them to experience the sensorial world of a female subject. In the fi nal chapter, ‘Soundscape: Sonic Aesthetics and the Feminine’, I will examine the role and complexity of sound and how it instils a particular experience in Duras’ audiences. Chion’s theories on sound and theories on the feminine will be linked and discussed. Th e conclusion will highlight the characteristics of Duras’ sensorial world and will consider the legacy of the fi lmmaking of Duras, whose work has infl uenced and continues to inspire fi lmmakers, video artists, painters and writers. Note 1 (My translation) ‘Je ne suis pas encore à la hauteur de ce que j’ai trouvé au cinéma. Je serai morte quand on aura trouvé pourquoi c’est tellement fort. Tant que je fais du cinéma, tant que je vis je dois l’ignorer, je l’ignore.’
+
+## Excerpt 17
+- id: d0bad95a13d329e02817d0b2
+- qdrant_id: d8055d81-db0f-5bfe-a87d-1447d485e560
+- source: John Lechte - Philosophy of the Medium_ The Age of McLuhan in Question (2023, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 45
+- importance: 0.7716
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+14 Philosophy of the Medium Chapter 5 centres on Michel Serres’s series of five volumes, called Hermès (plus his work on the parasite and on angels as messengers). Only a selection of chapters from the Hermès series has been translated into English. Serres’s books in the Hermès series were published between 1968 and 1980 (Serres 1968; 1972; 1974; 1977; 1980), so embraced all of the 1970s, the period when the theory of the medium as the message was taking root. Serres’s approach notably shows the influence of the mathematical theory of communication, initially developed by Claude Shannon (see Shannon [1949] 1998: 29–125). This explains why Serres’s underlying approach to communication is animated by the notion of the presence or absence of ‘noise in a channel’ (cf. the parasite (Serres 1983)) and by the relation between order and disorder. That is, the medium will be what is not present. ‘Noise’, by contrast, is the
+
+## Excerpt 18
+- id: 9ca9cc4a652dc03c0b516973
+- qdrant_id: 0313a8a9-9354-5ecb-afbf-12da2c11ba2f
+- source: Levi R. Bryant - The Democracy of Objects - libgen.li.pdf
+- chunk_index: 392
+- importance: 0.7780
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+inter-actions produce a variety of local manifestations in a diffraction pattern. Notes  76. Timothy Morton, The Ecological Thought (Cambridge, MA: Harvard University Press, 2010) p. 7.  77. Steven Connor, “Topologies: Michel Serres and the Shapes of Thought,” Anglistik 15 (2004): 106. Quoted in Cary Wolfe, “Bring the Noise: The Parasite and the Multiple Genealogies of Posthumanism”, in Michel Serres, The Parasite, p. xvii.  78. Henri Bergson, Matter and Memory, trans. Nancy Margaret Paul (New York: Zone Books, 1991) pp. 48 - 49.  79. Gilbert Simondon, L'Individuation: à la lumière des notions de forme et d'information (Millon: PUF, 2005) p. 51.  80. Pierre Bourdieu, Pascalian Meditations, trans. Richard Nice (Stanford: Stanford University Press, 2000).  81. Manuel DeLanda, Intensive Science & Virtual Philosophy (New York: Continuum, 2002) p. 23.  …
+
+## Excerpt 19
+- id: 44b05581a4a9be50694b2252
+- qdrant_id: cfe10ef0-3c9e-573a-bd36-e4381f08ba67
+- source: [Technologies of Lived Abstraction] Eleni Ikoniadou - The Rhythmic Event_ Art, Media, and the Sonic (2014, The MIT Press) - libgen.li.pdf
+- chunk_index: 350
+- importance: 0.7753
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Notes 99 (viscerality, proprioception, and kinesthesia), that is, a mode of perceptions and exchanges between “interoceptive” and the five “exteroceptive” senses before the brain processes their excitations. Finally, Michel Serres (2006; Serres and Latour 1995) understands the internal senses in relation to the body image as processes below consciousness. Serres refers to coenesthetic experience in poetry, art, and lit- erature as a “fluctuating disorder” that precedes the findings of science (Serres and Latour 1995, 98–99). Serres (2006, esp. 20) also discusses the folding-over of con- sciousness, the contact of the self with itself, in relation to kinesthesia. For an inter- esting account of the somatosenses, see Randall 2002. 2. Gimzewski’s pioneering work involves positioning the AFM over a yeast cell to try to detect its movements. As the cell beats (expands and contracts) t…
+
+## Excerpt 20
+- id: a3da962ca34c7f2cea9c787e
+- qdrant_id: 9726ca2e-b053-5d09-93e5-84b0ca8338d3
+- source: Metamorphoses (Rosi Braidotti) (Z-Library).pdf
+- chunk_index: 140
+- importance: 0.7738
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+of the MTV scene. Of all technologies we inhabit, the musical, acoustic or sound ones are the most pervasive, yet also the most collective. They thus summarize the paradoxes of nomadic subjectivity as simultaneously external and singular. The interconnection of sounds, technology, insects and music, however, prompts another remark: namely, how rare it is to encounter music or sound that reflects the acoustic quality of the environment most of us inhabit. That is to say, a very crowded, noisy, highly resonant urban envir- onmentwHere stillness and silence are practically unknown. I think that a great deal of music or sound production of the alternative kind today aims precisely at capturing the intense sonority of our lived-in spaces, and yet to empty it of its representational value. Techno-sounds, and the technological performances of Deleuze-inspired music colourists like Ro…
+
+## Excerpt 21
+- id: 9c905ea7a7808063d39b9b9c
+- qdrant_id: 39f300fb-f849-5f90-bef6-574a20b13d37
+- source: Asbjørn Skarsvåg Grønstad - Rethinking Art and Visual Culture_ The Poetics of Opacity (2020, Palgrave Macmillan) [10.1007_978-3-030-46176-8] - libgen.li.pdf
+- chunk_index: 45
+- importance: 0.7709
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+10 Negative, the Minnesota slowcore band Low’s 12th album, the chapter considers the sonic radicalism of the record in the context of its historical moment. I argue that the record’s profound use of distortion and noise epitomizes the musicians’ attempt to capture and respond to the intensify- ing pollution of the social sphere by the incessant chatter of social media, the ubiquity of false information, and the deafening blare of polarized politics. The chapter discusses the album’s relation to noise aesthetics in general and to philosopher Michel Serres’s notion of the parasite in par- ticular, presenting the central argument that Low with Double Negative harnesses an acoustics of opacity as a device through which to rethink the meaning of mediality and communication for the contemporary moment. In the book’s Afterword, I summarize the vital insights concerning opacity as a concept in art, criticism, and theory. Opacity as an Aesthetic
+
+## Excerpt 22
+- id: 930469a95fbe6131b5fe3c79
+- qdrant_id: a3086030-4061-52a2-b492-855be211d8c8
+- source: [Michel Serres and Material Futures] Massimiliano Simons - Michel Serres and French Philosophy of Science_ Materiality, Ecology and Quasi-Objects (2022, Bloomsbury) - libgen.li.pdf
+- chunk_index: 34
+- importance: 0.7823
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+9 Introduction But, as Webb immediately adds, this ‘body’ must be seen as extended beyond the flesh: our body can and does also include our technical instruments, through which science and society have learned to become sensitive to the ways in which the world and the critters on it respond to our actions, and we to theirs. The book aims to explore these themes through two parts. The first part of the book aims to situate Serres in relation to the tradition of French historical epistemology, mainly Gaston Bachelard and his legacy. The second part of the book shifts to Serres’s own alternative and its legacy. This part consists of five chapters, each focusing on one dimension of this alternative: materiality, modernity, anthropology, religiosity and ecology. They aim both to highlight Serres’s own thought on these subjects and to map how they relate to, have been taken up or tra…
+
+## Excerpt 23
+- id: 01eca7a147888413085d6ea2
+- qdrant_id: 498a28ec-8274-565d-a4ff-42317e274b4e
+- source: Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) [10.1515_9781474483476] - libgen.li.pdf
+- chunk_index: 162
+- importance: 0.7732
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Though audition is one of the distant senses, according to Marks (2008), listening is revealed in Breillat’s work as a form of intimate relation with its own dynamics of presence. However, this presence is one we strain towards. Her camera, at times embodying our auditory sense, as well as an organ of vision, constructs listening as an active and fine mode of attention, one receptive to different noises and lower volumes. Elsewhere in Pornocracy are examples of noises occurring on contained, small scales equivalent to the ‘slight sound’ made by the man. Breillat describes the woman’s noises as ‘little’, and these are figured as a form of resistance that is even perceived as duplicitous and threatening. In what is described as a power game between the sleeping woman and the man she pays to be the ‘nocturnal owner of her body’ the little unconscious noises she makes divest these power positions of their typical dynamics. While the man manipulates the woman’s body into
+
+## Excerpt 24
+- id: 200c920fd32779490e363f94
+- qdrant_id: 821a63ab-4041-5269-81dd-cae19411bab7
+- source: Cahiers_du_Cin_ma_-_Juillet_2024.pdf
+- chunk_index: 309
+- importance: 0.7705
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+auditive et olfactive, en quête de détails permettant de cerner le monstre. Fouil- ler dans ses souvenirs, c’est dépiauter son propre trauma : de ce principe, la première iction de Jonathan Millet, venu du docu- mentaire politique (Ceuta, douce prison, 2012), tire une approche sensorielle, « sen- sorialiste » même. Refusant le lash-back en bonne et due forme – interdisant donc au spectateur d’identiier visuellement le Mal –, Millet organise une rétention de signes ayant pour efet de rabattre la mani- festation d’une hantise vers les expressions d’un acteur, Adam Bessa, dont le regard mais aussi les oreilles aux aguets investissent le champ, authentiques guides de mise en scène. Sonder cette matière bouillonnant sous un crâne (désir de justice, violence encaissée, plaies à demi-refermées : la douleur-fantôme, en somme) sans percer la surface et en se tenant à l’extérieur :…
+
+## Excerpt 25
+- id: 91e4861abc4fc613233c522f
+- qdrant_id: 19361881-bd0b-5cbb-8609-d640f31e236b
+- source: Nicolas Courcier_ Mehdi El Kanafi_ Denis Brusseaux - Metal Gear Solid _ Une œuvre culte de Hideo Kojima (2015, Third Editions) - libgen.li.pdf
+- chunk_index: 126
+- importance: 0.7632
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+du sound design qu’à de la musique riche et mélodique : un choix pertinent lorsqu’il s’agit d’accompagner des séquences qui versent dans l’horrifique, à l’image du prologue ou de l’infiltration dans la « maison du diable », accompagnée de chuchotements inquiétants et surnaturels. Pourtant, à trop vouloir miser sur cette approche à la fois dynamique et discrète, la bande-son de The Phantom Pain tombe dans l’écueil moderne, celui d’une musique qui oublie d’interpeller le joueur, de le faire vibrer. L’ensemble, souvent fade, n’a franchement rien de mémorable, d’autant que les compositions plus élaborées ne font guère d’efforts pour s’extirper du tout-venant hollywoodien. Il y a bien quelques élans émotionnels, notamment avec les différentes variations du thème de Quiet, mais la plupart des morceaux d’action n’éveillent pas l’intérêt : un habillage electro-rock-orchestral passe- partout, des…
+
+## Excerpt 26
+- id: bc9ef35b47883e4df85d233d
+- qdrant_id: 59aa40a3-b02f-5977-ab10-a9fea01b6e04
+- source: [Thinking Media] Sharon Jane Mee_ Luke Robinson (editors) - Sound Affects_ A User’s Guide (2022, Bloomsbury Academic) [10.5040_9781501388910] - libgen.li.pdf
+- chunk_index: 37
+- importance: 0.7838
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+sub-bass). As a volume of keywords, each of the entries in this collection conceptualize and theorize the relations between sound and affect. But, more importantly, in each of the entries, a sound affect (vroom), or the materiality of sound affects more generally (aa ee ii oo uuuuu, squish, squelch, shlshlshlurpppp), is described, exemplified and demonstrated through discussions of the material objects of the entry in question. There are multiple sound affects, and, as a volume of keywords, Sound Affects is attentive to this multiplicity. In The Forms of the Affects, Eugenie Brinkema argues: ‘There is no reason to assume that affects are identical aesthetically, politically, ethically, experientially, and formally; but only reading specific affects as having and being bound up with specific forms gives us the vocabulary for articulating those many differences.’1 In this volume…
+
+## Excerpt 27
+- id: 6d87b89977c41d757cfbd1c6
+- qdrant_id: 70eef186-c2e4-55ec-aafb-335727225150
+- source: Tarja Laine - Feeling Cinema_ Emotional Dynamics in Film Studies (2011, Bloomsbury Academic) [10.5040_9781628928693] - libgen.li.pdf
+- chunk_index: 273
+- importance: 0.7702
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+not experienced being somewhere “out there,” but simultaneously inside and outside of the self. We literally feel these emotions conveyed by music in our fl esh, the whole body being caught up in the process of listening, capturing, and repeating the variations in musical valence, tension, and energy. Michel Serres describes this process of listening as follows: We hear through our skin and feet. We hear through our skull, abdo- men and thorax. We hear through our muscles, nerves and tendons. Our body- box, strung tight, is covered head to toe with a tympanum. [. . .] Sometimes dissonant, often consonant, disturbed or harmoni- ous. Resonating within us [. . .] as though our bodies were the union of ear and orchestra, transmission and reception. I am the home and hearth of sound, hearing and voice all in one, black box and echo. 23 I propose that we also resonate within the fi …
+
+## Excerpt 28
+- id: 92566b9b6e8cc1c8489f4047
+- qdrant_id: 2bec7c6c-797f-5142-8cc6-2c3e03c7c216
+- source: Jean-FranCois Lyotard, Geoffrey Bennington, Rachel Bowlby - The Inhuman_ Reflections on Time (1992, Stanford University Press) - libgen.li.pdf
+- chunk_index: 498
+- importance: 0.7690
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+much rhetorical as cognitive, often called 'structures', in which the various dimensions of sound are experimented with, with a view to being made 'present' to sound-feeling. Let's call this the Boulez tendency. Now this opposition is probably of no use for deciphering works. There is a minimalism of the very complex: all technological mediations come back to the donation of sound 'now'. And there is an inevitable conceptualism even in the writing of 'poor' works, consisting of noises obtained through the percussion of arbitrarily chosen objects: 'qualunquism' in sound demands the greatest reflection and sometimes a true axiomatic. But above all. the opposition between the two currents is illusory. If it is true that in both cases the aim is to return the ear to listening, it is naive to believe that it is enough to make a sound with anything at any moment to obtain the sound-feeling; and it is dangerous and frivolous to privilege technology, whose end is to test cognitive hypothe-
+
+## Excerpt 29
+- id: 3245b0e024bac1d66fcf81e5
+- qdrant_id: b3dce19a-00c5-5270-8c68-e07933f64d84
+- source: Epstein, Josh_Project Muse - Sublime Noise_ Musical Culture and the Modernist Writer (2014, Johns Hopkins University Press) - libgen.li.pdf
+- chunk_index: 81
+- importance: 0.7682
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+xxx Introduction Forster seems to ask, does the “boundless sphere” of the aural faculty, sub- jected to sound and unable to block it out, make music the right expressive mode for the totalizing aspirations of Empire, pan-German nationalism, or art itself? As Michel Chion writes, due to “the omnidirectionality of hear- ing” and the diffuse nature of sound, and due to “a lack of any real aural training in our culture, this ‘imposed-to-hear’ ”—our struggle to filter and edit the noise in which we are immersed—sound has “the ability to saturate and short-circuit our perception.”36 Pound, we shall see, shared this concern for the lack of aural training; for him, the decay of a disciplined “kulchur” had caused the modern ear to atrophy, its faculty for discernment short- circuited by the noise of the public sphere. As Forster, Pound, Eliot, Sitwell, and Joyce engage with the materiality of sound—the same stuff of music and language used to construct our notions
+
+## Excerpt 30
+- id: 22bb02f5273f6d23e189e715
+- qdrant_id: 02de5baf-6b0c-511b-8f8d-19fbbaa18202
+- source: John Lechte - Philosophy of the Medium_ The Age of McLuhan in Question (2023, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 47
+- importance: 0.7691
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+interest to Serres is the objectification of medium as noise, as joker, as parasite and as harlequin. To be considered, too, are the figures of messengers, such as Hermes, Mercury and angels. This might lead, somewhat ironically, to the invisibility of the medium so as to render the invisible medium visible is to be led astray regarding its true nature. (3) For mathematics, abstraction is the elimination of the irregular, the inexact, the material, the empirical – thus, the elimination of noise as the third party, or element. How matter relates to the abstract is what becomes crucial. (4) The theme of the Third as excluded – as ‘nothing’ and ‘everything’ (Serres 1991: 87) – will be considered. Here, we take up Krämer’s argument that communication is not dialogue but dissemination (2015: 20–5; 68–74). Consequently, it remains to be seen as to whether ‘the Third’ – as noise, poetry as the noise of science
+
+## Excerpt 31
+- id: 0071490f303e91d524e744cd
+- qdrant_id: e292ef40-e6d3-5ff0-8adf-1a07b33e1a3d
+- source: Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) [10.1515_9781474483476] - libgen.li.pdf
+- chunk_index: 72
+- importance: 0.7630
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+ing.14 In a very different vein, Gaspar Noé’s famous use of a single sub-­bass frequency tone in Irreversible (2002) discussed in Chapter 2, not quite infra-­ sound, but barely perceptible between 27 and 28 Hz, was included to act on the spectator and produce feelings of nausea and anxiety. This increase in dynamic range afforded by Dolby has allowed for the inclusion of new fre- quencies, beyond the perception of the human ear. The limited nature of our range of hearing (between 20 and 20,000 Hz) might therefore be suggestive of the many expressions of this world that go unheard, both cultural and physiological. Whereas critical studies that seek to
+
+## Excerpt 32
+- id: b043a6e86023a825f117e372
+- qdrant_id: 4928aec5-c0b4-530b-975a-c6b876285f1c
+- source: Aaron Zwintscher - Noise Thinks the Anthropocene_ An Experiment in Noise Poetics (2019, Punctum Books) - libgen.li.pdf
+- chunk_index: 16
+- importance: 0.7598
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+question of hospitality toward noise. Combined with Jacques Derrida’s reading of hospitality as an unconditional openness to the arrivant (a concept that Morton adapts as the strange stranger and reads in relation to ecology and ecological think- ing and relationships), this approach opens up a possible ethics of noise and understanding of noise in ethics and its relations to the unknowable Other. 2 Michel Serres, The Parasite, trans. Lawrence R. Schehr (Minneapolis: University of Minnesota Press, 2007).
+
+## Excerpt 33
+- id: 2f580796d7e483695be680fc
+- qdrant_id: bcbe7bcd-6703-574e-9f5e-92c9d0cd5f70
+- source: Steve Goodman (editor), Toby Heys (editor), Eleni Ikoniadou (edi - Audint Unsound_ Undead (2019, Urbanomic _ Sequence Pr) - libgen.li.pdf
+- chunk_index: 2
+- importance: 0.7627
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Contents Intra-AUDINT Email Communication—IREX2 to the Editors ix Declassified Report to IIRIS: Excerpts from Report on The Research Unit AUDINT xi Introduction: From Martial Hauntology to Xenosonics 1 SOMA The Bodily Sounds of the Abyss Olga Goriunova  7 The Ear Phonautograph Jonathan Sterne  11 The Music of Skulls I: Bone-Instruments Al Cameron  15 Peripheral Vibrations Shelley Trower  19 Touching Nothing Steve Goodman  23 The Cat Telephone Jonathan Sterne  27 The Pineal Ear Brooker Buckingham  31 DRNE Cartography Steve Goodman  35 VOX Screaming Matthew Fuller 43 The Missing 19dB Lawrence Abu Hamdan  47 Machine Sirens and Vocal Intelligence Luciana Parisi  53 Falling Eleni Ikoniadou  57 Glossolalia Agnès Gayraud  61 Libraries of Voices Shelley Trower  65 The HyperSonic Sound System Toby Heys  69 The Lament Eleni Ikoniadou  73 UVO…
+
+## Excerpt 34
+- id: 726f6369dcefdc8209fce8e5
+- qdrant_id: f58c78ce-45a6-594c-86cf-66be4992e2a0
+- source: Epstein, Josh_Project Muse - Sublime Noise_ Musical Culture and the Modernist Writer (2014, Johns Hopkins University Press) - libgen.li.pdf
+- chunk_index: 61
+- importance: 0.7621
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Introduction xxv ocean, frames the sounds of nature with the interventions of modern art— with Proust’s description of the sea as “the plaintive ancestress of the earth pursuing . . . its lunatic immemorial agitation” (Soundscape, 15). For all the natural nostalgia associated with Schafer’s “acoustic ecology,” he tunes the soundscape not simply to the sounds of the sea, nor to a quantifiable tone (A = 440 Hz), but to the resonances of those sounds in the measures of Proust and Pound, as well as Antheil, Satie, Honegger, Schaeffer, and Cage. Schafer’s ambitious mapping of the rhythms of nature and culture in some respects had to be read backward through figures like Pound, glossing in his turn an encyclopedic tradition of poets (Homer, the Seafarer-poet) who had turned their ears to the water—and who continue doing so even in a modernity when, as The Waste Land’s Wagnerian Thames-Sisters sing, the
+
+## Excerpt 35
+- id: 83cda91d5ac5d23b56265457
+- qdrant_id: e47b4209-cdcb-5070-ab11-ffbb318901de
+- source: Cahiers_du_Cin_ma_-_Avril_2024 (1).pdf
+- chunk_index: 125
+- importance: 0.7678
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+ranéise ses plans ictionnels par une forme de mise à distance, les capturant dans un semblant de direct proche des dispositifs de surveillance. Mais dans les deux cas, on retrouve le même sentiment de confrontation entre le présent du ilm et l’Histoire évitant toute construction dialectique. C’est un vieux fantasme scientiique, qui n’a jamais abouti : le son se propageant sous forme d’ondes, un microphone suf- isamment puissant et correctement situé pourrait recueil- lir des sons émis dans le passé, qui continuent de circuler parmi nous, mais en dehors du spectre auditif humain. Cela remonterait jusqu’à des échelles où la science frôle le spiri- tisme : entendre la voix de Platon, du Christ, peut-être, ou celle des peuples disparus serait alors théoriquement possible. Proit Motive and the Whispering Wind de John Gianvito (2007) s’ouvrait justement par un écran noir sur lequel o…
+
+## Excerpt 36
+- id: dccf134a9c8cf017bd5cbff3
+- qdrant_id: 8c8ad464-0f92-5851-b14a-c5920cb299ae
+- source: Cahiers_du_Cin_ma_-_F_vrier_2024.pdf
+- chunk_index: 397
+- importance: 0.7638
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+salle se transforme peu à peu en jungle sonore. Le second mouvement est un travelling réalisé depuis l’habitacle d’une voiture. Lampadaires, phares et feux de signalisation dessinent d’étranges constel- lations dont la mobilité achève de brouiller nos repères. Brasilia, un mirage ? Pour ce premier long métrage, Ana Vaz dit avoir voulu revisiter le genre de l’éco- terreur. En s’attachant à des spécimens monstrueux ou des nuées prédatrices, ces ilms désignent en négatif le rêve d’une vie sans animaux autres que domestiques. Il fait nuit en Amérique entend bien, par le montage et la musique originale de Guilherme Vaz aux tonalités à la fois mar- tiales et fantastiques, suggérer la menace d’un envahissement. L’effet premier est toutefois plus équivoque : quel rapport entre les vastes perspectives autoroutières et les capybaras, paisibles rongeurs que le lointain tonnerre inc…
+
+## Excerpt 37
+- id: f345296afadb42d9d8e795c4
+- qdrant_id: 2c94313c-4d06-510f-a715-affe9e2c6b5d
+- source: Tristam Adams - Horrors of a Voice (object a)_ Vox-Exo-Palgrave Macmillan (2024).pdf
+- chunk_index: 3
+- importance: 0.7621
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+With thanks to Mark Fisher, Lynn Turner, and my family. vii Contents Introduction 1 Beyond the Veil of Our World 17 Acquiesce to (H)ear: How’s It Sound? 17 The So-Called Object Voice 22 Speaking of the Object a 29 Aphonic Voice 41 Synthesis: Object Horror (Demon Voices) 49 Unknown Horrors 60 Freud’s Vacuum 71 Beyond Beyond the Pleasure Principle 77 Violence 85 Army, Opera, Flesh? 85 Exquisite Delicacy and Barbarism 88 Spinal Trauma and Throats Torn with the Talk Sickness 100 Changes 115 Dreadful Symptoms: Corpaural Sleuthing 115 Thriller: Parallel Thrills 121 “Get Away!” 129 Inhuman Noise and Interspecies Grain in Black or White 142 viii Insidious 157 ‘Crazy’ 169 Parasites and Earworms 177 Sirens’ Spell 192 Sounds Like Us: Vivisection 204 Bacchic Frenzy: Forgetting How to Walk and Speak 21…
+
+## Excerpt 38
+- id: c7c744a702561459369a8e56
+- qdrant_id: c500d88a-a902-5c64-a86f-559e4b1ee66a
+- source: Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 112
+- importance: 0.7661
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+unpleasant sound. For example, one might recall the grim clunking of a freshly aborted foetus as it descends a trash chute in Cristian Mungiu’s 4 Months, 3 weeks, 2 days (2007). However, these films also embrace noise as a form of impurity, distortion, disturbance or interruption in ways that denature the image and react against the perceived cleanliness offered by the digital. Hainge’s analysis of filmmaker Philippe Grandrieux describes moments in which Grandrieux’s cin- ema ‘fills the soundscape with a deafening cacophony that is the sonic correlate of what we see, a space of pure intensity that carries no meaning’ (2017: 135). Like Dumont, Denis and others, Grandrieux uses noises deliberately difficult to perceive in order to refuse explanatory representation in favour of more sensory, visceral engagement with their films. The visual equivalent of noise –­ unclean, unclear or dirty images –­ has perhaps received the most attention in scholarship elaborating a theory of
+
+## Excerpt 39
+- id: 76cacb3872c998d0f4e16383
+- qdrant_id: 7bdfe81d-a9ca-5ac3-92f4-ad3c7f71857b
+- source: [Verbal Arts_ Studies in Poetics] Baudelaire, Charles_ Chambers, Ross - An atmospherics of the City _ Baudelaire and the poetics of noise (2015, Fordham University Press) - libgen.li.pdf
+- chunk_index: 29
+- importance: 0.7566
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+word’s many possible senses, was and is the crucial constituent of any modern city’s atmospherics. Noise is both the deafen- ing racket one cannot ignore—the “rue assourdissante” (deaf- ening street) of “À une passante”—and the largely unnoticed, because persistent and familiar, background to city dwellers’ lives: that of which we become conscious only to realize that we had always been, in some sense, aware of it, without having known that we were (something that “Les sept vieillards” might be thought to allegorize). Both alienating and disalienating in this sense, noise is also a convenient metaphor for the many forms of disorder, disarray, distraction, and fragmented experi- ence offered by the life of the street, like the “chaos mouvant” (moving chaos) of traffic—in Baudelaire’s day not yet regu- lated—so compellingly described in “Perte d’auréole,” or of course the innumer…
+
+## Excerpt 40
+- id: 043758725a854197cedf0512
+- qdrant_id: 222b8b9f-8a9a-5fd9-9bfd-db7b8dcce4d0
+- source: Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 420
+- importance: 0.7697
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+while simultaneously registering them against a ground of historical echoes of past abuses. Such is the case with des Pallières’s lorry-­boat-­whale which recalls the nightmarish devastation of Glissant’s open boat. In its placement of sound across these various channels, the movement of the soundtrack is felt as a migratory noise, one that brushes against and intrudes upon the security of its images, un-­grounds the stability and rootedness of its bodies and ushers in material feedbacks, stirrings and interruptions. Migratory noise is used throughout Adieu to put the two worlds it explores in distant contact, and is positioned in ways that affect a spectator’s own listening, collecting us within different groupings that annoy our sense of place. We are tuned to strangers whose resonances pass through us, catching our attention from the periphery of our immediate world. Fundamentally, however, the film opts to exclude us from Ismaël’s expe-
+
+## Excerpt 41
+- id: f6098099a8ac6c9df40b34c4
+- qdrant_id: 70b4a513-dc59-5cff-a61a-189545618ab4
+- source: [International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf
+- chunk_index: 127
+- importance: 0.7500
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+parasite. The parasite has several meanings, for example, a beast that takes from its host without giving anything in return, or a disrupter of a signal between communicator and receiver. In all these, for communication in this broad sense to be possible, there needs to be exclusion – a bracketing, a removal of those entities, processes, parasites that would otherwise disturb the connection, and disrupt the communicational ﬂow by introducing noise. This, Serres refers to as the ‘excluded third’. Consequently, we also need to be aware of how these circulations entail exclusion (indeed, for Serres, without such exclusion there could not even be the possibility of communication). In light of this, ANT can be regarded as an ‘analytic of exclusion’; that is, when one actor translates another – enrols them into a particular association enabled by, and enabling, the easy and routine passage of intermediaries – the enroller must ensure that relevant
+
+## Excerpt 42
+- id: f1d2d8190e4a8817512fff4d
+- qdrant_id: 0abd7c6a-3da3-5361-b992-28b40516166c
+- source: Philip Brophy - 100 Modern Soundtracks (Screen Guides) (2004, British Film Institute) - libgen.li.pdf
+- chunk_index: 13
+- importance: 0.7643
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+remarkably evident. Planet sound This book will guide you through the audiovisual layering of a wide range of films, as eclectic in their collection as they are essential in their status. Instead of forcing these varied movies into a pre-fab mould for ascribing significance, they are discussed to demonstrate how they shoot us back into the noise of reality - into its psychological sonorum which affects our everyday sense of time, space, mass, force, presence. The first
+
+## Excerpt 43
+- id: 26ffaba84ddddbc1fa0e5661
+- qdrant_id: 9916d392-39ff-537b-b15b-9319b6d1e2bc
+- source: Ghosh, Ranjan_Miller, Joseph Hillis - Thinking Literature across Continents (2016, Duke University Press) - libgen.li.pdf
+- chunk_index: 46
+- importance: 0.7596
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+“The sea, a white plain, background noise, the murmur of a crowd, time. I have no idea, or am only dimly aware, where its individual sites may be, I’ve no notion of its points, very ­little idea of its bearings. I have only the feeblest conception of its internal interactions, the lengthiness and entanglement of its connections and relations, only the vaguest idea of its environment. It invades the space or it fades out, takes a place, ­either gives it up or creates it, by its essentially unpredictable movement.”20 I am happy to see the now as having Serres’s parasite: the noise, the perturbations, the disorder in a system of exchange.21 The now builds a turbulence that intercepts lit­er­a­ture with an energy, new contracts, con- tacts, and topologies. Lit­er­a­ture stays healthy through such vio­lence. My reading of “Daffodils,” in chapter 5, of “Birches,” in chapter 1, of Endgame in chapter 7, and of “The Scholar Gipsy,” in chapter 9, are all in some ways a
+
+## Excerpt 44
+- id: 0f23e4c1c0d461685cbb2d44
+- qdrant_id: 6e75c8c3-dca9-5a2b-848a-8517c293c526
+- source: Peter Sloterdijk - The Aesthetic Imperative_ Writings on Art (2017, Polity) - libgen.li (1).pdf
+- chunk_index: 18
+- importance: 0.7582
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+we can only recover the essence of this incomparably intimate and entirely individual relationship later on in the public sphere where cultural groups listen to sounds together. The rule for this turn to the public and cultural sphere is that what began in enchantment should return in freedom. What we call nations, and later ‘socie- ties’, are always sonorous constructions as well – I describe them elsewhere as the phonotope2 –, each of which solves the task by its own way of embedding its members’ ears in a shared world of sound and noise. Public hearing is a means to offer substitutes to its members for the lost paradise of intimate audial perception. This allows an interpretation of the ‘homeland effect’ – because the word ‘homeland’ primarily evokes an acoustic impact that activates the obsessive liaison between ear, community and landscape. Recent generations of musical theorists have correctly interpreted what the
+
+## Excerpt 45
+- id: b9fe672f79fedbf3b4c94a86
+- qdrant_id: 59c8ad12-8c20-5f81-97d0-78114d18c558
+- source: [International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf
+- chunk_index: 218
+- importance: 0.7539
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+was disrupted by my boots causing me pain. The material relation to the Gorge into which I wanted to place myself was subverted by the judgement of the wardens that it was too windy to allow visitors into the Gorge. The physical relation into which I had entered with my boots could be undermined by the chatter of other tourists. And so on and so forth. In Michel Serres’ (1982b) terms, these interventions are parasites (recall that in French ‘parasite’ also refers to a non-signal – to noise – that interrupts the flow of information): they disrupt, abbreviate, curtail the signals, or materials, that pass between two entities. Sometimes these are welcome, sometimes they are not. The chattering tourists were physical distractions – they ‘parasitised’ on the process of communion with nature. They did so physically, their shouting and shrieking, their massing and straggling along the path, all these served to render almost impossible the experience of the sublime,
+
+## Excerpt 46
+- id: b2da743ff6f3498fc53c14cb
+- qdrant_id: 07284679-d371-5c3e-b3bb-5d32e15e12b0
+- source: Asbjørn Skarsvåg Grønstad - Rethinking Art and Visual Culture_ The Poetics of Opacity (2020, Palgrave Macmillan) [10.1007_978-3-030-46176-8] - libgen.li.pdf
+- chunk_index: 104
+- importance: 0.7572
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+11 Michael Goddard, Benjamin Halligan, and Paul Hegarty, “Introduction,” Reverberations: The Philosophy, Aesthetics and Politics of Noise, eds. Michael Goddard, Benjamin Halligan, and Paul Hegarty, London: Continuum, 2012, 1. 12 Serres as paraphrased by Goddard, Halligan, and Hegarty, 3. 2 ON THE CONCEPT OF OPACITY IN ART AND THEORY
+
+## Excerpt 47
+- id: a6ea466b70a25b42a44cdb7a
+- qdrant_id: e8085f84-210e-590f-8bd5-b6b6f17e83d1
+- source: Peter Sloterdijk - The Aesthetic Imperative_ Writings on Art (2017, Polity) - libgen.li (1).pdf
+- chunk_index: 20
+- importance: 0.7548
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+La musique retrouvée 7 observing how the modern music industry, as a pure sound indus- try, spreads the plague behind the smokescreen of folk music and causes epidemics behind the smokescreen of pop music – things we can only regard as acoustic counterparts to Spanish flu, and against which no effective medicine has yet been found. If we accept these conclusions, we realize immediately why the way to music is inseparably linked to reclaiming the individuality and intimacy of hearing. As we have noted, this restitution can only happen in a roundabout way through public sound events and at the level of technical methods. In this sense we can say that participa- tion in civilization means being on the path to individuated music. This statement gives an idea of the scope of the adventure that the composers and musicians of European modernity embarked on when they set out to discover the new lands of audible structures. In the Curvature of the World
+
+## Excerpt 48
+- id: ee14c421842744a317c11380
+- qdrant_id: 0df362a8-e901-59a1-825d-9ab88b3c57bb
+- source: Emily McLaughlin_ - Yves Bonnefoy and Jean-Luc Nancy _ Ontological Performance-OUP Premium (2020).pdf
+- chunk_index: 420
+- importance: 0.7732
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+it is ‘dans l’ordre de la participation, du partage, ou de la contagion’ (AE, 27). The aural sense attunes us to a more primary experience of self-relation, one that has not yet been concretized or objectified by the structures of linguistic perception. Nancy writes: ‘Selon l’écoute, c’est en quelque sorte en lui-même que le sujet se renvoie ou s’envoie’ (AE, 26). The listening subject is sent outwards and returns to itself in an endless series of reverberations: it experiences itself as ‘le rapport en soi’, ‘la résonance d’un renvoi’ (AE, 30). Our subjectivity loops back and forth between the body’s ‘caverne sonore’ to the surfaces and recesses of the material world (AE, 73). The term ‘renvoi’, as Charlotte Mandell notes in the preface to her translation of À l’écoute, means ‘return, send back, repeat, a musical refrain, refer, allude back’.9 The term suggests reflection, rep…
+
+## Excerpt 49
+- id: 9f45f49852446575f99ca3c4
+- qdrant_id: 2e4dee71-5b2f-57c4-a66b-e99db26f15f3
+- source: Sylvia Mieszkowski - Resonant Alterities_ Sound, Desire and Anxiety in Non-Realist Fiction (2014, transcript Verlag) [10.1515_transcript.9783839422021] - libgen.li (1).pdf
+- chunk_index: 5
+- importance: 0.7588
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Noise, Silence and Oedipus: J.G. Ballard, “The Sound Sweep” Introduction | 211 Sonic Waste & Sonic Weapons | 218 Noise, the Avant-Garde & Ultrasonic Music | 231 Noise | 233 Technology | 237 Playing With Tradition | 242 Ultrasonic Music & Muzak | 245 Ultrasonic Music & Silence | 247 Cruel Mothers, Cruel Crowds | 252 Hate Speech | 260 The Voice as Ambivalent Object | 273 Auditory Hallucination & Vocal Jouissance | 284 Air To Sounds, Sounds To Words: Don DeLillo, The Body Artist Introduction | 301 First Failure of comNmuOnicIatiSonE: What? | 304 Second Failure of comNmuOnicIatiSonE: The Noise | 309 Noise – Voice – Chant | 313 The Visual & The Aural – Legacies of Modernism | 318 Second Person Narration & Self-Awareness | 334 Voice – Gender – Loss | 342 Sonic Symptom | 346 Aural Fort/Da | 352 Gender – De-Gendering – Empowerment | 360 Conclusion | 365 Bibliography | 369
+
+## Excerpt 50
+- id: 256b8423c18d5a71c13f851c
+- qdrant_id: 8b0c1391-cbbf-5ce9-b8b1-70adfb6eec5e
+- source: Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 611
+- importance: 0.7633
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+in ways we are not usually conscious of, sensitising us to new relations and opening us to the uncertainty and instability that constitutes our relation to the world. Throughout, there has been this undercurrent of the sea. Its rolling and pitching noises were there in the background of Anatomy of Hell as a persistent element of the soundscape, it asserted itself forcefully as the swell subtend- ing the écho-monde and, as an instance of nonhuman noise, its inaudible heave was kept at bay in the final two chapters. For Serres, the silence of the sea is only ever an illusion. He elaborates: ‘the silence of the sea is mere appearance. Background noise may well be the ground of our being. It may be that our being is not at rest, it may be that our being is disturbed’ (Serres 1995: 13). This agitation of being has emerged throughout this study as what is at stake when we think about what it means to ‘exist according to listening, for it and
+
+## Excerpt 51
+- id: dde0e97681849f4ae1e5e91b
+- qdrant_id: e47cd147-b5d0-523e-bd77-e1e3fec2e5c0
+- source: [Michel Serres and Material Futures] Massimiliano Simons - Michel Serres and French Philosophy of Science_ Materiality, Ecology and Quasi-Objects (2022, Bloomsbury) - libgen.li.pdf
+- chunk_index: 175
+- importance: 0.7578
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+To become more sensitive to the noise of the world we need different technologies. Otherwise the quasi-objects would keep revolting against our current collective, which is exclusively focused on humans. This is what Serres (1990) means when he calls for a natural contract and Latour in his response of a ‘parliament of things’ (Latour 1991, 142; 1999a): to let things re-enter politics by allowing them room to articulate their habits, behaviours and claims. We thus return to the question of an ecology of quasi-objects: Which relations should we cultivate and which should we avoid? Serres tries to conceptualize the answer to this in terms of a plea for a cosmocracy (2008a, b): a kind of politics that takes up this question of relations, of how we are defined by the world around us. How is this possible? Well, to get a grasp on how they would be able to articulate their claims, in…
+
+## Excerpt 52
+- id: 3263b97e8f271c100ce481d8
+- qdrant_id: 42db2c0a-2adf-556a-bb4d-cfd0bc0a7eb1
+- source: Christopher Watkin - French Philosophy Today_ New Figures of the Human in Badiou, Meillassoux, Malabou, Serres and Latour (2016, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 79
+- importance: 0.7748
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+tered thus far, because it marries singularity and determinacy with generic- ity and plurality, yielding neither an undifferentiated and abstract notion of humanity nor a diversity of individuals with nothing in common. The second half of the chapter explores how Serres develops further the con- tinuity between epigenetics and hermeneutics which Malabou begins to elaborate in Avant demain. Humanity is best understood, for Serres, as part of the ‘Great Story’ (Grand Récit) of the universe, a story not only about but also told by the natural world in a way that emphasises the continuity between ‘human’ language and ‘nonhuman’ processes. This insistence upon continuity between the human and the nonhuman also positions Serres very differently to Badiou, Meillassoux and Malabou, who all continue to assume that humanity inhabits a meaningless and indiffer- ent universe, and continue t…
+
+## Excerpt 53
+- id: 50835547dff41d3f22c1d6c6
+- qdrant_id: 8a761dc4-4ee7-5966-87f1-4c1f403fcde0
+- source: [Zero Books] Dean Lockwood_ Rob Coley - Cloud Time_ The Inception of the Future (2012, Zero Books) - libgen.li.pdf
+- chunk_index: 188
+- importance: 0.7695
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+sensory energy, is also to take flight from the ‘prison-house of the known’, the descriptive labels of sensational, conscious experience. And yet, this is merely a loss of active determination, a functional integration of relations, and far from an escape. Tuned in to the affective frequencies of the Cloud, we receive transmissions of a resonance that moves through the symbiotic host-parasite body, through the body of capital, amid the hetero- geneous body of the multitude. Hence, the DJ’s booth is immanent to the body, not external to it, the point at which social and biological rhythms coalesce – the Cloud ecology undulates to affective-algorithms, a ‘soft machine’ for the engineering of affect. So, the body is drawn into harmony with an ecology of media, falling in step with the binary-beat of ubiquitous infor- mation, a meta-stable environment in which the next pulse of the rhythm is…
+
+## Excerpt 54
+- id: ddded93d1f9af36453d86554
+- qdrant_id: b93038e1-8d50-5ed9-8b2b-248622d12203
+- source: Robert Spadoni - Uncanny Bodies_ The Coming of Sound Film and the Origins of the Horror Genre (2007, University of California Press) - libgen.li.pdf
+- chunk_index: 16
+- importance: 0.7585
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+sound has been presumed to hold implications mainly for the way hor- ror ﬁlms sound. There have been asides about “things that go bump in the night” and acknowledgments that sound was needed before victims could be heard screaming. Such observations suggest that off-screen sound ﬁgures importantly in the genre and that screams, on-screen and off, represent an especially useful type of sound to horror ﬁlmmakers.2 Unseen bumps and audible screams—while no one would deny that such sounds are ingredients of the horror ﬁlm as we know it, to recognize as much is not the same thing as identifying the major inﬂuence of the com- ing of sound on the genre’s initial formulation. This inﬂuence has been missed perhaps because it reveals itself more in the way the ﬁrst sound horror ﬁlms look than in the way they sound. This book compares the ﬁrst year of the classic horror cycle to a pat- tern of response that characterized general ﬁlm reception during the im-
+
+## Excerpt 55
+- id: 221bb85510d63809f0aaabb7
+- qdrant_id: 1422daf1-7742-5560-a40b-fb77fe9b5be5
+- source: Sharon Jane Mee - The Pulse in Cinema_ The Aesthetics of Horror (2022, Edinburgh University Press) [10.1515_9781474475860] - libgen.li.pdf
+- chunk_index: 11
+- importance: 0.7672
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Acknowledgements This book has been written with support from the University of New South Wales. Chapter 2 or parts thereof first appeared as ‘The Rhythm of Life as an Opening to Sensation in Georges Franju’s Le Sang des bêtes/ Blood of the Beasts (1949)’ in SubStance 49, no. 3, 2020 pp. 54–70, and Chapter 3 as ‘The Originary Sensations of Aisthesis “Exposed” in William Castle’s The Tingler (1959)’ in Screening the Past 45, 2020. Various thoughts and ideas were published in ‘The Scream Itself: Masochistic Jouissance and a Cinema of Speechlessness in La Grande Bouffe’, Film-Philosophy 24, no. 3, 2020, pp. 321–40, and early work completed for Chapter 4 was published in ‘A Terrifying Spectatorship: Jean-François Lyotard’s Dispositif and the Expenditure of Intensities in Steven Kastrissios’s The Horseman’, Philament 21, February 2016, pp. 19–44. I would like to thank the publish- e…
+
+## Excerpt 56
+- id: b229256829f24b634322559d
+- qdrant_id: 5797b998-ebb1-5e59-a26b-ffcac605e462
+- source: David Lloyd - Counterpoetics of Modernity_ On Irish Poetry and Modernism (2022, Edinburgh University Press) [10.1515_9781474489829] - libgen.li.pdf
+- chunk_index: 40
+- importance: 0.7562
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+best-known volume, City West (2005), to a condition resembling the white noise of a continual and unrelieved “overhearing” determined by the saturation of the contemporary soundscape with injunctions, exhortations, clichés, and phatic locutions that hem the subject in on all sides with preformed expression. The later volume, on which I focus in Chapter 5 and in the Conclusion, Optic Verve (2009), links these conditions of enunciation to a larger context of ongoing moderniza- tion, from the destruction of rural lifeways to the displacing violence of urban “renewal” and the penetration of domestic life by routines of labor and mechanization. At this juncture, the modernist precepts to “make it new” or to “purify the dialect of the tribe,” or the formalist intent to employ the aesthetic estrangement of appearances to shatter the hold of perceptual habits and see the world afresh, seem obsolescent and inadequate to the universali-
+
+## Excerpt 57
+- id: 859df1fae4261f300611cf3b
+- qdrant_id: 9cf14dca-2673-5d04-80a7-a8454a3f2fc2
+- source: Steve Goodman (editor), Toby Heys (editor), Eleni Ikoniadou (edi - Audint Unsound_ Undead (2019, Urbanomic _ Sequence Pr) - libgen.li.pdf
+- chunk_index: 23
+- importance: 0.7611
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+The imperceptible cosmology of unsound in its oscillating relationship to the undead defines the sweep of this anthology’s contributions. Each entry in the book broadens the bandwidth of vibrational intelligence pertaining to phenomena residing outside the fold of human perception. Revolving around the systematic and ritualised deployment of frequencies, each text becomes an access key to this interzone between, and beyond, standard notions of being and nonbeing. Beneath the observable plateau of technological surfaces, Unsound : Undead mines stacked strata of zombie media in order to test the supposition that, ever since the invention of modern recording and communications technologies (such as the phonograph and telephone), humans have been captivated by the potential of vibration to fabricate aberrant zones of transmission between the realms of the living and the dead. In t…
+
+## Excerpt 58
+- id: 2915cb1992fd6f01c2149223
+- qdrant_id: c2455c9c-a1ac-5a3b-a6ec-fc2a6422ed2a
+- source: Diana Fuss - The Sense of an Interior_ Four Rooms and the Writers that Shaped Them (2004) - libgen.li.pdf
+- chunk_index: 414
+- importance: 0.7592
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Because the organ of the ear remains perpetually open, even in sleep, sound strikes Proust as the most violent of human sensa tions, an external assault upon a defenseless interior. Only “the withdrawal of sound, its dilution,” he hypothesizes, can “rob it of all its aggressive power” (III:73). When Proust has Robert Saint-Loup draw attention to the narrator’s “auditory hyperaesthesia” (III:69), he betrays his own keen sensitivity to noise, a problem Proust tried to address through the use of Quiès earplugs.50 Proust saw deafness as the very precondition for writing. Twice in Le Côté de Guermantes he isolates the image of deaf ears as the model for human creativity. In his story of an invalid with stopped ears, Proust demonstrates that it is only by artificially deadening sound that one can experience its rebirth: “take away for a moment from the sick man the cotton-wool that has been stopping his ears and in a flash the broad daylight, the dazzling sun of sound dawns afresh, blinding
+
+## Excerpt 59
+- id: 2a8ae7317a8b6cc408b02285
+- qdrant_id: f90d4a26-fce7-58cd-8458-94e3454aa5c3
+- source: Christopher Watkin - French Philosophy Today_ New Figures of the Human in Badiou, Meillassoux, Malabou, Serres and Latour (2016, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 27
+- importance: 0.7531
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+in his published work the transhuman drops away and he privileges the motif of the inhuman, and even Badiou’s evocation of the transhuman here cannot reasonably be thought as an instance of human enhancement as that term is commonly understood within the discourse of transhu- manism.13 The term is absent from both Meillassoux’s and Malabou’s published work, though it is parsimoniously scattered across the second- ary literature on Malabou.14 Of all the thinkers treated in this volume, the one to have been most closely associated with posthuman thought is Michel Serres. The blurb to the 2007 edition of the English translation of Serres’s The Parasite proclaims the volume to be ‘[t]he foundational work in the area now known as posthuman thought’,15 and the edition includes a preface by Cary Wolfe entitled ‘Bring the noise: The Parasite and the multiple genealogies of posthumanism…
+
+## Excerpt 60
+- id: 44ef5e728ae46d83c8e90f67
+- qdrant_id: 23801844-863a-56e6-8c8b-a651587e80ef
+- source: [Theory and history of literature] Jacques Attali - Noise_ The Political Economy of Music (1977, 1985, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 32
+- importance: 0.7582
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Chapter One Listening For twenty-five centuries, Western knowledge has tried to look upon the world. It has failed to understand that the world is not for the beholding. It is for hear- ing. It is not legible, but audible. Our science has always desired to monitor, measure, abstract, and castrate meaning, forgetting that life is full of noise and that death alone is silent: work noise, noise of man, and noise of beast. Noise bought, sold, or prohibited. Nothing essential happens in the absence of noise. Today, our sight has dimmed; it no longer sees our future, having constructed a present made of abstraction, nonsense, and silence. Now we must learn to judge a society more by its sounds, by its art, and by its festivals, than by its statistics. By listening to noise, we can better understand where the folly of men and their calculations is leading us, and what hopes it is still possible to have.
+
+## Excerpt 61
+- id: cdfd7585813b8f66085d84cd
+- qdrant_id: 10086f34-1921-5183-b95c-e449e174a05a
+- source: Cahiers_du_Cin_ma_-_Septembre__2024.pdf
+- chunk_index: 413
+- importance: 0.7583
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+seront jetés sans cérémonie une fois que les prélèvements auront été efectués sur son cadavre et qu’il aura été décapité pour être photographié et étiqueté. Le sort des bêtes. Dans le sort ambivalent des bêtes s’énonce aussi quelque chose des destins humains et de la violence sociale exercée à l’encontre de certains. Sans jamais com- menter ces formes de domination, Wiseman les laisse tran- quillement advenir dans le cadre. Au Yerkes Primate Research Center d’Atlanta comme dans les écuries de Belmont Park, la répartition des tâches obéit à une stricte division raciale et genrée ; les scientiiques, les propriétaires et les éleveurs sont systématiquement des hommes blancs, tandis que le person- nel chargé de l’entretien des boxes et des soins aux animaux est exclusivement noir. Quant à la nurserie du laboratoire, elle est entièrement composée de femmes. Les rapports de force s’imbriquent continuellement dans les relations de tra-
+
+## Excerpt 62
+- id: baced9d684657ae998a12115
+- qdrant_id: 89eea0c7-a11e-5458-b0c6-b8d0b058ceaa
+- source: Linda Ruth Williams - The Erotic Thriller in Contemporary Cinema (2005, Edinburgh University Press) [10.1515_9781474473606] - libgen.li.pdf
+- chunk_index: 6
+- importance: 0.7665
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+University. I am also grateful for British Academy funding and my university’s support, which enabled me to attend the Society for Cinema and Media Studies conference in Atlanta 2004. This book started life as a short article I wrote for Sight and Sound magazine in 1993, and since then various editors at that journal (Philip Dodd, Nick James, Ed Lawrenson) have commissioned pieces which have made me feel like Sight and Sound’s unofﬁcial ‘sex correspondent’, allowing me to write about a number of ﬁlms which I have gone on to engage with in a more scholarly fashion here. This book revisits some of these earlier pieces. My colleagues at Southampton University have also warmly supported this work throughout and have endured many renditions of draft chapters. I am grateful to Maitland McDonagh and Tim Worman for helping me with interview contacts, and to my occasional research assistant, Christine Cornea. Thanks also to Rebecca Feasey and Matt Hills, who generously gave me access
+
+## Excerpt 63
+- id: 17f3c5cf3ab30630e41dcc08
+- qdrant_id: c8e51be0-0c19-55db-8329-2959c9c0b12d
+- source: [Blackwell Manifestos] Rita Felski - Uses of Literature (2008, Wiley-Blackwell) - libgen.li (1).pdf
+- chunk_index: 371
+- importance: 0.7665
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+brutal attack on visual, olfactory, and auditory modes of perception, a vile synesthesia of the repellent and obscene. Moreover, we are slowly made aware that the corpse is in a state of perpetual motion; maggots are pouring like a viscous liquid across the ragged remains of the body, falling and rising like a series of waves. The poet is struck by the sheer beauty of this rhythmic movement as it mimics the music of running water and the sound of the wind. Even as he conjures up the horror of death jerked back to life, of ﬂesh uncannily animated by the worms that are consuming it, he wrenches us into an awareness of the remarkable symmetries that thrive in the midst of putrefaction. Yet this aestheticizing gaze does not annul the horror of what is being evoked but accentuates it; the rotting carcass is both like, yet utterly unlike, the blossoming ﬂower to which it is compared. As in…
+
+## Excerpt 64
+- id: b127204037d7c13393d39dd5
+- qdrant_id: a9f2757d-8310-5330-80f1-cdf88b79f33c
+- source: Paul Gilbert_ Kathleen Lennon - The World, the Flesh and the Subject_ Continental Themes in Philosophy of Mind and Body (2005, Edinburgh University Press) [10.1515_9781474468473] - libgen.li.pdf
+- chunk_index: 112
+- importance: 0.8406
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+given these movements. What controls the senses is here presented, however, as the things they sense. The autonomy of their operation is not, as seems to be implied in the earlier work of Merleau-Ponty, to be explained in terms of the way it serves our active engagement with a world we constitute in the light of its relevance to our purposes. Rather, although the operation of the senses does indeed do that, it is something more primitive than this engagement. It is what is required for that engagement to be controlled by confrontation with the deliverances of experience, rather than simply by the mysterious fulfilment or frustra- tion of our purposes. How is it, though, that sensory experience can reveal something beyond itself? Merleau-Ponty’s answer is that it can do so only because seen and seer are, as he puts it, introducing a new metaphorical term into his discussion, of the same flesh. The word has connotations of carnality
+
+## Excerpt 65
+- id: 0e1405d6d3b9774b568d4363
+- qdrant_id: 8358de3d-f2e6-5465-942a-0ec3d7f8d10d
+- source: (SUNY series in Contemporary Italian Philosophy) Massimo Cacciari, Alessandro Carrera, Giorgio Mobili - Philosophy, Mysticism, and the Political_ Essays on Dante-State University of New York Press (20.pdf
+- chunk_index: 1
+- importance: 0.7311
+- seed_hits: agamben-profanations-potentiality
+
+The translation of this work has been funded by SEPS Segretariato Europeo per le Pubblicazioni Scientifiche Via Val d’Aposa 7 – 40123 Bologna – Italy seps@seps.it www.seps.it The production of this book has been supported by the Small Grants Program at the University of Houston. Published by State University of New York Press, Albany © 2021 State University of New York All rights reserved Printed in the United States of America No part of this book may be used or reproduced in any manner whatsoever without written permission. No part of this book may be stored in a retrieval system or transmitted in any form or by any means including electronic, electrostatic, magnetic tape, mechanical, photocopying, recording, or otherwise without the prior permission in writing of the publisher. For information, contact State University of New York Press, Albany, NY www.sunypress.edu Library…
+
+## Excerpt 66
+- id: d7dedd818be8cf91cc7de2c7
+- qdrant_id: 2a779771-2012-5d42-b897-09483522a614
+- source: Andrew Gibson - Towards a Postmodern Theory of Narrative (2022, Edinburgh University Press) [10.1515_9780585124063] - libgen.li.pdf
+- chunk_index: 88
+- importance: 0.7363
+- seed_hits: jean-luc-nancy-being-singular-plural
+
+simply efface their better known equivalents. Rather, they con­ stitute a kind of double response to the more orthodox terms, displacing but also feeding off them, in a parasitic or hybridised relation. The intended effect is precisely the destruction or, better, the pluralisation of what Serres calls the 'ici-partouf, the unitary, homogenous space commonly opened up by narratology. For Serres, the ‘ici-partouf must be replaced by the ‘ici-ailleurs'. We should seek to elaborate un type de pensee de-centree, non referenciee, ou l’essentiel n’est pas de se frayer un chemin vers un ancrage suppose, et toujours presuppose, quel qu’il soit, mais de se poser la question du chemin lui-meme . . . Nous retrouvons la forme pure de l’ici-ailleurs, apres l’epuisement de l’ici-partout; de Fici- ailleurs, c’est-a-dire du transfert, dans un espace definitivement decentre . . . (Serres 1972,…
+
+## Excerpt 67
+- id: 43cfb262c47fbbbceecf2da5
+- qdrant_id: 7681a308-2f1f-5cf8-a227-166f2a8b4e35
+- source: Flore Chevaillier - The Body of Writing_ An Erotics of Contemporary American Fiction (2013, The Ohio State University Press) - libgen.li.pdf
+- chunk_index: 441
+- importance: 0.7502
+- seed_hits: kathy-acker-body-writing-cut-up, media-archaeology-kittler-apparatus-inscription, vilém-flusser-technical-image-apparatus
+
+ture of each part of the collage to see some letters and even decipher certain words, such as “culturing” and “three.” The picture is superimposed on a stamp and on other illegible texts. The accumulation of data on these pages calls for an examination of symmetrical patterns: the larynxes parallel one another even though they are different sizes, and the information at the bot- tom (the Kodak brand and the number of each picture) is also set up as a mirror. We cannot easily make sense of the facing page. On page 255, the red traces that appear vertically on the right-hand side of the page remind us of blood, but could also be waves of frequency. In addition, the circles on which are printed RNA Pol II, TAFs, etc. look like medical pills or drawings of cells in a science book. The black traces around the middle gray circles resemble the triple forte below which reminds us that this installation is in fact laid out on a musical staff, itself transformed
+
+## Excerpt 68
+- id: d859a9b588c3b255c6fa980c
+- qdrant_id: 9d4fbfab-5b9c-58ef-af2e-0b1f953513f2
+- source: Gerald Gillespie, Manfred Engel, Bernard Dieterle - Romantic Prose Fiction (Comparative History of Literatures in Europlanpoe - libgen.li.pdf
+- chunk_index: 231
+- importance: 0.7596
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+of his connection with the youth. Relations within their community of two have shifted, and so has the discourse in which he describes those relations to his correspondent: his addressee knows well what draws him toward every unfortunate person.2 Now he speaks the current language of sensibility, speaks it within the terms of the case he is living through. Yet even as he utters he struggles: toward the end of the scene he reverts to the language of socio-cultural myth, speaking, despite all the evidence, of the extraordinary purity of the passion felt by the class others have spoken of as rude. What that does, of course, is give him room to express his humiliation at what he feels within himself: here are these others, inferior in class, superior in purity, and that makes even more intricate the dimensions of his shame. By now Werther is so wrought with ambivalence and ambiguity that he cannot address — speak to, speak toward —
+
+## Excerpt 69
+- id: ec0875908f712665ea3b3cab
+- qdrant_id: 403e29a6-40a4-568e-be9e-13157feac114
+- source: (Studies in speculative fiction) Kim Stanley Robinson - The novels of Philip K. Dick-UMI Research Press (1984).pdf
+- chunk_index: 12
+- importance: 0.7469
+- seed_hits: chris-kraus-i-love-dick-autotheory
+
+consistently make use of the metaphorical power that these images and concepts carry. At the same time, his fictional worlds reflect our own in a tendentious way; they make explicit structures and processes that are implicit in the infrastructure of our present world. By adding the historical continuity of the future to our social institutions he reveals the historical, contingent nature of those institutions. The fictional worlds of his novels contain political analyses that are both highly organized and highly critical. These novels thus increase the importance of the genre by making it a more engaged and historical fictional form. These are large claims. and anyone picking up a Dick novel at random and reading it may wonder at them. The truth of the matter is that Dick's
+
+## Excerpt 70
+- id: dae47b989bd7ae4f334d9b82
+- qdrant_id: 4ddcad21-a92c-5792-a61b-da906c24a92c
+- source: Asbjørn Skarsvåg Grønstad - Rethinking Art and Visual Culture_ The Poetics of Opacity (2020, Palgrave Macmillan) [10.1007_978-3-030-46176-8] - libgen.li.pdf
+- chunk_index: 616
+- importance: 0.7744
+- seed_hits: vilém-flusser-technical-image-apparatus
+
+productive uses of different kinds of visual noise. In a sense, opacity in the visual arts entails the attempt of the image to subvert its own fixity. In bringing this book to a close, I want to float the hypothesis that maybe we need to reflect a little on auditory opacity in order fully to appreciate the functions of blurry or otherwise indistinct images. I intend, in other words, to introduce a comparative perspective of sorts, not so much to present a simple analogy as to flag up the possible limits of visual opacity. If a vital purpose of the perceptually opaque is to provoke, to bewilder, and to produce a sense of cognitively fertile turmoil, the state of contain- ment upon which the image is contingent might lessen such effects (and moving images are not much different in this respect, as they, too, are subject to the restraints of the frame). Sound, on the other hand, is disper- sive, unbounded. Since anatomically we remain unequipped with the
+
+## Excerpt 71
+- id: 92886dd98c6f249a9afecc9b
+- qdrant_id: 48394694-8a88-5f60-b555-e4e68181b0ec
+- source: (Routledge Studies in Irish Literature) Ian Hickey - Haunted Heaney_ Spectres and the Poetry-Routledge (2021).pdf
+- chunk_index: 108
+- importance: 0.7889
+- seed_hits: hauntology-and-cancelled-futures
+
+﻿Derrida, Hauntology, and the Spectre 25 there is always ‘more than one of them’ (2006, 7). There is always more than one spectre inhabiting a text and therefore the possibilities of meanings and interpretations are limitless. So, as we can see from this brief exposition of de Man’s work on language and prosopopoeia there is a certain level of connectedness between his work and that of Derrida’s. Similar to the line of thought that both Paul de Man and Jacques Derrida exercise in relation to temporality and presence, Maurice Blanchot exerts a unique intellectual sway upon the notion of prosopopoeia or the voicing of the ghost as well as on the definition of a fixed present. Blanchot’s influence is easily recognizable in the work of Derrida’s hauntology as Derrida leans on many of Blanchot’s arguments on Marx and his thinking on absence and presence when he suggests that spect…
+
+## Excerpt 72
+- id: 240dbcf347e95232e436039f
+- qdrant_id: 301bb547-1157-5b12-8c4e-d1e51f8b43ee
+- source: [International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf
+- chunk_index: 119
+- importance: 0.7796
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Michel Serres has been a crucial ﬁgure in the development of ANT. Indeed, after immersing oneself in the literature on ANT, to read his work is to be rocked by the shock of recognition (but it is also, alas, to read his work through ANT). His huge oeuvre has covered many substantive topics – the nature of education and instruction (Serres, 1997), human–nature relations (Serres, 1995a), the common- ality of motifs in literature and science (Serres, 1982a), the relation between order and chaos (Serres, 1995b). Central to his work, however, are a number of inter-linked themes that he has elaborated across a range of ‘studies’. Needless to say, I cannot hope to do justice to this body of work – at most I will aim to extract several notable issues that Serres has articulated and which can serve as additional resources for thinking about heterogeneity and distributedness. How does one think of the contact and communication between disparate
+
+## Excerpt 73
+- id: f9604d60e55b809a6c897a2c
+- qdrant_id: ad0e44d6-9806-5bf9-8b7e-09c4229062c8
+- source: [Michel Serres and Material Futures] Massimiliano Simons - Michel Serres and French Philosophy of Science_ Materiality, Ecology and Quasi-Objects (2022, Bloomsbury) - libgen.li.pdf
+- chunk_index: 43
+- importance: 0.7652
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+can be non-humans as well. Serres mainly explores these quasi-objects following Dumézil’s tripartite hypothesis: quasi-objects in form of a fetish (Jupiter), an army or a weapon (Mars) or commodities (Quirinus). While all three types of quasi-objects put an end to mimetic violence, they also paradoxically create new forms of violence, in the form of sacrifices to maintain this social order. But similar to the Group of Ten (Groupe des Dix) and especially Jean-Pierre Dupuy, Serres is also interested in how this logic of sacrificial violence is at work in science and technology, embodied not only by technical objects such as the atomic bomb but also by the academic practice of critique. The two final chapters explore Serres’s alternative to these violent quasi- objects. In the seventh chapter, I look at how Serres connects science and religion through an examination of the metaphor…
+
+## Excerpt 74
+- id: 4a9b735428da121c86f65a5e
+- qdrant_id: f0ae5361-cdfc-553e-947c-118c83bf2260
+- source: [Critical South] Néstor Perlongher - Plebeian Prose (2019, Polity) - libgen.li.pdf
+- chunk_index: 33
+- importance: 0.7249
+- seed_hits: paul-b-preciado-testo-junkie-pharmacopornographic-regime
+
+sacred substance, offers a means of desubjectification, and this is perhaps the aspect most relevant to Perlongher’s critical thinking: overcoming the objectifying rational and colonial categories of western thought and its phallic, anthropologic biases. The leaving of the self and escape from societal pressures are key to political action in the sense that they blast away the pillars upholding the capitalist system. His abandonment of the orgy in favour of transcendent ecstasy as a vehicle to escape the self was contemporary with (even slightly prior to) his illness. In 1989, at a research centre in Paris, where he spent nine months doing a PhD in sociology at the Sorbonne, he was diagnosed with AIDS. In 1987, he’d published the book O que é Aids? [The ghost of AIDS], which he later criticized as a work written from a healthy perspective. In it, he denounced the control of the body that AIDS in particular implied as a form of taming the nomadic sexual practices
+
+## Excerpt 75
+- id: 204a4075b4a7800336faef13
+- qdrant_id: 2a8e64d7-a21e-5819-803a-782306e5e4af
+- source: [Faux Titre 288] Malet, Léo_ Malet, Léo_ Emanuel, Michelle - From surrealism to less-exquisite cadavers _ Léo Malet and the evolution of the French Roman Noir (2006, Editions Rodopi BV) - libgen.li.pdf
+- chunk_index: 351
+- importance: 0.7689
+- seed_hits: autotheory-maggie-nelson-the-argonauts
+
+alone. She never seems to be dating anyone and, when in Paris, is always available to respond to Burma’s requests. The agency is her life and, as seen in her récit, we see that she takes her assignment seriously, even when it involves coming up with an exotic pseudonym to use among the other fan club members. She calls herself “Lotus pensif,” when the name “Coeur brisé” is already taken by another member (Enquêtes, 1: 979), but continues to introduce herself by her own name because she finds the pseudonym does not suit her. In the second chapter of her first récit, Hélène puts herself in danger by going to a “modeling agency” that recruits members of Gil Andréa’s fan club for its prostitution ring servicing Argentina. As it is a seedy establishment, she encounters two men in the hallway who make catcalls at her. She tells them that they could be more polite, remarking to the reader, “Ils ne me faisaient pas peur. J’étais la
+
+## Excerpt 76
+- id: b4d78886f0bb7834f758c2a8
+- qdrant_id: 3a96571c-3ca3-5b16-8459-cd6a1ceec237
+- source: Cahiers_du_Cin_ma_-_Mars_2024.pdf
+- chunk_index: 241
+- importance: 0.7557
+- seed_hits: vilém-flusser-technical-image-apparatus
+
+Il fallait juste qu’ils évitent de cligner des yeux. Même si j’ai l’air d’être un homme du passé, je n’ai rien contre le numé- rique, je trouve même ça formidable. Jusqu’à présent je n’avais jamais utilisé de steadicam, j’étais même plutôt contre, mais j’ai été très impressionné par ce que font les caméramans qui mai- trisent cette technique (nous en avions trois sur le ilm). J’adore la danse et ça a été fantastique de ilmer la scène de charleston de cette façon : le caméraman ressentait leurs mouvements, il dansait avec eux. Ma seule réserve avec le numérique est qu’il permet de faire les choses beaucoup plus rapidement et faci- lement, parfois trop, au point que l’on peut avoir la tentation de se dire que l’on aura le temps de penser au moment de la postproduction plutôt que sur le tournage. Il faut résister à ça, en se donnant le temps de réléchir à ce que l’on fait. Vous ut…
+
+## Excerpt 77
+- id: c559577962425c33986129b9
+- qdrant_id: 58f60051-699e-5fe7-8ab4-09eaec791b10
+- source: Cristopher Nash - The Unravelling of the Postmodern Mind (2001, Edinburgh University Press) [10.1515_9780585441955] - libgen.li (1).pdf
+- chunk_index: 193
+- importance: 0.7756
+- seed_hits: archive-fever-derrida
+
+, , , , , , , , – Derrida, J., , , , –, , –, –, , , , , , , , , , , , , , , –, , , , , , –,  Dery, M.,  Dews, P.,  Dixon, J. B.,  Dunn, R.G.,  Eagleton, T., , ,  Eco, U.,  Edelman, G.,  Ehrenzweig, A., ,  Ehrmann, J.,  Einstein, A.,  Falk, R.,  Featherstone, M.,  Federman, R.,  Feher, M.,  Fenichel, O., ,  Forster, E. M.,  Foster, L.,  Foucault, M., , ,  Fraser, N.,  Freud, S., , , , , , , , –, , –, ,  Fuentes, C., , , , , ,  Fukuyama, F.,  Garnham, N.,  Gates, L., –, , , ,  Gergen, K., , , ,  Giddens, A., ,  Gitlin, T.,  Glass, J. M.,  Gödel, K.,  Goldberg, A.,  Goldman, R.,  Goleas, J.,  Goodchild, P., , ,  Gray, C. H.,  Gruneberger, B., , – Guattari, F., , , , , , , ,
+
+## Excerpt 78
+- id: c351622789ce2dc8f21af7fe
+- qdrant_id: c3fdaf64-eca9-53af-98f1-7099dc458e35
+- source: [SUNY series in Gender Theory] Mary C. Rawlinson (editor) - Engaging the World_ Thinking after Irigaray (2016, State University of New York Press) - libgen.li.pdf
+- chunk_index: 26
+- importance: 0.7673
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+turbed by them. The navigation and technical control of sound waves in early audio-technical discourse reflected colonialist narratives of exploration, domination, and return. Against these narratives and drawing on Irigaray, Rodgers proposes to resituate the subject of sound studies “within the waves.” Rather than voyages of conquest, Rodgers invokes diasporic journeys that transform, as well as inform, the researcher. Informed by Irigaray, Rodgers’s analysis reveals the essential relationality of sound as a materialization of forms of life. Sounds set us in relation to other humans, other species, and other environments. They demand an ethical attentiveness to these rela- tions, rather than a continued investment in domination and control. In her essay, “Luce Irigaray and Anthropological Thought,” Mary Beth Mader notes that Irigaray frequently employs terms from anthropology, while she rarely engages with this literature directly. Mader’s essay addresses this
+
+## Excerpt 79
+- id: b03e3ef8abca8b476f9ee653
+- qdrant_id: 8040d7c9-3c89-5848-a6af-837b099043d3
+- source: Bernd Herzogenrath - Practical Aesthetics (2020, Bloomsbury Academic) [10.5040_9781350116139] - libgen.li.pdf
+- chunk_index: 206
+- importance: 0.7009
+- seed_hits: chris-kraus-i-love-dick-autotheory
+
+was stolen, which left him with a pair of R. M. Williams boots, a transparent Pelikan, Xenophon’s Anabasis, cuffed Momotaro’s, Rhodia paper, a creek named Cottaquila in another life, a Wetterling ax, an Ikaria disk, an abacus, a flower shirt that had never been washed, and Auburn, the color of the plains. Sometimes afterward he wrote Dreamworlds of Alabama, from University of Minnesota Press, 2007. He keeps time with a Bauman & Mercier mechanical. His latest book is Where the North Sea Touches Alabama (University of Chicago Press, 2013). His website is http://www​.softarcades​.com/. Craig Shepard, a composer and member of the Wandelweiser group, creates music related to stillness, often outside. He studied trombone and composition at Northwestern University and the University of the Arts Zurich, and has worked closely with Frank Crisafulli, Michael Pisaro, Manfred Werder, Jürg F…
+
+## Excerpt 80
+- id: 838537298e52e86887f46cb2
+- qdrant_id: 17dc99a0-f1a2-568b-9686-8a085c6f0f49
+- source: Roy Christopher - Escape Philosophy. Journeys Beyond the Human Body-punctum books (2022).pdf
+- chunk_index: 8
+- importance: 0.6789
+- seed_hits: chris-kraus-i-love-dick-autotheory
+
+Mohr, Dominic Pettman, McKenzie Wark, Josh Gunn, Alyssa Byrkit, James Ward Byrkit, and Spike Jonze for their help with images, facts, and general encouragement. Thanks to Howard Rheingold, Erik Davis, and Shane Mauss for answering my drug questions. Thanks to Godflesh, Jawbox, Deafheaven, Wolves in the Throne Room, Celtic Frost, and Stalaggh for inspiration. Michael Grasso deserves special mention for helping exten- sively during the editing process. Thanks also to Tariq Goddard, Josh Turner, and Johnny Bull at Repeater Books.

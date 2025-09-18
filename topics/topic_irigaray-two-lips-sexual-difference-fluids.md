@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: irigaray-two-lips-sexual-difference-fluids
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: 9009c6fbf547751542f7d87c
+- qdrant_id: 3525520c-7774-5cb7-bd17-f76069d982ae
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li (1).pdf
+- chunk_index: 219
+- importance: 0.7930
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+moreover no one can forbid her to do so, for her genitals are formed of two lips in continuous contact. Thus, within herself, she is already two—but not divisible into one(s)—that caress each other. (This Sex, 24) It would be hard to deny, on the basis of this particular passage, that Irigaray proposes to give us an account of female pleasure based on the body's genitalia; and it would be hard to deny that her account of the phallus is any less morphological.3 Why the essentialist language here? Why the relentless emphasis on the two lips? Let me turn first to the Irigarian critique of the phallus to demonstrate what appears to be a strategic misreading of male genitalia. According to Irigaray, Western culture privileges a mechanics of solids over a mechanics of fluids because man's sexual imaginary is isomorphic; as such, the male imaginary emphasizes the following features: "produc-
+
+## Excerpt 2
+- id: 3d0a71cc20a6eb18a892d414
+- qdrant_id: 6f322e73-8392-502f-92bb-15291ea5a0db
+- source: Philosophy and desire -- Silverman, Hugh J -- 2000 -- New York_ Routledge -- 9780415919562 -- d7b7874592a6b2dbe039d7a01ea444f1 -- Anna’s Archive.pdf
+- chunk_index: 105
+- importance: 0.7922
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+to her whole self. She, not just her “sex organ,” is inferior. The end result of her “castration” is a lifelong longing for a penis, a desire that, among other things, causes her to change her erogenous zone from the clitoris to the vagina, now valued as a “place of shelter for the penis” (TS, 41). With her “two lips” conceit, Irigaray deftly alters this psychoan- alytic tale, beginning with the assumption, attributed to the little girl, that there is only one sex organ. What if, Irigaray in effect asks, the little girl is indifferent to the external look of the male sex organ? What if organ size is irrelevant to her as a measure of sexual pleasure? What if the little girl experiences her own pleasure through touch rather than counting the sites of her pleasure, she might say: “I have at least two of them. Together they caress, hold, and protect my pleasure.” Indeed, the little girl might even say: “I have erogenous zones all over my body. My touches here, my
+
+## Excerpt 3
+- id: aecee490c7076aeee9a00568
+- qdrant_id: c01459f6-ad55-54ca-82c6-e61a4ef95a27
+- source: [Warwick Studies in European Philosophy] Cathryn Vasseleu - Textures of Light_ Vision and Touch in Irigaray, Levinas and Merleau Ponty (1998, Routledge) - libgen.li.pdf
+- chunk_index: 465
+- importance: 0.7777
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+137 Notes comment, would be a translation of Merleau-Ponty’s expression that is closer to Irigaray’s understanding of ‘lips’. 4 See ‘De Anima’, The Works of Aristotle, Book II (2), 413b (1931). 5 Margaret Whitford gives an itemized explanation of the way in which Irigaray uses the concept of the mucous repeatedly throughout her work (Whitford, 1991b: 102–3). The mucous is interior, always partly open, beyond control or closure. It cannot be reduced to the maternal- feminine body and an attendant container-like sexuality. The term indicates a body which is not easily incorporated into the male imaginary, being neither exclusive to one sex nor a part-object separable from the body. It is neither subject nor object, solid nor fluid. It expands and changes, but not into a shape or readily visualized form. Irigaray defines the mucous as the medium of the ‘two lips’, in which she articulates…
+
+## Excerpt 4
+- id: 4f298ee41a7b7a4645b1c965
+- qdrant_id: ce700429-3985-5542-9248-6a0621596ad1
+- source: [Contemporary French and Francophone Studies vol. 6 iss. 1] Huffer, Lynne - Masturbating Dykes_ Cixous, Irigaray, Leduc (2002) [10.1080_10260210290021833] - libgen.li.pdf
+- chunk_index: 25
+- importance: 0.7767
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+of alterity as a relation of reading are frozen and fixed as the ‘‘truth’’ of female difference in the inverted phallic form of what Cixous celebrates as ‘‘the true texts of women – female- sexed texts’’ (Cixous 40). Irigaray, by contrast, describes difference as an ongoing pro- cess of connection and rupture. I would argue that her lips are not a form at all; rather, they narratively perform both masturbation and lesbian love-making in the infinite and funny combinations of mouth to mouth, mouth to labia, labia to mouth, labia to labia, inner labia to outer labia, outer labia to mouth, outer to outer, inner to inner, outer to inner, to mouth, to labia . . . Irigaray’s lips are not a noun – what she calls the ‘‘dead skins’’ of the post-coital phallus – but rather a series of verbs, where the lips open and close, become red, ‘‘pinks, browns, blonds, greens, blues, . . . luminous’’ (‘‘Quan…
+
+## Excerpt 5
+- id: b5d7fe04a98a3c784609ac26
+- qdrant_id: ede63115-3220-555b-8f9d-3f9567330dfe
+- source: (Manchester Studies in Religion, Culture and Gender) Morny Joy - Divine love_ Luce Irigaray, Women, Gender, and Religion-Manchester University Press (2013).pdf
+- chunk_index: 127
+- importance: 0.7830
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+regeneration. There appears to be a marked inconsistency with her work in Speculum and This Sex Which Is Not One, where Irigaray used this emblem of ‘two lips’ to propose an ‘infinite becoming’ of women as the ground of a new ‘feminine imaginary’. Her endorsement of finite gynocratic values, based on a presupposition that ‘In the history of women religion is mixed up with a culture of the earth, the body, life, peace’ (1993b: 190), marks a provocative change in the evolution of Irigaray’s thought. It will provide the foundations for her promotion of ‘sexual difference’ which is of a different order from the plurality of the ‘two lips’. The conundrum of sexual difference Irigaray declares that the western tradition, in its obsession with sameness, ‘knows nothing of sexual difference, in the sense of the difference between men and
+
+## Excerpt 6
+- id: de123c229f7d5ab669dba500
+- qdrant_id: 4aa74e38-e26e-5c09-8fae-fd66a627e616
+- source: Mary C. Rawlinson (editor)_ James Sares (editor) - What Is Sexual Difference__ Thinking with Irigaray (2023, Columbia University Press) [10.7312_rawl20272] - libgen.li.pdf
+- chunk_index: 121
+- importance: 0.7768
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+tual potential concerns sexual identities and relationships that “cannot be understood as strictly male or female” and that “fall outside the scope of the strictly heterosexual.”51 This means that, for Salamon, as for Malabou and Ziarek, to think sexual difference “with” Irigaray is also to be (as Ziarek puts this) “moving now in a different direction than Irigaray.”52 In short, we could direct the same question to Malabou and Ziarek as to Salamon: What is presupposed by a methodology that follows an Irigarayan form of thought as a means of concurrently departing from it? MALABOU AND THE PLASTICITY OF SEXUAL DIFFERENCE One of Malabou’s embarkation points in this regard is Butler’s earliest read- ing of Irigaray. In Gender Trouble, Butler had outlined her concern that a putative female biology (whether literal or strategic) persists as the refer- ence for an Irigarayan “two lips” morphology as feminine.53 When Mala-
+
+## Excerpt 7
+- id: fa4707bde6e137e88b221588
+- qdrant_id: a93bbe2b-9cf3-5dfd-b433-554f4f62a9ad
+- source: [Longman Critical Readers] Ellmann, Maud - Psychoanalytic Literary Criticism (1994, Routledge) - libgen.li.pdf
+- chunk_index: 102
+- importance: 0.7752
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Introduction opposition "phallic/castrated'" .80 Montefiore makes a convincing case; but it is troubling that Irigaray, judging by her style, can conceive of female discourse only in the form of gush, as if incontinence were the equivalent of liberation. To speak as women, it seems we are obliged to echo the unpunctuated rhapsody of Molly Bloom, in which the flow of words is ill-distinguished from the flow of bodily secretions; yet the notion that liquidity in discourse is superior to dryness is based on a bizarre confusion of the orifices. Whatever the future of women in language, it would be sad if Irigaray's ethics of 'mucosity' displaced the keener energies of women's wit, for 'brevity', as Dorothy Parker has observed, 'is the soul of lingerie' . Julia Kristeva also turns her attention to the pre-Oedipal in order to explore what Freud as described as the 'dark continent' of femininity; yet her work, in my opinion, is much richer and
+
+## Excerpt 8
+- id: edfea1353db4673d2f875eac
+- qdrant_id: f8552d97-9428-547a-a52b-bc50cd6f2920
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li (1).pdf
+- chunk_index: 220
+- importance: 0.7694
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+Luce Irigaray's Language of Essence I 59 tion, property (propriété), order, form, unity, visibility, erection" (1985, 77). The features associated with a female imaginary, as we might expect, more closely approximate the properties of liquids: "con- tinuous, compressible, dilatable, viscous, conductible, diffusable" {This Sex, 111). The problem here is simply that many of the properties Irigaray associates with the two lips might also describe the penis. As K.K. Ruthven points out: A good deal depends here on the accuracy of Irigaray's characteriza- tion of the penis as "one" in comparison with the "not one" of the vulva. Certainly, her theory seems to require the penis to be always inflexibly erect and quite without metamorphic variation, and also to be circumcised, as the presence of a foreskin endows it with most of the properties she attributes to the labia. (1984, 100-101) Irigaray's reading of phallomorphism as a kind of isomorphism, how-
+
+## Excerpt 9
+- id: a0c9b61522271edaa4be609e
+- qdrant_id: c69b5222-9e55-55c4-9e6e-bf9476582c08
+- source: (Theories of Representation and Difference) Elizabeth Grosz - Volatile Bodies_ Toward a Corporeal Feminism-Indiana University Press (1994).pdf
+- chunk_index: 33
+- importance: 0.7682
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+2.04 I Sexual Difference istics leads to many different attitudes and responses—some girls relish their new-found maturation, while others approach it with dread and shame—none­ theless there remains a broadly common coding of the female body as a body which leaks, which bleeds, which is at the mercy of hormonal and reproductive functions. Boys’ bodies too mature at this time, but what their biological devel­ opments entail is a preparedness not simply for reproduction and fatherhood but also for “mature” sexual activity (primarily intercourse). It is significant that Iris Young, in her definitive phenomenological study of the experience of being/having breasts, also has recourse to the kind of meta- phorics of fluidity proposed by Irigaray. From Young’s point of view, Irigaray is not posing a new ontological truth about women’s inherent fluidity as opposed to men’s solidity and …
+
+## Excerpt 10
+- id: 1ca9b0e83969595125bc8753
+- qdrant_id: b55b43fc-6adf-52a4-8798-936432edef4b
+- source: Linnell Secomb - Philosophy and Love_ From Plato to Popular Culture-Edinburgh University Press (2007).pdf
+- chunk_index: 396
+- importance: 0.7653
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+“same,” structure. What deﬁnes the speciﬁcity of the lips is their nearness or proximity . . . (Ziarek 2000: 147) Yet for all that Irigaray does not, as Ziarek notes, relinquish the sig- niﬁcance of difference, and especially the irreducibility of sexual differ- ence (ibid.: 145). Her strategy involves rather a movement back and forth between, or a simultaneous insistence on, proximity and difference: the two lips are, for example, both a sign of sexual difference and an image of proximity. In I Love To You this dual strategy of staging difference and proxim- ity is deployed through the re-articulation of love. In her engagement with Plato Irigaray already emphasises the intermediary character of love. As we saw in Chapter 1, Irigaray, agreeing with Diotima-Socrates, conceives love not as fulﬁlment but as movement between. In I Love To You the dynamics of the love relation are further elaborated. Rephrasing the conventional declaration of love – transforming ‘I love you’ into
+
+## Excerpt 11
+- id: 689137ed2602a271c9049ad1
+- qdrant_id: b2652c14-449e-55c5-902c-90821fc0a2e3
+- source: Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf
+- chunk_index: 55
+- importance: 0.7666
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Oedipal complex. In This Sex Which is Not One (1985), for instance, Irigaray addresses the lack that psychoanalysis equates with woman. She asks, ‘So woman does not have a sex organ?’ (Irigaray 1985b, 28) and answers that they have at least two: two lips that touch each other with- out any external help. Using the metaphor of ‘two lips’, or as a metaphor for metonyme, as one critic suggests,9 Irigaray stresses that woman’s sex- uality is not only double, but plural (1985b, 28). Irigaray’s ‘another look’ at psychoanalysis draws her reader’s attention to the ‘truth’ psycho- analysis gives to anatomy insofar as it determines sexual difference. Offering another reading of woman’s genitals as two lips instead of as lack, she offers an alternative to the psychoanalytic interpretation.10 In so doing, Irigaray challenges the psychoanalytic claim of ‘anatomy as an irrefutable criterion of truth’ (1985b, 70–71) and offers an image to
+
+## Excerpt 12
+- id: da38344f764afc0efd90b42a
+- qdrant_id: 7450fa17-8187-5659-88cb-4be87aa0e675
+- source: Elizabeth Grosz - Sexual Subversions (1989).pdf
+- chunk_index: 148
+- importance: 0.7661
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+Luce Irigaray and sexual difference able to find pleasure in intercourse with men or making love with women (or in masturbation or celibacy) according to their desire. Irigaray's metaphor makes clear the limited alternatives that the clitoral/vaginal debate imposes on women's pleasure. The 'two lips' is an indecidable image that is both genital and extragenitally polymorphous. She has produced a powerful metaphor for women's potentially excessive pleasures to hold up against the confining representations granted them in dominant discourses. As strategic, it makes no claim to eternal, transhistorical or transgeographical truth (which, of course, is not to say that it is false either-it is neither true nor false, for it is not within the realm of truth at all). Her purpose is to displace male models, rather than to accurately reflect what female sexuality really is. In other words, her writing always refers
+
+## Excerpt 13
+- id: 8e160c91c68295345be18eb3
+- qdrant_id: 87ecbc21-09b8-5ca2-a2b9-7b07f5bce9f9
+- source: Feminist film theorists_ Laura Mulvey, Kaja Silverman, -- Chaudhuri, Shohini -- 2006 -- London ; New York_ Routledge -- 9780415324335 -- 7d4dcaa1e21de4deb206d8337eae0708 -- Anna’s Archive.pdf
+- chunk_index: 196
+- importance: 0.7757
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+specific bodies. Disembodying the female voice is seen as liberating in these films as it is primarily as a body, surveyed by the male gaze, that woman is constructed in classic cinematic narrative. According to Silverman, none has solidified the connections between the female voice and the body more than Irigaray. In This Sex Which is Not One (1977), Irigaray tries to describe the different economy of female desire in terms of the female form. Unlike the male organ, the female sex is not ‘one’ but several — with vulval lips that are always touching each other. Her vision of feminine language hangs on this model of multiplicity, contiguity, and simultaneity, valorizing the sense of touch over sight. Irigaray claims a woman speaks by wandering off in numerous directions, ‘touching upon’ rather than focusing, appearing mad or incoherent ‘from the standpoint of reason’ (cited i…
+
+## Excerpt 14
+- id: f903ad841b9c3957380d2ca2
+- qdrant_id: cead751c-1b8d-5e2e-a6ba-3080d8ab75f8
+- source: Stone, Alison - Luce Irigaray and the Philosophy of Sexual Difference (2006, Cambridge University Press) [10.1017_cbo9780511617287] - libgen.li.pdf
+- chunk_index: 101
+- importance: 0.7646
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+22 Realism and Sexual Difference especially on the essentialism which they detected within certain essays in Irigaray’s This Sex Which Is Not One. Its closing essay, ‘When Our Lips Speak Together’, poetically evokes the female body and female auto- and homo- eroticism, stressing the interplay between two sets of lips as the principle for a distinctive style of exchange and speech, which she calls a ‘speaking (as) woman’ (parler-femme) (TS, 135/133). Earlier in This Sex, Irigaray offers a more theoretical description of this female mode of speech and eroticism: Woman’s autoeroticism is very different from that of man. In order to touch himself, he needs an instrument: his hand, a woman’s genitals, language . . . As for woman, she touches herself in and of herself without the need for a mediation . . . Woman ‘touches herself’ all the time, . . . for her genitals [sexe] are formed of two li…
+
+## Excerpt 15
+- id: a2c417bde1af627c02bea10b
+- qdrant_id: 11ff5f3a-e8a0-5bf3-8310-7fecba67b1e7
+- source: Flore Chevaillier - The Body of Writing_ An Erotics of Contemporary American Fiction (2013, The Ohio State University Press) - libgen.li.pdf
+- chunk_index: 155
+- importance: 0.7583
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+laid with velvet nipples of light-receptor cells” (153). His recollections unify the specific words of the experiment (“ingrown,” “grooves,” “light-receptor cells”) and erogenous body parts (“mouth,” “tongue,” “nipples”). Sexual and scientific emotions become mixed in Imp Plus’s mind, as each scientific word relates to an erotic zone. The effect is a blurring of differences and the creation of new entities: the “mouth” has a body; “light-receptor cells” have “velvet nipples.” Science and Eros bleed into one another, and language spreads the erotic sensations of Imp Plus. The blurring of the scientific and the erotic accompanies the blurring of all separate identities: “how to mouth the difference, for was there a difference between a her mouth and a him mouth?” (154). Imp Plus alludes to the arbitrariness of signifying processes but also to the merging of bodies during sexual activities. His non-thetic
+
+## Excerpt 16
+- id: c2e55ea4521214fcb5df4016
+- qdrant_id: cb3a06e1-80c0-5ed8-9d84-caf6a8203e2c
+- source: [Blackwell Companions to Philosophy] Alison M. Jaggar (editor), Iris Marion Young (editor) - A Companion to Feminist Philosophy (1998, Wiley-Blackwell) - libgen.li.pdf
+- chunk_index: 170
+- importance: 0.7655
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+S A N D R A L E E B A R T K Y Unlike men, women have multiple sex organs (e.g. breasts), hence multiple possibilities of satisfaction, not all of which are orgasmic. This is captured in lrigaray's image of the two labia - The Two Lips that Speak Together, always touching (Irigaray, 198 5b). As Irigaray associates phallocratic constructions of sexuality with the linearity and rationality of male discourse, proper attention paid to the specificity of the female body will prepare the way for an authentic articulation of female experience - nonlinear, and not necessarily rational, at least as "rational" has traditionally been understood. In "Breasted experience" (in 1 990b), Iris Marion Young follows Irigaray in claiming that women's sexuality is importantly different from men's and that it offers pleasures unique to women. Male culture fetishizes women's breasts: the " 'best'…
+
+## Excerpt 17
+- id: 2ae454379058e4a2da3b7938
+- qdrant_id: d55cf52f-bdbe-52a3-bc7d-8a5711759fef
+- source: Hastings Donnan, Fiona Magowan - The Anthropology of Sex (2010) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.7574
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+28 t h e a n t h r o p o l o g y o f s e x on the breasts, mouth and genitals, with other potentially penetrable access points such as the anus being completely ignored because of the association with sex among gay men. The ‘erogenous’ female body has both a receptive exterior, such as clitoris, breasts and nipples (to which products such as stimulating gels, fruit-flavoured licks and vibrators can be applied), and a receptive interior, such as the vagina and the mouth (the products for which take phallic penetrability as paradigmatic). Attention to the vagina at these parties may seem obvious now, but we must remember that until ‘recently the vagina was effectively “invisible” in public’ in the West (Ardener 1987: 126). Some of these body parts mirror and ‘repeat’ each other in ways we elaborate below, so that clitoris and vagina are paired with or ‘ghosted’ by nose and armpit respectively, ambiguities
+
+## Excerpt 18
+- id: 2fafc535e1bf95bfb27e479e
+- qdrant_id: 51e4478d-0a01-5c34-bd43-d0a4c40a0992
+- source: The Argonauts (Nelson, Maggie) (Z-Library).pdf
+- chunk_index: 148
+- importance: 0.7588
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+both unitary and binary ways of thinking by focusing on the morphology of the labial lips. They are the “sex which is not one.” They are not one, but also not two. They make a circle that is always self-touching, an autoerotic mandorla. This image immediately struck me as weird but exciting. And a little embarrassing. It reminded me of the fact that a lot of women can jerk off just by pressing their legs together on a bus or in a chair or whatever (I came this way once while waiting in line to see The Bitter Tears of Petra von Kant at Film Forum on Houston). While we were discussing Irigaray in class, I tried to feel the circle of my labial lips. I imagined every woman in the class trying to feel it too. But the thing is, you can’t really feel your labial lips. It’s easy to get juiced up about a concept like plurality or multiplicity and start complimenting everything as such. Sedgwick w…
+
+## Excerpt 19
+- id: b0a570288d128d3a61b90cf3
+- qdrant_id: 71c6e0d7-a95b-58c9-a04a-6b1896c38915
+- source: (Theories of Representation and Difference) Elizabeth Grosz - Volatile Bodies_ Toward a Corporeal Feminism-Indiana University Press (1994).pdf
+- chunk_index: 18
+- importance: 0.8009
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+of fluidity and absorption; for example, he compares the intimacy of the relations between the seer and the visible to the indeterminacy of the relations between “the sea and the strand” (1968: 131). For Irigaray this metaphorics of fluids, emblematic of femininity in This Sex Which Is Not One (1985b) and Marine Lover (1991), signifies not only the “formlessness” of feminine jouissance but more particularly the amniotic element that houses the child in the mother’s body and continues to be a “watermark” etched on the child’s body. In this sense the womb and the earliest relations between mother and child, those relations be­ tween the operations of a fully constituted vision, must remain in darkness, a kind of nocturnal state that precludes but preconditions vision, an invisible that Merleau-Ponty can never acknowledge: If it was not the visible that is in question here, it woul…
+
+## Excerpt 20
+- id: 499ef7d1e420fb66f7ab986e
+- qdrant_id: 91ec5757-acfc-538d-bff6-a85e8cf7ad52
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li.pdf
+- chunk_index: 246
+- importance: 0.7643
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+(1984, 72). But, what is important about Irigaray's conception of this particular figure is that the "two lips" operate as a metaphor for metonymy; through this collapse of boundaries, Irigaray gestures to- ward the deconstruction of the classic metaphor/metonymy binarism. In fact, her work persistently attempts to effect a historical displace- ment of metaphor's dominance over metonymy; she "impugns the privilege granted to metaphor (a quasi solid) over metonymy (which is much more closely allied to fluids)" (This Sex, 110). If Freud was not able to resist the seduction of an analogy,9 Irigaray insists that no analogy, no metaphoric operation, completes her: Are we alike? If you like. It's a little abstract. I don't quite understand 'alike.' Do you? Alike in whose eyes? in what terms? by what stan- dard? with reference to what third? I'm touching you, that's quite enough to le…
+
+## Excerpt 21
+- id: dc4e2f4885c220d705c564f8
+- qdrant_id: 5a0f6160-9798-5ef1-880a-17f4e0889ea1
+- source: Sexual subversions_ three French feminists -- Grosz, Elizabeth -- 1989 -- Sydney ; Boston_ Allen & Unwin -- 9780043012925 -- 25695bee28a7aac24c50c9d308e6604e -- Anna’s Archive.pdf
+- chunk_index: 147
+- importance: 0.7529
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+female sexuality; it evokes a remainder or residue of jouissance left unrepresented in a phallic libidinal economy. Female sexuality could be positively represented by the metaphor of the ‘two lips’. The two lips are never one, nor strictly two. They are one and two simultaneously: where one identity ends and another begins is never clear. (The idea of ‘one lip’ seems absurd!) This image defies binary categories and forms of classification, 115
+
+## Excerpt 22
+- id: 91d84231467935912150de4a
+- qdrant_id: 3b38c836-0344-5a04-8eeb-b4e59db3fb03
+- source: (Manchester Studies in Religion, Culture and Gender) Morny Joy - Divine love_ Luce Irigaray, Women, Gender, and Religion-Manchester University Press (2013).pdf
+- chunk_index: 91
+- importance: 0.7568
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+not just to biological sexuality but to the male and female sexual organs. Le genre refers to the human race as well as to grammatical gender. Irigaray has thus far been extremely circumspect in her use of le sexe, making sure that it is not simply associated with genitality. In a rare footnote in Sexes and Genealogies, Irigaray now consolidates her usage of these two terms. She states ‘The word sex is used in regard to male and female persons and not only to male and female genital organs’ (1993b: 128). Previously, in relation to the emblem of ‘two lips’, Irigaray had also specified that: ‘the/a woman who doesn’t have one sex organ, or a unified sexuality ... cannot subsume it/herself under one generic or specific term [i.e., male gender]’ (1985a: 233). In connection with the biological sex, Irigaray expands on her notion of a new morphology for women beyond the maternal: ‘The issue is to to learn to discover a different kind of magnetism and the morphology of a
+
+## Excerpt 23
+- id: d93e6ee69b2fcd6e694559f3
+- qdrant_id: acafca50-ac84-5a19-a8b8-03f469d45bda
+- source: Mary C. Rawlinson (editor)_ James Sares (editor) - What Is Sexual Difference__ Thinking with Irigaray (2023, Columbia University Press) [10.7312_rawl20272] - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.7589
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+INTRODUCTION Irigaray and the Question of Sexual Difference JAMES SARES AND MARY C. RAWLINSON The very title of this volume may arouse suspicion from the reader. Does asking what is sexual difference already make a grave conceptual error? Does the question not already imply a determination of essences, demand- ing a restrictive delineation of what the sexes must be? Has feminist phi- losophy not already moved away from this what question, from universal and univocal statements about the nature of sexual difference, out of a con- cern for what is silenced, subjugated, or cast aside when one attempts to answer it? In reaction to this attitude, have others not rejected the question as the casting into doubt, throwing unnecessary skepticism on, a given, empirical matter of biological fact? Is the question today not philosophi- cally nugatory from all sides? And then there is the subtitle. Do we not find in much of the contempo-
+
+## Excerpt 24
+- id: 09485dce10c8bea2e3acec0b
+- qdrant_id: 5e1a701f-acc9-593b-85b6-88d0f2ab8102
+- source: [Contemporary French and Francophone Studies vol. 6 iss. 1] Huffer, Lynne - Masturbating Dykes_ Cixous, Irigaray, Leduc (2002) [10.1080_10260210290021833] - libgen.li.pdf
+- chunk_index: 21
+- importance: 0.7497
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+other – our solitary and mutual pleasures – always end up as the static tableaux of phallic tumescence. This brings me to a crucial anatomical point with surpris- ingly far-reaching theoretical implications. Although many fem- inists – from Anne Koedt in ‘‘The Myth of the Vaginal Orgasm’’9 to Naomi Schor in Breaking the Chain10 – have wanted to reclaim the clitoris as the privileged site of female pleasure and thus the specificity of female difference, Irigaray insists – as we saw earlier – that the clitoris and the vagina are inseparable. In other words, as she makes clear in her famous essay about female masturbation and lesbian desire, ‘‘Quand nos le`vres se parlent’’ [‘‘When Our Lips Speak to Each Other’’] the concept of difference is more appropriately figured as lips: the labial and oral site of masturba- tory pleasures and lesbian love.11 Irigaray’s insistent question in the lips …
+
+## Excerpt 25
+- id: f407cf36479dac1d09b0646e
+- qdrant_id: f2a709e6-2ba4-5838-8ddf-cad4ce7ef08e
+- source: [Longman Critical Readers] Ellmann, Maud - Psychoanalytic Literary Criticism (1994, Routledge) - libgen.li.pdf
+- chunk_index: 99
+- importance: 0.7478
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+embrace. 'Always at least two', these lips cannot be appropriated into masculine conceptions of the one, the proper, or the self-identical; 'continually interchanging', they are 'neither identifiable nor separable from one another . . . it is the touch which for the female sex seems to me primordial; these two lips are always joined in an embrace'. 77 In Irigaray's utopia, where women would enunciate their own sex, rather than deferring to the phallus, their language would defy grammatical divisions, making words as warm and slippery as lips: what a feminine syntax might be is not simple nor easy to state, because in that 'syntax' there would no longer be either subject or object, 'oneness' would no longer be privileged, there would no longer be proper meanings, proper names, 'proper' attributes.... Instead, that syntax would invoke nearness, proximity, but in such an extreme form that it would preclude any distinction of identities,
+
+## Excerpt 26
+- id: 2d0a6d0d93e81356c16cfc74
+- qdrant_id: a5aa601a-44a4-5745-a76a-eb28d5073322
+- source: Sexual Subversions (Elizabeth Grosz) (Z-Library).pdf
+- chunk_index: 168
+- importance: 0.7477
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+11 For more on the inscriptions of power on bodies, see M. Gatens, 1983. 12 NB The two exceptions of whom I am aware are Carolyn Burke and Margaret Whitford. Whitford confirms my suspicion that Irigaray's work is either not read, misread or misleadingly read: Now the idea that Irigaray is proclaiming a biologically given essential femininity in which biology in some unclear fashion simply 'constitutes' femininity seems to me quite simply a misreading of Irigaray (based on the only English translation available in 1982). (Whitford, 1986:7) 13 The mouth, that's also lips! That's exactly what's special about women, that they have lips up here and down there! Perhaps they [men] have silenced her mouth throughout history because she also has lios down " there! Man doesn't have a set of lips, woman does .. . (Irigaray, 1983d: 195) 14 For example, Jones suggests that Irigaray's ob…
+
+## Excerpt 27
+- id: b2af7b2da0fe1d37f10421dc
+- qdrant_id: 46c62381-eec1-5dad-9597-acb2f1dc3387
+- source: Thomas Walter Laqueur - Making Sex. Body and Gender from the Greeks to Freud-Harvard University Press (1990).pdf
+- chunk_index: 117
+- importance: 0.7502
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+concoctions made from various animal parts. 85 A vast body of clinical practice and learning was thus bound up with heat, orgasm, and generation. It was and remains difficult to evaluate the efficacy of particular therapies, and it should not seem strange that the experiences of patients, unchallenged by modem survey techniques and statistical analysis, would confirm the notion that more intensely pleasur- able intercourse was also more fecund. The fungibility of fluids. The economy of fluids discussed in Chapter 2 was partly ideology-a way of talking about women as colder, less well- fanned, and more protean than man-and partly a way of understanding the body generally as much less bounded and restrained than we would today. But it was also a way of organizing empirical observations, which strengthened it and the vision of sexual difference it formed. To begin with, certain a…
+
+## Excerpt 28
+- id: e2578b9ba5c309ab096a5241
+- qdrant_id: 39730efa-ccdb-5d3f-9bcb-c86fa356425e
+- source: Mary C. Rawlinson (editor)_ James Sares (editor) - What Is Sexual Difference__ Thinking with Irigaray (2023, Columbia University Press) [10.7312_rawl20272] - libgen.li.pdf
+- chunk_index: 48
+- importance: 0.7543
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+and other often associated with, yet not irreducibly tied to, one gender or the other. At other times, masculine or feminine might be used as mere adjectivals for men and women or male and female without implying any- thing about their contents or qualities.20 Irigaray’s emphasis on the two might otherwise be put into relief with her mentions of the “at least” two, although Irigaray’s emphasis on the two may otherwise be defended in cer- tain respects.21 By pulling on such threads, some contributors of this vol- ume open readings of sexual difference beyond the perceived limitations of her account through the resources already present in her work, regard- less of what her intentions might be. At the same time, an intellectually honest and hermeneutically gener- ous reader knows that Irigaray cannot, and does not pretend to, say every- thing at one go. There may indeed be a relatively unproblematized inter- connectedness between the terms male/man/masculine and female/woman/
+
+## Excerpt 29
+- id: 04194a732bf8d6e707a39cfb
+- qdrant_id: e4c89ef5-8749-5baa-a2f0-9a254c359358
+- source: [American Literature Readings in the 21st Century ] Kathryn Wichelns (auth.) - Henry James's Feminist Afterlives_ Annie Fields, Emily Dickinson, Marguerite Duras (2018, Palgrave Macmillan) [10.1007_978-3-319-71800-.pdf
+- chunk_index: 397
+- importance: 0.7488
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+dering of phallogocentric sense that reveals the instability of meaning itself.25 Duras’s simultaneously bifurcated and labyrinthine set design evokes Irigaray’s well-known concrete metaphor of the doubled “two lips” of women’s language: Irigaray refers to the mouth as well as the inner and outer labia of the vagina in her discussion of the distinctive, embodied way that women, in her view, relate to both language and desire. Like Irigaray’s “woman,” Duras’s set “is neither one nor two,” and it contains a multitude of “self-touching,” intricate possibilities (Irigaray 22–23, 26). Additionally, Duras’s development of James’s temporal shifts, as well as his use of Italian or French-coded-as-English, suggests obvious parallels with Julia Kristeva’s work. For Duras, James’s story stages both “women’s time” and the related concept of a fundamental untranslatability of lin- guistic …
+
+## Excerpt 30
+- id: 75114b226305a777353d2be7
+- qdrant_id: 3fd05994-3569-5e72-8629-6a8e7a9d6276
+- source: Murat Aydemir - Images of Bliss_ Ejaculation, Masculinity, Meaning (2007, Univ Of Minnesota Press) - libgen.li.pdf
+- chunk_index: 65
+- importance: 0.7368
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+and Blood II (Figures 1 and 2) show the two titular bodily ﬂuids in close con- tact with each other on a dark, transparent surface pane. The encounter is charged with an unbearable tension. The two liquids do not mix, yet they are shown in their closest proximity, their boundaries touching each other, clinging to each other, creating congealing edges and whirls where they Semen, Blood, Stars, and Ice / 4
+
+## Excerpt 31
+- id: 3bcac7046e0728ec990660fb
+- qdrant_id: 6ebc44d7-bf3d-5bad-99f7-b0a6134bba7c
+- source: Lisa Michelle Diamond - Sexual fluidity_ understanding women's love and desire-Harvard University Press (2008).pdf
+- chunk_index: 7
+- importance: 0.7453
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+instead of two sides of the same coin, consensus is gradually build- ing on why women appear so different from men. Speciﬁcally, we have found that one of the fundamental, deﬁning features of female sexual orientation is its ﬂuidity. We are now on the brink of a revo- lutionary new understanding of female sexuality that has profound scientiﬁc and social implications. A Brief History of Fluidity Sexual ﬂuidity, quite simply, means situation-dependent ﬂexibility in women’s sexual responsiveness. This ﬂexibility makes it possible for some women to experience desires for either men or women un- der certain circumstances, regardless of their overall sexual orienta- tion. In other words, though women—like men—appear to be born with distinct sexual orientations, these orientations do not provide the last word on their sexual attractions and experiences. Instead, women of all orientations may ex…
+
+## Excerpt 32
+- id: d9627bbd0eb8f7ccb19eb61e
+- qdrant_id: 988be8b9-6a9c-540d-aba5-75c91bd2d2ad
+- source: [SUNY series in gender theory] Athanasiou, Athena_Irigaray, Luce_Tzelepis, Elena - Rewriting difference_ Luce Irigaray and ''the Greeks'' (2010, State University of New York Press) - libgen.li.pdf
+- chunk_index: 162
+- importance: 0.7459
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+282 Index Eurynome, 34, 35, 38 exogamy, 80, 90 eyes, 36–37, 40, 44 faithfulness, 173–74 Fanon, Frantz, 227 Faubion, James, 129 Felman, Shoshana, 29, 116n9 female embodiment, 251–52 “Female Gender, The” (Irigaray), 89 feminine divine, 189 feminine other, 1. See also “other”: as feminine “feminine,” the, 110, 114, 120 as the “elsewhere,” 247–48 Irigaray on, 3–4, 191–92, 222, 247–48 Nicole Loraux on, 240, 241 self-affection in, 268–70 femininity. See also speciﬁ c topics Athena as, 87, 88 as disguise, 242 imaginary function, 207 Irigaray on, 107, 222 feminism, 188, 219 conditionality of Irigarayan, 252 psychoanalytic, 2 race and, 203–4, 210 fetishism, 210, 227. See also commodity fetishism Fink, Bruce, 19, 20 ﬁ re, 37 ﬂ esh, 210–11, 213. See also under alterity ﬂ owers, ﬁ eld of, 33–37 “Forgotten Mystery of Female Ancestry, The” (Irigaray), 28, 84 form and matter. See under Aristotle Fort-Da game, 65–66 Foucault, Michel, 6–7
+
+## Excerpt 33
+- id: eefd387dc6bf6afe26822451
+- qdrant_id: 8a414718-3a97-59b2-9240-6da9a46df69e
+- source: Stephen Hessel, Michèle Huppert - Fear Itself_ Reasoning the Unreasonable (At the Interface Probing the Boundaries) (2009) - libgen.li.pdf
+- chunk_index: 289
+- importance: 0.7414
+- seed_hits: irigaray-two-lips-sexual-difference-fluids, luce-irigaray-this-sex-which-is-not-one-speculum
+
+male standard; that is, sexual différance beyond relational difference amounting to equivalence - one that disrupts what Irigaray coined hommosexualité.50 Actual sexual difference is veiled as the castrated woman who, in turn, is veiled as phallic; thus, non-binary sexual difference is twice removed. Does this doubly veiled woman ultimately divest her ghastly cerements? But here at the climax of the tale - meant to afford a final anagnorisis - the tale abruptly yet appropriately ceases, seeing that sexual différance can only remain unrepresentable in a signifying system that privileges the signifier of the phallus. In Irigaray’s Spéculum de l’autre femme [Speculum of the other woman], she argues how the specular logic of the “self-same” underlying Western philosophical discourse is, in the words of Toril Moi, …incapable of representing femininity/woman other than as the negative of its own reflection … The thinking man
+
+## Excerpt 34
+- id: 2c4478804ed0eb636b239b92
+- qdrant_id: 9c8dacf6-f830-5b48-ae21-7b660ba77e55
+- source: Elizabeth Grosz - Jacques Lacan_ A Feminist Introduction-Routlegde (1990).pdf
+- chunk_index: 165
+- importance: 0.7477
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Relation ... ', Hecate, 9( 1/2). Irigaray, L. (1984) L'Ethique de la difference sexuelle, Paris: Minuit. Irigaray, L. (1985a) Speculum of the Other Woman, Ithaca: Cornel! University Press. Irigaray, L. (1985b) This Sex Which Is Not One, Ithaca: Cornel! University Press. Irigaray, L. (1985c) 'Is the Subject of Science SexedT, Cultural Critique, 1(1), Fall. Irigaray, L. (1986a) 'Divine Women', Local Consumption Occasional Papers, 8, Sydney. Irigaray, L. (1986b) 'The Fecundity of the Caress', in Face-to-Face with Levinas, ed. R. A. Cohen, New York: State University of New York. Jacobus, M. (1986) Reading Woman, Ithaca: Cornell University Press. Jakobson, R. and Halle, M. (1956) The Fundamentals of Language, The Hague: Mouton and Co. Jay, N. (1981) 'Gender and Dichotorny', Feminist Studies, 7(1), Spring. 209
+
+## Excerpt 35
+- id: d846aac7bc6e94b483a422f9
+- qdrant_id: 4229becb-706f-5079-b179-64cf1eac48a1
+- source: (Psychoanalysis and Women Series) Giovanna Ambrosio - On Incest (Psychoanalysis and Women Series) -Karnac Books (2005).pdf
+- chunk_index: 334
+- importance: 0.7300
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+between blood relations, involves the coming together of two bodies, she adds that two identical bodily substances may come into mutual contact without there being any direct physical contact—for example, when two relatives share the same sexual partner, there is a transfer of bodily ﬂuids akin to what occurs in “ﬂuid mechanics”. This is the second type of incest, in which ﬂesh and ﬂuids come into contact via bodily “humours”, and in particu- lar those that in some civilizations are indeed called the “ﬂuids of sex”, masculine and feminine. The prohibitions apply to indirect incestuous contacts such as the relationship of a daughter and a mother with the same man, or the taboo that exists in some cultures against having intercourse with one’s wife’s sister. The taboo of incest is expressed through the transmission, contact and exchange of sexual ﬂuids. 111 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 711 8 9 20 1 2 3 4 511 6 7 8 9 311 1 2 3 4 5 6 7 8 911 102 ON INCEST
+
+## Excerpt 36
+- id: 6fbc55b251efc85a3024d0a7
+- qdrant_id: 91f3b6ef-bb57-505e-9574-7312390b8d52
+- source: [Warwick Studies in European Philosophy] Cathryn Vasseleu - Textures of Light_ Vision and Touch in Irigaray, Levinas and Merleau Ponty (1998, Routledge) - libgen.li.pdf
+- chunk_index: 423
+- importance: 0.7933
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+126 Erotic light Unlike Merleau-Ponty’s subject/object body that exists in the co-extensivity of an exteriority and interiority folded within itself, the in-stance which Irigaray refers to is an interiority that cannot be thought in terms of the intertwining of subject and object. In contrast to Merleau-Ponty’s use of the idea of touching oneself as the most elementary way in which a subject–predicate distinction begins to be established, Irigaray argues that in touching oneself what or who is subject and what or who is object will never be known because neither of these positions can be distinguished from the other. As Irigaray makes much of in the ‘two lips’, the doubling and positioning of the self in relation to the self in its sensible immediacy is figured as an impossibility within the limits of the self conceived of as a unified phenomenon. In this sense the mobile differentiat…
+
+## Excerpt 37
+- id: 7b1a48e25b2519b5cc87c191
+- qdrant_id: ac83c7e7-16ae-5c70-a15e-b1f073239879
+- source: Linnell Secomb - Philosophy and Love_ From Plato to Popular Culture-Edinburgh University Press (2007).pdf
+- chunk_index: 412
+- importance: 0.7488
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+resolved difference and prioritises sexual difference over other differ- ences she risks, in turn, marginalising and abjecting other differences – racial, cultural and so on, but also the difference that homoerotics rep- resents in the context of a dominant heterosexual culture. Potter’s articulation of the sexual relation may be interpreted as an expression of an equality feminism that hopes to overcome women’s sub- ordination by emphasising the similarities between women and men. The risk is an inadvertent reinstating of masculine frameworks by turning women into androgynous pseudo-men. Irigaray attempts to deﬂect this outcome through a feminist politics of sexual difference. The danger of her strategy lies in the refusal to recognise the multiplicity of differences including the difference that exists between each and any other through their differing histories, relationships, productions and ambitions. Nevertheless, Irigaray provides a valuable re-articulation of both femi-
+
+## Excerpt 38
+- id: c2fee1391ccf06b8f37d7fd2
+- qdrant_id: 709e7466-1b0c-5528-803d-b1302fa961df
+- source: Thomas Walter Laqueur - Making Sex. Body and Gender from the Greeks to Freud-Harvard University Press (1990).pdf
+- chunk_index: 80
+- importance: 0.7404
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+claims are of two sorts. Most are negative: I make every effort to show that no historically given set of facts about "sex" entailed how sexual dif~ ference was in fact understood and represented at the time, and I use this evidence to make the more general claim that no set of facts ever entails any particular account of difference. Some claims are positive: I point to ways in which the biology of sexual difference is embedded in other cul- tural programs. Chapter 2 is about the oxymoronic one-sex body. Here the boundaries between male and female are primarily political; rhetorical rather than biological clain1s regarding sexual difference and sexual desire are pri- mary. It is about a body whose fluids-blood, semen, milk, and the vari- ous excrements-are fimgible in that they tum into one another and whose processes-digestion and generation, menstruation and other OF LANGUAGE…
+
+## Excerpt 39
+- id: 9a1703d2b67e492da6678274
+- qdrant_id: 51ce1135-d700-54d1-8099-5e103a2c06c4
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li (1).pdf
+- chunk_index: 244
+- importance: 0.7426
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+merce with it at all? The ease of the description by means of which the boy situates himself in the mode of "having" one would seem to indicate that this is n#t the case. ... There is a sense in which all attempts to deny the relation between the phallus and the penis are feints, veils, illusions. The phallus, as signifier, may no longer be the penis, but any effort to conceptualize its function is inseparable from an imaging of the body. (1981, 27-28)8 The problem, put another way, is simply that the relation between the penis and the phallus is as much one of association or metonymy as similarity or metaphor. The same might be said of Irigaray's treatment of the "two lips," the only difference being that Irigaray allocates the métonymie function to the two lips and relegates metaphor to the realm of Lacan's phallomorphism.
+
+## Excerpt 40
+- id: 69a499325b1d56c1c7ff6229
+- qdrant_id: 237efa3f-54ca-5d6f-a58c-4a549838b1c5
+- source: Violette Leduc mothers, lovers, and language (Hughes, Alex, 1960-) (Z-Library).pdf
+- chunk_index: 383
+- importance: 0.7427
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+pluralistic and conforms to Irigaray’s contention that woman’s pleasure (unlike man’s ‘monolithic’, penile jouissance) comes from her entire anatomy, the reader gains the sense that such satisfaction — and the relation which engen- ders it — have, as Cixous puts it, effectively ‘entered into the feminine’ :22 Nous apprenions, nous retenions que les fesses sont des sensitives. Nos mains étaient si légéres que je suivais la courbe du duvet d’Isabelle sur mon bras, la courbe de mon duvet sur son bras. Nous descendions, nous remontions avec nos ongles effacés la rainure de nos cuisses refermées, nous provoquions, nous supprimions les frissons. Notre peau entrainait notre main et son double. Nous emmenions les pluies de velours, les flots de mousseline depuis l’aine jusqu’au cou-de-pied, nous revenions en arriére, nous prolongions un grondement de douceur de Pépaule Jusqu’au talon…
+
+## Excerpt 41
+- id: b22d490e5e9b3240678530de
+- qdrant_id: bb36fefa-2401-5c71-a481-e42069ff24db
+- source: Georges Bataille - Visions of excess - libgen.li.pdf
+- chunk_index: 122
+- importance: 0.7495
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+different from other parts of the body, the inside of a gaping mouth, for ex- ample. Only secondary (but common) deformations have been able to give its ignominy an exceptionally burlesque value. Now it is easy, most often, to account for burlesque values by means of extreme seductiveness. But we are led here to distinguish categorically two radically opposed kinds of seductiveness (whose habitual confusion entails the most absurd misunderstandings of language). If a seductive element is to be attributed to the big toe, it is evidently not one to satisfy such exalted aspirations as, for example, the perfectly indelible taste THE BIG TOE K 23 that, in most cases, leads one to prefer elegant and correct forms. On the con- trary, if one chooses, for example, the case of the Count of Villamediana, one can affirm that the pleasure he derived from touching the queen's foot specifi- cally deriv…
+
+## Excerpt 42
+- id: e16cca17f4b21cbc3b9362d5
+- qdrant_id: 6a5fe912-ba3c-5860-8d00-3193f111d429
+- source: Feminism and postmodernism -- Margaret Ferguson and Jennifer Wicke -- 1992 -- Duke university press -- dacef07905dfcb509597f845281a8f6d -- Anna’s Archive.pdf
+- chunk_index: 153
+- importance: 0.7404
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Stockton / Bodies and God 135 ‘God’ between Their Lips: In Search of Symbolic Holes Women Can Feel Here—on the question of perceivable concealments that only mysti- cal formulas can capture—is the link to the deconstructive feminist Irigaray. For the sake of making different (female) bodies appear, Irigaray renders these bodies opaque but seeks to lavish upon them concealments that they might wear. More striking yet, in offering us her version of spiritual materialism, Irigaray puts ‘God’ between women's lips. By means of this puzzle | want to make bold that with all that has been written in reference to Irigaray, we have not fully realized the interest of her materialist dilemmas (for my purposes, her theories in Speculum of the Other Woman and This Sex Which is Not One). They are, | suggest, more engaging, more nuanced, and even much different than they have been represe…
+
+## Excerpt 43
+- id: 8f4709ff026aa6c61047ee71
+- qdrant_id: 0c3d2628-2679-5001-ba65-e62210d77830
+- source: Sha, Richard C - Perverse Romanticism_ Aesthetics and Sexuality in Britain, 1750–1832 (2009, Johns Hopkins University Press) - libgen.li.pdf
+- chunk_index: 164
+- importance: 0.7391
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+and puberty, 241; and P. Shelley, 127, 128; as universal, 140; and Voltaire, 125–27 Horace, 264, 281, 282, 284–85 Hume, David, 147, 150, 163, 311n31 Hunt, Leigh, 6, 146 Hunter, John, 26, 27–28, 33, 97–99, 100, 101, 104–5, 109–10, 217–18, 219, 220, 242, 265; and Abernethy, 279; and arti- ﬁcial insemination, 8; and blood, 20; on genitals, 99, 109–10, 117, 118, 119–20; on hermaphrodites, 133–35; and ovaries, 23; and puberty, 108, 110, 111, 116, 123; on sexual difference, 118, 119; on sexual- ity, 26–27; and White, 211 Hunter, William, 20, 35, 104, 105, 106, 211, 305n33 Hurd, Richard, 284–85 identity: in Blake, 188, 190, 203, 231, 239; in Byron, 248, 249, 259; and desire, 88; and erotic aesthetics, 147; and function, 64; and Geoffroy Saint-Hilaire, 69; and homosexuality, 127; and perversion, 7, 8, 52, 68, 69, 80; psychiatric, 77; and sex, 21; and sexuality, 52, 64, 285–86; and the sublime, 1…
+
+## Excerpt 44
+- id: cb680c82d5699ff32a70f992
+- qdrant_id: 601a0cba-1ef6-593c-ab4d-da95a322e09e
+- source: [Postmodern Encounters] Stuart Sim - Lyotard and the Inhuman (Postmodern Encounters) (1997, Totem Books) - libgen.li.pdf
+- chunk_index: 110
+- importance: 0.7417
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+NOTES 28. Ibid., p. 128. 29. Ibid., p. 15. 30. Ibid., p. 16. 31. Lyotard, Peregrinations, p. 5. 32. See Jean-Francois Lyotard, The Differend: Phrases in Dispute, trans. George Van Den Abbeele. Manchester: Manchester University Press, 1988. 33. Lyotard, The Inhuman, p. 17. 34. Ibid., pp. 18,19. 35. Ibid., p. 118. 36. Ibid., p. 19. 37. Guardian, op. cit., p. 1. 38. Lyotard, The Inhuman, p. 20. 39. Ibid. 40. Ibid., p. 22. 41. Ibid., p. 65. 42. Haraway, Simians, Cyborgs, pp. 149, 153. 43. Ibid., p. 1. 44. Ibid., p. 149. 45. Ibid., pp. 150,181. 46. Ibid., p. 150. 47. Ibid. 48. Ibid., p. 153. 49. Ibid., p. 154. 50. Ibid., p. 155. 51. Simone de Beauvoir, The Second Sex, trans. 69
+
+## Excerpt 45
+- id: d47635e121718962a7000121
+- qdrant_id: 2b2e488a-efd0-53ec-9a6d-99d16783bd97
+- source: [The School of Life] Alain de Botton - How to Think More About Sex (2012, Picador) - libgen.li.pdf
+- chunk_index: 35
+- importance: 0.7364
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+gently upwards, realizing with intense joy that she is wet. At the same time, she stretches her hand across to him and takes comparable satisfaction in discovering the extreme stiffness of his penis. The reason such physiological reactions are emotionally so satisfactory (which means, simultaneously, so erotic) is that they signal a kind of approval that lies utterly beyond rational manipulation. Erections and lubrication simply cannot be effected by willpower and are therefore particularly true and honest indices of interest. In a world in which fake enthusiasms are rife, in which it is often hard to tell whether people really like us or whether they are being kind to us merely out of a sense of duty, the wet vagina and the stiff penis function as unambiguous agents of sincerity. So delightful are these involuntary reactions that, after making love, our couple will return to discussing them in relation to the earlier part of their evening in the cafe. He will ask her with a
+
+## Excerpt 46
+- id: c6b7b99f227761601ee4452a
+- qdrant_id: a8151c21-0ab9-5e61-b4ed-7a5bda1ebc49
+- source: [SUNY series in contemporary continental philosophy] Christina Hendricks, Kelly Oliver - Language and Liberation_ Feminism, Philosophy, and Language (1999, State University of New York Press) - libgen.li.pdf
+- chunk_index: 92
+- importance: 0.7315
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+any traditional sense, since they express for Irigaray a metonymic contiguity, a touching of (at least) two, rather than a metaphoric substitution of one for one.22 This is illustrated in the figure of touch as found in "When Our Lips Speak Together," where Irigaray uses two lips—those that speak, and those of the female genitalia—to portray a multiplicity within women (Irigaray 1985b).23 Between the two lips there is a confusion of identity and boundaries: there is a multiplicity, but it is not separable into independent and coherent "ones." Within the figure of touch there are no sharp breaks, no gaps separating that which is touching from that which is being touched. "We are always one and the other, at the same time. . . . Without limits or borders . . ." (Irigaray 1985b, 217). With this figure Irigaray expresses a metonymic contiguity that may open a space within discourse for …
+
+## Excerpt 47
+- id: ab1d4613e1c9d62adec5e562
+- qdrant_id: c0c0fc0c-020c-521d-b454-de7653e8cbb4
+- source: [Fundamentals of Philosophy series] Georgia Warnke - Debating Sex and Gender (2011, Oxford University Press) - libgen.li.pdf
+- chunk_index: 118
+- importance: 0.7317
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+30 DEBATING SEX AND GENDER distinct sexes are, in the premodern and early modern Western view, merely geographic: The same organs that are on the outside of male bod- ies are on the inside of female bodies. The vagina is an interior, inside-out penis that serves as the sheath into which the penis fits; the labia make for an interior foreskin; the uterus is an interior scrotum; and the ovaries are interior testicles. As Laqueur points out, Galen, the second-century Greek physician whose authority lasted until the late eighteenth century, even employed the same word for testes and ovaries: orchesis.* Bodily fluids also failed to differentiate men and women in premod- ern and early modern Europe, Laqueur says. Instead, physicians and medical experts thought these fluids could convert into one another and therefore that what might look like distinct fluids in men and women were simply different forms of a single, endlessly protean substance. Sperm, for
+
+## Excerpt 48
+- id: 22fd7e66d4b4a4fc13510550
+- qdrant_id: 05be1b0f-d0e6-535b-a443-365d592ccfe3
+- source: Flore Chevaillier - The Body of Writing_ An Erotics of Contemporary American Fiction (2013, The Ohio State University Press) - libgen.li.pdf
+- chunk_index: 346
+- importance: 0.7369
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+material. To that end, DICTEE builds recurring images of bodily fluids and orifices. In her examination of images of penetrations and punctures, birth- ing, and speech processes, and the recurrence of the mouth, vaginal canals, and skin as loci of absorption and permeability, Juliana Chang notes that the “liquid tongue saliva [is a] site of dissolution, disintegration. making [sic] fluid so as to flow into absorption, incorporation” (Chang “Trans- form” 78). The images of “dissolution,” “disintegration,” “absorption,”
+
+## Excerpt 49
+- id: 388dabbff658012e874626b3
+- qdrant_id: 62731b2e-d693-52dd-91e2-f97ea8287e89
+- source: Cahiers_du_Cin_ma_-_Septembre__2024.pdf
+- chunk_index: 402
+- importance: 0.7390
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+dividu et du groupe, de l’un et du multiple, du modèle et du singulier, se reformule brutalement dans les termes du sujet et de l’espèce. Si orangs-outangs, gorilles, ouistitis et chimpanzés sont désignés par un prénom, les expériences qu’ils subissent ne servent qu’à établir des statistiques. Les tentatives de com- munication – apprendre à demander du jus de fruit en pressant des boutons – cèdent la place à des investigations plus opaques sur l’agressivité et la sexualité. Comédie et horreur se mêlent, quand une assemblée de savants envisage une « électro-éjacula- tion » ain d’obtenir du sperme frais. Car l’observation ne suit pas : il faut stimuler. Aller chercher l’information dans les nerfs, Titicut Follies (1967) © 1967 BRIDGEWATER FILMS CO. INC.
+
+## Excerpt 50
+- id: 92d1c197499cf5bfff6eaac1
+- qdrant_id: 9d2c83d6-0d48-5fa5-8956-c35a56304e47
+- source: The Enigma of Desire Sex, Longing, and Belonging in Psychoanalysis (Galit Atlas) (Z-Library).pdf
+- chunk_index: 468
+- importance: 0.7348
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+hardly exist, and they are described as physically unattractive and repulsive (see the use of abjection by Kristeva above). This can be a way of expressing hostility and anger toward men, but it also fits with the separated worlds men and women lived in, where there was literally and symbolically a separate room for erotic fantasy that wasn’t related to sexual relationships. Concerning to the traditional separation between men and women, the basic assumption is that the woman’s body is complete, whole, and therefore doesn’t necessarily need an external element, outside of its own body, for its pleasure. In this view, unlike phallic eroticism, which needs the feminine element for sexual pleasure, women do not need hetero-eroticism. Desire, for a woman, then, belongs to herself, to her own body. Irigaray (1974,
+
+## Excerpt 51
+- id: 2a9355d3a1abf793c31d5903
+- qdrant_id: 8c72d727-161f-5d26-bd56-e35bd0ffd7d3
+- source: Murat Aydemir - Images of Bliss_ Ejaculation, Masculinity, Meaning (2007, Univ Of Minnesota Press) - libgen.li.pdf
+- chunk_index: 46
+- importance: 0.7393
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+multaneous “lowering and liberating from all ontological prisons.”10 As the book’s introduction clariﬁes, “It is not so much a stable motif to which we can refer, a symbolizable theme, a given quality, as it is a term allowing one to operate a declassiﬁcation [déclasser], in the double sense of lowering and of taxonomic disorder” (18). Bois and Krauss also consider one speciﬁc substance liable to the opera- tion of formlessness: saliva. The authors quote Michel Leiris, who observes that spittle “lowers the mouth—the visible sign of intelligence—to the level of the most shameful organs” (18). The material qualities of saliva that Leiris summarizes, its inconsistency, humidity, indeﬁnite contours, and impreci- sion of color, all challenge the mouth as the locus of sublimated speech. Here, Leiris’s speciﬁc terms, it would seem, are all as appropriate to semen as they are to spittle. Hence, sperm may be the male substance that brings
+
+## Excerpt 52
+- id: 607fcee14c27b07dd200610c
+- qdrant_id: 0aa4de6a-2b5d-5073-b4f5-f6a32f28c257
+- source: Thomas Walter Laqueur - Making Sex. Body and Gender from the Greeks to Freud-Harvard University Press (1990).pdf
+- chunk_index: 28
+- importance: 0.7618
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+and moral aspect. To the physician or the naturalist, the relation of woman to man is "a series of oppositions and contrasts." 15 In place of what, in certain situations, strikes the modern imagination as an almost perverse insistence on understanding sexual difference as a matter of de- gree, gradations of one basic male type, there arose a shrill call to articu- late sharp corporeal distinctions. Doctors claimed to be able to identify "the essential features that belong to her, that serve to distinguish her, that make her what she is": All parts of her body present the same differences: all express woman; the brow, the nose, the eyes, the mouth, the ears, the chin, the cheeks. If we shift our view to the inside, and with the help of the scalpel, lay bare the organs, the tissues, the fibers, we encounter everywhere ... the same differ- ence.16 Thus the old model, in which men …
+
+## Excerpt 53
+- id: fed776766e52689fa18306f8
+- qdrant_id: 8fbd8fd8-a158-5b53-8e63-3fefde49fbce
+- source: The Monstrous-feminine (Barbara Creed) (Z-Library).pdf
+- chunk_index: 11
+- importance: 0.7714
+- seed_hits: kathy-acker-body-writing-cut-up, media-archaeology-kittler-apparatus-inscription
+
+Festival; and the Brisbane Centre for Psychoanalytic Studies. Finally, the La Trobe University Publications Committee deserves a special acknowledgement for providing a grant towards publication of the illustrative material. I wish to thank the following individuals for their assistance with the illustrative material. Ken Berryman of the National Film and Sound Archive of Australia; Tessa Forbes of the British Film Institute’, Ted Gott of the Australian National Gallery, Beverly Partridge of Films Around the World Inc; and James Sabine of the Australian Film Institute. Illustrative material has been provided by the Kobal Collection; Design and Artists Copyright Society; Robert Le Tet of Entertainment Media; Michael Leunig of The Age, the National Film and Sound Archive of Australia; and Robert Tappert of Renaissance Pictures. Part I FACES OF THE MONSTROUS- FEMININE: ABJECTIO…
+
+## Excerpt 54
+- id: af060c786cb6acfb26dce99a
+- qdrant_id: 31a92767-9fec-57a5-ad14-d24f3465bfcf
+- source: Hock, Roger R - Human sexuality (2013_2014, Pearson Education Limited) - libgen.li.pdf
+- chunk_index: 377
+- importance: 0.7264
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Self-medication, 548 Self-reflection, 16 Self-report data, 575 Seminal fluid, 9, 61, 97, 515 Sensation, 5, 62, 70, 95, 99-100, 106, 109, 162, 177, 284, 287, 306, 331-332 senses, 109 temperature, 11 touch, 70, 95, 100, 106, 177 Sensations, 38, 50, 57, 66, 82, 95, 100-101, 108-109, 130, 223, 225-226, 232, 237, 262-264, 267, 282-285 Senses, 109, 130, 255, 257, 535 Sensitivity, 83, 111, 116, 170, 177-178, 216, 225, 233, 276, 286, 307, 336, 473, 575 Sensuality, 10, 227, 262 Sentences, 120, 552 Separation, 1, 53, 166, 421, 509, 525 Septicemia, 328 Serotonin, 10, 83, 255, 278-279, 578, 584 Set, 9-10, 16, 18, 34, 38-39, 82, 91, 95, 125, 141-142, 144-145, 194, 222, 266-267, 269, 271, 287, 309, 315, 344, 355, 358, 360, 385, 404-405, 424, 435, 468, 500, 539, 541-542, 577 Set point, 579 Sex, 1-2, 14-16, 18-22, 24-28, 30-34, 36-37, 42, 44-45, 48, 50-51, 56, 58, 66, 75, 78, 90-92, 94-96, 98-101, 107-1…
+
+## Excerpt 55
+- id: 40f8e5ed3d175c6a50a26669
+- qdrant_id: 4d97883b-b0cc-5c7f-b3fe-641a070ed94f
+- source: Catherine Johns - Sex or Symbol _ Erotic Images of Greece and Rome (1982, British Museum) - libgen.li-1.pdf
+- chunk_index: 189
+- importance: 0.7388
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+this subject, we must turn to the matter of the representation of the female genitals, which at first sight seems to be conspicuously lacking in both Creek and Roman contexts. The point has already been made that the female genitals do not lend themselves so well to artistic depiction as the male, particularly in line rather than in three-dimensional media. I am speaking here of the vulva itself, rather than the pubes, or mons veneris, which is too featureless a form to be artisitically useful. The vulva is rarely seen: its situation makes it invisible in any normal position even to its owner, and visible to another only in a consciously arranged and specifically sexual pose. In contrast, the male genitals are visible in most positions in a state of undress. The full complexity of the female genitals lies, of course, in their totally invisible internal structure, but even when revealed, the vulva is artistically an inconvenient and ill-defined shape, lacking the clear and
+
+## Excerpt 56
+- id: ded46c54d5a1292b4d1a78d2
+- qdrant_id: 7de5017a-e447-5f9b-9361-4dd2da12450f
+- source: Ramsay MacMullen - Love Relations (2018, Yale University Press) [10.12987_9780300159479] - libgen.li.pdf
+- chunk_index: 156
+- importance: 0.7298
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+diffusion, 145, 177-79; gender-role, 4, 7-10, 12, 95 Inhibition: sexual, 27, 28, 56, 62, 64-65, 75, 81, 93, 135-36, 152-53, 179; of vaginal genitality, 51, 53~54, 78, 84 Instinct, 15-17, 19, 40 Izard, C, 18 facklin, C., 7, 9 Jacobson, E., 53, 99, 129, 177 Johnson, V., i Jones, E., 50 Josselyn, I. M., 35 Kammel, W. L., 131 Karme, L., 114 Kernberg, O. F., n, 18, 24, 66, 69, 75, 87, 128, 130, 133, 142, 145, 159, 163, 164, 170, 177 Kernberg, P., 10, 28, 30, 74, 165 Kimmins, A., 184 Kinsey, A. C., 131 Klein, M., 35, 50, 99, 157 Kolodny, R., i Krause, R., 15 Lampl-de Groot, J., 69 Laplanche, J., 17, 145 Last Tango in Paris, 168 Latency, 10, 58. See also sub Superego Lester, E., 114 Liberman, D., 23, 92 Lichtenstein, H., 7, 36 Loneliness, 43-44, 91 Lorenz, K., 17 Love: capacity for, 57-60, 62-63, 70, 74-75, 97, U4-45, 165, 175-77; mature sexual, 16, 22, 25, 29, 32-47, 1 80-8 1; pathology of, 94, 178; romantic, 25, 38, 42, 45, 47, 82, 98, 114, 165, 1 82; transference, 34, 113-
+
+## Excerpt 57
+- id: 433edebe4a65ecf627991ef9
+- qdrant_id: cdda24d1-3db9-5968-8132-a92df838d960
+- source: Deborah Cameron, Don Kulick - Language and Sexuality-Cambridge University Press (2003).pdf
+- chunk_index: 330
+- importance: 0.7374
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+This study was composed of case studies of homosexuals, who were ex- amined for everything from testicle size to sphincter tightness. The two volumes reproduce X-rays of lesbian pelvic areas and graphic sketches de- tailing the precise morphology of homosexual genitalia. The section on language listed 329 items, most of which were shared by other groups, such as ‘Negroes’, hoboes and prostitutes. However, 139 of the 329 words were marked by the author – a folklorist and student of literary erotica, Gershon Legman – as being exclusive to ‘homosexuals and their associates’ (1941: 1154). Legman’s list is characteristic of the ﬁrst stage of research on gay and lesbianlanguage.JustascasestudieslikethoseinKrafft-Ebing’sPsychopathia Sexualis (1901) or Magnus Hirschfeld’s Sexual Anomalies and Perversions (1936) listed perverted acts, glossaries like Legman’s listed perverted words. It is not imm…
+
+## Excerpt 58
+- id: 5de5a2ec060a70579076bc29
+- qdrant_id: 0d90faa3-58fd-5ed6-b86f-3d6f6b69058e
+- source: Robert Stoller - Observing the Erotic Imagination-Yale University Press (2022).pdf
+- chunk_index: 127
+- importance: 0.7295
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+104 and 11, 105-07, 117-34 Libido, 175, 207 Maciver, J., 216 Male erotics, 14, 20n; exhibitionism, 18-20, 29-30, 34; vs. female erot- ics, 34-40, 135, 150-52, 154-55; transvestism, 20-30, 150-52, 154- 55; voyeurism, 20. See also Male homosexuality Male homosexuality, 104-34; and childhood experience, 99, 101-02, 107, 108-34; and fantasy, 104 and 11, 105, 106, 118, I 19, 122; and first sexual experience, 117-19, 120, 125, 126, 133; learning thl'orists on, 104 and II, 105-07, 117-34; theoril's of origins of. 104-34 Marind-anim tribe, male homosexu- ality in, 133 Masculinity, 70; dl'finitions of. 3h; in Sambia tribe (New Guinea), 108- 17, 123, 126-33; in trans\"t'stk women, 138, 140, 142, 147-4H, 152-54 Masochism, 5, 31. 40, 121. 171. 17h. 19911 Masturbation, 87, 100, IIH, I 19, 121- 22, 140, 160, 176; and guilt, 911 Mother: and daughtl'r's l'rotic vomit- ing, 158; an…
+
+## Excerpt 59
+- id: c6d6b591f6481085e6f55341
+- qdrant_id: 99c3706c-4dad-580d-8f76-2ed730a041ff
+- source: Lynn Turner - Poetics of Deconstruction_ On the Threshold of Differences (2021, Bloomsbury Academic) [10.5040_9781350128620] - libgen.li (2).pdf
+- chunk_index: 147
+- importance: 0.7171
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+sexual difference 2, 9, 11, 32, 47, 48, 63–5, 67, 69, 90, 119, 123, 184 n.100 sexual differences 2, 9, 11, 65, 69, 119, 124 shame 2, 37, 45, 50, 94, 106–8, 110, 112–13, 127 Shell, Marc 102–4, 106 Shukin, Nicole 148–9, 151, 154–5, 206 n.69
+
+## Excerpt 60
+- id: d5a8a9be1ff9385040db6118
+- qdrant_id: 484a6d4e-1f11-5fda-a342-5ddd6c49b02e
+- source: (Film Philosophy at the Margins) McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics-Ashgate Pub Co (2014).pdf
+- chunk_index: 425
+- importance: 0.7249
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+the subject with a mixture of denial and horror, advertisements for sanitary products typically use blue liquid in an attempt to sanitize the reality of blood, weary old jokes circulate about not trusting anything that bleeds for seven days and does not die. Menstrual blood is constructed either as something that requires a hygienic makeover or as something unnatural and obscene, a further indication of the horrors of sexual difference and the threatening ‘secrets’ of the female body. Irigaray has noted that although this specific type of bodily fluid was given value in the prehistoric era, this value was denied with the establishment of patriarchal order (1985b: 125–126). She comments elsewhere that while ‘blood is fine for the libertine’, menstrual blood has remained taboo (1985a: 200). This begins to hint at the multiple cultural meanings associated with this fluid, varying…
+
+## Excerpt 61
+- id: 49286a0de957741f8471bf66
+- qdrant_id: ff8dc5c2-c49b-5e1e-bdd3-df7bf237d556
+- source: Peter Hadreas - A Phenomenology of Love and Hate (Ashgate New Critical Thinking in Philosophy) (2007) - libgen.li.pdf
+- chunk_index: 204
+- importance: 0.7266
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Sexual Love 43 A species of baboon, Theropithecus gelada, for example, has conspicuous red or dark pink markings on its chest. These markings are conspicuous enough that the geladas are popularly known as the ‘bleeding heart baboons’. In fact, the patches match the pattern of female display for sexual readiness: a brightly distinguished pattern around the clitoris taking the shape of two pink triangles set vertically point to point. But males and females also have the same pattern on their chests. And remarkably, the females’ chest pattern changes in color and size when the female comes into estrus.13 Sexual Parts and Pieces as Objects Organized by Touch We can better understand the signiﬁcance of this curious reiteration of sexual parts if we consider the modulation that occurs in elevating touch and kinesthesia to a prominent role in perception. Merleau-Ponty was keenly aware …
+
+## Excerpt 62
+- id: 1961109653794d016caa919b
+- qdrant_id: 17156117-cf37-5e38-8361-923e6b65ee81
+- source: (Manchester Studies in Religion, Culture and Gender) Morny Joy - Divine love_ Luce Irigaray, Women, Gender, and Religion-Manchester University Press (2013).pdf
+- chunk_index: 76
+- importance: 0.7269
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+fullness, the dark night that is illuminative. Her jouissance is at once perverse and exquisite, an exaltation of the limitless possibilities of an otherness that defies/ celebrates its escape from conscious calculations and metaphysical impositions. As Irigaray continues to eulogise women’s eccentricity, she develops her infamous motif of the ‘two lips’ of women’s sexuality as emblematic of this situation. These lips are sexual in their connotation – intimating a space of communication with God, a God who shares a similar field of extraneous forces, beyond the pale of language. [God] in his absolute fluidity; plasticity to all metamorphoses; simultaneous ubiquity, and invisibility, epitomises that sex which is nothing-at-all. He has not ceased to heed women, though silently, in their most secret, covered places. God knows women so well that he
+
+## Excerpt 63
+- id: 0c264a689dc1bc185bb62bbb
+- qdrant_id: 531faf6b-205b-5d5d-ac19-235bbcca9b79
+- source: [Women and Psychology] Annie Potts - The Science_Fiction of Sex_ Feminist Deconstruction and the Vocabularies of Heterosex (2003, Routledge) - libgen.li.pdf
+- chunk_index: 186
+- importance: 0.7276
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Hollway, Wendy 33, 43, 57 Homosexuality 36, 47, 138, 193, 202±3, heterosexual derision of 129±30, 133, 145, 202±3, 215, 249 Homosociality 120±1, 125, 213 Horizontal erotics (the erotics of surfaces) 233±57 Human sexual response cycle 7, 28±30, 37, 77, 81±4, 93, 99, 100±1, 139, 146, 148, 247±8, 259, 265 Humanist therapeutic discourse 51±2, 67±8, 73, 76±9, 84, 88, 99, 146, 249 Impotence 134±51, and women 143±4 Inside/outside dichotomy 2, 102±5, and male sexuality 105±15, 148±55, 194±203 and female sexuality 152±83, 187±90, 191±9, 204±9, 224±31, deconstruction of 231±57, 265 Intensities 234±40, 248, 256 Interplay (desire as deconstructive) 99±100 Interspace 265 Interview mode 10±12 Intrapenile injections 146±8 Intrauterine device (IUD) 215 Irigaray, Luce 3, 5, 106, 121, 135, 145, 152±3, 161±7, 179, 183, 188±90, 204, 208±9, 211, 218, 223±8, 231, 252±4, 263±4 Jouissance 100 Kinsey, Alfred 25±…
+
+## Excerpt 64
+- id: 2efe00875354e557bed37904
+- qdrant_id: 7fb9a772-dfe5-591c-beb1-41ee86b4bacc
+- source: Elizabeth Grosz - Becoming Undone_ Darwinian Reflections on Life, Politics, and Art-Duke University Press (2011).pdf
+- chunk_index: 123
+- importance: 0.7317
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+110 disturbing differences tion of one sex into the appearance of another. Sexual di√erence is still in play even to the extent that one identiﬁes with or actively seeks the sexual organs and apparatus of the ‘‘opposite’’ sex: at most one can change the appearance and social meaning of the body, but the sexually speciﬁc body that is altered remains a sexually speciﬁc, if altered, body. Sexual di√erence has no one location, no one organ or condition. This is why surgical or hormonal alterations do not actually give one the body of the other sex, instead providing an alteration of only some of the key social markers of gender. Irigaray directly addresses this issue: Between man and woman, there really is otherness: biological, mor- phological, relational. To be able to have a child constitutes a di√erence, but also being born a girl or a boy of a woman, who is of the same or the other gend…
+
+## Excerpt 65
+- id: 523f8091d11a0158555eede5
+- qdrant_id: 7032e0ce-3cc8-5d37-b972-a5540b0dfd5f
+- source: Karma Lochrie - Heterosyncrasies_ Female Sexuality When Normal Wasn't-Univ Of Minnesota Press (2005).pdf
+- chunk_index: 129
+- importance: 0.7272
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+and noght vnto þe botume for drede of bledynge. When that protuberance of ﬂesh that is called the kikir grows sometimes to such a quantity in the private part [vulva] that it causes discomfort and disgust, the cure is truly (after Albucasis) that it be cut with a binding or with a razor and not to the bottom to avoid bleeding.43 Guy of Chauliac says nothing about the sexual proclivities of the woman suffering from an enlarged kikir, and this is odd. He is more than familiar with the writings of Avicenna and William of Saliceto, both of whom he extols in his history of surgery, yet he is silent on the sexual side effects of the hypertrophied kikir.44 Why he omitted this detail is impossible to say, whether because it was common medical knowledge or because it was no longer accepted. The ﬁrst possibility is very likely, as Guy follows Avicenna in everything else, including his surgical so…
+
+## Excerpt 66
+- id: 1c9dbef826e910e8d5af221a
+- qdrant_id: b8319429-48df-5dd8-9765-697f985a5a55
+- source: Otto Kernberg - Love Relations_ Normality And Pathology (1998, Yale University Press) - libgen.li.pdf
+- chunk_index: 99
+- importance: 0.7223
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Sexual Excitement and Erotic Desire 23 the relations between body protrusions and openings—penis, nipple, tongue, finger, feces on the penetrating or invasive site, and vagina, mouth, anus on the receptive or encompassing site. The erotic gratifica- tion promised by the rhythmic stimulation of these body parts decreases or vanishes when the sexual act does not serve the broader unconscious function of fusion with an object. "Container" and "contained" are not to be confused with masculine and feminine, active and passive; erotic desire includes fantasies of actively incorporating and passively being pen- etrated, together with actively penetrating and passively being incorpo- rated. I have suggested that psychological bisexuality in the sense of identification with both self and object in the specific sexual interaction is universal for men and women. One might say that bisexuality is first of all a function of identification with both participants in a sexual rela-
+
+## Excerpt 67
+- id: 18dbfb59b9aa79923f9c411d
+- qdrant_id: 6ba05b6f-7790-593d-a31e-8c7e106e2184
+- source: Carolee Schneemann - Imaging Her Erotics_ Essays, Interviews, Projects (2001, The MIT Press) - libgen.li.pdf
+- chunk_index: 124
+- importance: 0.7559
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Up'l'o And Including Her Limlts (C.S.), 162,163-165, 229,265 Vagirra,506,318. See also Female genitals Valie. See Export, Valie Varrlas, A.gnds, l,'Opera MoulJe, 155 Varlse, Edgard,21, 115 Vechten, Carl Van, 505 Vector vocabulary grids, 2) ), 251 Veliizquez, 47, 48, 167 l'e nus l/ectors (C.S.), 5, 25, 24O, 25 0, 251, 2 t 2, 255. See also l,-resh Bloorl-A l)ream Morphology exhibitions of. 255 Vesrra, Victoria (photos l'ty), 272 Vesper (C.S.'s cat), 509 I'espers Pool (C.S.), -rr8, 309, )10-31),314-315 346
+
+## Excerpt 68
+- id: 8a11a6bf1332bd71f14c7328
+- qdrant_id: 50c7ea95-6109-5136-964b-e8afa02317b5
+- source: ((A Cultural Politics book)) Jean-Luc Nancy, Irving Goh - The Deconstruction of Sex-Duke University Press (2021).pdf
+- chunk_index: 289
+- importance: 0.7497
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+15 Lispector, Água Viva, 3. 16 Lispector, Água Viva, 4. 17 Lispector, Água Viva, 34, 68. 18 Lispector, Água Viva, 60, 75. 19 Lispector, Água Viva, 65, 76, 41, 59. 20 Lispector, Água Viva, 57. 21 Lispector, Água Viva, 4. 22 Lispector, Água Viva, 34, 4. 23 See the 2002 documentary film Derrida, directed by Kirby Dick and Amy Ziering. 24 Lispector, Água Viva, 29. 25 Miller, Tropic of Capricorn, 182 – 83. afterword. sex and the killjoy 1 Deleuze and Guattari, Anti-­Oedipus, 88. 2 Blake, Jerusalem; Irigaray, Ethics of Sexual Difference. 3 Gallop, Feminist Accused of Sexual Harassment. 4 Bersani, “Is the Rectum a Grave?,” 200.
+
+## Excerpt 69
+- id: fbff81c6413dfcc72c3547a7
+- qdrant_id: 59523d0a-920a-52a8-9f1c-0d97d2fc06bf
+- source: Louis William Meldman - Mystical Sex_ Love, Ecstasy And The Mystical Experience (1997, Element Books) - libgen.li.pdf
+- chunk_index: 44
+- importance: 0.7102
+- seed_hits: paul-b-preciado-testo-junkie-pharmacopornographic-regime
+
+Higher Understanding of Sex medicine’s superstrange, and above all perversely antispiritual, attitude toward sex. An attitude designed to bring sexual love under the control of medicine at all costs, in this case by “treating” it with drugs. Perhaps the weirdest medicated goof of all began in the early 1960s when the powerful antipsychotic drug, thioridizine, notably prescribed in the treatment of schizophrenia under the brand names Thorazine and Mellaril, was recommended in the medical literature and prescribed by doctors in the treatment of rapid ejaculation. The reason was that one of its gross side effects is “dry” and presumably retrograde ejaculation, wherein the man’s semen flows into his bladder rather than being nor¬ mally, visibly ejaculated. It was not until 1976 that it was shown in a singularly honest study by Dr. J. Kotin and his colleagues, who actually trie…
+
+## Excerpt 70
+- id: 9f1aa612be3207a8a80b49a9
+- qdrant_id: 2f71b04b-1f65-5bac-a7c2-9cc50a5bf0a2
+- source: (Abnormativities_ Queer_Gender_Embodiment) Ela Przybylo - Asexual Erotics_ Intimate Readings of Compulsory Sexuality-The Ohio State University Press (2019).pdf
+- chunk_index: 62
+- importance: 0.7042
+- seed_hits: paul-b-preciado-testo-junkie-pharmacopornographic-regime
+
+partners having asymmetrical desires and expectations around sex.54 Nota- bly, there is a politics and money-generating factor at work in these diagno- ses, especially with the US Food and Drug Administration (FDA) approval of the drug Flibanserin/Addyi for the treatment of HSDD/FSIAD in 2015, which despite unimpressive clinical trials can now be prescribed to cisgender women as a Viagra equivalent for stimulating sexual desire. Health scientific and medical scientific research on asexuality has a check- ered relationship with asexuality, much as with other sexual orientations. With the “truth-based” quality often granted to scientific and medical knowledge,
+
+## Excerpt 71
+- id: 6c11d757ec36ea3182b95b84
+- qdrant_id: 3482a96a-54ca-54cd-b585-91f27b88f300
+- source: Thinking Through the Skin (Sara Ahmed, Jackie Stacey) (Z-Library).pdf
+- chunk_index: 9
+- importance: 0.7701
+- seed_hits: kathy-acker-body-writing-cut-up
+
+Contents List of plates vii Notes on contributors ix Series editors’ preface xiii Acknowledgements xiv Introduction: dermographies 1 SARA AHMED AND JACKIE STACEY PART I Skin surfaces 19 1 Cut in the body: from clitoridectomy to body art 21 RENATA SALECL 2 Mortiﬁcation 36 STEVEN CONNOR 3 Skin memories 52 JAY PROSSER 4 Skin-tight: celebrity, pregnancy and subjectivity 69 IMOGEN TYLER PART II Skin encounters 85 5 Eating skin 87 ELSPETH PROBYN
+
+## Excerpt 72
+- id: cf0ab9eaf21c7253e84400d6
+- qdrant_id: d071c321-fb58-5020-9cb6-7c79335d2019
+- source: Alphonso Lingis - Irrevocable_ A Philosophy of Mortality-University of Chicago Press (2018).pdf
+- chunk_index: 84
+- importance: 0.7469
+- seed_hits: kathy-acker-body-writing-cut-up
+
+body. My tongue will lick from the inside out.” She tells us these things in raucous slang and with the wanton gestures of a cabaret performer. She is making the turns in her story goofy. She takes off the hospital gown; under it she is wearing another hospital gown, decorated with ribbons and red net petticoats, French cancan knickers. She undoes the top ribbons and slowly lowers the gown to reveal her flat chest with no nipples. “I got the first of my scars and lost my hair. I lost my left breast. The right one went as well. My ovaries are next on the list. This is how I forgot how to be a woman.” She does a provocative dance in the red net petticoats, wig, cosmetics with Patrick Swayze portraying Johnny Castle in Dirty Dancing, possessed with the force to hold him in life.2 She leaves, then returns, now no longer in costume, sits with us to lis- ten to us. To a question, she…
+
+## Excerpt 73
+- id: 8220c385686c682ffbacc165
+- qdrant_id: c26870d7-78a8-55a8-8b49-5d6395322a0b
+- source: (European Perspectives_ A Series in Social Thought and Cultural Criticism) Catherine Clément, Julia Kristeva, Clé, Catherine ment, Jane Marie Todd - The Feminine and the Sacred-Columbia University Pre.pdf
+- chunk_index: 219
+- importance: 0.7418
+- seed_hits: luce-irigaray-this-sex-which-is-not-one-speculum
+
+als, without distinction of sex. Let me enlighten you with an abridged version of that shady affair: even though she is homo, since she is not vir, ftmina has no soul. Which would mean that dIe soul is virile, whereas we know, dlanks to Freud, Tung, and a few odlers, who came well after the council of Macon, I'll grant you that, that there are (at least) two souls, hence a psychic bisexuality. I will refrain from criticiz-
+
+## Excerpt 74
+- id: d9c42086d5c42eb7af3ff384
+- qdrant_id: 40c273bb-c730-5d53-ba32-24260bf5dda1
+- source: Perversion Psychoanalytic PerspectivesPerspectives on Psychoanalysis (Dany Nobus  Lisa Downing (editors)) (Z-Library).pdf
+- chunk_index: 165
+- importance: 0.7372
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+Pattatucci, A., 329, 341 Patterson, C., 329, 341 penis, 13, 24, 33, 62–64, 66–67, 71–72, 95, 101–102, 112–113, 116, 118, 132, 178, 180, 218, 291, 294, 304, 336–337, 339 Penley, C., 315, 320 Perrier, F., 246 Perry, B. D., 145–146 Perry, K., 237–238 perverse femininity, 71–74 Pfäfﬂin, F., 333, 341 phallus, 65, 71, 73, 79, 93–94, 110, 112–120, 122–124, 182, 218–222, 228–229, 237, 243, 246, 249, 290, 292, 302–308, 337 Picasso, P., 166, 173–177, 179 Pine, F., 113, 125 Pinkerton, S. D., 308, 316 piss see: urine Plaza, M., 244, 260 Pollard, R. A., 145–146 Pontalis, J. B., 130, 145, 213, 215, 300, 302, 311–312, 320 primitivism, 173 Prosser, J., 338, 342 queer theory, 154, 159, 261–264, 266–272, 274, 276, 279, 281, 285–290, 294, 301, 307, 309–310 Rank, O., 141–142, 146 Réage, P., 68, 78 Reich, W., 128–131, 133–142, 144–146, 285 Rey-Flaud, H., 12, 17 Rice, G., 330, 342 Rich, A., 270, 321 Rich, B. …
+
+## Excerpt 75
+- id: 6b966e27577ee8dd3dec5a0e
+- qdrant_id: 94ac0103-55bd-59f8-be34-758cc4dee69f
+- source: (SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf
+- chunk_index: 58
+- importance: 0.7735
+- seed_hits: abjection-kristeva-powers-of-horror
+
+CHAPTER 1 Abjection For Julia Kristeva, the intolerable, or abject, body leaks wastes and fluids, in violation of the desire and hope for the “clean and proper” body, thus making the boundaries and limitations of our selfhood ambiguous, and indicating our physical wasting and ultimate death. In her view, human and animal wastes such as feces, urine, vomit, tears, and saliva are repulsive because they test the notion of the self/other split upon which subjectivity depends. The skin of milk, for instance, puts one in mind of the thin skin membrane that defines the borders and the limits of the physical body; because human skin provides only a relatively flimsy and easily assaulted partition between the body’s inside and the world outside, this milky reminder disturbs our distinctions between outside and inside, I and other, moving us to retch, and want to vomit in an acute attempt to expel the scum from our being (Kristeva, Powers of Horror
+
+## Excerpt 76
+- id: 499ea930992ca055502dd79a
+- qdrant_id: 86eed212-707d-583b-82b1-e7cc908c730a
+- source: Paul Johnson_ Derek Dalton - Policing Sex (2012, Routledge) - libgen.li.pdf
+- chunk_index: 376
+- importance: 0.7350
+- seed_hits: irigaray-two-lips-sexual-difference-fluids
+
+that the sequences seen thus far were urination. Because the BBFC consequently cut all similar examples of liquid being expelled from female genitals during sexual activity, or in combination with other proscribed activities, it was supposed that the BBFC denied the existence of, and discriminated against, female ejaculation. In 2009 a sex work called Women Love Porn was submitted to the BBFC. It was, in almost all respects, a conventional and straightforward ‘R18’ submission, except for one sequence in which ﬂuid is expelled from a woman’s genitals immediately fol- lowing oral sex, followed by a closer shot of more liquid being expelled from the same woman’s genitals. In line with the BBFC’s understanding of the interpretation of the OPA, a cut was written to remove the sequence in question. The distributor of Women Love Porn challenged the cut, arguing the sequence portrayed female ejaculation rather than urination, and should not therefore be considered obscene. The distributor
+
+## Excerpt 77
+- id: 43a703aa4a01a1023b331a43
+- qdrant_id: 3b8bdba3-9beb-50d8-9313-6525df311eee
+- source: [Nomikoi_ Critical Legal Thinkers] Kyle McGee - Bruno Latour_ The Normativity of Networks (2013, Routledge) - libgen.li.pdf
+- chunk_index: 225
+- importance: 0.7298
+- seed_hits: agamben-profanations-potentiality
+
+,1 , 1·t of lOII\lrainh that gmnn tl'< hllm< i<'ll<'l' ,tncl othl't mod<·rn ,uh t•fltun•s. Tht r.tl!•gorit·., of :'\,\tun· .111d Socit•t} '>tand .11 ib mot tis oril{ill.tl onwlot{ical donl<tin., in "hkh <·xpl.lllcttion lll.t} legitim.ttd} gmund itM·If: l'lw nwclnn C:un~tinuiou , \\hie h. lil..t· tlH· Enf.{lish on<', i~ tlllwrittcll. do·afll} , 1·p.trau·., aturc from Sot it't} and f(>rbicb tht·it intermingling; and it like\\ i.-.1• , ,1hm., on· t\\o di ~ tiut t ~~·t., of prartin·-,, wh.n Lttoul t all-, ··purification'' and "nwdi.llioll," whirh 11otlting may bridgl'. 111 lu broad ~trok t·~. nwdiaticm i~ th<' ron,trurti' t' work of' practice. a producti\l: proces~ that docs uot discriminaw ,111ong thc material~ th.u may t'llllT into its t'Xjl<'t imt·ut,, it~ projn·t ~. it' tri al~. .uul "hich pnTede~ tlw rawgori1.ation of atutT and Socil'ty. That catcgorization i~ (('tllll'll a purification, which rl'fc:r~ bmadly lO the \\Of'k of distiiJatiun, rft-aning
+
+## Excerpt 78
+- id: f18e10738f2d0253af930db7
+- qdrant_id: 07ef80e7-bfc2-5e44-9ebf-894e76beed68
+- source: Bob Flanagan - The Pain Journal (Native Agents)-Semiotext(e) (2000).pdf
+- chunk_index: 214
+- importance: 0.6827
+- seed_hits: chris-kraus-i-love-dick-autotheory
+
+shit out. That’s as much fun as drowning. 7/12/95 Again almost 3 am. Again setting up still camera for orgasm shot because we didn’t have the right stuff last night. Looks like it’s all worked out now. So what about you, Mr. Penis? I’m so irritated all the time from the Prednisone it’s hard to think about sex… well, easy to think about it, but it’s not so desirable. And the headaches of course don’t help. And the pressure of try- ing to get something accomplished, knowing full well that time is of the essence. General nervousness, which helps me breathe, but makes me tense. The good lord giveth and then he fucks you in the ass. Hey! It’s Per Mason time. I know this is shitty writ- ing. What a legacy. Sometime it’s only reporting. The extent of my discipline. A few lousy lines. What we laughingly call a para- graph. What we optimistically call art. 7/13/95 Sleepy on the couch all day. Sleepy while getting pound- ed on at Debbie’s. Falling asleep over my Cajun Blackened Steak
+
+## Excerpt 79
+- id: 26454645b759b4360b9067ba
+- qdrant_id: 1df37d17-7abd-5e1c-af7a-61027333b5e4
+- source: Francoeur, Robert T._Noonan, Raymond J - The Continuum Complete International Encyclopedia of Sexuality (2010_2003, Oxford University Press_Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 291
+- importance: 0.7083
+- seed_hits: paul-b-preciado-testo-junkie-pharmacopornographic-regime
+
+im me di ate ly gives the pa tient the ap pro pri ate medication during the first office visit and at no cost. It may sound non sensical to pro pose this ap proach, which is widely used in the poor est coun tries of the world, for use in a coun try like Argentina that has 2.99 doc tors per 1,000 pop ulation com pared with only 0.03 in Tanzania and 2.38 in the United States, 5 hos pital beds per 1,000 pop ula- tion com pared again with only 0.9 in Tanzania and 5.3 in United States, but we should re alize that there are pov erty spots where medical ser vices are well be low the av erage for the coun try, and that the in habitants of these pov erty spots contribute greatly to the in cidence and fast-growing rate of STDs.51 In pov erty-stricken ar eas, the dilemma for the phy- sician is whether to act quickly on the ba sis of what he or she sees without wait ing for ac curate tests, or to w…
+
+## Excerpt 80
+- id: 76cc9ccbb7b795130b17382e
+- qdrant_id: 0796c3cc-88ed-50ef-b047-f3dbe789d11c
+- source: James. E. Mitchell - Bulimia Nervosa (1986, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 468
+- importance: 0.7117
+- seed_hits: paul-b-preciado-testo-junkie-pharmacopornographic-regime
+
+REFERENCES 165 392. Sabine EJ, Yonace A, Farrington AJ, et al: Bulimia nervosa: A placebo-controlled, double- blind therapeutic trial of mianserin. Br J Clin Pharmacol 1983; 15:1958-2028. 393. Saltzman MB: Phenylpropanolamine. Am Fam Physician 1983; 27:23-26. 394. Sato A, Hino N: A case suspected of pseudo-Bartter syndrome. Iryo 1978; 32:1121-1125 395. Saul SH, Dekker A, Watson CG: Acute gastric dilatation with infarction and perforation. Gut 1981; 22:978-983 396. Schneider JA, Agras WS: Bulimia in males: A matched comparison with females. Int J Eat- ing Disord 1987; 235-242 397. Schneider JA, O'Leary A, Agras WS: The role of perceived self-efficacy in recovery from bulimia: A preliminary examination. Behav Res Ther, 1987; 25:429-432 398. Schotte DE, Stunkard AJ: Bulimia vs bulimic behaviors on a college campus. JAMA 1987; 258:1213-1215 399. Schumaker JF, Groth-Marnat G, Small L, et al:…

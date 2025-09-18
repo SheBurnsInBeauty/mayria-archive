@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: bb74be9e61c5bd835c57d9f9
+- qdrant_id: ea5c7ccc-45c9-52b4-8052-84a9d61af054
+- source: [Perspectives in Continental Philosophy] William S. Allen - Aesthetics of Negativity_ Blanchot, Adorno, and Autonomy (2016, Fordham University Press) - libgen.li.pdf
+- chunk_index: 8
+- importance: 0.8205
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+(Cambridge, Mass.: MIT Press, 1993). ED Blanchot, L’écriture du désastre (Paris: Gallimard, 1980); tr. Ann Smock as Th e Writing of the Disaster (Lincoln: University of Nebraska Press, 1986). EI Blanchot, L’entretien infi ni (Paris: Gallimard, 1969); tr. Susan Hanson as Th e Infi nite Conversation (Minneapolis: University of Minnesota Press, 1993). EL Blanchot, L’espace littéraire (Paris: Gallimard, 1955); tr. Ann Smock as Th e Space of Literature (Lincoln: University of Nebraska Press, 1982). Exp Georges Bataille, L’expérience intérieure (Paris: Gallimard, 1973); tr. Leslie Anne Boldt as Inner Experience (Albany: SUNY Press, 1988). FP Blanchot, Faux pas (Paris: Gallimard, 1943); tr. Charlotte Mandell as Faux Pas (Stanford: Stanford University Press, 2001). GS Benjamin, Gesammelte Schriften, ed. Rolf Tiedemann and Hermann Schweppenhäuser (Frankfurt am Main: Suhrkamp, 19…
+
+## Excerpt 2
+- id: cbfe67799b8582a3217c1f60
+- qdrant_id: d4a5884c-9728-55b9-bae6-e071ac32d857
+- source: [Continuum Literary Studies] Jonathan Boulter - Melancholy and the Archive_ Trauma, History and Memory in the Contemporary Novel (2011, Continuum) - libgen.li.pdf
+- chunk_index: 34
+- importance: 0.8233
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+trauma. Moreover, Blanchot’s text compels us to begin thinking about the writing of the disaster—disaster’s writing—in relation to the specifi c workings of textuality in these novels. We need to keep in mind that these texts do not merely thematize loss: often, that loss is fi gured precisely as part of the impe- tus to writing itself. Auster’s characters are all writers, for instance, as are Saramago’s Raimundo Silva (The History of the Siege of Lisbon) and Ricardo Reis (The Year of the Death of Ricardo Reis); Mitchell’s Cloud Atlas directly thematizes the relation of writing to the disaster (in fact, the central narrative, “Sloosha’s Crossin’ an’ Ev’rythin’ After,” explicitly explores the relation between the disaster and its archiving in memory and story); Murakami’s Underground, fi nally, is an overt attempt to represent the aftereffects of disaster in the archi- val form of the personal testimony. What I am interested in exploring here,
+
+## Excerpt 3
+- id: 4c462ef33ab5e0aa125b8e3e
+- qdrant_id: d90f3186-8439-5d6f-ba69-d4e70b0db70e
+- source: Melancholy and the Archive Trauma, History and Memory in the Contemporary Novel (Continuum Literary Studies) (Jonathan Boulter) (Z-Library).pdf
+- chunk_index: 35
+- importance: 0.8151
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+fi nally, is an overt attempt to represent the aftereffects of disaster in the archi- val form of the personal testimony. What I am interested in exploring here, with Blanchot, is his sense that the disaster produces some kind of shift— covert or otherwise—in the subject’s sense of his or her interiority: the disas- ter, in Blanchot’s sense, may in fact, rupture the subject’s ability to stand in ethical relation to history, to the past. This is to say that the disaster fractures the archival possibility for the subject: he cannot any longer stand to history as witness or memorial, cannot, that is, become the workable archive, because
+
+## Excerpt 4
+- id: eb99e7dfb31d68daa4a5abd4
+- qdrant_id: 156a4d64-d584-5eaa-828f-a073b42ef019
+- source: Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation (2022, Fordham University Press) [10.1515_9780823292189] - libgen.li.pdf
+- chunk_index: 88
+- importance: 0.8121
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+disaster, as Blanchot presents it, recedes and skirts, looming at the horizon of experience and understanding, suggesting itself only in the disaster of the work, the disintegrations and openings of the space of writing; perhaps it is because the disaster splinters reason and mocks mastery (‘‘The disaster alone holds mastery at a distance’’),28 as an intimation of the ‘‘ultimate experience,’’ the disaster insists on being comforted, or on the idea that the spectacle of disaster should somehow comfort us. What we want from the catastrophe is always a mixed affair: We want more and no more catastrophe. Perhaps we want for the catastrophe, inso- far as it wreaks havoc with the norm, to have changed everything, a messi- anic turn. Perhaps we want from the catastrophe, insofar as it wreaks havoc with the norm, to deliver only more of the same, not to have changed anything at all. Catastrophe,…
+
+## Excerpt 5
+- id: 3339326c6f65f16afc60ca77
+- qdrant_id: a8c2da7c-3e30-5c22-bdd4-a675d7402b2a
+- source: [Lit Z] Philippe Lacoue-Labarthe - Ending and Unending Agony_ On Maurice Blanchot (2015, Fordham University Press) - libgen.li.pdf
+- chunk_index: 77
+- importance: 0.8164
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Drawn from a conference paper that remains unspecified, this long quo- tation indicates that it was Blanchot’s adherence to a mystical tradition based on effusion that stood in the way. Through this adherence, Blanchot ended up repeating the program of a certain kind of literature. However, concurrent with this disquiet, one cannot fail to mention another of Lacoue- Labarthe’s reservations, this time about the fragmentary mechanism of The Writing of the Disaster, which, in its own way, also repeated a literary program—that of romanticism. This reservation is inscribed in what we identified earlier as the first thread of the dialogue that unfolds from The Literary Absolute onward. If The Literary Absolute traced the origin of the modern project of litera- ture to the romantic project of the novel and the fragment, it also, conversely, marked a radical closure of the possibility of these two forms. As with all clo-
+
+## Excerpt 6
+- id: dc4f3096f5a2cadf5665e4db
+- qdrant_id: 4a85a3b8-986c-5496-9d49-009abf2f146f
+- source: [Lit Z] Philippe Lacoue-Labarthe - Ending and Unending Agony_ On Maurice Blanchot (2015, Fordham University Press) - libgen.li.pdf
+- chunk_index: 500
+- importance: 0.8014
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+10. See Blanchot, The Writing of the Disaster, 72; Blanchot, L’écriture du désastre, 117. 11. See Mathieu Bénézet, L’histoire de la peinture en trois volumes (Paris: Gallimard, 1968). 12. See Mathieu Bénézet, Dits et récits du mortel (Paris: Flammarion, 1977).
+
+## Excerpt 7
+- id: ef24275111a39d9246e486e2
+- qdrant_id: 805db2bd-ea23-5313-be5d-111fa7e15fec
+- source: Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation (2022, Fordham University Press) [10.1515_9780823292189] - libgen.li.pdf
+- chunk_index: 462
+- importance: 0.7917
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+of the bystanders, the noncombatants watching safely at a distance. 22. Ibid. 23. Ibid., 278–79. 24. Ibid., 281. 25. Maurice Blanchot, ‘‘The Apocalypse Is Disappointing,’’ in Friendship, trans. Elizabeth Rottenberg (Stanford: Stanford University Press, 1997), 106. 26. Eric Hobsbawm, The Age of Extremes (New York: Vintage, 1996), 6–7. 27. Maurice Blanchot, The Writing of the Disaster, trans. Ann Smock (Lin- coln: University of Nebraska Press, 1986), 51. The categories of the ‘‘disaster’’ and the ‘‘catastrophe’’ are not necessarily interchangeable. Particularly in Blanchot’s work, where the ﬁgure of disaster is not easily stabilized or reduced to a concept, the translation between terms is restless at best. Still, one might follow Blanchot’s questioning of the etymological, as he pushes the writing of disaster—as signiﬁer and event—to the utmost tension, suspended between effective indeter…
+
+## Excerpt 8
+- id: 7bbe562ba6a0b9a3aecc0b7d
+- qdrant_id: 637d480c-28d0-54f9-ab67-0d7c43ff150c
+- source: Annie G. Rogers - Incandescent Alphabets_ Psychosis and the Enigma of Language (2016, Karnac Books) - libgen.li.pdf
+- chunk_index: 96
+- importance: 0.7841
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+103 CHAPTER FIVE After the disaster: six sketches and a short play I n his book, The Writing of the Disaster (1995[1980]), Maurice Blanchot defines disaster in the following way: “The disaster . . . is what escapes the very possibility of experience—it is the limit of writing. This must be repeated: the disaster de-scribes” (p. 7). The disaster registers but escapes “the very possibility of experi- ence”, and, at the limit of writing, acts to dissolve meaning, to undo writing. Ann Smock, the translator for The Writing of the Disaster (1995[1980]), comments on reading Blanchot in her translator’s remarks, Blanchot lets thoughts suggest themselves and develop through puns, alliterations, rhymes, etymologies (both learned and fanciful), as though thought were engraved in words themselves and thinking consisted in deciphering the inscription, or as if language were speak- ing to us in the various sonorities of diverse terms, and we had only to listen to what it tells . . . (p. vii)
+
+## Excerpt 9
+- id: ab20a8769137e44fd8d9595a
+- qdrant_id: 4d4277dc-852f-5bbb-9880-af8b6c3f33e8
+- source: Christopher A. Strathman - Romantic Poetry and the Fragmentary Imperative_ Schlegel, Byron, Joyce, Blanchot-State University of New York Press (2006).pdf
+- chunk_index: 150
+- importance: 0.7946
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+stresses his anarchism, see Gerald L. Bruns, “Anarchic Temporality: Writing, Friendship, and the Ontology of the Work of Art in Maurice Blanchot’s Poet- ics,” in Kevin Hart and Geoffrey H. Hartman, eds., The Power of Contestation: Perspectives on Maurice Blanchot, pp. 121–40 (Baltimore and London: The Johns Hopkins University Press, 2004). 15. For a good account of what Blanchot means by the “disaster,” see Ger- ald L. Bruns, Maurice Blanchot, pp. 207–34. As Bruns memorably puts it, “The disaster is a concept [sic] of exteriority rather than of catastrophe” (210). 16. See Hans-George Gadamer, “The Problem of Historical Conscious- ness,” in Paul Rabinow and William M. Sullivan, eds., Interpretive Social Sci- ence: A Second Look, pp. 82–140 (Berkeley and Los Angeles, CA: University of California Press, 1987). 17. See Paul Davies’s essay on Blanchot’s relationship with Levinas, “Difﬁ- cult …
+
+## Excerpt 10
+- id: 00ffde7ad8d71f60ebf46f5c
+- qdrant_id: ead8cd0d-bb6b-5a0e-9c81-b281a0aa6643
+- source: Maryline Lukacher - Maternal Fictions_ Stendahl, Sand, Rachilde, and Bataille (1994, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 102
+- importance: 0.7904
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Blanchot, Maurice (cont.) Writing of the Disaster, 1 89, 215n 28 Brombert, Victor, 9, 22, 32 Brooks, Peter, 5 1 Butor, Michel, 1 14 Le Cid, 36-37 Citron, Pierre, 3—5 Cixous, Helene, 97 Dauphine, Claude, 124, 151 Derrida, Jacques, 39-40 Deutsch, Helene, 68-70, 74 Dijkstra, Bram, 129—130, 154 The Divine Comedy, 24, 59 Dupin, Aurore See George Sand Duras, Madame de, 40 Duras, Marguerite, 107—108, 210 n 47 Eymery, Marguerite See Rachilde Flaubert, Gustave, 66, 199 Freud, Sigmund, 144, 168, 178—181, 1 86- 1 87, 191,- and Beyond the Plea­ sure Principle, 82,- and The Interpreta­ tion of Dreams, 182-183, and "The Medusa's Head," 21, 36, 55—58, and New Introductory Lectures on Psy­ choanalysis, 207 n 57,- and Totem and Taboo, 91, 167,-and "The Un­ canny," 36, 58, 77-78 Gide, Andre, 202 Gregory of Tours, 140-149 Gubar, Susan, 121-122 Hawthorne, Melanie, 152 Hecquet, Michele, 103 Hoffmann, …
+
+## Excerpt 11
+- id: 402a5fc3f3777f13a3425c4b
+- qdrant_id: a1dec08d-507c-5df2-a410-e4c923b0ab0b
+- source: Alan D. Schrift - Poststructuralism and Critical Theory's Second Generation (The History of Continental Philosophy) (2013, Routledge) - libgen.li.pdf
+- chunk_index: 178
+- importance: 0.7921
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+or life. Rather than seeing literature as a way of referring back to language as a constitutive or constructive condition, Blanchot regards literary writing as in some respects sacrifi cial in its destruction of a stable, cognizing subject set over against the world. For this reason, literature – all literature and not just apoca- lyptic literature – is a premonition of disaster: not the destruction of this or that presupposition, but an annihilation of all the categories, systems, and frame- works that synthesize experience into a continuous order. iii. after the linguistic turn Recent theory has witnessed a return to life and living systems and has done so with the sense of having come to the end of the linguistic paradigm or linguistic turn. Manuel De Landa, in A New Philosophy of Society: Assemblage Th eory and Social Complexity, has insisted that we should examine bodies, bot…
+
+## Excerpt 12
+- id: 58d22eeddf7d11c84bfb1c95
+- qdrant_id: 53fdf21c-58b2-55a3-b0c1-131dd0bd3cad
+- source: Monika Loewy - Phantom Limbs and Body Integrity Identity Disorder_ Literary and Psychoanalytic Reflections-Routledge (2019).pdf
+- chunk_index: 401
+- importance: 0.7953
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+and comprehensive definitions, partially because it is formed through subjective and ambiguous psychical images and perceptions. Instead of attempting to define literature through ordinary language, therefore, Blanchot “steadily borders on the inexpressible and approaches the extreme of ambiguity, but always recognises [words] for what they are” (de Man 1971, 62). He does not attempt to clarify lan- guage but to bring out its ambiguous nature. Thus, Blanchot’s writings are difficult to define and interpret: he is “fundamentally opaque at the level of comprehen- sion” (Critchley 2004, 31). His writing dramatises an interest in a reader’s failure ever to capture authorial meaning. Moreover, he, following Barthes’ “The Death of the Author” (1982 [1967]), suggests that in some literature, the work is separate from the author and takes on a life of its own: words are exposed as havi…
+
+## Excerpt 13
+- id: ab35b775c128def290b0e2ee
+- qdrant_id: ca9fb693-88f1-5652-89ee-2fc15c699c5a
+- source: Jeff Fort - The Imperative to Write_ Destitutions of the Sublime in Kafka, Blanchot, and Beckett (2014, Fordham University Press) - libgen.li.pdf
+- chunk_index: 70
+- importance: 0.7882
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+dully to be recounted through all this ﬁ ction—no biographical or autobiographical readings in that sense. Th e autobiographical moment that obtrudes into these texts does so in a way that, in its extremity and ungraspability, demands ﬁ ction, that ﬁ nds itself forced and torqued into scenes and ﬁ gures, despite the impossibility of such a narrative localization. Blanchot’s own use of the phrase “a primal scene” in Th e Writing of the Disaster is perhaps the best indication of this (as we will see in Chapter 5)—a use that is hedged with parentheses and a question mark (he writes: “(A primal scene?)”), but that nonetheless compulsively turns and tropes through the contours of a scene cast simultaneously as an eternal and irresistible autobiographical return and as mere ﬁ ctive “supposition” (ED 117; WD 72). Fictive ﬁ guration, then, as a necessary compromise formation, under duress of extreme strangeness and radical depersonalization. How-
+
+## Excerpt 14
+- id: cb916af9026bcd7229ce4f6b
+- qdrant_id: b41e2d48-9fd1-52c5-b0d4-89e218e321da
+- source: Arthur F. Redding - Haints_ American Ghosts, Millennial Passions, and Contemporary Gothic Fictions (2011, University Alabama Press) - libgen.li.pdf
+- chunk_index: 311
+- importance: 0.7787
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+3 Abandoning Hope in Ameri can Fiction Catalogs of Gothic Catastrophe Write in order not simply to destroy, in order not simply to conserve, in order not to transmit; write in the thrall of the impossible real, that share of disaster wherein every reality, safe and sound, sinks. —Maurice Blanchot, The Writing of the Disaster Disaster Capitalism “Disaster,” as Eric Cazdyn reminds us in his introduction to a 2007 special issue of The South Atlantic Quarterly, is contingent, “is that moment when the sustainable configuration of relations fails, when the relation between one thing and another breaks down” (647), as opposed to a crisis: “there is something necessary about a crisis, something true to the larger systemic form. Crises occur when things go right, not when they go wrong” (649). In- creasingly, critics have consequently emphasized the paradoxically necessary place of disast…
+
+## Excerpt 15
+- id: 1e17a0e82255bb622d4bc882
+- qdrant_id: 841f7201-57e1-5b9c-82dd-5701b8b9e79e
+- source: Matt Rosen - Diseases of the Head_ Essays on the Horrors of Speculative Philosophy (2020, Punctum Books) - libgen.li.pdf
+- chunk_index: 87
+- importance: 0.7867
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+(‘That Nothing Is What There Is’).” Hölzl begins with a disclaim- er, which I think prefaces her writing just as well as it prefaces the refusal of this collection to come to any lasting or sufficient conclusion: “The following remains a draft […] does not pro- vide answers, nor questions. It is a mere opening toward some- where else. It is the elsewhere that is of interest here.” Consider- ing themes of dismay, abandonment, and openness to wonder, Hölzl intends to think the relations, or lack thereof, among be- ing, time, absence, and emptiness. To do this, she discusses, in an original way, Maurice Blanchot’s “primal scene” as it is set forward in The Writing of the Disaster. Blanchot tells us that the term “scene” is in some way inadequate or inappropriate, since it seems to name or mark something unrepresentable. The “scene,” for Blanchot, must be spoken of not as some event …
+
+## Excerpt 16
+- id: e2891118afc73e7f14f4ca09
+- qdrant_id: cdfc762e-34c9-5ebf-a036-a0c4a6d8510c
+- source: [Continuum Literary Studies] Jonathan Boulter - Melancholy and the Archive_ Trauma, History and Memory in the Contemporary Novel (2011, Continuum) - libgen.li.pdf
+- chunk_index: 44
+- importance: 0.7916
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Introduction 11 disaster without being able to situate it in the future: it is rather always already past, and yet we are on the edge or under the threat, all formula- tions which would imply the future—that which is yet to come—if the disaster were not that which does not come, that which has put a stop to every arrival. (Blanchot 1995, 1) We might, given the contortions of Blanchot’s thinking here, add his theory of the disaster to our list of initiatory frustrations: the disaster ruins every- thing, but cannot be known; the disaster has always already occurred, yet is always already out of reach; the disaster, he writes later, is the experience that “none can undergo” (120). My own reading of the Blanchotian disaster relates it to Derrida’s idea of the impossible event: the impossible, he notes in texts as various as “Force of Law,” “As If It Were Possible,” or “Nietzsche and the Machine,” is an event that is unquantifi able, undecidable, aporeti-
+
+## Excerpt 17
+- id: c097a29202befe06e6bd3ba5
+- qdrant_id: d28e4ee5-2824-5d0e-ba3f-0ddd9c8f160f
+- source: This Space of Writing (Stephen Mitchelmore) (Z-Library).pdf
+- chunk_index: 19
+- importance: 0.7799
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+adequate to the needs of his criticism. Steve’s writing on This Space, from which this collection draws, has attended, from the start, to the predicament of the contemporary literary writer – the writer for whom literature is in some way a problem. Such a writer is stranded in what Maurice Blanchot calls “L’Espace littéraire”, the “space of literature”, a zone of dispossession and destitution, charged with strangeness and volatility. Indeed, this phrase of Blanchot – the title of one of his most famous books – could also be translated as The Remove of Literature, or even, more freely, as Literature’s Default. It is significant that for the title of the present book, Steve drops Blanchot’s word, “literature” altogether, as though the notion of literature itself were too prestigious, too imposing, for the uncertain and obscure practice to which he would attest. There is another telling Blanchotian resonance in the title of
+
+## Excerpt 18
+- id: c1622f08760dbe80301cab76
+- qdrant_id: 1ad30fa7-6413-5828-aab8-f234da51b5f1
+- source: [Perspectives in Continental Philosophy] William S. Allen - Aesthetics of Negativity_ Blanchot, Adorno, and Autonomy (2016, Fordham University Press) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.7920
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+that they indicate how deeply Blanchot’s own works were immersed in these issues. For in his approach to literature, Blanchot pursues both a notion of the interminable problem of literature and the literary diversions of think- ing. But in doing so he draws out the manner in which these two issues are related in the idea of literature, thereby recalling us to the post- Kantian problem of the mutual and ontological constraint of philosophy and lit- erature. Th us, by approaching literature through philosophy, Blanchot is renewing this double problem by which thinking can only proceed by way of its involvement with writing, which will prevent it from ever being fully defi ned, and writing, because it proceeds by way of thinking, will be exposed to the implications that this transformed thinking will now bring to writing. As we have seen, Blanchot draws out the consequences of th…
+
+## Excerpt 19
+- id: e479fd63cd87efc0b810e351
+- qdrant_id: 4420037b-e245-53a4-9e9e-f6c20710c2cc
+- source: Chris Washington_ Anne C. McCarthy - Romanticism and Speculative Realism (2019, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 159
+- importance: 0.7835
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+What might this strange conjunction of oblivion and persistence suggest? Here it may be best to note the strong resonances between the sonnet and Maurice Blanchot’s theory of disaster, whose initial articulation lingers with a similarly elusive theme. The tree, no trace of whose earlier life can be found, has grown up “to flourish now” (8); it follows that oblivion, in Blanchot’s words, “ruins everything, all the while leaving everything intact.”26 The tree’s life is condemned, yet the tree thrives; to borrow from Brassier, one might say that like everything else, the tree is dead—yet it lives on.27 The event, then, is indeed obscure, beyond any ordinary concept of condemnation or destruction. “When the disaster comes upon us, it does not come,” writes Blanchot; “it does not happen.”28 Disaster’s advent is so elusive we cannot arrive at any knowledge of it, for it is “related t…
+
+## Excerpt 20
+- id: 8e560e45c1adcf4889c43c08
+- qdrant_id: b0885afe-af40-5683-a773-20dbd3e1c8f8
+- source: Melancholy and the Archive Trauma, History and Memory in the Contemporary Novel (Continuum Literary Studies) (Jonathan Boulter) (Z-Library).pdf
+- chunk_index: 33
+- importance: 0.7781
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+archive defi nes itself by interrogating what it is doing with and to history; the archive defi nes itself by interrogating the claims of history on the subject. This is to say that if the archive is defi ned by a doubly infl ected loss—the loss in the past, the loss to come—then the archive is marked, if not defi ned, by its specifi c relation to the disaster. And here I turn to my third thinker, Maurice Blanchot. Blanchot’s The Writing of the Disaster (1995) is a crucial text in the analyses that follow; crucial for its contribution to thinking about what remains after loss; crucial for its thinking about what loss does to the subject; crucial, precisely, for its thinking about how subjectivity or interiority is mapped out—indeed, it offers itself as a cartographic, archivic space—after trauma. Moreover, Blanchot’s text compels us to begin thinking about the writing of the …
+
+## Excerpt 21
+- id: f3d0b2ad9178fd1c209fbc67
+- qdrant_id: deafece8-fa93-5cd8-876b-b01c2f37c9b4
+- source: [Violence, Desire, and the Sacred] Sandor Goodhart - Möbian Nights_ Reading Literature and Darkness (2017, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 156
+- importance: 0.7789
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+both about disaster, and from disaster, to annotate Blanchot’s use of the French word de.115 Or perhaps, following Geoffrey Hartman’s emendation on Smock’s familiar translation of Blanchot’s title, we might say all writing in this era is the “notebook,” the daily scripture or testimony or cahier, of the disaster. But Yeats also makes clear what Levinas also taught us: that this is not the first time. We seem to have been asleep for some twenty centuries or more. That the “original” darkness (if indeed that phrase makes much sense here) occurred sometime before the birth of the modern world, sometime, that is to say, between the already unspeakable catastrophes of the ancient sixth century, and the dawn of modernity. The sleep, Yeats tells us, has been “vexed to nightmare by a rocking cradle,” a cradle of catastrophe, one is therefore tempted to say, a cradle that opens into the…
+
+## Excerpt 22
+- id: 30d54d607e7dbc977c794456
+- qdrant_id: c8bc3cb3-7d21-5947-b3b4-9c775f9ed373
+- source: Chris Washington_ Anne C. McCarthy - Romanticism and Speculative Realism (2019, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 160
+- importance: 0.7777
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+does not happen.”28 Disaster’s advent is so elusive we cannot arrive at any knowledge of it, for it is “related to forgetfulness—forgetfulness without memory, the motionless retreat of what has not been treated,” or the disappearance of a wind that never registered the significance of the “young stem” in the first place.29 The sonnet thus seems to anticipate Blanchot’s disaster precisely, except that by discerning a disaster that has befallen a tree, rather than a human being, it expands his rendition of disaster to include all entities over which a wind might flow. How might Blanchot’s articulation of this quiet disaster bear on the renditions of such an event in speculative realism? For Brassier, as for Clare and Blanchot, the condemnation comes not in a distant future but has already transpired. Brassier makes clear that the empirical death of the sun is ultimately a figure f…
+
+## Excerpt 23
+- id: 8d419b728737af8bfc9fa05f
+- qdrant_id: 6d79f290-3de2-5d71-8e7e-043a1c9f16b9
+- source: [Fordham Perspectives in Continental Philosophy] William S. Allen - Aesthetics of negativity_ Blanchot, Adorno, and autonomy (2016, Fordham University Press) - libgen.li.pdf
+- chunk_index: 36
+- importance: 0.7859
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+in the line of this sense of representation, but have abstracted its detail and focus to an extreme. Their works are not secluded in a conceptual niche that removes them from the possibility of conveying an experience of truth, but are intensively focused on the nature of this experience in its concep- tual evasion. Such a revised reading of modern art may then provide a means of approaching the transformations inherent in Blanchot’s fictions, which seem to follow an equivalent path of prosaic abstraction and intensification. Undoubtedly Blanchot’s early fictions follow in the vein of Surrealism, although one perhaps closer to Jean Paul and Lautréamont than Breton or Aragon, and in doing so they focus on the inherent mystery of the writing process, its endless capacity for positing (and thereby negating) meaning. This is not done in pursuit of representation but rather in the realization that anything can be written down and in doing so becomes real, but also
+
+## Excerpt 24
+- id: cc89573701b492551c5f3595
+- qdrant_id: 5d4f2628-3912-5972-9e6a-f3a0790c76a5
+- source: Patrick O’Connor - Cormac McCarthy, Philosophy and the Physics of the Damned (2022, Edinburgh University Press) [10.1515_9781474497282] - libgen.li.pdf
+- chunk_index: 133
+- importance: 0.7764
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+8. Blanchot, The Space of Literature, 26. 9. Maurice Blanchot and Jacques Derrida, The Instant of My Death/ Demeure: Fiction and Testimony, trans. Elizabeth Rottenberg (Stanford: Stanford University Press, 2000), 69. 10. Blanchot, The Space of Literature, 30–1. 11. Ibid. 205. 12. Ibid. 78. 13. Lars Iyer, Blanchot’s Communism: Art, Philosophy and the Political (Basingstoke: Palgrave-Macmillan, 2004), xi. 14. Blanchot, The Work of Fire, 320. 15. John Cant, Cormac McCarthy and the Myth of American Exceptional- ism (London: Routledge, 2009), 106. 16. Verneen Bell, The Achievement of Cormac McCarthy (Louisiana: Loui- siana State University Press, 1988), 89.
+
+## Excerpt 25
+- id: 1a9087c4c8d2749e76e6d66b
+- qdrant_id: 852d8a0d-97c7-576f-ac5a-9e9106fd7915
+- source: [Lit Z] Philippe Lacoue-Labarthe - Ending and Unending Agony_ On Maurice Blanchot (2015, Fordham University Press) - libgen.li.pdf
+- chunk_index: 507
+- importance: 0.7840
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+this metaphorical language—of hygienics, of the medical—manipulated by the Nazis must have left its mark on people.” 40. For Pascal Possoz’s subsequent medical reading of Blanchot, see “La médecine en filigrane dans la vie et l’œuvre de Maurice Blanchot,” in Blanchot dans son siècle, ed. Monique Antelme, Gisèle Berkman, Christophe Bident, et al. (Lyon: Parangon, 2009), 155–165. 41. See Blanchot, The Writing of the Disaster, 86–87; Blanchot, L’écriture du désastre, 137. 42. Philippe Lacoue- Labarthe is referring to Sontag’s Illness as Metaphor (1978). 43. See Maurice Blanchot, “La rencontre avec le démon” (1955), in La condition cri- tique, ed. Christophe Bident (Paris: Gallimard, 2010), 205–225. 44. G. W. F. Hegel, “The Ontological Proof, from the 1831 Lectures on the Philosophy of Religion,” in Lectures on the Proofs of the Existence of God, trans. Peter C. Hodgson (Ox- ford: Oxford University Press, 2011), 192; G. W. F. Hegel, “Ausführung des ontologischen
+
+## Excerpt 26
+- id: 1d52d56cbd513cda0796e9fd
+- qdrant_id: 4ffc8a18-21c7-576b-83bd-fd6863ece0ca
+- source: D. Vance Smith - Arts of Dying_ Literature and Finitude in Medieval England (2020, University of Chicago Press) - libgen.li.pdf
+- chunk_index: 18
+- importance: 0.7678
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Blanchot’s, in works spanning forty years, including “Literature and the Right to Death,” The Inﬁnite Conversation, The Writing of the Disaster, The Space of Literature, and The Step Not Beyond. For Blanchot, literature is an endless work, a work of never-­completed death—­that is, a work of dying. In myriad ways his career traced this fundamental insight in the lit­ erature of the nineteenth and twentieth centuries, and my book depends to a substantial degree on the strength of Blanchot’s conviction.
+
+## Excerpt 27
+- id: f00da6da2938aadbd159d208
+- qdrant_id: 73163b45-8066-5635-9452-029fdbd8b911
+- source: [Theory and History of Literature Series 77] Hélène Cixous - Readings_ The Poetics of Blanchot, Joyce, Kakfa, Kleist, Lispector, and Tsvetayeva (1991, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 105
+- importance: 0.7811
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+formulation. Blanchot, who is not without psychoanalytic knowledge, has a dif- ferent style. The passage I chose to read on page 72 is taken up again on page 114.6 The second version becomes a remainder through a kind of explosion, or decom- position, hence through a kind of analysis. The scenes could be juxtaposed, crit- ically, to Clarice's text "Sunday, before falling asleep." The second, exploded version contains certain small motifs that are like signifying, partial objects, for example, a tree, reminiscent of what we read in Clarice's story. We can distinguish between common and differential elements in both texts and make a kind of mon- tage with the different images of the body. In Blanchot, a child is standing upright while lifting the curtains, and looks out of the window. In Clarice's "Sunday, before falling asleep," the child is in bed, looking out of the window. In a system …
+
+## Excerpt 28
+- id: 2f41627d762694a8bfc9aefe
+- qdrant_id: 04e8ab34-8126-587e-a852-1a21c99065d7
+- source: Arthur F. Redding - Haints_ American Ghosts, Millennial Passions, and Contemporary Gothic Fictions (2011, University Alabama Press) - libgen.li (1).pdf
+- chunk_index: 320
+- importance: 0.7758
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+ing thesis is that contemporary gothic, anticipated in these and other novels, might be a form of cultural production specific to disaster capitalism. In his post- 9/11 writings, Jean Baudrillard concurs with Cazdyn’s diag- nosis, although he poses the more radical possibility that catastrophe beg- gars the imaginations of reformers and revolutionaries alike, suggesting that disaster, though an endemic function of power within contemporary capi- talism, unleashes forces through what he terms a “logic of reversibility” that propel us into an absolute beyond: “What looms on the horizon with the ad- vent of globalization is the constitution of an integral power, of an Integral Reality of power, and an equally integral and automatic disintegration and failure of that power” (23), he asserts in The Intelligence of Evil. Baudrillard re- flects on “events that break the tedious sequence of current events as relayed
+
+## Excerpt 29
+- id: 2a3cf17891a7ba5450aa0971
+- qdrant_id: 51bc5595-cb01-524b-9ca0-6b144596bcdb
+- source: Marguerite Duras_ Mark Polizzotti - Writing (2011, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 70
+- importance: 0.7713
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+But even so, somewhere in the world people are writ- ing books. Everyone does it. That’s what I believe. I am sure this is the case. That for Maurice Blanchot, for ex- ample, this is the case. He has madness spinning around him. That madness, too, is death. Not for Georges Ba- taille. Why was Bataille preserved from free, mad thought? I couldn’t say. I’d like to say a little more about the story of that ﬂy. I can still see it, that ﬂy, on the white wall, dying. At ﬁrst in the sunlight, then in the muted light refracted off the tiled ﬂoor. One could also not write, forget a ﬂy. Only watch it. See how it struggled in its turn, terrible and accounted for, in an unknown sky, made of nothing. There, that’s all. W R I T I N G / 3 6
+
+## Excerpt 30
+- id: ad1f8ff8de7f5ca44811bcd9
+- qdrant_id: 1a13c366-6ce0-555f-8e13-6c5c5fe3cab2
+- source: Brenda Machosky - Structures of Appearing_ Allegory and the Work of Literature (2022, Fordham University Press) [10.1515_9780823292653] - libgen.li.pdf
+- chunk_index: 14
+- importance: 0.7798
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Someone like Blanchot helps us to remember this fundamental charac- teristic of literary space and to appreciate the profound diff erence of the space of literature. I argue that we need allegory in order to be able to ar- ticulate this space. This recollection is necessary because literature has been pushed into and now even tends to put itself into a dialectical relationship
+
+## Excerpt 31
+- id: e9c63827a709c4971c329c07
+- qdrant_id: 87d62b1b-6a79-538b-9aeb-3b283a96ac0c
+- source: Melancholy and the Archive Trauma, History and Memory in the Contemporary Novel (Continuum Literary Studies) (Jonathan Boulter) (Z-Library).pdf
+- chunk_index: 59
+- importance: 0.7737
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+to himself. What this shattered subject(ivity) can offer to the archive, as the archive, is never the event itself, never history as such, but history’s specter: “When all is said, what remains to be said is the disaster. Ruin of words, demise writ- ing,” as Blanchot puts it (33). The writer of the disaster, the written of the disaster—the subject of disaster’s writing—will always be in the condition of ruin, the trace. And it is here that I can make my strongest claim to a (para- doxical) universalism or essentialism. My reading of these novels does confi rm the idea that in contemporary international fi ction the subject can never be, can never even hope to be, an integrated self-coincidental entity:
+
+## Excerpt 32
+- id: a40d4f2663a478fcb17f6b09
+- qdrant_id: 9ebeb983-f213-5638-b456-7d9444413597
+- source: This Space of Writing (Stephen Mitchelmore) (Z-Library).pdf
+- chunk_index: 21
+- importance: 0.7733
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Blanchot argues, lets a kind of “nothingness” resonate in the literary work; the review is the “space of resonance” which shows how literary meaning is interrupted or sidelined – whether by uncertainties in the act of narration or by the outbreak of uncontrollable, transpersonal affects. For Blanchot, literary criticism can show us how literary works both posit structures of meaning – carefully rendered characters with which to identify and empathise, codified emotions, psychological depth, social expansiveness, detailed and convincing environments – and destabilise such structures. In this way, criticism responds to an element of literary works that is easily forgotten, especially when fiction is understood through the lens of realism. By letting the “nothingness” of the work resound, criticism shows us what lies beyond the shaping of meaningful events and the evocation of psychological depth. The apparent modesty of literary criticism – its secondariness with
+
+## Excerpt 33
+- id: 6de1f2a7741271ce4ec99c40
+- qdrant_id: 19fd6885-fc96-5f23-8aeb-69e7b7a90582
+- source: Tzvetan Todorov - Introduction to Poetics (1981, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 63
+- importance: 0.7778
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+pride of place here. Maurice Blanchot's inquiries (L 'Espace lit- teraire, 195.5; Le Livre a venir, 1959) have a more philos<:>phical character: Blanchot seeks to grasp the necessarily fugitive site where all literature originates, the metaphysical choice that leads the writer to produce his first line. Despite their authors' genius- or perhaps because of it-these two inquiries have not really formed any kind of school (though they have not been without influence): their ideas may have seemed too dependent on the expression that sustains them to lend themselves to academic ex- trapolation. In the same period appear several other works of liter- ary theory in the modem sense, i.e., which describe certain proper- ties of literary texts. Hence a study is made of point of view in the novel and the relations sustained between narrator and character 0. Pouillon, Temps et roman, 1946); …
+
+## Excerpt 34
+- id: afe6c59070b7e0c9203ecaa2
+- qdrant_id: 1e8d0cfc-f75d-55d3-b71f-cf04c1363524
+- source: William S. Allen - Aesthetics of Negativity_ Blanchot, Adorno, and Autonomy (2016, Fordham University Press) [10.1515_9780823269310] - libgen.li.pdf
+- chunk_index: 98
+- importance: 0.7804
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Introduction: Abstract and Concrete Modernity ■ 21 converge or diverge. In relation to the Surrealists, Blanchot speaks of a rhet- oric that becomes material such that we can be caught up in a storm or swamp of words that have values beyond our own, like an ocean that ap- pears at one moment to be convulsed by tumults and at the next to be as calm and expansive as a desert [PF: 94/89]. It is at this point that the trap becomes most diffi cult to avoid, because language has become as autono- mous as the commodity and so is at risk of losing itself to an alienated and alienating objectivity. Language in the literary work, as for the artwork in general, would then operate at the point of almost succumbing to this sheer objectivity, only diff erentiating itself from it by virtue of the enigma of its own appearance, which has arisen out of and as contingency itself. And in doing so it thereby provides a critique of the commodity- form by demon-
+
+## Excerpt 35
+- id: bf8165af6ea5aeff6da5d8f6
+- qdrant_id: 4180f85f-e082-5728-ab36-9a1f51bc09a3
+- source: Emily McLaughlin_ - Yves Bonnefoy and Jean-Luc Nancy _ Ontological Performance-OUP Premium (2020).pdf
+- chunk_index: 182
+- importance: 0.7786
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+‘un théâtre du monde’, ‘[une] tâche de l’être-au-monde’ (SM, 43). As noted in the introduction to this book, he makes the same point in La Communauté désœuvrée, observing: ‘le théâtre, ici, ne vaut plus en tant que scène de représentation: il vaut comme le bord extrême de cette scène, comme ligne de partage où les uns sont exposés aux autres’ (CD, 194). Much like Bonnefoy’s ‘Et, tard, je crie’, Nancy’s conception of finitude causes him to reimagine theatre as an exploration that occurs at the outer limit of the stage. He urges writers to embrace this new performative space, to explore the thresholds that run between us and all through us, revealing us to be exposed and relational beings. Bataille, Klossowski, Blanchot: Writing the Limit, Leslie Hill writes that Blanchot perceives death as that which ‘determines human life without remainder’ but ‘death is also that which escape…
+
+## Excerpt 36
+- id: 62a62edcba26017543502bf9
+- qdrant_id: fdaab990-e44f-5901-8bcf-be1d62914a2c
+- source: [Fordham Perspectives in Continental Philosophy] William S. Allen - Aesthetics of negativity_ Blanchot, Adorno, and autonomy (2016, Fordham University Press) - libgen.li.pdf
+- chunk_index: 157
+- importance: 0.7622
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+was originally left incomplete, so that it only reads, “Dann geschah. . . .” This only emphasizes the point made by Blanchot that the disaster is an aporia of language; see Kafka, Nachgelassene Schriften und Fragmente, ed. Malcolm Pasley (Frankfurt am Main: Fischer, 1993), 1:313; Kafka, “The Hunter Gracchus,” in Zhe Great Wall of China and Other Short Works, tr. Malcolm Pasley (London: Penguin, 1991), 51. 4. Hill, Blanchot, 74: “As with the work of other writers, Blanchot’s strategy is twofold: it is first to generalise the essential proposition of the text to its fullest possible extent; and second to radicalise that argument to the point where it becomes consumed by its own impossibility.” 5. Kevin Hart, “From the Star to the Disaster,” Paragraph 30, no. 3 (2007): 93: Notes to pages 95-99 m= 275
+
+## Excerpt 37
+- id: 63bf6485b7bfc77a1865acac
+- qdrant_id: d2b13326-a21a-5a29-9505-60f1507b3970
+- source: Gillian Rose - Mourning Becomes the Law_ Philosophy and Representation (1996, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 325
+- importance: 0.7592
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+and response to, the disaster, can be seen as having been prepared philosophically by Blanchot in the long essay in italics which con- cludes La Part du Feu (1949): 'Literature and the Right to Death'. This preparation takes the fonn of an engagement with activity, us
+
+## Excerpt 38
+- id: eaa1aa9687b20d2bd10d5e11
+- qdrant_id: 8ae1b14e-97df-55ef-ae97-1d03fa01b25e
+- source: baumbach2015.pdf
+- chunk_index: 173
+- importance: 0.7678
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+it and into it at the same time. (3–4) While apocalypse promises a new beginning, the opening image of debris and demise spreading from the street to the world, from an individual to the masses, establishes a sense of disorientation and points to the ultimate fall, which is reinforced in the short, crumbled sentences that dominate the fol- lowing narrative. Keith manages to walk away from the scene, yet he cannot escape the catastrophe’s traumatic effects, which grip him and also begin to entangle the reader. The fascination with catastrophe can be productive insofar as it sparks off literary narratives, which provide a way of coping with crises of perception and cognition. This notion connects to Blanchot’s
+
+## Excerpt 39
+- id: 1817020c17b0cfe7fd815477
+- qdrant_id: d7b1d2e4-bd22-5d72-bc45-f52a2c9868ef
+- source: [Continuum Literary Studies] Alain-Philippe Durand, Naomi Mandel - Novels of the Contemporary Extreme (2006, Continuum) - libgen.li.pdf
+- chunk_index: 447
+- importance: 0.7608
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+——. Windows on the World. Paris: Grasset, 2003. ——. 99 francs. Paris: Grasset, 2000. Blanchot, Maurice. The Writing of the Disaster. 1980. Lincoln, NE: University of Nebraska Press, 1986. Blanckeman, Bruno. Les Fictions singulières. Etude sur le roman français contemporain. Paris: Prétexte, 2002. Campus. “60 ans après les camps.” TV5. 2 Feb. 2005. Colombani, Jean-Marie. Tous Américains?: Le Monde après le 11 septembre 2001. Paris: Fayard, 2002. Cultures et dépendances. “Les camps de la mort, 60 ans après.” TV5. 22 Jan. 2005. Dasquié, Guillaume. L’Effroyable mensonge: Thèse et foutaises sur les attentats du 11 septembre. Paris: La Découverte, 2002. Derrida, Jacques. Rogues. Two Essays on Reason. 2003. Palo Alto, CA: Stanford University Press, 2005. Doubrovsky, Serge. “Ne pas assimiler autoﬁction et autofabulation.” Magazine Littéraire 440 (2005): 28. Durand, Alain-Philippe. Un monde techno. Nouveaux espaces électroniques dans le roman
+
+## Excerpt 40
+- id: 6a85501d6f8e8d90a681d924
+- qdrant_id: 7880f600-2858-5e05-b87d-0bf3196dd775
+- source: Jeff Fort - The Imperative to Write_ Destitutions of the Sublime in Kafka, Blanchot, and Beckett (2014, Fordham University Press) [10.1515_9780823254712] - libgen.li.pdf
+- chunk_index: 204
+- importance: 0.7775
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+notes to pages 169–75 383 13. Along these lines, Blanchot’s rejection of “reality” as material for ﬁ ction becomes explicit in a number of essays written during the war. See especially “Le roman pur” and “Mallarmé et l’art du roman” (both published in Journal des Débats in 1943). 14. Blanchot also writes of “la perte de l’être,” the loss of being: what appears in the time of the absence of time, he says, is “the fact that nothing appears, the being that is in the ground [au fond] of the absence of being, which is when there is nothing, which is no longer when when there is something: as if there were beings only through the loss of be- ing, when being is lacking” (EL 26). 15. For an analysis of Blanchot’s relation to the sublime, and in particular the “tempo- rality of the sublime” in L’instant de ma mort, see Yves Gilonne, La rhétorique du sublime dans l’oeuvre de Maurice Blancho…
+
+## Excerpt 41
+- id: bc00827c7b99fb86f3e257df
+- qdrant_id: e6eabc29-4a37-5e8f-a09a-e5b75552767b
+- source: Christopher A. Strathman - Romantic Poetry and the Fragmentary Imperative_ Schlegel, Byron, Joyce, Blanchot-State University of New York Press (2006).pdf
+- chunk_index: 75
+- importance: 0.7743
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+self-critical impulse that places it ﬁrmly alongside the kind of writing that the romantics describe. More to the point, such a description of po- etry comes remarkably close to Blanchot’s articulation of what he calls the worklessness [désoeuvrement] of the work or art. For Blanchot, this means that the work of art refuses assimilation into the world of cause and effect, means and ends, and remains other with respect to the pro- ductive logic of labor and discourse. This sense of the work as an unset- tling overture asks to be read in at least three overlapping senses: (1) as an introductory but unﬁnished sketch in which a work ﬁrst appears; (2) as an opening marking the fascinating threshold of the in-between; and (3) as an obligation issued on behalf of what remains for thinking. In other words, Blanchot is attempting to mediate between the well- known fragmentary work of the romantic…
+
+## Excerpt 42
+- id: 6dee2fd0118904b2e46a7cf3
+- qdrant_id: 88c2cb0f-2e08-53ae-8f14-2ffba258bba3
+- source: Herschel Farbman - The Other Night_ Dreaming, Writing, and Restlessness in Twentieth-Century Literature-Fordham University Press (2009).pdf
+- chunk_index: 382
+- importance: 0.7644
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+19. Blanchot attacks traditional ideas of literary power and glory as outdated at the end of The Book to Come: The extraordinary turmoil that causes the writer to publish before writing, that causes the public to form and transmit what it does not understand, the critic to judge and deﬁne what he does not read, and the reader, ﬁnally, to have read what is not yet written—this movement that confuses, by anticipating them each time, all the various moments of the work’s formation, also gathers them together in the search for a new unity. Thus the richness and poverty, the pride and humility, the extreme disclosure and the extreme solitude of our literary work, which has at least the merit of desiring neither power, nor glory. (250/ 340)
+
+## Excerpt 43
+- id: 1a0c42133bb11576e44ffb6c
+- qdrant_id: dc8e8e9c-6b70-5d33-ad17-88bcc218e8c2
+- source: D. N. Rodowick - Afterimages of Gilles Deleuze's Film Philosophy (2010, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 101
+- importance: 0.8086
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+16 marie-claire ropars-wuilleumier Anticipated simply by an obscure reference in volume 1,1 Blanchot’s sudden appearance is particular to volume 2. Although localized, it plays a systematic role there, thanks to a slanted reading by Deleuze, who alters the interpretation of Blanchot according to his own objectives. But this intrusion of Blanchot also designates a difference within the text itself that causes Deleuze’s book to change course. I want to show that Deleuze’s use of Blanchot helps him to seal off a line of flight that, in reality, traverses the entire organization (dispositif) of the time-image and calls into question the possibility of inscribing the image in time. But, similarly, I will outline an astonishing convergence between the thought of Blanchot and the becoming of thought in The Time-Image. In this sense, Blanchot intervenes as a “strange attractor,” who invites us to shift our evaluation of The Time-Image’s place in
+
+## Excerpt 44
+- id: eeaa82b49ff1c9b8ac988e9e
+- qdrant_id: 49fdf95c-a63f-5c8c-91a2-ac4312cc0241
+- source: Jean-Luc Nancy (editor)_ Simon Sparks (editor) - Multiple Arts_ The Muses II (2006, Stanford University Press) [10.1515_9781503618923] - libgen.li.pdf
+- chunk_index: 115
+- importance: 0.7680
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+In Blanchot's Company The murmur of Blanchot's voice is unceasing, even when it is as dose as possible to what should cause it to falter: it speaks of the certainty of the moment that will neutralize it forever (and moves forward on that basis); but equally, as a result, it remains as dose as possible to the risk that the movement of abandonment itself will become just another object to be grasped, another literary enterprise-whereas in fact what is really at stake in Blanchot is the need to "free us from the usual literary world."2 In this way, Blanchot's voice understands-or declares-itself to be the voice of someone alive yet already reported missing or believed dead: dead, that is, while still living on in his own words, according to the same- ness [memete1 of those words that still persist (even though history itself may have been rent in two), and yet who can speak only with that break in his throat. And what sustains such a voice is the "absolute responsibil-
+
+## Excerpt 45
+- id: 3ee98104b7a25c41649d0c4d
+- qdrant_id: c3ee1b1d-e3f8-5044-905f-f4369816f315
+- source: [Theory and History of Literature Series 77] Hélène Cixous - Readings_ The Poetics of Blanchot, Joyce, Kakfa, Kleist, Lispector, and Tsvetayeva (1991, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 430
+- importance: 0.7663
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+the day that she has seen, as she says in The Passion according to G. H. Her whole process consists in working like a madwoman so that a certain path can be frayed toward the point of blinding; while Blanchot completely capitalizes on his mad- ness, Clarice does not feel like keeping the treasure of madness to herself. In both writers the same place is in question, but Clarice wants to communicate her expe- rience. Blanchot, as we can read in Writing of Disaster, believes this experience of revelation to be incommunicable. Nothing moves him, except a desire to keep his treasure. In order for his treasure not to disappear entirely — because whether he writes to God, to himself, or to a madman, he nevertheless writes — he hid it in the brief scene of Writing of Disaster, in the primal scene of the child who saw but will not tell. Blanchot writes: I will not tell you. He draws something the…
+
+## Excerpt 46
+- id: 95957c65daf23167f919024f
+- qdrant_id: 343fd8ce-374b-5795-a222-b37bb315fb71
+- source: Emmanouil Aretoulakis - Forbidden Aesthetics, Ethical Justice, and Terror in Modern Western Culture (2016, Lexington Books) - libgen.li.pdf
+- chunk_index: 485
+- importance: 0.7668
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+nean activity. The author of the excerpt above speaks of the need to imprint the memory of the disaster permanently on the mind of the posterity and, to this purpose, uses “journalistic” expressions (such as the apposite but strangely neutral phrase “dreadful catastrophe”) to disseminate the news about the event. Potentially a sample of a precociously enlightened version of the history of natural catastrophes, his rather dispassionate narrative attempts to give a careful description of what really went on during that day, but, in many cases, misses the target by not appealing to the heart of the reader as much as her mind.20 Of course, the Lisbon earthquake marks admittedly the beginning of the age of the Enlightenment when reason manages to rule over fear or passion, but disengagement from superstition should not necessarily entail the expulsion of imagination. As I have argued in previous chapters, to do justice through writing to a
+
+## Excerpt 47
+- id: 9efb83c2be48a10c91d0bf58
+- qdrant_id: e1f619f0-059b-58cc-b4e4-0f8ad2b36017
+- source: Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation (2022, Fordham University Press) [10.1515_9780823292189] - libgen.li.pdf
+- chunk_index: 2
+- importance: 0.7659
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+c o n t e n t s List of Figures vii Acknowledgments ix Introduction 1 1. Catastrophe Culture, Atrocity Supplements 8 2. Virginia Woolf: Reading Remains 42 3. Walter Benjamin on Radio: Catastrophe for Children 71 4. On the Late Sublime: W. G. Sebald’s The Rings of Saturn 89 Toward a Conclusion: The In-Exhaustible Catastrophe 112 Notes 119 Index 157 v f i g u r e s 1. Odilon Redon, ‘‘L’oeil, comme un ballon bizarre se dirige vers l’inﬁni (The Eye, Like a Strange Balloon Mounts Toward Inﬁnity)’’ 44 2. George Rodger, ‘‘Bodies at Bergen-Belsen’’ 107 vii
+
+## Excerpt 48
+- id: fd87fc2579668e23b7a3b15b
+- qdrant_id: 384563bc-85b9-5a05-b092-8a87b2158874
+- source: [Perspectives in continental philosophy] Jean-Luc Nancy, Franson Manjali - Philosophical chronicles (2008, Fordham University Press) - libgen.li.pdf
+- chunk_index: 82
+- importance: 0.7739
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+as apotheoses or catastrophisms. There was some- thing of this in Sartre, as there was in Henri Lefeb- vre and the situationists, or in other ways in Michel de Certeau or Foucault. Blanchot also pondered the difﬁculty of the everyday. This difﬁculty is made manifest by the fact that it appears to be impossible not to submit the everyday sometimes to the infamy of insigniﬁcance and sometimes, in order to save it, to the hyper-signiﬁ- cance of absorption into history, into the aesthetic, or even into the religious. In such an accession, the 38
+
+## Excerpt 49
+- id: d2f322adaad3b93e2d347a63
+- qdrant_id: 8103f572-9fbf-51b7-a90f-88bb5123fc10
+- source: Patrick O’Connor - Cormac McCarthy, Philosophy and the Physics of the Damned (2022, Edinburgh University Press) [10.1515_9781474497282] - libgen.li.pdf
+- chunk_index: 132
+- importance: 0.7626
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+undermining of the conventions of the novel. Suttree is obviously not the first or only novel to do this. I will herein argue that what is distinctive about how Suttree subverts the conventions of novel can be understood more clearly following the philosophy of Maurice Blanchot. 3. Maurice Blanchot, The Unavowable Community, trans. Pierre Joris (Barrytown: Station Hill, 2000), 5–6. 4. Blanchot, Blanchot Reader, ed. and trans. Michael Holland (Oxford: Blackwells, 1995), 141. 5. Blanchot, The Work of Fire, trans. Charlotte Mandell (Stanford: Stanford University Press, 1995), 301. 6. Ullrich Haase and William Large, Blanchot (London: Routledge, 2001), 18–19. 7. Blanchot, The Space of Literature, trans. Ann Smock (Lincoln: Univer- sity of Nebraska Press, 1990), 54. 8. Blanchot, The Space of Literature, 26. 9. Maurice Blanchot and Jacques Derrida, The Instant of My Death/ Demeure: Fiction and Testimony, trans. Elizabeth Rottenberg (Stanford:
+
+## Excerpt 50
+- id: b8f310cbbe11bbaf6cba6144
+- qdrant_id: f8b179ad-145a-56de-911d-45055e236178
+- source: Christopher A. Strathman - Romantic Poetry and the Fragmentary Imperative_ Schlegel, Byron, Joyce, Blanchot-State University of New York Press (2006).pdf
+- chunk_index: 102
+- importance: 0.7683
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+of genres, refuses Aristotle’s efforts to determine poetry against the standard of tragedy and opens onto a more unsettled and unsettling re- gion that waits at the limits of the opposition between tragedy and comedy, philosophy and poetry. In The Inﬁnite Conversation, Blanchot articulates his hope for such a passage: And is there poetry because the one who would have seen being (the absence of being through the mortifying gaze of Orpheus) will also, when he speaks, be able to hold onto its presence, or simply make re- membrance of it, or keep open through poetic speech the hope for what opens on the hither side of speech, hidden and revealed in it, exposed and set down by it? (EI 53; IC 38) The aim of this book is to sketch a genealogy of fragmentary work from romanticism to Joyce and, with important qualiﬁcations, Blan- chot. What complicates this task is that the fragmentary work seem…
+
+## Excerpt 51
+- id: 34cc8edfaa485a2f61bfff2a
+- qdrant_id: cf1d21bd-4f0a-58b8-a2aa-1c9d25dc827d
+- source: Ian Buchanan, John Marks - Deleuze and Literature (2001, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 25
+- importance: 0.7684
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Missing' John Marks uses Don DeLillo's master work as the occasion to argue that Deleuze's approach to literature can be adumbrated by Maurice Blanchot's term, `entretien'. It literally means `conversation', but also indicates that which is perpetually `in-between'. The aim of this chapter is to intensify tendencies already evident in the novel so as to explore the impersonal forces it releases. Ultimately, it is a question of exploring what Deleuze calls `style' (the point at which writing becomes `gaseous'), with the hope of providing new ways of activating and evaluating Deleuzian concepts. Here, it is the concept of the `event' which comes to the fore and suggests itself as a form of entretien. The event is the `middle' which literature inhabits as a site in which to create fiction. Fiction in this sense is not opposed to the true, but rather depends upon the `powers of the false'.4 …
+
+## Excerpt 52
+- id: d75af31a20e2ed5cc61c96e4
+- qdrant_id: 5d71f9b8-ab78-5823-8193-28bc542f9ba6
+- source: [Perspectives in Continental Philosophy] William S. Allen - Aesthetics of Negativity_ Blanchot, Adorno, and Autonomy (2016, Fordham University Press) - libgen.li.pdf
+- chunk_index: 20
+- importance: 0.7660
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+1 Blanchot’s fi rst novel, Th omas l’Obscur, begins with a scene that has long been regarded as paradigmatic for his approach to writing in general, and it is remarkable, as Jean Starobinski noted, how much of his later thought is already apparent in these opening lines:1 Th omas sat down and looked at the sea. For some time he remained motionless, as if he had come there to follow the movements of the other swimmers and, although the fog prevented him from seeing very far, he stayed there obstinately, his eyes fi xed on the bodies that advanced through the water with diffi culty. Th en, when a wave more powerful than the others reached him, he in his turn went down the sandy slope and slipped among the currents that quickly immersed him. [TP: 23; cf. TN: 9/55] Th omas looks at the sea and then goes down into the waters, and so the novel begins. Th ere is very little space h…
+
+## Excerpt 53
+- id: b8a4e7022fe70f4b0c720f09
+- qdrant_id: 6ff4c1bf-8288-5aa4-bd01-2917e2d0c5b8
+- source: [Fordham Perspectives in Continental Philosophy] William S. Allen - Aesthetics of negativity_ Blanchot, Adorno, and autonomy (2016, Fordham University Press) - libgen.li.pdf
+- chunk_index: 43
+- importance: 0.7633
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+between writing and the /ogos” [EI: 125/88]. The play of light and dark in Blanchot’s language is nothing less than its negotiation of the relation between words and things in their mutual duplicity, which expresses itself in his writing in the paradoxical obscurity of its simple formulations and the clarity of its images, an inversion that gives rise to its combination of abstraction and flatness, its uncertain and thus enigmatic, fascinating depth. All this is to some degree reflected in the transition between the first and second version of 7homas l’Obscur, between the novel of 1941 and the much-reduced narrative or récit of 1950 (which was published as Thomas l’Obscur, nouvelle version), as | will now show. The decade between these two versions comprises the most critical period in Blanchot’s writings, during which he established himself as a literary critic as well as finding a way of bringing his critical and fictional investigations into dialogue
+
+## Excerpt 54
+- id: fd7beff52de1705ce52bc9b2
+- qdrant_id: f1a2a960-3b85-5c0d-9433-5fe00334ee6c
+- source: Jerome J. J. McGann - The Romantic Ideology_ A Critical Investigation (1985, University of Chicago Press) - libgen.li.pdf
+- chunk_index: 257
+- importance: 0.7669
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+creates and destroys, gets and spends. We are not permitted to remember 1793 and the turmoil of the French Revolution, neither its 1793 hopes nor—what is more to the point for Wordsworth—the subsequent ruin of those hopes. Wordsworth displaces all that into a spiritual economy where disaster is self-consciously transformed into the threat of disaster ("//"this/ Be but a vain belief," 50-51; my italics), and where that threat, fading into a further range of self-conscious anticipation, suddenly becomes a focus not of fear but of hope. For the mind has triumphed over its times. Thus the poem concludes in what appears to be an immense gain, but what is in reality the deepest and most piteous loss. Between 1793 and 1798 Wordsworth lost the world merely to gain his own immortal soul. The greatness of this great poem lies in the clarity and candor with which it dramatizes not merely this event, but the structure of this event. This part of my argument can be briefly concluded. The
+
+## Excerpt 55
+- id: c1c7f945f6611d126720d69e
+- qdrant_id: 3ce44076-0948-5f05-abeb-850b040efa7e
+- source: Arthur F. Redding - Haints_ American Ghosts, Millennial Passions, and Contemporary Gothic Fictions (2011, University Alabama Press) - libgen.li (1).pdf
+- chunk_index: 324
+- importance: 0.7647
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+that the ethical actions of individuals might make a small difference, and so provide a measure of consolation. The philosophy embedded in such nar- ratives aims, in what might be termed a solipsistic utopian gesture, still to console. Even so, the rhetoric of disaster weighs heavily and insistently upon the available (and dominant, in contemporary Ameri can cultural production) narrative logic of therapeutic redemption; prevailing stories of healing, clo- sure, resolution, transcendence, love, comprehension, and so forth promise us a rather facile passage through and beyond traumas that turn out not to be so traumatizing—disasters that turn out not to be so disastrous—after all. In other words, we might speculate that contemporary cultural produc- tions tend to project an awareness of “disaster” and then shy away from the implications, by dramatizing (usually in “personalized” terms) a safe pas- sage through it; consider the crowd- pleaser Fight Club (1999), wherein the
+
+## Excerpt 56
+- id: 696ace322afadbe52b63de00
+- qdrant_id: 9d8a636d-1894-5c1e-898a-8c60370985ed
+- source: [SUNY series in Contemporary Continental Philosophy] William S. Allen - Ellipsis. Of Poetry and the Experience of Language after Heidegger, Hölderlin, and Blanchot (2007, State University Of New York Press) - lib.pdf
+- chunk_index: 137
+- importance: 0.7643
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+his extended relations with Levinas, Derrida, and Nancy. 5. Blanchot, “Thinking the Apocalypse: A Letter from Maurice Blanchot to Cather- ine David,” tr. Paula Wissing, Critical Inquiry 15 (1989): 479. 6. For the overlap between these textual experiments see Clark, Derrida, Heidegger, Blanchot: Sources of Derrida’s Notion and Practice of Literature (Cambridge: Cambridge Uni- versity Press, 1991), 89–107. 7. All citations in the previous two paragraphs come from Blanchot, “Waiting,” tr. Michael Holland, in The Blanchot Reader (Oxford: Blackwell, 1995), 272–78. Hill pro- vides details on the background of this piece in “A Fragmentary Demand,” in The Power of Contestation, 101–20; more generally, Ann Smock provides a particularly fine reading of the convolutions of Blanchot’s writing in What Is There to Say? (Lincoln: University of Nebraska Press, 2003), 1–20. 8. See Emmanuel Levinas’s argument in Totality and Infinity: An Essay on Exteriority,
+
+## Excerpt 57
+- id: d70fca4e6973036efff7ec27
+- qdrant_id: 3f7532d5-8f7b-586e-8000-b413cae7896b
+- source: Jeff Fort - The Imperative to Write_ Destitutions of the Sublime in Kafka, Blanchot, and Beckett (2014, Fordham University Press) [10.1515_9780823254712] - libgen.li.pdf
+- chunk_index: 190
+- importance: 0.7661
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+itself, back behind itself, into its occluded and unknown element, which is the genuine element of the récit’s peculiar unfolding, the shadow detached from it and from the world in which it was lived and which therefore constantly conceals it. Th e récit does this, he says, “en chassant le mouvement des heures . . . en dissipant le monde” (“by chasing away the movement of the hours . . . by dispersing the world”; LV 254). In contrast, Blanchot calls journal writing a “trap” (one section is titled “Le piège du journal”) and harshly disparages it for, among other things, clinging to calendar time, and for “turn- ing toward the self” (“comme s’il y avait le moindre intérêt”; “as if there were the least interest”). In light of the present discussion, the impetus behind this condemnation takes on an intriguing aspect which appears to point more directly, albeit still quite obscurel…
+
+## Excerpt 58
+- id: 9609e26b080b72a6517b6bf9
+- qdrant_id: 25b72ff1-53cf-5596-9196-8399cba29878
+- source: [Parallax_ Re-visions of Culture and Society] Deleuze, Gilles_Stivale, Charles J - Gilles Deleuze's ABCs_ The Folds of Friendship (2010, Johns Hopkins University Press) - libgen.li.pdf
+- chunk_index: 325
+- importance: 0.7712
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+published in Negotiations, from which he provides precise excerpts. In this sense, Blanchot’s words about Foucault are all the more pertinent: “In bearing witness to a work demanding study (unprejudiced reading) rather than praise, I believe I am being faithful, however awkwardly, to the intellectual friendship that his death, so painful for me, today allows me to declare to him” (Blan- chot 1987, 109). I believe that this statement by Blanchot more than any other helps explain Derrida’s attitude in his homage of careful yet distant intellec- tual respect toward Deleuze, especially given the detailed reading that Derrida gives to this passage by Blanchot in Politics of Friendship. A second answer comes from Deleuze himself, in his provocative reflection on “friendship” in L’Abécédaire to which I referred in part 1, that is, the asser- tion that each of us is apt to seize upon a certain type of charm in another, or
+
+## Excerpt 59
+- id: b162716f6039abfcf8ff4a46
+- qdrant_id: 1e2451ae-09f1-5338-91b6-722c1d35b67f
+- source: Jacob Bittner - The Emergence of Literature_ An Archaeology of Modern Literary Theory (2020, Bloomsbury Academic) [10.5040_9781501354274] - libgen.li.pdf
+- chunk_index: 109
+- importance: 0.7618
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+emerges a link between madness and literature. In the essay “The Father’s ‘No,’ ” Foucault understands Blanchot’s discourse to place itself between literature and madness in the conjunction and: But a discourse (similar to Blanchot’s) that places itself within the grammatical posture of the “and” that joins madness and an artistic work, a discourse that investigates this indivisible unity and concerns itself with the space created when these two are joined, is necessarily an interrogation of the Limit, understood as the line where madness becomes, in a precise sense, a perceptual rupture. (AM, 18) For Foucault, both literature and madness manifest the discontinuity of history, the possibility of contingent “rupture.” In his review of the History of Madness, Blanchot addresses Foucault’s understanding of madness as a limit experience: “We have to ask ourselves if it is true that literature and art might be able to entertain these limit-experiences and thus, beyond culture,
+
+## Excerpt 60
+- id: 2f95598376c1cae41cff047f
+- qdrant_id: d79f9e99-4f10-5331-a7ee-b4388fea584c
+- source: Horror-of-Philosophy_-Eugene-Thacker-Tentacles-Longer-Than-Night.-3-Zero-Books-_2015_.pdf
+- chunk_index: 166
+- importance: 0.7532
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+the opening, forming a kind of dilapidated, tenebrous, prismatic sculpture. An opera by Verdi begins playing. Disastrous Life. “The disaster,” writes Maurice Blanchot, “ruins everything, all the while leaving everything intact.”42 In our era of natural disasters, climate change, global pandemics, and the ongoing specter of bioterror, we are continually invited to think about the extinction of the human race in terms that are at once philosophical and at the same time in terms of the themes of which the horror genre is made. Given this context, it would seem that the
+
+## Excerpt 61
+- id: cb799a518678b285fd647e37
+- qdrant_id: 3ba3af2e-ecfa-5e3c-a1a7-bd20ba8cb96e
+- source: Richard Gilman-Opalsky - The Communism of Love_An Inquiry into the Poverty of Exchange Value-AK Press.pdf
+- chunk_index: 91
+- importance: 0.7578
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+human beings—from slavery to patriarchy to capitalism—are irreducibly antagonistic to love. Love is an opposite logic to the various logics of possession and private property, and can be understood and enacted as an antidote to privatization, isolation, and frailty. 1.2 Gemeinwesen as Communist Logic Maurice Blanchot was a friend of Emmanuel Levinas. Some of Blanchot’s major works, including Friendship (1971) and The Writing of the Disaster (1980), take up Levinas’s philosophy directly, and elsewhere in Blanchot’s writings the influence of Levinas is clear. Blanchot also read and referenced Simone Weil in various texts, including in The Writing of the Disaster. Yet Blanchot was often thinking of and writing about communism, about communist writers and philosophers, social upheaval, revolt, and the political dimensions of community. Nevertheless, Blanchot does none of this as a communist …
+
+## Excerpt 62
+- id: bf95c11329cb2ff933e035d6
+- qdrant_id: 7f1a945f-df21-52d2-ab48-cd20ea22f20b
+- source: Gillian Rose - Mourning Becomes the Law_ Philosophy and Representation (1996, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 327
+- importance: 0.7606
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+'the absolute concern for truth' which depends on 'an incapacity to act in a real way'.14 Blanchot's movement "from the civil to the absolute may be discerned, therefore, as the movement from the historically structured injustice orthe spiritual-animal kingdom to the unworked passivity, sublime and non-sublimated, which is developed in the Writing of the Disaster. His oeuvre may be shown to be in the grasp of impersonal meanings and powers in a sense which he is unable to acknowledge within his own tran- scendent reduction of the meaning of meaning. The engagement with Hegel's notion of experience cannot, in effect, take place. In Hegel 'the disparity between concept and actuality which lies in [thel cssence [of the action of the individ- ual consciousness] is learnt by consciousness in its work' (empha- sis added),1s that is, there is objectivity or objective reality which is…
+
+## Excerpt 63
+- id: 676e67f4e634d7dec89e2804
+- qdrant_id: 7cf2c7bb-967f-52d3-98f0-46cbf7e38083
+- source: Monika Loewy - Phantom Limbs and Body Integrity Identity Disorder_ Literary and Psychoanalytic Reflections-Routledge (2019).pdf
+- chunk_index: 129
+- importance: 0.7663
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+insight into the “non-­rational”. These conditions resist complete linguistic expla- nation, so it is important to explore theories concerned with the silences within language and with physical expression. In developing these ideas, I focus on the work of Maurice Blanchot, because, as Hassan (1971) writes, “Blanchot under- stands the authority of the negative; he dwells constantly on the limits, the impos- sibility of literature” (19). I am not alone in drawing links between phantom limbs and postmodern thought, as the following analysis of literary limbs demonstrates. Literary limbs In his article “Archive Trauma” (1998), Herman Rapaport argues that Derrida’s “The Post Card may well be Archive Fever’s phantom limb, something essential that has been cut off and that haunts the text” (69). Rapaport proposes that if we read Derrida’s writings on archives while keeping the “phantom li…
+
+## Excerpt 64
+- id: 348963c144e7e5db44d029d2
+- qdrant_id: d94c9b0f-c62a-57fa-b38a-89eea331b8ae
+- source: [Theory and History of Literature Series 77] Hélène Cixous - Readings_ The Poetics of Blanchot, Joyce, Kakfa, Kleist, Lispector, and Tsvetayeva (1991, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 414
+- importance: 0.7614
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+The text produces its own outside. It is completely enclosed and saturated. The reader wanders along the text's closure. Blanchot wants us to stray along the closure so that there is a total absence of chronology, since inside madness there is no time, only the day, eternal or ephemeral, it matters little. The text is written in the imperfect, the tense of narration. We read the text, led on by the imperfect that makes us believe that it is past, but at no point does the text make us believe that something is past. In this mad text, there is not outside and the past is still here. The Madness of the Day may be a text on God, on madness become God. It is as if Blanchot said: What if I took myself for God? But for what God? God for us, in our mythologies and religions? At the limit, one could say that the narrator is impotent as an all-powerful God, and that the text is about impotence as well as power. It is evident that God is infinitely powerful, but that does not mean any-
+
+## Excerpt 65
+- id: d7e28550ea6b0df08cda5820
+- qdrant_id: 546df698-c3f9-5455-b982-1990e5fc07ab
+- source: Romanticism and Speculative Realism (Chris Washington Anne C. McCarthy) (Z-Library) (1).pdf
+- chunk_index: 69
+- importance: 0.7596
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Blanchot. Although Collings reads this cluster of poems as effacing the concept of justice, it “does not leave the reader without recourse,” but rather, in opposition to Brassier’s nihilism (concepts Ottinger also discusses), invokes a “radical passivity” that resists the anthropocentrism that remains at the heart of nihilistic disaster. Collings’ radical passivity proposes a startling and empathic form of a justice-to-come that departs from Meillassoux’s resolutely anthropocentric Fourth World of justice. Aaron Ottinger’s essay crosscuts Collings’s argument, although it finds a positivity in Brassier’s ideas about extinction that underlines a different type of disaster, one that is mathematical and material. As Ottinger explains, to Brassier, “from the perspective of extinction … the world has already unfolded, everything has already happened, and therefore the universe, includ…
+
+## Excerpt 66
+- id: 058915c265e2cab98472abee
+- qdrant_id: 9f3bb1f7-ceed-5368-9c1a-bfaf7cff5159
+- source: Timothy O'Leary - Foucault and Fiction_ The Experience Book (Continuum Literary Studies Series) (2009, Continuum) - libgen.li.pdf
+- chunk_index: 396
+- importance: 0.7655
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+himself, through his own speech. ‘I would gladly give myself the shape . . . of an egg,’ he says, and later even the tear-ﬁ lled eyes will be transformed: ‘I’ll dry those streaming sockets too, bung them up, there, it’s done, no more tears, I’m a big talking ball, talking about things that do not exist, or that exist perhaps, impossible to know, beside the point’ (U, 305). Whether or not such things exist is beside the point because, nonetheless, they are there for us, the readers of the novel. They attest to the power of language to convey ‘that which does not exist, in so far as it is’ (1963c: 280). Blanchot has observed that ‘What most threatens reading is this: the reader’s reality, his personality, his immodesty, his stubborn insistence upon remaining himself in the face of what he reads’ (1982: 198). We can take it, therefore, that every work of literature will have to o…
+
+## Excerpt 67
+- id: 1d6355dd618229b88d1024b7
+- qdrant_id: 1de2abbc-c660-5a40-86d5-7fe3cb39e45b
+- source: David Jones_ Jason M. Wirth_ Michael Schwartz - The Gift of Logos _ Essays in Continental Philosophy (2010, Cambridge Scholars Publishing) - libgen.li.pdf
+- chunk_index: 120
+- importance: 0.7539
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Chapter III 58 13 Maurice Blanchot, The Instant of My Death/Demeure: Fiction and Testimony, trans. Elizabeth Rottenberg (Stanford: Stanford University Press, 2000). 14 Blanchot, The Infinite Conversation, 420ff. 15 For an excellent treatment of this topic, see Paul Davies, “The work and the absence of the work,” in Maurice Blanchot: The Demand of Writing, 91-107. 16 Maurice Blanchot, The Writing of the Disaster, trans. Ann Smock (Lincoln and London: University of Nebraska Press, 1995), 3. 17 Blanchot, The Infinite Conversation, 423. 18 Ibid., 424. 19 Ibid., 423. 20 Ibid., 424. 21 Ibid., 425. 22 On this crucial term, see Leslie Hill, “After Blanchot,” in After Blanchot, 16-18. 23 Blanchot, The Infinite Conversation, 426. 24 Ibid., 428. 25 See ibid., 428-429. 26 The statement is found in Nietzsche’s last letter to Jacob Burkhardt dated January 6, 1889. 27 Blanchot, The In…
+
+## Excerpt 68
+- id: bf83cd8587ee635403903b49
+- qdrant_id: 3654f97f-9c02-54f1-8595-86fa45fd7f1b
+- source: William S. Allen - Aesthetics of Negativity_ Blanchot, Adorno, and Autonomy (2016, Fordham University Press) [10.1515_9780823269310] - libgen.li.pdf
+- chunk_index: 156
+- importance: 0.7602
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+by a Void: Aporetic Writing and Th inking in L’attente l’oubli,” Word and Text 5 (2015): Special Issue on Blanchot’s Spaces. 5. Mallarmé, Correspondance, 2:301. 6. Hill, “Blanchot and Mallarmé,” MLN 105 (1990): 889–913, and Holland, “From Crisis to Critique: Mallarmé for Blanchot,” in Meetings with Mallarmé in Contemporary French Culture, ed. Michael Temple (Exeter: University of Exeter Press, 1998), 81–106, are the best introductions to Blanchot’s readings of Mallarmé. 7. See Anne- Lise Schulte Nordholt, Maurice Blanchot: L’écriture comme expérience du dehors (Geneva: Droz, 1995), 193–225; Marie- Claire Ropars- Wuilleumier, “On Unworking: Th e Image in Writing according to Blanchot,” tr. Roland- François Lack, in Maurice Blanchot: Th e Demand of Writing, ed. Carolyn Bailey Gill (London: Routledge, 1996), 138–52; and Georges Didi- Huberman, “De ressemblance à resemblance,” in Maurice Blanchot: Récits critiques, ed.
+
+## Excerpt 69
+- id: a3c0909d4d2dd958e5cc061d
+- qdrant_id: ea1b6e4b-c30c-5dfd-92b2-80f016d0be3c
+- source: Jeff Fort - The Imperative to Write_ Destitutions of the Sublime in Kafka, Blanchot, and Beckett (2014, Fordham University Press) [10.1515_9780823254712] - libgen.li.pdf
+- chunk_index: 183
+- importance: 0.7582
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+256 blanchot two sections, “L’image” and “Ecrire . . .” Th ere Blanchot characterizes literary space as a space of images opened in solitude and fascination, a space “en deça du monde,” falling short of world, into which “one” wanders, driven and drawn—“entraîné”—by a pas- sion of distance: “la fascination est la passion de l’image” (“fascination is the passion of the image”; EL 29), he writes. Such images are encountered only in a solitude rendered “essential” by being stripped of all objects, and of any subject, for that matter, of any “I” capable of acting in relation to them. Th eir fascinated passionate pursuit is thus also a pursuit of the origin of images, of vision itself, which reaches back away from lived expe- rience into images that do not owe their appearance to anything that has preceded them. Quiconque est fasciné, on peut dire de lui qu’il n’aperçoit aucun objet ré…
+
+## Excerpt 70
+- id: d6a52044264fc5b579631949
+- qdrant_id: 0ae0fa94-f30d-5b98-b36e-e7e8ef5f8a0c
+- source: Johanna Skibsrud - The Poetic Imperative_ A Speculative Aesthetics (2020, McGill-Queen's University Press) [10.1515_9780228003052] - libgen.li.pdf
+- chunk_index: 271
+- importance: 0.7550
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+events he perceives as “one single catastrophe which keeps piling wreckage upon wreckage” (1968, 257) at his feet – and then I think of Kearney, and Robertson, and Moure, of Craig Santos Perez, Angela Rawlings, M. NourbeSe Philip, Anne Carson, and so many more contemporary poets committed to a different trajectory, a different vision. Their poetry enacts a “state of emergency” in Benjamin’s sense. It is a mode of thought and an approach to language that has the potential to reveal – within every discourse and every moment of his- tory – an opening for what has not yet been brought into either action or words. It is an orientation and a responsibility – simultaneously – toward the material facts of language and history and toward truth understood not as a category of knowledge, but as a commitment toward active interpretation and a “being in the direction of chance” (Cixous 1993, 112). 140 th e p oet i c i m pe rat ive
+
+## Excerpt 71
+- id: fd2847a936f26efc9af5a6f7
+- qdrant_id: d2018b57-a5f6-5681-a559-68cabb2b552c
+- source: Gillian Rose - Mourning Becomes the Law_ Philosophy and Representation (1996, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 318
+- importance: 0.7560
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+between cities. 'Eventually we have to put a term to the intermin- able. We do not cohabit with the dead for fear of seeing here col- lapse into unfathomable nowhere. , . And so the dear departed is conveyed into another place'; this 'unsituatable' 'here lies' is 'the anonymous and impersonal place par excellence' (p. 259). Between Plato's interested, highest spirit, aroused by the desire to gaze at dead bodies on the boundary of the city, and Blanchot's indifferent, least spirit, dmined of passion at the image of the imposing cadaver in unsituatable space, the disaster has taken place - the disaster which has made Blanchot vow to renounce all passion, all feeling, all suffering, at the sight of the beloved dead. This leads him to banish the city to the discourse of the term - the measure and the monument - yet the term is voided of the diffi- culty of justice in the city. lbis…
+
+## Excerpt 72
+- id: 6b7ffc72798f21bdc626c48e
+- qdrant_id: f55f158a-1f07-5666-a3bd-c39e9f95b468
+- source: Michael J. Shapiro - The Political Sublime (2018, Duke University Press) [10.1515_9780822372059] - libgen.li.pdf
+- chunk_index: 37
+- importance: 0.7540
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+Introduction 9 the chapter). The last chapter, “The 9/11 Terror Sublime,” is also about an immediate catastrophe, the destruction of the World Trade Center and the loss of thousands of lives. The middle three chapters—“the racial sublime,” “the nuclear sublime,” and the “industrial sublime”—treat longer-­term catastrophes (associated with the violence of the color line, nuclear poisoning in the American West and the Pacific, and the damage to land- and peoplescapes from the ma- chine age onward, respectively). In all the chapters, my emphasis is on the way the meanings and implications of events are mediated in diverse cultural and artistic texts. Within each of those investigations, I enlist philo- sophical frames that “interfere” with the texts that constitute the trajectory of my politically oriented textual mediations of the apprehension–compre- hension temporal gap.24 Chapt…
+
+## Excerpt 73
+- id: dd5ad9d36b912b9955b3402f
+- qdrant_id: 3a29f8b8-02f2-5803-ba4b-c089b3a19bed
+- source: Viney, William - Waste_ A Philosophy of Things (2014, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 114
+- importance: 0.7577
+- seed_hits: autotheory-maggie-nelson-the-argonauts
+
+their non-use, re-use and reassembly. Parker’s description of this work, along with her morbid invocation of Conrad’s novella, sets our narrative interpretation upon a particular tack. We are told that the Florida Forestry Division was ‘managing’ a woodland area by burning back what was adjudged overgrown, but the fire got out of control and quickly spread, burning large areas of woodland. As in Mass, Parker collects the remains of this event and arranged them in a cube, suspending the fragments on wire. Again, the human and the non-human are tragically interconnected; any attempt to apportion blame will soon be lost in a riddle of chance and speculation. For instance, trying to designate whose ‘heart’ has been darkened or where this heart is said to reside has been rendered problematic by a work composed of a multitude of actors, all of which relate to one another in subtly different ways. The work is the tip of an enormous, sprawling sequence of events
+
+## Excerpt 74
+- id: bc2826926e84e0807f1658e5
+- qdrant_id: 9891087c-dd9a-5964-b289-1f9fb1525d80
+- source: [Theory and History of Literature Series 77] Hélène Cixous - Readings_ The Poetics of Blanchot, Joyce, Kakfa, Kleist, Lispector, and Tsvetayeva (1991, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 132
+- importance: 0.7771
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+has no grief. The sole passion of his life will have been this feeling of ecstatic happiness, once and for all. That is because in Blanchot, we stay in the space of the classical moral law and of the categorical imperative. But there are always variants. In Kafka, it is not as clear as in Blanchot where it is written in a kind of a scintillating black and white. In Kafka, everything is very ambiguous. The man is insatiable and he still cries. A key for understanding is given too late. There are continuous slippages. It is either as if Kafka could not tolerate such cruelty or as if he told himself the story. Clarice Lispector completely displaces the dilemma. She never did enter the world of the law as it is described here. This does not mean that she is absolutely without law. If we look at the different positions, we can say that where Blanchot discovers that there are no stars in the s…
+
+## Excerpt 75
+- id: b6fbeda9c02361395aaacb0a
+- qdrant_id: bec3cb96-78a0-5ce5-907d-c85a5a8728d4
+- source: [At the interfaces probing the boundaries 38] Scott, Niall - Monsters and the monstrous _ myths and metaphors of enduring evil (2007, Rodopi) - libgen.li.pdf
+- chunk_index: 78
+- importance: 0.7619
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+was, in effect, an entirely new vision of sewers, where the magical was overlaid onto the rational, in order to make the prosaic pleasing. However, in the particular space of the subterranean reservoir, where even if the sewage was not visible it was however present in the imagination, older associations emerged, or perhaps resurfaced - not unconsciously as might be suggested by the psychological model - but with the writers fully alert to the contradictory aspects of this experience and the pull of both fascination and fear. It was the unique character of this space that prompted a conflation of the rational, magical and monstrous - a point emphasised by the writers themselves, who knew this was an experience never to be repeated. Indeed, for the writer for the Daily Telegraph, the new vision paradoxically stimulated these older associations: in short, old and new were insepa…
+
+## Excerpt 76
+- id: 73c88fc991420c8346830395
+- qdrant_id: 85b6e85f-122d-5229-9c9a-a57d1962afac
+- source: Emily McLaughlin_ - Yves Bonnefoy and Jean-Luc Nancy _ Ontological Performance-OUP Premium (2020).pdf
+- chunk_index: 165
+- importance: 0.7576
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+of catastrophe and apocalypse: ‘Effondrements sur la route des hommes, / Piétinements, clameurs au bas du ciel’ (DL, 64). The ravaged landscape that the poet describes here, this ‘lande du sens’, recalls T.S. Eliot’s The Waste Land. Bonnefoy writes: ‘C’est comme si le feu avait pris feu, / Et ce second brasier, dépossession, / Comme s’il prenait feu encore, dans les hauts / De l’étoffe de ce qui est’ (DL, 65). The fire or the light that revealed the sanctity of existence at the beginning of ‘La Terre’ now consumes itself endlessly, fuelled by nothing other than its own negativity. Bonnefoy suggests that what might have been a home has been turned into a wasteland. Humanity
+
+## Excerpt 77
+- id: 11c30dabe06e4d0814685a2c
+- qdrant_id: c470a85c-f97f-5df3-95dc-f10b91c3e491
+- source: [Theory and interpretation of narrative] Brian Richardson - Unnatural voices_ extreme narration in modern and contemporary fiction (2006, Ohio State University Press) - libgen.li.pdf
+- chunk_index: 194
+- importance: 0.7322
+- seed_hits: achille-mbembe-necropolitics-postcolony
+
+authoritative: “Our clearest remembrances begin with a home before we came near the desert of the falling sun” (4). A major drama of the book is the failure of the disparate groups to fully converge; as Mar- golin observes, “the source of Africa’s tragedy, according to Armah, is the unbridgeable gap between the People of the Way [contemporary African political activists] and the rest” (“Collective” 125). This tech- nique of narration is well suited to presenting an alternative group’s aspirations and sensibility, as we have already seen; it would be used again to present a comparable postcolonial critique by black writers from the Caribbean and South Africa. Martinican Edouard Glissant has written three novels that employ “we” narration: Malemort (1975), La Case du commandeur (1981), and Mahagony (1987) and has called for a “roman de nous” to ade- quately express the Antillean…
+
+## Excerpt 78
+- id: 636444e4301abae162b79fa0
+- qdrant_id: 3378e2c1-e0c8-5b1a-befc-7da1faff214a
+- source: Marc C. Conner - The Aesthetics of Toni Morrison_ Speaking the Unspeakable (2000, University Press of Mississippi) - libgen.li.pdf
+- chunk_index: 65
+- importance: 0.7478
+- seed_hits: autotheory-maggie-nelson-the-argonauts, maggie-nelson-bluets-blue-as-methodology
+
+her work upon the world at large, and she has certain hopes, if not inten- tions, for what that work will accomplish in the political realm. As she has described her effort, "my mode of writing is sublimely didactic" (Koenen 74). Morrison's hope is simultaneously to reveal and to heal, to strip away the il- lusions to show why African-American life remains to many an embattled existence, and to minister to a beleaguered population: "There has to be a mode to do what the music did for blacks, what we used to be able to do with each other in private and in that civilization that existed underneath the white civilization. I think this accounts for the address of my books. I am not explaining anything to anybody. My work bears witness and suggests who the outlaws were, who survived under what circumstances and why, what was legal in the community as opposed to what was legal outside it. All that is in the fabric of the story in order to do what the music used to do" (LeClair
+
+## Excerpt 79
+- id: 319e854b77e17ee574e642a9
+- qdrant_id: 6cab895b-4f37-50a1-afd8-35bd7732f33c
+- source: _- A Companion to Romance-Wiley-Blackwell (2004).pdf
+- chunk_index: 194
+- importance: 0.7244
+- seed_hits: autotheory-maggie-nelson-the-argonauts
+
+reading; which turns upon difficulties encountered, battles fought, and enemies overcome, four or five hundred by the prowess of one single hero, the more improbable the better in short, that their man should be a hero to every one living but themselves; and to them know no bound to his humility’’ (I, 243; XLVI). This connection between romance and unthinking slavery later became a trope commonplace among radicals in the debate after the French Revolution, but for Richardson the influence of classical literature was equally questionable. Having mitigated the romance association with licentiousness, Richardson both utilized the form’s idealism and indicated its mimetic value. Like later commentators who found the rhetoric of romance a potential vehicle to describe oppression, Richardson used its motifs to depict social injury. Like Jane Austen in Northanger Abbey (1818), even while Richar…
+
+## Excerpt 80
+- id: 240dbcf347e95232e436039f
+- qdrant_id: 301bb547-1157-5b12-8c4e-d1e51f8b43ee
+- source: [International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf
+- chunk_index: 119
+- importance: 0.7796
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Michel Serres has been a crucial ﬁgure in the development of ANT. Indeed, after immersing oneself in the literature on ANT, to read his work is to be rocked by the shock of recognition (but it is also, alas, to read his work through ANT). His huge oeuvre has covered many substantive topics – the nature of education and instruction (Serres, 1997), human–nature relations (Serres, 1995a), the common- ality of motifs in literature and science (Serres, 1982a), the relation between order and chaos (Serres, 1995b). Central to his work, however, are a number of inter-linked themes that he has elaborated across a range of ‘studies’. Needless to say, I cannot hope to do justice to this body of work – at most I will aim to extract several notable issues that Serres has articulated and which can serve as additional resources for thinking about heterogeneity and distributedness. How does one think of the contact and communication between disparate

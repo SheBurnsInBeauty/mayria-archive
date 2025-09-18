@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: lauren-berlant-cruel-optimism-affect
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: 0f9f35508975432d9f007012
+- qdrant_id: 8a777c86-942f-5108-96e7-550a0c77df28
+- source: Noir Affect (2020, Fordham University Press) [10.1515_9780823287796] - libgen.li.pdf
+- chunk_index: 68
+- importance: 0.7987
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Introduction 15 with the uncomfortable, the repressed, and the uncanny (the uncanny it- self can be read as a manifestation of anxiety, in which what was thought to be strange is not only familiar, but much too proximate). This notion of anxiety (and its disavowal) can also be linked to Lauren Berlant’s concept of cruel optimism. Berlant describes cruel optimism as a neoliberal affec- tive state in which people are invested in attachments that inhibit their own flourishing. For example, neoliberal discourses like self- help, postmodern management, and “staying positive” function to cover over the exploited subject’s anxious relationship to a neoliberal order that is systematically im- poverishing them. Cruel optimism is a positive affect, but one that func- tions as an embodied ideology and is thus a negative phenomenon. It enables the subject to evade a confrontation with the n…
+
+## Excerpt 2
+- id: 550559126781038668a4c6b9
+- qdrant_id: 93a850bf-f652-5a90-88d6-b01916a0ff16
+- source: Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects (2017, Columbia University Press) - libgen.li.pdf
+- chunk_index: 62
+- importance: 0.7884
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+tasies of satisfaction even after they have repeatedly disappointed us. We, in short, endorse forms of life that are not in the least bit good for us, coming, as it were, “to misrecognize the bad life as a good one” (174). The hope that effort will eventually pay off, that things will eventually get better, keeps many of us loyal to ways of life that demoralize us; we are so seduced by the mirage of happiness that shimmers on the horizon that we stay patient even when we should not. On the one hand, Berlant is criti- cal of this dynamic, of “the ‘technologies of patience’ that enable a concept of the later to suspend questions about the cruelty of the now” (2011, 28). On the other, she is careful not to pathologize cruel optimism because she recognizes that a degree of hopefulness about the future can be a precondi- tion of surviving the harshness of the present. Precisely becaus…
+
+## Excerpt 3
+- id: c84ff55f4b62d2c1c7696ba3
+- qdrant_id: bef688a8-7c98-5b8e-a4d3-b1557e2ae9c0
+- source: [Sexual cultures] Musser, Amber Jamilla - Sensational flesh_ race, power, and masochism (2016, New York University Press) - libgen.li.pdf
+- chunk_index: 115
+- importance: 0.7783
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+28 Introduction agency under conditions of constraint. In this way, I read The Story of O as one of the spaces of cruel optimism that Lauren Berlant discusses in her analysis of life under neoliberalism. Berlant writes, “In cruel opti- mism the subject or community turns its treasured attachments into safety-deposit objects that make it possible to bear sovereignty through its distribution, the energy of feeling relational, general, reciprocal, and accumulative. . . . In a relation of cruel optimism our activity is revealed as a vehicle for attaining a kind of passivity, as evidence of the desire to find forms in relation to which we can sustain a coasting sentience, in response to being too alive.”72 In her formulation of cruel optimism, Ber- lant connects fantasies of change, manifested as a desire for passivity and an investment in materiality, to the reality of structural powerlessness. Though Berlant is invested in life under the slow death of neoliberalism,
+
+## Excerpt 4
+- id: fdf13991f7843189ac4fcc82
+- qdrant_id: 90417f8d-7ae2-5991-af86-3d9a5847c312
+- source: Joshua Paul Dale (editor) - The aesthetics and affects of cuteness (2017, Routledge) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.7622
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+actually an obstacle to your ﬂourishing” (1). The optimism becomes cruel when “the object/scene that ignites a sense of possibility actually makes it impossible to attain the expansive transformation for which a person or a people risks striving” (Berlant 2). Simultaneously, the optimism is cruel because one is conﬁrmed by (and perhaps derives pleasure from) a relation that is actually damaging. In other words, the very thing one imagines will bring about change or possibility is that which makes it impossible. Along these lines, I conceive of cruel relief as a form of relief that is cruel in its evanescence. Cute animal videos help us to exist by providing a momentary form of connection, a tug, a charge, a moment of respite. The relief is cruel because it is so ﬂeeting and because it normalizes neoliberal capital and work, thus intensifying the subjection of the relieved subject. Cutene…
+
+## Excerpt 5
+- id: 7c3cf6adf4e2676e7cc26790
+- qdrant_id: 562a2a9f-d49b-54af-a586-236a32d8b006
+- source: On the Inconvenience of Other People (Lauren Berlant) (Z-Library).pdf
+- chunk_index: 14
+- importance: 0.7536
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+praise for lauren berlant “ For Lauren Berlant, to be intellectual is to produce new forms for optimism by being in sync with someone, with something forming up in some rickety damaged world. Work, afer Berlant, is a binding to things ideas people smells we don’t know. The binding is what matters in the labor of making a more ﬁtting world for the aﬀects we have.”—kathleen stewart “ Lauren Berlant’s stunning achievement is that they used not only their uncanny sen- sitivity to see the aﬀective impact of power over time, to analyze the dominion of neoliberal capitalism’s cruelties in daily lives of struggling precarity but also to mine the utopian wishes embedded in otherwise crushed hopes. Their imperviousness helped them put their genre-bending work out there despite not ﬁtting any disci- plinary or theoretical mold. Berlant’s alchemical trick was to turn the everyday life of diﬃ…
+
+## Excerpt 6
+- id: c8378b6ea629874e62d8bdf2
+- qdrant_id: 35a0ddd6-ccb5-57b2-bf25-2a8952d5f604
+- source: Dan Sinykin - American literature and the long downturn _ neoliberal apocalypse (2020) - libgen.li.pdf
+- chunk_index: 86
+- importance: 0.7640
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Levine, performs similar work to mediation for Jameson, opening a contact zone for literature and society, literature and life. Her conception of form enables her to introduce the idea that forms have affordances, certain tasks that, because of how they impose order, they accomplish. Neoliberal apocalypse resolves social contradictions, yes, and it also, in its encounter with social forms imposed by the long downturn that feel hopeless—like mass incarceration or networks of global ﬁnance or debt peonage—affords a sense of hope. The tragedy of neoliberal apocalypse is that the sense of hope it affords is betrayed by the long downturn, lending itself to the contemporary structure of feeling that Lauren Berlant calls “cruel optimism.”³² Literature, then, entails symbolic acts and the enactment of forms with certain affordances, and it is, also, a commodity vying for distinction within a lit…
+
+## Excerpt 7
+- id: edccdd1a07fafe0ba685f358
+- qdrant_id: df2cc237-e2ec-5719-87d1-9e70eaca0113
+- source: Robert Eaglestone (editor) - Brexit and Literature_ Critical and Cultural Responses (2018, Routledge) - libgen.li.pdf
+- chunk_index: 94
+- importance: 0.7569
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Cruel nostalgia and the memory of WWII 95 policies: politicians leading parties which are dominated by affect do not have clear, complex policies but rather seek to embody moods, as a journalist writes of ‘the public mood’. But moods are moods about something. They have a hard-to-pin-down history, form and shape and can cannot be easily analysed (in a survey) but they are still there and potent. Indeed, they carry meanings or consequences of their own. Berlant’s most celebrated book about the consequence of affect is called Cruel Optimism. Optimism becomes cruel when hoping or striving for what you desire is actually harming you. The object of your desire can be political (a ‘change’s gonna come’, ‘making Amer- ica great again’) or personal (‘when I’m thin’) or both, as in the case of Berlant’s real target, the American Dream in an era of post–credit crunch financial depressi…
+
+## Excerpt 8
+- id: d21ec10db4e6e292ca818edc
+- qdrant_id: f7c6b413-6b70-52c8-b03d-a30dd26a5d6c
+- source: Anable, Aubrey - Playing with feelings_ video games and affect (2019, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 421
+- importance: 0.7682
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+very real risk of losing hold of the device and launching it into the air. In Cruel Optimism Berlant argues for reading disturbances in bodily ges- tures, what she calls “glitches,” for how they register affective adaptations through historical moments of loss. Berlant is most concerned with losses around what she calls the fantasy of “the good life,” by which she means the fraying of “upward mobility, job security, political and social equality, and lively, durable intimacy.”18 She explains, “I want to show how trans­actions of the body of the aestheticized or mediated subject absorb, register, re- enact, refigure, and make possible a political understanding of shifts and hiccups in the relations among structural forces that alter a class’s sense of things, its sensing of things.”19 Through Let’s Play and Snek, Barr asks us to perform these glitches. The games use the aesthetics…
+
+## Excerpt 9
+- id: 05a906c06d66b52d56c4e43a
+- qdrant_id: dc7a3f43-23b9-52a1-b2fe-d3a8a91636e2
+- source: How We Hope _ A Moral Psychology -- Martin, Adrienne -- Course Book, 2013 dec 31 -- Princeton University Press -- 9780691151526 -- b1d37d726c912b7e9a64cdd6997c8f62 -- Anna’s Archive (1).pdf
+- chunk_index: 144
+- importance: 0.7591
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+she feels a positive feeling of anticipation—­indeed, this is what we might call the feeling of hope, its occurrent affective presence. In the original version of Cancer Research, I characterized Alan as hope- ful but not as hopeful as Bess. He does not, I said, really hope against hope. Under the incorporation analysis, the difference is one of degree. Alan per- haps stands ready to justify some of these activities; he thinks it is reasonable to fantasize a bit about good outcomes and feel fairly positive about his fanta- sies. But he hesitates to go as far as Bess. That 1 percent chance, by his lights, permits a degree of hope, but it is still extremely low, and he is careful not to go too far and focus too much on the possibility of a cure. If we change the case to one where Alan despairs, this analysis allows for two possibilities. First, given that Alan has bothered to enroll …
+
+## Excerpt 10
+- id: ed4eaa199337a9b47998146f
+- qdrant_id: 12e56bc7-75b4-527a-b54e-1ce89b84064f
+- source: Lauren Berlant - Cruel Optimism-Duke University Press Books (2011).pdf
+- chunk_index: 192
+- importance: 0.7462
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+lauren berlant is the George M. Pullman Professor of Eng lish at the University of Chicago. She is the author of The Female Complaint: The Unfinished Business of Sentimentality in American Culture (2008), The Queen of America Goes to Washington City: Essays on Sex and Citizenship (1997), and The Anatomy of National Fantasy: Hawthorne, Utopia, and Everyday Life (1991). . . . Library of Congress Cataloging-in-Publication Data Berlant, Lauren Gail, 1957– Cruel optimism / Lauren Berlant. p. cm. Includes bibliographical references and index. ISBN 978-0-8223-5097-2 (cloth : alk. paper) ISBN 978-0-8223-5111-5 (pbk. : alk. paper) 1. United States—Social conditions—1980– 2. Popular culture—United States. 3. Optimism—United States. 4. Progress. I. Title. HN59.2.B464 2011 302.23′4097309045—dc23 2011021902
+
+## Excerpt 11
+- id: afb9b49d3ac27b010041eb83
+- qdrant_id: dcdd686b-f049-5c92-9191-14e37813e0b8
+- source: Elizabeth S. Anker (editor)_ Rita Felski (editor) - Critique and Postcritique (2017, Duke University Press) [10.1515_9780822373049] - libgen.li.pdf
+- chunk_index: 48
+- importance: 0.7573
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+the face of cultural devastation.22 Another influential example of this embrace of the affirmative is the late Jose Muñoz’s galvanizing Cruising Utopia: The Then and ­There of Queer Futurity; for Muñoz, idealism, utopia, and “the anticipatory illumination of art” serve as much-­needed antidotes to the tone of fatalism and disappointment that is often endemic to critique.23 To be sure, not all affect theorists see themselves as working outside or against the tradition of critique. In Cruel Optimism, for example, Lauren Ber- lant explores how affective attachments structure common fantasies of up- ward mobility, job security, po­liti­cal equality, and durable intimacy. Linking her study of pres­ent-­day affects to a tradition of Marxist theory, for Berlant an emphasis on the notion of crisis offsets the overly buoyant or celebratory tenor of many recent appeals to affect, maintaini…
+
+## Excerpt 12
+- id: 223148bf93932e8863509986
+- qdrant_id: d15fe2b9-603a-59e3-8a92-02e90d82f18a
+- source: Earla Wilputte (auth.) - Passion and Language in Eighteenth-Century Literature_ The Aesthetic Sublime in the Work of Eliza Haywood, Aaron Hill, and Marth (2014, Palgrave Macmillan) [10.1057_9781137442055] - libgen..pdf
+- chunk_index: 140
+- importance: 0.7597
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+to being sympathetic to the performed (as opposed to the actually suffered) passions of others. A woman’s love makes her susceptible to her lover’s mere performance of love’s symptoms and his repetition of amorous tropes because she reads his actions through her own feel- ings. Belinda notes “a certain Languishment” in Courtal’s eyes; she “often heard him sigh, observed him to look pale and tremble when on any Occasion he touched my Hand, Symptoms which I now began to know were infallible Tokens of a Tenderness far beyond that which springs from bare Esteem.”24 Thoroughly familiar with the theater and the performances of the passions, Haywood instills an irony in Belinda’s observation. Courtal’s signs of tenderness are “infallible” only because they convince Belinda that they are real. Though Haywood’s novels often include references to how rakes take advantage of innocent wom…
+
+## Excerpt 13
+- id: 601d3d1c9783945e51969703
+- qdrant_id: e18b24a6-226a-5382-baf9-eb1f96367f06
+- source: [Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf
+- chunk_index: 554
+- importance: 0.7557
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+institutions of intimacy are circulated and renegotiated in American women’s culture” (Linke 2011: 18). In assessing her contribution overall, Linke maintains that: “[although] her concept of intimate publics retains some ambiguity, Berlant offers, along with other feminist theoreticians of the public-private relationship, a challenge to include diverse life narratives that may inspire serious thought on social struc- tures, a challenge particularly relevant to powerful mediators in publishing, museums, broadcasting, and new media” (Linke 2011: 22). Linke’s compara- tive analysis of Sennett and Berlant provides a useful and insightful summary of some crucial issues in the significance of the public sphere for both writers. Further analysis of Berlant’s unique critique of contemporary society is offered by de Villiers (2012), who focuses his analysis on Berlant’s (2011) Cruel Opti…
+
+## Excerpt 14
+- id: 8a96aacf684eaacf63dc63e8
+- qdrant_id: df9e850f-909b-5601-84ea-aca6e3304479
+- source: [Theory Q] Lauren Berlant, Lee Edelman - Sex, or the Unbearable (2013, Duke University Press) - libgen.li.pdf
+- chunk_index: 53
+- importance: 0.7611
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+of films that we thought would provide some examples. L E : And then things started to get complicated. The more examples we proposed of what we could think of as sex without optimism, whether or not we qualified that optimism as stupid or destructive or cruel, the more it became clear that we didn’t necessarily mean the same things by “sex” and that we were finding it hard to locate representations of sex that weren’t optimistic. Something, perhaps the aesthetic framing of our various representations, or perhaps the persistence of narrative in the project of reading as such, recur- rently seemed to neutralize resistance to Panoptimism’s imperative. Given her investment in thinking about options for sustain- ing lives that confront the obstacles of an unpropitious present, Lauren’s examples tended toward instances in which surviving the dominations of power shaped a narrative about enduring or nego- tiating the experience of delegitimated being. Given my own sus-
+
+## Excerpt 15
+- id: e27a6a301589ae02d8716f90
+- qdrant_id: 6bdf1037-077d-5465-ab83-69c908815a4c
+- source: Kyle Bladow_ Jennifer Ladino (eds.) - Affective Ecocriticism_ Emotion, Embodiment, Environment (2018, University of Nebraska Press) - libgen.li.pdf
+- chunk_index: 49
+- importance: 0.7530
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+what Lauren Berlant terms “cruel optimism.” Beasts, Knox- Russell demon- strates, reminds viewers of the disproportionate levels of violence and disruption that people of color face as climate change accelerates, even as the film and its reception warn against romanticizing frontline communities. Exploring how futurity without optimism “can feel very different to different viewers,” Knox- Russell homes in on the concept of “beastliness” applied to characters in the film. This “derided animality” offers an alternative to resilience and, potentially, “a pathway toward empathy.” The final cluster of essays embraces and reinvigorates the label “environ- mentalist killjoy” as it tracks some of the ways in which “bad feelings” might be useful for politics and pedagogy in the Anthropocene. These authors queer familiar and noncathartic affects and suggest why even the “bad” ones might b…
+
+## Excerpt 16
+- id: 022e694ae72020249396b2a7
+- qdrant_id: 6a06aa5d-32e7-57e4-a160-0947369c3be7
+- source: Lauren Berlant - Desire_Love-Punctum Books (2012).pdf
+- chunk_index: 26
+- importance: 0.7516
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+LAUREN BERLANT 13 ! speaks passionately to you and frames your life, bobs and weaves and hits you more like a boxer than a duck when you reach out to possess it, only to discover that you can never duck in time, but must be dented by it, incidentally, weaving, recovering, and maybe reaching out again for it from within the relation that at once possesses and dispossesses you, forcing you to scavenge for survival while remembering that there is a better beyond to it. The impact of the object, and the impulse that involves the patterning of attachment, are the materials of sexuality and of the optimism (at least for affective relief) that must accompany taking up a position in it. An object gives you optimism, then it rains on your parade — although that is never the end of the story. p Even in its most conventional form, as “love,” desire produces paradox. It is a primary relay to individuated social identity, as in coupling,
+
+## Excerpt 17
+- id: 18142627cb197058bbeb6014
+- qdrant_id: 4a24d80f-9cd7-53e0-987c-5fe5232ae596
+- source: (Theory Q) Anjali Arondekar - Abundance_ Sexuality’s History-Duke University Press (2023).pdf
+- chunk_index: 498
+- importance: 0.7425
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+https://­museindia​.­com​/­Home​/­ViewContentData​?­arttype​=­focus&issid​ =­50&menuid​=­4285. Berlant, Lauren. Cruel Optimism. Durham, NC: Duke University Press, 2011. Berlant, Lauren. “Genre Flailing.” Capacious: Journal for Emerging Affect Inquiry 1, no. 2 (2018). https://­doi​.­org​/­10​.­22387​/­CAP2018​.­16. Berlant, Lauren. “Intuitionists: History and the Affective Event.” American Literary History 24, no. 4 (Winter 2008): 845–60. Berlant, Lauren. “On the Case.” Critical Inquiry 34, no. 2 (2007): 663–71. Berlant, Lauren, and Kathleen Stewart. The Hundreds. Durham, NC: Duke Univer- sity Press, 2019. Best, Stephen. None like Us: Blackness, Belonging, Aesthetic Life. Durham, NC: Duke University Press, 2018. Best, Stephen. “On Failing to Make the Past Pre­sent.” Modern Language Quarterly 73, no. 3 (2012): 453–74. Best, Stephen, and Sharon Marcus. “Surface Reading: An Introduction.…
+
+## Excerpt 18
+- id: 0200b39680a561140548101a
+- qdrant_id: d4f42c2b-237d-53c8-8a3e-f8ec4d481ad4
+- source: Pieter Vermeulen (auth.) - Contemporary Literature and the End of the Novel_ Creature, Affect, Form (2015, Palgrave Macmillan) [10.1057_9781137414533] - libgen.li.pdf
+- chunk_index: 172
+- importance: 0.7551
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+is also at work in McCarthy’s Remainder. And just as this dynamic gener- ated intractable affects and a paradoxical sense of reality in Remainder, Reality Hunger only escapes the conventionality of the novel form and the equally deadening predictability of the book’s own public message through the continuous friction between the two. The text’s deeply con- tradictory performance transforms its different sections into moments and passages that demand to be read both as declarations of the end of the novel and as novelistic passages; the result of this radical undecida- bility is that the “loose affectual contract” (to return to Lauren Berlant’s phrase) that obtains in the case of a manifesto and the one that holds in the case of a novel interfere and overlap in unpredictable ways. Instead of codified emotions, the reader confronts awkward and discordant affects. These affects are the only elements in Reality Hunger that escape
+
+## Excerpt 19
+- id: ae520ac8bc14a91cda6b528e
+- qdrant_id: 9d56d1c5-1253-5692-a2e9-68cd0c32d280
+- source: [Routledge Research in Cultural and Media Studies] Anna Malinowska, Michael Gratzke - The Materiality of Love_ Essays on Affection and Cultural Practice (2017, Routledge) - libgen.li (1).pdf
+- chunk_index: 65
+- importance: 0.7538
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+the “cruel optimism” that is often crystallized in its name (Berlant 2011). She has done nuanced work on love as an inescapably queer feeling. Lee Edelman is doing interesting negative work on a sub- strand of queer love, in an age which the end of humanity is not just a theological, but also a scientific, possibility (Edelman 2004). Indeed, the most promising work for me, in terms of opening up the lover’s discourse to more generous and generative interpretation, are those which challenge the neo-liberal subjectivity upon which love so often rests. (That is, the idea of a unique ‘I’ in the first place.) Leo Bersani and Kaja Silverman in particular have written several books which affirm the more pagan notion of the generic encounter, or analogical refrain, which helps us begin to think about transcending the restric­ tive and blinkered narcissism-a-deux which too often goes under the name of love. In less convoluted language, these thinkers help us to
+
+## Excerpt 20
+- id: 59dc3b9c94dfd4356383840b
+- qdrant_id: 89e14ec3-974c-5c57-9f17-f5cffe596bfa
+- source: Robert Eaglestone (editor) - Brexit and Literature_ Critical and Cultural Responses (2018, Routledge) - libgen.li.pdf
+- chunk_index: 95
+- importance: 0.7459
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+of Berlant’s real target, the American Dream in an era of post–credit crunch financial depression (‘when I get rich’). But the object of desire remains a fantasy, and your commitment to that fantasy dam- ages you: ‘get rich or die trying’ isn’t healthy. As Berlant writes, “an optimistic attachment is cruel when the object/scene of desire is itself an obstacle to fulfilling the very wants that people bring to it: but its life organising status can trump interfering with the damage it pro- vokes” (Berlant 227). If you shape your life around your dream, and pursuing that dream is, in fact, damaging you, it’s hard to re-organise your life in your own, less dreamy, best interests when you can live among the ruins. Focusing on how much you love tomorrow or on the land over the rainbow or how to stay positive means that how you are today goes unheeded. Brexit is – nearly – a very goo…
+
+## Excerpt 21
+- id: 2531285b25a379ed2ea255ae
+- qdrant_id: 005cf0ae-49b3-53dd-95b9-45485322e8c7
+- source: Catherine Malabou, Tyler M. Williams - Plasticity_ The Promise of Explosion (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 80
+- importance: 0.7532
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+brought as close to me as possible. (Proust 1993: 847) Disappointment: Of this sort was the window in our hotel behind the balusters of which my mother sat waiting for me, gazing at the canal with a patience which she would not have displayed in the old days at Combray, at a time when, cherishing hopes for my future which had never been realised, she was unwilling to let me see how much she loved me. Nowadays she was well aware that an apparent coldness on her part would alter nothing, and the affection she lavished upon me was like those forbidden foods which are no longer withheld from invalids when it is certain that they are past recovery. (1993: 845–6) The idea stares hard at us, with the cruelty of disappointed love, but without this cruelty it is impossible to write. For it is impossible to think without feel- ing helpless, that is, stripped naked by a gaze. This ravishin…
+
+## Excerpt 22
+- id: 5585674eaa451b251ffdc115
+- qdrant_id: eab2ab9a-a87e-576f-8e03-5fa4df78ae94
+- source: Ronald de Sousa - The Rationality of Emotion (1987, The MIT Press) - libgen.li.pdf
+- chunk_index: 57
+- importance: 0.7515
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+she takes the view that only the most pessimistic outlook is compatible with realism. She therefore thinks she is seeing the world aright only when she is feeling especially gloomy. But the mere contemplation of the clarity of her own vision, which such a gloomy view must entail, touches her dearest ambition of lucidity. This cheers her up. In accordance with her principles, being now happy, she reasons that the world no longer looks to her as it really is. And that thought plunges her back into gloom. Which in turn restores her confidence in the clarity of her vision, causing elation once more. And so forth. Is all this rational? How are we to decide? The special status of moods may suggest a simple explanation. Unlike most emotions proper, moods do not clearly have intentional objects. If I am sad (an emotion), my sadness must be directed at some loss which I view as its
+
+## Excerpt 23
+- id: 158816064b3a843aa48407ae
+- qdrant_id: 61eda535-f6f3-5e2a-9b63-ae4a3a8e3881
+- source: Kyle Bladow_ Jennifer Ladino (eds.) - Affective Ecocriticism_ Emotion, Embodiment, Environment (2018, University of Nebraska Press) - libgen.li.pdf
+- chunk_index: 22
+- importance: 0.8025
+- seed_hits: lauren-berlant-cruel-optimism-affect, sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+Lauren Berlant, Sianne Ngai, and Sara Ahmed have been especially influential in affect studies informed by feminist, queer, and critical race theory. Although their pathbreaking works are not primarily invested in the role of environment in shaping affect, some of their main theoretical tenets— Berlant’s formulation of “cruel optimism,” Ngai’s focus on “ugly feelings,” and Ahmed’s description of how affect can “stick” to objects and bodies, as well as her method of connecting individual bodily response to emotion at broader scales— are ripe for reframing in ecological terms, and several of our contributors take these fruitful concepts in new direc- tions. Jane Bennett too has produced important theoretical foundations for our project: The Enchantment of Modern Life and the more recent Vibrant Matter, a favorite among material ecocritics.25 Our collection foregrounds the enviro…
+
+## Excerpt 24
+- id: d25eb11c195968c08190a0b9
+- qdrant_id: afc874e3-9916-5162-959f-a57793de1e11
+- source: Probyn, Elspeth - Blush _ faces of shame (2005, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 53
+- importance: 0.7708
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+of truth: "People believe that they know what they feel when they feel it, can locate its origin, measure its effects." She sums this up as "feeling politics," which she says "claims a hard- wired truth, a core of common sense . . . beyond ideology, beyond mediation, beyond contestation."7 It's certainly true that vicarious pain has been central to numerous campaigns over the years—from starving children on the back of upmarket magazines, to the spectacular politics of Sir Bob Geldof and others. It seems that a little bit of pain can make you feel better about yourself. Berlant is critical of the way in which feelings have become what she calls the site of "public pedagogy."8 The trade in feelings is limited in what we can learn, but it may be part of the critic's responsibility to specify feelings. Interestingly, in the final section of her argument Berlant does talk about another feeling, quite different in kind from the generalized sentimentality she has ascribed to a privileged
+
+## Excerpt 25
+- id: 6e9b04ce07dcae4e195ad426
+- qdrant_id: fd52a64e-f6b7-5b80-ace2-5fc8a69082c1
+- source: Nancy K. Miller - But Enough About Me_ Why We Read Other People's Lives (2002, Columbia University Press) [10.7312_mill12522] - libgen.li.pdf
+- chunk_index: 275
+- importance: 0.7529
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+loss, the end of the world. Beauvoir worked through the panic, a fear of death that had gripped her for most of her life, fell in love again, radically changed her life, and became more rather than less engaged in public life. But despite her success in keeping this ter- ror at bay by hard work, writing, politics (and love), I think it’s worth noting the obvious (and selﬁshly, to my mind, comforting) fact that even Simone de Beauvoir was not exempt from the cru- elty of the mirror scene that staggers so many women in middle age,in their ﬁfties.Still,I don’t want to make too much of this self- portrait of a woman distraught about her looks since it will all add up rather differently in subsequent chapters of her life and autobi- ography. “The ﬁrst thing that strikes me,” she writes in the next volume, All Said and Done,“when I look back at the ten years that have passed since I ﬁnished Force of Circumstance is that I do not feel
+
+## Excerpt 26
+- id: 5a8cc87c9782a56145c0e483
+- qdrant_id: aea26344-1b25-58f6-9c5a-68cc656bd0d6
+- source: Mari Ruti - Distillations_ Theory, Ethics, Affect (2018, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 40
+- importance: 0.7513
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+INTRODUCTION﻿ 9 of suicidal acts (Žižek), derailing events (Badiou), antisocial self-shattering (Edelman), and violent ruptures (Eisenstein and McGowan). I juxtapose these approaches to the tendency of (mostly female) affect theorists to focus on tiny acts of everyday rebellion, the power of which seems to pale in comparison to the robust rhetoric of Lacanians, but which seem more grounded in the lived realities of everyday life (where antisocial acts of self-shattering and violent ruptures are arguably much less common than quotidian struggles to handle the daily grind). For instance, although Berlant’s theory of cruel optimism includes an attempt to grasp how some subjects—in instances where they manage to destroy the allure of cruel optimism—come to take some distance from normative narratives of the good life, she deliberately seeks to “dedramatize” this process, shying away from revolutionary formulations in favor of quieter accounts of
+
+## Excerpt 27
+- id: bfcd42b03ef76517ae8afd40
+- qdrant_id: cfb07e06-52ad-594a-993b-48116b0c6506
+- source: Lauren Berlant - Cruel Optimism-Duke University Press Books (2011).pdf
+- chunk_index: 46
+- importance: 0.7446
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+ing anxiety about what’s happened, happening, and potentially next in the relation of singular lives and translocal capitalist worlds. Cruel Optimism gives a name to a personal and collective kind of relation and sets its elaboration in a historical moment that is as transnational as the circulation of capital, state liberalism, and the heterofamilial, upwardly mobile good- life fantasy have become.
+
+## Excerpt 28
+- id: f28d31793a61908ba4ce5557
+- qdrant_id: 03e9eb1b-0608-5d60-9b85-f503c9c2b18d
+- source: Ahmed, Sara - The cultural politics of emotion (2014, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 162
+- importance: 0.7407
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+in queer studies on ‘public emotions’) and because emotion is the term used in everyday life to describe what I wanted to give an account of. Even though my own contribution took emotion rather than affect as my organising term or starting point I have sometimes been described as an ‘affect theorist’ (for example East 2013: 176). At other times, I have been read as not working on affect because I work with emotion. For example, Lauren Berlant in her introduction to Cruel Optimism, and in reference to my later book The Promise afterword 207
+
+## Excerpt 29
+- id: 6481d406f86fa80da80abbff
+- qdrant_id: d155b98f-9109-591f-b01c-58b169b80bd0
+- source: Lauren Berlant - Cruel Optimism-Duke University Press (2011).pdf
+- chunk_index: 0
+- importance: 0.7284
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+a john hope franklin center book cruel optimism Duke University Press Durham and London 2011 Lauren Berlant cruel optimism © 2011 Duke University Press All rights reserved Printed in the United States of America on acid- free paper ♾ Designed by Amy Ruth Buchanan Typeset in Quadraat by Tseng Information Systems, Inc. Library of Congress Cataloging- in- Publication Data appear on the last printed page of this book. An earlier version of chapter 4 appeared as “Two Girls, Fat and Thin,” in Regarding Sedgwick, ed. Stephen M. Barber and David L. Clark. © Routledge, 2002.
+
+## Excerpt 30
+- id: f7779fb630781bce0392485e
+- qdrant_id: ac5fb05b-fc9d-5644-aea3-327b91b9675d
+- source: Post-Horror Art, Genre and Cultural Elevation (David Church) (Z-Library).pdf
+- chunk_index: 156
+- importance: 0.7491
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+yet to come, rather than a reminder of the human species’ impending extinction (a period that Donna Haraway has dubbed, in an unintended nod to Lovecraft’s most famous monster, the “Chthulucene”).37 Overall, both A Dark Song and A Ghost Story offer glimpses of hope, with (respectively) the force of parental and romantic love able to tran- scend death, but whether these glimpses are merely examples of “cruel optimism” is open to philosophical debate. According to Lauren Berlant, cruel optimism names those affective attachments to future hopes that impede our full recognition of living in a constant state of crisis under neoliberal precarity. Whereas “traumatic” personal/social upheavals marked the shocks of twentieth-century life (as discussed in Chapter 3), narrative tropes about trauma are less sufficient to account for the tempo- ral impasses created by the endemic feeling of …
+
+## Excerpt 31
+- id: 232b64ef71b46fe48437b087
+- qdrant_id: 857230e5-5c05-55d7-867d-2117d30395d8
+- source: Sexual Disorientations_ Queer Temporalities, Affects, Theologies (2017, Fordham University Press) [10.1515_9780823277544] - libgen.li.pdf
+- chunk_index: 90
+- importance: 0.7650
+- seed_hits: lauren-berlant-cruel-optimism-affect, sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+by Sedgwick’s example, others pursuing trajectories parallel to it, aff ect and emotion, feeling and sensation merged with sex and sexuality and even with queerness. Such work included that of Lauren Berlant on the U.S. political sphere as an aff ective public space of intimacy and sentimentality; on the “cruel optimism” that characterizes the aff ective state of the contemporary U.S. mo- ment; and on desire, love, and romance in the modern notion of what a person is or should be; Ann Cvetkovich on how trauma catalyzes the creation of cul- tural archives and political communities, including lesbian public cultures; and on depression as a public feeling, a political feeling, and a social and cultural phenomenon; Sara Ahmed on the cultural politics of emotion, including queer aff ectivity; and on the moral order imposed by the cultural injunction to be happy and on those who challenge it, including “the unhappy queer”—together
+
+## Excerpt 32
+- id: 1b0976327686986dc6a984ae
+- qdrant_id: 0a43e0e5-fabd-5dd7-bed8-76211754d501
+- source: Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects (2017, Columbia University Press) - libgen.li.pdf
+- chunk_index: 59
+- importance: 0.7365
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+which make it impossible for some people to succeed no matter how hard they try. Basically, if the neoliberal creed tells people that their individual efforts can surmount any and all obstacles, queer critics of neoliberalism stress that this creed is just a convenient way to gloss over the fact that some people will never attain the American dream. From a queer theoretical perspective, gays and lesbians who hang their political hopes on marriage rights are caught up in the tentacles of what Lauren Berlant (2011) calls “cruel optimism,” hoping against hope that the heteronormative, patriar- chal, and state-controlled institution of marriage will somehow make up for the legacies of gay and lesbian abjection. 2 Berlant defines “cruel optimism” as the stubborn, irrational belief that social arrangements and ways of life that hurt us will eventually pay off and make us happy, speci…
+
+## Excerpt 33
+- id: 5c0aed8c81c9600a33db2a91
+- qdrant_id: 4d1124f8-4659-5f8f-80da-1898e71b1d37
+- source: Lauren Berlant - Cruel Optimism-Duke University Press Books (2011).pdf
+- chunk_index: 2
+- importance: 0.7327
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+acknowledgments The project that became Cruel Optimism began when I was a Leverhulme fellow at Lancaster University for a number of years, in conversation (now for over a decade) with the wonderful and brilliant crew of Bev Skeggs, Sarah Franklin, Sara Ahmed, Celia Lury, Jackie Stacey, Imogen Tyler, and the much- grieved Paul Fletcher. Speaking of grieving, it was during a conversation with Bill Readings about Lyotard that I first saw optimism as the thing that keeps the event open, for better or ill. Thanks to Roger Rouse for continuing to brain- storm with my aleatory thoughts about aleatoriness and my transnational thoughts about capital. Thanks to Ian Horswill for collaborating with me on
+
+## Excerpt 34
+- id: 7e00e632f039f9091eec8a0e
+- qdrant_id: 9a833698-368b-5801-a00e-77aed88a7224
+- source: Mean Girl Ayn Rand and the Culture of Greed (Lisa Duggan) (Z-Library).pdf
+- chunk_index: 24
+- importance: 0.7416
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+has called the structure of feeling, or emotional situation, of those who struggle for a good life under neoliberal conditions “cruel optimism”—the complex of feelings necessary to keep plugging away hopefully despite setbacks and losses.6 Rand’s contrasting sense of life applies to those whose fantasies of success and domination include no doubt or guilt. The feelings of aspiration and glee that enliven Rand’s novels combine with contempt for and indiﬀerence to others. The resulting Randian sense of life might be called “optimistic cruelty.” Optimistic cruelty is the sense of life for the age of greed. Ayn Rand’s optimistic cruelty appeals broadly and deeply through its circulation of familiar narratives: the story of “civilizational” progress, the belief in American exceptionalism, and a commitment to capitalist freedom. Her novels engage fantasies of European imperial domin…
+
+## Excerpt 35
+- id: f74f9c65edda6ec5f9c65ec8
+- qdrant_id: b18853fe-9e72-526d-96fc-259f696488b7
+- source: Lauren Berlant - Cruel Optimism-Duke University Press (2011).pdf
+- chunk_index: 5
+- importance: 0.7311
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Hoad, Miranda Joseph, Heather Love, Fred Moten, José Muñoz, Amy Par- tridge, Mary Patten, Matthias Regan, Sandy Soto, Katie Stewart, Rebecca Zorach. Cruel Optimism is a Public Feelings project. I dedicate this book to Katie Stewart, a stunning thinker, a fearless writer, a seriously critical- generous interlocutor, and one of those friends whom philosophers imagine when they dilate on the word “friend.”
+
+## Excerpt 36
+- id: 475cc921266636ff273ae2fd
+- qdrant_id: 36ae8385-af35-5bb3-9ff0-32b86dfb8659
+- source: Berislav Marui_ - On the Temporality of Emotions _ An Essay on Grief, Anger, and Love-Oxford University Press (2022).pdf
+- chunk_index: 38
+- importance: 0.7857
+- seed_hits: duras-minimalism-absence-presence-the-malady-of-death, lauren-berlant-cruel-optimism-affect
+
+thought that we will become indifferent to the dead. Anticipating the diminution of grief is thus anticipating a failure of love. To see this, contrast the Proustian thought with cases in which anticipating a change in feeling strikes us as welcome or—as I’d like to put it—as a return to reason. For example, I might, while on holiday, experience a crush on someone, all the while knowing that this is due to the experience of freedom on holiday or the fantasy of an unknown relationship. In anticipating a rapid diminution of the crush upon my return home, I will therefore look forward to such a change in feeling as a return to reason; I will regard it as the passing of an enchantment that temporarily blinds me to who truly matters to me. Or, to give another example, after a transatlantic ﬂight, I might experience a gloomy feeling of detachment from the place I live. However, I know that this is due to jet lag, and I anticipate the passage of the gloominess as a way of
+
+## Excerpt 37
+- id: 57acde153dcc25c381a2520b
+- qdrant_id: 34ae1849-4f70-5bb4-be58-9fb1c969bbf0
+- source: Anita Phillips - A Defense of Masochism (1998, St. Martin’s Press) - libgen.li.pdf
+- chunk_index: 168
+- importance: 0.7888
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Robert. Even before he was captured she was in a state of over- whelming bereavement. 'When I lost my younger brother and my baby I lost pain too. It was without an object, so to speak: it was built on the past. But now there is hope, and pain is implanted in hope.' These losses had been so devastating that they had never been fully lived through or comprehended. The eroticizing of the maimed, utterly vulnerable figure of Robert enables Mar- guerite to access her suffering and direct it again into the world and reverse the process. From an insensate, numbed state she moves through painful participation and out into a renewed femininity. At the end of the narrative we encounter a quite different Marguerite, who is on holiday with a group of friends, including the now healthy Robert, and she is shown as a woman who simply and calmly inhabits her body. Her masochism has been a means of bringing sensation back to a
+
+## Excerpt 38
+- id: 2d079e1725c323218e303cac
+- qdrant_id: ce79e1bc-c586-5b8f-a2cd-8f03466d1bd6
+- source: Richard Warren - Sex, Symbolists and the Greek Body (2020, Bloomsbury Academic) [10.5040_9781350042377] - libgen.li.pdf
+- chunk_index: 36
+- importance: 0.7458
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+of the cruel girl to the heart of the timid one simultaneously abandoned by an innocence, damp with foolish tears or ﬂ uids of a less grim stamp. ‘ My oﬀ ence, in my joy at conquering these sly terrors, was that I prised apart the tousled wry kisses the gods had kept so deft ly mingled: I no sooner strove to hide this ecstasy of mine within one girl’s happy recesses (with a ﬁ ne ﬁ ngerhold on the other one – na ï ve and slight, not blushing in the least – so that her feathery white might be tinged as her sister’s passion caught alight), than from my arms, untwined by some vague perishings, this everlastingly ungrateful captive springs free, careless of my still- intoxicated sighs. ’ (75–92) Cassou (1984: 157) writes of how the poet here ‘strove to perpetuate the nymphs on whom Pierre Lou ÿ s, however, in Les Chansons de Bilitis , pronounced the death sente…
+
+## Excerpt 39
+- id: c6f7f7fea959445eaee900c9
+- qdrant_id: 723f7b4b-03f7-5a51-a4ad-cbbdc9dcfe59
+- source: Anable, Aubrey - Playing with feelings_ video games and affect (2019, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 396
+- importance: 0.7290
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+of repetition with a difference. The optimism of failing better is part of what Berlant calls “cruel optimism”—­that is, an affective attachment to an idea, especially that of “the good life,” despite the ways that attachment “impedes the aims that brought us to it [and is constituted by] the sustain- ing inclination to return to the scene of the fantasy that enables you to ex- Cory Arcangel’s Various Self Playing Bowling Games consists of six bowling video games, their corresponding systems displayed on a table, and large floor-­to-­ceiling projections of the games in action. Copyright Cory Arcangel. Image courtesy of Cory Arcangel and Lisson Gallery.
+
+## Excerpt 40
+- id: 5221667a403ee3745c7014d1
+- qdrant_id: 2a2db4cc-1ad9-56af-8cd5-8d2139b0598b
+- source: Eigen, Michael - Flames From the Unconscious_ Trauma, Madness and Faith-Karnac Books (2009).pdf
+- chunk_index: 52
+- importance: 0.7418
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+She feared criticism. Someone would misunderstand and push her back on herself: rejection. Always the residue of being bad, that feelings that want life and are life are bad, and that she is bad for having them. Perhaps, too, she wanted to heal me. We would have this wonderful life experience and it would make a difference to both of us. It would be a moment of fulﬁlment, a trueness. That this would heal me was a hope, a wish, a fantasy, a caring, a feeling inside. Now, shared feeling. I was not exactly someone she feared a critical response from. The negative someone is a kind of eternal negative someone installed in all of us, part of who we are, part of our equipment. It does many good things. I smiled, perhaps my voice smiled, and said something like, “You’re beautiful. What a beautiful feeling. I’d love it.” She turned on the couch and looked at me. She was radiant. At that moment, …
+
+## Excerpt 41
+- id: f6acfa2272c55201a0849b2c
+- qdrant_id: a0c7a0ff-7cab-5c37-819d-b7f18ab6290b
+- source: MATT. GRAHAM - Postmodernism, Twenty-First Century Culture, and American Fiction_ Establishing the Continuum-Routledge (2024) (1).pdf
+- chunk_index: 87
+- importance: 0.7416
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+focuses upon postmodernity as a period, contrasting the aesthetic and sty­ listic features that Smith claims are waning, he establishes a more overt connection between affect and the postmodern that potentially reshapes how affect can be perceived. The ironic detachment, or ‘impassioned apa­ thy’ (Ibid., p.196), that Grossberg aligns with the attitude of postmoder­ nity resonates with both Smith’s (2015, p.18) rereading of cold fictional tone as ‘a feeling produced from the very act of withdrawing’ and what Lauren Berlant calls cruel optimism. For Berlant (2011, p.1), cruel opti­ mism exists when ‘something you desire is actually an obstacle to your
+
+## Excerpt 42
+- id: 2dffd55a54aa5f3c5b6465e0
+- qdrant_id: 92ec500a-f728-5e7b-a7eb-9b3dba52b6d7
+- source: How We Hope _ A Moral Psychology -- Martin, Adrienne -- Course Book, 2013 dec 31 -- Princeton University Press -- 9780691151526 -- b1d37d726c912b7e9a64cdd6997c8f62 -- Anna’s Archive (1).pdf
+- chunk_index: 203
+- importance: 0.7418
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+fact, I’m going to be paralyzed by despair. I won’t be able to go on, to do what I can with the resources left to me, or to at least try to fight the odds. So I’d best not think about how poor the odds are, and instead focus on the fact that they are in the realm of possibility; nothing is certain, “miracles” happen, and so it is possible that I will get what I so desperately desire.26 And then she proceeds to see her situation as she has concluded she needs to see it. Or so it seems to me she might. I am not saying that this is an easy thing to do, or that she will be able to unshakably maintain the necessary stance at all times. Nevertheless, shifting our perspective on the probabilities we assign to desired outcomes is something we can learn to do in response to practical considerations. Compare the classic cases of “seeing-­as,” such as seeing a painting as a landscape. Con…
+
+## Excerpt 43
+- id: 583ff944d65cf44249eb016a
+- qdrant_id: 63d22002-1902-526c-ade1-ef6fb408a449
+- source: On the Inconvenience of Other People (Lauren Berlant) (Z-Library).pdf
+- chunk_index: 16
+- importance: 0.7369
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+and forth between having feelings and critiquing feelings, moving in close to felt experience and attachments to objects and moving out to systemic and theoretical analysis.”—ann cvetkovich “ Every memory of Lauren Berlant reminds me of their interestedness, their at- tentiveness. Even their writing on modes of detachment—ﬂatness, withdrawal, humorlessness, suicidal ideation—ﬁnds in these means of staying in the world.” —dana luciano
+
+## Excerpt 44
+- id: bd3878e8ffcef234788d6f32
+- qdrant_id: f773d7bf-09b5-57e5-ad0c-4e90cef97ab6
+- source: Alan B. Eppel - Sweet Sorrow_ Love, Loss and Attachment In Human Life-Routledge (2009).pdf
+- chunk_index: 147
+- importance: 0.7383
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+48 SWEET SORROW: LOVE, LOSS AND ATTACHMENT IN HUMAN LIFE sists of days of deep suicidal black depression followed by an elevated mood; increased energy, gregariousness and creative productiveness. When depressed her energy interest and motivation are low. Her view of the world is pessimistic; her view of her self is coloured by guilt, shame and feelings of inadequacy. When her mood is elevated she is confident, outgoing, ambitious, optimistic and productive. These states switch so rapidly that she is confused as to which reflects her “true” self: the pessimistic or the optimistic. There is no sense of a continuous self because of the rapid fluctuations of mood. Art and emotion Art reveals much of our inner life, the truth about human nature; but what is art and why does it resonate so much with us? Art is a transi- tional space where the inner joins with the outer (Winnicott), “a half- way house between subjective and objective” (Laplanche & Pontalis
+
+## Excerpt 45
+- id: 703b4bb21ccadfa02286fd7f
+- qdrant_id: 86d0b7a2-7a38-5086-900d-b99c0ec2d6de
+- source: Alberto Castelli - Love, Beauty or Morality-Springer (2024).pdf
+- chunk_index: 317
+- importance: 0.7348
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+defect is manifested in lack of the power of self-control and of forgoing immediate indulgence” (Mercier 17). Flaubert knows that Emma is emotionally deﬁcient: “She sensed madness taking hold of her and felt afraid.” Emma does not recall the reason for her “terrible condition,” she is confused, the monetary ruin into which she has led her family slipped from her mind. Instead, she sees herself as a fallen soldier with “bleeding wounds” (279). Flaubert portrays Emma more delusional than ever before her death, until the end incapable of facing reality. She went to buy arsenic and “in a transport of heroism that ﬁlled her almost with joy, she raced down the
+
+## Excerpt 46
+- id: afc6df1c824bffebd71e8c1b
+- qdrant_id: d31f12b0-978f-5fdf-93f9-9ea4d2cd7e32
+- source: Lauren Berlant - Cruel Optimism-Duke University Press (2011).pdf
+- chunk_index: 101
+- importance: 0.7261
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Cruel optimism is, then, like all phrases, a deictic—a phrase that points to a proximate location. As an analytic lever, it is an incitement to inhabit and to track the affective attachment to what we call “the good life,” which is for so many a bad life that wears out the subjects who nonetheless, and at the same time, find their conditions of possibility within it. This is not
+
+## Excerpt 47
+- id: 2acb24d6cfe47d9d44c9bb15
+- qdrant_id: f5e01074-1a66-5961-8982-32f3317bdda8
+- source: Heather Love - Feeling Backward_ Loss and the Politics of Queer History (2007, Harvard University Press) - libgen.li.pdf
+- chunk_index: 521
+- importance: 0.7548
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+during this process. Rather, the nontherapeutic approach to trauma that she describes suggests a wild utopianism-a hopefulness in despair­ that is reminiscent of the politics of despair Sylvia Townsend Warner describes in Summer Will Show. For her examples, Cvetkovich turns to artists and activists whose work is bound up with the everyday experi­ ence of feeling bad. Cvetkovich is involved with an academic and activist organization, the Public Feelings Project, that has attempted to create a political move­ ment that takes seriously such apparently useless feelings. The Chicago­ based "feeltank" associated with the group organizes an annual depres­ sion march. The protesters march in bathrobes and slippers, carrying signs that say, "Depressed? It might be political," and passing out fake prescriptions for Prozac. The point of an event like this is not only that the political landscape is bad but also that it makes you feel bad, and that
+
+## Excerpt 48
+- id: fc90d40432ec438865f89534
+- qdrant_id: a91849ef-54cd-551f-bab1-c428b2726e43
+- source: [Global aesthetic research] Tim Themi - Eroticizing aesthetics_ in the real with Bataille and Lacan (2021, Rowman & Littlefield) - libgen.li.pdf
+- chunk_index: 134
+- importance: 0.7438
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+be when he sets his critical gaze to it through this happiness-unhappiness dynamic he has been offering. He laments, for example, the ‘recent literature’ that also ‘covets happiness too much’, to the point of ‘poetic insipidity’ – with a recent anthology of it even giving him ‘the feeling of defeat’ (WS, 187). Here he can strike a contrast with classical tragedy, where, actually, ‘the unhappiness serves as a stimulant, a failure which reveals the power to confront it’ (WS, 188). For we can see this in plays like Sophocles’ Antigone, where Lacan can mark Antigone’s ‘beauty effect’ (SVII, 281) as the blinding lure for us to face and affirm our tragic and transgressive, incestuous truths,
+
+## Excerpt 49
+- id: 72a5e6ff0c7ac5846f619620
+- qdrant_id: 7cca2454-e231-5cd2-9ceb-267d031c48b9
+- source: [Continuum Literary Studies] Jeremy Hawthorn - Sexuality and the Erotic in the Fiction of Joseph Conrad (2007, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 347
+- importance: 0.7314
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+smile that would come and go on his lips as if he were gloating over her misery. But her misery was his opportunity and he rejoiced while the tenderest pity seemed to flood his own being. [...] 'Flora had tried more than once to free herself, but he tightened his grasp on her arm each time and even shook it a little without ceasing to speak. The nearness of his face intimidated her. He seemed striving to look through her. It was obvious the world had been using her ill. And even as he spoke with indignation the very marks and stamp of this ill-usage of which he was so certain seemed to add to the inexplicable attraction he felt for her person. It was not pity alone, I take it. It was something more spontaneous, perverse and exciting. (223-4) 'Spontaneous, perverse and exciting': the emotions explored at this point in Chance are very close to those charted and investigated in 'A Smile of …
+
+## Excerpt 50
+- id: 4e19dd9f16d388b26de48c79
+- qdrant_id: 50fe5adc-ce69-5570-bfd4-3ca20a0fbb1f
+- source: Reading to Stay Alive_ Tolstoy, Hopkins and the Dilemma of -- Christopher Dowrick -- Anthem studies in bibliotherapy and well-being, London, 2022 -- 9781785278914 -- cade02bc61042a84f85758af7cccccb3 -- Anna’s Archi.pdf
+- chunk_index: 193
+- importance: 0.7334
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+all dressed up at a family celebration, smiling joyously together. These potent images were the last she ever saw: her life as it had been; her life as she wished it to be; but her life that was to be no more. Like Anna, Charlie was at very high risk of suicide. Her belongingness to her life’s loves, especially her granddaughter Tammy, now seemed to her to be entirely thwarted. She felt lonely and disconnected, in the absence of any reciprocally-caring relationships. She felt defeated, humiliated and trapped, with no possibility of escape or rescue. Her chronically low self- confidence meant she too easily assumed herself to be a burden to the many people who reached to offer her care and support, and left her with little belief in the possibility of solving her problems. And her previous overdoses had demonstrated her capability of suicide, her ability to tolerate the related fear and pain. She had the strain of being unable to find the coping skills
+
+## Excerpt 51
+- id: c75e13b7ee740eb38ba3bdf1
+- qdrant_id: 21757172-b886-5576-8aaf-8cc23d7d8d3e
+- source: Lire - Septembre 2024.pdf
+- chunk_index: 404
+- importance: 0.7403
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+La Fin d’une ère conclut la saga des Cazalet en se concentrant sur les vies de Clary, Polly, Louise et leurs familles dans l’Angleterre des années 1950. Clary continue d’écrire tout en élevant ses enfants. Polly, maintenant mère, cherche un équilibre entre ses aspirations et ses devoirs domestiques. Louise, confrontée à des mariages échoués, cherche sa place dans un monde en mutation. L’autrice offre une fin émouvante à cette chronique familiale captivante. Simon Bentolila HHH REINE D’UN JOUR KIRSTIN INNES 512 P., MÉTAILIÉ, 13 € Dans ce roman kaléidoscopique intense, l’écrivaine écossaise revient sur le destin d’une étoile filante de la pop, Clio Campbell. Qui était cette chanteuse engagée, connue pour un unique tube des années 1990, Rise Up, avant son suicide vingt ans plus tard ? Amants, familles, ennemis : une ribambelle de narrateurs originaux dressent le portrait de l’artiste, tout en se racontant chacun avec une grande
+
+## Excerpt 52
+- id: 7c4392f2e70f09ac7f8794bb
+- qdrant_id: 34288d6d-484b-5576-b2c9-ce870c087a43
+- source: Heather Love - Feeling Backward_ Loss and the Politics of Queer History (2007, Harvard University Press) - libgen.li.pdf
+- chunk_index: 471
+- importance: 0.7285
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+Gillian Beer suggests that we might read Warner's novels as "experi­ ments in affect" (77). Summer Will Show offers a combination of intense joy and total devastation; it opens with "hope for a better future" and at the same time leaves its reader with a hollow sense of despair. I would suggest that such experiments are ways of investigating not only the range of human emotions but also the means of inciting the desire for social change. We have tended to think that such desires can only be fu­ eled by hope, but Warner suggests that political motivation-like so many other kinds of motivation-may be opaque, irrational, and indi­ rect. In private life, we are used to the idea that we may not want what we think we want. That insight animates one of Warner's diary entries, written the day after she became lovers with Ackland: "My last day, and our first. It was a bridal of earth and sky, and we spent the morning lying
+
+## Excerpt 53
+- id: 8e367d1cb52fa5be0ab9e496
+- qdrant_id: 9d059da0-39ba-5076-8e1b-553d4e9eb432
+- source: Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf
+- chunk_index: 675
+- importance: 0.7643
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+dans le cervelet” (I would even assert that inspiration has something in com- mon with convulsion, and that every sublime thought is accompanied by a nervous shock, more or less violent, that reverberates deep within the brain) (Oeuvres complètes, 2: 690). But Baudelaire is well aware that pain also threat- ens creativity, for he fears “de voir s’user et péricliter, et disparaître, dans cette horrible existence pleine de secousses, l’admirable faculté poétique, la netteté d’idées, et la puissance d’espérance qui constituent en réalité mon capital” (see- ing used up, depleted, and disappear—in this horrible existence full of shocks—the admirable poetic faculty, the clarity of thought, and the power of hope that in fact constitute my capital) (Charles Baudelaire, Correspondance, ed. Claude Pichois, 2 vols. [Paris: Gallimard, Bibliothèque de la Pléiade, 1973], 1: 327). See also the discu…
+
+## Excerpt 54
+- id: 624751d37b53b33c55c00ff7
+- qdrant_id: 9c07afe0-fecc-5d2e-abe0-8cd076ed56e2
+- source: Charles Burnetts - Improving Passions_ Sentimental Aesthetics and American Film (2017, Edinburgh University Press) [10.1515_9780748698202] - libgen.li (1).pdf
+- chunk_index: 198
+- importance: 0.7607
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+since been re-evaluated and celebrated, notably by Jane Tompkins. See Jane Tompkins, Sensational Designs: The Cultural Work of American Fiction, 1790– 1860, New York: Oxford University Press, 1985, pp. 122–46. A more recent and less evaluative account is provided by Lauren Berlant in a historicisation of sentimentality and its associations with female identity, aesthetics, and feminised ideas of justice (see ‘The Subject of True Feeling: Pain, Privacy and Politics’, in Jodi Dean (ed.), Cultural Studies and Political Theory, Ithaca, NY: Cornell University Press, 2000, pp. 42–62, and The Female Complaint: The Unfinished Business of Sentimentality in American Culture, New York: Duke University Press, 2008. 13. Ibid. This indeed extended to their reading habits, in which novels were to be treated with caution as opposed to works of ‘religious biography’, and other literary forms t…
+
+## Excerpt 55
+- id: 022207aed588524a439c8534
+- qdrant_id: a1a8cd96-a270-5fd0-bf0f-557e71ad97cc
+- source: Lire - Février 2024.pdf
+- chunk_index: 294
+- importance: 0.7635
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+l’optimisme entre chaque mot, observe avec un recul presque testamentaire ce qui a été accompli et ce qu’il reste à faire. Entre une mélodie de Grigory Sokolov et le chant des hirondelles, l’écri- vain parsème son récit de souve- nirs d’enfance teintés d’onirisme, sa première rencontre avec l’objet livre, ses débuts dans l’écriture, son isolement dès le plus jeune âge et son rapport au silence. La chambre de l’hôpital devient un tout dernier antre créatif dans le- quel il s’adonne aux grands dialo- gues métaphysiques. En somme, des pensées qui signent la sa- gesse tout étrange de ceux qui acceptent le trépas en théorisant l’amour comme la mort – celle du corps et celle de la vie.  Marie Jouvin Christian Bobin Le Murmure LE MURMURE CHRISTIAN BOBIN 136 P., 17 €. COPYRIGHT GALLIMARD. EN LIBRAIRIES LE 1er FÉVRIER.
+
+## Excerpt 56
+- id: 031a4b3b44cd87179e5b03c1
+- qdrant_id: 34742815-2e09-507b-8f68-26a33920a3fb
+- source: Splattered Ink Postfeminist Gothic Fiction and Gendered Violence (Sarah E Whitney) (Z-Library).pdf
+- chunk_index: 67
+- importance: 0.7676
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+purpose painful and difficult circumstances as positive “challenges.” Barbara Ehrenreich has examined this attitude within the culture of breast cancer, which has been rapidly consumerized with pretty and pink products over the past few decades. Ehrenreich, who is herself a breast cancer survivor, is sympathetic to but critical of intragroup pressure to view the disease as a gift or as “a chance for creative self-transformation—a makeover opportunity, in fact” (31). Such “sugarcoating,” she maintains, encourages women who struggle with insurance tangles, fear, and debilitating pain to bury such feel- ings under “a cosmetic layer of cheer” (41).21 The sublimation of negative emotions in postfeminist culture is, of course, a complex process; believing that a painful experience has a higher mean- ing can be a profoundly helpful process for people struggling with illness. Furtherm…
+
+## Excerpt 57
+- id: 288d37f98b54d115fbbc816a
+- qdrant_id: 98b121e7-2a8f-5483-b5ff-ede6b0bface1
+- source: Dana Arnold - Art History_ Contemporary Perspectives on Method (Art History Special Issues) (2010) - libgen.li.pdf
+- chunk_index: 657
+- importance: 0.7333
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+in a bovine sort of way. Still, this child must have had parents who loved her, and that generated in me both tenderness and melancholy (84). However, the painting is too plain; she ‘made inquiries at the artists’ guild to have a string of pearls painted in around the poor girl’s naked neck’ (85). The painting, a gift from her husband, to conceal his inﬁdelity and assuage his guilt, becomes her ticket back to Paris. After her liaison with a ‘Monsieur le C’ is discovered she sneaks off with the painting, in which she now sees herself: ‘What I saw before as vacancy on her face seemed now an irretrievable innocence and deep calm that caused me a pang. It wasn’t just a feature of her youth, but of something ﬁner – an artless nature. I could see it in her eyes. This girl, when she became a woman, would risk all, sacriﬁce all, overlook and endure all in order to be one with her belov…
+
+## Excerpt 58
+- id: 1fe59ed6c6ff50b1f1ad96b4
+- qdrant_id: 6b865cab-dc20-54cc-a6f4-73c050e4403e
+- source: Emily McLaughlin_ - Yves Bonnefoy and Jean-Luc Nancy _ Ontological Performance-OUP Premium (2020).pdf
+- chunk_index: 309
+- importance: 0.7471
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+fears have been realized. Bonnefoy sees contingency itself, ‘le non-être’, lay- ing seige to Baudelaire’s face. And the world is perceived cruelly, from the outside, in its raw material negativity. Nothing has any kind of fixed or essential value. Nothing can be redeemed by the human gaze and its vision of existence. The final stanzas of the poem describe how the poet reflects on this dream and this memory as he walks in Hopkins Forest one Autumn. Watching the forest fill up with snow, the poet starts to perceive the negativity that ­confronted him in these two scenes in a new light. He asks whether it is the expectation generated by language, the desire to read the world as if it were a set of signs and to grasp its meaning, that cause him to perceive its material 24 Yves Bonnefoy, Lieux et destins de l’image (Paris: Le Seuil, 1998), p. 243. 25 Charles Baudelaire, Œuvres comp…
+
+## Excerpt 59
+- id: 3e587f0846a045cad085e891
+- qdrant_id: 65bcb624-c7e7-514a-8da9-3cd2cdab79f7
+- source: Arthur Schopenhauer - On the Suffering of the World (2020, Watkins Media) - libgen.li.pdf
+- chunk_index: 106
+- importance: 0.7393
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+presented as a vale of tears, life as a process of purification, and the symbol of Christianity is an instrument of torture. Therefore, when Leibniz, Shaftesbury, Bolingbroke, and Pope appeared with optimism, the general offence caused by it was due mainly to the fact that optimism is irreconcilable with Christianity. This is stated and explained by Voltaire in the preface to his excellent poem The Disaster in Lisbon, which also is expressly directed against optimism. This great individual, whom I so gladly commend in the face of the slanders of mercenary German ink-slingers, is placed decidedly higher than Rousseau by the insight to which he attained in three respects, and which testifies to the greater depth of his thinking: (1) insight into the preponderating magnitude of the evil and misery of existence with which one is deeply penetrated; (2) insight into the strict necessitation of…
+
+## Excerpt 60
+- id: 847edf8f628e0739e663b83b
+- qdrant_id: 9281917e-eb3c-515b-b667-b73ce258c8f8
+- source: Heather Love - Feeling Backward_ Loss and the Politics of Queer History (2007, Harvard University Press) - libgen.li.pdf
+- chunk_index: 427
+- importance: 0.7552
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+by despair and by desire. Warner's figuring of the revolution as an "im­ possible object of desire" is significantly at odds with a forward-looking, scientific Marxism, but it is at the heart of the novel's attention to a pol­ itics of affect. At the center of such reflections in the novel is the bohemian artist Minna Lemuel. Orphaned by a pogrom in Lithuania, Minna makes a living as a storyteller in Paris, while supporting the work of the revolu­ tion. On the night of the February uprising, a salon in her apartment is interrupted by workers demanding carriages for the building of a barri­ cade in the street. As Minna looks on from her window, her new friend Sophia Willoughby feels a sense of flatness in the proceedings; she casts a glance at Minna, who says: You think I am not very enthusiastic? I have not given them my car­ riage, have not exclaimed . . . Perhaps you think I am not very sin­ cere. But if you have ever longed for a thing, longed for it with all that
+
+## Excerpt 61
+- id: 72e0c4cdc4af1de8a9a58992
+- qdrant_id: 63352d9e-1dc2-5e2b-822c-869c725a5db6
+- source: Abbie Bernstein - Midnight Mass_ The Art of Horror-Titan Publishing Group (2021) (1).pdf
+- chunk_index: 199
+- importance: 0.7187
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+When Bev realizes that Father Paul no longer agrees with her, Sloyan believes, “Her heart breaks. She gets herself off of that by reminding herself that this is the way that God wrote it. So, it was almost cementing even further her beliefs.” What is Bev feeling when she realizes she can’t escape the sunrise? “Mike has this wonderful beat,” Sloyan recalls, “where she watches the sheriff and Ali praying, and being able to see that they were just as human as she was, and their faith was faith, as her faith was faith. She has the terror, she feels all those feelings, but absolutely no ability to process them in this second — it’s not like she’s looking back on this. And then she tries to bury herself. She’s still trying, up until the last second, to get out of this.” “One of the most futile ways I can imagine someone dying,” Flanagan observes with a laugh. “That gave…
+
+## Excerpt 62
+- id: 53c71dadd567050954f5a485
+- qdrant_id: 51966ffe-4244-5fdd-9fcc-435e68e0e195
+- source: Kathleen Stewart - Ordinary Affects (2007, Duke University Press) - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.7258
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+McEwan’s Atonement, or Khaled Hosseini’s The Kite Runner, pro- duce scenes of a world saturated by jumpy attunements. Finally, Lauren Berlant’s mode of thinking and writing on the affects of the present moment serves here as a direct inspiration and source of insight. In her work, the academic concept be- comes something new and promising. Embedded in the intense and complex affective attunement of her writing, her concepts of the noncoherent, the incommensurate, and the scenic, as well as of attachment, intimacy, exhaustion, and the unlivable but ani- mating desires for rest or for the simple life have sent me back to rethink scenes over and over again.
+
+## Excerpt 63
+- id: 4aed078d92e0c4990c00a055
+- qdrant_id: 5e5d5fa3-5cf7-56c7-af10-06ea8b1e6b59
+- source: Jacqueline M. Labbe (auth.) - The Romantic Paradox_ Love, Violence and the Uses of Romance, 1760–1830 (2000, Palgrave Macmillan) [10.1057_9780230596764] - libgen.li.pdf
+- chunk_index: 123
+- importance: 0.7298
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+pitiable, aristocracy. As much as de Sevrac is admirable, he is also pathetic, allowing his 'exquisitely feeling heart, and ... dignified sense of honour' (6) to drag him and his family into poverty and misery. The danger from which de Sevrac flees is countered by his own inability to take care of himself; the aristocratic abstraction from the world that characterises him threatens his life every bit as much as the guillotine. Robinson's romance is clearly republican, and sympathetic to the aims of the Revolution; she reflects the thinking person's disil- lusion when she balances her description of de Sevrac's plight with her support for 'the cause of universal liberty' (7) even in its 'momen- tous crisis': 'in the glorious effort for the emancipation of millions, justice and humanity were for a short time unheard, or unregarded' (7). Embedded in her romance, then, is an engagement with the violence of the Terror as well as a veiled criticism of its aristocratic
+
+## Excerpt 64
+- id: a5234ec90fb5b38f5e2dcd95
+- qdrant_id: d20f63a7-2520-5310-9fc9-370b41bb40cf
+- source: Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects (2017, Columbia University Press) - libgen.li.pdf
+- chunk_index: 11
+- importance: 0.7259
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+The degree to which different queer critics adopt the stance of negativity varies, as does the type of negativity they emphasize, but it seems safe to say that, for many, this stance represents an antidote to the valorization of suc- cess, achievement, performance, and self-actualization that characterizes today’s neoliberal society. From a queer theoretical perspective, this soci- ety is premised on false cheerfulness, on the cult of positivity that Barbara Ehrenreich, in Bright-Sided (2009), analyzes as one of the cornerstones of American culture. Ehrenreich argues that many Americans are condi- tioned to be so optimistic that they have an almost boundless faith in their ability to succeed, acquire wealth, bring about miraculous reversals of for- tune, attract good things to their lives simply by imagining them, and beat the odds of illness even when their chances of doing so ar…
+
+## Excerpt 65
+- id: c17662fc1ee05c830b465b9d
+- qdrant_id: b8cb9840-a346-5f75-991b-606fe72f4a4b
+- source: Reading to Stay Alive_ Tolstoy, Hopkins and the Dilemma of -- Christopher Dowrick -- Anthem studies in bibliotherapy and well-being, London, 2022 -- 9781785278914 -- cade02bc61042a84f85758af7cccccb3 -- Anna’s Archi.pdf
+- chunk_index: 264
+- importance: 0.7486
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+bleak monotony. She is a good friend to others but doesn’t like to share her problems with them. I know she is a regular attender at her local Catholic church, and finds comfort in her faith, so it occurs to me that she may be sympathetic to Hopkins’ work. During one of our regular consultations, I tentatively suggest that she has a look at some of these sonnets. When she comes for her next appointment with me, she brings her own copy of his selected poems with her. ‘It’s like finding a friend’, she tells me; ‘I felt like he was sitting next to me, reading to me. It brings a closeness.’ Paradoxically, witnessing his aloneness enables her to feel less alone. These sonnets also help us to realise that it is legitimate to feel so distressed, something we may often doubt or even feel guilty about. Reflecting on her reactions to ‘No Worst’ and ‘I Wake and Feel’, Frances tells me she has spent far too much time berating herself for feeling as unhappy as she does, when
+
+## Excerpt 66
+- id: 793eb75a99fe40f4f0bffe5e
+- qdrant_id: e563887d-d3be-59f0-9722-1f33f0a0d25f
+- source: Various, Harold Bloom (editor) - Leo Tolstoy (Bloom's Modern Critical Views) (2003).pdf
+- chunk_index: 387
+- importance: 0.7205
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+he not rushed in, and stroked her cropped hair, calling her a pretty boy, she might never have found out in actuality what her new singleness was. Instead of positive desperation she would have ended in self- contemptuous despair. There would have been nothing to break down, only the collapse of a dry shell. As it is, she begins at once, against the world-and-his-wife and contemptuous of both, the long course of building her own desperation, the positive desperation of her own cause, to the point where her own strength but not that of her cause should be exhausted. That is the nature of her tragedy, that her own strength cannot be equal to her cause. The independence of the individual is never equal to the cause of independence. And the flaw is as it should be, both in her and in the nature of things, and not at all less guilty for that (or if you like, less innocent): a flaw in any case…
+
+## Excerpt 67
+- id: cf6bade1514f14063888ce72
+- qdrant_id: 6cffbbb0-515f-5d4d-be84-def849ecfdcb
+- source: Anne Carson Ecstatic Lyre (coll.) (Z-Library).pdf
+- chunk_index: 88
+- importance: 0.7666
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+image, hopefully as bearable to ourselves as it is loveable to others. If the erotic rejection by her lover creates in the protagonist, as it did in the Greek lyric poets, “a personal struggle of will” against a negative force “that assaults or invades the body,” it is during such a struggle that the functional, bearable, lovable, hard-won self- image falls away (Eros the Bittersweet, 45). In its place she confronts “a nude glimpse of [her] lone soul” (Glass, Irony, and God, 17), a series of glimpses that also reveal her “difficult sexual destiny” (35). She calls these visions Nudes. The Nudes most explicitly link “The Glass Essay” to Brontë’s own poetry, particularly “‘the cardboard sublime’ of her caught world” in which personal agency is often reduced to pure capture (19). As gruesome as they are melodramatic, the Nudes stage mind-body dualism as a feminist drama, compressing th…
+
+## Excerpt 68
+- id: 8b4642c1d718dd5dea4653a9
+- qdrant_id: cf1ccfb5-e192-5260-bcd7-6e0918856b64
+- source: Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li.pdf
+- chunk_index: 76
+- importance: 0.7156
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+freedom”, writes Amy Bonnaffons, “it gave me a kind of soaring feeling, the world seemed to belong especially to me”.69 Love Plots also tell us something about public feelings and how they congeal in certain types of narratives. For Lauren Berlant sentimentality is a public feeling which “uses personal stories to tell of structural effects, but in doing so risks thwarting the very attempt to perform rhetorically a scene of pain that must be soothed politically”.70 Sentimentality is a balm to mediate the difficult reality that painful feelings are not evenly distrib- uted within populations. The queer “coming of age” film, Love Simon (2018), hits all of the beats of a conventional teen romantic comedy: secret loves, confused identities, broken and mended friendships, shifting familial dynamics, and true love finally revealed. The story begins when protagonist Simon starts secretly communicating with a mysterious boy at
+
+## Excerpt 69
+- id: 64eb9418aa73a5649d8e36c4
+- qdrant_id: 59d3905c-afba-51ab-9bbd-230267dee922
+- source: Rick Anthony Furtak - Love, Subjectivity, and Truth_ Existential Themes in Proust-Oxford University Press (2023).pdf
+- chunk_index: 80
+- importance: 0.7626
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+lamentable that as finite beings we are inevitably partial with re­ spect to what we love. In some moods, however, Marcel continues to be troubled by the fact that affective perception is shaped by one’s idiosyncratic perspective, and therefore contestable. This is evinced by statements such as that “love places in a person who is loved what exists only in the person who loves,”69 a reflection on his own experience that prompts Marcel to mention Robert de Saint-​Loup’s love for Rachel. Things appear different to differently oriented observers, and this has been cited since classical times as a reason for suspending judgment as to what is the case, or concluding that knowledge is not attainable. A host of other characters, including Marcel, believe that Saint-​Loup is suffering from an illusion simply due to his view of Rachel as she appears through loving eyes: to him, she seems to be a glamorous actress, a fascinating woman to whom he is irresistibly
+
+## Excerpt 70
+- id: 08d74aef5513c791b54a7e9a
+- qdrant_id: b46343a4-01ca-5bea-a7c1-1468d4eab22f
+- source: Thomas Ligotti - The Conspiracy Against the Human Race_ A Contrivance of Horror-Hippocampus Press (2010).pdf
+- chunk_index: 469
+- importance: 0.7308
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+all the time and will only get better with no end in sight, we have a feeling deep down that we are being taken for a ride by a bullshit artist. Drawing upon our life experience and the benefits of a normally operational intellect makes it impossible to guzzle the whole hogshead of any politician’s optimism. In a section of The World as Will and Representation that is devoted to arguing the reality of pain over the illusion of pleasure, Schopenhauer closes with these words: “I cannot here withhold the statement that optimism, where it is not merely the thoughtless talk of those who harbor nothing but words under their shallow foreheads, seems to me to be not merely an absurd, but also a really wicked, way of thinking, a bitter mockery of the most unspeakable sufferings of mankind” (emphases not added). Even those who do not wholly endorse Schopenhauer’s opinion of optimism in t…
+
+## Excerpt 71
+- id: 7fdbd5a0824c99449f2328eb
+- qdrant_id: 57c0c359-2e53-5fa9-ada7-f6b748d9a80b
+- source: [Blackwell philosophy and popculture series] Graham, Jacob_ Sparrow, Tom - True detective and philosophy _ a deeper kind of darkness (2017) - libgen.li.pdf
+- chunk_index: 89
+- importance: 0.7428
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+vive them. Worse still than an optimistic weathercaster would be a forecaster who actually believed their knowledge of meteorology meant they could control what happens. To pessimists, optimists have the illusion that they have mastery over their lives. We keep believing that we have the power to make our lives better, even in the face of all our failures to do so. No tech- nology, morality, or foresight protects us from death and change, and even the shiniest new toy will eventually rust (as Cohle’s name indicates). But the optimist can, in effect, multiply the damage we all will suffer by adding illusions on top of the situation. When these illusions are pierced, it adds the pain of disappointment to the more mundane pains that time inflicts by itself. So, to the pes- simist, optimism is not just blind but, to a point, dangerous. In True Detective, this optimism is embodied in Rust’s p…
+
+## Excerpt 72
+- id: 30b8e6dc7b1dece5020368e0
+- qdrant_id: 938ea983-f128-57b0-bc93-7e81261271ed
+- source: Eigen, Michael - Flames From the Unconscious_ Trauma, Madness and Faith-Karnac Books (2009).pdf
+- chunk_index: 368
+- importance: 0.7223
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+look beautiful days before a great wind hurls me to the ground. People will see the dust and say, “He looked beautiful in the storm.” * * * Emily: When I was a little girl, my mother died. The woman who took care of me told me, “Don’t get too attached to her, she’s dying. Soon you won’t have her.” She told my mother the same thing, “Soon Emily won’t have you. Let her go.” Something inside told me this was awful and I curled up inside. Curdled feelings. What a horrible thing to do to a little girl, to a 132 FLAMES FROM THE UNCONSCIOUS
+
+## Excerpt 73
+- id: cf8c89e93dd96736cdf0de02
+- qdrant_id: 124c04c4-a12d-5ab7-b1de-e1992f1fe217
+- source: [The Passionate Life] Robert C. Solomon - In Defense of Sentimentality (The Passionate Life) (2004) - libgen.li.pdf
+- chunk_index: 101
+- importance: 0.7269
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+sense that Jefferson, supporting Midgley, suggests. Allowing oneself to be- come teary-eyed about the tragic death of an impossibly idealized girl does not ‘‘make us unable to deal with the real world’’; rather, it activates our sensitivity to lesser as well as equal actual tragedies. There is always the aberrant case of the parents who go misty-eyed over the child they physically abuse, but again, it is a grotesque mistake to conﬂate such inappropriate and (pathologically) inconsistent sentimentality with the brutality that goes with it. The sum-total vision of our emotional economy, according to which we have only so much sympathy to spend, seems to me to be a particularly ill- considered and corrupting doctrine (as it has seemed to several other au- thors, such as Jerome Neu and Ronald de Sousa).22 It is true that a single trauma can exhaust our emotional resources, but it is unlikely that reading about Little Nell or Little Eva and experiencing ‘‘melting compassion’’ will
+
+## Excerpt 74
+- id: 347e1c5730525e70e47602b9
+- qdrant_id: 6973ff20-1483-5db0-b310-f96e19ecfb81
+- source: Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf
+- chunk_index: 314
+- importance: 0.7356
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+dissolves in her vision of blood, pain, and death as the unfortunate but nec- essary concomitants of progress, we, like her, can take solace in knowing that it is History, not our heroine, that heartlessly tramples the dead. It would not do, after all, to have Denise reflect unemotionally on the practi- cal inevitability of (to speak anachronistically) “collateral damage,” much less to have her boast, in the manner of Octave, about the triumph of the Bonheur as a tool of exploitation. The same pity and regret that would, in the voice of a male character, risk being read as a sign of emotional weak- ness, is precisely the ingredient that is required, in this instance, to maintain the heroine’s sympathetic appeal. Without her (strictly speaking) unreason- able sentimentality, the heroine would indeed come across as “a wicked soul” (RM 3: 748). Time and again in his portrayal of Denise’s c…
+
+## Excerpt 75
+- id: 89274955912d93b373369164
+- qdrant_id: aaa51359-69dd-5186-a194-3016777ce3b6
+- source: (Society for Cinema S) Jean Mitry, Christopher King - The Aesthetics and Psychology of the Cinema-Indiana University Press (1997).pdf
+- chunk_index: 202
+- importance: 0.7339
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+T I M E A N D S PACE OF T H E D RA M A 347 expression to her love, Lilian Gish, in the depths of despair, is literally an "orphan of the storm." And here we have the social victim becoming a real victim; the disinte­ gration of her morale is identified with the disintegration of the natural phenomenon. Nature herself seems to be siding against her, thereby reinforcing the cruelty of her destiny. It is not our purpose to judge whether or not such a melodramatic reinforcing de­ vice is successful (though, it must be admit­ ted, it is a well-realized sequence, achieving a genuine grandeur even in its excess) but to consider an effect of language, a form of expression. As in Variety, the subject becomes ap­ parent through the concrete facts but is not limited to the actual story; a whole series of significations radiate round it, which it does not exhaust, even though- a…
+
+## Excerpt 76
+- id: 21b72b80f99116c4937dabc3
+- qdrant_id: c6b3386f-610f-53c9-9a66-c855c8524cd8
+- source: (SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf
+- chunk_index: 32
+- importance: 0.7165
+- seed_hits: paul-b-preciado-testo-junkie-pharmacopornographic-regime
+
+later ads further manipulate women’s anxiety about appearance by implying that “High achieving women can be ravaged by executive stress” (202). Faludi argues that the beauty industry responded to poorer profits in the early 1980s by convincing women that they were ailing patients—suffering from professional stress and declining good looks. In response, the industry put an array of strategies into place in order to treat these patients: beauty became medicalized, with potions, skin injections, chemical treatments, and the rise of a plastic surgery industry that became more fully medicalized, with liposuction performed by physicians, an increase in hospital departments of cosmetic surgery, and medically prescribed and supervised liquid diet pro- grams (203). Faludi contends that women have sometimes become quite ill from carcinogens and immunopathics (in the form, for instance, of silicone breast implants), and that many have come to associate frailty and infirmity
+
+## Excerpt 77
+- id: a184cd0b49ba74b9cc4183d4
+- qdrant_id: 7ef80abe-5e24-5eba-8961-e897d04a901e
+- source: Derek Attridge - Forms of Modernist Fiction_ Reading the Novel from James Joyce to Tom McCarthy (2023, Edinburgh University Press) [10.1515_9781399512473] - libgen.li.pdf
+- chunk_index: 122
+- importance: 0.7574
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+had a right to happiness. Frank would take her in his arms, fold her in his arms. He would save her. The repetitions here, which would be clumsy in the narrator’s discourse, are the reflex of the character’s desperation as she clings to the decision she finds she has made. The second moment of decision is also more physical than it is mental. Eveline is again immobile, again torn between alternatives. This time the painfulness of the dilemma compels her into prayer, as she wrestles with the question of her double, contradictory duties. But at the final moment, when the bell clangs (‘upon her heart’ – another Joycean masterstroke of economic phrasing) and Frank urges her to accompany him, Eveline feels that she is drowning, drawn by her lover into ‘all the seas of the world’, and her paraly- sis is like that of ‘a helpless animal’. Her face registers no emotion whatever. The par…
+
+## Excerpt 78
+- id: cf0ab9eaf21c7253e84400d6
+- qdrant_id: d071c321-fb58-5020-9cb6-7c79335d2019
+- source: Alphonso Lingis - Irrevocable_ A Philosophy of Mortality-University of Chicago Press (2018).pdf
+- chunk_index: 84
+- importance: 0.7469
+- seed_hits: kathy-acker-body-writing-cut-up
+
+body. My tongue will lick from the inside out.” She tells us these things in raucous slang and with the wanton gestures of a cabaret performer. She is making the turns in her story goofy. She takes off the hospital gown; under it she is wearing another hospital gown, decorated with ribbons and red net petticoats, French cancan knickers. She undoes the top ribbons and slowly lowers the gown to reveal her flat chest with no nipples. “I got the first of my scars and lost my hair. I lost my left breast. The right one went as well. My ovaries are next on the list. This is how I forgot how to be a woman.” She does a provocative dance in the red net petticoats, wig, cosmetics with Patrick Swayze portraying Johnny Castle in Dirty Dancing, possessed with the force to hold him in life.2 She leaves, then returns, now no longer in costume, sits with us to lis- ten to us. To a question, she…
+
+## Excerpt 79
+- id: f38965fa4e9117229dce52a1
+- qdrant_id: 8e1baeb7-a6b6-5c83-93f7-6eac89447eca
+- source: Passionate fictions_ gender, narrative, and violence in -- Peixoto, Marta -- [Online-Ausg_]_, Minneapolis, 1994 -- Minneapolis_ University of -- 9780816621583 -- 9b6aafc318d197b4d53c797bee78cfb7 -- Anna’s Archive.pdf
+- chunk_index: 34
+- importance: 0.7578
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+interests, especially current ones, deflecting the issue back to her voracious and chaotic reading during ado- lescence. At that time she was especially drawn to Dostoyevski, Katherine Mans- field, and Hermann Hesse; she also chose books from lending libraries alphabet- ically by the author (“So I got to Crime and Punishment rather quickly’’) or by the mere appeal of the title (Lowe 1979, 37). Although at times Lispector con- tradicts herself, she always claims to have read the writer in question only after writing the book he or she supposedly influenced. In an interview in 1979, for instance, she places her reading of Sartre in 1944 (Colasanti et al. 1988, 300); in another, she insists she had never read or even heard of Sartre until after she had written A magd no escuro (1961; An Apple in the Dark) (Lapouge and Pisa 1977, 197). Her wish apparently was to appear as a writer guided onl…
+
+## Excerpt 80
+- id: 4accc7b53740cd5a147f538d
+- qdrant_id: 7039327c-ab4d-5711-954a-b7fb21e66063
+- source: Louis Betty - Without God_ Michel Houellebecq and Materialist Horror (2016, Penn State University Press) [10.1515_9780271078090] - libgen.li.pdf
+- chunk_index: 79
+- importance: 0.7316
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+individual has a simple view of the future: a time will come when the sum of pleasures that life has left to offer is outweighed by the sum of pain (one can actually feel the meter ticking, and it ticks al- ways in the same direction). This weighing up of pleasure and pain, which everyone is forced to make sooner or later, leads logically, at a certain age, to suicide. (204) This perspective is common to many of Houellebecq’s characters. Annabelle of Particles commits suicide when she is diagnosed with uterine cancer (231); Bruno’s girlfriend, Annick, jumps off a Parisian rooftop when her ugliness, along with Bruno’s rejection of her, becomes insufferable (128). In the post-religious, materialist universe of Houellebecq’s fiction, the earthbound sufferer is not to expect any heavenly recompense for his or her pains, and thus no relief from them at the thought of a better world …

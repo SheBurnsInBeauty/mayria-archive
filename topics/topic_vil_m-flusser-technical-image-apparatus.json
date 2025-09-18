@@ -1,0 +1,1216 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "vilém-flusser-technical-image-apparatus",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "ac4769aea5b0d57f19d4df5f",
+      "qdrant_id": "07e8583b-6213-5fe2-894c-57aff872e27b",
+      "text": "installations such as Eye/Machine I, II, III (2001–2003), Counter Music, Deep Play (2007), and Serious Games (2009–2010), as well as films such as War at a Distance (2003), focus entirely on operational images. Technical Images: The Automation of Perception From the 1980s to the early 2000s, Farocki’s work on operational images developed in parallel with the appearance of a series of publications that highlighted the pervasiveness of technical images and the increasing presence of forms of automated perception. In his For a Philosophy of Photography (1983) and Into the Universe of Technical Images (1985), Vilém Flusser analyzes a new generation of",
+      "source": "The Oxford Handbook of Film Theory (Kyle Stevens) (Z-Library).pdf",
+      "chunk_index": 144,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.750988,
+      "importance": 0.7914391756057739,
+      "final_score": 0.7509878277778625
+    },
+    {
+      "id": "760455e6dd2128a0206b84be",
+      "qdrant_id": "169b4d5f-1ea9-5586-b324-5d845b7bcbb4",
+      "text": "use. Such extraneous details are sneaked into the image by the camera despite, and not because of, the intent of the photographer, and there they stand, for Barthes, as a plenipotentiary of affec- tive experience that prom- ises transcendence over the instrumentalized form of mass culture. Fried exploits this layered critique of inten- tionality in discussions of the poses adopted by young beachgoers in Dijkstra’s por- traits and, most forcefully, in the account he gives of Thomas Demand’s recon- structed archival photo- graphs. These celebrated works are images of blank Thomas Demand, Archive, 1995. Chromogenic process print with diasec. 183.5 x 233 cm",
+      "source": "Radical Philosophy - Radical Philosophy #157-Radical Philosophy (2009).pdf",
+      "chunk_index": 254,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6577195,
+      "importance": 0.7785167694091797,
+      "final_score": 0.72391676902771
+    },
+    {
+      "id": "12ea4d9e4d601476e7d0808f",
+      "qdrant_id": "1b2c21b4-7503-5577-9df9-6516e0fd6ab6",
+      "text": "Hull) (Beacon Press, 1971). 726 Vilém Flusser, Into the Universe of Technical Images; Op. cit.; p.85. 727 Vilém Flusser, Does Writing Have a Future? 728 Vilém Flusser, Pour une philosophie de la photographie. 729 Stuart Hall,EncodingandDecodingintheTelevisionDiscourse (Birmingham UK: Centre for Contemporary Cultural Studies, 1973). 730 https://www.vestcyber.ru/jour/article/view/177?locale=en_US 731 D.FoxHarrell,PhantasmalMedia:AnApproachtoImagination,Computation,andExpres- sion (Cambridge MA: The MIT Press, 2013). 732 Ibid.; p.45. 733 Ibid. 734 Ibid.; p.252. 735 Ibid.; p.341. 736 Casey Reas and Ben Fry, Make: GettingStartedwith Processing,A Hands-OnIntroduction to Making Interactive Graphics (San Francisco: Maker Media, 2015). 737 Wendy Hui Kyong Chun, Programmed Visions: Software and Memory; Op. cit.; p.47. 738 Oliver Bown, Beyond the Creative Species: Making Machines That Make Art and …",
+      "source": "Alan N. Shapiro - Decoding Digital Culture with Science Fiction_ Hyper-Modernism, Hyperreality, and Posthumanism (Digital Society)-transcript publishing (2024).pdf",
+      "chunk_index": 191,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.7041694,
+      "importance": 0.7495420575141907,
+      "final_score": 0.7041693925857544
+    },
+    {
+      "id": "40a3b7abe7cfb44dc0c0cf6b",
+      "qdrant_id": "ec6fee20-e82a-5826-9c8e-8f0c06b1a4a8",
+      "text": "I • I M A G E S , N O T S I GNS 141 sought to take seriously the material procedures of manufacturing, projecting and diffusing visual representations because it became apparent that a modification of productive technique brought with it a change in the very nature and status of the product. The ontology of images is answerable to such technique: one simply does not take the same kind of photograph using a photographic plate exposed for two hours during the subject's tedious pose and using a Polaroid camera. And as Dagognet frequently reminds us, for a century technical progress has brushed away from represen­ tational images all those obstacles which iconophobic denigration had for twenty-five centuries declared most philosophically objec­ tionable and insurmountable: silver salt emulsions have given us color photography beyond the shadowy insubstantiality of black and …",
+      "source": "Regis Debray - Media Manifestos_ On the Technological Transmission of Cultural Forms-Verso (1996).pdf",
+      "chunk_index": 460,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.70257086,
+      "importance": 0.7829113602638245,
+      "final_score": 0.702570915222168
+    },
+    {
+      "id": "a7e1f075ea098260c501f029",
+      "qdrant_id": "a027b8bc-7f0d-58fe-a7f2-604375a5dff5",
+      "text": "he now becomes part of the technical image making apparatus itself and takes on the role of a functionary within the system. Campbell still programmes the system, but he does not create the images per se. The light bulbs work together to form an apparatus whose internal relations give form to images. The shadows in Campbell’s work appear to pass by, moving through the station, because of the carefully timed switching and dimming of the lights. The message of the artwork is not in its content but in the environment created by media. The artwork is not about transmitting a meaning but about creating an environment for viewing the world. The images are created by relations set up by the apparatus: between light bulb to light bulb; between artist to medium, between medium to audience. The image of the world is fragmented by an apparatus and then reassembled by the viewing conditio…",
+      "source": "Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf",
+      "chunk_index": 218,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.69916105,
+      "importance": 0.7557362914085388,
+      "final_score": 0.6991610527038574
+    },
+    {
+      "id": "1b87ed12716d46deabc3649d",
+      "qdrant_id": "306e8ded-b324-576d-b238-7b4e75704a03",
+      "text": "Henri Bergson, Marshall McLuhan, and ­others. The formation of horn in and on the ­human body might even be the concrete point of reference for understanding media as “extensions of man.” 19 Be this as it may, the focus on a motif that stands si­mul­ta­neously for a natu­ral material and an artificial object is extremely useful in studying the emergence and development of bodily and technical surfaces. In his engagement with the phenomena of media superficiality, Flusser has given an exemplary description of the gradual reduction of sculptures to images, of images to texts, and of texts to programs. But his depiction of this “play of abstraction” focused primarily on one side, that of media technology. His explanations of the other side, the surfaces of the body, the “body map” and the “skin atlas,” however, have remained fragmentary.20 That is the point where our effort sets in. From the double perspective",
+      "source": "Henning Schmidgen_ Nils F. Schott - Horn, or The Counterside of Media (2021, Duke University Press) [10.1515_9781478022343] - libgen.li.pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6955789,
+      "importance": 0.7719621658325195,
+      "final_score": 0.6955788135528564
+    },
+    {
+      "id": "298181bba80b6509f13e94b7",
+      "qdrant_id": "0bcceddb-effd-5d9d-b42f-69b91dc2647c",
+      "text": "———. “Mikrokonstruktivismus.” In Lab, Jahrbuch für Künste und Apparate, ed. Kunst- hochschule für Medien mit dem Verein ihrer Freunde, pp. 208–227. Cologne: Walther König, 1996a. ———. Das Flammenschwert, oder: Wie hermetisch ist die Schnittstelle des Mikrokonstruktiv- ismus? Bern: Benteli, 1996b. Rohr, Moritz von. Zur Geschichte und Theorie des photographischen Teleobjectivs. Weimar: Verlag der Deutschen Photographen-Zeitung, 1897. ———. Zur Entwicklung der dunklen Kammer (camera obscura): Sammlung optischer Auf- sätze. Ed. H. Harting. Berlin: Verlag der Central-Zeitung für Optik und Mechanik, 1925. ———. Die optischen Instrumente: Brille, Lupe, Mikroskop, Fernrohr, Aufnahmelinse und ihnen verwandte Vorkehrungen. Berlin: Springer, 1905; 4th ed., 1930. Rolland, Romain. Empedokles von Agrigent und das Zeitalter des Hasses. Trans. Leo Götz- fried, including Eduard Saenger’s adaptation of the …",
+      "source": "[Electronic Culture_ History, Theory, and Practice] Siegfried Zielinski - Deep Time of the Media_ Toward an Archaeology of Hearing and Seeing by Technical Means (2006, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6943613,
+      "importance": 0.7506157159805298,
+      "final_score": 0.6943613290786743
+    },
+    {
+      "id": "09e91e5724b7eea4f7038f7c",
+      "qdrant_id": "8dd774f9-56ae-5127-a9f5-46fb95683e50",
+      "text": "feature is its stiff construction. Viewed from the vantage of the supposed Moroccan Other, from this perverse, fetishistic position, the cloth of the photographs is not (as it is in the fantasy) the object-cause of desire; it does not beckon us to peer behind it, or to imagine a hideous enjoyment concealed by it. This is why there are no photographs of the unveiling of the figures or, indeed, of any action taken toward them. There is no—or strikingly little—fantasy space in these photographs, that is, no virtual space suggested by the figures. No promise of a future knowledge to which they may provide the key. The photographs are precisely cut off from such a space, which would only be generated if the cloth were to occupy the place of the object a. The cloth is not a presentified image of loss, but rather a solid presence, a barrier against any recognition of loss. If the perverse behol…",
+      "source": "Read My Desire (Joan Copjec) (Z-Library).pdf",
+      "chunk_index": 254,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage",
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.709907,
+      "importance": 0.8045017123222351,
+      "final_score": 0.6939601898193359
+    },
+    {
+      "id": "a2fed63201de063832937ad9",
+      "qdrant_id": "1c49539c-8ba6-5e90-996f-7701109bb46f",
+      "text": "assumption that there is at least an ontologically fuzzy or third space in between the pure image-object on the screen and the pure material thing in front of the camera. This fuzzy space is built up by specific interactions or operations that derive fi-om the interplay of (1) the photo mechanic machinery of cinematography, as material and real as it is, (2) the material objects that surroimd this machinery and to which the camera is directed, and (3) the physical body of the spectator and the operations of perception and action that can be ascribed to this body (Voss 2006,2013). At the very core, it is precisely the cameras pure and mechanical recording or registering of the light as it is refracted by the object in front of the camera, of the movement or gesture the object Moving Images as Ontographic Images 143 is subject to, and of the movements or gestures of the spectator. The automatic nature of the recording process, as underlined in Kracauer",
+      "source": "[Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 360,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.69023824,
+      "importance": 0.7714262008666992,
+      "final_score": 0.6902382969856262
+    },
+    {
+      "id": "3174616dd6fc419c33407ee6",
+      "qdrant_id": "61b0de7e-42f0-586d-97b7-4b57a3217205",
+      "text": "AGAINST TRANSMISSION 44 The image produced by the camera is a technical image, dependent on a programme. For Flusser, these images offer new relations to the world than those offered by either print (as historical media) or traditional images (as prehistorical media). When Flusser discusses the prehistoric function of traditional images he often refers to the ‘magic’ of these images. Here, Flusser means to point to a life dependent on traditional images that act as nonlinear transformations of the world, without the cause and effect presupposed in historical life. When a cock crows in historical time it is because of sunrise. This is radically different from an image of a cock crowing, in which cause and effect cycle through repetitions. The cock at once signiﬁ es sunrise and the sunrise signiﬁ es the cock crowing ( Flusser [1983]2013 : 9). In the magical world of images, cau…",
+      "source": "Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf",
+      "chunk_index": 172,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6872864,
+      "importance": 0.7412144541740417,
+      "final_score": 0.687286376953125
+    },
+    {
+      "id": "760a08553fda10c3a5932df1",
+      "qdrant_id": "56e14e23-7247-5184-9353-f345245da5b1",
+      "text": "into the unknown zone of the gap is In/fluencing (2005), a permutational media installation that works at the micro- and nanolevels of reverberation phenomena. In/fluencing uses needles from an AFM and an SEM (scanning electron microscope) alongside a turntable in order to put Nicola Tesla’s “potential",
+      "source": "[Technologies of Lived Abstraction] Eleni Ikoniadou - The Rhythmic Event_ Art, Media, and the Sonic (2014, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 190,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6867338,
+      "importance": 0.7380684614181519,
+      "final_score": 0.6867339015007019
+    },
+    {
+      "id": "61e7a5b835bcefe3b045b791",
+      "qdrant_id": "ded7292b-51fa-544d-b0a3-5b59d1d6bf32",
+      "text": "Elena Marcevska ______________________________________________________________ 77 by the Muybridge research in capturing frame-by-frame human motion, I developed the project ‘Display movement’. My aesthetic guidance was the photographical work of Edward Muybridge (motion studies of the 1880s) who believed in the special power of photographs to convince viewers in counterfeit motion. Muybridge used fast-shutter speeds to break action into moment-by-moment increments, rendering movement stationary. For animators and other artists, the images he captured in the numerous sessions remain a standard reference, a dictionary of movement. In The Philosophy of Photography, Vilem Flusser outlines how the technical images are products of machines that are themselves the product of texts, e.g. research, engineering and others. This indeed articulates how we understand the body in western and globaliz…",
+      "source": "Edited by Adam W. Ruch and Ewan Kirkland - Posthumanity_ Merger & Embodiment - libgen.li.pdf",
+      "chunk_index": 119,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6853436,
+      "importance": 0.7449944019317627,
+      "final_score": 0.6853437423706055
+    },
+    {
+      "id": "232f137cb8dca010450617e0",
+      "qdrant_id": "b17b486c-51d3-5196-8a9b-75f7d6a0e04a",
+      "text": "proposed thereby is an understanding of the manifest image only by the recognition of what is standing under it in manufacture. In advance of all image, and in the very advancing of it, there is the generative process of imaging. This is where the primary intelligence of the machine must first of all “interpret” the continuum from its fundamental disjunctions, frame per (and contra) frame. And this is the case whether that vanishing",
+      "source": "Garrett Stewart - Cinemachines_ An Essay on Media and Method-University of Chicago Press (2020).pdf",
+      "chunk_index": 167,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.68407834,
+      "importance": 0.7679151296615601,
+      "final_score": 0.6840783357620239
+    },
+    {
+      "id": "4abf1e0e1f2c5eeb2ad06d2b",
+      "qdrant_id": "d9a41d3e-2789-5766-a2b9-8041c313bb98",
+      "text": "techniques’ (p. 348). Scientists are using similarly advanced techniques at the Walters Art Gallery in Baltimore on the Archimedes Palimpsest. A new method of resurrection known as ‘multispectral imaging’ is being employed. Fascinatingly, its name carries the ghostly imagery that has surrounded palimpsests since the mid-nineteenth century into the language of contemporary palimpsest technologies. In this technique, images of the palimpsest in infrared, ordinary and ultraviolet light are taken with a scientiﬁc camera. The Archimedes ink and the prayer-book ink have their own spectral signatures and thus respond differently to different light wavelengths. Therefore, when the digital images are loaded onto a computer, software used to analyse satellite photographs of Earth can be programmed to recognize only the Archimedes signature, suppress the overlying script, and make the Archimedes text stand out. One cannot but wonder what De Quincey would have made of such twenty-ﬁrst-century",
+      "source": "[Continuum Literary Studies] Sarah Dillon - The Palimpsest_ Literature, Criticism, Theory (2007, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription",
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.69187784,
+      "importance": 0.7476938366889954,
+      "final_score": 0.6830372214317322
+    },
+    {
+      "id": "1d72432d80da01b81689604d",
+      "qdrant_id": "314953dc-003c-565a-96b6-8cc5a56622c0",
+      "text": "productivity of the realist act, which the photograph so enigmatically reveals. The world is never closer than in the photograph - neither is its manufacture so disguised. The opacity of the photograph, which shows us what is there, is equal to the self-evidence of the empirical, which is uncanny in the same way and for similar reasons. But before even the marvel of the manufacture of the image, there is the manufacture of the technology which enables it - the camera, an artefact of yet more magical thinking, technological thinking, which makes the world in terms of its means and ends. The camera is a tangible idea, an apparatus that can see the world for us, according to the interpretation we want to make of the 'real world' . Its magic allows us to watch prejudice materialise. And before there is the manufacture of the camera, there is a more insidious production still - t…",
+      "source": "Robyn Ferrell - Genres of Philosophy-Ashgate Publishing (2002) (1).pdf",
+      "chunk_index": 596,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.68141985,
+      "importance": 0.7452421188354492,
+      "final_score": 0.6814199686050415
+    },
+    {
+      "id": "b50861a65966d72f08c39b51",
+      "qdrant_id": "e384d46a-3bb7-546f-9169-aa12a5267d73",
+      "text": "[ featurette ] 67 representational image on the strip has been redoubled by the flickering intermittence of a second light source. Not only is the basic transparent reel of serialized image (on the projected photogram track) transferred to its opaque counterpart in those spooling surfaces, only the first of which is reflective, but, in the process, the beam of visibility is also aggressively reversed by the “rear projection” of sheer illumination. Here, then, the normal discontinuity of frame advance, as elided on the single screen of standard projection, is maximized instead in the service of erasure rather than pictured motion—­sheer disappearance—­in the racing forward of the background’s perforated surface. The bite-­sized light flare from behind, as if snuffed out at once, constitutes a disappeared piercing that amounts to an editing device achieved in tandem by two parallel planes of projection. In coordinated operation, we might see those two paper scrims offering",
+      "source": "Garrett Stewart - Cinemachines_ An Essay on Media and Method-University of Chicago Press (2020).pdf",
+      "chunk_index": 251,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.680587,
+      "importance": 0.7441772818565369,
+      "final_score": 0.6805869340896606
+    },
+    {
+      "id": "89db414b544e446ced3ea266",
+      "qdrant_id": "57b68cc0-e6fa-5270-871b-ad0db2b10120",
+      "text": "tended to indicate an area of interest. If one uses the manicule to click on any given space in the field, that part of the image is enlarged for a closer look. The directional buttons and the three tabs (“Zombies,” “Names,” and “Info”—­to which I’ll turn my attention momentarily) remain at the bottom of the screen even when the image is magnified, its tightest focus acquired at three clicks. The viewer is encouraged to play the image like a keyboard. Scrolling horizontally and vertically, the eye is treated to a diverse array of bodies in a range of different styles and with varying amounts of detail: some are rendered sharply in black and white, oth- ers in vivacious color; still others are little more than a series of dots or a smear and only abstractly suggest a human form or a mass of connective tissue. Zooming in, figures that were originally centimeters tall now take up half of a computer screen. Now we see that",
+      "source": "Sarah Juliet Lauro - Zombie Theory_ A Reader (2017-10-15, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6796074,
+      "importance": 0.7517479658126831,
+      "final_score": 0.6796073913574219
+    },
+    {
+      "id": "631bf08dbdd8274d0e8a71ec",
+      "qdrant_id": "56ff97a1-385e-5c66-be3f-0e5732ff69f6",
+      "text": "tiful images. The indeterminate, because it cannot be fore- cast, has to be, if not eliminated, at least limited to the capacities of the apparatus, and with it sentiment too. Of course the artist, as always, plays with these constraints. But the common addressee of beautiful photos is not a sensory subject inventing a community of taste to come, but the addressee of finite products in which he must recognize the perfection of the procedures determining them. Industrial photography does not appeal to the beauty of sentiment, but to the beauty of understanding or connotation. It has the infallibility of what is perfectly programmed, the beauty of Voyager II. The loss of aura is the negative aspect of this hardness, of the hardware implied in the fabrication of the apparatus that produces the photo. The amateur retains the choice of subject and settings, but the manner is that of the maker of the apparatus, in other words a state of industrial techno-science.",
+      "source": "Jean-FranCois Lyotard, Geoffrey Bennington, Rachel Bowlby - The Inhuman_ Reflections on Time (1992, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 351,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6734996,
+      "importance": 0.736976146697998,
+      "final_score": 0.6734997034072876
+    },
+    {
+      "id": "c50c267e1a0ee78db15124ee",
+      "qdrant_id": "b48eb3e4-ed24-5e04-a3bd-01abf3470618",
+      "text": "XP ^`T^ OT_\u0001% v ,S \u0002L\u0002aP`_\u0002OT]P\u0002\\`P\u0002¯L\u0002 TY_±]P^^P\u0002_Z`UZ`]^ɳ  Parce qu’au fond UP YP ^LT^ [L^ NP \\`P ¯L ^TRYTʭP\u0017 WP Loft, [Z`] WL UP`YP R±Y±]L_TZYɳ /P _Z`_P façon l’idée de cette série n’aurait [L^ [` aPYT] OP XZT\u0017 UP YɪLT [L^ O` _Z`_ `YP [P]^ZYYLWT_± ¨ ]PRL]OP] PY L]]T°]P\u0019 .ɪP^_ a]LTXPY_ WP SL^L]O OP^ rencontres. Il semblerait qu’il y ait toujours du hasard dans les moments de création… ,M^ZW`XPY_ ;L] PcPX[WP\u0017 OLY^ WP^ NL^_TYR^ OP _±W±\u0018]±LWT_±\u0017 ZY LʯNSP toujours les photos des candidats au X`] [Z`] aZT] WɪPʬP_ OP MLYOP\u0019 0_ [L]QZT^ TW d L `YP [SZ_Z \\`T _ZXMP\u0017 ZY ne sait pas pourquoi. Peut-être que NɪP^_ WP aPY_ \\`T WL QLT_ _ZXMP]\u0017 Z` U`^_P \\`ɪPWWP YɪP^_ [L^ MTPY LNN]ZNS±P\u0019 0S MTPY\u0017 OLY^ NP NL^\u0018W¨\u0017 ZY YP ]LXL^^P ULXLT^ WL [SZ_Z O` NLYOTOL_ \\`T P^_ _ZXM±P\u0019 0Y _Z`_ NL^ XZT\u0017 UP YP WL ]LXL^^P ULXLT^\u0019 .ɪP^_ _P]XTY±\u0019 5P XP OT^ \\`P NɪP^_ NZXXP ¯L\u0017 NɪP^_ WP SL^L]O qui a choisi. Dans Culte, quelles sont les parts OP\u0002]±LWT_±\u0002P_\u0002OP\u0002ʭN_TZY*\u00024W\u0002d\u0002L\u0002OP^\u0002",
+      "source": "Sofilm - Septembre-Novembre 2024.pdf",
+      "chunk_index": 417,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6708044,
+      "importance": 0.7336528301239014,
+      "final_score": 0.6708046197891235
+    },
+    {
+      "id": "3df3c336d46cfe9540c0c712",
+      "qdrant_id": "bfde8e98-1bfa-560f-91a0-2ed318e6be1e",
+      "text": "guration numérique, presque 3D, de cette histoire du nazisme. Élie Raufaste : Le ilm puise aussi sa force de hantise dans l’héri- tage matériel que sont les archives. Comme Le Fils de Saul de László Nemes (2015), il dialogue avec une mémoire photo- graphique : Nemes le fait de façon explicite, avec les quatre photographies des Sonderkommandos marquées par l’ombre, le lou, la précarité de la prise de vue, et Glazer via les images prises par les SS de leur quotidien autour du camp (l’album de Karl Höcker notamment) et les photos de famille des Höss – beaucoup plus banales en apparence, nettes, bien cadrées, avec des sourires, etc. Le ilm rejoue de façon assez troublante cer- taines de ces photographies (canoë, partie de chasse, scènes dans le jardin) tout comme il respecte assez idèlement, dans son rapport à l’espace, la disposition de la maison ou la distance entre celle-ci et l…",
+      "source": "Cahiers_du_Cin_ma_-_Avril_2024 (1).pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6702186,
+      "importance": 0.7544039487838745,
+      "final_score": 0.6702186465263367
+    },
+    {
+      "id": "f647d07a6e431df6c1abbdc8",
+      "qdrant_id": "a0032cf1-1d9e-53f5-8f3e-92018f874475",
+      "text": "utilisé deux objectifs – anamorphique et zoom – placés l’un sur l’autre, permettant d’élargir l’image pour la rétrécir ensuite, ce qui provoque une perception très par- ticulière de l’espace, où tout est de guin- gois. Pour obtenir une image abîmée, nous avons refusé la 4K ou la 2K pour tourner en HD, en utilisant la sous-exposition et en tendant un collant couleur chair entre les deux objectifs. Pour les scènes plus sensuelles, nous avons mis de la vaseline sur l’objectif pour que la lumière bave. La poussière visible à l’écran est due à mon accessoiriste et homme-orchestre, Florent Maillot ; il utilise une vieille machine qui la crée et la diﬀuse. Je voulais que le manoir, qui pue l’humidité et le renfermé, apparaisse comme un corps qu’on n’aurait pas lavé. Le ﬁlm recourt aussi, à travers ses cadres, à la mise en abyme. Lors de mes études de théâtre, théoriques et pratiques, la découverte de Brecht a été un choc pour moi. Je préfère être dans",
+      "source": "Cahiers_du_Cin_ma_-_Janvier_2024 (1).pdf",
+      "chunk_index": 164,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.66812855,
+      "importance": 0.7496286630630493,
+      "final_score": 0.6681285500526428
+    },
+    {
+      "id": "68b48366559e2f3046210e00",
+      "qdrant_id": "5a0ec010-6d91-545a-adf0-5d0c53b5200e",
+      "text": "to enhance and navigate through one of the still photographs found in Leon’s apartment. Inserting the photograph into the machine, the image is then displayed on a computer-​TV moni­ tor, overlaid with a grid. Deckard uses the grid to call out the coordinates of a particular area of the image that he wishes to investigate. He calls out commands, such as: “Enhance 2–​24 to 176,” a command that closes in on and enlarges the specific area of the photograph that he wishes to examine.16 As the machine closes in on this area of the photograph, it continues to make sounds simulating the shutter of an analog camera. Deckard uses other commands, typical of film direc­ tion: “Pull out, track right.” He examines the image as would a regular detective investigate and search for clues in a room at the “scene of the crime.” Through his interrogation of the image, Deckard locates Zhora nex…",
+      "source": "(Film Theory in Practice) Matthew Flisfeder - Postmodern Theory and Blade Runner-Bloomsbury Academic (2017).pdf",
+      "chunk_index": 351,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.66811943,
+      "importance": 0.7322063446044922,
+      "final_score": 0.6681193709373474
+    },
+    {
+      "id": "58695691626ee5ad71892222",
+      "qdrant_id": "44ecbadc-b778-5e8f-8eb0-05abb2aa9e74",
+      "text": "années 1950 et d’autres immeubles plus récents. On note les diférentes échelles à utiliser du premier au dernier plan de l’image et on crée rapidement des blocs en polystyrène, pour voir ce que ça donne devant une caméra. Puis on compare avec la première image, et si ça fonctionne on commence à construire. On utilise sur- tout des matières plastiques et métal- liques, parce qu’à l’échelle la structure du bois est trop grosse, donc on ne peut utiliser que certains bois africains qui ont des ibres très ines. Parfois on va très loin : sur cette maquette de L’Île aux chiens, on a même fait les devantures de maga- sins alors que ça ne se voit pas, et que la scène dure quelques secondes. Mais si ça n’avait pas été là, l’ensemble n’aurait pas fonctionné. Un de mes maquettistes qui avait été plusieurs fois au Japon a repro- duit la forme exacte des climatiseurs qu’il avait pris …",
+      "source": "Cahiers_du_Cin_ma_-_Avril_2024.pdf",
+      "chunk_index": 475,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6677072,
+      "importance": 0.7459078431129456,
+      "final_score": 0.667707085609436
+    },
+    {
+      "id": "42b873f5869c782d405c6980",
+      "qdrant_id": "e94e0304-4611-5124-bc2b-ff7a0e737045",
+      "text": "familiarisation à laquelle participèrent d’ingénieux appareils optiques, domestiques et ludiques, bien qu’ils n’en furent pas mécaniquement des anticipations. L’événement qu’est l’entrée d’un être vivant ou d’un objet mobile par un bord de l’image, et sa sortie par un autre bord, constitue le « degré zéro » dramaturgique d’une vue Lumière que des artistes tels que Degas, Caillebotte et de nombreux petits maîtres préigurèrent. C’est ce que le cinéma prolonge, en naturalisant photographiquement la représentation picturale de la vie en train de s’accomplir sans privilégier un moment prégnant mais au proit du quelconque. Et s’il faut à Monet des journées entières pour peindre dans son atelier les vagues agitées de l’Atlantique qu’il a observées sur la côte basque, il suit de quelques minutes aux frères Lumière pour réaliser ce même projet. C’est dire que la cinématographie eut rapidement la vocation de restituer la simultanéité",
+      "source": "Cahiers_du_Cin_ma_-_Juillet_2024 (1).pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6674541,
+      "importance": 0.7593697905540466,
+      "final_score": 0.6674541234970093
+    },
+    {
+      "id": "bb4d7ed1bb34f08878553b80",
+      "qdrant_id": "6ed59436-6de2-5998-ad8b-4f9d1207b1fe",
+      "text": "or planes of the image (and thus compositing) happens in concert with the mechanical succession of images. Such a machine is not, then, a structure that totalizes or totally determines every outcome. It not only comprises the humans who make it and work with it, but also on other virtual and actual machines. It thus unfolds in divergent series as it folds other machines into it. Apparatus theory in ﬁlm studies came closest to this way of thinking about machines when it confronted the mobility of the camera. Baudry, for instance, insisted that the monocular lens of camera constrained it to reproduce one-point perspective, which in turn resulted in the imposition of a seemingly rational and",
+      "source": "Chōsen Kōgei Kenkyūkai_LaMarre, Thomas - The anime machine a media theory of animation (2010, Univ. of Minnesota Press) - libgen.li (1).pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.66432583,
+      "importance": 0.7564248442649841,
+      "final_score": 0.6643258929252625
+    },
+    {
+      "id": "b2c1c59f6b2a32fe11c531f3",
+      "qdrant_id": "251360bd-8742-5e5f-aa65-f1a321df7133",
+      "text": "160 g Acknowledgements ACKNOWLEDGEMENTS The publisher would like to thank the following for permission to reproduce copyright material on the following pages: Alamy/ AF archive: 133; age fotostock: 95; Archive World: 52; Atomic: 109; bilwissedition Ltd. & Co. KG: 55; Chronicle: 2, 127; Classic Image: 90; Cultural Archive: 109; dpa picture alliance: 69, 73; Everett Collec- tion Inc: 26, 121; FOR ALAN: 105; Geraint Lewis: 142; GL Archive: 69; Granger Historical Picture Archive: 25; Keith Corrigan: 49, 97; Niday Picture Library: 6, 37; Pictorial Press Ltd: 124; Rich Dyson: 111; Tim Whitby: 69; United Archives GmbH: 44; Universal Art Archive: 9, 151 Bundesarchiv, Bild 183-24300-0049 / Sturm, Horst: 115 Dreamstime/ Branko Grujic: 89; Bratty1206: 17; Oleg Kravchuk: 149 Folger Shakespeare Library: 87 Getty/ duncan1890: 77; Hulton Archive: 121; Richard Westall: 83 The Graphics Fairy: …",
+      "source": "Ella Berthoud - 30-Second Literature_ The 50 most important forms, genres and styles, each explained in half a minute (2020, Ivy Press) - libgen.li.pdf",
+      "chunk_index": 258,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus",
+        "walter-benjamin-aura-mechanical-reproduction-archive"
+      ],
+      "raw_score": 0.71149683,
+      "importance": 0.7614520788192749,
+      "final_score": 0.6640635132789612
+    },
+    {
+      "id": "d886eac2853312491743c629",
+      "qdrant_id": "c9ae866b-f580-5ef3-89d2-9abf8fef84aa",
+      "text": "tion central to New Vision photography: on the one hand, this practice sought to restore habitS oflooking to a condition of perceptual immediacy, helping the spectator once again to see the world in al of its phenomenal plenitude (rather than merely recognizing sins of thiƊ world); on the other hand, ir proposed tO achieve this state of unmediated experience through the device of perspectiva arrificialis and its rnecha1ucal proxy, the optical camera. Paradoxically, it is only through technical mediation that it becomes possible to restore perception to its precategorical primacy. 29",
+      "source": "Devin Fore - Realism After Modernism_ The Rehumanization of Art and Literature-Mit Press.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6639253,
+      "importance": 0.772714376449585,
+      "final_score": 0.6639253497123718
+    },
+    {
+      "id": "3ee1c183d47d83f81e8dcb14",
+      "qdrant_id": "cb08e026-04da-580a-a29c-ec271d2e9903",
+      "text": "Additionally, the practice of forging has existed throughout history. Irrespective of the intent, such reproductions required labour comparable to the act of creation itself; duplicating a painting demanded a similar or even greater eﬀort and skill than crafting the original piece. However, technical reproduction introduced a new dimension: the capacity to mass-produce works of art and artistic objects. The photograph is noteworthy in this context as it represents the ﬁrst instance where the human hand has been “freed […] of the most important artistic functions which henceforth devolved only upon the eye looking into a lens” (Benjamin, 2007/1936: 219). Photographic reproduction operates with the swiftness of the eye, capturing all that lies before the lens. Two manifestations of this technique caught Benjamin’s interest: the repro­ duction of existing works of art and images and art forms entirely based on reproduction, such as photography and ﬁlm. Reproduction of art",
+      "source": "Stina Bengtsson (editor), Staffan Ericson (editor), Fredrik Stie - Classics in Media Theory (2024, Routledge) [10.4324_9781003432272] - libgen.li.pdf",
+      "chunk_index": 79,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6638975,
+      "importance": 0.7290388345718384,
+      "final_score": 0.6638975143432617
+    },
+    {
+      "id": "9250821b1117eb12207b58fc",
+      "qdrant_id": "6d7ac0bc-07c1-50ff-a562-aebeaedba75b",
+      "text": "Stereoscope, 170 as technical induction of absolute survey, 171 Stern, Daniel, 25, 133, 261 Stiegler, Bernard, 255–257, 259, 260, 265, 266, 268, 270 Strickland, Stephanie, 235, 252 “Subjective image” (Viola), 176, 269. See also Image Szepesi, Anna, 114 Tactile space (Deleuze), 209, 211 Tactility, 101, 224, 230 Technical dediﬀerentiation (Kittler), 76– 78, 84 Technical determinism, 74 Technical frame, 10, 14, 31 Technical image, 8, 13, 76, 85, 110, 206 Technical recording, 256 Technicity, correlated with time- consciousness, 254, 266 Telepresence, 40, 41, 172. See also Virtual reality Telepresent Onlookers, The (Shaw et al.), 171, 172 Temporal deceleration, in ﬁlm and video, 245 Temporality, aﬀective basis of, 235, 236 ethics of, 259, 260 Temporal object, 252, 253, 255, 257 oversaturation of, 265 technical speciﬁcity of, 256 as vehicle for convergence of conscious- ness and aﬀectivity, 26…",
+      "source": "Mark B.N. Hansen - New Philosophy for New Media (2004, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 171,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6635878,
+      "importance": 0.7725310921669006,
+      "final_score": 0.6635878086090088
+    },
+    {
+      "id": "43cfb262c47fbbbceecf2da5",
+      "qdrant_id": "7681a308-2f1f-5cf8-a227-166f2a8b4e35",
+      "text": "ture of each part of the collage to see some letters and even decipher certain words, such as “culturing” and “three.” The picture is superimposed on a stamp and on other illegible texts. The accumulation of data on these pages calls for an examination of symmetrical patterns: the larynxes parallel one another even though they are different sizes, and the information at the bot- tom (the Kodak brand and the number of each picture) is also set up as a mirror. We cannot easily make sense of the facing page. On page 255, the red traces that appear vertically on the right-hand side of the page remind us of blood, but could also be waves of frequency. In addition, the circles on which are printed RNA Pol II, TAFs, etc. look like medical pills or drawings of cells in a science book. The black traces around the middle gray circles resemble the triple forte below which reminds us that this installation is in fact laid out on a musical staff, itself transformed",
+      "source": "Flore Chevaillier - The Body of Writing_ An Erotics of Contemporary American Fiction (2013, The Ohio State University Press) - libgen.li.pdf",
+      "chunk_index": 441,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up",
+        "media-archaeology-kittler-apparatus-inscription",
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6786119,
+      "importance": 0.7502431273460388,
+      "final_score": 0.6634033918380737
+    },
+    {
+      "id": "2700d7d7bef8c0fb6c7c4d7f",
+      "qdrant_id": "79ccb589-71b4-5af2-8289-ab2e8002334f",
+      "text": "[ sneak preview ] 31 its correlation with an embodied human mind, and emphasized thereby as computational as well as commutational—­has two curious marginal dimensions as well. These carry us back, by one route, to the origins of photochemically generated images in photography—­where in the evolution of camera technology, as it happens, the so-­called binary logarithm does in fact equilibrate differences between focal lengths and exposure times at the algebraic basis of camera settings. The logarithmic trope also speeds us ahead, of course, to what we might well call the sensorial math of digital imaging, including the crucial “compression logarithm,” otherwise known as the “logarithm operator” in “data range compression.” A computational template thus emerges from precisely the voids and dead spots, true to the world’s own, that are stitched over by the suturing in of consciousness to projected image. Just as one might choose to follow Friedrich Kittler",
+      "source": "Garrett Stewart - Cinemachines_ An Essay on Media and Method-University of Chicago Press (2020).pdf",
+      "chunk_index": 114,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6630911,
+      "importance": 0.7439367771148682,
+      "final_score": 0.6630913019180298
+    },
+    {
+      "id": "bcbcab9ce7c5db9f5bd3b8b1",
+      "qdrant_id": "cd1a44cc-a018-54ec-ac77-b9559c5a6b8a",
+      "text": "distingue par un goût peu orthodoxe pour la photographie. S’il lorgne vers la chronique sociale, le ilm se construit subtilement à travers un jeu de contrastes et d’emboîtements, couvrant un spectre allant de l’homme à l’animal, entre le prosaïsme de certaines situations et la majesté des paysages, l’ou- verture du cadre et l’étroitesse des écrans, les visions de Dradul et de sa petite amie et les images du léopard filmées par le moine avec une caméra cachée dans la montagne. En visionnant ces images, le moine et Dradul éprouvent un curieux sentiment, comme si le léopard se tournait vers l’objectif. Retournement du regard improbable, mais que Tseden opère bien lors des flash-back qui nous font passer dans le point de vue de l’animal. Que le premier de ces basculements se fasse par le biais d’un plan où la silhouette du moine apparaît dans l’œil de la bête participe d’un jeu d’inversion : reflet dans une pupille ou dans une lentille, la surface de l’image",
+      "source": "Cahiers_du_Cin_ma_-_Septembre__2024.pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6620743,
+      "importance": 0.7492038607597351,
+      "final_score": 0.6620742678642273
+    },
+    {
+      "id": "c3ff48d137369efce681a302",
+      "qdrant_id": "7aec3d49-caf7-5787-9320-a9ddcc53f4a0",
+      "text": "Figure 1.8 Laszlo Moholy-Nagy, Berlin Radio Tower (1928). Julien Levy Collection, Special Photography Acquisition Fund, 1979.84, The Art Institute of Chicago. Photography © The Art Institute of Chicago. © 2012 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn. 34 structure.\"2' Denied any synoptic view of the cower as a distinct and bounded object, the spectator is unable to establish its contours as a discrete figure within the visual field. To this reviewer, the radio tower seems to extend infinitely in both directions. The values of distance and proximity begin to blur. Confus­ ing the \"very technological sttucture\" of the tower with the ground of vision itself, the spectator feels her vantage absorbed into the openwork construction. As a consequence, the tower ceases to be a distinct object standing apart from the spectator, but becomes itself transparent to visio…",
+      "source": "Devin Fore - Realism After Modernism_ The Rehumanization of Art and Literature-Mit Press.pdf",
+      "chunk_index": 101,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6607914,
+      "importance": 0.7273634672164917,
+      "final_score": 0.6607914566993713
+    },
+    {
+      "id": "b2fda506246aedc3eeba5aad",
+      "qdrant_id": "9f7a95d0-c003-56b7-a4aa-bee03e6df488",
+      "text": "confirms and disavows McGrath's analysis. For him, the `instantaneous recording process' of the photograph sets it apart from the painting; the camera's `penetrative vision' (1987: 30) gives it access to the `basic reality' of the photographer's subjects, beyond that which the painter might capture. Interestingly, however, the photograph is also offered as a protection against this reality. Confirming McGrath's view of the fetishistic quality of his photographs, Weston adds that `the beholder may find the created image more real and comprehensible than the actual object' (Weston 2003: 107). The debate about photography's relationship with art characterised the beginnings of modernity. For Walter Benjamin, famously, the photograph's reproducibility meant the destruction of the `aura' of the work of art, so that photography represents `the first truly revolutionary means of reproduction' (1999: 218). But he also identifies it with",
+      "source": "Sue Thornham - Women, Feminism and Media (2007, Edinburgh University Press) [10.1515_9780748629282] - libgen.li.pdf",
+      "chunk_index": 125,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus",
+        "walter-benjamin-aura-mechanical-reproduction-archive"
+      ],
+      "raw_score": 0.72049344,
+      "importance": 0.7689687013626099,
+      "final_score": 0.6601111888885498
+    },
+    {
+      "id": "d65cebcf037d8062a64d2512",
+      "qdrant_id": "e8a1224e-51e0-580c-8fa0-7350d51063e2",
+      "text": "of instruments in the expansive field of sound-as great as that of the sixteenth and seventeenth centuries, which announced the industrial revolution-fore- shadows a new mutation in technology. In this context, there is an innovation that is only now beginning to play out its rok, a herald of this mutation: the recording of images. Today, the recording of images is intended to be an instrument for the visual stockpiling of concerts and films and as a means of pedagogy, in other words, as a tool of repetition. Soon, however, it may become one of the essential technologies of composition. Television, the prehistory of image recording, did not succeed in giving visual status to music; the body disappeared, and individual image recording emerged as an innovation devoid of music. In a preliminary period, it may become a means of stockpiling access to films, on an individual basis or in the form of a central memory bank. But the essential usage of the image recorder seems to",
+      "source": "[Theory and history of literature] Jacques Attali - Noise_ The Political Economy of Music (1977, 1985, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 585,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65818435,
+      "importance": 0.7224926352500916,
+      "final_score": 0.6581845283508301
+    },
+    {
+      "id": "f0300f746a008fad12629d25",
+      "qdrant_id": "7f246bee-59e4-5b0f-b9c3-e9f45c642209",
+      "text": "!'ilm, 10, 75, 80, 154, 273. See also F)rses; Video installations; 71et- h'lakes body art and, 4544,524 collage and film-stock manipulation, 22-25, I l, 4544, 45, 87, 725, 322_323 the I'iltn frame, 125 self-shot, 25,4245 Finley, Karen, 206,213 Fiue F'ur Cutting-boards (C.S.), 228 Flesh as art material, 61-62, 91. See also Meat Joy Fluxus, 228 Flyer/poster designs, 1 1 2, 1 36, 208 F'ragmentation, 279 Frankenthaler, llelen, 1 18 Freilicher, Jane, 118 Fresh Blood-A Dreom Morphology (C.S.), 2ZS*258, 240-245,245-248. See also l/enus l/ecktrs African American lvoman (grandmother/nurse/i udge) in, 256-252, 245. 245-246 performances oll 249 photos of performance, 2 ) 3, 2 )4, 2 3 9, 241, 248-249 umbrella image, 255, 256, 258, 240, 245 Freud, Sigmun d, 222, 229, 255, 2gg, ZtB Friends (t,ondon), 95 \"Fuck Cherishers,\" 95 -Ftases (C.S.) audience response Io, 759, 21 l, 227, 522 censorship of in Sov…",
+      "source": "Carolee Schneemann - Imaging Her Erotics_ Essays, Interviews, Projects (2001, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 101,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6580843,
+      "importance": 0.7372055053710938,
+      "final_score": 0.6580843925476074
+    },
+    {
+      "id": "73bdaabe70289daec95b00bb",
+      "qdrant_id": "559980a3-92b2-50e3-a512-73988fd5131f",
+      "text": "of the witness. In such an instance, testimony is not consigned to memory alone and our extreme reliance on visual artefacts and mnemonic memory powered through cloud systems which follow and trail us re-territorialize our sense of space and time through our engagements with technologies that sync through their production and creation architectures. Images cap- tured through human vision and produced as visual artefacts by technolo- gies produce a fissure. When the image is read without the somatic reaction of the bodily encounter or its cognition, it is reframed as an objective image to read and be interpreted by others. This visual artefact removed from the body of the subject which witnessed it can only be understand without the experience and memory of the body which witnessed and produced it as an artefact. While images stripped from the body can become pieces of evi- dence in their own right, the stripping out of the experiential index from the",
+      "source": "Yasmin Ibrahim - Digital Icons_ Memes, Martyrs and Avatars - libgen.li.pdf",
+      "chunk_index": 178,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6580563,
+      "importance": 0.7752383351325989,
+      "final_score": 0.658056378364563
+    },
+    {
+      "id": "2834aead419b77b35010be1b",
+      "qdrant_id": "02f5f0bc-f6ab-519e-a2bc-621eb9aa7788",
+      "text": "bly for his television but, from the camera's perspective, for the goings-on on the other side of the wall. We can imagine the happenstantial comedies: Hulot and the Schnellers recoiling slightly as Giffard's wife inspects his broken nose; or the Schnellers asldng their daughter to leave the room as Giffard begins to lazily undress; or the Giffards seeming to be engrossed in Schneller's lively recap of a siding vacation. Once again, Tati creates a surprising image simply by shifting camera position and distance in front of a fixed setting. This short sequence exemplifies a point Arnheim mal<.es about film's ability to shift between characteristic and uncharacteristic views in order to create stirring visual effects (Film as Art g-n, 42-46). A characteristic view, he explains, gives the perspective of an object's three dimensions, and an unchar- acteristic view makes the same object more difficult to ·identify. From a charac-",
+      "source": "Murray Pomerance_ R. Barton Palmer_ Jeremy Blatter_ Tom Gunning_ - Thinking in the Dark_ Cinema, Theory, Practice (2015, Rutgers University Press) - libgen.li.pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6578044,
+      "importance": 0.7720151543617249,
+      "final_score": 0.6578044891357422
+    },
+    {
+      "id": "a2ad29f8c738cd4b871330ec",
+      "qdrant_id": "4f948b3e-041d-588a-8353-c867973f54f1",
+      "text": "528 I dex visual (c o ti u ed) a d the image, 74, 85 a d photography, 176 a d the Subject, 463–4 Vitruvius, 282 Voltaire (Fra gois–Marie Arouet), 9– 10 Wag er, R., 54, 270 Walker, ., 163 Wallraff, G., 225 Walzer, M ., 324, 420 Wa g M ., 471 Wa g W ., 471 war, 84, 87, 160–2, 167, 231, 245, 270– 1, 327, 358, 392, 399, 403, 411 36, 453–5, 460 Warhol, A., 62, 68–9, 71, 144, 175, 181–2, 185, 191–2, 306 Wari g, J ., 159 Webber, M ., 276 Weber, M ., 101, 103, 113, 129, 131 Weber , A., 208–209 Weiss, P., 106–7, 233 Wellmer, A., 39, 106 We ders, W ., 225 Westo , E., 177– 8 White, H., 2, 147, 229–30 White, J ., 211– 12 Wigma , M ., 169 Williams, R., 66, 378 Williamso , J ., 378, 389 Wilso , E., 389, 406 Wilso , R., 147 wi dows, 277–8, 298–9, 305–6 Wittge stei , L., 108, 134, 327, 334, 456 Wolf, C., 231 Wolff, C ., 208 Wolff, J ., 389 Woolf, V ., 149–50, 377 Wright, F. L., 63 Wu Sha gre, 474 Wu Voyao, 475 Xi Qi g ia , 487 7 Xu Zhe ya, 474, 478–9 Yamashita, K., 285",
+      "source": "Thomas Docherty - Postmodernism_ A Reader (1992, Routledge) - libgen.li.pdf",
+      "chunk_index": 257,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6576128,
+      "importance": 0.7252840399742126,
+      "final_score": 0.6576126217842102
+    },
+    {
+      "id": "9d104524a78b00acc25c8b68",
+      "qdrant_id": "416c4f7f-5769-5f1b-9327-0e84ac5f0f0b",
+      "text": "knew that the photograph is a commodity. But it shares this property with all the products of our society. (The painting, too, is a commodity.) Disderi also knew what services photography is able to render the com- modity economy. He was the first to use photography to draw certain goods (primarily works of art) into the process of circulation-goods which had more or less escaped it up to then. He had the shrewd idea of acquiring a state monopoly on the reproduction of works in the Louvre's collection. Since then, photography has made more and more segments of the field of optical perception into saleable commodities. It has con- quered for commodity circulation objects wbich up to then had been vir- tually excluded from it. This development falls outside the framework of Gisele Freund's study. She is concerned primarily with the epoch in which photography began its triumphant …",
+      "source": "Walter Benjamin - The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media (2008, Belknap Press of Harvard University Press) - libgen.li (1).pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6575412,
+      "importance": 0.7567436099052429,
+      "final_score": 0.6575411558151245
+    },
+    {
+      "id": "2009c705a4075c64bbf7570c",
+      "qdrant_id": "5443b7f2-5048-5968-be8a-078e4dc773a7",
+      "text": "it sandwiches the Bechers between a photograph of a plank leant against a wall (James Welling, Lock, 1976) and one of the few photographs Wall has designated a ‘documentary’ image (Concrete Ball, 2003). Fried quotes himself from an earlier text on Welling (that, unsurprisingly, links Lock to ‘Art and Objecthood’) claiming the image is informed by ‘an interest in real as opposed to abstract literalness or even “good” as distinct from “bad” objecthood’. The Bechers’ longstanding project documenting types of industrial architecture according to systema- tized procedure and standardized modes of display is, perhaps, the most influential photographic project to have adopted seriality as its organizing principle. Whilst Fried’s focus is on seriality, his interpretation is oriented to understanding the Bechers’ multiple, gridded images as a kind of tableau. One can’t help but suspect that, for an argument so deeply invested in",
+      "source": "Radical Philosophy - Radical Philosophy #157-Radical Philosophy (2009).pdf",
+      "chunk_index": 257,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6561049,
+      "importance": 0.7463343143463135,
+      "final_score": 0.6561048030853271
+    },
+    {
+      "id": "a8b50d16c4d265eb9c369d61",
+      "qdrant_id": "49767438-76ac-53b2-a660-3a68851acc94",
+      "text": "l' etre a venir' dans ce sens, mais il est la, bi en sfu . . . JLN: On le perd . . . moi je dirai qu'on ne le perd pas, mais qu'on le perd a partir du moment OU on separe l'image pour rester sur le terrain de !'image, c' est une bonne fa\\on, comme tu l' avais dit tout a l'heure, d' approcher la question du fond, justement, parce que nous avons, c'est une habitude incroya­ blement ancienne et tenace dans la tradition occidental, de penser que il y a !'image et puis derriere il y a forcement un autre qui est le fond, a la fois le modele, le fabricant de !'i­ mage, mais aussi la matiere que supporte !'image, le subjec­ tile4s comme on dit en fran\\ais, pour la matiere sur laquelle 44. Paul Valery, Oeuvres, Pleiade, vol. 1, p. 89i. 45. In Littre Dictionnary, subjectile is defined as:«surface externe sur laquelle le peintre applique une couche d'enduit, de peinture, de vernis. Pour la premiere couche, le subjectile s'identifie au materi-",
+      "source": "Jean-Luc Nancy, Sa Cavalcante Schuback Marcia - Being with the Without-Axl Books (2013).pdf",
+      "chunk_index": 147,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6557299,
+      "importance": 0.7537526488304138,
+      "final_score": 0.6557298302650452
+    },
+    {
+      "id": "0ab305ef5578a8692e98f5e0",
+      "qdrant_id": "b0294754-851d-5387-9065-fb8fce7753d4",
+      "text": "Figure 0.6 Model for an eighteenth- century camera obscura similar in construction to that at the Santa Monica Art Lab. Abraham Rees, Cyclopædia: or, An Universal Dictionary of Arts and Sciences (1786). Photograph: Thomas Fisher Rare Book Library, University of Toronto.",
+      "source": "Julie Park - My Dark Room_ Spaces of the Inner Self in Eighteenth-Century England-University of Chicago Press (2023).pdf",
+      "chunk_index": 40,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6539892,
+      "importance": 0.720641016960144,
+      "final_score": 0.653989315032959
+    },
+    {
+      "id": "671ecf87e11a6c11d1243ad2",
+      "qdrant_id": "605ae0f2-9aa4-546b-b815-76bc662553c8",
+      "text": "vi Contents PART II Computation, Software, Learning 81 4 The Computer Vision Lab: The Epistemic Configuration of Machine Vision 83 Nicolas Malevé 5 Ways of Machine Seeing as a Problem of Invisual Literacy 102 Geoff Cox 6 Soft Subjects: Hybrid Labour in Media Software 114 Alan Warburton PART III Curating the Networked Image 133 7 The Paradoxes of Curating the Networked Image: Aesthetic Currents, Flows and Flaws 135 Gaia Tedone 8 Internet Liveness and the Art Museum 152 Ioanna Zouli 9 Screenshot Situations: Imaginary Realities of Networked Images 171 Magdalena Tyżlik-​Carver PART IV Digitisation and the Reconfiguration of the Archive 187 10 Networks of Care 189 Annet Dekker 11 Beyond the Screenshot: Interface Design and Data Protocols in the Net Art Archive 208 Lozana Rossenova Index 229",
+      "source": "Andrew Dewdney, Katrina Sluis - The Networked Image in Post-Digital Culture-Routledge (2022).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65301543,
+      "importance": 0.7321240305900574,
+      "final_score": 0.6530156135559082
+    },
+    {
+      "id": "2102d694455fe655d728c5d0",
+      "qdrant_id": "8ba64e3b-d289-5cde-a6c2-8fbb658ea971",
+      "text": "signal sharpening circuit 119–21 Skaif, Thomas 98 Sloterdijk, Peter 16 Smith, Terry 55 , 68–9 , 79 Smith, Willoughby 111 Spencer, J.B. and Melhuish, A.J. 97 Stiegler, Bernard 24 , 28 , 109 , 137 , 157 storage camera 146–7 storage media 3 , 10 , 15–17 , 28 , 36–8 , 39 , 57 , 79–80 in computer history 15 , 67 , 157–8 digital memory 15 , 18 , 36 , 72–3 , 74–5 , 141 ﬁ lm as 109 , 114 history and 3–4 , 38 , 101 Leyden Jars 147 television and 21–2 , 109–10 , 114–16 , 145–7 time and 2–3 , 5 , 10–12 , 73 , 73–6 , 109 , 145–7 , 155–6 stroboscopic photography 100 Sauve qui peut (la vie) (1979) (also Every Man for Himself and Slow Motion ) 91–3 A Sudden Gust of Wind (after Hokusai) 69 Swift, John 126 , 129–30 , 132–4 switching 14–15 , 32 , 35 , 110 , 145 , 147 the symbolic 16 , 17–18 ,…",
+      "source": "Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf",
+      "chunk_index": 651,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65298545,
+      "importance": 0.7162137031555176,
+      "final_score": 0.6529855728149414
+    },
+    {
+      "id": "8b832c586d404c0753a0f316",
+      "qdrant_id": "83f7be4a-4ac4-55d7-ac15-399414d22d34",
+      "text": "INTRODUCTION | xix machine construction, I devoted myself, in a manuscript of more than six hundred pages, to a single artifact that I atempted to read and comprehend at the intersection of media- materiological, technical, temporal- philosophical, economic, and cultural perspectives. Today, I would describe a methodologi- cal endeavor like this as expanded hermeneutics, coupled with a particular philology: an almost exact philology of almost precise things.14 Te object of my investigation was an apparatus that could record audio and visual signals on an electromagnetically laminated tape so as to immediately reproduce them: the video recorder. Te artifact and the technical system in which it was integrated fascinated me as an early audiovisual time machine. With this apparatus, it was not only possible to submit ﬁlmic and televisual programs to an analytical reading just like one would read a book but one could also",
+      "source": "[Posthumanities (52)] Siegfried Zielinski - Variations on Media Thinking (2019, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.6771033,
+      "importance": 0.7396966218948364,
+      "final_score": 0.6527521014213562
+    },
+    {
+      "id": "63714c7941d00b9db31d499f",
+      "qdrant_id": "6c566a16-7dfa-5f96-904d-d4f55ffc34b4",
+      "text": "programme at the Maryland Institute, College of Art. He also works as a curator, writer and editor living in New York City. He lectures internationally about the social impact of photography, electronic media, the transformation of representation, and communication in interactive and networked environments. He co-organized the international symposium Ideologies of Technology at the Dia Center of the Arts and co-edited the book Culture on the Brink: Ideologies of Technology, New York: New Press, 1998. He also co-curated the exhibition ‘Iterations: The New Image’ at the International Centre of Photography, and edited the book by the same name published by MIT Press in 1994. He edited Electronic Culture: Technology and Visual Representation, Aperture, 1996, and is series editor for Electronic Culture: History, Theory, Practice published by MIT Press. He has been a guest professor at the University of",
+      "source": "Rania Gaafar_ Martin Schulz - Technology and Desire_ The Transgressive Art of Moving Images (2014, Intellect Books) - libgen.li.pdf",
+      "chunk_index": 202,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65155447,
+      "importance": 0.725112795829773,
+      "final_score": 0.6515545845031738
+    },
+    {
+      "id": "9823b6a9210634d8b2a3f86f",
+      "qdrant_id": "f3a8b9f8-9087-5244-8ead-99428330357c",
+      "text": "An Electro-Photographic Investigation of Consecutive Phases ojAnimal MOIJe- ments (1887). 7. This hypothesis is analyzed with great historical and theoretical finesse by Svetlana Alpers in T7Ie Art C!fDescribing: Dutch Art in the Seven- teenth Century (Chicago: University of Chicago Press, 1983), and more recently by Victor 1. Stoichita, in L'instauration du tableau (Paris: Klinck- sieck, 1993). 125",
+      "source": "[Fup] Jean-Luc Nancy, Federico Ferrari, Anne O'Byrne, Carlie Anglemire - Being Nude_ The Skin of Images (Critical Studies in Italian America (2014, Fordham University Press) - libgen.li (1).pdf",
+      "chunk_index": 198,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6513999,
+      "importance": 0.7259761691093445,
+      "final_score": 0.6513999104499817
+    },
+    {
+      "id": "107902728e60082677059d16",
+      "qdrant_id": "6298bc24-f4bd-5e30-840b-243f4a749c48",
+      "text": "43–​45; computer vision lab 95; dataset 47–​49, 75; financialisation 45–​46; real-​world photography 52–​55; snapshot culture 45 Fornieles, Ed 67 Frosch, Paul 55 Fuller, Matthew 200 Galloway, Alexander 118–​119, 122, 125 game industry 126 Gerling, Winfried 174 Gervais, Emilie 136, 143–​146 Getty Images 70 Gibson-​Graham, J. K. 70 global context, post-​capitalist photography 73–​76 global mode of production 32–​35 Goodman, Nelson 171 Google Earth 71 Google Images search engine 84, 90–​91, 90–​91 Google Street View 67, 71 Gram, Sarah 68 graphical user interface (GUI) programs 175 graphics processing units (GPUs) 116 Guattari, Felix 36, 192 Guggenheim 198, 199, 200–​202 H&M T-​shirt case study 139–​143, 140 ‘hackers’ 115–​116, 127, 128–​129 Haddock, Jon 180 Hayles, N. Katherine 87",
+      "source": "Andrew Dewdney, Katrina Sluis - The Networked Image in Post-Digital Culture-Routledge (2022).pdf",
+      "chunk_index": 174,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65116394,
+      "importance": 0.7131938934326172,
+      "final_score": 0.6511639952659607
+    },
+    {
+      "id": "2b1f2120c51e41da7a5a3d99",
+      "qdrant_id": "f581a644-7c44-5934-b43b-6d6bebda82eb",
+      "text": "flexibel. Es wird wahrscheinlich immer mehr ins allgemeine Bewußtsein vordringen, daß es sich hierbei nicht um eine fixe Größe handelt, sondern um ein Konstrukt. Für mich sind meine Bilder authentisch, da sie ›authen- tisch‹ meine Fiktion dieses Moments wiedergeben, für den Betrachter können es immer nur Vorschläge sein, das Dargestellte auch so zu sehen. Ein interessantes Bild zur Rolle von Fotografie ist für mich ›Michael Ber- gin & Fan.‹ [...] Diese ganze Situation und beide Personen in ihr ziehen ih- re Identität aus fotografisch vermittelten Identitäten. Das ist ein gutes Beispiel, daß ein traditioneller Authentizitätsbegriff nicht mehr anwendbar ist, da das Wissen um Fotografie das Bild selbst bestimmt.« 9 »Der Wunsch des Publikums nach ›authentischen‹ Bildern wird eigentlich unterlaufen von diesen Fotografen und auch von mir. Ich glaube, keiner von uns will explizit doku…",
+      "source": "[Cultural and Media Studies] Wolfgang Funk (editor), Florian Groß (editor), Irmtraud Huber (e - The Aesthetics of Authenticity_ Medial Constructions of the Real (2012, transcript publishing) - libgen.li.pdf",
+      "chunk_index": 73,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65089,
+      "importance": 0.7197330594062805,
+      "final_score": 0.6508899331092834
+    },
+    {
+      "id": "dae47b989bd7ae4f334d9b82",
+      "qdrant_id": "4ddcad21-a92c-5792-a61b-da906c24a92c",
+      "text": "productive uses of different kinds of visual noise. In a sense, opacity in the visual arts entails the attempt of the image to subvert its own fixity. In bringing this book to a close, I want to float the hypothesis that maybe we need to reflect a little on auditory opacity in order fully to appreciate the functions of blurry or otherwise indistinct images. I intend, in other words, to introduce a comparative perspective of sorts, not so much to present a simple analogy as to flag up the possible limits of visual opacity. If a vital purpose of the perceptually opaque is to provoke, to bewilder, and to produce a sense of cognitively fertile turmoil, the state of contain- ment upon which the image is contingent might lessen such effects (and moving images are not much different in this respect, as they, too, are subject to the restraints of the frame). Sound, on the other hand, is disper- sive, unbounded. Since anatomically we remain unequipped with the",
+      "source": "Asbjørn Skarsvåg Grønstad - Rethinking Art and Visual Culture_ The Poetics of Opacity (2020, Palgrave Macmillan) [10.1007_978-3-030-46176-8] - libgen.li.pdf",
+      "chunk_index": 616,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65064895,
+      "importance": 0.7743859887123108,
+      "final_score": 0.6506489515304565
+    },
+    {
+      "id": "88530dba0fb8209ec9b8d0c2",
+      "qdrant_id": "f23ffc16-d216-5785-a761-b07458e32e52",
+      "text": "framed presentation, whether via 2D or within cabinets (Fig. 5). It is a deﬁned “looking space”; however these objects then escape these conﬁnements through such platforms as social media, the museum’s website (www.maas.museum), speciﬁcally designed online viewing experiences, and other forms of online distribution. These new digital models are algorithmic images of 3D data sets that can be navigated through in any direction. Formed from nuclear imaging, these data visual- izations capture a level of detail not visible to the “human” eye until revealed through instrumental-led vision. They are only possible because of a dense network of agents including the nuclear reactor, the dingo nuclear imaging instrument, and the work of the lead scientist Joseph Bevitt – and the entanglement of such agents with the object being observed in all of its chemical and compositional elements, including …",
+      "source": "[Reference] Stefan Herbrechter, Ivan Callus, Manuela Rossini, Marija Grech, - Palgrave Handbook Of Critical Posthumanism (2022, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 231,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6499473,
+      "importance": 0.7191550731658936,
+      "final_score": 0.6499472260475159
+    },
+    {
+      "id": "2f2d1f64fa74af8d802f99db",
+      "qdrant_id": "14aab8b8-4432-5de5-b14e-e188ca9aa33c",
+      "text": "Design by Newgen Imaging Systems (P) Ltd., Chennai, India. First edition: May 2010 10 9 8 7 6 5 4 3 2 1 ISBN 978-1-349-37913-2 ISBN 978-0-230-10903-2 (eBook) DOI 10.1057/9780230109032 Softcover reprint of the hardcover 1st edition 2010 978-1-349-37913-2",
+      "source": "(Nineteenth-Century Major Lives and Letters) Tom Duggett (auth.) - Gothic Romanticism_ Architecture, Politics, and Literary Form-Palgrave Macmillan US (2010).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6499278,
+      "importance": 0.7102082371711731,
+      "final_score": 0.6499278545379639
+    },
+    {
+      "id": "636b396289787862a1d00220",
+      "qdrant_id": "7d25b463-b714-5744-9fec-1ee2aaa0f852",
+      "text": "be seen. Thus, even as a medium purportedly intended for the accurate delineation of a directly perceived physical reality, the device creates an occasion for wonder, discovery, and experiencing life as a dream state. External space turns into internal space, but the device is not only a model for the mind. This book considers the camera obscura as an ar- chitectural model for the generative qualities of space as well. In other words, the camera obscura models the process whereby humans come to inhabit the world through acts not just of reflecting on but also of being with and of becoming through the spaces in which they dwell. The camera obscura’s mechanism was recognized as one of throwing the image onto the requisite white surface— a painted wall, sheet of paper, or piece of cloth— that renders it visible while housing it temporarily.37 James Mann, peddling a microscope camera obscura in 1760, writes, “The Image or Pic-",
+      "source": "Julie Park - My Dark Room_ Spaces of the Inner Self in Eighteenth-Century England-University of Chicago Press (2023).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.649266,
+      "importance": 0.7251771092414856,
+      "final_score": 0.6492660045623779
+    },
+    {
+      "id": "9c058d76b8268043eb5051af",
+      "qdrant_id": "9c73c9dd-b5eb-5e5a-b725-12782b90e6d7",
+      "text": "polemics, provides a framework that works well for animation. It is perhaps even possible to suggest that in certain regards he was ahead of his time. As has been stressed throughout this work, there has been a need to develop an aesthetic theory of the image that isn’t rooted in either the technology or the distinct representative affordances of cinematic art. The advent of 3D digital technologies has been discussed as a prob- lematic addition to the broad panorama of potential trajectories – problematic because the technology has had an undeniably emphatic impact on how moving images are created, but at the same time there is a point at which this focus has added more “heat than light” to the analysis. Lamarre’s commentary with regard to cinematic anime, along with Elsaesser and Hagener’s observations about the transforma- tive potential of 3D CGI in film, put forward impor…",
+      "source": "Alistair D. Swale (auth.) - Anime Aesthetics_ Japanese Animation and the “Post-Cinematic” Imagination-Palgrave Macmillan UK (2015).pdf",
+      "chunk_index": 463,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6487138,
+      "importance": 0.7803645133972168,
+      "final_score": 0.6487140655517578
+    },
+    {
+      "id": "9689c4691868d20740f509ec",
+      "qdrant_id": "27496bbf-fcc3-5f0c-abb2-152f3649ddf0",
+      "text": "example, techniques of mechanical reproduction constitute a substantial attack on the uniqueness of the items they reproduce. Such items no longer occupy their own portion of the spatio-temporal continuum in a wholly secure manner. Rather, those fundamental aspects of their appearance which admit of reproduction are at the disposal of the viewer. He or she can engage with them in such places or at such times as he or she deems convenient. This domestication means that the reproduced item's alien identity—its salient demand for interpretation—is neutralized through immersion in its new surroundings. Indeed, techniques of mechanical reproduction also facilitate a quantitative shift in our relation to culturally alien artefacts or environments. Because we seek so many of these through photographs in books, or magazines, or whatever, our sense of acute difference is diminished. We see, indee…",
+      "source": "Paul Crowther - Critical Aesthetics and Postmodernism (1993) - libgen.li.pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6483214,
+      "importance": 0.7590356469154358,
+      "final_score": 0.6483213901519775
+    },
+    {
+      "id": "f98f73fe32b54b4ce7e704c3",
+      "qdrant_id": "852310cf-c790-5846-882d-4c75c4da4f2e",
+      "text": "or the \"iconic narrative,\" the \"imagistic signifier\" or \"the repre­ sentational image as 'sign,' \" as some bright intelligences for whom all is linguistic (or rather, for whom language can be reduced only to its signs) have done. One must first ask what species of image one is dealing with, on what material support system or perspectival apparatus they rely, in what setting they are seen, and with what device they have been reproduced. The image when formed on a screen by the projection of light behind a photographic frame of film across a darkened room belongs to a different order of \"signs\" from the image electronically induced by a cathodic current on a luminiferous surface. One does not comprehend in the same categories the object-image of film, the effect-image of television (effected by sequential scanning), and the project-image of virtual reality (a prolongation of th…",
+      "source": "Regis Debray - Media Manifestos_ On the Technological Transmission of Cultural Forms-Verso (1996).pdf",
+      "chunk_index": 464,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64784646,
+      "importance": 0.7517128586769104,
+      "final_score": 0.6478464603424072
+    },
+    {
+      "id": "08a40649c715fe5fb3e1f2a9",
+      "qdrant_id": "58fc8ea2-013d-5a9f-b3fe-bc312631926b",
+      "text": "than indexing a sonic materialism that lies beyond the realm of audition; the way bodies are carried out through resonance. Breillat’s gazing camera thus functions as a microphone held up to the female anatomy as it becomes audible, in line with the scale of the shot as if the camera’s approach were a bringing into earshot. However, a better com- parison for the camera’s behaviour here might be a stethoscope, an instru- ment of listening rather than amplifying, and specifically an instrument for listening that takes place at the surface of the body, bringing sound into focus only alongside the scale and proximity of the close-up. Breillat embraces the role her handling of technology can play in relation to mediating what Arnt Maasø describes as ‘the spatial relationship between speaker and lis- tener’ (2008: 38). Or in this case, body and listener. Noise here is not a figure of interiority but for exteriority, an emitted signal, expressive of this surface",
+      "source": "Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 153,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6471362,
+      "importance": 0.7552703022956848,
+      "final_score": 0.647136390209198
+    },
+    {
+      "id": "a4c7a7f844bc487a84e49920",
+      "qdrant_id": "c63e6fc4-bf64-573b-a354-3e1c8e998d9d",
+      "text": "again as if in response to the off-screen sound. The off-screen bleating then leads to a high-angle long shot of sheep in a ﬁeld, with a fence barely visible in the back left of the image; as we note four sheep dead on the ground, the camera pans a brief distance to the right with the ﬂock as a caretaker with a lantern enters from the right. The camera pans left with him back to the dead sheep; he kicks at the head of one with his foot, bends down to examine another, then looks at the ground. At this point there is an insert of a point-of-view shot to show what he sees: with the camera moving slightly to the right following the circle of light cast by his lantern, we see animal tracks in the mud. Strikingly, at this point, the sound of the bleating stops abruptly. The image itself offers no justiﬁcation for the cessation of sound. The justiﬁcation, rather, is poetic: the tread of the animal must be associated in our minds with silence.",
+      "source": "[Cambridge studies in film] Schneider, Steven Jay - Horror film and psychoanalysis_ Freud's worst nightmare (2009, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 125,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6462805,
+      "importance": 0.7514428496360779,
+      "final_score": 0.6462805271148682
+    },
+    {
+      "id": "834b402c7aabdb738f945d50",
+      "qdrant_id": "ca01e9c4-9317-577b-8c17-1f87a2990f4f",
+      "text": "tures in Various Sign Systems. Tübingen: Narr, 111-122. Hess-Lüttich, Emest W. B. & Holly, Werner & Püschel, Ulrich (Hg.) 1996 Textstrukturen im Medienwandel. Bem/Frankfurt/M./New York: Lang. Hess-Lfittich, Emest W. B. & Müller, Jürgen E. (eds.) 1994 Semiohistory and the Media. Linear and Holistic Structures in Various Sign Systems. Tübingen: Narr. Hess-Lfittich, Emest W. B. & Posner, Roland (Hg.) 1990 Code-Wechsel. Texte im Medienvergleich. Opladen: Westdt. Verlag. Hiebel, Hans H. 1991 \"Media, Tabelle zur Geschichte der Medien-Technik\", in: Elm, Theo & Hiebel, Hans H. (Hg.), Medien und Maschinen. Literatur im technischen Zeitalter. Freiburg/Brsg.: Rombach, 186-224. Höllerer, Walter (Hg.) 1975 Sprache im technischen Zeitalter. Stuttgart: Kohlhammer. Holthuis, Susanne 1993 Intertextualität. Aspekte einer rezeptions-orientierten Konzeption. Tübingen: Stauffenburg. Illich, Ivan 1991 Im Weinberg des Textes. Frankfurt/M.: Luchterhand. Iser, Wolfgang 1984",
+      "source": "[Research in Text Theory_ 25] Sam Inkinen (editor) - Mediapolis_ Aspects of Texts, Hypertexts und Multimedial Communication (1998, De Gruyter) [10.1515_9783110807059] - libgen.li.pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6458962,
+      "importance": 0.7309751510620117,
+      "final_score": 0.6458960771560669
+    },
+    {
+      "id": "0075b13cf0a74f8ff4be28fb",
+      "qdrant_id": "3e1806ae-76da-5835-b0f4-f7bf855d04b9",
+      "text": "but is simply a peculiar image quality that we accept in order to obtain the results we want from the technology. In this way, our senses are laterally distributed across the media technology of image inversion, becoming immediate and transparent. However, Apartment 143 insists that there is something beyond the transparency which remains uncanny. The connection between media technologies and ghosts is made explicit when Dr Helzer explains to Benjamin that, just as a TV screen consists of flickering images that appear stable, so do ghosts. By setting up an electromagnetic charge alongside strobe lights, they therefore hope to be able to register the ghost. The set- up involves a camera panning slowly to the right, returning to its original position and panning right again, all while a stroboscopic light is fired. The camera keeps panning across the empty room and nothing happens until the fourth pass, when",
+      "source": "Linnie Blake_ Xavier Aldana Reyes (editors) - Digital Horror_ Haunted Technologies, Network Panic and the Found Footage Phenomenon (2016, I.B. Tauris) [10.5040_9780755603718] - libgen.li.pdf",
+      "chunk_index": 172,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64450735,
+      "importance": 0.7503079771995544,
+      "final_score": 0.6445072889328003
+    },
+    {
+      "id": "88ba09dac7005ffc056e5306",
+      "qdrant_id": "c5274c0a-1761-5626-adde-8859d5345d3f",
+      "text": "at the University ef Uppsala. Thanks also to Suhail Malik and Oliver Feltham far their suggestions far this volume, and to Alex Murray .for his help in obtaining images. Damian Veal would like to express special thanks to Robin Mackay .for entrusting him with the editorship ef this volume, .for his tireles editorial work in preparing the volume .for publication, and .for commissioning and preparing the artwork and illustrations. Special thanks also to Mzlan CirkoviC .for many helpfal discussions and good advice; to Julian Barbour, Jack Cohen, James Ladyman, Thomas Metzinger and Ian Stewart far their perseverance with the interoiews; to Ray Brassier .for his editorial assistance; to Mike Lewis and Lydia Patton .for enabling me to access online articles; and to Michael Carr far keeping Gery and I supplied with Jake Thackray CDs, as well as solving our problem ef what to watch …",
+      "source": "Collapse (Damian Veal) (Z-Library).pdf",
+      "chunk_index": 167,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64448124,
+      "importance": 0.7262874841690063,
+      "final_score": 0.644481360912323
+    },
+    {
+      "id": "ec1e087d1685ada9480f72e8",
+      "qdrant_id": "ed2640d7-25ed-5ffc-9f8f-6b2830fe289c",
+      "text": "TECHNOLOGY AND DESIRE T H E T R A N S G R E S S I V E A RT O F M O V I N G I M A G E S R A N I A G A A FA R M A RT I N S C H U L Z Technology and Desire Technology and Desire The Transgressive Art of Moving Images Edited by Rania Gaafar and Martin Schulz intellect Bristol, UK / Chicago, USA",
+      "source": "Rania Gaafar_ Martin Schulz - Technology and Desire_ The Transgressive Art of Moving Images (2014, Intellect Books) - libgen.li (1).pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6444727,
+      "importance": 0.7825210094451904,
+      "final_score": 0.6444727182388306
+    },
+    {
+      "id": "bab66ae9b02d2774313a2f9a",
+      "qdrant_id": "9f81aecc-088c-5d16-abd8-50ee05f2707d",
+      "text": "insisted that projection should be understood as “the soul apparently step- ping out of the body in the form of a sending- out of mental qualities” into the world of artifacts.5 With Flusser, the impregnation of the external with the inner world is not eﬀected through the agency of a divine force that dwells within us but through abstraction via the intermediate step of a (re-)calculation of the world, that is, by means of traversing the symbolic world of numbers, Flusser’s zero- dimension, computation. “Te power to institute an image!” he said emphatically, suddenly switching to German in an interview in English with László Béke and Miklós Péternák in 1990 in Budapest.6 And in a text that also dates from this period, Flusser explains, “It is what distinguishes this gesture from that of the other, image- making gesture referred to before: it is not abstract, retrograde, but the opposite— it concretizes, projects.”7",
+      "source": "[Posthumanities (52)] Siegfried Zielinski - Variations on Media Thinking (2019, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 144,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6442906,
+      "importance": 0.714966893196106,
+      "final_score": 0.6442906856536865
+    },
+    {
+      "id": "102332e225ff9bb30e1b95d0",
+      "qdrant_id": "b5079761-fda7-5e9a-98bb-b32065adcb72",
+      "text": "about science and what new things scientists were doing in this period. Cen- tral to both are the ways in which truth was constructed and how settings and tools were carefully orchestrated to create the image of performing sci- ence. The technology of staging scientiﬁc displays runs through many of the texts analyzed in this book, as does an interest in strategies of visualiza- tion. Common to both ﬁctional and physical experiments was the desire to visualize new knowledge about living creatures and to make this knowledge accessible to the public. Just as contemporary scientists devised ingenious techniques of performing their discoveries in public experiments, in sci- ence books, or in machines such as the air pump, condensing engine, or electrical machine, so did novelists stage their pedagogical theories in care- fully designed language, actions, and ﬁctional apparatus. The regulatory public eye is another concern shared by both scientiﬁc",
+      "source": "The Wild Girl, Natural Man, and the Monster_ Dangerous -- Julia V_ Douthwaite, Julia Douthwaite Viglione -- 2010 -- The University of Chicago Press -- 9780226160566 -- a3617aa8e9e4fe53ddcb5c96e4f4ef28 -- Anna’s Arc.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64410806,
+      "importance": 0.7338630557060242,
+      "final_score": 0.6441080570220947
+    },
+    {
+      "id": "a890adbe35e66e78c27ba04b",
+      "qdrant_id": "91572473-7a0a-5db8-93c5-d2da328c4537",
+      "text": "Images (Ithaca, NY: Cornell University Press, 1999); and Bruno Latour and Peter Weibel, Iconoclash (Cambridge, MA: MIT Press, 2002). 2 . Elkins advocates for this in Th e Domain of Images and continues the project in Visual Practices across the University (Munich: Wilhelm Fink, 2007). 3 . It also glosses over the possibility that scientists might gain insights about the data through the act of making a picture that eff ectively conveys informa- tion. Felice Frankel, herself a photographer who specializes in scientifi c images, argues for this in her work; see her Envisioning Science: Th e Design and Craft for the Science Image (Cambridge, MA: MIT Press, 2002). 4 . For more detailed analysis of the diff erent ways of representing the Whirlpool Galaxy, see Elizabeth A. Kessler, “Resolving the Nebulae: Th e Science and Art of Representing M51,” Studies in the History and Philosophy of Science 38 (2007), pp. 477–491.",
+      "source": "Roald Hoffmann & Iain Boyd Whyte - Beyond the finite _ the sublime in art and science (2010, Oxford University Press) - libgen.li (1).pdf",
+      "chunk_index": 224,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64390534,
+      "importance": 0.7133309841156006,
+      "final_score": 0.643905520439148
+    },
+    {
+      "id": "8a8ee7fb012342bb4575822b",
+      "qdrant_id": "5b6aaaf0-bbe8-55f1-8189-8f905fda5c73",
+      "text": "490 Image Credits figure 10.1. Panoramic photo­graph. Luc Courchesne, Journal Panoscopique, Ogaki City, November 2, 2000. figure 10.2. Panoramic photo viewing device. Luc Courchesne, Panoscope V.1. Photo: Richard-­Max Tremblay. figure 11.1. Large-­scale image projection. humo Master Class with Rafael Lozano-­Hemmer, v2/Ars Electronica ­FutureLab, Linz, Austria, February 3–7, 2003. Image: Anya Lewis. figure 11.2. Large-­scale image projection. humo Master Class with Rafael Lozano-­Hemmer, v2/Ars Electronica ­FutureLab, Linz, Austria, February 3–7, 2003. Image: Harald Schmutzhard. figure 11.3. Nike advertisement, building wrap, Rotterdam, Netherlands, 2000, from Joke Brouwer, ed., Making Art of Databases (Rotterdam: Dutch Architecture Institute/V2_Organisation, 2003), p. 37. figure 11.4. Large-­scale image projection. humo Master Class with Rafael Lozano-­Hemmer, v2/Ars Electronica ­FutureLab, Linz, Austria, February 3–7, 2003. Image: Maja Kalogera.",
+      "source": "Brian Massumi - Couplets_ Travels in Speculative Pragmatism (2021, Duke University Press) [10.1515_9781478021964] - libgen.li.pdf",
+      "chunk_index": 182,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6435665,
+      "importance": 0.7066391110420227,
+      "final_score": 0.643566370010376
+    },
+    {
+      "id": "7cb034151b65b62423098905",
+      "qdrant_id": "9c6b2647-fc69-57d3-8272-3e509e7c9e5e",
+      "text": "the image carrier and the ground are not subordinated to the painted surface or the figure but are interwoven with them.15 But what if we “have never been modern” as Bruno Latour claims? What if we apply this statement not only to modernism but also to the image concept of the late Middle Ages, and not only to image-making but to cultural techniques and technologies in general?16 Some art historians endeavored to place Veronika Kellndorfer’s work into this or that modernist stylistic direction –minimal art or installation art, or Marcel Duchamp’s glass works, or whatever. A different observation seems more fruitful to me: her works are in a fundamental sense technical images. What I mean is that Kellndorfer’s glass works are the result of an interconnection of technical image-producing procedures based on the application of a discrete coding of image data. First a slide is transformed by a scanner into quantities of electronic energy. The disassembled image",
+      "source": "Maria Teresa Cruz - Media Theory and Cultural Technologies _ In Memoriam Friedrich Kittler (2017, Cambridge Scholars Publishing) - libgen.li.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64331377,
+      "importance": 0.7525997757911682,
+      "final_score": 0.6433137059211731
+    },
+    {
+      "id": "7cb35a159a223a9e97550a43",
+      "qdrant_id": "01240bfa-5131-557c-85a3-e8e8eed5184c",
+      "text": "relative to the ground. Now, after three or four minutes (according to the students) the horizontal was restored. The image, initially seen as tilted, was perceived as straight. In the second case, the horizon (parallel to the ground during projection) appeared to be horizontal within a tilted frame. Now, after an even shorter period (around three minutes), the image was perceived as straight once more: a tilted horizon in a ver­ tical frame. I might add that the majority of the audience who tilted their heads slightly to one side in order to see \"in the correct axis\" were not aware of doing so. They thought they were in their normal position. The conclusions we believe may be drawn from this experiment (repeated on several occasions) are as follows: From the film point of view, the second demonstration is very important. It reveals the regulatory effect of the frame a…",
+      "source": "(Society for Cinema S) Jean Mitry, Christopher King - The Aesthetics and Psychology of the Cinema-Indiana University Press (1997).pdf",
+      "chunk_index": 179,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.64327073,
+      "importance": 0.7433440089225769,
+      "final_score": 0.6432707905769348
+    },
+    {
+      "id": "bacc086ac31266747f3ca648",
+      "qdrant_id": "fa4096a5-5bd3-50d7-b271-2a585225da5e",
+      "text": "beneﬁt will be available and quite fully so, wherever we wish. While Valéry was imagining the internet, Benjamin mused on the progression from woodblock to lithography and then onto photography, silent ﬁlm and talking cinema. He considers what is lost between the performance of an actor on stage and the stars of the screen. In an essay on mechanical reproduction the concept of performance could apply to copies of paintings and sculptures as much as music and theatre. In this context Alois Auer’s remarkable work at the Imperial Printing Works in Vienna in the 1840s (when electricity was making the photo-mechanical revolution possible) is signiﬁcant. In Auer’s environment of curiosity and experimentation, driven by the commercial potential of mass media, image and form were merging and the physical nature of things was being examined and celebrated. The discrete patterns of coloured dots that formed the printed",
+      "source": "Adam Lowe_ Elizabeth Mitchell_ Nicolas Béliard - The Aura in the Age of Digital Materiality_ Rethinking Preservation in the Shadow of an Uncertain Future (2020, Silvana Editoriale) - libgen.li.pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "walter-benjamin-aura-mechanical-reproduction-archive"
+      ],
+      "raw_score": 0.7201487,
+      "importance": 0.7679567933082581,
+      "final_score": 0.6382755041122437
+    },
+    {
+      "id": "7788894343c767d5dea25b92",
+      "qdrant_id": "45626260-9d0c-5c0a-afb3-ef66b51d2420",
+      "text": "way, his architectural vision. This is precisely because the object only finds consistency once it has crossed a certain threshold of autonomization and is able to recreate contextual relations in its own terms. This phenomenon is particularly significant in the sumptuous l(j,in Plaza building (1987), constructed on a site at the edge of a river in Osaka such that both are genuinely trans­ formed by this intrusion. Thus in his pulsional phase, from the initial drawing to the final implementation within the urban fab­ ric, a whole series of mutations in the matter of expression tends to detach the deterritorialized urban object from the psyche that initiated it. In my opinion, it is this detachment and objective self-sufficiency of the architectural machine that constitute the main achievement of Shin Takamatsu's work. (For example, he has frequently restarted finished projects…",
+      "source": "(Univocal) Félix Guattari, Gary Genosko, Jay Hetrick - Machinic Eros_ Writings on Japan-Univocal Publishing (2015).pdf",
+      "chunk_index": 185,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage"
+      ],
+      "raw_score": 0.6798204,
+      "importance": 0.7442026734352112,
+      "final_score": 0.6158223748207092
+    },
+    {
+      "id": "9a9493ae810d600c7d5bb464",
+      "qdrant_id": "80ac563f-613d-5d53-88af-be69b92236ae",
+      "text": "Husserl discovered a tension in objects between their identity and their shifting multitude of traits. For Husserl the Matsuyama ferry would not be explained in mechanical terms according to the physical forces by which it is constructed and propelled. This natural reality of the boat should be suspended or “bracketed,” turning the boat into an appearance to be explored, without judgment on that part of it which lies beyond the mind. In this way, the school of phenomenology was launched. Instead of describing the ferry as composed of steel and wood, engines and hydraulics, we examine its various modulations before the mind. We consider that the boat as a whole is never visible, but present only through simplified faces; we analyze the precise interaction of its surface contours with my memories",
+      "source": "Circus Philosophicus (Graham Harman) (Z-Library).pdf",
+      "chunk_index": 137,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage"
+      ],
+      "raw_score": 0.66958106,
+      "importance": 0.8124405741691589,
+      "final_score": 0.6150121092796326
+    },
+    {
+      "id": "0b8c3afd41f6360a03d1e4d8",
+      "qdrant_id": "f715b931-85b0-5eb1-8e94-798ebc0f6485",
+      "text": "his time in the service, a kind of “f8 and be there” sensibility. He liked the work I was doing and gave me a key to the school darkroom, which meant I could go in anytime and print—and I did. Ken Jandel took a chance on a newbie like me and in his ex- marine corpsman style “trained” me into medical photography. God bless him—he had a way with surgeons like I’m sure he had a way with certain master sergeants. Gus Gustafson, the unofficial mayor of St. Paul and the eternal optimist, was the Norman Vincent Peale of photography; whenever I was down about the business, he would say “ah, no problem,” and whenever I had a question about what I would charge for some work he would say “just bill ’em.” Gus out and about was always a good sign. The other eternal optimist was Jim Czarniecki. Interested in what I was up to, he always had new ideas, and he was like that with many artists…",
+      "source": "Faust, Chris_ Faust, Chris_ Rothfuss, Joan - Nocturnes (2007, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.5992912,
+      "importance": 0.6890652775764465,
+      "final_score": 0.614830732345581
+    },
+    {
+      "id": "ae46f14843c5984352849b56",
+      "qdrant_id": "137e3864-9547-551e-8b75-7051318620e0",
+      "text": "Coimbra. He is also a team member of the research project “PO-EX ’70- ’80: A Digital Archive of Portuguese Experimental Literature” (CECLICO, University Fernando Pessoa, 2010–2013), and principal researcher of the project “No Problem Has a Solution: A Digital Archive of the Book of Disquiet” (CLP, University of Coimbra, 2012–2015). Signs in the Machine: The Poem as Dataflow Digital computer networks are now the main tool and space for writing. The metamedia nature of the computer as a writing device results from its technical ability to represent all data streams as numerical strings. Whether as hardware or software, digitization dissolves media specificity through common operations for coding, decoding and transcoding objects. This article discusses the electronic nature of writing, taking as its starting point Friedrich Kittler’s ideas about the relationship between circuits and interface. The automatic and human dimension of computational semiotic",
+      "source": "Maria Teresa Cruz - Media Theory and Cultural Technologies _ In Memoriam Friedrich Kittler (2017, Cambridge Scholars Publishing) - libgen.li.pdf",
+      "chunk_index": 555,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.6907258,
+      "importance": 0.7405292391777039,
+      "final_score": 0.6046668291091919
+    },
+    {
+      "id": "1dfd79cbc57b5fe749485239",
+      "qdrant_id": "db397678-c7fc-55f1-80cc-c64951d793f6",
+      "text": "of identification, enriches his cultural memory, shares his prospectings. The perfecting of today's cameras liberates the user from worries about the exposure time, about focus, about aperture, about development. Tasks whose acquisition by the apprentice painter in the studio demanded huge experience (destroy bad habits, instruct the eye. the hand, the body, the mind, raise them to a new height) are programmed into the camera thanks to its refined optical, chemical, mechanical and electronic abilities. The amateur still has the choice of settings and subject. There too. he is guided by habits and connotations, but he can get free of them and seek out the unknown. Which he does. Rather than a tiresome recognition-process, amateur photography has become over the decades an instrument for prospecting and discovering, 120 REPRESENTATION, PRESENTATION, UNPRESENTABLE almost for ethnological enquiry. The old political function splits up, the ethnologist is a painter of little ethnic groups,",
+      "source": "Jean-FranCois Lyotard, Geoffrey Bennington, Rachel Bowlby - The Inhuman_ Reflections on Time (1992, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 346,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.68323195,
+      "importance": 0.7451044321060181,
+      "final_score": 0.5977377891540527
+    },
+    {
+      "id": "2c6527231c4401defba2598c",
+      "qdrant_id": "8bc1a831-0d9c-5248-832a-de3d23802b18",
+      "text": "graphic elements. In contrast to the torches on MacPherson’s sarcophagus, which were directed towards the ground indicating memento mori, the Beckers stela depicts a torch which points upwards, and accented by the wavy pattern of the torch’s fire; this is accompanied by the inscription ‘VOORLICHTING’ (meaning information, education, or counseling in Dutch), thus underscor­ ing the interpretation of the torch, not as a Christian symbol, but as a symbol of Enlightenment and social activism. The headstone’s main inscription con­ nects this iconographic element to biographical information: Beckers was a civil servant concerned with the protection of workers’ rights. Under the main inscription we find the wreath, with another inscription revealing that the stela was erected by the deceased’s friends. The latter is a regular ­feature of the socialist graves in Tongerseweg Cemetery, in…",
+      "source": "[Death in History, Culture, and Society_ 1] Bram Lambrecht (editor), Miriam Wendling (editor) - Grief, Identity, and the Arts_ A Multidisciplinary Perspective on Expressions of Grief (2022, Brill) - libgen.li.pdf",
+      "chunk_index": 97,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.68638635,
+      "importance": 0.7394092082977295,
+      "final_score": 0.5969611406326294
+    },
+    {
+      "id": "f155a9f987442ca02b1cba5c",
+      "qdrant_id": "825f0d16-70df-5403-baa3-74c1cdb038f4",
+      "text": "378 THE THEBAN NECROPOLIS PRESERVATION INITIATIVE THE SARCOPHAGUS OF SETI I 379 from its undulating form. The form was milled into a pol- yurethane block while the surface was distorted into a ﬂ at plane for elevated printing. The printed surface of the sarcophagus was built up in 5-micron color layers of UV cured resin by Océ - A Canon Company. Once printed in relief and colour, the surface was mapped back onto the curvilinear structure and glued into its ﬁ nal position. This process of re-materialisation was experimental from the outset and modiﬁ cations were improvised as new difﬁ culties were discovered. The facsimile of the sar- cophagus of Seti I is an object with its own visual qualities, and in the same way that plaster casts were valued as ob- jects with unique qualities and scientiﬁ c value, so the sarcophagus has become more than an imitation. It is an object of wonder and excitement that reveals the evidence of the",
+      "source": "Adam Lowe_ Elizabeth Mitchell_ Nicolas Béliard - The Aura in the Age of Digital Materiality_ Rethinking Preservation in the Shadow of an Uncertain Future (2020, Silvana Editoriale) - libgen.li.pdf",
+      "chunk_index": 221,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.6766231,
+      "importance": 0.7271077036857605,
+      "final_score": 0.5964022874832153
+    },
+    {
+      "id": "3ce511a1a2d3f9d6e9aa55ce",
+      "qdrant_id": "cd830adc-9fcd-5d58-8977-05a616a67f53",
+      "text": "Ministry of Education and Religious Aff airs, Culture and Sports /Archaeological Receipts Fund 249 Figure 7 Athenian red-fi gure kylix signed by Peithinos. Photograph © bpk, Berlin; Antikensammlung, Staatliche Museen zu Berlin F2279 250 Figure 8 Black-fi gure amphora by the Phrynos Painter. © Martin von Wagner Museum der Universität Würzburg L 241. Photograph: P. Neckermann 251 Figure 9 Black-fi gure amphora by the Painter of Berlin 1686. © Trustees of the British Museum, London W39 (1865,1118.39) 252 Figure 10 Black-fi gure hydria. Private collection. Line drawing courtesy of Lloyd Llewellyn-Jones 253 Figure 11 Red-fi gure pelike by the Triptolemos Painter. Mykonos Museum (21st Ephorate of Antiquities). © Hellenic",
+      "source": "James Robson - Sex and Sexuality in Classical Athens (2013, Edinburgh University Press) [10.1515_9781474472135] - libgen.li (1).pdf",
+      "chunk_index": 21,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.67027736,
+      "importance": 0.7256050705909729,
+      "final_score": 0.5916731953620911
+    },
+    {
+      "id": "cac6cd94859c4c46884f8c8c",
+      "qdrant_id": "b30a53ab-882f-51ae-9dc6-0746a0419a89",
+      "text": "keep the memory traces in synch with the machine cycles. Even with such a complex apparatus of seven units, each with 18 delay columns, the system could store only 1000 computer words. Fast memory would remain a pro- hibitively expensive computing component for several decades. The engineering of the computer, and the design attributed to Von Neu- mann, manifested a new form of ‘present-mindedness’ (Innis, 1991) in its pyramidal memory structure. Changes occurred from the top of the pyramid, in the central processor, and in the register ﬂip-ﬂops that store the informa- tion states for immediate use. The processor steps from one instruction to the next at high speed in a digital ‘stream of consciousness’, making deci- sions that trickle up and down, and to and from, lower levels of memory and storage. The slower main memory is connected through a memory bus and supplies data and instructions as required. Larger amounts of data tend to be",
+      "source": "[Publications of the Austrian Ludwig Wittgenstein Society – New Series_ 7] Herbert Hrachovec (editor)_ Alois Pichler (editor) - Philosophy of the Information Society_ Proceedings of the 30th International Ludwig Wi.pdf",
+      "chunk_index": 35,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6771304,
+      "importance": 0.7294915318489075,
+      "final_score": 0.5908910036087036
+    },
+    {
+      "id": "76cc9ccbb7b795130b17382e",
+      "qdrant_id": "0796c3cc-88ed-50ef-b047-f3dbe789d11c",
+      "text": "REFERENCES 165 392. Sabine EJ, Yonace A, Farrington AJ, et al: Bulimia nervosa: A placebo-controlled, double- blind therapeutic trial of mianserin. Br J Clin Pharmacol 1983; 15:1958-2028. 393. Saltzman MB: Phenylpropanolamine. Am Fam Physician 1983; 27:23-26. 394. Sato A, Hino N: A case suspected of pseudo-Bartter syndrome. Iryo 1978; 32:1121-1125 395. Saul SH, Dekker A, Watson CG: Acute gastric dilatation with infarction and perforation. Gut 1981; 22:978-983 396. Schneider JA, Agras WS: Bulimia in males: A matched comparison with females. Int J Eat- ing Disord 1987; 235-242 397. Schneider JA, O'Leary A, Agras WS: The role of perceived self-efficacy in recovery from bulimia: A preliminary examination. Behav Res Ther, 1987; 25:429-432 398. Schotte DE, Stunkard AJ: Bulimia vs bulimic behaviors on a college campus. JAMA 1987; 258:1213-1215 399. Schumaker JF, Groth-Marnat G, Small L, et al:…",
+      "source": "James. E. Mitchell - Bulimia Nervosa (1986, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 468,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64822614,
+      "importance": 0.7117428183555603,
+      "final_score": 0.5257374048233032
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: ccf33aff2569fc50346c3cb1
+- qdrant_id: 2cc48486-8fb4-591a-8020-a83acc195024
+- source: Feminist film theorists_ Laura Mulvey, Kaja Silverman, -- Chaudhuri, Shohini -- 2006 -- London ; New York_ Routledge -- 9780415324335 -- 7d4dcaa1e21de4deb206d8337eae0708 -- Anna’s Archive.pdf
+- chunk_index: 111
+- importance: 0.8561
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+eb VEN ee Go AZ In her article ‘Visual Pleasure and Narrative Cinema’, written in 1973 and published in Screen in 1975, Laura Mulvey argued that the control- ling gaze in cinema is always male. Spectators are encouraged to identify with the look of the male hero and make the heroine a passive object of erotic spectacle. Mulvey’s concept of the ‘male gaze’ subse- quently became the main talking point of feminist film debate. This chapter begins with Mulvey’s background in the Woman’s Movement and charts her intellectual trajectory from politics to aesthetics. It then goes on to detail her arguments about the male gaze and how film is structured according to male fantasies of voyeurism and fetishism. The chapter will focus on ‘Visual Pleasure and Narrative Cinema’ but it will also draw on Mulvey’s other essays from Visual and Other Pleasures (1989) and Fetishism and Curiosit…
+
+## Excerpt 2
+- id: dff789ef655866a67be69998
+- qdrant_id: f2e09b9f-9310-5ab5-bf79-cb87a354292b
+- source: William E Cain, Jeffrey J Williams, John McGowan, Laurie A Finke - The Norton Anthology of Theory and Criticism (2018) - libgen.li.pdf
+- chunk_index: 444
+- importance: 0.8512
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+this ­whole visual illusion can women’s subordination to the male gaze be defied. The visual dynamics described in “Visual Plea­sure and Narrative Cinema” have been widely applied not only to film but to other media as well, including photogra- phy, advertising, painting, and tele­vi­sion, making this essay a landmark text for visual culture and media studies generally. But Mulvey’s description of the male gaze has not been without its critics—­feminists included—­who have pointed out limitations. For many, the spatial logic of the male gaze limits the ways in which vision (and visual plea­sure) can be understood. Because the masculine gaze is always posited as the site of mastery and control, while the feminine is marked by submission to the gaze, little room is left within mainstream narrative cinema for re­sis­tances or alternative prac- tices. Nor does avant-­garde cinema, whe…
+
+## Excerpt 3
+- id: 39d36bbace2b8b38efd0a082
+- qdrant_id: 8dc5a9a6-2a56-5e0a-88e2-3374439af7d3
+- source: (Insights) Gary Day, Clive Bloom (eds.) - Perspectives on Pornography_ Sexuality in Film and Literature-Palgrave Macmillan UK (1988).pdf
+- chunk_index: 225
+- importance: 0.8429
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+psychoanalysis, these critics provide methods for reading film and exposing patriarchal techniques and ideologies. In particular, they have shown how the eroticisation of women on the screen comes about through the way cinema assumes a male spectator and encourages his voyeurism through specific camera and narrative techniques. The gaze is both a metaphor in film criticism and an integral part of film discourse and narrative. Laura Mulvey first introduced the idea that men looking at women in film use two forms of mastery over her: a sadistic voyeurism which controls women's sexuality through dominating male characters, and a symbolic fetishisation of women's sexuality. 2 Mulvey shows that cinema enables this male gaze to create the illusion, through a complicated system of point-of-view, that the male spectator is producing the gaze. The male character carries the gaze of …
+
+## Excerpt 4
+- id: 59d94570cd779db789e88cf3
+- qdrant_id: 67aa24b8-03bd-5630-87f3-651a789085a0
+- source: Darren Kerr_ Donna Peberdy - Tainted Love_ Screening Sexual Perversion (2017, I.B. Tauris) [10.5040_9781350988354] - libgen.li.pdf
+- chunk_index: 84
+- importance: 0.8404
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+all paradigms with which to draw attention to the traditional relations of gender and desire at work in cinema. Laura Mulvey’s canonical article – on the way in which the woman is constituted as spectacle for the male gaze in narrative cinema – makes mention of the qualities of fixity and one-dimensionality of the female icon, in contradistinction to the male protagonist on screen and the masculine spectator, who produce action and make meaning.17 Much has been written after Mulvey, suggesting the freeing-up of her positions of identificatory activity and passivity from notions of feminine/masculine, including works on queer spectatorship that focus on the potentiality of a series of ‘identifications which are multiple, contradictory, shifting, oscillating, inconsistent and fluid’.18 Maleness and femaleness, masculinity and femininity, offer pale shadows of the ideas of activ…
+
+## Excerpt 5
+- id: 9ee0632ebf2931c134376c70
+- qdrant_id: 5691e745-286e-5ece-bda2-e0e604b897cf
+- source: Susanne Becker - Gothic forms of feminine fictions (2017, Manchester University Press) [10.7765_9781526125378] - libgen.li (1).pdf
+- chunk_index: 131
+- importance: 0.8362
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+(1972) has suggested and that feminist film criticism has expanded. The question whether the gaze is male assumes that men look at women and this is the organising principle in visual arts, from high- art oil paintings to popular forms like movies, videos, advertisements (see Gaines 1990, 3). It is in response to and even anticipation of this gaze that the female body is ‘put on display’, and that a certain image of femininity is created – and such images are reproduced and distributed extensively and effectively, as Laura Mulvey has shown in her influential essay ‘Visual Pleasure and Narrative Cinema’ (1975). Annette Kuhn’s reading of glamour photography further highlights the relationship of nature and artifice (to remain within de Beauvoir’s classification): A good deal of the groomed beauty of the woman of the glamour portraits comes from the fact that they are ‘made up’, in the immediate sense that cosmetics have been applied to their bodies in
+
+## Excerpt 6
+- id: b86819fe86fce2ffdf996974
+- qdrant_id: 5b5d6b96-6d64-5d29-8b9c-cbba00d828f1
+- source: Matthew Flisfeder (auth.) - The Symbolic, the Sublime, and Slavoj Žižek’s Theory of Film (2012, Palgrave Macmillan) [10.1057_9781137110749] - libgen.li.pdf
+- chunk_index: 123
+- importance: 0.8279
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+willingness of the subject to misrecognize itself, allowing the characters on the screen to stand in for its own subject position. With this point, Heath comes very close to the conception of the “gaze,” or more appropriately, the “male gaze,” as it was developed by Laura Mulvey. The “Gaze” Mulvey’s explicit aim in “Visual Pleasure and Narrative Cinema” is to appropriate psychoanalysis for political purposes but in order to identify the phallocentrism of mainstream cinema. Unlike Oudart, who claims that mainstream cinema is in the business of recreating desire through lack/loss by inducing some sense of unpleasure on the part of the spectator, Mulvey argues that mainstream cinema actually produces pleasure for the specta- tor. This, she claims, is in accordance with “the unconscious of patriarchal society,” which has “structured film form.”40 Patriarchal society, according to M…
+
+## Excerpt 7
+- id: c7a2e4227bfb95d78ecab571
+- qdrant_id: 7a5214de-62c1-5bb6-8eea-10fb8910e4f7
+- source: The Bodys Perilous Pleasures Dangerous Desires and Contemporary Culture (Michele Aaron) (Z-Library).pdf
+- chunk_index: 40
+- importance: 0.8314
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+1 After Mulvey: Male Erotic Objectification KENNETH MACKINNON The reference in this chapter's title is to Laura Mulvey's most cele- brated work, her 'Visual Pleasure and Narrative Cinema' article for Screen. 1 This was written in 1973 and published in 1975. For over twenty years since its publication, it would appear to have acquired the distinction of having become the most cited work in the history of Film Studies, but to have also had its uses in impassioned debate well beyond Film or Media Studies. The intellectual basis for most feminist antipornography argument, for example, seems to be in Mulvey's article, whether or not its theses were conceived with that application in mind. The article's principal, and well-known, thesis is that in 'dominant' narrative cinema woman is constituted as image - the looked-at (spectacle) -while man is the bearer of the look (spectator…
+
+## Excerpt 8
+- id: 5ca8ddc33ba439466bbe4de1
+- qdrant_id: 7f7f5b1a-75f3-5064-a87e-ca5674f83f43
+- source: Stina Bengtsson (editor), Staffan Ericson (editor), Fredrik Stie - Classics in Media Theory (2024, Routledge) [10.4324_9781003432272] - libgen.li.pdf
+- chunk_index: 162
+- importance: 0.8333
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+While it is important to remember that Mulvey discusses ﬁlm (and, more­ over, a certain type of feature ﬁlm from a speciﬁc historical period), it is clear that ‘Visual Pleasure and Narrative Cinema’ is considered to be relevant to the understanding of other media as well, not least television production (see Boyle 2015a: 880). In fact, Mulvey’s idea of the male gaze and its objectiﬁcation of women seems to be the part of the essay that has gained the most attention – not only in connection to ﬁlm but also in relation to a range of diﬀerent media and popular cultural expressions and in terms of art and visual culture more generally. For instance, her emphasis on the gaze as shaped by culture and ideology has been used to illuminate the relationship between ways of seeing
+
+## Excerpt 9
+- id: 0620c77b9d67a217f55f8d14
+- qdrant_id: 497ea0db-2764-57d3-8e4b-6c7cc10521fd
+- source: Michele Aaron - The Body's Perilous Pleasures_ Dangerous Desires and Contemporary Culture (2022, Edinburgh University Press) [10.1515_9780585159225] - libgen.li.pdf
+- chunk_index: 80
+- importance: 0.8330
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+tially what Laura Mulvey asks rhetorically about the male on the cinema screen. He has the power to initiate action, to create the narrative on which dominant cinema depends. He is clearly, unequivocally, a subject. In diegetic terms, yes, but every character on screen is also an object of the cinema spectator's gaze. Mulvey bypasses the evident truth of this by claiming that the spectator fantasises with the active male on screen, shares through fantasy in his power, which is the power to be active, to subjugate the villain, to demand the female's passivity as a complement to his hetero- sexual activity. Yet, in less cerebral terms, the cinema spectator, male, female or 'masculinised', looks at the powerful male on screen. The admiring gaze, on which male action cinema depends as obviously as fine art, can easily be converted into, or become one with, the desiring gaze. Kno…
+
+## Excerpt 10
+- id: 47108db0799294e521d4d5a5
+- qdrant_id: 6ff205ff-5de7-5ad0-abe2-20c2ff9c2c39
+- source: Feminist film theorists_ Laura Mulvey, Kaja Silverman, -- Chaudhuri, Shohini -- 2006 -- London ; New York_ Routledge -- 9780415324335 -- 7d4dcaa1e21de4deb206d8337eae0708 -- Anna’s Archive.pdf
+- chunk_index: 125
+- importance: 0.8315
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+determining how the woman is to be looked at, and thus placing all spectators in the ‘masculinized’ position of looking at her. Mulvey observes that there are three sets of looks involved in cinema: (1) the camera’s look at the pro-filmic reality, (2) the audience’s look at the final film product, and (3) the characters’ looks at each other. The conventions of narrative cinema strive to make the audience forget the camera and the fact that they are watching a film. They work to deny both (1) and (2) in favour of (3) — all in the interests of creating a ‘convincing’ illusion of a world where the male protagonist acts as the spectator’s surrogate (Mulvey 1989c: 26). In the narrative structure, too, the male drives the story forward, while the female has a passive role, linked to her status as spectacle. As well as identifying with ‘the active power’ of the hero’s gaze at the wo…
+
+## Excerpt 11
+- id: 20f972609fc989ab71379814
+- qdrant_id: fb64d518-3cb8-51df-a50b-3ee03cecfdc0
+- source: In the Realm of Pleasure Von Sternberg, Dietrich, and the Masochistic Aesthetic (Gaylyn Studlar) (Z-Library).pdf
+- chunk_index: 13
+- importance: 0.8322
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+measure, on Laura Mulvey’s “Visual Pleasure and Narrative Cinema.”3 Judith Mayne has written of this 1975 article: “It is only a slight exag¬ geration to say that most feminist him theory and criticism of the last decade has been a response, implicit or explicit, to the issues raised in Laura Mulvey’s article: the centrality of the look, cinema as spectacle and narrative, psychoanalysis as a critical tool.”4 Building on Freud’s castration theory and Lacan’s account of the mirror phase, Mulvey asserts that desire is inscribed in the classical Hollywood cinema as an Oedipal, patriarchal desire which makes the woman the passive object of the male gaze. Pleasure is produced for a subject-spectator dehned in terms of male psychic processes and psychological needs. Hollywood classical narrative norms are theorized as being sexually imbalanced between an active male protagonist who fuels the narrative and a passive female object who becomes the eroticized spectacle for
+
+## Excerpt 12
+- id: e3f47ad7adb6f3213948a4f2
+- qdrant_id: 96abf7b6-d398-56ef-a4d1-3852f04e38d0
+- source: Abject Terrors Surveying the Modern and Postmodern Horror Film (Magistrale, Tony) (Z-Library).pdf
+- chunk_index: 217
+- importance: 0.8275
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+In “Visual Pleasure and Narrative Cinema,” Laura Mulvey’s famous exegesis of Hitchcock films, she argues that both Rear Window and Vertigo are tailored “to the measure of male desire” (17), exploring, in other words, the fears and desires of both the male protagonists and, by extension, the spectator (both males and females in Mulvey’s paradigm) watching in the audience. Because of the anxieties associat- ed with castration posed by the woman’s image on screen, Mulvey posits, Hitchcock accommodates the male desire to see her fetishized and controlled in the course of the narrative. Mulvey’s analysis raises several issues vital to any discussion of fear and desire and attraction and repulsion in Hitchcock’s males. Certainly central to her read- ing of the director’s later films is the bifurcated role of the woman; she is at once a stunning image of beauty and a terrifying enigma. In Verti…
+
+## Excerpt 13
+- id: 0092a399f3e9af183ac65235
+- qdrant_id: 4f131a27-4200-5333-be04-67e49b6d030f
+- source: [Continuum Literary Studies] Brian Baker - Masculinity in Fiction and Film_ Representing men in popular genres, 1945-2000 (2006, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 9
+- importance: 0.8291
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Introduction the collections Screening the Male (Cohan and Hark 1993) and The Sexual Subject (Caughie et al. 1992). The majority of this book concentrates on screen masculinities, though the reader will find considerable material on fiction. The tradition of theorization of gender in screen theory has been through Lacanian models since Laura Mulvey's famous and discipline-transforming Visual Pleasure and Narrative Cinema' (1975) suggested that the camera in classical Hollywood cinema regulates the look of the audience, constituting an identification with a male gaze. An active/passive binary mapped onto masculine and feminine subject positions results in gendered spectator- ship. The male looks, and the female is looked upon; this leads to the obj edification and fetishization of the female body, and the negation of female pleasure. Steve Neale's 'Masculinity as Spectacle' (1983) has been almost as influential, and explored the spectatorial paradigm of the Mulvey
+
+## Excerpt 14
+- id: c290e1441448b6100d98776a
+- qdrant_id: b997b93f-ff8a-50b0-a41d-4614f1ae9e5e
+- source: Maggie Humm - Feminism and Film (2022, Edinburgh University Press) [10.1515_9781474469388] - libgen.li.pdf
+- chunk_index: 48
+- importance: 0.8275
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+14 FEMINISM AND FILM By the middle of the 1970s psychoanalytic theory grew generically distinct. Laura Mulvey's germinal essay 'Visual Pleasure and Narrative Cinema' (Mulvey 1975) describes a psychic context in which voyeurism, fetishism and narcissism all structure film viewing. Mulvey's essay is cited and reprinted (by myself among others), more often than any other film theory (Humm 1992). This is perhaps because Mulvey, in a hugely original gesture welds Althusserian theory, feminist aesthetics and feminist theory together with psychoanalysis. Since I discuss her writings in some detail below let me quickly here summarise her main themes and point to her impact. Mulvey's insight, derived from study of the relationship between film techniques, spectators and viewing pleasures, is that films deliber- ately create masculine structures of'looking'. It is 'the gaze', Mulvey argues, which is the main mechanism of filmic control. According to
+
+## Excerpt 15
+- id: 25160dab65aa77cfdc88c7c3
+- qdrant_id: f88aa930-cd4f-5fa2-a831-fcb0f99cd70f
+- source: Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li (2).pdf
+- chunk_index: 30
+- importance: 0.8261
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+of spectatorship among Western fi lm scholars such as Christian Metz and Jean-Louis Baudry. Retaining the psychoanalytical model, Laura Mulvey adopted a feminist approach in her famous article ‘Visual Pleasure and Narrative Cinema’ (1975). Mulvey argued that fi lm only serves to perpetuate a type of male-driven patriarchal language that facilitates male visual pleasure. As a result, female spectators have no access to it other than through the male gaze that consistently objectifi es female characters. For Mulvey, female spectators will be able to fi nd true pleasure from fi lms only by inventing a new type of fi lm language that is not driven by narrative. Th e emphasis placed by Mulvey on the visual has been widely criticised for limiting the fi lm to a visual art. However, the strategies she advocates in order to make cinema a medium that represents women have led some fem…
+
+## Excerpt 16
+- id: d9d4fb4cd859eb31453be9fa
+- qdrant_id: f0e8ba02-c5e1-59a0-9c37-4c195c2c1826
+- source: (Global Masculinities) James D. Bloom (auth.) - Reading the Male Gaze in Literature and Culture_ Studies in Erotic Epistemology-Palgrave Macmillan (2017).pdf
+- chunk_index: 23
+- importance: 0.8232
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+reflections aim to advance an understanding of gazing as an expression of curiosity and a bid for reciprocity. While at the beginning of this conversa- tion Laura Mulvey introduced gazers as invariably playing a commanding or mastering role in images of and narratives about women, my evidence and reflections on this evidence complement this prevailing view with accounts of male gazing as often entailing acts of submission and accounts of male gazers relinquishing, surrendering, or simply lacking the mastery Mulvey and the conversations she spawned ascribe to male gazing. The Post-Mulvey Conversation Questions raised throughout The Male Gaze Reader about whether the actual experience of male gazing as well as numberless accounts of and remarks on male gazing correspond to Mulvey’s critique—the argument
+
+## Excerpt 17
+- id: a917e2e18709db3f58c32146
+- qdrant_id: 8e48a8a9-e7a5-5dc7-a91a-671a742c1229
+- source: Joanna Frueh - Monster Beauty_ Building the Body of Love (2000) - libgen.li.pdf
+- chunk_index: 89
+- importance: 0.8236
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+and basing political as well as personal power in visible beauty—even expanded, “wild and tantalizing” versions—is problematic. In , in “Visual Pleasure and Narrative Cinema,” Laura Mulvey called for the ruin of (male) visual pleasure, which fetishizes the ideally—cinematically— beautiful female face and body through the male gaze. It is this male gaze that creates the petriﬁed picture of woman. Theories of the male gaze’s construction of visual pleasure dominated feminist and art theory in the s and were a signiﬁcant aspect of the problematizing of female pleasure, visual and otherwise. More recently some theorists, such as Lorraine Gamman, Margaret Marshment, and Teresa de Lauretis, have been revising gaze theory, opening up avenues of visual pleasure for women.41 Yet when visual pleasure as an essential aspect of women’s beautifying themselves mixes with issues of self-represe…
+
+## Excerpt 18
+- id: fd758d97c1689ab5c31723e3
+- qdrant_id: f2f79832-428f-5cba-b30a-59a1a9a042af
+- source: (At the Interface_Probing the Boundaries, 128) Barbara Braid, Hanan Muzaffar - Bodies in Flux_ Embodiments at the End of Anthropocentrism-Brill _ Rodopi (2019) (1).pdf
+- chunk_index: 173
+- importance: 0.8236
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+prived of choice and agency. As the male protagonist is the central figure in control of the film narrative, his gaze becomes the audience’s gaze through the process of identification: This is made possible through the processes set in motion by structuring the film around a main controlling figure with whom the spectator can identify. As the spectator identifies with the main male protagonist, he projects his look onto that of his like, his screen surrogate, so that the pow­ er of the male protagonist as he controls events coincides with the active power of the erotic look, both giving a satisfying sense of ­omnipotence. 48 Critical responses to Mulvey’s essay caused the author to consider the issue of female spectatorship, but even then, as she published “Afterthoughts on ‘Visual Pleasure and Narrative Cinema’ ” and presented the idea of female
+
+## Excerpt 19
+- id: 3ad18635d9a19e4f15bebe44
+- qdrant_id: ade24738-d9b3-52e7-bccc-47d2c32ca1c3
+- source: [SUNY Series, Horizons of Cinema] David Greven - Ghost Faces_ Hollywood and Post-Millennial Masculinity (2016, SUNY Press) - libgen.li.pdf
+- chunk_index: 85
+- importance: 0.8234
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+19 Introduction in Skin Shows, “recent discussions of gay and lesbian cinema assume that the gaze is queer or multidimensional.” I concur with critics such as White, Neale, Rodowick, Robert J. Corber, and Halberstam that Mulvey’s theories of the gaze are inadequate when it comes to understanding both female and queer desire within structures of film spectatorship. But the main point that I wish to make here is the enduring relevance of Mulvey’s paradigms, which now shed light on the sexual objectification of the male body in film.35 The kinds of voyeuristic and fetishistic looking that Mulvey describes in terms of female bodies proves to be newly relevant to both the representation of male bodies in twenty-first-century cinema and the ongoing representation of female bodies. Critics such as Steve Neale and Yvonne Tasker and others have long since made the point that the repres…
+
+## Excerpt 20
+- id: 6bee8775bf42a06b99db539d
+- qdrant_id: 087e535b-ea4d-569b-bf34-ab4ec97dba63
+- source: Robin James - Resilience & Melancholy_ Pop Music, Feminism, Neoliberalism-Zero Books (2015).pdf
+- chunk_index: 258
+- importance: 0.8221
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+is, as the title of her famous article indicates, the structure of “visual pleasure” in classic Hollywood “narrative cinema.” This sort of cinema privileges development, resolution, and wholeness—these are what cinematic discourses invest as sites of desire, pleasure, and meaning. Similarly, as I will argue later in this section, Hill Collins’s concept of controlling images presumes a classically liberal subject/object binary, and thus the specific controlling images she identifies work like cinematic images, even when they appear in other media. “The male gaze” is Mulvey’s term for the structural, formal, and technical methods used in classic Hollywood cinema to naturalize patriarchal looking relations and masculine subject positions. That is, masculinity is the lens that brings otherwise incoherent, disparate elements into focus as a coherent whole. The camera, not the male/masculine protagonist, is the ultimate “bearer of the
+
+## Excerpt 21
+- id: b9b94684e37a81ac80aea14e
+- qdrant_id: 34a55f76-822c-5311-a95e-8c23dcdba0a9
+- source: Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf
+- chunk_index: 287
+- importance: 0.8231
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+and Classics: The Modernist Mode’, ‘Critiques of Phase I Theories: New Methods’, ‘Race, Sexuality, and Postmodernism in Feminist Film Theory’, ‘Spectatorship, Ethnicity, and Melodrama’. Each gives us a sense of the ways in which feminism has addressed film—primarily through strug- gle, representation, genre, language, sexuality, race and difference. Following a feminist approach to language and difference, Laura Mulvey’s influential article,7 ‘Visual Pleasure and Narrative Cinema’ (1975), examines the gendered nature of the cinematic gaze identified by Baudry and Metz. She appropriates psychoanalytic theory as a ‘political weapon’ in order to demonstrate how the unconscious of patriarchal society structures film form (1989 [1975], 14). In her work she is attempt- ing to ‘conceive a new language of desire’ (1989 [1975], 16), in part, by drawing on Freud’s theorisation of scopophilia: Going far beyond highlighting a woman’s to-be-looked-at-ness, cinema
+
+## Excerpt 22
+- id: eafc9f76679fe61c57eaab09
+- qdrant_id: 9dda7b5b-4628-5244-a039-803e310d58e3
+- source: (Global Masculinities) James D. Bloom (auth.) - Reading the Male Gaze in Literature and Culture_ Studies in Erotic Epistemology-Palgrave Macmillan (2017).pdf
+- chunk_index: 72
+- importance: 0.8187
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+now. And I realized, too, though I had no words for it at the time, how much I adored her, and what tumult lay ahead” (26). Castle’s reminiscence exposes one too-obvious-to-mention blind spot in Mulvey’s theorizing. As the texts I’ve been citing illustrate, glib invokers of “the male gaze” seldom consider the implications and limita- tions of the concept’s origin: Mulvey’s narrow focus on the movies as the primal scene of male gazing. Since Mulvey confined her argument to cinema, to second-hand mediated gazing at images on a flat screen, it seems ahistorical and myopic to treat her account of gazing (as we often do now) as all-encompassing or paradigmatic, as unequivocally applicable to gazing at printed and painted images of women and to unmediated, direct, three-dimensional, “real-time,” in the flesh gazing. Nowadays one needn’t be a pedantic “postmodernist” to concede that all perception is mediated and that gaze objects are mediated not only by the movie
+
+## Excerpt 23
+- id: dff5061b3681713894264d29
+- qdrant_id: 9445c777-26bc-574d-8cc5-c85929c6ee84
+- source: Sophia Phoca - Introducing Postfeminism (1999, Totem Books) - libgen.li.pdf
+- chunk_index: 127
+- importance: 0.8097
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+For Mulvey, the visual gaze is framed in binaries: narcissism/desire, looking/being looked at, active/passive, masculine/feminine. The male viewer masters the woman's otherness either through sadistic voyeurism or fetishism. The Cinematic Gaze Let's consider the terms Mulvey identifies as implicated in the "cinematic gaze". Voyeurism: a term used by Freud to analyze the erotic gratification of a peeping Tom who watches without being seen in order to alleviate a castration anxiety. Scopophiiia or Scopic Drive: pleasurable looking, a drive instinct. This concept was developed by Freud from its origin in the infantile libido. The term has been used in psychoanalytic film theory to understand the unconscious processes that are brought into play when the spectator looks at the image on screen.
+
+## Excerpt 24
+- id: 9f049234322cd9c75ef6d4d5
+- qdrant_id: 255a490f-e0ac-5782-b746-03066b15ae71
+- source: Steven Gerrard, Samantha Holland, Robert Shail - Gender and Contemporary Horror in Film (2019).pdf
+- chunk_index: 154
+- importance: 0.8134
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Toth’s presence, she attempts to conceal herself from his gaze. In Byzantium, however, Clara is untroubled by onlookers and able to relish the experience pro- vided by her newly heightened senses.12 The shift from object of a voyeuristic gaze to subject positioned in the land- scape echoes Mulvey’s ‘Visual Pleasure and Narrative Cinema’ in interesting ways. The presence of male onlookers in both Countess Dracula and Lust for a Vampire resonates with Mulvey’s remarks regarding the alignment of the view- er’s gaze with than of male protagonists onscreen, while the absence of any such character in the waterfall sequence resists this. Indeed, the sequence from Byzantium recalls Mulvey’s characterization of the typical representation of male subjectivity in classical Hollywood cinema in terms of the ﬁgure in the landscape (1989, p. 20). While Mulvey uses landscape more ﬁguratively to describe…
+
+## Excerpt 25
+- id: 9f6c4ca2e80a69c011b4c394
+- qdrant_id: 8894e654-6195-5325-8765-eaf31eb0b51a
+- source: (Global Masculinities) James D. Bloom (auth.) - Reading the Male Gaze in Literature and Culture_ Studies in Erotic Epistemology-Palgrave Macmillan (2017).pdf
+- chunk_index: 119
+- importance: 0.8165
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+serves as Cather’s viewpoint character and alter-ego. It stands to reason, therefore, that the story implicitly but not very ambiguously makes a case for male-gazing, as not merely biologically determined or socially conditioned—as something that, in Mulvey’s view, men do to women—but as an artistic resource and perspectival option. According to New Yorker theater critic Hilton Als, “few feminists have articulated the ways in which some women may find stereotypical male behavior necessary, if only because it enables them to act out its sup- posed counterpart, femininity.” Als’ reasoning echoes the understanding of gazing voiced by Cather. If we must, as the prevailing wisdom argues, treat “femininity” and masculinity as gender-producing performances rather than genetically coded identities, then male-gazing belongs to this larger repertory of gender-making and gender-bending performances and opportunities for exploring and staging the effects of desire both
+
+## Excerpt 26
+- id: 06a8212e59b00bb9bd5b0c09
+- qdrant_id: 9e86eb64-0b63-5e02-82ed-d961541abed1
+- source: Holland, Samantha & SHAIL, ROBERT & Gerrard, Steven - Gender and Contemporary Horror in Film (2019, Emerald) - libgen.li (1).pdf
+- chunk_index: 86
+- importance: 0.8128
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+when one of the members of the Society calls Mademoiselle and states, ‘I have never seen an expression like it. She’s let go, completely let go. Her face is like […] her eyes […] I swear she no longer sees anything around her.’ Anna’s face is framed through a close up at eye-level, causing her to stare directly into the eye of the camera for several seconds. This moment serves to complicate traditions of the oppressive male gaze, which is detailed in Laura Mulvey’s iconic essay ‘Visual Pleasure and Narrative Cinema’ (1975). Mulvey determines that pleasure in looking in Hollywood cinema is split between active males and passive females. She argues that the female appearance in cinema is coded for, ‘strong visual and erotic impact and connotes a to-be-looked-at-ness’, whereas the cam- era and the male viewer are constituted as the ‘bearer of the look’ (Mulvey, 1975, p. 11). In this moment,…
+
+## Excerpt 27
+- id: 5dc6f9eaace0bede372662b8
+- qdrant_id: 9091c1b1-0325-5c3b-ac42-1a1d8de08ac4
+- source: (SUNY Series, Horizons of Cinema) David Greven - Ghost Faces_ Hollywood and Post-Millennial Masculinity-SUNY Press (2016).pdf
+- chunk_index: 15
+- importance: 0.8212
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+ment of queer desire, on the one hand, but maintaining its resistance to queerness in order to remain a coherent version of itself, on the other hand—has lent itself to suggestive levels of scrutiny with some disturbing implications. As I outline in chapter 1, my contention is that this period’s filmmaking is sadomasochistic in its treatment of male characters. Through a queer reframing of Laura Mulvey’s and Gilles Deleuze’s paradigms, among others, I argue that this sadomasochism and its relationship to queerness find expression through a voyeuristic fascination with male bodies and a fetishistic one with the male face. A preoccupation with Deleuzian “facial- ity” intersects with Mulvey’s theories of gendered cinematic representation when applied to the male forms offered for spectatorial consumption. The focus of this book is on genre film, comedy and horror especially, becau…
+
+## Excerpt 28
+- id: c8c3894df1302b3b08760870
+- qdrant_id: 926921f0-88c2-51f1-b035-30a155b89bc1
+- source: (SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf
+- chunk_index: 258
+- importance: 0.8180
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+In her now classic essay, “Visual Pleasure and Narrative Cinema,” Laura Mulvey tells us that three visual perspectives define film: the camera’s record of the profilmic event, the looks at one another by characters within the film, and the viewing of the filmed event by the audience.8 We are supposed to forget about the first two, so that we may be entirely caught up in the illusion of projecting ourselves onto the screen characters and into their looks at one another. Alternative, radical filmmakers, Mulvey proposes, begin by “free[ing] the look of the camera into its materiality in time and space and the look of the audience into dialectics and passionate detachment,” so that the “pleasure and privilege . . . [of being] the ‘invisible guest’” is smashed (448). Though Mulvey is interested primarily in how the gaze, or “looking relation” (Gaines), produced through narrative and camera techniques in film is voyeuristic and
+
+## Excerpt 29
+- id: d50d134db6aa432145e49eca
+- qdrant_id: 7a57b295-6bd0-5966-a3d7-cb19f5b2afb6
+- source: Todd McGowan, Sheila Kunkle - Lacan and contemporary film (2004, Other Press) - libgen.li.pdf
+- chunk_index: 602
+- importance: 0.8224
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+through the filmic text. This camera/male hero alignment forces the woman into the position of the object of the male gaze. Mulvey’s argument is that the viewer (both male and female) derives pleasure from this process of identification and thus derives pleasure from objectifying the woman and viewing her as a passive object. To break this cycle of oppression, Mulvey says, “The satisfaction and reinforcement of the ego that represent the high point of film history hitherto must be attacked. Not in favor of a reconstructed new pleasure, which cannot exist in the abstract, not of intellectu-alized unpleasure, but to make way for a total negation of the ease and plenitude of the fictional narrative film” (1985, p. 306; see also Johnston 1985). To carry this out, filmmakers had not only to break Hollywood filmic codes and invert traditional narrative structures, but also work to sub…
+
+## Excerpt 30
+- id: 71b39bdb9496ac3469dfa46b
+- qdrant_id: 0f6e9d24-c444-536f-93b8-6970f361dfda
+- source: (SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf
+- chunk_index: 259
+- importance: 0.8153
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Mulvey is interested primarily in how the gaze, or “looking relation” (Gaines), produced through narrative and camera techniques in film is voyeuristic and male, her theory can also be used to discuss the ostensibly unmediated view- point that A Personal Story presents to its audience, encouraging the audience to view the patient as a kind of free agent. The patient is both a real subject and an interpellated figure, yet the camera and narrative techniques used to generate the program remove the patient’s body from association with the processes of its historical and cultural production. Below I feature representative episodes of A Personal Story in order to discuss in some detail how various narrative and camera techniques function 72 Amending the Abject Body
+
+## Excerpt 31
+- id: e436a1b67717a664933eb690
+- qdrant_id: b08d00e6-d70d-595b-ace1-e6dd85c7635d
+- source: Lisa Downing, Libby Saxton - Film and Ethics_ Foreclosed Encounters (2010, Routledge) - libgen.li.pdf
+- chunk_index: 322
+- importance: 0.8132
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+capture conﬁgurations of scopic desire that at once reference and go beyond the simple mechanism of looker and looked-at and – by extension – the limiting subject–object model of relationality on which traditional theories of pornography and spectatorship rest. Theories that contend that there is no properly ‘feminine gaze’, originating with Mulvey’s celebrated 1975 article, are well known in cinema studies. According to Mulvey, in classic narrative cinema, the viewer occupies a masculine position; he is aligned with the agency and desire of the onscreen male hero. The position of femininity, on the other hand, is a matter of embodiment rather than subjectivity: the woman on screen connotes what Mulvey terms ‘to-be-looked-at-ness’.19 This theoretical model, designed to describe mainstream narrative cinema has obvious resonances with some of the anti-porn feminist accounts discussed at th…
+
+## Excerpt 32
+- id: d27932f829aaa0a8acfc50a6
+- qdrant_id: d0153f3d-e5a5-55c7-99b8-1709084d71dc
+- source: Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li (2).pdf
+- chunk_index: 174
+- importance: 0.8178
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+we will see, her cinema is not only asking us to listen diff erently but also to see in other ways. Th is is all the more interesting as gender theories have stressed the role of vision in the patriarchal objectifi cation of women. Laura Mulvey’s article ‘Visual Pleasure and Narrative Cinema’ (1975), claims that the male gaze has defi ned cinematic visuality, fi rstly, because the camera represents the male gaze and objectifi es women’s bodies and secondly, because spectators, assumed to be male, enjoy the fi lm from the perspective of a heterosexual man. Irigaray has also stressed the role of vision in the patriarchal objectifi cation of women and has called for a style that ‘does not privilege sight; instead it takes each fi gure back to its source, which is among other things tactile’ (Irigaray 1985b: 79). Considering the importance of recent research on the tactility of fi…
+
+## Excerpt 33
+- id: 62778631e3305d9e73bb7d80
+- qdrant_id: 3963fbeb-cdb8-519e-9a5a-714a36d0d279
+- source: [Pocket Essential series] Andrew M. Butler - Film Studies (2002, Oldcastle Books) - libgen.li.pdf
+- chunk_index: 146
+- importance: 0.8099
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Mulvey argues that there are three kinds of look associated with the cinema: a diegetic one between the characters, an extradiegetic one of the audience watching the ﬁlm, and then the look of the crew ﬁlming the events played out before the camera. All three kinds of gaze are predominantly masculine, or associated with the male, something which did not seem to be problematic to Mulvey in 1975. Since then, she has written an afterword which notes this gendering of cinema, but in my opinion she doesn’t get much beyond the idea of a male gaze. A female gaze should, of course, be possible, but it is best to postpone discussion of this to the next chapter. 79 FILM STUDIES
+
+## Excerpt 34
+- id: 1454678c4edc1684cc496bc7
+- qdrant_id: e8a39369-a863-52cc-a000-adde03550793
+- source: [Critical Conversations in Horror Studies] Victoria McCollum, Aislinn Clarke - Bloody Women_ Women Directors of Horror (2022, Lehigh University Press) - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.8065
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Introduction 5 long, lingering close-ups—wet skin, moistened breasts, and dripping hair. This scene emblematizes Laura Mulvey’s theory of the male gaze— that cinematic representations accentuate and duplicate the gaze of the heterosexual man whose sight lingers upon the features of a woman’s body. It also speaks to the harsh reality that a “scream queen” often func- tions as an erotic object to be looked at, not only by the external audience but also by the characters within the film’s narrative (Metz 1975). Due to the voyeuristic pleasure of the cinematic apparatus itself, then, and the duplication of this gaze in the horror film, women watching horror often find themselves bearing witness to their own frailty and inadequacy in the face of sexual assault, suffering, and murder (Williams 1984). Thus, the female audience for horror is often framed as “reluctant girlfriends bein…
+
+## Excerpt 35
+- id: 4851a8558935842147150f54
+- qdrant_id: e1a4f351-3d43-5028-8cb0-7d85a51c584e
+- source: Linda Badley - Film, Horror, and the Body Fantastic (1995, Greenwood Publishing Group) - libgen.li.pdf
+- chunk_index: 382
+- importance: 0.8070
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+stalked1 and brought down by a villain who functioned as an enforcer of patriarchal law. But Laura Mulvey had already defined the real issue in a Screen magazine article "Visual Pleasure and Narrative Cinema" (1975). In Mulvey's logic, horror did overtly what all film did intrinsically. "Sadism demands a story," she wrote, and sadism "depends on making something happen, forcing a change in another person, a battle of will and strength, Deconstructions of the Gaze 103 victory/defeat, all occurring in linear time, with a beginning, and an end" ( 14). Narrative cinema and hence the camera's • gaze" was inherently male according to Mulvey. The patriarchal unconscious had "structured the film form,• gendered its narrative codes and the spectator's role, with "Woman [positioned] as image and man as bearer of the look" (62). The spectator, coded male, was given a womblike arena fo…
+
+## Excerpt 36
+- id: 9e90d8394f0daf618a788656
+- qdrant_id: 84f76c84-6e7a-5ad0-88e5-21a358c0cb67
+- source: In the Realm of Pleasure Von Sternberg, Dietrich, and the Masochistic Aesthetic (Gaylyn Studlar) (Z-Library).pdf
+- chunk_index: 14
+- importance: 0.8105
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+imbalanced between an active male protagonist who fuels the narrative and a passive female object who becomes the eroticized spectacle for the gaze of the male protagonist, the camera, and the spectator.5 Following Mulvey’s lead, much of feminist him theory has ac¬ cepted the premise that dominant narrative cinema’s visual pleasures rest on male psychic mechanisms—fetishism, voyeurism, and scopo- philia—which inscribe pleasurable (and power-laden) patterns of look-
+
+## Excerpt 37
+- id: c1ee10939432a96f5f99019b
+- qdrant_id: f57746c7-84ac-5b9a-a956-ea902b0aaf8d
+- source: William E Cain, Jeffrey J Williams, John McGowan, Laurie A Finke - The Norton Anthology of Theory and Criticism (2018) - libgen.li.pdf
+- chunk_index: 445
+- importance: 0.8087
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+room is left within mainstream narrative cinema for re­sis­tances or alternative prac- tices. Nor does avant-­garde cinema, where Mulvey locates the alternative to the male gaze, offer much evidence of being any more responsive to feminist critique than Hol- lywood filmmaking. Others argue that her paradigm locks the activity of looking into a traditional oedipal heterosexuality. Moreover, theories drawing on a visual appara- tus based on a gendered split between female object and male voyeur cannot describe the visual plea­sure of female viewers, or account for the male gaze at another male. Mulvey herself has recognized the validity of such objections, attempting to address many of them in a later essay, “Afterthoughts on ‘Visual Plea­sure and Narrative Cinema’ Inspired by King Vidor’s Duel in the Sun” (1981). Despite such criticism, Mulvey’s 1975 essay continues to inspire impo…
+
+## Excerpt 38
+- id: da0f73fc14e33b6c3186aa3a
+- qdrant_id: ac0320ae-7677-5393-8d80-3cf3f8232174
+- source: Sarah Dillon - Deconstruction, Feminism, Film (2022, Edinburgh University Press) [10.1515_9781474434201] - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.8110
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+and which generality, his subjunctive reflections can be understood in the context of the history of feminist film theory regarding the agency – or lack thereof – of the individual female spectator. In the now canonical essay, ‘Visual Pleasure and Narrative Cinema’ (1975), Laura Mulvey argues that classical Hollywood cinema determines the posi- tion that the female spectator can adopt – since film objectifies the woman, female spectators must either enter into a masochistic identification with the women-object on screen, or they must engage in spectatorial transvestism by adopting the male gaze, the only spectatorial position offered by Hollywood film. The agential female spectator is in fact an impossibility according to Mulvey’s theory, for it is only through the self-consciousness of avant-garde film – in which the foregrounding of the material existence of the filmic proces…
+
+## Excerpt 39
+- id: 2fef50cc97fb34ed57368fa2
+- qdrant_id: 2f1b3076-f5df-5b85-9e5e-7319924f808b
+- source: (At the Interface_Probing the Boundaries, 128) Barbara Braid, Hanan Muzaffar - Bodies in Flux_ Embodiments at the End of Anthropocentrism-Brill _ Rodopi (2019) (1).pdf
+- chunk_index: 172
+- importance: 0.8081
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+that did not reflect what ‘real’ women were like (...). One of the strategies proposed by feminism to remedy ideology-​effects was to create positive depictions of women – images that would show what women were ‘real­ ly’ like. To counteract the construction of women as objects of oppression by a masculine visual economy, feminist film theory encouraged women to create their own images of themselves as a way of promoting better more truthful, and realistic reflections of female experience. 51–​52 Women in Wigon’s picture seem to fit perfectly Laura Mulvey’s canonical –​ yet later often criticized –​ theory of male gaze, expressed in her essay “Visual Pleas­ ure and Narrative Cinema,” in which she presents men as the active watching party and women as the passive watched party, the latter being basically de­ prived of choice and agency. As the male protagonist is the central figure…
+
+## Excerpt 40
+- id: beeb0adaa0266e087bf8c2f9
+- qdrant_id: 3ecc7eb2-9a4c-5e64-a87f-49277ac1f80e
+- source: Simon Ryle (auth.) - Shakespeare, Cinema and Desire_ Adaptation and Other Futures of Shakespeare’s Language (2014, Palgrave Macmillan) [10.1057_9781137332066] - libgen.li.pdf
+- chunk_index: 120
+- importance: 0.8189
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+constituted, and henceforth the subject must find him- or herself in the external images of the signifying system: ‘the phantoms that domi- nate him’ (1996, 77; 1966, 95). For Metz and the early Lacanian film theorists, these processes were to be found replicated and redoubled in the scopic investments of the cinema spectator. An important strand of this politically committed early Lacanian film theory was the work of the 1970s feminist film theorists, particularly Laura Mulvey’s influ- ential notion of the male gaze. Mulvey drew links between the mirror stage and the psychoanalytic concept of voyeurism to model the way in which the cinema uses visual pleasure to oppressively enforce socially constructed differences in gender subjectivity. Extremely influential in the developing field of cinema studies, the work of the early Lacanian theorists sparked a great deal of critical debate and even animosity. Such is the remarkable prevalence of screen
+
+## Excerpt 41
+- id: 23683e2aa138e876ce3ceb64
+- qdrant_id: 7de611a3-ee73-5eaa-bc51-869c9464f431
+- source: Stina Bengtsson (editor), Staffan Ericson (editor), Fredrik Stie - Classics in Media Theory (2024, Routledge) [10.4324_9781003432272] - libgen.li.pdf
+- chunk_index: 159
+- importance: 0.8132
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Laura Mulvey (1975) 203 After discussing several ﬁlms as representative of these processes, with Hitchcock as a particularly illustrative example, Mulvey summarises her argu­ ment by highlighting how ﬁlm as a media genre has unique opportunities to create a complex interaction between diﬀerent gazes. She describes how three diﬀerent gazes are associated with ﬁlm: the gaze of the camera, the gaze of the audience and the gaze of the characters. However, Mulvey contends that the latter takes superiority within conventional ﬁlm, due to its illusionistic claim to reality, which contributes to maintaining ‘the neurotic needs of the male ego’ (1975: 18). Finally, to break this illusion – making the readers of the essay (and the spectators of ﬁlm) aware of the mechanisms that lie behind the pleasure associated with conventional ﬁlm – is to be understood as a ‘blow’ against traditional ﬁlm conventions. Although this is not mentioned in the text, it is
+
+## Excerpt 42
+- id: 4950aa9a9435b598a4e502dd
+- qdrant_id: c0ae7669-6d31-5755-ac2e-956cde6a4ed7
+- source: Forest Pyle - Art's Undoing_ In the Wake of a Radical Aestheticism (2021, Fordham University Press) [10.1515_9780823290956] - libgen.li.pdf
+- chunk_index: 146
+- importance: 0.8133
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+we have come to associate with Laura Mulvey’s project would have genuine analytical and explanatory value. The opening scenes introduce a visual dy- namic that reaches its culmination in Salomé’s “Dance of the Seven Veils”: an inherently voyeuristic relationship in which the woman is positioned as the passive object of the male subject’s active and objectifying gaze. Without re- hearsing in detail the psychoanalytic principles and feminist tenets that inform this interpretation, it is important to note how the structure of the gaze is understood by the proponents of feminist ﬁ lm theory to deﬁ ne and delimit the domain of visual culture as such: the double role of woman as “lack” and as the threat of castration is constitutive of the visual ﬁ eld. According to this critical paradigm, patriarchal structures respond to this inherent threat to the stability and consistency of the visual ﬁ eld by assigning a subjectivity to femininity that
+
+## Excerpt 43
+- id: 0d33910a7fc4412cdc335a6f
+- qdrant_id: a9f4b4ab-b317-5e84-a9c8-4b5b3c85f23f
+- source: [SUNY Series, Horizons of Cinema] David Greven - Ghost Faces_ Hollywood and Post-Millennial Masculinity (2016, SUNY Press) - libgen.li (1).pdf
+- chunk_index: 63
+- importance: 0.8013
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+feminist criticism, if it does indeed constitute a consistent trend, of seeing men as “men” in mainstream film insofar as this typing of male screen enti- ties is so crucial to the very meaning of mainstream film itself, its appeal to the broadest swath of audiences lying in recognizable and (that dread term) relatable personae. Laura Mulvey’s work proceeds from the basis of a gender/ sex essentialism that may be dated, as I will show, yet nevertheless continues to be relevant to screen depictions of gender and sex. But it is nevertheless a frustrating aspect of Mulvey’s work—a critic I greatly admire and remain influenced by—that queer issues never come up in her treatment of gender and sexual orthodoxies in the traditional film text. Now more than ever the presence of queerness transforms the issues of screen spectatorship as well as what is placed on the screen. If masculinity has been foregrounded as
+
+## Excerpt 44
+- id: eb8f9ab0237dd9300eccccc8
+- qdrant_id: 101ba5fb-aede-58d6-bc94-1582dec04311
+- source: Robin James - Resilience & Melancholy_ Pop Music, Feminism, Neoliberalism-Zero Books (2015).pdf
+- chunk_index: 257
+- importance: 0.8046
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+part uses Shaviro’s work on post-cinematic media to upgrade these two concepts so they are compatible with post-cinematic aesthetics and MRWaSP politics. The looking in the “Look, I Overcame!” narrative isn’t a gaze or a controlling image, but a deregulated visualization. This concept of MRWaSP visualization will help me unpack the gender-race politics of Beyonce’s “Video Phone,” which I will discuss later in part three of this chapter. (a) Old-School “Male Gazing” and “Controlling Images” Laura Mulvey’s concept of “the male gaze” and Patricia Hill-Collins’s notion of “controlling images” are touchstones for feminist analyses of media. However, they were developed through analyses of historically-specific methods of racialized/gendered image making. Mulvey’s “male gaze” is explicitly cinematic: it is, as the title of her famous article indicates, the structure of “visual pleasure” in classic Hollywood “narrative cinema.” This sort of cinema privileges development,
+
+## Excerpt 45
+- id: c972b15a69997ab3ecaf6d7a
+- qdrant_id: c8ffb747-d9e9-5777-bc0b-cfc4cad0effe
+- source: [Theory Q] Damon R. Young - Making Sex Public and Other Cinematic Fantasies (2018, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 117
+- importance: 0.8103
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+MacKinnon, as for Kant, all desire turns around (­either exemplifies or accom­ modates itself to) this male position. Laura Mulvey, in her work on the gaze, makes a parallel assumption. In her follow-up essay to “Visual Plea­sure,” in which she ponders the position of the empirically female spectator, Mulvey
+
+## Excerpt 46
+- id: 408b6275a22862ff348cc196
+- qdrant_id: 8bc31132-f6c8-53e1-8341-8920c00c1e07
+- source: Louise Child - Dreams, Vampires and Ghosts_ Anthropological Perspectives on the Sacred and Psychology in Film and Television (2023, Bloomsbury Academic) [10.5040_9781350087132] - libgen.li.pdf
+- chunk_index: 325
+- importance: 0.8081
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+in the male characters than developed for her individual storyline (Mulvey, 1999 [1975]: 62, 63–4). Men are in control of the action in these stories, and the narrative arc often tames women who at the start of the film are on glamorous display, into a love relation with the hero that brings her into his possession. Moreover, particularly in film noir, men’s anxieties about women and their bodies (such as castration anxiety) are worked through with storylines in which women are investigated and punished or forgiven as guilty objects (Mulvey, 1999 [1975]: 65). Thus the gaze of the viewer is implicitly understood to be aligned with the individual male gaze, one that reflects sadistic drives as the protagonist moves the action forward. Similarly, De Lauretis (1984: 103–57) argues, using Freudian Oedipal theory, that while male protagonists in narratives take action and move through space, the roles of female characters are often limited to
+
+## Excerpt 47
+- id: 8bba466210646f1dde4c6939
+- qdrant_id: d81662c2-0407-5313-b7b0-15f3ca475f91
+- source: Sue Thornham - Women, Feminism and Media (2007, Edinburgh University Press) [10.1515_9780748629282] - libgen.li.pdf
+- chunk_index: 244
+- importance: 0.8079
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+representing the `woman's story' in mainstream cinema: `For the figure of the woman is aligned with spectacle, space or the image, often in opposition to the linear flow of the plot' (1987: 5). Women, that is, are `to-be-looked-at' (Mulvey 1989a: 25), and as such can only be objects not subjects of the gaze, of the narrative, and of that which drives narrative: desire. Yet the narratives of the `woman's film', self-consciously addressed as they are to a female audience, must at least claim to place female subjectivity, desire and agency at their centre. The result of this contradiction, which is both internal to the structures of cinema and a function of wider cultural constructions of masculinity and femininity, is an instability and incoherence in the structures of both narrative and looking in the `woman's film'. `Ways of looking', argues Doane, are linked not only to what Laura Mulvey calls `sexual objectification' (Mulvey
+
+## Excerpt 48
+- id: fe6d978a97b73d81eec4ffa7
+- qdrant_id: 771bf7a5-ac87-5c9f-876c-5dc7412815ba
+- source: [Oxford Handbooks] Jerrold Levinson - The Oxford Handbook of Aesthetics (2003, Oxford University Press, USA) - libgen.li.pdf
+- chunk_index: 239
+- importance: 0.8019
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+narrative film embodied this so-called male gaze, operating on patterns of male fascination, desire, and pleasure. It was these patterns that Mulvey's essay attempted to analyse—and, in analysing, to destroy. Mulvey's theory of the ‘male gaze’ came in for intense criticism, both by feminists working within a Marxian/psychoanalytic paradigm and by those working outside it. Even feminist film theorists sympathetic to Mulvey's basic approach, such as E. Ann Kaplan, called her to task for oversimplifying the experience of the female spectator. For Mulvey, the female film-goer either identified with the male protagonist or enjoyed the masochistic pleasure of her own objectification (Kaplan 1987: 231). The possibility of an ‘oppositional’ gaze Mulvey had apparently overlooked. But, as bell hooks has argued, black women spectators have long seen films both aware of and resistant to the disabling
+
+## Excerpt 49
+- id: 049314642497582022761cfb
+- qdrant_id: 143310b6-b622-5ee3-8b2a-a6a1a623f0c6
+- source: Postmodern narrative theory (Mark Currie) (Z-Library).pdf
+- chunk_index: 112
+- importance: 0.8174
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+highly visual. Mulvey begins froIn the idea that cinema satisfies 'a primordial wish for pleasurable looking'. Using Lacan's account of the moment when a child recognises its own image in a lTIirror as a criti- cal moment in the constitution of the ego, Mulvey characterises the pleasure of looking in cinema as a process driven by two contradic- tory desires: first, the pleasure of looking at another person' as an object, and second, the narcissistic pleasure of identification with a person on screen. The first desire is that of the libido; the second, that • of the ego. Wl:tereas Booth was careful to exclude the idea of identifi- cation with a fictional character, seeing it as an obstacle to aesthetic pleasure, Mulvey reintroduces it as a way of viewing narrative as one of the places in which the constitution of subjectivity is at stake. In one step, Mulvey leaves behind two cr…
+
+## Excerpt 50
+- id: 580f7a42467420fe2f8b267a
+- qdrant_id: 16fa0916-8cb7-54c3-9ee1-85013d870a01
+- source: jones2014.pdf
+- chunk_index: 105
+- importance: 0.8036
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Introduction 25 working man is thus linked to the gallantee man and his show. If we have missed the erotic implications of this display, the same actor is shown later as Sergeant Bell jokingly revealing a naked Eve to a curious minister as part of the traveller’s Royal Raree Show. Gendered gazing Klammer Schmidt’s roving lanternist crying out subjects for women’s amusement and Goethe’s depiction of a shadow-show with lewd scenes for a, presumably, mixed audience (a world away perhaps from de la Fare’s aristocratic pornography) certainly do caution us in exclusively applying Laura Mulvey’s concept of the male gaze to this stage of optical display. Mulvey argues that women are objectified in film by men who control the camera for male gratification and female debasement.69 Jeanne-Françoise Quinault-Dufresne (1699–1783), the character actress most readily associated with the Comé…
+
+## Excerpt 51
+- id: abc8fc4ecd54938b79f9e65f
+- qdrant_id: 9c190e20-72fd-58a6-b72b-3a429149ddaf
+- source: [SUNY Series, Horizons of Cinema] David Greven - Ghost Faces_ Hollywood and Post-Millennial Masculinity (2016, SUNY Press) - libgen.li (1).pdf
+- chunk_index: 78
+- importance: 0.7957
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+extraordinary powers (the various X-Men films; Chronicle; Man of Steel, Zach Snyder’s 2013 Superman reboot). In whatever manner, their key component is that the male body is put on display, a preoccupation enhanced by the near-inability to create a successful female superhero franchise. Beyond Mulvey? Straight Movie Males and the Sexual Gaze Before turning to a discussion of male body genres, I want to revisit the important issue of gaze theory, since it relates to active and passing forms of looking in film texts and to shifts in patterns of spectatorship that have an impact on how films get made and marketed. Laura Mulvey famously argued in her landmark 1975 Screen essay “Visual Pleasure and Narrative Cinema” that the male gaze dominated mainstream film and that the audience joined in with the onscreen male protagonist in a shared fantasy of narcissistic omnipotence. Her discussion concerned classical Hollywood, but her paradigms were broadly applied, for
+
+## Excerpt 52
+- id: 0dcb561ae327dc7bfcdeacbf
+- qdrant_id: 16eef662-0349-53c2-9168-d3deecd09882
+- source: Mark Jancovich - Horror, The Film Reader (In Focus--Routledge Film Readers) (2001).pdf
+- chunk_index: 271
+- importance: 0.7999
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+When the woman looks LINDA WILLIAMS Whenever the movie screen holds a particularly effective image of terror, little boys and grown men make it a point of honor to look, while little girls and grown women cover their eyes or hide behind the shoulders of their dates. There are excellent reasons for this refusal of the woman to look, not the least of which is that she is often asked to bear witness to her own powerlessness in the face of rape, mutilation and murder. Another excellent reason for the refusal to look is the fact that women are given so little to identify with on the screen. Laura Mulvey’s extremely inﬂuential article on visual pleasure in narrative cinema has best deﬁned this problem in terms of a dominant male look at the woman that leaves no place for the woman’s own pleasure in seeing: she exists only to be looked at.1 Like the female spectator, the female protagonist often fails to look, to return the gaze of
+
+## Excerpt 53
+- id: 76b4a70398d85c4cfb0e692a
+- qdrant_id: 42ff819e-2db0-58a1-ad3c-d5ef1127492a
+- source: Carolyn Korsmeyer - Gender and Aesthetics_ An Introduction (Understanding Feminist Philosophy) (2004) - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.8082
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+their sexual desirability, and sexual desire is an obvious “interest.” One might therefore suspect that the recommended disinterested attitude serves as a safeguard against desire, specifically heterosexual male desire, in order to keep women proper objects of aesthetic judgment along with painting, sculptures, and scenery. Analysis of vision and of what has become known as “the male gaze” pre- sume that the ability to look at others is an indication of sexual and social power.33 Theories of the gaze stress the activity of vision, its mastery and control of the aesthetic object. These theories reject the separation of desire from pleasure, reinstating the erotic, covetous gaze into the core of beauty. The imaginative viewing position prescribed by the spectator of a painting like Gérôme’s is arguably both masculine and heterosexual. As Laura Mulvey puts it, women are assigned the passive status of being-looked-at, whereas
+
+## Excerpt 54
+- id: f7605a2f107933063b9419dc
+- qdrant_id: b7115a78-9597-524e-8720-46fdc28adec0
+- source: Mark Jancovich - Horror, The Film Reader (In Focus--Routledge Film Readers) (2001).pdf
+- chunk_index: 392
+- importance: 0.8028
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+6 E. Ann Kaplan, Women and Film: Both Sides of the Camera (London, 1983), 15. The discussion of the gendered “gaze” is lively and extensive. See above all Laura Mulvey, “Visual Pleasure and Narrative Cinema,” Screen 16 (1975): 6–18; reprinted in Film Theory and Criticism: Introductory Readings, ed. Gerald Mast and Marshall Cohen, 3rd edn. (New York, 1985), 803–16; also Christine Gledhill, “Recent Developments in Feminist Criticism,” Quarterly Review of Film Studies (1978); reprinted in Mast and Cohen, Film Theory and Criticism, 817–45. 7 Robin Wood, “Beauty Bests the Beast,” American Film 8 (1983): 64. 8 The locus classicus in this connection is the view-from-the-cofﬁn shot in Carl Dreyer’s Vampyr, in which the I-camera sees through the eyes of a dead man. See Nash, “Vampyr and the Fantastic,” esp. 32–33. The 1987 remake of The Little Shop of Horrors (itself originally a low-budget horror ﬁlm, made the same year as Psycho in two days) lets us see the dentist
+
+## Excerpt 55
+- id: 24431c3088c74aa376193549
+- qdrant_id: c54c40ca-3c8a-503e-b857-5c1f1028f4cb
+- source: William E Cain, Jeffrey J Williams, John McGowan, Laurie A Finke - The Norton Anthology of Theory and Criticism (2018) - libgen.li.pdf
+- chunk_index: 443
+- importance: 0.8107
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+reassuring rather than dangerous. She examines these pro­cesses in the films of the directors Josef von Sternberg (1894–­1969) and Alfred Hitchcock (1899–­1980). Before the pleasures of mainstream film can be challenged, Mulvey argues, view- ers must be able to break down the cinematic codes that create the controlling male gaze and the illusionistic world that satisfies the desires it invokes. The cinema depends on three looks: that of the camera, that of the audience, and that of the film’s characters. It achieves its illusion of truth and reality (mimesis) by denying or downplaying the first two (the material pro­cess of recording and the critical reading of the viewer) and by emphasizing the last. Only by disrupting the seamlessness of this ­whole visual illusion can women’s subordination to the male gaze be defied. The visual dynamics described in “Visual Plea­sure and Narrat…
+
+## Excerpt 56
+- id: a03691606c939692ce0487e6
+- qdrant_id: d1a47734-a83c-5506-881a-958f1ca00e03
+- source: Todd McGowan, Sheila Kunkle - Lacan and contemporary film (2004, Other Press) - libgen.li.pdf
+- chunk_index: 601
+- importance: 0.8042
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+altogether where the terrain of the political lies. Campion’s reluctance to claim the term “feminist filmmaker” stems in part from the prescriptive nature of feminism and feminist film theory in the 1970s and 1980s. This prescriptive dimension of feminist film theory manifested itself most conspicuously in the work surrounding Laura Mulvey, with its insistence on combating patriarchal narrative and filmic conventions with new feminist alternatives. In “Visual Pleasure and Narrative Cinema,” Mulvey explains the process of viewer identification, in which the viewer identifies with the male hero because the camera identifies with the male hero. The camera focuses on what the male hero is looking at and to this extent also follows the active male hero through the filmic text. This camera/male hero alignment forces the woman into the position of the object of the male gaze. Mulvey’s…
+
+## Excerpt 57
+- id: cad2948b1e714bd16b65b818
+- qdrant_id: b97a2385-2488-5862-94bc-f643391c0043
+- source: Maggie Humm - Feminism and Film (2022, Edinburgh University Press) [10.1515_9781474469388] - libgen.li.pdf
+- chunk_index: 60
+- importance: 0.8014
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Metz - by going in a startling new and feminist direction (Metz 197 4). Mulvey figures cinema as irreducibly shaped by sexual difference, arguing that film is constructed around looks or gazes, which in turn shape editing and narrative, and, further, that these looks are com- pletely and eternally those of men looking at women. As the art historian John Berger had recently and succinctly pointed out 'men act and women appear. Men look at women. Women watch themselves being looked at' (Berger 1972, p. 47). Mulvey's essay marked a huge conceptual leap in film theory: a jump from the ungendered and for- malistic analyses of semiotics to the understanding that film viewing always involves gendered identities. Hugely influential as it was, critics, nevertheless did attack the essay's apparent ahistorical, totalising construction and, as a result, Mulvey went on substantially to revise her assessment in later work (Cowie
+
+## Excerpt 58
+- id: e4867e5eee9de04664da1426
+- qdrant_id: 895215c5-4684-57d1-a4dd-123269542636
+- source: [Theories of Representation and Difference] Mary Ann Doane - The desire to desire _ the woman's film of the 1940s (Indiana University Press) - libgen.li.pdf
+- chunk_index: 25
+- importance: 0.8016
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+an’s film. For the figure of the woman is aligned with spectacle, space, or the image, often in opposition to the linear flow of the plot. From this point of view, there is something about the representation of the woman which is resistant to narrative or narrativization. The problematic status of a genre which purports to produce women’s “stories” thereby becomes apparent. In Laura Mulvey’s now classic article, “Visual Pleasure and Narrative Cinema,” the woman is the object of the fixation and obsession associated with male spectatorial desires — preeminently voyeurism and fetishism.9 The transfixing or immobilizing as¬ pects of the spectacle constituted by the woman work against the forward pull of the narrative. While all the resources of the cinematic apparatus—including framing, lighting, camera movement, and angle—are brought to bear in the alignment of the woman with th…
+
+## Excerpt 59
+- id: 4c06e00c86439e14b553b455
+- qdrant_id: 39abcf29-c01f-56af-8140-2a3933f6d591
+- source: [Routledge Research in Aesthetics] Richard Gilmore - Hitchcock as Philosopher of the Erotic (2024, Routledge) - libgen.li.pdf
+- chunk_index: 281
+- importance: 0.7986
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+uses our scopophilia to make us more philosophical. The Erotic Gaze Laura Mulvey, in her famous essay “Narrative Cinema and Visual Pleasure” provides an acute and very influential critique of Hitchcock’s apparent per­ versity. She accuses Hitchcock of employing two “mechanisms” that pan­ der to ideologically constructed pleasures that are fundamentally perverse: a sadistic pleasure (in which we enjoy the punishment of the law-break­ ing, castrating woman) and a fetishistic scopophilic pleasure that robs the woman of her subjectivity.26 His films do play on a sadistic scopophilia and on the seductions of the “male gaze,” but those things are initial, not final. Her reading of Hitchcock is not inaccurate, just superficial, or at least, more political than aesthetic and philosophical. The “mechanisms” that Mulvey refers to are there. Hitchcock is using mechanisms in his films to engage the audience in very specific ways, but they are, as Fish says, a
+
+## Excerpt 60
+- id: 9578b867163f4dda260de96a
+- qdrant_id: 186b1aa2-09e9-5afe-83e8-1c71e33a651a
+- source: Kenneth MacKinnon - Love, Tears, and the Male Spectator (2002, Fairleigh Dickinson University Press) - libgen.li.pdf
+- chunk_index: 35
+- importance: 0.8013
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+embraced and developed by, for example, Laura Mulvey seems highly informed on themes of domination/submission, activity/pas- sivity, in relation to diegetic sexual relations. As such, it is an excel- lent guide to the ﬁrst parts of most dominant movies’ narratives. Where it seems deﬁcient is in describing male/female relations after the love story element has ‘‘taken off’’ in the narrative. Consider- ation is given in this chapter to thoughts on the central importance and on the chief components and implications of love in Freud, Lacan, and Roland Barthes. Chapter 7 If one of the aims of the present study is to bring history to bear on 1970s theorization, then it is peculiarly important to situate the ﬁlms of the ’ﬁfties within their own period, as well as to re-open questions of how Hitchcock ﬁlms, for example, have been harnessed to the project of precisely illustrating the operations …
+
+## Excerpt 61
+- id: 7a23cd0b860ab615b4d13c42
+- qdrant_id: 9336addd-c519-5ead-a083-865dfc72c9aa
+- source: Lutz Koepnick - The Long Take_ Art Cinema and the Wondrous (2017, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 67
+- importance: 0.8078
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Introduction 22 ⊳ a willful dissolution of narrative, fiction, and cinema’s illusion of movement so that the indexical force of cinematic represen- tation and “the time of registration can come to the fore.”21 By halting a film’s flow of time, we can ponder the image and use moments of attentive stillness as a means to move visual plea- sure beyond the classical template of voyeuristic distance. In Mulvey’s more recent work we meet the notion of the pos- sessive spectator: a highly attentive viewer empowered by digi­ tal technology to delay or freeze narrative temporality to most intensely consume the image of the star, in particular in form of a close-­up. Possessive viewership suspends the presumed narrative laws of cause and effect; it willfully interrupts a film’s drive and its elusive progression of images in hopes of gaining control over the appearance of desired objects and thus turn acts of viewing into means of fetishistic pleasure. As Mulvey
+
+## Excerpt 62
+- id: d64b9b8dbc320fbb8eb820a4
+- qdrant_id: e2b5260b-196d-5e75-a1a2-817f03e7d663
+- source: Abject Terrors Surveying the Modern and Postmodern Horror Film (Magistrale, Tony) (Z-Library).pdf
+- chunk_index: 33
+- importance: 0.8012
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Clover’s thesis is, in part, a response to film theory’s fascination in the 1980s with the concept of viewer identification; that is, how point of view, camera angle, montage, and mise-en-scène shape our perception of an on-scene personality. Laura Mulvey’s argument that the audience is aligned with the camera’s exploita- tion of the female as an object of glamour is called into question by Clover’s insis- tence that viewer identification with the male gaze is less static and solid. Indeed, it is evident that in postmodern film criticism regarding gender and the horror genre the scholarship reflects a movement away from Mulvey’s reductive victimization of woman at the hands and eyes of the dominant male monster-spectator and terror theories | 9
+
+## Excerpt 63
+- id: ac077b186b295b406676238a
+- qdrant_id: 714ed41f-9757-5d2f-886e-6118cbfb8768
+- source: Sue Thornham - Women, Feminism and Media (2007, Edinburgh University Press) [10.1515_9780748629282] - libgen.li.pdf
+- chunk_index: 267
+- importance: 0.8007
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+active `male' position within narrative; insofar as we are visually and narratively positioned by our gender, we will also be constrained to identify with Laura Mulvey calls the `to-be-looked-at-ness' of woman as passive image. This account of narrative is useful in a number of ways. It separates desire, the mainspring of all narrative, from the culturally sanctioned public forms through which it is expressed. It explains how women, as readers or spectators, can be `seduced' into complicity with public narratives which position them as sexual object, monster or obstacle: as readers we are caught up in the movement of desire which drives the narrative, even as it works towards a closure which places us ± visually and narratively ± as object of (or obstacle to) that desire. What this account does not do, however, is offer an explanation of how this dominant narrative construction can be contested. De Lauretis is clear
+
+## Excerpt 64
+- id: 11fac04004ab7ce19237444b
+- qdrant_id: ea10d856-3d17-56c8-87ac-8331ece1a3f8
+- source: Robin James - Resilience & Melancholy_ Pop Music, Feminism, Neoliberalism-Zero Books (2015).pdf
+- chunk_index: 261
+- importance: 0.7885
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+only by obscuring and denying the privileges that patriarchy constantly provides them. Obscuring both the work of cinematographic art and of femininity/women, the male gaze makes both classic film form and conventional patriarchy seem more coherent and natural than they really are. The male gaze performs obscures both of these facts at the same time, often by means of fragmenting and objectifiying whatever in the film is feminized (e.g., women characters). This prevents feminized cinematic elements from attaining the development, resolution, and wholeness expected of a film’s primary narrative features (like the protagonist). For example, classic cinema often chops up women’s bodies into their constituent parts through, for example, “conventional close-ups of legs (Dietrich, for instance) or a face (Garbo).” (Mulvey 838). Unlike fully human, fully-realized subjects, who exist, as Mulvey claims, as desiring
+
+## Excerpt 65
+- id: 1462eed29871b15373187124
+- qdrant_id: ff225b2c-fb34-58c4-8460-f7581bc4d54e
+- source: University of Bristol. Theatre Collection. Mander and Mitchenson - Fatal Desire_ Women, Sexuality, and the English Stage, 1660–1720 (2006, Cornell University Press_Crnell University Press) - libgen.li.pdf
+- chunk_index: 31
+- importance: 0.7885
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+voyeuristic gaze."10 Strongly influenced by the work of Freud and La can, these studies probe the workings of these codes and the ways in which they affect the spectator, much as early writings on the theater probed the effect of theater on its audience. The genesis of this psychoanalytic and semiotic approach was Laura Mulvey's influential 1975 article, "Visual Pleasure and Narrative Cin- ema." Basing her argument on Freud's discussion of scopophilia, Mulvey examined the sources of scopic pleasure in cinema, finding them located in the display of the female figure: In their traditional exhibitionist role women are simultaneously looked at and displayed, with their appearance coded for strong visual and erotic impact so that they can be said to connote to-be-looked-at-ness. Woman dis- played as sexual object is the leitmotif of erotic spectacle: from pin-ups to 9· To see the shift in attitudes, one need only compare George Lillo's The London Mer-
+
+## Excerpt 66
+- id: b551d39f8abffea03d8711bb
+- qdrant_id: 28c6d449-997d-5aca-8622-20161f219744
+- source: Helen McDonald - Erotic Ambiguities_ The Female Nude in Art (2000, Routledge) - libgen.li.pdf
+- chunk_index: 70
+- importance: 0.7945
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+with which the male spectator identiﬁes narcissistically. In a critique of the way the ‘mass media’ constructed images of ‘woman as spectacle’, Mulvey referred in particular to the art of Allen Jones. Rather than focusing on ambiguity in Jones’s images of ‘woman’, Mulvey concluded that ‘the true exhibit is always the phallus’ (my emphasis), and that ‘Women are simply the scenery on to which men project their narcissistic fantasies’ (Mulvey 1987: 131). The theory of the male gaze became the framework for a feminist critique of representation, both in art and criticism of the 1980s. For example, the script superimposed on Barbara Kruger’s photocomposition, Untitled (Your gaze hits the side of my face) disrupts hierarchical, ‘phallocentric’ modes of visual display (Plate 1). It deﬁantly challenges the ‘ideal spectator’ in direct speech, while defacing the image of a sculpted female head in proﬁle that might have
+
+## Excerpt 67
+- id: c7896e240424a1ce7cb344a1
+- qdrant_id: 4823a954-6976-56ad-b0db-53ea67056785
+- source: Linda Badley - Film, Horror, and the Body Fantastic (1995, Greenwood Publishing Group) - libgen.li.pdf
+- chunk_index: 468
+- importance: 0.7937
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+verted "visual pleasure" as Mulvey had defined it. As Barbara Creed suggests, it turned men into women {"From Here to Modernity" 409-12), and altered the gaze itself. Therefore a bisexual, masochistic aesthetic, such as the one proposed by Carol Clover {192) and, earlier, Gaylyn Studlar (206-08), accounts for this kind of horror better than Mulvey'~ aesthetic of sadism, voyeurism and fetishism. Studlar argues that the cinematic apparatus and a masochistic aesthetic offer identificatory positions for [both] male and female spectators that reintegrate psychic bisexuality, offer the sensual pleasures of poly- morphous sexuality, and make the male and female one in their identification with and desire for the pre-Oedipal mother. (192) We go to the movies not simply to express "gender trouble," or hostility toward the "other," but to recover the experience of the so-called perver- …
+
+## Excerpt 68
+- id: a0b748da55e469ac3b393905
+- qdrant_id: 52b39f9c-9013-5673-8916-2594de329fe7
+- source: Matthew Flisfeder (auth.) - The Symbolic, the Sublime, and Slavoj Žižek’s Theory of Film (2012, Palgrave Macmillan) [10.1057_9781137110749] - libgen.li.pdf
+- chunk_index: 128
+- importance: 0.7860
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+agency of the third, thus producing a “male gaze” in the cinema, and it is the latter that subjectivizes the spectator by way of his or her identification with the image of the male protagonist as a misrecognition of his or her own Ego- ideal. Hitchcock, here, is again discussed as a way of bringing clarity to the concept of the (male) gaze. Films such as Rear Window (1954), Vertigo (1958), and Marnie (1964) all position the male protagonist as the bearer of the gaze and the female character as the object of the gaze. Putting male and female characters into these positions shows his willingness, accord- ing to Mulvey, to work in accordance with a kind of “ideological correct- ness.” Even his heroes, Mulvey notes, exemplify the relationship between
+
+## Excerpt 69
+- id: 370f597719f3c86811460802
+- qdrant_id: aae60adc-de00-5dd2-a8fb-9c5832169f1e
+- source: [Routledge literature companions] Edgar-Hunt, Robert, editor Johnson, Wayne, 1961- editor - THE ROUTLEDGE COMPANION TO FOLK HORROR (2024, Routledge) - libgen.li.pdf
+- chunk_index: 219
+- importance: 0.7910
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+For instance, after first rousing the creature, we see him standing naked outside the house in which Harper is staying. The room she is in is dominated by large patio windows, through which she is the object of his gaze. The prominent presence of his phallus, as he watches, draws further atten­ tion (as if any more were needed) to the fact that we are witnessing a literalisation of what Laura Mulvey famously named the ‘male gaze’ (Mulvey 2009, 14). This is the voyeuristic, scopophilia, and erotic pleasure upon which much of culture (and cinema) is constituted, in which men derive sexual pleasure from looking at women, entrenching the notion that women are to be looked at (as passive object) whilst men are the bearers of the look (as active consumer). Incidentally, this is also how pornography works. Elsewhere in the film, before the final act in which she is repeat­ edly physically assaulted, Harper is subjected to gaslighting by an unsympathetic priest who tries
+
+## Excerpt 70
+- id: 82b98236e36b63f7d91d68e3
+- qdrant_id: 41ee6b0c-989d-5e06-ac15-fd9d94e8fc4b
+- source: Julian Wolfreys - Literary Theories_ A Reader and Guide (2022, Edinburgh University Press) [10.1515_9780748672776] - libgen.li.pdf
+- chunk_index: 192
+- importance: 0.7862
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Laura Mulvey's theorisation of the male gaze, Chow argues, in autoethnogra- phy 'the experience of being looked at' and the 'memory of past objecthood' is 'the primary event in cross-cultural representation'. Hence, the anthropological impasse of a world divided between subject and object, seer and seen, active and passive, us and them is no longer tenable: "'viewed object" is now looking at "viewing subject" looking'. In a memorable scene in Zhang YiMou's ]uDou, the heroine deliberately disrobes and displays her bruised body before her peeping-tom nephew, the voyeurism and eroticism of the spectacle of the female body rapidly fades into a self-conscious realisation of the violence of the structures which enable such an scene. Likewise, Chow's autoethnographic exchanges are forms of cross-cultural narrative by which the 'less powerful (cultures) negotiate the [violence of the] …
+
+## Excerpt 71
+- id: 17a7db3e1589fc61b70751ad
+- qdrant_id: b93b0e20-9c90-5797-9c72-19d045c06af7
+- source: Peg Zeglin Brand (ed) - Beauty Unlimited-Indiana University Press (2013).pdf
+- chunk_index: 67
+- importance: 0.7833
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+expressions of beauty, particularly by means of the use of the meaning-laden female body. When film theorist Laura Mulvey introduced her theory of the male gaze in the 1970s, she emphasized the passivity of the female sitter who is positioned for the scopophilic gaze of the male viewer.23 When bell hooks suggested an oppositional gaze, she called attention to the predominance of images of white women looked at by the viewer of color.24 Yet many aesthetes continue to promote the same gaze that objectifies, sexualizes, and stultifies the female on view.25 Alternative modes of reading have been suggested by feminist theorists over the years that reveal multiple meanings below the sur- face—what philosopher Carolyn Korsmeyer so aptly calls “deep gender.”26 How might we probe for deep gender, and how might we cast the difference between the approaches in perception and interpretation of artworks such as MwangiHutter’s and Manet’s?
+
+## Excerpt 72
+- id: 9d9338e359d4d50a29a38d6d
+- qdrant_id: 30f1a797-2183-5b6b-8467-9e0c40976ad6
+- source: Linda Badley - Film, Horror, and the Body Fantastic (1995, Greenwood Publishing Group) - libgen.li.pdf
+- chunk_index: 467
+- importance: 0.7930
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+The film explores the interface of gender, politics, and medium. Several of the later films go beyond this diagnostic level to postulate a female gaze. The male hysteric is in a sense becoming a woman-meta- morphosing', giving birth to a new body and a new subject. He is in the woman's positiob as both spectacle and gaze. As in The Company of Wolves, a woman often appropriates the gaze, telling this story of his and every body's metamorphosis. He meanwhile experiences the self-division that David Cronenberg's Anatomy Lessons 127 characterizes the female experience of subjectivity. The gaze is feminized, displacing and re-gendering roles. Cronenberg's The Fly {1986) and Dead Ringers {1988) are examples. The narcissistic-hysterical discourse of th~ biological horror film sub- verted "visual pleasure" as Mulvey had defined it. As Barbara Creed suggests, it turned men into women …
+
+## Excerpt 73
+- id: 50e42ac2888b60845bed10f3
+- qdrant_id: cabfe209-ffe0-59b1-9706-928b1b0e6bd7
+- source: Amelia DeFalco - Uncanny Subjects_ Aging in Contemporary Narrative (2010, Ohio State University Press) - libgen.li.pdf
+- chunk_index: 452
+- importance: 0.7854
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+prove especially devastating for women. Cinema manifests the oppressive burden of the image for women that can make the unavoidable changes of age so debilitating (to both careers and psyches). The self-consciously aging “star” protagonists of films such as Sunset Boulevard and All About Eve find themselves “marked by time twice over: as aging women they are marked as outside desire, and as aging stars, as image, they are both frozen and transitory” (Brooks 233). Feminist film criticism addresses the problem posed by cinematic visuality for women within patriarchal cul- ture. According to Laura Mulvey, the dehumanizing condition of “woman as body” is largely inescapable in narrative films, which rely on women connoting “to-be-looked-at-ness” for the endowment of audience pleasure (33). In her groundbreaking article on gendered visual pleasure, Mulvey explains how narrative fi…
+
+## Excerpt 74
+- id: 1a8e6c1d294e1bf99a1b74f2
+- qdrant_id: 9330ef52-afdc-57fe-92d5-ba3ac448b239
+- source: Diana Fuss (ed.) - Inside_out_ Lesbian Theories, Gay Theories (1991, Routledge) - libgen.li.pdf
+- chunk_index: 170
+- importance: 0.7752
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+"Visual Pleasure and Narrative Cinema," Visual and Other Pleasures (Blooming· ton: University of Indiana Press, 1989), 14-26. For a helpful response to some of the elisions of Mulvey's argument, see Steve Neale, "Masculinity as Spectacle," Screen 24, no. 6 (NovemberlDecember 1983): 2-16. 14. See, for one example, the 1950s "'educational films" on dating and "social hygienen included in the 1989 documentary Heavy Petting (Fossil Films). These educational films-with such titles as "How Much Affection?," "Dating: Do's and Don'ts," and "How to Say No"-instruct young women to restrain (politely) their male companions while admonishing young men to restrain themselves. 15. Joe Hyams, "The Rock Hudson Story," Photoplay (February 1957): 90. 16. Hyams, "Why Woman Are In Love With Rock Hudson," 52. 17. Hyams, "Why Women Are In Love With Rock Hudson," 85. 18. Eleanor Harris, "Rock Hudson, Why He's Number 1," Look, 18 March 1958, 48. 19.
+
+## Excerpt 75
+- id: ca20b6e592cb486f891e71e2
+- qdrant_id: fce15a6a-276d-5c6a-b5a6-c00de4cd6249
+- source: [Film and Culture Series] Todd McGowan - The Impossible David Lynch (Film and Culture Series) (2007, Columbia University Press) - libgen.li.pdf
+- chunk_index: 789
+- importance: 0.7915
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+"male gaze" has becn tnought to do. Insteau, the gaze indicates the view­ ing subj ect's failure of master)', the moment at which the subject encoun­ ters an object in ¡he visual freid that testifies ro the subject's involvement in that field through hc[/his desire. Encountering the gaze, rhe subject ccases ro have a sense of safe distance from whar sheihe sees and the sense of in­ vulnerability that comes from distanc IO. 9. The two ways that Ñlerrick appears in the film-as inJccessible objecr and as oruinary object assimilated into the visual ficld- suggcst that he d nes not function as a figure of the sublime, rhough this is whal we m ight cx­ pect given his extreme disfiguren,ent. For Lynch, unlike a sublime figure, Merrick does not ,halter the field of representario n. To put ir in Lacan's rerms, he is not das Ding, the Thing emhodying the ultimare en joym ent. The sublime Thing is an ioescapable presence in !he visual field , w hereas
+
+## Excerpt 76
+- id: 4b95dac6be55df14958e1026
+- qdrant_id: 3e7b5736-8cf0-5a3f-b073-06e2dd843d10
+- source: Lisa Downing, Libby Saxton - Film and Ethics_ Foreclosed Encounters (2010, Routledge) - libgen.li.pdf
+- chunk_index: 459
+- importance: 0.7808
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+the gendered codes of voyeurism, such that ‘Monsieur Hire … sets up the gaze as male but only to bring into question the existing structures of looking in the cinema which are based on the active/male, passive/female dichotomy’.2 The gaze is indeed set up as male in the very early stages of the ﬁlm. The credits, accompanied by a baroque score by Michael Nyman, give way to a spectacle of a dead female body lying in a ﬁeld. The camera pans upwards to show a detective (André Wilms) watching the corpse intently. He then muses, via a voice-over, on the sad fate of the victim. A few frames later, we see the body lying in the morgue and the policeman taking photographs of the dead girl’s face. The male gaze takes possessive mastery of this inert female in the most radical way: it immortalizes her mortality. Following this shot of the dead child, we cut to a live child, playing a game of hide an…
+
+## Excerpt 77
+- id: c7bdbdd9fe38ab0ee0814c7a
+- qdrant_id: a65db8d9-a928-5908-b4dc-838707105f8c
+- source: Stella Bruzzi - Men's Cinema_ Masculinity and Mise-en-Scene in Hollywood (2013, Edinburgh University Press) [10.1515_9780748676170] - libgen.li.pdf
+- chunk_index: 1
+- importance: 0.7840
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Contents List of figures vi Acknowledgements ix Introduction: towards a masculine aesthetic 1 1. How mise en scène tells the man’s story 30 2. Towards a masculine aesthetic 68 3. Men’s cinema 96 Bibliography 170 Index 176
+
+## Excerpt 78
+- id: 5619d73dd7ebdf2b96d11bcd
+- qdrant_id: 6505b8bb-6d95-52c5-88b2-f7457c52cfd4
+- source: Feminist film theorists_ Laura Mulvey, Kaja Silverman, -- Chaudhuri, Shohini -- 2006 -- London ; New York_ Routledge -- 9780415324335 -- 7d4dcaa1e21de4deb206d8337eae0708 -- Anna’s Archive.pdf
+- chunk_index: 416
+- importance: 0.7856
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+topic of Mulvey’s newest book Death 24 x a Second (2005). Here, Mulvey reconsiders ‘Visual Pleasure and Narrative Cinema’ in the light of new technologies, which, she argues, can produce new modes of spectatorship, including ‘pensive’ and ‘possessive’ spectators. AFTER MULVEY, SILVERMAN, DE LAURETIS, AND CREED 123
+
+## Excerpt 79
+- id: 43b3418dbb85fdda61c0a51d
+- qdrant_id: b73b4fce-c676-5f54-a181-942bf95cba3f
+- source: Michele Aaron - The Body's Perilous Pleasures_ Dangerous Desires and Contemporary Culture (2022, Edinburgh University Press) [10.1515_9780585159225] - libgen.li.pdf
+- chunk_index: 102
+- importance: 0.7701
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+After Mulvey which his looks are allowed to be of even momentary conscious interest to 'real male' subjects. NOTES 1. Laura Mulvey, Visual and Other Pleasures (London: Macmillan, 1989), pp. 14-26. 2. Mulvey, Visual, p. 20. 3. Above all, within the period of 'classic' Hollywood and of the studio system. 4. Mulvey, Visual, pp. 29-38. 5. Richard Dyer, 'Don't Look Now: The Male Pin-Up', in The Sexual Subject: A Screen Reader in Sexuality (London and New York: Routledge, 1992). 6. Steve Neale, 'Masculinity as Spectacle: Reflections on Men and Mainstream Cinema', Screen, 24 (6) November-December 1983. 7. See Kaja Silverman, 'Masochism and Male Subjectivity', in Con- stance Penley and Sharon Willis (eds), 'Male Trouble' Special Issue, Camera Obscura, 17 May 1988. 8. Steve Neale, 'Chariots of Fire, Images of Men', Screen, 23 (3-4) Sep- tember-October 1982. 9. For fuller detail,…
+
+## Excerpt 80
+- id: 3e6d28f5b6065be27a7c9128
+- qdrant_id: ae7d839b-8087-53b2-a2d7-2bebc3d76e28
+- source: Mark Jancovich - Horror, The Film Reader (In Focus--Routledge Film Readers) (2001).pdf
+- chunk_index: 295
+- importance: 0.7845
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+Notes 1 Laura Mulvey, “Visual Pleasure and Narrative Cinema,” Screen, vol. 16, no. 3 (Autumn 1975), pp. 6–18. See also John Berger’s description of the different “social presence” of the woman in western painting and advertisement, in Ways of Seeing (London: Penguin Books, 1978), pp. 46–47. Berger argues that where the man in such works simply “surveys” the woman before acting towards her, the woman is split into a “surveyor” and a “surveyed.” In other words, she is constantly aware of being looked at, even as she herself looks. Mary Ann WHEN THE WOMAN LOOKS 65

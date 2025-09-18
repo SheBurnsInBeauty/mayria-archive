@@ -1,0 +1,1216 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "83cc17f10b44aaa4992de6f2",
+      "qdrant_id": "c00401dd-5985-511f-ad95-dab74ea4b9e7",
+      "text": "and other phenomenological thinkers. ­Here, of course, we should acknowl- edge that feminist thinkers continued to highlight the importance of feeling and embodiment even when such approaches fell out of ­favor; key examples would include Iris Young’s work in po­liti­cal theory and the phenomenology of the body; Donna Haraway’s work on the intertwining of love and knowledge; Jane Tompkins’s emphasis on the affective dimensions of reading; and bell hooks’s focus on the raced as well as gendered aspects of emotional life. Such approaches have recently been revitalized by critics like Sara Ahmed, who appropriates and extends phenomenology as a valuable resource for elaborat- ing the affective textures of personal and transpersonal experience, or what Ahmed calls “economies of touch” that unfold “the social experience of dwell- ing with other bodies.”19 Recent work on affect often de…",
+      "source": "Elizabeth S. Anker (editor)_ Rita Felski (editor) - Critique and Postcritique (2017, Duke University Press) [10.1515_9780822373049] - libgen.li.pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.79182684,
+      "importance": 0.8202423453330994,
+      "final_score": 0.7918266654014587
+    },
+    {
+      "id": "d8ad0feeb692da16034835c7",
+      "qdrant_id": "b6b00182-d58f-5c51-8fb1-27322f3018dd",
+      "text": "present, is one that all contributors would endorse. What, then, are the affects that can enable feminism to learn from the past and move with purpose towards the future? This is one of the important ques- tions suggested by Sara Ahmed in chapter 12 as she returns to the relation between theory and practice, not to map out a series of programmes but, rather, to understand how emotions work ‘as forms of mediation between knowledge/theory and practice/activism’. This involves a close reading of the emotions. Some emotions that inform feminism may also be implicated in the very power relations that feminism critiques. For example, as Ahmed discusses, feminists’ senses of pain and anger are, for Wendy Brown, emotions that continue to tie feminists to a position of subordination from which they should be moving. But Ahmed also shows, through the work of Audre Lorde, how pain and anger can …",
+      "source": "Mary Eagleton - A Concise Companion to Feminist Theory (Concise Companions to Literature and Culture) (2003) - libgen.li.pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.780519,
+      "importance": 0.8094796538352966,
+      "final_score": 0.7805190682411194
+    },
+    {
+      "id": "0364c6b3e24155c12d568b99",
+      "qdrant_id": "d8f7c9f5-4f62-5d87-b98b-5fbbe101178b",
+      "text": "Notes on Contributors vii Acknowledgements xi Introduction Mary Eagleton 1 1 Place and Space Linda McDowell 11 2 Time Krista Cowman and Louise A. Jackson 32 3 Class Rosemary Hennessy 53 4 ‘Race’ Kum-Kum Bhavnani and Meg Coulson 73 5 Sexuality Rey Chow 93 6 Subjects Chris Weedon 111 7 Language Sara Mills 133 v Contents 8 Literature Mary Eagleton 153 9 The Visual Griselda Pollock 173 10 Feminist Philosophies Rosi Braidotti 195 11 Cyberculture Jenny Wolmark 215 12 Feminist Futures Sara Ahmed 236 Select Bibliography 255 Index 257 Contents vi",
+      "source": "Mary Eagleton - A Concise Companion to Feminist Theory (Concise Companions to Literature and Culture) (2003) - libgen.li.pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.76513165,
+      "importance": 0.8020263314247131,
+      "final_score": 0.7651315927505493
+    },
+    {
+      "id": "fec12bb8023e7c3ab43d0f63",
+      "qdrant_id": "097ae7f1-ef96-55c1-953f-30f4941a73ed",
+      "text": "30 Sara Ahmed My essay contributes to what has been described by Patricia Clough (2007) as ‘‘the a√ective turn’’ by turning to the question of how we can theorize positive a√ect and the politics of good feeling. If it is true to say that much recent work in cultural studies has investigated bad feelings (shame, disgust, hate, fear, and so on), it might be useful to take good feeling as our starting point, without presuming that the distinction between good and bad will always hold. Of course, we cannot conﬂate happiness with good feeling. As Darrin McMahon (2006) has argued in his monumental history of happiness, the association of happiness with feeling is a modern one, in circulation from the eighteenth century onward. If happiness now evokes good feeling, then we can consider how feelings participate in making things good. To explore happiness using the language of a√ect is to conside…",
+      "source": "Melissa Gregg (editor)_ Gregory J. Seigworth (editor)_ Sara Ahme - The Affect Theory Reader (2010, Duke University Press) [10.1515_9780822393047] - libgen.li.pdf",
+      "chunk_index": 109,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7581921,
+      "importance": 0.7866144180297852,
+      "final_score": 0.7581924200057983
+    },
+    {
+      "id": "2381628fd1366e89b0b8d9ad",
+      "qdrant_id": "894b093f-9b43-5b60-a4cc-23ed39650304",
+      "text": "moralism of #MeToo and the transgressive tradition of sex as neces- sarily troubling is worthy of deconstruction, and indeed deconstructs itself. Rather than think of the feminist killjoy as a limiting accident that befalls the natural and original condition of edgy, jouissance-­ laden, and transgressive sex, and rather than think of feminism and #MeToo as movements that have gone too far, and that we need to turn back to a feminism or queer theory that was less punitive and moral, it might be interesting to think of the feminist killjoy and #MeToo as the most troubling and sexually transgressive of forces. Here, I think it’s imperative to look at Sara Ahmed’s conception of the killjoy, not as someone who wants to fix feminism or antiracism into a series of rigid moralisms but as someone who seeks to make manifest the fixity of violence that presents itself in the seemingly sq…",
+      "source": "Jean-Luc Nancy_ Irving Goh - The Deconstruction of Sex (2021, Duke University Press) [10.1515_9781478021643] - libgen.li.pdf",
+      "chunk_index": 257,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7541123,
+      "importance": 0.7850778698921204,
+      "final_score": 0.7541122436523438
+    },
+    {
+      "id": "46c91addb886dd7d80d9f74a",
+      "qdrant_id": "0af9cebf-7753-57e1-a3ab-f6c17add602e",
+      "text": "tions, feelings, moods, or sensations ­people experience during encounters with infrastructural objects, sites, and pro­cesses.” In her articulation ­there, con­ sidering the theme of affect in relation to prob­lems of infrastructure would primarily mean bringing to bear a frame/phenomenology of the personal, embodied, psychological (“dispositions, feelings, moods, or sensations ­people experience”).10 Yet that is not the main meaning of the work on the scale of affect as I mobilize it in this book. Instead, in the lineage of Sianne Ngai and other feminist critics following Eve Sedgwick (to some degree Sara Ahmed",
+      "source": "Miryam Sas - Feeling Media_ Potentiality and the Afterlife of Art (2022, Duke University Press) [10.1515_9781478023098] - libgen.li.pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.75406116,
+      "importance": 0.7890661358833313,
+      "final_score": 0.7540610432624817
+    },
+    {
+      "id": "30020c93b4022c6499c3cd93",
+      "qdrant_id": "07f07997-a05c-5ff5-9eb3-32c712811bd7",
+      "text": "have never seen on her dresser, suggesting that she lost her own son, and that her recovery involves “saving” another boy since she could not save her own. However, rather than taking the psychoanalytical route, which would very well be possible given that psychoanalytical references abound in Dolan’s oeuvre, I will take a detour through queer theory and Sara Ahmed’s proposition in The Promise of Happiness. Combining philosophy and feminist cultural studies, Sara Ahmed looks at how the individual’s desire, or social imperative, to be happy, is actually condi- tional to the fulfillment of affective, moral, and ideological conditions, chief of which is the belief that we will be made happy by taking part in that which is deemed good, and that by being happy ourselves, we will make others happy. For Ahmed, happiness is a promise that directs us toward certain life choices and away…",
+      "source": "Andrée Lafontaine - ReFocus_ The Films of Xavier Dolan (2022, Edinburgh University Press) [10.1515_9781474444590] - libgen.li.pdf",
+      "chunk_index": 147,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.75344,
+      "importance": 0.7858762741088867,
+      "final_score": 0.7534398436546326
+    },
+    {
+      "id": "a060a8f25446ff3f71bab3ee",
+      "qdrant_id": "c5a65c5a-f473-54b3-95aa-bcad0a0a3689",
+      "text": "||^bution of happiness to particular objects cc social ideals; the l^ iru s t kiUjjoy, the u nhappy qiieer, the angry black woman, and the naElandidic migrant. Through her readings she raises C!^4cal questions about the moral order imposed by the injjunctiqn to be “Wfiat couldbe mere naturalized and lesss subject to ideological critique than happiness? How a^^we to get critical perspective pn it? Throiagh her readir^s pf tens and films, Sara Ahmed K^^iows how this might work. By reveaUng the oompleidty and ambivalence of happirt^, she itvtovenes in several fields—rndudiiig queer and feminist theory, aSect studies, and critical theory—in a genuinely Tvew and eicitiBg ^ray.* ^ B R LOV L-, autht* of Feeling Bocfewcrd; Lossatid the Politics 0/Queer ff is fory a time when happine^ studio are all the rage and feminissi is accused of destroying ^^men’s happiness, Sara Ahmed cffers a bdd…",
+      "source": "Sara Ahmed - The promise of happiness (2010) - libgen.li.pdf",
+      "chunk_index": 188,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7518538,
+      "importance": 0.7870861291885376,
+      "final_score": 0.7518537044525146
+    },
+    {
+      "id": "5973ebb046061314b3a19116",
+      "qdrant_id": "9a260326-b7b1-582d-90fc-8aaffc4d91dd",
+      "text": "ments it asks our bodies to make in relation to its narrative, algorithms, and images. Its mechanics elicit feelings that complement the narrative without subsuming the differences between our experiences and those of the narrator. At the interface, it holds difference and sameness—­and com- putation and representation—­at once. For Sara Ahmed, affect names the orienting, disorienting, and rela­tional qualities of emotions—­the way “emotions work to shape the ‘surfaces’ of individual and collective bodies” and “how bodies take shape through tending toward objects that are reachable, which are available within the bodily horizon.”31 Following Ahmed and building on the preceding chap- ter’s discussion of Silvan Tomkins’s theory of the affects, we can jointly call into question versions of game analysis and affect theory that suggest that analyzing affect and/or video games fundame…",
+      "source": "Anable, Aubrey - Playing with feelings_ video games and affect (2019, University of Minnesota Press) - libgen.li (2).pdf",
+      "chunk_index": 245,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7493379,
+      "importance": 0.793243944644928,
+      "final_score": 0.7493380308151245
+    },
+    {
+      "id": "d22ca000550c81b69d303a0a",
+      "qdrant_id": "4da12b31-fd64-51ad-b967-09a55bfe59ac",
+      "text": "how we think we should feel. To feel the gap might be to feel a sense of disappointment.’9 Ahmed as a feminist cannot and will not concur and comply with the familial consensus on happiness, in the face of the persistence of unhappy rea- lities like sexism. The resulting restricted range of possible communions leave her ‘at odds with the performance of good feeling’ where ‘happiness is sus- tained by erasing the signs of not getting along’.10 In this atmosphere of ‘rigid domestic ideology’11 the feminist killjoy is perceived as being unhappy herself because she broaches unwelcome subjects and this brings dissensus and unhappiness – or as Ahmed calls this trope ‘the myth that feminists kill joy because they are joyless’.12 By seeking out and researching literature on happiness and the place of women in the family, Ahmed is evidently breaching the very duties she ﬁnds outlined there. She reads Rousseau’s Emile published in 1762 as an instructive",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 255,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7488198,
+      "importance": 0.7779209017753601,
+      "final_score": 0.7488199472427368
+    },
+    {
+      "id": "7e0ccd2c4f38d0994d415ac0",
+      "qdrant_id": "5442822d-77a7-5c90-b248-3bd6678e618c",
+      "text": "simultaneously and in interaction. Before we look to more thorough intro- ductions to each individual essay I can give a brief exemplary overview of some aspects of the humanity model that it has been necessary to undo and/or rework, and give the shortest of descriptions of how some writers do that. Some of the most groundbreaking work in rethinking the subject and pro- duction of knowledge over recent decades has been carried out by feminist scholars: a long series of writers (all of whom couldn’t possibly be named here, but including, for example, Luce Irigaray and Judith Butler) have exposed and undone some of the limitations, prejudices and injustices inherent in the enshrining of the male viewpoint and voice as the standard subject norm. Sara Ahmed follows in that feminist tradition with her analysis of how ‘happiness’ is used as a normative tool to ensure conformity to and coherence in the bour- geois social model. The work of trans activist and writer Paul B. Preciado is in",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 83,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7474084,
+      "importance": 0.7912452220916748,
+      "final_score": 0.747408390045166
+    },
+    {
+      "id": "37a3d0230cbfe5f6014dcd59",
+      "qdrant_id": "de44df51-7ba5-5719-8dd3-edc0f48c20ec",
+      "text": "to her recognition that the truth of her desire deviated from the happiness script that she was being asked to accept. We all know that this figure has been problematized—taken to task for the white middle-class privilege she represents—and Ahmed does not ignore these complexities. But ultimately she is interested in the fact that this woman, who had been taught to desire the comforts of heteropatriarchal domesticity, came to see that what was supposed to make her happy made her despondent. For many women in the 1960s, the realization that they did not actually want what they had been told to want was the spark of feminist conscious- ness. From this viewpoint, Ahmed explains, “Feminist genealogies can be described as genealogies of women who not only do not place their hopes for happiness in the right things but who speak out about their unhappi- ness with the very obligation to…",
+      "source": "Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects (2017, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.74604017,
+      "importance": 0.7845028638839722,
+      "final_score": 0.7460402250289917
+    },
+    {
+      "id": "ad7b9928aec9404c0da48c6e",
+      "qdrant_id": "1ef79b88-7c30-5b11-97be-a51b6b1f3712",
+      "text": "emphasis on the notion of crisis offsets the overly buoyant or celebratory tenor of many recent appeals to affect, maintaining what she describes as a neces­ sary realism about the more problematic costs of attachment. Likewise, Ahmed’s phenomenology of affective states remains firmly tied to a critical analy­sis of the social dimensions of emotion, even while she defends the po­liti­cal importance of embodied experience. And in her influential analy­sis of “ugly feelings” as well as more recent work on the zany, cute, and in­ter­est­ing, Sianne Ngai situates chang­ ing affective states in relation to larger social forces such as ­those of late capital­ ism.24 ­There is thus a noteworthy divergence between ­those thinkers who hail the turn to affect as a means of breaking with critical or skeptical modes of analy­sis and ­others who insist on the inescapable entanglement of power …",
+      "source": "Elizabeth S. Anker_ Rita Felski - Critique and Postcritique (2017, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 49,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.74430215,
+      "importance": 0.7812635898590088,
+      "final_score": 0.7443020343780518
+    },
+    {
+      "id": "597fc83ed761d151cf003d59",
+      "qdrant_id": "10c1e132-0106-5ac8-b6ea-48d634af4508",
+      "text": "Of considerable influence on this work are feminist, queer, and subal- tern theories of affect that emphasize it as a social, subjectivizing, but also collectivizing force. The work of Eve Kosofsky Sedgwick, Lauren Berlant, Sara Ahmed, and Sianne Ngai is particularly useful for tracing the ways emotions have a social and political force that escapes conventional analy- ses of individual psyches and personal experiences. Affect in their work is that which both restricts and makes possible the notions of personal, col- lective, and emergent identities. For these theorists, affect is a deeply rela- tional force that attaches itself to and is expressed through all kinds of cul- tural texts. Affect shapes the surface and very being of subjects and objects as they come into contact with each other. Affect is not inherently counter- discursive or progressive; often, shared feelings tend to…",
+      "source": "Anable, Aubrey - Playing with feelings_ video games and affect (2019, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.74110717,
+      "importance": 0.7838347554206848,
+      "final_score": 0.7411070466041565
+    },
+    {
+      "id": "3b54e0a77de95e16f9c38f26",
+      "qdrant_id": "d53d9e21-6353-5de9-8a4c-af294b7ec8d1",
+      "text": "of the same university for her lively graduate seminars in feminist theory. I was fortunate to be one of the early researchers to benefit from one-on- one tutorials with Professor Komori Y-oichi, whose generosity with for- eign students has since become legendary. I am grateful to him for the ses- sions that resulted in my first readings of many of the texts discussed here, and for the example of his commitment to the politics of close reading. My deepest debt of gratitude is to two feminist mentors. Elizabeth Grosz was my senior colleague in the Department of Comparative Literature at SUNY Buffalo. She offered the graduate seminar on Irigaray that trans- formed my thinking about sexual difference and psychoanalysis, and gave me the confidence to strike out in a new and, for my personal feminism, much more meaningful direction. I cannot thank her enough for the force of her thinking and the sustenance of her support. Elizabeth Weed was",
+      "source": "Margherita Long - This Perversion Called Love_ Reading Tanizaki, Feminist Theory, and Freud (2009, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74098057,
+      "importance": 0.7813662886619568,
+      "final_score": 0.7409805059432983
+    },
+    {
+      "id": "2209a6b6941d925d6f86486d",
+      "qdrant_id": "5cb40ce3-5a47-59a0-86cf-0dd392cf48cb",
+      "text": "6 I N T R O D U C T I O N This may explain why the attitude of affect theorists toward psychoanal- ysis is usually less hostile than it is simply just ambivalent. Unlike Halperin, queer affect theorists such as Sara Ahmed (2004, 2006, 2010, 2014), Lau- ren Berlant (2008, 2011), and Ann Cvetkovich (2003, 2012) recognize the usefulness of psychoanalytic paradigms, often even supplementing their analyses with such paradigms. Their work has been among the most excit- ing in recent queer theory, intersecting in rewarding ways with the work of more psychoanalytically oriented queer critics, such as David Eng (2010). One reason for my aspiration to present a Lacan that cannot be reduced to Edelman’s antisocial thesis (which is deeply antithetical to affect theory’s more relational ethos) is that I wish to contribute to this dialogue between affect theory and psychoanalysis. Historically…",
+      "source": "Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects (2017, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.74050945,
+      "importance": 0.7809558510780334,
+      "final_score": 0.7405093908309937
+    },
+    {
+      "id": "ebee107f2d2e3d5a378d4561",
+      "qdrant_id": "6068b775-e0cb-5cbf-b544-dd51e6498145",
+      "text": "ery, as well as the emotional politics of contemporary forms of nation building, migration and multiculturalism. It is this which captures the distinction between emotion and affect and while outside the focus of this book, the distinction is important to understand the engagement of feminist and social theorists as outlined by Pedwell and White- head (2012: 116): Affect thus cannot be reduced to either “discourse” or “emotion” but rather exceeds these categories; it is a material intensity that emerges via the “in-between” spaces of embodied encounters, circulating power not primarily as a mode of discursive regulation but rather as the potential to “become otherwise”. (Deleuze and Guattari, 1994) One of the foremost feminist and cultural theorists of affect is Patricia Clough (2007). Her work points to changes in the way in which “the social” is conceptualised: Theories of aff…",
+      "source": "[Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf",
+      "chunk_index": 456,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.73769456,
+      "importance": 0.7867838740348816,
+      "final_score": 0.737694501876831
+    },
+    {
+      "id": "dc3597e84ca9b3d20fafea90",
+      "qdrant_id": "2af7e07c-853b-5bf6-aa5a-69d830dd0cba",
+      "text": "gendered epistemology and ontological experience as the basis for a reﬂex- ive feminist politics might indicate affect as a key object for a reﬂexive feminist criticism.≤∞ Further, attention to affect may take us along different paths because its presence often represents a substitution of one motiva- tion for another (because direct reﬂection on affect is often too difﬁcult) and thus needs to be analyzed through association rather than through opposition or exclusion. If attention to affect is important in reading narratives of progress, loss, and return in all their complexity, it is also important intersubjectively in terms of how it positions me as well as other readers. As Sara Ahmed has indicated, the affective nature of intersubjective formation means that there is no ‘‘outside affect,’’ no place to retreat to in order not to be moved (2004c; 2004b; 2004a). Indeed, it is partly through trying to trace my own",
+      "source": "[Next Wave _ New Directions in Women’s Studies] Clare Hemmings - Why Stories Matter_ The Political Grammar of Feminist Theory (2011, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 91,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7370795,
+      "importance": 0.7823471426963806,
+      "final_score": 0.7370796203613281
+    },
+    {
+      "id": "f7f29aef313f9190b1076833",
+      "qdrant_id": "7e0ae3ee-d29a-5bb9-a06f-8527d63b57cd",
+      "text": "Introduction 23 and values together and pull them apart. Like Sobchack and Kozel, Ahmed works in and through the framework of phenomenology, grasping affect as embodied, lived, and social yet also paying attention to the rhetorical work that articulations of affect and emotion are put into. Articulations of affect are translations and explanations of sensation through which objects (such as pornography) are given shape and value and made sense of. The third level of, or approach to, affect involves considerations of my experiences of being moved or disturbed by the pornographic. My body resonates while I theorize, conceptualize, and speculate about kinds of resonances. There is recurrently something of a mutual resistance between me and much of the porn that I study (dissonance and noise rather than resonance), yet a scholar studying porn who is never aroused by it is as anom…",
+      "source": "Paasonen, Susanna - Carnal resonance _ affect and online pornography-The MIT Press (2011).pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7357133,
+      "importance": 0.7846762537956238,
+      "final_score": 0.7357133626937866
+    },
+    {
+      "id": "23039d8c70bff82d6339850b",
+      "qdrant_id": "77e068bd-ba67-59fa-a649-bd3d0b062c54",
+      "text": "\" II 312 NOTES TO PAGES 222-226 Film Theory, Psychoanalysis (New York: Routledge, 1991),33-43,42. On the feminist killjoy, see also Sara Ahmed, The Promise of Happiness (Dur- ham, NC: Duke University Press, 2010). 118. Lisa Duggan and Kathleen McHugh, \"A Fem(me)inist Manifesto,\" in Brazen Femme: Queering Femininity, ed. Chloe Brushwood Rose and Anna Camil- leri (Vancouver: Arsenal Pulp Press, 2002),165-170,167. 119. Christian Thorne, \"Against Joy\" (unpublished manuscript), 5. 120. Matthew Rampley, Nietzsche, Aesthetics, and Modernity (Cambridge: Cambridge University Press, 2000), 193. 121. For an interesting approach to character as form (and specifically as the form of a \"collection\"), see Aaron Kunin, \"Characters Lounge,\" Modern Language Quarterly 70.3 (September 2009): 291-317. 122. Derrida, Spurs, 187. See Sarah_ Kofman, \"Baub6: Theological Perversion and Fetishism,\" t…",
+      "source": "Sianne Ngai - Our Aesthetic Categories _ Zany, Cute, Interesting (2012, Harvard University Press) - libgen.li.pdf",
+      "chunk_index": 850,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.73513967,
+      "importance": 0.7766433954238892,
+      "final_score": 0.7351394295692444
+    },
+    {
+      "id": "4cd6fbb79bec54e9604d1c44",
+      "qdrant_id": "fbcf3021-2198-564a-956b-0f203f234a7b",
+      "text": "SARA AHMED The Promise of Happiness The Premise of Happiness SARA AHMED Duke University Press Durham and London 2010 © 2010 Duke University Press All rights reserved Printed in the United States of America on acid-free paper ® Designed by C. H. Westmoreland Typeset in Whitman by Tseng Information Systems, Inc. Library of Congress Cataloging-in-Publication Data appear on the last printed page of this book. For Audre Lorde For teaching me so much about everything CO N TEN TS Acknowledgments ix Introduction: Why Happiness, Why Now? 1 l. Happy Objects 21 2. Feminist Killjoys 50 3. Unhappy Queers 88 4. Melancholic Migrants 121 5. Happy Futures 160 Conclusion: Happiness, Ethics, Possibility 199 Notes 225 References 283 Index 301",
+      "source": "Sara Ahmed - The Promise of Happiness-Duke University Press Books (2010).pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7347163,
+      "importance": 0.7644544243812561,
+      "final_score": 0.7347164154052734
+    },
+    {
+      "id": "1695ca907ab2bd649cb1dbbf",
+      "qdrant_id": "f1d9b1bf-b67c-543b-b549-45255f2e388c",
+      "text": "violence toward the most obvious culprits (the rich, exploitative class) but at those who, in opposing the system and aiming at greater equality, might cut off the possibility of such transgressive thrills, eliminating thus the measly crumbs of jouissance that make subjugation somehow manageable. In contemporary femi- nism, the phenomenon we are describing is perhaps aptly captured by Sara Ahmed’s (2010) notion of feminist killjoys, that is, the idea that feminist thinking and critique comes to be targeted, maligned and marginalized precisely on the basis that it “kills joy.” In bringing this section to a close it helps to stress that libidinal economies should be analyzed not only according to distributions of jouissance (which follow the logic of the drive, which afﬁrm and are given shape by ideological fantasy, etc.) but also with a view to identifying the renunciations of enjoyment involved, and, more particularly, the type of surplus jouissance engendered. The latter concept",
+      "source": "Stephen Frosh_ Marita Vyrgioti_ Julie Walsh - The Palgrave Handbook of Psychosocial Studies-Palgrave Macmillan (2024).pdf",
+      "chunk_index": 260,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.73141855,
+      "importance": 0.7735544443130493,
+      "final_score": 0.7314186096191406
+    },
+    {
+      "id": "ecb8a02d3236b2c427237dfd",
+      "qdrant_id": "ffe43fdb-9620-5e1f-985d-ea185f85d770",
+      "text": "20 Introduction ness gets distributed in all sorts of complicated ways. Certainly to be a good subject is to be perceived as a happiness-cause, as making others happy. To be bad is thus to be a killjoy. This book is an attempt to give the killjoy back her voice and to speak from recognition of how it feels to inhabit that place. I thus draw on my own experiences of being called a killjoy in describing the socia- bility of happiness. So many of the discussions I have had about this research have involved “swapping killjoy stories.” I remember one time at a conference table when we were discussing being killjoys at the family table. The confer- ence was organized by the Australian Critical Race and Whiteness Studies As- sociation in 2007, and it was the first time I had been to a conference in Aus- tralia as a person of color from Australia where I felt at home. I now think of spac…",
+      "source": "Sara Ahmed - The promise of happiness (2010) - libgen.li.pdf",
+      "chunk_index": 79,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7293335,
+      "importance": 0.7676195502281189,
+      "final_score": 0.7293334007263184
+    },
+    {
+      "id": "32049ab23bf9b28a90dc164a",
+      "qdrant_id": "d6a40bda-e253-5810-959e-8404841e27f1",
+      "text": "List of illustrations ix Notes on contributors xi Series editors’ preface xv Acknowledgements xvii Permissions xix Introduction: thinking through feminism 1 SARA AHMED, JANE KILBY, CELIA LURY, MAUREEN MCNEIL AND BEVERLEY SKEGGS PART I The rhetorical affects of feminism 25 Introduction 27 BEVERLEY SKEGGS 1 The subject of true feeling: pain, privacy and politics 33 LAUREN BERLANT 2 Shaming theory, thinking dis-connections: feminism and reconciliation 48 ELSPETH PROBYN 3 Owned suffering: thinking the feminist political imagination with Simone de Beauvoir and Richard Wright 61 VIKKI BELL Contents",
+      "source": "(Transformations_ Thinking Through Feminism) Sara Ahmed_ Jane Kilby_ Celia Lury_ Beverley Skeggs_ Maureen McNeil - Transformations_ Thinking Through Feminism-Routledge (2000).pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7291597,
+      "importance": 0.7744315266609192,
+      "final_score": 0.7291595935821533
+    },
+    {
+      "id": "ef052a4ab3403e826a6c379c",
+      "qdrant_id": "f7299cf0-18e5-5604-b93a-a71a0ad6d321",
+      "text": "This is the key feminist moment in this book insofar as the interrogation and detonation of the inside/outside, appearance/essence, private/public opposi- tions are central to feminist practice. Where the foundational fantasy is concerned, there is a strange and interesting departure in this new work, and it has to do with the way in which you speak of the function of affects. Affects, you suggest are themselves forms of egoic, comparative judgments that one makes about an object. When one feels envy, anger, deprivation or self pity, one is adopting a judgmental stance towards the object. The key problem here, as I understand you to be stating it, is the subject/object distinction itself and the calciﬁ cation of that boundary 82 Kalpana Rahita Seshadri",
+      "source": "[SUNY Series in Gender Theory] Alice A. Jardine, Shannon Lundeen, Kelly Oliver - Living Attention_ On Teresa Brennan (2007, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 336,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.72518265,
+      "importance": 0.7842414379119873,
+      "final_score": 0.7251825332641602
+    },
+    {
+      "id": "04ddad8c102ab8559bf35ff5",
+      "qdrant_id": "110cab6f-c5ce-5a9c-9898-1d2610984403",
+      "text": "among others—specifically because it accounts for how various forms of matter leave traces or marks upon us over a long period of time. Yet I offer (p)rescription as a model for theorizing the superposition of race, gender, and disability, as well as for describing the formation of race, of gender, and of dis- ability as phenomenon, because of its relationship to the professional fields of medicine and health and its emphasis on healing. Arguably, (p)rescription is a palimpsestic model, and it definitely negotiates social construction and materi- ality as forms of affect. As a newer field of study than its poststructuralist sis- ters, affect theory set its parameters early on with an inquiry into feeling. Sara Ahmed’s concept of “affective economies” describes how emotions bind sub- jects and objects together, while Ann Cvetkovich’s early work not only posits texts as repositories…",
+      "source": "Stephanie Peebles Tavera - (P)rescription Narratives_ Feminist Medical Fiction and the Failure of American Censorship (2022, Edinburgh University Press) [10.1515_9781474493215] - libgen.li.pdf",
+      "chunk_index": 60,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7239435,
+      "importance": 0.7926127314567566,
+      "final_score": 0.7239434123039246
+    },
+    {
+      "id": "0e8e3cfda5952291bb378842",
+      "qdrant_id": "06653674-7dfe-5f05-80a0-aed5a79fcec6",
+      "text": "become possible” (218). Against this backdrop, the defiant subject—the subject who opts out of the system—is one who is able and willing to turn away from the promise of happiness (as conceptualized by the normative order). Ahmed asserts that the emergence of such a subject entails becoming aware of “how one’s being has been stolen” (2010, 167). Ahmed presents four figures of rebellion—the feminist killjoy, the unhappy queer, the melancholy migrant, and the radical revolutionary—whose capacity to resist the happiness scripts of the social establishment depends on their ability to desire differently. For instance, in the context of the feminist killjoy, Ahmed revisits Betty Friedan’s unsatis- fied suburban housewife as a figure whose politicization was directly linked to her recognition that the truth of her desire deviated from the happiness script that she was being asked to a…",
+      "source": "Mari Ruti - The Ethics of Opting Out_ Queer Theory’s Defiant Subjects (2017, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7236868,
+      "importance": 0.7680734992027283,
+      "final_score": 0.7236865758895874
+    },
+    {
+      "id": "a6cc8827a0be27b27fc2c43f",
+      "qdrant_id": "5a438f8a-97bf-57b9-9c20-1a91327a6a45",
+      "text": "micro-­classifications. This typological, formal pursuit of affect, as exemplified in rasa theory, may be significant in two ways for feminist theorization. On the one hand, in its most obvious sense, it brings to the fore the centrality of emotions in the domain of aesthetic expression and aesthetic experience. On the other, it reveals how affect is deeply tied to its actualization, and the experienc­ ing of specific emotions is the very basis for remarking upon their exis­ tence, which then occurs through their methodological documentation. The inseparability of affect and its emotive enactment works through, and undoes, the dichotomy of the discursive and the empirical, of what is rep­ resented at the level of the symbolic (often in metaphorical terms in rasa theory), and what it actually does to the emotive self. The conjoining of the symbolic with the actional through the pursuit of a detailed formal naming of emotions and their effects shows that they are together",
+      "source": "Anu Aneja - Feminist Theory and the Aesthetics Within_ A Perspective from South Asia (2021, Routledge India) - libgen.li.pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.72146857,
+      "importance": 0.7722222805023193,
+      "final_score": 0.7214685082435608
+    },
+    {
+      "id": "8a7ebcf9d14ba8297be9d550",
+      "qdrant_id": "a8ab5f6a-c103-5a18-9cdb-a0ea274d7977",
+      "text": "ix Acknowledgements This book was written in part due to a grant from HEFCE which not only allowed me time to write sections of the book, but also gave me the opportunity to work with Sara Ahmed, whose work on emotion has influenced my approach to desire. Research for this book devel- oped from work I did for Psychoanalysis and the Portrayal of Desire in Twentieth-Century Fiction: A Feminist Critique (Edwin Mellen, 2007); it is informed also by articles I have had accepted for publication in the journals Feminist Review, Studies in European Cinema and Feminist Theory. My gratitude goes to my former colleagues at Leeds Metropolitan University, in particular: Lance Pettitt, Mary Eagleton, Simon Gunn, Valerie Alia, Melanie Chan, Neil Washbourne, Michael Bailey, Dan Laughey, Dario Llinares, Claire Chambers, Steve Wright, Dave Webb, Pat Cook, Elaine Newsome and Sue Chaplin, who have supported, inspired and nurtured me along the way. Lisa Taylor deserves special",
+      "source": "Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.72025275,
+      "importance": 0.7726325988769531,
+      "final_score": 0.7202527523040771
+    },
+    {
+      "id": "5215fce0252b679fc4ccd65c",
+      "qdrant_id": "51e795d8-ef45-5292-97fe-5c8399a3be13",
+      "text": "To the memory of my parents, Ruth Smith Schwartz and Dr. Harold Schwartz Contents Acknowledgments ix Note on the Text xiii Introduction 1 1. Toward a Phenomenology of Feminist Consciousness 11 2. On Psychological Oppression 22 3. Narcissism, Femininity, and Alienation 33 4. Feminine Masochism and the Politics of Personal Transformation 45 5. Foucault, Femininity, and the Modernization of Patriarchal Power 63 6. Shame and Gender 83 7. Feeding Egos and Tending Wounds: Deference and Disaffection in Women's Emotional Labor 99 Notes 120 Index 139 vii",
+      "source": "(Studies in the Phenomenology of Oppression) Sandra Lee Bartky - Femininity and Domination-Routledge (1990).pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.72003114,
+      "importance": 0.7711366415023804,
+      "final_score": 0.7200310230255127
+    },
+    {
+      "id": "3c04aa81816bceac5d6f766e",
+      "qdrant_id": "93d49da9-aa57-5c0d-a598-df42f9fa4b4b",
+      "text": "(Jane Campion, 1994), and Romance (Catherine Breillat, 1999). Importantly more women are writing about women ﬁlmmakers. As with all radical move- ments, feminism takes many forms. The kind of feminism that I argue inspires Feminist New Wave Cinema is not closed or prescriptive. Its focus is on dif- ference. This is a disparate, mixed, hybrid movement which explores the con- cept of otherness in the world and the nature of radical alterity. The focus is on a feminism that is open, questioning, and exploratory—a feminism that is open to all regardless of their sex or gender. Sara Ahmed writes in Queer Phenomenology about the processes of orientation. Ahmed argues that disorientation is central to queer eﬀects which may or may not relate to desire. What does it mean to be orientated? This book begins with the question of orientation, of how it is that we come to ﬁnd our way in a world that …",
+      "source": "Return of the Monstrous-Feminine (Barbara Creed) (Z-Library).pdf",
+      "chunk_index": 90,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7174844,
+      "importance": 0.7721152901649475,
+      "final_score": 0.7174842357635498
+    },
+    {
+      "id": "a5f69ec2126843f0516a58db",
+      "qdrant_id": "4866bb5f-74f9-5c80-9eea-a151b10c77cb",
+      "text": "For Wilson, Elkie, and the promise of something better C O N T E N T S ................................... Preface\b ix Acknowledgments\b xiii List of Abbreviations\b xv Introduction\b 1 1 Perception and Unrest\b 22 2 Ecofeminism and Ecophenomenology\b 63 3 Seeing Better\b 90 4 The Specter of Correlationism\b 140 5 Androcentrism, Nondiscursive Grounds, and the Hyperdialectic\b 160 6 Radical Reflection, Reversibility, and the Flesh\b 189 “Conclusions”; or, Becoming a Place of Unrest\b 221 Notes\b 233 References\b 251 Index\b 265",
+      "source": "[Series In Continental Thought] Robert Booth - Becoming a Place of Unrest_ Environmental Crisis and Ecophenomenological Praxis (2021, Ohio University Press) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7164639,
+      "importance": 0.7912063002586365,
+      "final_score": 0.7164639234542847
+    },
+    {
+      "id": "819be07ccef560e0e921ed08",
+      "qdrant_id": "937d7005-ccd8-56ef-96c1-ca8b8815300a",
+      "text": "characterized as they often are by both a grounding in the personal and an attentiveness to the problem of essentialism. Th e construction of meaning- ful yet open- ended series has already played a signiﬁ cant role in the emer- gence of a uniquely feminist phenomenology that captures the richness and complexity of women’s lived experience while oﬀ ering substantial, often subversive theoretical claims. Using methods including serial catego- rization, some feminist phenomenologists have taken up and elaborated upon the project begun more than half a century ago by Simone de Beauvoir. 12 ■ Sarah LaChance Adams and Caroline Lundquist",
+      "source": "[Perspectives in continental philosophy] LaChance Adams, Sarah_ Lundquist, Caroline R - Coming to life _ philosophies of pregnancy, childbirth, and mothering (2013, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 65,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7153928,
+      "importance": 0.7707969546318054,
+      "final_score": 0.7153928279876709
+    },
+    {
+      "id": "2470ce58bf2e33f18e8422d2",
+      "qdrant_id": "0e2b8359-d459-5d67-9eb2-b44fb020e06a",
+      "text": "R A A H M E D is a professor o f race a n d cu ltu ra l stu d iesa t G o ld sm ith s C o llege, U n iversity c- London. Sh e is th e author o f Queer Phenomenology: Orientations, Objects, Others, also p u b ' ft-hed b y D uke U n iversity Press; The Culrural Politic s of Emotion; Strange Encounters; Embodied — - jn Pasr Coloniafity- an d Differences That Matter: Feminist Theory and Postmodernism, S|5< n i l E = d. $ QI iluke U nive rsity Press 9 0 6 6 0 , D u rh am , N C 2 7 7 0 8 0 6 6 0 w w w .du keu prcss.edu Happiness Isn’t Happiness without a Violin Placing Goat, & R ey n a C o B u ra. uni hi",
+      "source": "Sara Ahmed - The Promise of Happiness-Duke University Press Books (2010).pdf",
+      "chunk_index": 181,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7153299,
+      "importance": 0.7668582797050476,
+      "final_score": 0.7153297662734985
+    },
+    {
+      "id": "3259c8d72115bc31aad4aa1f",
+      "qdrant_id": "df82a5d4-2cbe-5ca6-9508-0af42a223842",
+      "text": "embodied and not necessarily bound to a single body (Brennan 5). I use the word feelings more broadly, understanding it to refer to both the physiological and the psychological. While contemporary affect theory and narrative theory are useful tools for reading these novels, rather than simply applying these contemporary theories to the novels I discuss, I use them as catalysts for tracing the already-existing theories, terms and narrative techniques at play in these historical fictions. Sara Ahmed’s concept of the ‘affect alien’, for instance, leads to me the Victorian use of the term ‘morbid’. Lisa Zunshine’s work on Theory of Mind allows me to see how sensation fiction foregrounded the complexity of body reading. My approach may often seem more reading-focused than historicist as I work to trace the terminology and theories present in these novels, but my readings are also…",
+      "source": "[Nineteenth-Century and Neo-Victorian Cultures] Tara MacDonald - Narrative, Affect and Victorian Sensation_ Wilful Bodies (2023, Edinburgh University Press) [10.1515_9781399522212] - libgen.li.pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7141392,
+      "importance": 0.7645928263664246,
+      "final_score": 0.7141391634941101
+    },
+    {
+      "id": "821aa23c951814f475a66e9c",
+      "qdrant_id": "efb117de-b7ed-5fed-bfb0-d72a96b7309a",
+      "text": "Chapter 7 Feminism and happiness On ‘Killing Joy’ by Sara Ahmed (2010) There might be a debate over the question for whom this essay was written, and by whom, in the sense of, what position does the writer take? It doesn’t present – despite the title – as a history, and at some points the language deﬁnitely sounds the tone of an incitement or rallying call – ‘We can learn … We must learn …’1 Yet who is the ‘we’ that is being rallied? There are several contextual points we can note in considering the question but it’s not clear how they stack up. Sara Ahmed reveals herself, her writer’s standpoint, as a lesbian feminist woman of colour, and the essay is produced in Signs, an aca- demic journal published by the University of Chicago, which styles itself by way of subheading as a Journal of Women in Culture and Society. Ahmed was an academic at the time of writing the article but became disillusioned and since then has left academia to become a freelance writer. It could be argued then,",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 246,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.71400857,
+      "importance": 0.7508458495140076,
+      "final_score": 0.7140085697174072
+    },
+    {
+      "id": "9654824e99cea11629512424",
+      "qdrant_id": "8f5cb6b8-5e8d-55ce-bb00-f48e3ec7b5a4",
+      "text": "they become manifest in their lived reality. ‘Affect’ indeed carries much less ‘baggage’ than sentimentalism, owing to its closer alignments with a poststructuralist methodology that foregrounds the validity of ‘surface readings’ and contextual phenomena. While sentimentalism is problem- atic because of its attachment to the classical, knowable subject and the suspicion of emotions that efface such realities, ‘affect’ announces a more fluid and deconstructive approach to emotion that accepts sentimentalism as a vital phenomenon of everyday experience that can nevertheless some- times be ideologically compromised. Sara Ahmed, for instance, argues in support of a ‘Cultural Politics of Emotion’ that displaces emotion from its usual signification of an individual’s interiority and privacy, and shifts focus towards more group-based, although still emotion-driven phe- nomena like raci…",
+      "source": "Charles Burnetts - Improving Passions_ Sentimental Aesthetics and American Film (2017, Edinburgh University Press) - libgen.li (2).pdf",
+      "chunk_index": 391,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7128504,
+      "importance": 0.7653051018714905,
+      "final_score": 0.7128503322601318
+    },
+    {
+      "id": "4fbd4b6426f04b7c929731da",
+      "qdrant_id": "e54b38f1-15cf-5a27-b49d-aa370edb9de0",
+      "text": "of exercising rational agency toward a determinate goal. Surveying and critiquing recent theoretical efforts to “recuperate” emo- tion as a valuable means of social and political intervention, Sara Ahmed writes, “Within contemporary culture, emotions may even be represented as good or better than thought, but only insofar as they are re-presented as a form of intelligence, as ‘tools’ that can be used by subjects in the project of life and career enhancement. If good emotions are cultivated, and are worked on and towards, then they remain deﬁ ned against uncultivated or unruly emotions, which frustrate the formation of the competent self.”56 Bringing Ahmed’s point to bear on the historiography of medieval emo- tion, we might ask if the project of exposing the social and political func- tions of historical emotions participates (albeit from a very different per- spective) in the sam…",
+      "source": "Robert Glenn Davis - The Weight of Love_ Affect, Ecstasy, and Union in the Theology of Bonaventure (2016, Fordham University Press) [10.1515_9780823272143] - libgen.li.pdf",
+      "chunk_index": 84,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.71151114,
+      "importance": 0.7583311796188354,
+      "final_score": 0.7115111947059631
+    },
+    {
+      "id": "2bc6024c305f45944ac0c199",
+      "qdrant_id": "6ebe4358-1841-5d10-b231-a60f72091624",
+      "text": "Contributors SARA ARMED is a professor ofrace and cultural studies at Gold- smiths College, University ofLondon. Her books include Differ- ences That Matter: Feminist Theory and Postmodernism (1998); Strange Encounters: Embodied Others in Post-Coloniality (2000); The Cultural Politics of Emotion (2004); Queer Phenomenology: Orientations, Objeas and Others (2006); and The Promise ofHap- piness (2010). JANE BENNETT teaches political theory at The Johns Hopkins University, where she is also the chair of the Department of Political Science. Her latest book is Vibrant Matter: A Political Ecology ofThings (20IO). ROS1 BRAIDOTT1 is Distinguished Professor in the Humanities at Utrecht University and founding director of the Centre for Humanities. She has published extensively in feminist philoso- phy, epistemology, poststructuralism, and psychoanalysis. Her books include Patterns ofDissonance (1…",
+      "source": "Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 1006,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7114918,
+      "importance": 0.7642020583152771,
+      "final_score": 0.7114918828010559
+    },
+    {
+      "id": "d0d322dab3f053a31ec1aa73",
+      "qdrant_id": "d818ba5c-34fd-5b10-9e8a-7653d33d762a",
+      "text": "to focus on the sensations that are woven into knowledge transmission, giving weight, for example, to the smell of a whip and the texture of a cor- set. Feminist and queer scholarship also has a rich tradition of thinking critically about knowledge production and access to knowledge. This work emphasizes the importance of thinking through class, race, gender presen- tation, and sexuality (among other variables) as coproductive of identities. Feminist and queer theory allows us to think about the fact that differ- ent bodies have different types of relationships to power and experience its effects differently. This, then, highlights the importance of understanding experience as complex and multiple. By bringing these related but diver- gent methodologies together, I hope to emphasize the place of contingency and embodiment at the heart of knowledge production. Affect, sensation, ex…",
+      "source": "Sensational Flesh Race, Power, and Masochism (Amber Jamilla Musser) (Z-Library).pdf",
+      "chunk_index": 91,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.71017027,
+      "importance": 0.7690466642379761,
+      "final_score": 0.7101702690124512
+    },
+    {
+      "id": "c69f46a3dde6a27790a15af7",
+      "qdrant_id": "74cd6e11-d122-5d78-8958-f21ee57f1b49",
+      "text": "10 Introduction to look at empathy and being-with others from the standpoint of those who inhabit multiple social identities. In the final part of the chapter, we focus on the relation between intersubjective experience and ethical sensibility by drawing on Merleau-Ponty's concept of the 'flesh' as well as Levinas' view of sensibility. We illustrate how such concepts have been employed by critical phenomenologists, especially Kelly Oliver and Alia Al-Saji, to articulate a critical account of ethical vision. Chapter 4 introduces the phenomenology of gender, showing the relation between critical phenomenology, feminist philosophy, and con- temporary gender theory. The chapter begins by illustrating classical phenomenological accounts of sexual difference and gender, and how Simone de Beauvoir's insights into woman's experience lie at the cross- roads between classical and critical phenomenology. We then explore the",
+      "source": "Elisa Magrí and Paddy McOueen - Critical Phenomenology_ An Introduction (2023, Polity) - libgen.li.pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70994616,
+      "importance": 0.8110796213150024,
+      "final_score": 0.70994633436203
+    },
+    {
+      "id": "60c810fad9d9c073f4df61f0",
+      "qdrant_id": "fa6b9e99-c150-5eac-ac92-f76e41600357",
+      "text": "Arts (MIt Press, 2011), Parables for the Virtual: Movement, Affect, Sensation (Duke University Press, 2002), and other books. He is the editor of The Politics of Everyday Fear (University of Minnesota Press, 1993) and A Shock to Thought: Expression after Deleuze and Guattari (Rout- ledge, 2002). With Erin Manning of the SenseLab, Concordia University, he organizes a series of events and activities under the title “Technologies of Lived Abstraction” and edits an MIt Press book series of the same title. luciana parisi is the convener of the Interactive Media M.A. at Goldsmiths University of London. In 2004 she published Abstract Sex: Philosophy, Biotechnology and the Mutations of Desire (Continuum Press). Recently, she has been writing on soft architecture and has completed a monograph on the metaphysics of computational culture (MIt Press, forthcoming). Jasbir puar is an associate professor of women’s and gender studies at Rutgers Univer-",
+      "source": "Patricia Ticento Clough and Craig Willse_ (eds.) - Beyond Biopolitics _ Essays on the Governance of Life and Death (2011, Duke University Press) - libgen.li (1).pdf",
+      "chunk_index": 174,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage"
+      ],
+      "raw_score": 0.7090595,
+      "importance": 0.7694994807243347,
+      "final_score": 0.7090595364570618
+    },
+    {
+      "id": "10e63a779c78e4f5b6e36dff",
+      "qdrant_id": "f0073dc7-11e6-5de3-a385-49ea4cc868ab",
+      "text": "theorists that we are living in an increasingly isolated and alienated society—where people look for intimacy on screen (whether on television, the internet, film) instead of finding it in other people. Following recent work by Ahmed on ‘orientation’, I want to think about the possibility of moving beyond psychoanalytic models or Deleuzian approaches (lack vs production) in order to think through a phenomenological approach. Ahmed’s work on sexual orientation and phenomenology encourages us to think about how we are orientated or directed physically—and I think there is room here to consider the space between the screen and the viewer as an object of study, as dis- cussed previously. Ahmed argues that certain objects act as ‘anchoring points’ (2006, 1)—and what better one in the home than the television itself, which often provides its occupants with a sense of home and, as Ahmed suggests, of orientation. Theorising desire from this perspective",
+      "source": "Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf",
+      "chunk_index": 444,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7086544,
+      "importance": 0.7736225724220276,
+      "final_score": 0.7086544632911682
+    },
+    {
+      "id": "1f1e2d37555639218d2062f3",
+      "qdrant_id": "3f0593fa-ecd9-5c4f-83cc-fd52d2f09a2f",
+      "text": "bodies offer, but is equally careful to point out that in a complex and hierarchically organ- ized world, phenomenology also enables an understanding of the limits of empathy and the dangers of over-identification with and objectification of the ‘other’ that can result from not acknowledging one’s own location, ‘distance’ and privilege. While problematizing experience is an important aspect of the politics of subjectiv- ity and identity, we are still frequently con- fronted with the question ‘what do women want today?’ From the popular media to key psychoanalytic texts, this question occupies our popular and political imaginations. Campbell argues that this question is, in fact, a ‘key question for third wave feminisms’ and for feminist epistemologies. Engaging with the question of what ‘we want today’, writes Campbell, means not only asking how we come to ‘know ourselves’ but also how we know ‘our others’. ‘Third Wave Episte-",
+      "source": "Johnstone, Hazel_ Evans, Mary_ Madhok, Sumi_ Hemmings, Clare_ Pl - The SAGE handbook of feminist theory (2014, SAGE Publications Inc) - libgen.li.pdf",
+      "chunk_index": 132,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70662606,
+      "importance": 0.7660049796104431,
+      "final_score": 0.7066261768341064
+    },
+    {
+      "id": "6c6778c5ba14fd65f9536b8e",
+      "qdrant_id": "b0d13e30-46f2-5015-b580-5430a82fd794",
+      "text": "of thought. While each writer may have begun with a specific problematic—gender construction for Butler, the entwinement of cybernetics and feminism for Haraway, and the paradoxical status of order and chaos for Hayles—the thematics of all three have increasingly converged on critical analysis of different bodily inflections in contemporary society. Breaking with her previous engagement with “bodies that mat- ter” and “gender trouble,” Butler has refocused her thought on the problem of grievability, or, more to the point, absence of grievability, in contemporary subjectivity. Here the dark politics of the global war on terror seems to have inspired on Butler’s part an internal shift in her thinking, away from a preoccupation with the signify- ing regimes of heterosexual normativity to a deeper reflection on a",
+      "source": "[Posthumanities] Arthur Kroker - Body Drift_ Butler, Hayles, Haraway (2012, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 399,
+      "page": null,
+      "seed_hits": [
+        "judith-butler-gender-performativity-gender-trouble-bodies",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.8105336,
+      "importance": 0.8320924639701843,
+      "final_score": 0.7063459753990173
+    },
+    {
+      "id": "21fca90e692f622b93be9f3f",
+      "qdrant_id": "d4bc6590-3c23-5bdb-89f9-774912171834",
+      "text": "330 ­ ­ 51 ­ ­ ­ ­ 52 ­ ­ ­ 51 Sara Ahmed, ‘Happy Objects’, in The Affect Theory Reader, eds. Melissa Gregg and Gregory J. Seigworth, 29–51. Durham, N.C: Duke University Press, 2008; Daniel Miller, The Comfort of Things, Cambridge: Polity Press, 2008. 52 Rob Boddice, The History of Emotions. Manchester: Manchester University Press, 2018, 38. A. JAMIESON",
+      "source": "[Palgrave Studies in Fashion and the Body] Dawn Woolley_ Fiona Johnstone_ Ellen Sampson_ Paula Chambers - Wearable Objects and Curative Things_ Materialist Approaches to the Intersections of Fashion, Art, Health an.pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7062855,
+      "importance": 0.7505518794059753,
+      "final_score": 0.7062854766845703
+    },
+    {
+      "id": "d86b98467d0137854d9b0bcd",
+      "qdrant_id": "d0c269f6-a9f1-5ffa-8dd1-ed17d5277599",
+      "text": "Getting to the root of causality: a depth mode of feminist transformation 152 Women’s anger 154 Diseffectuating the illusion of female powerlessness 156 Irigaray, Bhaskar and the ethics of letting go 158 Breaking the circle of unworthiness 160 Conclusion 162 10 Conclusion: Necessity and the power of love 166 A feminist dialectical-realist depth ontology of love and power 167 A project of reconciliation 169 References 171 Index 181",
+      "source": ", - The Contradictions of Love (Towards a feminist-realist ontology of sociosexuality) __ (2014, Routledge) [10.4324_9781315851464] - libgen.li.pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70614374,
+      "importance": 0.7612862586975098,
+      "final_score": 0.7061436176300049
+    },
+    {
+      "id": "6d6d589b4a4998a138aa2149",
+      "qdrant_id": "11a25466-e6cf-58b6-9efb-6236376e5379",
+      "text": "Contents Preface Foreword Introductory Essay: Hanna Segal, the Work and the Person Nicholas Temple, Margot Waddell Irma Brenman Pick David Bell 1. Symbol Formation and Creativity: Hanna Segal’s Theoretical Contributions Robert Caper, M.D. 2. Unprovoked Assaults: Making Sense of Apparently Random Violence Leslie Sohn 3. Putting the Boot In: Violent Defences Against Depressive Anxiety Robin Anderson 4. Meaning and Meaningfulness: Touching the Untouchable Eric Brenman 5 . Expiation as a Defence Ruth Riesenberg Malcolm 6. On Remembering, Repeating and Working Through Ioseph Sandler and Anne-Marie Sandler 7. Blocked IntrojectiodBlocked Incorporation Roy Schafer 8. Enclaves and Excursions Edna O’Shaugnessy 9. ‘Where There Is No Vision’: From Sexualisation to Sexuality Betty Joseph Acknowledgements Select Bibliography of the Work of Hanna Segal vii ix 1 37 57 75 89 105 128 139 147 161 175 176 V",
+      "source": "(The Tavistock Clinic Series) David Bell - Reason and Passion_ A Celebration of the Work of Hanna Segal-Karnac Books (1997).pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7058606,
+      "importance": 0.7615206241607666,
+      "final_score": 0.7058604955673218
+    },
+    {
+      "id": "3b42e11fc07b62294da5dcca",
+      "qdrant_id": "562614f7-4d1e-5c0e-99f3-fda3c71c941b",
+      "text": "Bringing Feminist Theory Home / 11 They acquired their own life. Or should I say: my writing was able to pick up these figures because of the life they had. These figures quickly became the source of new forms of connection. I began a new blog organized around them (feministkilljoys .com), which I have been writing as I have been working on this book. Since I began that blog, I have received communications from many students including not only undergraduates and postgraduates but also high school students about their own experience of being feminist killjoys and willful subjects. I have learned so much from these communications. In a genuine sense, the book comes out of them. I address this book to feminist students. It is intended for you. To become a feminist is to stay a student. This is why: the figures of the feminist killjoy and willful subject are studious. It is not s…",
+      "source": "Sara Ahmed - Living a Feminist Life-Duke University Press (2016).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7055641,
+      "importance": 0.7560367584228516,
+      "final_score": 0.7055639624595642
+    },
+    {
+      "id": "ea24b651ac33d86928bdf920",
+      "qdrant_id": "6b96b5ac-1cfc-528b-bd9c-e98b9fbee9a0",
+      "text": "about following the surfaces and textures of everyday life rather than exposing the putative realities of underlying structures.12 The practice of criticism has not always caught up with these important invocations to alternative modes of criticism, but Public Feelings has sought to craft new critical practices through attention to feelings as both subject and method. With its emphasis on identities and public cultures that cultivate non-­normative affects, queer theory has also been a crucial resource for Public Feelings and its version of the affective turn. Especially im- portant have been models for the depathologization of negative feel- ings such as shame, failure, melancholy, and depression, and the re- sulting rethinking of categories such as utopia, hope, and happiness as entwined with and even enhanced by forms of negative feeling.13 The Public Feelings project resists pastoralizing or redemptive accounts of",
+      "source": "Ann Cvetkovich - Depression_ A Public Feeling-Duke University Press (2012).pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.704331,
+      "importance": 0.7574944496154785,
+      "final_score": 0.7043310403823853
+    },
+    {
+      "id": "b792db977619b67b29ee8f5d",
+      "qdrant_id": "a3121c52-0e92-5a99-8019-a5fd178f212e",
+      "text": "plified in the term melancholia, is the subject of Gut Feminism. This book will explore the alliances of internal organs and minded states, not in relation to ancient texts but in the contemporary milieu where mel­ ancholias are or­ga­nized as entanglements of affects, ideations, nerves, agitation, sociality, pills, and synaptic biochemistry. I am not proposing a theory of depression. Rather, I want to extract from these analyses of depressed viscera and mood some gain for femi­ nist theory. I have two ambitions. First, I seek some feminist theoreti­ cal gain in relation to how biological data can be used to think about minded and bodily states. What conceptual innovations would be possi­ ble if feminist theory ­wasn’t so instinctively antibiological? Second, I seek some feminist theoretical gain in relation to thinking about the hostility (bile) intrinsic to our politics. What if feminist politics are necessarily more destructive than we are able to bear? This introduction",
+      "source": "(Next Wave_ New Directions in Women's Studies) Elizabeth A. Wilson - Gut Feminism-Duke University Press Books (2015).pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.704108,
+      "importance": 0.7596003413200378,
+      "final_score": 0.7041079998016357
+    },
+    {
+      "id": "28c38f7d8eefa42dfba84910",
+      "qdrant_id": "21339cd8-f6f9-5aab-869a-ca5ebaa1ba36",
+      "text": "14 Gregory J. Seigworth & Melissa Gregg volume begin to give name (a variety of di√erent names actually) to the singular a√ectual bloom-spaces of a processually oriented materialism. No wonder then that, in theory, the ‘‘what’’ of a√ect often gives way to matters of ‘‘how’’ in the rhythm or angle of approach: thus, why a great many theories of a√ect do not sweat the construction of any elaborate step- by-step methodology much at all, but rather come to fret the presentation or the style of presentation, the style of being present, more than anything else. If Sara Ahmed’s essay leads o√ our collection, it is because her attention to the ‘‘hap’’ (the contingency or potential in what she calls the ‘‘messiness of the experiential’’) of happiness is precisely the entry into the neutral bloom- space that a√ect theory is forever shifting into and out of, incrementally and intensely. She writes …",
+      "source": "Melissa Gregg, Gregory J. Seigworth - The Affect Theory Reader (2010, Duke University Press) - libgen.li (1).pdf",
+      "chunk_index": 62,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7033081,
+      "importance": 0.7611087560653687,
+      "final_score": 0.7033083438873291
+    },
+    {
+      "id": "d899b3b321c91b0bc016f87a",
+      "qdrant_id": "70af4614-ab84-5f72-9347-1b319c05c6a5",
+      "text": "sidering the phenomenology of trans experience as well as of sexuality, with a focus on the work of Sara Ahmed. Chapter 5 is an introduction to the phenomenology of race as well as to the concept of racial identity. The chapter begins with an analysis of Frantz Fanon's work on racialization and the 'fact of Blackness'. Fanon's influential work explores the effects of colonialism and racism on Black subjects, and how this is functional to creating a system of political oppression. 4 Fanon's account in Black Skin, White Masks is also explored in terms of its dialectical approach to the relation between subjectivity and race. In the second part of the chapter, we describe the phenomenon of racialization by looking at contemporary works in philosophy of race inspired by Fanon's work, including Charles Johnson, George Yancy, and Alia Al-Saji. We also present the connection between racialization and the phenomenology of whiteness, drawing on Ahmed's",
+      "source": "Elisa Magrí and Paddy McOueen - Critical Phenomenology_ An Introduction (2023, Polity) - libgen.li.pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7030798,
+      "importance": 0.7638370394706726,
+      "final_score": 0.7030798196792603
+    },
+    {
+      "id": "0ea029b97fb009c196009c01",
+      "qdrant_id": "ea4a8a1b-5186-52bb-8c18-9ea85f0dea59",
+      "text": "CONTENTS ACKNOWLEDGMENTS INTRODUCTION Jo-Ann Pilardi Female Eroticism in the Works of Simone de Beauvoir Eleanor H. Kuykendall Simone de Beauvoir and Two Kinds of Ambivalence in Action Iris Marion Young Throwing Like a Girl A Phenomenology of Feminine Body Comportment, Motility, and Spatiality Jeffner Allen An Introduction to Patriarchal Existentialism A Proposal for a Way Out of Existential Patriarchy Judith Butler Sexual Ideology and Phenomenological Description A Feminist Critique of Merleau-Ponty's Phenomenology of Perception Julien S. Murphy The Look in Sartre and Rich Linda Kintz In-different Criticism The Deconstructive \"Parole'' Linda Singer True Confessions Cixous and Foucault on Sexuality and Power",
+      "source": "Jeffner Allen_ Iris Marion Young - The Thinking Muse_ Feminism and Modern French Philosophy (1989, Indiana University Press) - libgen.li.pdf",
+      "chunk_index": 2,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70215124,
+      "importance": 0.7687863707542419,
+      "final_score": 0.7021511197090149
+    },
+    {
+      "id": "6858d0bcae49d136fc5bb4af",
+      "qdrant_id": "a2deec7d-b8a9-56f8-88f2-ff1257122199",
+      "text": "Notes on contributors Sara Ahmed is Senior Lecturer in Women’s Studies at Lancaster University. She is currently co-director, with Jackie Stacey, of the Institute for Women’s Studies. Her ﬁrst book, Diﬀerences that Matter: Feminist Theory and Postmodernism, was published in 1998. She has since published two books in the Routledge Transformations series, Strange Encounters: Embodied Others and Postcoloniality (2000) and (co-edited with Jane Kilby, Celia Lury, Maureen McNeil and Beverley Skeggs) Transformations: Thinking Through Feminism (2000). Jennifer Biddle lectures in Anthropology at Macquarie University in Sydney, Australia. She has worked with Warlpiri Aboriginal Women since 1989, and writes on art, literacy, aﬀect and embodiment in relation to cultural diﬀerence. Claudia Castañeda is Lecturer in the Centre for Science Studies and Institute for Women’s Studies at Lancaster University. Her work lies in the area of the",
+      "source": "Thinking Through the Skin (Sara Ahmed, Jackie Stacey) (Z-Library).pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70207345,
+      "importance": 0.7530362010002136,
+      "final_score": 0.702073335647583
+    },
+    {
+      "id": "383b69e60b9695c37658d40c",
+      "qdrant_id": "63dfe67f-8203-528b-a2bf-b7c87299e5a9",
+      "text": "Introduction This book distils—filters, purifies, refines, and condenses—ideas about theory, ethics, and affect that I have obsessively returned to in my recent scholarship. It offers a tightly knit collection of reflections about the general state of contemporary theory, posthumanist ethics, political resistance, subjectivity, agency, desire, trauma, suffering, and bad feelings such as anxiety. Because these reflections come on the heels of several books I have published on related topics, it is tempting to characterize them as a culmination of sorts, as a way to wrap up one phase of my research career. In some ways, this is exactly what they are. Or at least this is what I wanted them to be when I set out to compile them. However, it might be more accurate to describe them as a pool of themes that I have not been able to shake off because my position on them often goes against the grain of the dominant trends of my field: progressive critical theory,",
+      "source": "Mari Ruti - Distillations_ Theory, Ethics, Affect (2018, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70205057,
+      "importance": 0.7619124054908752,
+      "final_score": 0.7020508050918579
+    },
+    {
+      "id": "097c3e225d891258b19ee644",
+      "qdrant_id": "9a71216a-9fa1-57f1-8197-fe0333f33d0a",
+      "text": "challenge. Attention to facets of human experience to which proponents of mimetic theory previously have been inattentive can inspire elaborations of mimetic theory that sustain and enhance its analytic force. I intend that Intimate Domain further that goal. Girard and Feminist Scholarship I also off er this book as a contribution to feminist scholarship on Girard.33 Previous conversations by feminist scholars with Girard have resulted in a varied body of scholarship; however, no feminist scholar has brought a sus- tained focus to the theme of mimetic desire and the family. With Intimate Domain, I demonstrate the value for feminist scholars and mimetic theorists of an extended conversation about shared concerns.",
+      "source": "[Studies in Violence, Mimesis and Culture] Reineke, Martha J - Intimate domain _ desire, trauma, and mimetic theory (2014, Michigan State University Press) - libgen.li.pdf",
+      "chunk_index": 48,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.70134425,
+      "importance": 0.7621927857398987,
+      "final_score": 0.7013442516326904
+    },
+    {
+      "id": "4e0273e8ed174ce4f703e633",
+      "qdrant_id": "a233ee14-ec05-5592-9a48-9b9b3fe57286",
+      "text": "care. Her theory is developed with particular reference to visual culture as documented by Griselda Pollack and her own artwork, specifically painting, is one way into the theory. Within her account, there is little consideration of other forms of artwork, and perhaps like others considering the relation between psychology and art (e.g. Arnheim, 1986), she would be sceptical of photography as an art form. That said, many of her observations in relation to com-passion, wit(h)nessing and metramorphous via Freud’s account of the uncanny resonate with observations of the processes at play in this visual participatory project: the process of feeling moved, transformed, by specific images that touch us in ways we may not have been prepared for. In seeking to draw together epistemological and ontological engagements that enable a reconfiguration of representation as well as affective connection…",
+      "source": "Katherine Johnson - Sexuality_ A Psychosocial Manifesto (2015, Polity) - libgen.li.pdf",
+      "chunk_index": 84,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.71099913,
+      "importance": 0.7858601808547974,
+      "final_score": 0.7008129358291626
+    },
+    {
+      "id": "1b41ca65bb1d0f8c3de42d78",
+      "qdrant_id": "c3507021-1dc3-58d4-b3ce-0ac138bdc421",
+      "text": "28. There are a number of theorists working in areas that abut and sometimes overlap with the interests and concerns of SR, whose texts and ideas equally deserve attention: at a minimum, the New Materialism associated with Karen Barad, Rosi Braidotti, William Connolly, and Elizabeth Grosz; the alternative phenomenologies of Sara Ahmed and Tom Sparrow; the animal studies of Mel Chen and Carey Wolfe. Also beyond the scope of this book is the recent work of other writers explicitly influenced by SR, including, e.g., Ian Bogost, Jon Cogburn, Jeffrey J. Cohen, Claire Colebrook, Maurizio Ferraris, Markus Gabriel, Tristan Garcia, Adrian Johnston, and Eileen Joy.",
+      "source": "(Speculative Realism) Evan Gottlieb - Romantic Realities_ Speculative Realism and British Romanticism-Edinburgh University Press (2016) (1).pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7007848,
+      "importance": 0.7615007758140564,
+      "final_score": 0.7007849812507629
+    },
+    {
+      "id": "a9e0b9a6a884fe4a741adb42",
+      "qdrant_id": "a0cb3074-d566-5b11-aa7e-fea5d50894b5",
+      "text": "(obliterating his face), one’s very own values (civilisation, culture, justice) are being destroyed—or rather, they are exposed as having always been a mere veneer, to begin with. Time destroys everything, including one’s ethical values or pretensions thereof. In that respect, to come back to Sara Ahmed, Noé drastically demonstrates that time makes the future perverse.72 Noé thus takes seriously the notion that from the perspective of hetero­ normative reproductive futurity, queer people represent a “a culture of death”.73 Drawing on Lee Edelman’s No Future and at the same time resisting it, Heather Love has proposed to read queer histories as struc­ tures of feeling in a backward sense. For her, queer histories, which are often rooted in past trauma, stigma and violence, pose a challenge to proj­ ects of futurity. On the one hand, queer people want to reclaim their iden­ tities and their histories from the catastrophe of the past; on the other, that",
+      "source": "Mark Schmitt - Spectres of Pessimism_ A Cultural Logic of the Worst (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 271,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7004153,
+      "importance": 0.7580701112747192,
+      "final_score": 0.700415313243866
+    },
+    {
+      "id": "f80df1990512fe24329522f2",
+      "qdrant_id": "121058f4-ec31-54f7-bbb5-58837b5ae52f",
+      "text": "for Mary Beth, Andrew, & Clare Contents Preface: Restoring Feeling to Consciousness 1 Introduction: The Structure of Consciousness 17 Chapter 1: Phenomenology, Intentionality, Embodiment 27 Chapter 2: Intentionality of Affection & Emotion 53 Chapter 3: Mood & Affective Tonality 75 Chapter 4: Emotional Presentation & Will 115 Chapter 5: Value & Mfective Consciousness 137 Chapter 6: Affectability & Affective Response 155 Chapter 7: The Structure of Affective Intentionality 183 Chapter 8: Triune Consciousness 199 Chapter 9: Connaturality 221 Chapter 10: Habitude & Finitude 251 Conclusion 289 Bibliography 293 Index 311",
+      "source": "Andrew Tallon - Head and Heart_ Affection, Cognition, Volition, as Truine Consciousness (2021, Fordham University Press) [10.1515_9780823295791] - libgen.li.pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6994138,
+      "importance": 0.7949278950691223,
+      "final_score": 0.6994138360023499
+    },
+    {
+      "id": "030b00b1b76936e764b6340a",
+      "qdrant_id": "ec47c4b7-8068-5a61-af7c-ec99913d9dd0",
+      "text": "Tending Endarkenment Esoterisms 5 enlightenment secular(ist) science, upset some impor­tant presumptions about the ­human and its relations to the world, but also continue to tend (in the sense of granting attention to and caring for) the specific grammars and logics of that science, which I follow Denise Ferreira da Silva and Sylvia Wynter in see- ing as colonial logics ­because of presumptions about liberal selves as knowing agents and the orientation of truth claims ­toward objective universality. And this raises for me some questions about scholarly feminist field imaginaries. In 2008, two years before Bennett’s Vibrant ­Matter was published, Sara Ahmed was already wondering about what kinds of narrative fantasy genera- tion and policing ­were required to found what was coming to be called the “new materialism.” In par­tic­u­lar, she pressures the adjective “new” and the wor…",
+      "source": "Nathan Snaza - Tendings_ Feminist Esoterisms and the Abolition of Man (2024, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.69692487,
+      "importance": 0.7533224821090698,
+      "final_score": 0.6969248056411743
+    },
+    {
+      "id": "7d6ed96389372b1cf3a26a66",
+      "qdrant_id": "34f52fa5-5e42-5d6b-b797-ee308f1b97cd",
+      "text": "1 Theorising Desire Desire is an attitude aiming at enchantment. (Sartre 1956, 394) In her work on the ‘cultural politics of emotion’ Sara Ahmed poses the question, ‘what do emotions do?’ (2004) rather than asking what emo- tions are. As she suggests, ‘emotions are not simply something “I” or “we” have. Rather, it is through emotions, or how we respond to objects and others, that surfaces or boundaries are made: the “I” and the “we” are shaped by, and even take the shape of, contact with others’ (2004, 10). The distinction Ahmed makes is an important one, one that can be extended to thinking about desire and its affects. Instead of asking what desire is, it is more productive to ask, what does desire do?1 How does it create surfaces and boundaries? How are ‘we’ shaped by its affects? And how is desire presented to us on screen? This book will rely on examples from film, television and contemporary culture to consider both how we theorise desire, and what desire does.",
+      "source": "Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.69635653,
+      "importance": 0.756650984287262,
+      "final_score": 0.6963563561439514
+    },
+    {
+      "id": "e666ffc2786ae74950190992",
+      "qdrant_id": "1237f580-da3a-5d26-8070-fe490cb5d276",
+      "text": "in the 1970s and 1980s in the context of the linguistic or discursive turn — the deﬁnitive era during which media art practice and theory were closely intertwined. The majority of this book is devoted to analyzing the trans- formations in media art, materialisms, and spectatorship since 1990. This chapter, instead, takes to heart Sara Ahmed’s caution that we must resist the predilection to “deposit our hope in the category of ‘the new’ ”: it revisits this earlier period in order to draw out the signiﬁcant and under- appreciated points of continuity between feminist theory and media art practice in the 1970s and 1980s and the present day. I contend that the feminist spectatorship theories and works of art in- spired by the psychoanalytic and poststructuralist critical frameworks popularized in the 1970s and 1980s were the ﬁrst to explicitly address the C H A P T E R T W O Thinkin…",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6962025,
+      "importance": 0.7648193836212158,
+      "final_score": 0.6962026953697205
+    },
+    {
+      "id": "158816064b3a843aa48407ae",
+      "qdrant_id": "61eda535-f6f3-5e2a-9b63-ae4a3a8e3881",
+      "text": "Lauren Berlant, Sianne Ngai, and Sara Ahmed have been especially influential in affect studies informed by feminist, queer, and critical race theory. Although their pathbreaking works are not primarily invested in the role of environment in shaping affect, some of their main theoretical tenets— Berlant’s formulation of “cruel optimism,” Ngai’s focus on “ugly feelings,” and Ahmed’s description of how affect can “stick” to objects and bodies, as well as her method of connecting individual bodily response to emotion at broader scales— are ripe for reframing in ecological terms, and several of our contributors take these fruitful concepts in new direc- tions. Jane Bennett too has produced important theoretical foundations for our project: The Enchantment of Modern Life and the more recent Vibrant Matter, a favorite among material ecocritics.25 Our collection foregrounds the enviro…",
+      "source": "Kyle Bladow_ Jennifer Ladino (eds.) - Affective Ecocriticism_ Emotion, Embodiment, Environment (2018, University of Nebraska Press) - libgen.li.pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7677556,
+      "importance": 0.8024908900260925,
+      "final_score": 0.6960412263870239
+    },
+    {
+      "id": "710a24bcf1ba34a7129ea7e1",
+      "qdrant_id": "341c4e4c-17ba-586d-8888-356d8b43e159",
+      "text": "borrow from Karen Barad, became entangled together at a particular moment in cultural history (Barad 2007). In these early years, cinema can be thought of as coming into being and my focus here is to think about how this coming together happened and the various ways in which fear became associated with cinema. My focus here is, as Sharma puts it, “to carefully detail the processes by which objects come into being as objects” (2015, 14). Part of this com- ing together entails an ontological aspect by which cinema came to be in the world but this coming into being also entailed other dimensions including cultural praxis and affect. For present purposes, affect becomes a crucial element in the coming to being of cinema as an understandable and relatable cultural object. It is not just that we know what cinema is or how we engage it but, importantly, also that we know how to feel a…",
+      "source": "David Baumeister, Vernon W. Cisney, Tober Corrigan, Rick Elmore, Jonathan Elmore, Luis Favela, Eric Godoy, Josh Grant-Young, Sydney Lane, Eunah Lee, Brian Onishi, Kendall Phillips, Chandler Rogers, Ro.pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6959125,
+      "importance": 0.7721125483512878,
+      "final_score": 0.6959125995635986
+    },
+    {
+      "id": "598db8145e5125cb07788217",
+      "qdrant_id": "8545e018-95c7-5da2-9df7-ee3ac93e5536",
+      "text": "ring differently in the political carillon than a Black man’s. Equally as complex, though—and equally as important—are the affects that suffuse such decisions: how it feels to be chosen, or rejected; to be seen, or to be merely imagined; to be placed on an impossible sexual pedestal, or to be cast out as undesirable merely on the basis of one’s racial identity. From a bird’s-­eye view, the politics of such situations may take analytic preference; but on the ground, day-­to-­day, it’s the feelings—the sting of rejection, the electricity of desire—that can matter most to an individual’s survival, not to mention their thriving. As Sara Ahmed writes in Queer Phenomenology, “social differences are effects of how bodies inhabit spaces with others.”8 To focus on these feelings, these bodily habits, then, as I do throughout this book, is not to reduce sexual racism to a set of individ…",
+      "source": "Joseph Gamble - Sex Lives_ Intimate Infrastructures in Early Modernity (2023, University of Pennsylvania Press) [10.9783_9781512824612] - libgen.li (1).pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6949342,
+      "importance": 0.7545292377471924,
+      "final_score": 0.6949340105056763
+    },
+    {
+      "id": "7062752f709fa3462a0c341c",
+      "qdrant_id": "e3bcb769-a13c-5367-bcb8-5b0d0aaf50bf",
+      "text": "Introduction ¢ 7 4 on whether it is women’s experiences, women’s social locations, or feminist dis- courses that are to provide the origin of knowledge projects. Clearly the experi- ences of oppressed groups can become an important source of critical insight. Moreover mainstream research always draws on distinctive social experience and scientific experience, as recent histories, sociologies, and ethnographies of science argue, so it cannot be that experience is in itself the problem. Indeed, the very best human knowledge of the empirical world is supposed to be grounded in human experience. Yet some critics ask if standpoint theory’s focus on the importance of the experience of women and other oppressed groups ensures that it has abandoned the epistemological uses of concepts of truth, objectivity, and good method. And if so, would it not thereby have lost the solid groundin…",
+      "source": "Sandra Harding (ed.) - The Feminist Standpoint Theory Reader. Intellectual and Political Controversies (2004, Routledge) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6937237,
+      "importance": 0.755976140499115,
+      "final_score": 0.693723738193512
+    },
+    {
+      "id": "3f516dc853734a6493a4c531",
+      "qdrant_id": "45ab2835-057f-5407-ae32-5ab23982a238",
+      "text": "feeling states, 23 Feeling in Theory (Terada), 208 fellow-feeling, 8–10, 39, 41n, 74, 195, 222–3 femininity, 17n, 18n, 81n, 170 and feminism, 189n mixed race, 136 and respectability, 70, 124 feminism/feminists, 16, 100n, 160, 168–72 and affect, 205 and the affective turn, 205–7 and anger, 172–8 and femininity, 189n and hope, 183–9 and women of colour, 224 and wonder, 178–83 fetishisation, 11, 22, 32 and comfort, 149 and disgust, 96 and feminist teaching, 182 and queer theory, 152 wound, 35, 58 figures of speech, 12–13 Fisher, Berenice, 178 Fisher, Philip, 180 flags, 74 food, as possible contaminant, 83 forgetting, 33, 35, 173 forgiveness, 198 fort da game, 50 Foucault, Michel, 214 Fowler, James H., 221 Frank, Adam, 214 freedom, and fear, 70–1 Freire, P., 182 Freud, S., 18, 45–6, 67, 120n, 127, 129, 159–60 Beyond the Pleasure Principle, 50 Civilization and Its Discontents, 125 Ego and the…",
+      "source": "Sara Ahmed - The Cultural Politics of Emotion (2014, Edinburgh University Press) [10.1515_9780748691142] - libgen.li.pdf",
+      "chunk_index": 189,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6933381,
+      "importance": 0.7481539845466614,
+      "final_score": 0.6933380365371704
+    },
+    {
+      "id": "1ede591c0571bc0a5ce1c441",
+      "qdrant_id": "26a01844-5af9-5381-baa9-bb96ef06ea97",
+      "text": "12 What’s Love Got to Do with It? Chapter 7: Intimacy, Emotions and the Public Sphere: From Sentimental Ideology to “The Queen of America” —The Public and the Private in the Work of Lauren Berlant Chapter 6 focused on the shift in emphasis within feminist theorizing towards the “turn to affect”, Chapter 7 reflects further on these debates. The shift among a range of feminist, cultural and social theorists has been to focus on “affect” and the work of contemporary theorists such as Sara Ahmed (2004), Laura Berlant (2000), Teresa Brennan (2004), Clough and Halley (2007), Gregg and Seigworth (2010) and Stoler (2006) among others, all focus on the develop- ment of theoretical perspectives on emotion and affect towards a deepening in understanding of these concepts. All have introduced a range of concepts and explored different empirical fields of research which have used frameworks…",
+      "source": "[Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf",
+      "chunk_index": 117,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6929666,
+      "importance": 0.7419966459274292,
+      "final_score": 0.6929663419723511
+    },
+    {
+      "id": "8cfd699c0307c476848f08e2",
+      "qdrant_id": "683fbf7a-9967-5420-b9ef-cfd7151968a7",
+      "text": "If I live my identiﬁcation with the clothing images through my experi- ence of ﬁlm narrative, it may not be too wild to explore our pleasure in clothes through feminist ﬁlm theory. Following a Lacanian framework, feminist ﬁlm theorists have developed an account of a female experience of pleasure in the objectiﬁed female body within a patriarchal order. The story goes something like this.6 Subjectivity is crucially constituted by relations of looking. Through active looking the subject acquires a sense of subject set off against ob- jects. Through looking at an image of himself in the mirror, the subject gains a sense of narcissistic identiﬁcation with a totalized motor being misrepresented as a unity. In the phallocratic order, however, this sub- ject who takes pleasure in looking at objects other than himself and who takes pleasure in looking at totalized images of himself is a male subject. The phallocratic order splits looking into active and passive moments.",
+      "source": "On Female Body Experience Throwing Like a Girl and Other Essays (Iris Marion Young) (Z-Library).pdf",
+      "chunk_index": 245,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.69997585,
+      "importance": 0.7870769500732422,
+      "final_score": 0.6914727687835693
+    },
+    {
+      "id": "232b64ef71b46fe48437b087",
+      "qdrant_id": "857230e5-5c05-55d7-867d-2117d30395d8",
+      "text": "by Sedgwick’s example, others pursuing trajectories parallel to it, aff ect and emotion, feeling and sensation merged with sex and sexuality and even with queerness. Such work included that of Lauren Berlant on the U.S. political sphere as an aff ective public space of intimacy and sentimentality; on the “cruel optimism” that characterizes the aff ective state of the contemporary U.S. mo- ment; and on desire, love, and romance in the modern notion of what a person is or should be; Ann Cvetkovich on how trauma catalyzes the creation of cul- tural archives and political communities, including lesbian public cultures; and on depression as a public feeling, a political feeling, and a social and cultural phenomenon; Sara Ahmed on the cultural politics of emotion, including queer aff ectivity; and on the moral order imposed by the cultural injunction to be happy and on those who challenge it, including “the unhappy queer”—together",
+      "source": "Sexual Disorientations_ Queer Temporalities, Affects, Theologies (2017, Fordham University Press) [10.1515_9780823277544] - libgen.li.pdf",
+      "chunk_index": 90,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.71298873,
+      "importance": 0.7650443315505981,
+      "final_score": 0.689826488494873
+    },
+    {
+      "id": "09cb722773bfec4fe8aa403a",
+      "qdrant_id": "ef4fd36b-49dc-5f5a-b9de-bd7bc3261be5",
+      "text": "of Cyberfeminism 185 Stacy Gillis Part IV Challenges Introduction: Challenges 199 Nicole Ward Jouve 16 Wa(i)ving it All Away: Producing Subject and Knowledge in Feminisms of Colour 205 Mridula Nath Chakraborty 17 Muslim Feminism in the Third Wave: A Reflective Inquiry 216 Sherin Saadallah",
+      "source": "Stacy Gillis, Gillian Howie, Rebecca Munford - Third Wave Feminism_ A Critical Exploration (2004) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7109014,
+      "importance": 0.7703882455825806,
+      "final_score": 0.680519163608551
+    },
+    {
+      "id": "73838ef237d9762cf026f08f",
+      "qdrant_id": "cdcc1663-5d26-5ac2-a709-2be0eef39dd0",
+      "text": "manipulated’, presumably by predominantly male hackers. She argues that, ultimately, virtual reality and corporeality offer a ‘misogynistic fantasy of escape from Earth, gravity, and maternal/material origins’. Her analysis rests on the assumption that the masculinisation of new technologies stems from the framework of corporate and military control within which they are situated, and the ensuing social relations of science and technology; Sofia insists that this perspective provides a necessary corrective to some of the more enthusiastic and less critical responses to communications technology that have emerged from within postmodern theory. She advocates a less celebratory approach and suggests that it is certainly possible for women to appropriate computer technology for creative and life affirming purposes, as long as it is done with an ironic awareness of the ultimate ambivalence of such technologically en­",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (2022, Edinburgh University Press) [10.1515_9781474473668] - libgen.li.pdf",
+      "chunk_index": 65,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.71003145,
+      "importance": 0.7870274186134338,
+      "final_score": 0.6800870895385742
+    },
+    {
+      "id": "fbd685cfbc53d54175dd50de",
+      "qdrant_id": "d13dbd48-0fa2-503a-a61d-a0589d2e3c27",
+      "text": "(2007). Her work points to changes in the way in which “the social” is conceptualised: Theories of affect and the deployment of affective capacity are valuable at this conjuncture, she suggests, “to grasp the changes that constitute the social and to explore them as changes in ourselves, circulating through our bodies, our subjectivities, yet irreducible to the individual, the personal and psychological”. (Clough 2007: 3) (Pedwell and Whitehead 2012: 117) Sara Ahmed’s contribution to debates on emotion and affect has also been important and she shows how power works through affect to configure indi- vidual and social bodies (see Ahmed 2000). In The Cultural Politics of Emo- tion (2004) Ahmed’s critical point is that emotions can tie us into conditions of subordination. She also recognises that change is difficult to achieve because relations of power are: “so intractable and end…",
+      "source": "[Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf",
+      "chunk_index": 457,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7961159,
+      "importance": 0.816604495048523,
+      "final_score": 0.6759955286979675
+    },
+    {
+      "id": "8cceee92ed6f83ada0badd05",
+      "qdrant_id": "65c64565-6e94-5e04-8cf9-a2d442ef0647",
+      "text": "Rhiannon Firth __________________________________________________________________ 35 Spaces of Possibility’, Antipode 45.1 (2013): 80-100; Michalinos Zembylas, ‘Witnessing in the Classroom: The Ethics and Politics of Affect’, Educational Theory 56.3 (2006): 305-324. 43 Bridger, ‘Psychogeography and the Study of Social Environments’; Bridger, ‘Psychogeography and Feminist Methodology’, 286. 44 It is beyond the scope of this research to determine the authenticity of public street- art. Works by the artist Sweet Toof can be found on the website: Sweet Toof, Official Website, 2012, Viewed on 27 March 2015, http://sweettoof.com. 45 Bakhtin, Rabelais and His World, 370. 46 Ibid., 381. 47 Ibid., 338-339. 48 Land, The Thirst for Annihilation, 111. 49 Bataille, Visions of Excess, 59-60. 50 Bakhtin, Rabelais and His World, 381. 51 Ibid., 347. 52 Nietzsche, The Gay Science, section 371, quoted in Land, Fanged Noumena, 228. 53 Bataille, The Bataille Reader, 17.",
+      "source": "László Munteán_ Hans Christian Post - Landscapes of Monstrosity (2019, BRILL) - libgen.li (1).pdf",
+      "chunk_index": 122,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6440927,
+      "importance": 0.7349682450294495,
+      "final_score": 0.6695756912231445
+    },
+    {
+      "id": "f9431043dd13dfaa901043be",
+      "qdrant_id": "b65fdbe1-e0c6-540d-81a7-ab7b236c7711",
+      "text": "(Ilana Glazer, Bridget Everett, Leslie Jones), biting self-­referential stand-up (Margaret Cho, Tig Notaro, Maria Bamford), and defiant confessional lit­er­a­ ture (Lindy West, Roxane Gay, Gabourey Sidibe). Yet, at the same time, ­these ­women are predatorily harassed with ad hominem scorn and online death threats. Again, debates about ­whether grotesque bodily display is liberating or shaming are no longer adequate in a climate of permanent carnival and rampant transgressive discourse. Feminist scholarship on affect and emotion has repeatedly refused to con- sider laughter with the same degree of nuanced complexity offered to other ambiguous expressions of emotion. Instead, many of ­these works, such as Sara Ahmed’s Cultural Politics of Emotion and The Promise of Happiness, con- sider only the negative feelings: pain, hate, fear, disgust, shame—­with “love” as the ultimate horizon of collective affirmation. Ahmed glosses over laughter,",
+      "source": "Maggie Hennefeld_ Nicholas Sammond - Abjection Incorporated_ Mediating the Politics of Pleasure and Violence (2020, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7097422,
+      "importance": 0.7649293541908264,
+      "final_score": 0.6657755970954895
+    },
+    {
+      "id": "2912be4f27bf63e370b3e351",
+      "qdrant_id": "8940892a-90ad-5da0-a429-e431e45aa9db",
+      "text": "working with such population. I decided to leave the ‘sex addiction’ clinic I was working for at the time. But my curiosity helping these clients battling with their sexual compulsivity only grew. By then, I was doing my thing, in my own consulting room, feeling like a rogue, because I was on my own working with my clients with good old-fashioned psychotherapy. I felt like a fraud. I felt alone in this. Along the way in my journey, I completed a di- ploma in eating disorders, and then I had a lightbulb moment. Treating the impulse control for binge eating could be adapted for treating sexual com- pulsivity. With the help of my clinical supervisor, I began to notice that there were other voices, those of sexologists, neuroscientists, scientific researchers",
+      "source": "Silva Neves - Compulsive Sexual Behaviours_ A Psycho-Sexual Treatment Guide for Clinicians (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.65291524,
+      "importance": 0.7157303690910339,
+      "final_score": 0.6529151201248169
+    },
+    {
+      "id": "028ce27ee1e4d8a2a146e8de",
+      "qdrant_id": "1dfe2580-f516-56a6-b2be-2369c5ef9f01",
+      "text": "To the many feminist killjoys out there doing your thing: THIS ONE IS FOR YOU. CONTENTS ix Acknowledgments 1 Introduction Bringing Feminist Theory Home 19 PART I BECOMING FEMINIST 21 1. Feminism Is Sensational 43 2. On Being Directed 65 3. Willfulness and Feminist Subjectivity 89 PART II DIVERSITY WORK 93 4. Trying to Transform 115 5. Being in Question 135 6. Brick Walls 161 PART III LIVING THE CONSEQUENCES 163 7. Fragile Connections 187 8. Feminist Snap 213 9. Lesbian Feminism 235 Conclusion 1 A Killjoy Survival Kit 251 Conclusion 2 A Killjoy Manifesto 269 Notes 281 References 291 Index",
+      "source": "Sara Ahmed - Living a Feminist Life-Duke University Press (2016).pdf",
+      "chunk_index": 2,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.74276185,
+      "importance": 0.7826828360557556,
+      "final_score": 0.6419026255607605
+    },
+    {
+      "id": "ac0e631c5d7deb01f4d048e8",
+      "qdrant_id": "01fe4a5f-afed-5f4c-9ea4-9bae01e6173a",
+      "text": "DONNA HARAWAY is Distinguished Profes- sor Emerita in the History of Consciousness Department at the University of California Santa Cruz. She writes on and teaches science and technology studies, feminist theory, and multispecies studies. At UCSC, she is an active participant in the Science & Justice Research Center and Center for Creative Ecologies. Har- away’s work explores science fact, science ﬁc- tion, speculative feminism, speculative fab- ulation, science and technology studies, and multispecies worlding. Her books include Stay- ing with the Trouble: Making Kin in the Chthulu- cene (2016); Manifestly Haraway (2016); When Species Meet (2008); The Companion Species Man- ifesto (2003); The Haraway Reader (2004); Mod- est_Witness@Second_Milennium (1997, 2018); Simians, Cyborgs, and Women (1991); Primate Visions (1989); and Crystals, Fabrics, and Fields (1976, 2004); Making …",
+      "source": "Bruno Latour (editor), Peter Weibel (editor) - Critical Zones_ The Science and Politics of Landing on Earth (2020, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 239,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.8045578,
+      "importance": 0.8195834755897522,
+      "final_score": 0.639825701713562
+    }
+  ]
+}

@@ -1,0 +1,1213 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "georges-bataille-eroticism-expenditure-general-economy",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "a40b4aad05b052f51f40b523",
+      "qdrant_id": "afbbb99f-bc0e-5cbf-9c7b-aa67e2db224c",
+      "text": "contrary that Bataille’s investment in the promise of eroticism had not only been anticipated by American capitalism, but that eroticism had become the economy’s general model: ‘a single, global erogenous zone’ that pulsed and dilated at the threshold of nothing but emptiness: The total eroticization of the economy has little to do with advertisers’ perennial attempt to sell products by associating them with sex. The totally eroticized economy opens desire to an unlimited terrain for the ex nihilo supply of ever more commodities whose saleability alone determines whether they have become ‘useful’. Desire, here, is predicated on the absence of any final object: the",
+      "source": "Stronge, Will(Editor) - Georges Bataille and Contemporary Thought (2017, Bloomsbury Publishing PLC) - libgen.li.pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7797089,
+      "importance": 0.807465136051178,
+      "final_score": 0.779708981513977
+    },
+    {
+      "id": "a8d283fab8477060522a18d6",
+      "qdrant_id": "4124895b-bfe3-56bd-af08-13a5f668bab9",
+      "text": "18, 1965), pp. 22-23. The evident affinities of Bataille's thinking about eroticism with Lacan's are not accidental: Lacan was much influenced by Bataille. 17. \"The Notion of Expenditure,\" in Georges Bataille, Visions of Excess: Selected Writings, 1927-1939, ed. Allan Stoekl, trans. Allan Stoekl with Carl R. Lovitt and Donald M Leslie, Jr. (Minneapolis: University of Minnesota Press, 1985), p. 120. 18. Bataille, L'erotisme, p. 140. 19. Comolli, \"Machines of the Visible,\" in Lauretis and Heath, The Cinematic Apparatus, pp. 122-23. 20. Linda Williams, Hardcore: Power, Pleasure, and the \"Frenzy of the Vis- ible\" (Berkeley and Los Angeles: University of California Press, 1989). Williams makes the pertinent argument that hard-core cinema is preoccupied with filming male orgasm precisely because it is baffled by the invisibility of female orgasm: \"Hard core desires assurance that it is witness…",
+      "source": "Peter Brooks - Body Work_ Objects of Desire in Modern Narrative (1993, Harvard University Press) - libgen.li.pdf",
+      "chunk_index": 156,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.76145566,
+      "importance": 0.8021178841590881,
+      "final_score": 0.761455774307251
+    },
+    {
+      "id": "ef9191133b1bacba7f5db304",
+      "qdrant_id": "7e85455a-d8f9-5bb0-8249-f4e5f52f463a",
+      "text": "a “general economy” that takes excess and expenditure, rather than lack and the need for accumulation, as its starting point. Bataille links the solar “superabundance of energy on the surface of the globe” to the need for sacriﬁ ce, which, under various guises, eliminates the dangerous energetic surplus that threatens to annihilate those who hoard it. Erotism is a dis- tinctive account of the sacriﬁ cial dimensions of physical and religious erot- icism, linking eroticism to an experience “at the level of death” that “jerks us out of a tenacious obsession with the lastingness of our discontinuous,” individual being. And in Lascaux and Tears of Eros, Bataille links the history and practice of art to the history and practice of religious sacriﬁ ce and erotic bliss. Whether through economics, erotics, or aesthetics, Ba- taille seeks to overcome concern with the lastingness of t…",
+      "source": "[Perspectives in continental philosophy] Bataille, Georges_ Biles, Jeremy - Negative ecstasies _ Georges Bataille and the study of religion (2015, Fordham University Press) - libgen.li (1).pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.76064444,
+      "importance": 0.7794486284255981,
+      "final_score": 0.7606443762779236
+    },
+    {
+      "id": "04b53d4367470b5fb12d5d14",
+      "qdrant_id": "0ad79a00-9ca4-59b7-9e98-f4214ce9f749",
+      "text": "16 Introduction not an exceptional domain, guided by unique manifes- tations of rational action or semi-divine invisible hands, but rather merely one more instance of all-too fleeting negentropy. It is one of a potentially infinite number. Bataille posited “the notion of a ‘general economy’ in which the ‘expenditure’ (the ‘consumption’) of wealth, rather than production, was the primary object” (9). By turning classical economics on its head – and empha- sizing all the ways in which organisms and societies are obliged to deal with “the accursed share” (i.e., waste, luxury, excess, and so on) – Bataille widens the frame of Freud’s tautology – “libidinal economy” – to include the entire cosmos. All modes of exchange – whether commercial, gifting, or sacrificial – are underwritten by an erotic exuberance flowing from the energetic mandate of life itself. “[I]t is not necessity…",
+      "source": "Dominic Pettman - Peak Libido_ Sex, Ecology, and the Collapse of Desire (2020, Polity Press) - libgen.li.pdf",
+      "chunk_index": 57,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7577617,
+      "importance": 0.7887589931488037,
+      "final_score": 0.7577617764472961
+    },
+    {
+      "id": "59ac6604f797ee7e745c6772",
+      "qdrant_id": "8ce1ea78-43ec-5454-a087-e1da39cb8bca",
+      "text": "65).8 It is also entailed in one of Bataille’s first important articles, ‘The Notion of Expenditure (1933)’, where it is articulated in terms of a ‘principle of loss’, ‘unproductive expenditure’ or ‘consumption’, and where the examples listed are: ‘luxury, mourning, war, cults, the construction of sumptuary monuments, games, spectacles, arts’, and finally ‘perverse sexual activity’, that which is ‘deflected from genital finality’ (VE, 118). Bataille’s own distinctive focus is on how the impetus for such transgression comes from the object of taboo gaining its distinctive erotic hue as desire dams up, and is even in part damned, or accursed: making it the paradoxical object of anguish and awe that lifts primitive mind high onto the religious plane. This plane is the imaginary register, linked to the post-symbolic sense of the real in Lacan, which is often simply contracted as ‘…",
+      "source": "[Global aesthetic research] Tim Themi - Eroticizing aesthetics_ in the real with Bataille and Lacan (2021, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 76,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7532065,
+      "importance": 0.7879788279533386,
+      "final_score": 0.7532063722610474
+    },
+    {
+      "id": "8591863d2805f2c3533af8e1",
+      "qdrant_id": "0911cd31-d21c-5962-b19b-adaaea65ff16",
+      "text": "the central Bataillean notion of the 'general economy', given its emergence as an effect of cultural systems of rejection, prohibition and taboo. The 'inner experience' of eroticism is, of course, bound up with the transgres­ sion that defines both the limit of human systems of productivity and the place of the particular being in relation to them. Where culture recoils in horror from death, decay, filth and sexuality, it restores its homogeneous limits and binds individuals to its service. Eroticism's transgression of boundaries turns, thereby, on abjected forms of existence, animal, sexual and taboo, 'leaping into the unknown, with animality as its impetus' (p. 251). From such expenditure of natural energies, in its embrace of the rejected, profane world, eroticism paradoxically accedes to the sphere of the sacred, negating nature, precisely through its adoration of the base corporeality of the flesh. Hence the erotic attraction of limits and taboos,",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li.pdf",
+      "chunk_index": 57,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7462208,
+      "importance": 0.7865859270095825,
+      "final_score": 0.7462209463119507
+    },
+    {
+      "id": "b044d19c7f072b1cb94187a5",
+      "qdrant_id": "1868288e-7823-5da9-b8e6-ee4eda1bbf5e",
+      "text": "God. Eros disappeared from the philosophical scene in modern philosophy, to come back as a philosophical problem in Bataille, who reconsidered it by taking seriously Nietzsche’s concept of life as play of forces and the teach- ings of the structuralist anthropologists, notably, Claude Lévi-Strauss. In the second chapter, “Georges Bataille: Erotic Experience,” I explore Bataille’s economy of erotic experience. The Accursed Share describes the erotic experience as the expenditure of bioenergy and describes sovereignty with reference to the general economy of life. Bataille’s economy of living being takes its departure from an understanding of the body as part of the global flow of energy and offers a reflection on the ontological significance of the erotic experience. I show how the question of human sexuality is related to the problem of the constitution of the profane world and how central it is to the sacred world. I argue that Bataille neglected the question of",
+      "source": "Ontologies of Sex Philosophy in Sexual Politics (Zeynep Direk) (Z-Library).pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7432939,
+      "importance": 0.7845360636711121,
+      "final_score": 0.743293821811676
+    },
+    {
+      "id": "b59092e1370f52613241613d",
+      "qdrant_id": "3824474e-f4b8-5657-8406-ab1844ec83cc",
+      "text": "be seen in transgressive, nonreproductive sexuality, festivals of indulgence and abundance, transgressive violence, and sacrifice. Expenditure and sacrifice, in Bataille’s view, are contrasted to utility and project. In rational models of economic development, excess is deployed Movements of Luxurious Exuberance m= 23",
+      "source": "[Fordham Perspectives in Continental Philosophy] Jeremy Biles, Kent Brintnall - Negative ecstasies_ Georges Bataille and the study of religion (2015, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 93,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.74205446,
+      "importance": 0.7734007835388184,
+      "final_score": 0.7420546412467957
+    },
+    {
+      "id": "cd18954e0e08b397a33f6236",
+      "qdrant_id": "32a81ed6-a96c-5b46-9c4b-023090e11ede",
+      "text": "the backdrop for his approach, which is “to recognize in the economy – in the production and use of wealth – a particular aspect of terrestrial activity regarded as a cosmic phenomenon.”133 As Bataille rhetorically notes, “isn’t there a need to study the system of human production and consumption within a much larger framework?”134 In as much as The Accursed Share is, in Bataille’s words, a work of political economy, it is also very much an expanded view of what terms like “economy,” “wealth,” and “production” may mean. The economy, in its conventional and narrow, human-centric meaning, in the last instance dips down into the bowels of the viscous planet, which itself can only be known on the radically non-human level of deep time. Bataille is asking for more than a simple marriage of economy and ecology, however. In this “cosmic” perspective, economy is also the wealth, production, and expenditure of the non-human planet: “A movement",
+      "source": "Eugene Thacker - In the Dust of This Planet (2011, O Books) - libgen.li.pdf",
+      "chunk_index": 397,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.73816395,
+      "importance": 0.7736643552780151,
+      "final_score": 0.738163948059082
+    },
+    {
+      "id": "0c24f8bcaa47ca01f5d90f90",
+      "qdrant_id": "64129e4f-277e-5510-95eb-7d0b15704069",
+      "text": "that the slightest contact is sufﬁcient to destroy the fragile double helices of DNA and cell membranes.3 However, its role as protector against these dan- gerous invaders is not enough for the enterprising coelenterazine. It uses its con- siderable excess energy to produce aesthetic surplus value. In periods when their microworld is not under threat from any quarter, these submolecules of the luciferins enable the bioluminescing invertebrates in the darkness of the ocean to stage a quasi-poetic release of accumulated energy: a phenomenal economy of squanderous expenditure. Georges Bataille understood his provocative “general economy” as a critique of the productivity mania of the capitalist system that, in principle, commu- nism would also perpetuate. As an alternative to this paradigm, he proposes a truly luxurious concept of economy, formulated as a metaphor in An Economy within the F…",
+      "source": "[Electronic Culture_ History, Theory, and Practice] Siegfried Zielinski - Deep Time of the Media_ Toward an Archaeology of Hearing and Seeing by Technical Means (2006, The MIT Press) - libgen.li.pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7322526,
+      "importance": 0.7664223909378052,
+      "final_score": 0.7322527170181274
+    },
+    {
+      "id": "99ef9675c4533f1a3ea9681e",
+      "qdrant_id": "7d83c39b-9613-5a06-9611-716417daa6e1",
+      "text": "Bataille distinguishes economy in the conventional sense from this other, cosmic economy. The former – a “restricted” economy – is near-sighted in its goals, and has the human (be it in terms of humanity generally or specific interest groups) as its final goal. The latter – a “general” economy – is the view of the deep time of the planet, its tectonic shifts and atmospheric transformations, all of which takes place indifferently to the human-bound interests of the restricted economy. In the former, we not only see rivers, but also dams, bridges, and occasions for sport. In the latter, our language falters, opting for either the poetic (the ebb and flow of life) or the scientific (fluid dynamics, laminar flow). The failure of Bataille’s project was, interestingly, to insinuate that a better appreciation of the general economy could lead to a critique and even transformation of the all-too-human restricted economy, especially when",
+      "source": "Eugene-Thacker-In-the-Dust-of-This-Planet_-Horror-of-Philosophy-_Volume-1_-_Horror-of-Philosophy_-1_.pdf",
+      "chunk_index": 363,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.731954,
+      "importance": 0.7613075375556946,
+      "final_score": 0.7319538593292236
+    },
+    {
+      "id": "b06b2444438a1d0cbe369382",
+      "qdrant_id": "3a83ba50-a601-5ba4-9bec-295329786f21",
+      "text": "compellingly compared pornography to prostitution, and therefore to the direct commodification of women’s bodies. The scholars who originated these ideas, such as Dworkin, speak radically about all images of sex and even the act of sex itself, making claims about the underlying patriarchal nature of all sexual interactions between men and women by citing the clear depiction of patriarchal relationships in pornography.112 These French scholars, on the other hand, compare pornography and eroticism, a distinction which Dworkin explicitly rejected.113 In this later French scholarship, erotic images are said to entail none of the aforementioned negative connotations associated with consumption. Must we therefore assume that eroticism exists in a realm outside economic exchange value and monetary equivalence? Not quite. Erotic texts are presented as works of art. In contrast to pornog…",
+      "source": "Eroticism, Pornography, Love The Discursive Politics of Reactionary French Scholarship on Sexual Imagery (Oliver Kenny) (Z-Library).pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7316602,
+      "importance": 0.7801421284675598,
+      "final_score": 0.7316604852676392
+    },
+    {
+      "id": "f3cc7166d4434e07a8d60c2c",
+      "qdrant_id": "d63a4f70-c27d-5ad5-9184-2e0edee02692",
+      "text": "tari, Kristeva—widely recognized him as one of the most in¶uential ¤gures of the early twentieth century, the work of Georges Bataille continues to func- tion as a sort of blind spot in Anglophone scholarship engaging twentieth- century French philosophy. Associated almost exclusively with his early work of erotic ¤ction, Story of the Eye, Bataille retains, as Pierre Lamarche puts it in his essay for this volume, “the simultaneously exotic and scandal- ous air of the old-fashioned libertine homme des lettres—the medievalist, ar- chivist, mystic pornographer who was fascinated by the abject, excessive, debauched, and diabolical.” His name is almost always uttered along with that other libertine, Sade, ushering them both into the waste bin of literary erotica, cleanly dismissed from the realm of serious or real “philosophy,” “political theory,” or, most certainly, “economic theory.” And ye…",
+      "source": "Shannon Winnubst - Reading Bataille Now (2007) - libgen.li.pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7309563,
+      "importance": 0.763598620891571,
+      "final_score": 0.7309563159942627
+    },
+    {
+      "id": "40bbea344004930c1e418ff7",
+      "qdrant_id": "55ca751a-79b2-52df-88c6-1d06d37e826a",
+      "text": "power, its cultural significance, and its ability to produce effects in the extra-textual social world. Of course, Bataille and Dworkin are in fact in agreement about what constitutes “the dirty secret of sex”; Dworkin, too, feels that eroticism in its current form connects all too easily with violence and death, and that pornography clearly demonstrates the fact “that male pleasure is inextri- cably tied to victimizing, hurting, exploiting; that sexual fun and sexual passion in the privacy of the male imagination are inseparable from the brutality of male history” (Pornography 69). As Noys points out, however, her “desire to categorize and condemn, to draw up firm boundaries and taboos, at once makes her feel the violence of transgression more and fail to appreciate the porous boundary between her own work and Bataille’s” (Georges Bataille 88). Similarly, anti-pornography fe…",
+      "source": "Hester, Helen - Beyond Explicit_ Pornography and the Displacement of Sex (2014, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 110,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival",
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7306794,
+      "importance": 0.7787765860557556,
+      "final_score": 0.7306795120239258
+    },
+    {
+      "id": "f1f7c3d80eb811e247ca9176",
+      "qdrant_id": "4d6be0e7-ea75-5410-a27f-c0eb91c9c133",
+      "text": "134 The Use-value of Georges Bataille reconnaître à bon marché la littérature en la contrôlant de très près – c’est-à-dire en filtrant soigneusement ses écarts (qu’on pense seulement à la sordidité de tout ce qui touche à la notion de ‘prix littéraire’) –, mais aussi, de façon plus subtile, un moyen de faire règner un conditonnement permanent qui va beaucoup plus loin que le simple marché du livre. LE ROMAN EST LA MANIERE DONT CETTE SOCIETE SE PARLE, la manière dont l’individu DOIT SE VIVRE pour y être accepté.21 V. The Economy of the Limit Text 1. The limit texts are those which confound social conditioning; their position with respect to the economy (their use-value, expenditure) is unconventional, hence a certain ‘illisibilité’: Les textes choisis se trouvent ainsi en position de charnières: d’un côté ils nous ‘parlent’, ils hantent notre discours qui est obligé de leur faire une place en les déformant; de l’autre, et ceci dans leur lettre même, ils",
+      "source": "Andrew Hussey (Editor) - The Beast at Heaven’s Gate_ Georges Bataille and the Art of Transgression (Faux Titre 282) (2006, Editions Rodopi BV.) - libgen.li.pdf",
+      "chunk_index": 384,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.728908,
+      "importance": 0.7662259936332703,
+      "final_score": 0.7289081811904907
+    },
+    {
+      "id": "29cae90566bb93ab0dfec71b",
+      "qdrant_id": "ed495b43-66dd-596a-bde4-a548b2dc09c8",
+      "text": "\"ideas.\" 20. See the letter of Leiris to Bataille, written on July 3, 1939 (II, 454-55). 21. L'Erotisme (Paris: Minuit, 1957) has not yet been collected in Bataille's Oeuvres Completes. L'Erotisme has been translated as Death and Sensuality, ed. R. Kastenbaum (1962; reprint, New York: Arno, 1977). 22. Bataille's position vis-a-vis Marxism is, to say the least, a complex one. While it seems that, at least up until 1936, Bataille was trying to join his notion of expenditure to the negativity envisaged by Marxism, it is clear that already in 1935, in his novel Le Bleu du ciel (Blue of Noon), Bataille recognizes a rending conflict between a devotion to expenditure and a devotion to the revolutionary productivity and utility valorized by Marxism. In his later writings (of the 1940s and 50s) Bataille is no longer overtly Marxist, but the problem of inner conflict or sundering, outlined in Le B…",
+      "source": "Georges Bataille - Visions of excess - libgen.li.pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.72713053,
+      "importance": 0.7692967653274536,
+      "final_score": 0.7271305322647095
+    },
+    {
+      "id": "222a6343d5707bae1ff21bf2",
+      "qdrant_id": "eae28a1d-668a-5a7c-a405-047bb7fdffff",
+      "text": "used to power and feed it. Therefore, the alteration in fuel sources in the last half of the twentieth century presents Bataille’s theories of expenditure with a need to think simultaneously about depletion. Showing how Ba- taille, despite his own theories, opens onto a reconsideration of value in light of its energy sources, Stoekl brings these insights to bear directly on the quandaries facing contemporary “car cultures” and hyper-consumption. By following Bataille’s logic, Stoekl argues we will ultimately arrive at an- other way of thinking about what human survival will mean in the future— how, in other words, sustainability can be conceived in relation to the most fundamental human practices. As a whole, this collection of essays offers several different ways in which Georges Bataille’s three-volume work in political economy, The Ac- cursed Share, might radically alter our understan…",
+      "source": "Shannon Winnubst - Reading Bataille Now (2007) - libgen.li.pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.72518325,
+      "importance": 0.7699037194252014,
+      "final_score": 0.725183367729187
+    },
+    {
+      "id": "ad61df8b488e1e2e5a75f8f2",
+      "qdrant_id": "570257f1-01b0-5bff-8e56-bf65beb35cda",
+      "text": "by an erotic exuberance flowing from the energetic mandate of life itself. “[I]t is not necessity,” notes Bataille, “but its contrary, ‘luxury,’ that presents living matter and mankind with their fundamental problems” (12). Scarcity is revealed to be a red herring, with excess being the true protagonist all along. Updating and adapting the vision of his compatriot Charles Fourier (whom we shall learn more about in chapter 2), Bataille insists upon the primacy of “la grande consommation,” as a more existentially honest way of living with the forces and resources of the universe.31 (“[E]xcess energy, translated into the effervescence of life.”)32 “Economic science,” writes Bataille, “merely generalizes the isolated situation; it restricts its object to operations carried out with a view to a limited end, that of economic man. It does not take into consideration a play of ene…",
+      "source": "Dominic Pettman - Peak Libido_ Sex, Ecology, and the Collapse of Desire (2020, Polity Press) - libgen.li (3).pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.72289324,
+      "importance": 0.7706486582756042,
+      "final_score": 0.7228932976722717
+    },
+    {
+      "id": "f3ed64a003a4ba3e3c52a79c",
+      "qdrant_id": "49614572-17af-5be6-a679-727eddbdbd20",
+      "text": "Chapter 2 48 that Bataille is not concerned with an ethics of Eros based on principles and prohibitions; however, his search for intimacy in violent sexual encounters is not the same as a sadism that dominates over the other and does not care for the other’s life. In Bataille’s literary works erotic violence is not provoked by hatred—it has ontological significance and does not exclude care for the other. Bataille has a very interesting ontology of sex, which rests on ontolog- ico-economical paradoxes and the negativity of sexual desire; however, he does not sufficiently reflect on what it means to be in an erotic relationship from an ethical point of view. BATAILLE’S ONTOLOGY OF SEX: THE ECONOMIC AND THE EROTIC In The Accursed Share, the term “general economy” refers to the exuberance of living matter as a whole. The problem of the general economy, which can be seen by a macroscopic gaze, concerns the excess rather than the lack of",
+      "source": "Ontologies of Sex Philosophy in Sexual Politics (Zeynep Direk) (Z-Library).pdf",
+      "chunk_index": 136,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.72138655,
+      "importance": 0.762076735496521,
+      "final_score": 0.7213866710662842
+    },
+    {
+      "id": "9aa53d067b5352c965de5379",
+      "qdrant_id": "ef8a8dfa-140f-55ec-b833-b9c717fbea10",
+      "text": "to the insistent presence of factors in economic life that exceed the prin- ciples of utilitarian thought, such as honor, duty, and altruism. Th e kinds of expenditures Bataille favors involve the transgression of the world of work, of things, of rational planning for useful ends, and entrance into a world of intimacy, where wealth is expended with no productive end in view and where the illusions of human separation and discontinu- ous selfhood are shattered in a sometimes violent excessive exuberance. Th is can be seen in his discussion of sacriﬁ ce. In his view, sacriﬁ ce is about transforming the object to be sacriﬁ ced from its status as an object and returning it to a place where it is beyond use, a sacred, if accursed, place, one that he identiﬁ es as intimacy. Sacriﬁ ce does not need to destroy the thing sacriﬁ ced, but it destroys its utility, its function as a thing rel…",
+      "source": "[Perspectives in Continental Philosophy] Jeremy Biles, Kent L. Brintnall - Negative Ecstasies_ Georges Bataille and the Study of Religion (2015, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.72133523,
+      "importance": 0.7652547359466553,
+      "final_score": 0.7213354110717773
+    },
+    {
+      "id": "4b7bc7b6d4b9478df30cbb6f",
+      "qdrant_id": "5153317d-b76a-513f-b7a5-37cabbdcbea5",
+      "text": "aware of the erotic lure of the latter ideology. Bataille’s own focus on eroticism, developed most systematically in his seminal Eroticism (Bataille 2001a), is already implicit in these earlier texts and is also developed in his controversial literary work, such as Madame Edwarda and Ma Mère (Bataille 1986a). Bataille’s later work also develops an interest in the relationship between the erotic and the sacred, most notably in his trilogy La Somme Athéologique, comprising Inner Experience, On Nietzsche and Guilty (Bataille 1988b). Since the 1970s, Bataille’s work has increasingly come to be seen as an important precursor to the development of postmodernist thinking. This chapter will focus on the complexity of Derrida’s relation to Bataille’s work. I will begin by analysing the detail of Derrida’s most sustained treatment of Bataille’s work, in the essay ‘From Restricted to Gen…",
+      "source": "Jones Irwin - Derrida and the Writing of the Body (2010, Ashgate) - libgen.li.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.72045386,
+      "importance": 0.7682921290397644,
+      "final_score": 0.7204537987709045
+    },
+    {
+      "id": "91f77f32eab60fb93319964b",
+      "qdrant_id": "363dd225-00cc-516f-8c62-97d60d35b5b1",
+      "text": "350 Index economy (cont'd) general economy 19, 29, 1 65-219: and eroticism 1 3, 271-4; laws of 1 88-98; the meaning of 1 82- 7; and postmodernity 28 restricted economy and production 171, 2 1 3, 239 ecstasy 1 0, 46, 57-8, 82, 87, 225, 234, 309 and love 89 Ehrmann, Jacques 33 n. Einstein, Carl 1 1 4 Eisenstein, Sergei 295 iViva Mexico! 295 eroticism 1 1-14, 1 6, 58-61, 1 3 1 , 22 1-74, 309 and capital 3 1 and death 1 3, 242-7 and general economy 1 3, 271-4 and horror 1 3, 242, 253-4 and sovereignty 239 ethics 1 86 and horror 27 ethnic cleansing 30 evil 7-9, 1 8, 335 and base materialism 1 62-3 and the crucifixion of Christ 92 and judgement 39 and Nietzsche 334-5 and the thieving rabble 25 excretion 19-20, 1 50-2, 1 54-6, 1 73 expenditure 2, 22-7, 31, 57, 1 50-1, 1 67-8 1 and base matter 1 9 and Christianity 1 78-9 and class struggle 1 76-8 and ecstasy 9 and eroticism 1 3 functional expenditure 1 74-6 and gift-exchange 2 1 and luxury 246",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li.pdf",
+      "chunk_index": 210,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7195627,
+      "importance": 0.7550731897354126,
+      "final_score": 0.7195627093315125
+    },
+    {
+      "id": "6876938e7c064b0d2bb8eec0",
+      "qdrant_id": "884919d8-3a92-56c3-aaba-0e06c6d493cb",
+      "text": "georges bataille 51 investment in Bataille, while libidinal theorists such as Gilles Deleuze and Félix Guattari and Jean-François Lyotard and post- Marxist sociologists such as Jean Baudrillard have pursued Bataillean themes (eroticism, transgression, ex- penditure) even more explicitly. Bataille’s inﬂ uence on contemporary critical thought would thus be difﬁ cult to overestimate. In the English- speaking world this inﬂ uence for a long time tended to be covert (the term “general economy” is still often em- ployed with little sense of its history or import) or restricted to par tic u lar conﬂ u- ences of high theory and avant- gardism. In the last de cade or so of the twentieth century, however, Bataille became an increasingly visible ﬁ gure in Anglo- American theoretical writing: almost all of his major work has been translated into En glish, and the list of books partly or whol…",
+      "source": "Groden, Michael_Kreiswirth, Martin_Szeman, Imre - Contemporary Literary and Cultural Theory_ The Johns Hopkins Guide (2012, Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 139,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71926534,
+      "importance": 0.761892557144165,
+      "final_score": 0.7192654609680176
+    },
+    {
+      "id": "a1a587e6f2a4d1557386d382",
+      "qdrant_id": "a4689b97-a62f-5891-87d2-4d29e28409e4",
+      "text": "of reading the fin-de-siècle cultural moment which renders the themes of economy and desire—and their meeting point in the period’s literature— more salient. The collection has been organised into three key sections: ­Articulating Desire, which focuses on how the libidinal economy is expressed in language; Human Currencies, which considers the body’s imbrication in economic exchange; and Queer Performativities, which examines sex- ual economies of difference with an emphasis on the subversive erotics of parody and role play. In ­practice, there is much dialogue between these themes but the libidinal economy / economy of desire / sexual economy is as slippery as this ranging nomenclature suggests: a lack of definition that is, perhaps, reinforced through the libidinal economy’s association with the qualities of ­“indirection, incompleteness and self-reflex[ivity]” that define ex…",
+      "source": "[Routledge studies in nineteenth-century literature 16] Ford, Jane(Editor)_Keates, Kim Edwards(Editor)_Pulham, Patricia( - Economies of desire at the Victorian Fin de Sicle_ libidinal lives (2015_2016, Routledge).pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7160049,
+      "importance": 0.7700877785682678,
+      "final_score": 0.7160048484802246
+    },
+    {
+      "id": "ae479af7dbe3f4bf6d9aca90",
+      "qdrant_id": "2d662909-db40-5a54-a63f-35c2f3af0516",
+      "text": "of pornography is the sense of real action, and which the money shot ‘proves’ by showing us the actual coming, as Power suggests, female pleasure and the orgasm in particular, is harder to measure (Power 2009: 54). Apart from the numerous other problematics related to the female orgasm that we noted in Chapter 4, it also emerges here as denying us the access to the real perceivable through male ejacu- lation. To be claimed into the visual economy, her pleasure must be made surface. This ‘frenzy of the visible’, to borrow Williams’s term, spatially reconfigures the classic positioning of female body as a passive receptacle – a modern day, capitalist version of Freud’s ‘anatomy is destiny’ – as the face rather than the ovum becomes the repository of sexual expenditure. With the focus on a particular sexual economy invested in capital- ist, Oedipal and gendered flows, that is, on sexual pleasure as caught up ‘in a bound state on the body of capital’ (Deleuze and Guattari",
+      "source": "Frida Beckman - Between Desire and Pleasure_ A Deleuzian Theory of Sexuality (2013, Edinburgh University Press) [10.1515_9780748645930] - libgen.li (1).pdf",
+      "chunk_index": 598,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7155385,
+      "importance": 0.7705564498901367,
+      "final_score": 0.7155382633209229
+    },
+    {
+      "id": "88565c33129ebc5a4b7368c6",
+      "qdrant_id": "87bac51f-cd6b-5263-8a5a-cd3e6716c14c",
+      "text": "(University of Nebraska Press, Lincoln, NB, and London, 1 98 1). Carolyn Bailey Gill (ed.), Bataille: writing the sacred (Routledge, London, 1994). Jean-Joseph Goux, 'General economics and postmodern capitalism', tr. Kathryn Ascheim and Rhonda Garelick, Yale French Studies, 78 (1990), pp. 206-24. Reprinted in Bataille: a critical reader, eds Fred Botting and Scott Wilson (Blackwell, Oxford, 1 997). Suzanne Guerlac, \"'Recognition\" by a woman!: a reading of Bataille's L'Erotisme', Yale French Studies, 78 ( 1990), pp. 90-105. Jiirgen Habermas, 'The French path to postmodernity: Bataille between eroti­ cism and general economics', tr. Frederic Lawrence, New German Critique, 33 (1984), pp. 79-102. Reprinted in Bataile: a critical reader, eds Fred Botting and Scott Wilson (Blackwell, Oxford, 1 997). Jean-Michel Heimonet, 'From Bataille to Derrida: Differance and Heterology', tr. A. Engstrom, Stanford French Review, 1 2 (1 988), pp. 1 29-47.",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li.pdf",
+      "chunk_index": 196,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71520567,
+      "importance": 0.7633629441261292,
+      "final_score": 0.7152056694030762
+    },
+    {
+      "id": "8f0278044b693635763d4d0b",
+      "qdrant_id": "6c2c8374-6fbb-5e8f-902e-ac85dd8d4fd1",
+      "text": "18 Georges Bataille and Contemporary Thought the point where bodies become overburdened, malfunction (diabetes, strokes, heart attacks) and die. The production of obesity is increasing exponentially as the American way of life spreads from the Anglophone world to developing economies such as China, India and Brazil. The WHO reports that the 857 million obese bodies recorded in 1980 increased to 2.1 billion in 2013. There is no prospect of this increase diminishing – quite the contrary. The genocidal ‘sacrifice’ of over 2 billion bodies, then, is an impressive achievement for any social-economic system that neatly combines two of Bataille’s great luxuries of nature: eating and death. Further, the relative deferral involved in death by obesity on such a scale promises to change the culture of the third great luxury, sex, which in human societies takes the general economic form o…",
+      "source": "Stronge, Will(Editor) - Georges Bataille and Contemporary Thought (2017, Bloomsbury Publishing PLC) - libgen.li.pdf",
+      "chunk_index": 73,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71478343,
+      "importance": 0.7556360960006714,
+      "final_score": 0.7147835493087769
+    },
+    {
+      "id": "b31f2d10ae85614dca090b92",
+      "qdrant_id": "f32fbe94-36b8-5d1f-bed5-e68b085641d2",
+      "text": "the other hand, comprises various forms of ‘non-productive expendi- ture’, objects and states having no exchange value and that tend to provoke a strong and often ambiguous affective reaction (simultaneous attraction and repulsion). As the waste-matter of the homogeneous world, heterogeneous reality arrives ‘with a force or a shock’ and has a disturbing, even revolutionary potential; examples include human excrement and bodily secretions, vermin, garbage, body parts, words carrying an erotic suggestion, unconscious processes such as dreams and neuroses, criminals, madmen, poets. In ‘The Notion of Expen- diture’ (1933), Bataille insists again on the insufficiency of the principle of classical utility; evoking the bloody sacrifices of the Aztecs and the practice of potlatch among the Tlingit Indians of the American Northwest (as analysed by Marcel Mauss), he asserts the value to society of…",
+      "source": "John L. Protevi - The Edinburgh Dictionary of Continental Philosophy (2006, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71441424,
+      "importance": 0.764253556728363,
+      "final_score": 0.7144142985343933
+    },
+    {
+      "id": "e03111ff8645d51f2368ef02",
+      "qdrant_id": "ab191b33-1aa2-542c-8ac9-f12c46097af5",
+      "text": "Movements of Luxurious Exuberance ■  diture in conformity with a reasoning that balances accounts,” he writes, “bourgeois society has only managed to develop a universal meanness,” rather than the generosity of expenditure. For Bataille, excess happens—thus expenditure must. What we get to decide is how excess is expended: the kind of squander we can live with. “Excess energy,” he writes, “if it cannot be used for growth, is lost. More- over, in no way can this inevitable loss be accounted useful. It is only a mat- ter of an acceptable loss, preferable to another that is regarded as unaccept- able: a question of acceptability, not utility. Its consequences are decisive, however.” For him, acceptable means of expenditure generate intimacy by taking people out of the logic of productivity and into the intimacy with the world that they crave. Social structures founded on utili…",
+      "source": "[Perspectives in continental philosophy] Bataille, Georges_ Biles, Jeremy - Negative ecstasies _ Georges Bataille and the study of religion (2015, Fordham University Press) - libgen.li (1).pdf",
+      "chunk_index": 98,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71437,
+      "importance": 0.7575052380561829,
+      "final_score": 0.7143701314926147
+    },
+    {
+      "id": "3c6d5f33032ae4825d5d3b18",
+      "qdrant_id": "b21062c1-cf9f-5548-8493-4812f9b5e8b2",
+      "text": "with the world that they crave. Social structures founded on utility will disperse their excess too, but those dispersions may run much higher risks than the dispersions he prefers. In the first volume of 7he Accursed Share, he illustrates the contrast with two historical cases: the Marshall Plan and Hiroshima. The former expended excess through a radical redistribution that confounded the logic of national self-interest and the illusion of sep- arateness; the latter reHected a denial of limitation and an insistence on the usefulness of excess that ultimately exploded, annihilating life itself. Bataille’s notion of expenditure can be used in at least two ways in thinking about fatness. From the perspective of critics of modern indus- trial capitalism, of fatness, and of the connection between the two, there is a reading of Bataille that supports their view. For those with a cert…",
+      "source": "[Fordham Perspectives in Continental Philosophy] Jeremy Biles, Kent Brintnall - Negative ecstasies_ Georges Bataille and the study of religion (2015, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 99,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71357596,
+      "importance": 0.7589097619056702,
+      "final_score": 0.7135759592056274
+    },
+    {
+      "id": "ee80879ecc9b9fcd59a56d58",
+      "qdrant_id": "8224f8e7-23a2-5e15-ae08-59197b8d861b",
+      "text": "26 Georges Bataille and Contemporary Thought In their idleness, the wives of rich Arabs sustained their erotic charms in contrast to the dynastic wives of the classical and medieval West whose domain was not so much eros as oikos, the management of the household. The role of the veiled wife as erotic object held out of the restricted use-circuit of commerce or the exchange of gazes seems to have more in common with the ‘consecrated’ prostitute of the pagan world or even of the rich Renaissance Italian city states. ‘Certain women become objects in marriage’, writes Bataille, ‘they are the instruments of domestic work, of agriculture particularly … Prostitution made [women] into objects of masculine desire’ dedicated to the ‘close embrace’ of a ‘convulsive continuity’.45 This form of prostitution has nothing to do with the commercial aspect of modern prostitution but with the as…",
+      "source": "Stronge, Will(Editor) - Georges Bataille and Contemporary Thought (2017, Bloomsbury Publishing PLC) - libgen.li.pdf",
+      "chunk_index": 105,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.71355796,
+      "importance": 0.7521217465400696,
+      "final_score": 0.7135578393936157
+    },
+    {
+      "id": "ee09f95ec44fa18658abb592",
+      "qdrant_id": "95d49e3d-8a94-5905-bfb1-cb9497c07378",
+      "text": "forms of nonproductive expenditure into a theory of general economy. In The Accursed Share, Bataille draws on Marcel Mauss’s analysis of the potlatch to argue for the economic necessity of excessive nonproductive expendi- ture: ‘the problem posed is that of the expenditure of the surplus. We need to give away, lose or destroy.’34 The limited infraction of prohibitions is inte- gral to the psychological containment of the individual, and also the main- tenance of the broader economic system, which he argues cannot function on rationality, profit and productivity alone. Members of a society produce more than the system needs for its own survival, and must therefore engage in nonproductive ­expenditure – ­useless ­consumption – ­to avoid catastrophic expenditures such as war.35 If not, ‘we will be suffering the desire for expend- iture rather than living it in positive ecstasies (tha…",
+      "source": "Oliver Kenny - Transgressive Art Films_ Extremity, Ethics, and Controversial Images of Sex and Violence (2023, Edinburgh University Press) [10.1515_9781474483957] - libgen.li.pdf",
+      "chunk_index": 127,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7122641,
+      "importance": 0.7442197799682617,
+      "final_score": 0.7122642993927002
+    },
+    {
+      "id": "5a2ec3d8375f4de7fb499209",
+      "qdrant_id": "70d6c720-a082-511a-b732-8c3f54d88443",
+      "text": "with emotional excruciations. In his attempts to write of experience at the limits, Bataille tortures and contorts language and writerly forms, seeking to communicate his mystical agnosia, an apophatic aporia that he called “the impossible.” These books are anti- or transgeneric, monstrously hy- brid, at once or by turns spiritual handbook, autobiography, dream jour- nal, fiction, fantasy, and quasi-philosophical exposition. Subsequent to this emotionally turbulent outpouring, following the wat, Bataille’s writing turned more systematic but no less intensely ori- ented toward investigation of negative ecstatic experience. Bataille’s three- volume treatise on economics, The Accursed Share, elaborates a theory of a “general economy’ that takes excess and expenditure, rather than lack and the need for accumulation, as its starting point. Bataille links the solar “superabundance of e…",
+      "source": "[Fordham Perspectives in Continental Philosophy] Jeremy Biles, Kent Brintnall - Negative ecstasies_ Georges Bataille and the study of religion (2015, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7108419,
+      "importance": 0.7618797421455383,
+      "final_score": 0.7108420133590698
+    },
+    {
+      "id": "d0fb6ae46136a6c30200ad5c",
+      "qdrant_id": "effb6866-db8c-5d43-9fa0-c1eee69da337",
+      "text": "xxii K INTRODUCTION seems unlikely that, had Leiris and Caillois been present at the meeting of July 4, 1939, they would have been satisfied by Bataille's remarks. In any case, he continued his research in what for him were the most basic questions of anthro- pology and sociology, and this work led in the postwar period to the extremely important La Part Maudite (1949; The Cursed Share, untranslated) (VII, 17-179), as well as to L'Erotisme (1957; translated as Death and Sensuality). 21 If the theoretical orientation of Ac6phale moved toward a radical \"individ- ual\" experience of non-sense, it would seem that the College was oriented in the opposite direction, toward a consideration of the human being and human expenditure as a function of collective (or social) needs or desires. Here we run up against the problem that we broached at the end of the last section: how radical is this expend…",
+      "source": "Georges Bataille - Visions of excess - libgen.li.pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.70953524,
+      "importance": 0.7706685066223145,
+      "final_score": 0.7095352411270142
+    },
+    {
+      "id": "1397520004c6040ce3e16410",
+      "qdrant_id": "0c61258d-7f4f-5a03-87bd-26d665ba12d4",
+      "text": "Minuit, 1967). 17 Stuart Kendall, ‘Expenditure’, in Georges Bataille. Key Concepts, ed. Mark Hewson and Marcus Coelen (Abingdon, New York: Routledge, 2016), pp. 84–5. 18 Ian James, The Fragmentary Demand, An Introduction to the philosophy of Jean-Luc Nancy (Stanford, CA: Stanford University Press, 2006), p. 181.",
+      "source": "Emily McLaughlin_ - Yves Bonnefoy and Jean-Luc Nancy _ Ontological Performance-OUP Premium (2020).pdf",
+      "chunk_index": 146,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.70792603,
+      "importance": 0.7507115006446838,
+      "final_score": 0.7079261541366577
+    },
+    {
+      "id": "c4bfd9bfd1643425e2a309d1",
+      "qdrant_id": "31fe934d-79da-5f60-98ce-bebb162c5e38",
+      "text": "32 Hélène Cixous pension of meaning through phonie and graphie effects that can- not be regulated by narrative, the prevailing mode of bourgeois realism. In an intentionally prosaic style, Bataille searches for ways of subverting meaning. Borrowing from the se and other writers, Cixous emphasises the playon the signifier, on the body as flow of substances. In testing the limits between self and other, one terrn and its other, she developed an economic model derived from Marx and an energetic model borrowed from Freud. The female, however, is an absent figure in the work of both writers. She begins to emerge from extensive contact with her best readers, Georges Bataille and Jacques Derrida. In Bataille Cixous finds the notion of a general economy of 10ss and spending rather than appropriation. Through the work of Jacques Derrida, she construes the mix of spending (or dispens…",
+      "source": "Verena Andermatt Conley - Hélène Cixous_ Writing the Feminine-University of Nebraska Press (1991).pdf",
+      "chunk_index": 121,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7078569,
+      "importance": 0.7572720646858215,
+      "final_score": 0.7078568935394287
+    },
+    {
+      "id": "3e98f08c036195905527d74c",
+      "qdrant_id": "802fc70b-d74b-5c72-8aed-fd8086d01ebf",
+      "text": "Georges Bataille (1897-1962), by profession a librar- ian, was a member of the College de Sociologie and founder of the French review Critique. Virtually an underground figure in his lifetime, he left a vast and heterogeneous collection of writings—pornographic novels, poetry, essays on literary, economic, and his- torical topics; the importance of this work has come to be recognized only in the last twenty years. Among his books are Story of the Eye, Blue of Noon, L'Abbe C. , Literature and Evil, Death and Sensuality (all available in English), La Part maudite, and L'Exper- ience interieure. Allan Stoekl is assistant professor of comparative literature and French at Yale University. He is the author of Politics, Writing, Mutilation: The Cases of Bataille, Blanchot, Roussel, Leiris, and Ponge, forth- coming from the University of Minnesota Press. Carl R. Lovitt is assistant director of E…",
+      "source": "Georges Bataille - Visions of excess - libgen.li.pdf",
+      "chunk_index": 915,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.70757675,
+      "importance": 0.7555251121520996,
+      "final_score": 0.7075766324996948
+    },
+    {
+      "id": "60e46d8bfaaeb9558f95d24f",
+      "qdrant_id": "10e3ccaa-ad38-5f8c-919f-602732d80d2c",
+      "text": "writes, “is assenting to life even in death.” Bataille’s eroticism remains grounded in a humanist subject- position of sovereignty (doomed insofar as it is precisely the position eroticism seeks to overcome), a transformational aesthetics that assumes movement between subjects and objects rather than a ﬂat ontology of objects alone, and a gen- dered dynamic that cannot begin to hold up to contemporary femi- nist analysis. Still, Bataille’s erotic ideas about eschewing subjecthood through excess, unholy alliances, and nonlife are inﬂuential for object- oriented feminism. Like laughter, fomenting erotic fusion with an object, as a means of becoming object, is a creative, generative act. Such important prehistories for today’s object- orientation also include feminist practices around the body, like fetishistic subcultures and body art. While as we have seen, with Sprinkle’s performance, some strategic, erotic reclamations of objecthood can make us laugh,",
+      "source": "[Posthumanities] Katherine Behar (editor) - Object-Oriented Feminism (2016, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7056117,
+      "importance": 0.7693505883216858,
+      "final_score": 0.7056117057800293
+    },
+    {
+      "id": "7166a3c7e37de5943bc83270",
+      "qdrant_id": "76561d6d-accb-596f-8271-f0c009d1dd78",
+      "text": "the restricted economy of utility that he diagnoses so lucidly as the consti- tutive blind spot of all economies of appropriation. And yet, each of them also reads him as a voice that speaks quite differently to contemporary expe- rience and all of its contours. To do this, to read Bataille without reducing him to our prefabricated, restricted economies of meaning, requires many ways of reading him. Long taken up in the Anglophone academy primarily by literary theorists and art historians, Bataille is well known as a literary bad boy—a moniker that has allowed the disciplines of philosophy, economics, and political theory to dis- miss him from their domain. Although French intellectuals of the late twentieth century—Foucault, Derrida, Lacan, Irigaray, Deleuze and Guat- tari, Kristeva—widely recognized him as one of the most in¶uential ¤gures of the early twentieth century, the work of Ge…",
+      "source": "Shannon Winnubst - Reading Bataille Now (2007) - libgen.li.pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7041803,
+      "importance": 0.7430199980735779,
+      "final_score": 0.7041803598403931
+    },
+    {
+      "id": "091c8d8d7ebc7239b678ae12",
+      "qdrant_id": "67df86ab-49c6-522e-b140-b3d4b3461e00",
+      "text": "edged excess, and in seeking to maintain itself it will, against its own logic, crave expenditure and loss (hence Bataille's interest in sacrifice and automutilation). This is to say that any restricted economy is situable in a \"general economy\" irreducible to proper conceptualization. Thus Bataille, like Blanchot, is frequently cited as a precursor for much of what Anglo-American criticism calls \"French theory.\" Ja c q u e s d e r r id a and MICHEL f o u c a u l t have documented their investment in Bataille in various texts, while libidinal theorists such as Gilles Deleuze and je a n -f r a n ç o is Ly o t a r d and post-Marxist sociologists such as Jean Baudrillard have pursued Ba- taillean themes (eroticism, transgression, expenditure) even more explicitly. Bataille's influence on contempo­ rary critical thought would thus be difficult to overesti­ mate. But in the wak…",
+      "source": "[The Johns Hopkins Guide] Michael Groden, Martin Kreiswirth, Imre Szeman - The Johns Hopkins Guide to Literary Theory and Criticism (1994, The Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 217,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.70360506,
+      "importance": 0.752696692943573,
+      "final_score": 0.7036052346229553
+    },
+    {
+      "id": "3928c3002b6fdc224e37ddb0",
+      "qdrant_id": "4b2e2e98-e2e1-526f-9fcf-0bc912f0258d",
+      "text": "eroticism and general economics', tr. Frederic Lawrence, New German Critique, 33 (1984), pp. 79-102. Reprinted in Bataille: a critical reader, eds Botting and Wilson. 14 Denis HolIier, Introduction, p. ix, in The College of Sociology, ed. D. Hollier, tr. Betsy Wing (University of Minnesota Press, Minneapolis, MN, 1988). 15 Georges Bataille and Roger Caillois, 'Sacred sociology', ibid., p. 74. 16 Georges Bataille, Literature and Evil, tr. Alastair Hamilton (Marion Boyars, London, 1985), p. 74. 17 Denis Hollier, Introduction, p. vii, Georges Bataille, Guilty, tr. Bruce Boone (The Lapis Press, San Francisco, CA, 1988). 18 Friedrich Nietzsche, The Will to Power, tr. Walter Kaufmann and R. J. Hollingdale, (Random House, New York, 1968), p. 477. 19 Ibid., p. 479. 20 Blanchot, 'The negative community', p. 16. 2 1 Georges Bataille, The Tears of Eros, tr. Peter Connor (City Lights, …",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li (1).pdf",
+      "chunk_index": 138,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.70346016,
+      "importance": 0.7516953349113464,
+      "final_score": 0.7034602165222168
+    },
+    {
+      "id": "00247937333e883a51541838",
+      "qdrant_id": "58f3318c-f6ba-540e-b8b3-e2cc2bae43c2",
+      "text": "Introduction m 5 repetition of accumulations producing far more actual pain than pleasure for all concerned. Informed by the immediately preceding, the third chapter, “The Self- Cleaning Fetish: Repression Under the Shadow of Fictitious Capital,” examines money as it features in both Marxism and psychoanalysis. Of course, money is the epitome of Marx’s fetishized commodity. And in Marxist discussions of the connected topics of currency and commodity fetishism (as reliant mainly on Capital, volume 1), it often is left underappreciated that such fetishism reaches its apotheosis only with the development of interest- bearing money- as- capital (i.e., with the emergence of fictitious finance capital in the guises of credit, banking, etc. as dealt with in Capital, volume 3). In psychoanalytic treatments of money from Freud onward, monetary means usually are tied to libidinal sources and stages in the subject’s ontogenetic life",
+      "source": "Adrian Johnston - Infinite Greed_ The Inhuman Selfishness of Capital (Insurrections_ Critical Studies in Religion, Politics, and Culture)-Columbia University Press (2024).pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7032273,
+      "importance": 0.7571672797203064,
+      "final_score": 0.7032273411750793
+    },
+    {
+      "id": "7624b71413332e6333413cc8",
+      "qdrant_id": "195ce1c1-92c8-5c49-ba8d-4066871aa8ac",
+      "text": "earlier mystical authors, and neither are they about the existentialist crisis of the modern subject; for Bataille this type of darkness runs the gamut from the most basic forms of “base materialism” and inorganic matter, to the planetary and even cosmic cycles of production, accumulation, and expenditure. That is, this darkness- mysticism has to be placed in the context of Bataille’s own version of political economy, a non-human, “general economy” based on excess and expenditure. In the same way that divine darkness is in excess of the individuated human being, so is there a divine darkness that is in excess of the world – at least the world that we as human beings construct for ourselves and fashion in our image. Divine darkness is precisely this negative movement that cuts across self and world, the human and the non-human – not by virtue of a bountiful, vitalistic life-force, but by …",
+      "source": "Horror-of-Philosophy_-Eugene-Thacker-Starry-Speculative-Corpse.-2-Zero-Books-_2015_.pdf",
+      "chunk_index": 100,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7023331,
+      "importance": 0.750350832939148,
+      "final_score": 0.7023330926895142
+    },
+    {
+      "id": "b521e431414963da09ce2a38",
+      "qdrant_id": "7f34a62e-87e4-5b51-bc9e-d9633f5a733d",
+      "text": "production; it renders things useful for its own growth and maintenance. By contrast, the heterogeneous part is the site of expenditure and waste, containing everything that homogeneous society excludes. To liberate the heterogeneous part of society from the domination of the forces of homogeneity, a new “economic and political organization of society” must implement an “asocial organization having as its goal orgiastic participation in different forms of destruction…. Such an organization can have no other conception of morality than the one scandalously affirmed for the first time by the Marquis de Sade” (VOE 101). In Philosophy in the Bedroom (La Philosophie dans le boudoir, 1795), Sade (1740–1814) had admonished his contemporaries with the words, “Frenchmen, One More Effort if You Want to be Republicans!” Bataille gives this formula a Marxist twist, exhorting his readers to make one more effort if they want to be",
+      "source": "Continental Philosophy A Contemporary Introduction (Andrew Cutrofello) (Z-Library).pdf",
+      "chunk_index": 159,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.70176697,
+      "importance": 0.7474549412727356,
+      "final_score": 0.7017671465873718
+    },
+    {
+      "id": "e18b310bc84493952c9b4dab",
+      "qdrant_id": "fa985c87-b10a-5055-b9e6-623322d84cac",
+      "text": "has led us towards Sade rather than Rousseau and has rendered us incapable of either love or compassion. Continuing to examine some of the concerns of the previous chapter, Chapter 5 looks at the ubiquity of sex in Houellebecq’s novels and argues that it functions in his work as the correlative for ideas about the extension of neoliberal economic principles into affective human life. In a world radically desymbolized by the language of capital, of investment and exchange, sex is simply another transaction in which the lover is less a site of intimate relationality than part of a circuit of self-interest. The realm of the erotic has thus been rendered as banally commodified as shopping or tourism. His characters are becoming insensible to intimacy yet are saturated with the possibilities of unattainable sexual ecstasy. Sex is, believes Houellebecq, sociologically determined and, according…",
+      "source": "Michel Houellebecq and the Literature of Despair (Carole Sweeney [Sweeney, Carole]) (Z-Library).pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7013221,
+      "importance": 0.7604799866676331,
+      "final_score": 0.7013221979141235
+    },
+    {
+      "id": "5a76c99e34cfebedf621f7d6",
+      "qdrant_id": "f3ff371c-25e4-56a1-b70a-f25d3e6981c3",
+      "text": "georges bataille 163 Th ere is in the use [of tobacco] a hidden sorcery: whoever smokes is in harmony with things (things such as the sky, a cloud, light). It isn’t important that the smoker know this: tobacco frees him for a moment from the need to act … Smoke escaping gently from a mouth gives to life freedom, the idleness one sees in the clouds.34 But perhaps the most pervasive instance of improductive expenditure in Bataille’s writings is eroticism (or erotism, as the French érotisme is sometimes translated). Bataille’s writings begin and end in eroticism, starting with the pseudonymously published Story of the Eye (1928), a tale of erotic initiation, and ending with Th e Tears of Eros (1961), a study of eros in art from prehistoric times to the present. A number of his many refl ections on the topic – from the place of eroticism in inner experience to an analysis of the Ki…",
+      "source": "Alan D. Schrift - The History of Continental Philosophy, 8 volumes (2010, University Of Chicago Press) - libgen.li.pdf",
+      "chunk_index": 377,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.700739,
+      "importance": 0.7469608187675476,
+      "final_score": 0.7007390856742859
+    },
+    {
+      "id": "d5bd0070379507cb54617acc",
+      "qdrant_id": "5fcd1c5d-6b5c-5fa3-a7c8-3532b8738b87",
+      "text": "and economic practices were developed, modern society generally sup­ presses modes of unproductive activity. Hence the opposition to sexual indulgence, gambling, drunkenness, all forms of waste. The emphasis on values of sobriety, hygiene, duty, useful activity constitutes the subordina­ tion and rationalization of all forms of human life to a homogenized moral economy. As Bataille notes, however, human activity is not reducible to productio\":, morality or utility. A pint of beer after work may be explained as mere thirst, but the savouring of it remains a small token of useless, sovereign enjoyment, a moment outside the bounds of a regulated exist­ ence; an extramarital affair may be more pleasurable not because it satisfies a sexual urge, but because it constitutes an act charged with the erotic frisson of transgression as it crosses (transports and erases) and thereby highlig…",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li (1).pdf",
+      "chunk_index": 97,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69922614,
+      "importance": 0.7507479190826416,
+      "final_score": 0.6992259621620178
+    },
+    {
+      "id": "a11d3dfe2b403e6cdb7518ab",
+      "qdrant_id": "f1c4e616-c27f-5c62-a2f1-16d7339fddc3",
+      "text": "Introduction In Literature and Evil, Georges Bataille wrote that the base of the erotic instinct could only form itself in the inhuman conditions of a prison; therefore, Marquis de Sade was able to write Les Cent Vingt Journées de Sodome (One Hundred and Twenty Days of Sodomy) locked up in the Bastille. This base of eroticism for Bataille and others who followed in his think- ing issued forth from a clear and distinct consciousness. In this work, I attempt to reconceive the erotic, its imaginative manifestations and an aesthetic which is ultimately brought about through desire’s disruption. Essentially, I take Ba- taille’s notion that “consciousness of desire is hardly acces- sible: desire alone alters the clarity of consciousness, but it is above all the possibility of satisfaction that suppresses it” and extend it to include the idea that since (using Bataille’s",
+      "source": "Boodakian, Florence Dee - Resisting nudities _ a study in the aesthetics of eroticism-Peter Lang Publishing Inc (2008).pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69885045,
+      "importance": 0.767966091632843,
+      "final_score": 0.6988503932952881
+    },
+    {
+      "id": "a62fb20a7e783bd4105abb12",
+      "qdrant_id": "bad6fc0c-40e6-5835-9098-16611c4f9d6b",
+      "text": "Every manufacturer knows and feels how closely he must anticipate the tastes and needs of his customers: his whole success depends upon it. (Jevons 1888, Ch. 3, paragraph 5) The fact that the cigarette was also one of the new consumer products of the period (in Wilde’s case, quite deliberately and self-consciously a luxury item associated with exoticism and expense—he smoked gold-tipped ­Egyptian cig- arettes for preference) brings together in a single image the combination of “romance and finance,” which Regenia Gagnier has identified as central to Wilde’s sexual practices, his relationships, and his works (Gagnier 1986, 179). This is also a central tenet of Jean-François Lyotard’s Libidinal Economy (1974), which is in part the pre-text for this chapter. Lyotard’s title and the book it names combine the necessary desires of capitalism—we must desire things to make the financial …",
+      "source": "[Routledge studies in nineteenth-century literature 16] Ford, Jane(Editor)_Keates, Kim Edwards(Editor)_Pulham, Patricia( - Economies of desire at the Victorian Fin de Sicle_ libidinal lives (2015_2016, Routledge).pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69876194,
+      "importance": 0.7550234198570251,
+      "final_score": 0.6987621784210205
+    },
+    {
+      "id": "3a53c8f1dcbe064f04db2899",
+      "qdrant_id": "03365ab7-ca29-57c5-8d73-f9ae794e087e",
+      "text": "been founded on a fundamental symbolic equivalence between white- ness and purity, between blackness (or any putative nonwhiteness) and corruption, sin, and Wlth.16 The work of Georges Bataille provides the fullest elaboration of the social, economic, and psychological dimensions of devaluing people, objects, and practices marked as Wlthy, which we have been follow- ing. Bataille’s writings on waste and excess, however, suggest ways of connecting body and mind, the discarded and the valuable, which fall outside the more or less structuralist models of nearly all the writers considered thus far, insofar as they treat human experience as riven into positive and negative categories that cannot keep from contaminating each other. In a provocative remapping of the human body and its prod- ucts, Bataille assigns the anus functions usually associated with the head, seeing in it “all the potenti…",
+      "source": "William A. Cohen_ Ryan Johnson - Filth _ Dirt, Disgust, and Modern Life (2004, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6984799,
+      "importance": 0.7557458281517029,
+      "final_score": 0.6984800100326538
+    },
+    {
+      "id": "b97254ab4ece45e5b7c48d50",
+      "qdrant_id": "871916c3-5c29-5b08-8f22-e74336c2259f",
+      "text": "Georges Bataille: Extracts from Visions of Excess by Georges Bataille (Minneapolis: University of Minnesota Press, 1985). Original French language edition copyright © 1970 by Editions Galimard, English translation copyright © 1985 by The University of Minnesota, reprinted by permission of University of Minnesota Press.",
+      "source": "Julie Rivkin, Michael Ryan - Literary Theory_ An Anthology (Blackwell Anthologies) (2004, Wiley-Blackwell) - libgen.li (1).pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6982723,
+      "importance": 0.7458862066268921,
+      "final_score": 0.6982721090316772
+    },
+    {
+      "id": "dacfb5cb3b56b213c645a913",
+      "qdrant_id": "b936294b-d672-5089-9361-500fe6c35c21",
+      "text": "xii D INTRODUCTION Cixous thinks that she finds already present in Lispector what she herself has been looking for, that is, ways of giving, of spending, and of inscribing pleasure. This would come close to what she, Cixous—in the wake of the French philos- opher Georges Bataille rephrasing Freud—had called a feminine economy, a li- bidinal organization based on spending, rather than on retention and which, for cultural reasons, would be more on the side of women. Here it can be assumed that the force of ecriture feminine works especially in the play between thematic and linguistic registers. For this reason, spending in Lispector is not just orga- nized topically but is also worked through language, especially in later texts like Agua viva. Clarice Lispector is known for her writerly innovations and experi- mentations, and Cixous is much aware of this. This kind of writing, with no ex- change or market value, with no \"useful purpose,\" can be called ecriture femi-",
+      "source": "[Theory and history of literature series 77] Helene Cixous, Verena Andermatt Conley - Readings _ the poetics of Blanchot, Joyce, Kafka, Kleist, Lispector, and Tsvetayeva (1990, University of Minnesota Press) - libg.pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "clarice-lispector-the-passion-according-to-g-h-cockroach-becoming",
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.7000408,
+      "importance": 0.7678958177566528,
+      "final_score": 0.6982309818267822
+    },
+    {
+      "id": "3512eb5f8fa3b55a90cc264e",
+      "qdrant_id": "a5e8fe69-d4c6-5196-8bd5-3441eda9d1f5",
+      "text": "153 Capitalism and Sexuality his product and producing what he gets paid for ‘in a base capitalist form’ (Power 2009: 54). The economic transaction of this type of orgasm, then, is one invested, not only in fetishism and gender struc- tures, but also in commodification and capitalist paranoid recoding. ‘Perhaps’, Williams suggests, ‘in the money shot’s repeatedly inflated, “spending” penis we can see condensed all the principles of late capitalism’s pleasure-­oriented consumer society: pleasure figured as an orgasm of spending; the fetish not simply as commodity but as the surplus value of orgasm’ (Williams 1999: 108). If we return, for a moment, to the three-­headed beast of economic capture that Deleuze and Guattari outline, we can see how capitalist structures need to free sexuality both from its temporal territoriality and from spatial codings and recodings. Claiming sexual…",
+      "source": "[Plateaus - New Directions in Deleuze Studies] Frida Beckman - Between Desire and Pleasure_ A Deleuzian Theory of Sexuality (2013, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 593,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69794774,
+      "importance": 0.7504509091377258,
+      "final_score": 0.6979478001594543
+    },
+    {
+      "id": "4e65f7cb63ea69fde87d4468",
+      "qdrant_id": "d3ed76f1-1f8b-584c-ad5b-b070c82b864b",
+      "text": "ness (the power of abstraction) and labor. Bataille, draw­ ing on FRIEDRICH NIETZSCHE (and on SIGMUND FREUD, Stéphane Mallarmé, the Marquis de Sade), will insist on the disruptive, excessive character of this negative power. All philosophical, social, and psychological sublimations (language, consciousness, social forms, genital sexuality, etc.) are inhabited by an excess that at once makes sub­ limation possible and threatens its stability. In the terms Bataille proposes in \"The Notion of Expenditure\" (Visions 116-29) and elaborates in La Part maudite, any \"restricted economy\"—any putatively closed, reciprocal system, such as an identity, a concept or structure, marketplace, eco­ system, and so on—produces more than it can account for. Any restricted economy is fractured by its own unacknowl­ edged excess, and in seeking to maintain itself it will, against its own logic, crav…",
+      "source": "[The Johns Hopkins Guide] Michael Groden, Martin Kreiswirth, Imre Szeman - The Johns Hopkins Guide to Literary Theory and Criticism (1994, The Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 216,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69793177,
+      "importance": 0.7562572360038757,
+      "final_score": 0.6979318261146545
+    },
+    {
+      "id": "e4002b1a2a1170a69e8d3aa7",
+      "qdrant_id": "9ab738b0-6e5b-59d2-acb6-69d0c2d1ca5d",
+      "text": "we all negotiate on a daily basis. Any emotional investment you make in a person or project, for instance, in the hope it will make you happy, or more psychologically enriched in some way, is an example of your contribution to the wider libidinal economy. Even a stolen kiss is factored into the general accounting, theoretically speaking. Given that both microeco- nomics and macroeconomics depend on wants, needs, hopes, desires, and so on, we can confidently claim that all economies have an erotic component, if we trace it back carefully enough. (Although, yes, sometimes a long-term capital gain dividend is just a long-term capital gain dividend.) And yet we are less conscious of the ways that our erotic lives or aspirations are enmeshed with the environment. We have not yet thought through the existence and implications of an eroticized ecology. That, in a nutshell, is the…",
+      "source": "Dominic Pettman - Peak Libido_ Sex, Ecology, and the Collapse of Desire-Polity Press (2020).pdf",
+      "chunk_index": 7,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6974195,
+      "importance": 0.7478106617927551,
+      "final_score": 0.6974194645881653
+    },
+    {
+      "id": "9f69e20a36bc3dac115915a5",
+      "qdrant_id": "fc067ae6-4594-5b93-a2ac-2678f33d6a28",
+      "text": "'The Psychological Structure of Fascism', trans. Carl R Lovett, New Ger­ man Critique, 1 6 (1979) pp. 64-87. University of Minnesota Press for Georges Bataille, 'Base Materialism and Gnosticism', 'The Use-Value of D A F de Sade' and 'The Notion of Expenditure' from Visions of Excess: Selected Writings 1927-39, trans. Allan Stoekl, with Carl R Lovitt and Donald M Leslie, Jr. (1 985), pp. 45-52, 91-102, 1 16-29, copyright © 1970 Editions Gallimard; translation copyright © 1993 by the University of Minnesota; and Georges Bataille, 'Letter to X' from The College of Sociology 1937-39, trans. Betsy Wing, intro. Denis Hollier (1988) pp. 89-93, copy­ right © 1979 by Editions Gallimard; translation copyright © by the Univer­ sity of Minnesota. Yale French Studies for Georges Bataille, 'Hegel, Death,",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li (1).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69684875,
+      "importance": 0.7512794733047485,
+      "final_score": 0.6968489289283752
+    },
+    {
+      "id": "2a9696639bcee04a90065cdb",
+      "qdrant_id": "412791df-f765-5493-9c9e-2570b3219a3d",
+      "text": "this novel is the department store-represented in its moment of great capitalist expansion during the Second Empire-which itself is powered by the woman's body. That body is not so directly confronted in Au Bonheur des Dames as in Nana; it is represented rather in its clothes and accessories, and in the uncontrollable desire for bodily coverings and adornments created by modern publicity and display. Au Bonheur des Dames is preeminently the novel of commodity fetishism, and since the commodities fetishized by the market are articles of woman's cloth- ing, the Marxist notion of fetishism converges with the Freudian, in an overheated economy that is both an erotic and a cash nexus. The department store of Au Bonheur des Dames-modeled in large part on Aristide Boucicault's immensely successful Au Bon Marche- comes into its glory as part of the transformation of Paris by Baron Haussmann (who…",
+      "source": "Peter Brooks - Body Work_ Objects of Desire in Modern Narrative (1993, Harvard University Press) - libgen.li.pdf",
+      "chunk_index": 127,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69553566,
+      "importance": 0.7522515654563904,
+      "final_score": 0.6955356597900391
+    },
+    {
+      "id": "7a2181836b02e263615f59e5",
+      "qdrant_id": "a3d38125-161d-5d00-b8cc-a96be267c407",
+      "text": "ties and media images. Its imaginative faculty is determined by the market and mass culture. Illouz traces Emma’s dissipation to early consumer cul­ ture in nineteenth-century France: Indeed, less customarily remarked in Emma Bovary’s story are the ways in which her imagination is the engine driving the debts she incurs with Lheureux, a wily merchant who sells her fabrics and trinkets. Emma’s imagination feeds directly into the early con­ sumer culture in nineteenth-century precisely through the mediation of romantic desire.6 Counter to Illouz’s assumption, however, Emma’s behavior cannot be explained by the socioeconomic structure of nine­ teenth-century France. Instead, it finds expression as excess and expenditure, which represents a shift from what Bataille would call “restrictive economy to … general economy.”7",
+      "source": "(Untimely Meditations) Byung-Chul Han, Erik Butler, Alain Badiou - The Agony of Eros-The MIT Press (2017).pdf",
+      "chunk_index": 83,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6935327,
+      "importance": 0.7475947737693787,
+      "final_score": 0.6935328841209412
+    },
+    {
+      "id": "e4a3f8e5435c995ca4beb19d",
+      "qdrant_id": "b801c8ca-61c1-52b0-b594-232d62ac71b2",
+      "text": "The symmetry that Guattari points to here is crucial. Again, the image of the money shot can help illustrate this symmetry – the con- junction of phallic power and spatialised accumulation of capital. What Guattari shows is how this dominant sexual configuration is not just about the male orgasm, but also about the female orgasm. As long as woman’s sexual pleasure must be expressed in symmetry with man’s, all pleasure is equally bound up in the dominant sexual logic that utilises it as labour. To take an example from pornography, there is, Williams notes, an increasingly frequent image of masturbat- ing women. While images of women masturbating have been around for a long time, Williams notes that the woman who uses electrical or mechanical tools in masturbating and who is in no urgent need for a man is relatively new in mainstream pornography. Such a woman, she points out, ‘is simultaneously insatiable and satisfied, capable",
+      "source": "Frida Beckman - Between Desire and Pleasure_ A Deleuzian Theory of Sexuality (2013, Edinburgh University Press) [10.1515_9780748645930] - libgen.li (1).pdf",
+      "chunk_index": 630,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69310445,
+      "importance": 0.7624853253364563,
+      "final_score": 0.6931044459342957
+    },
+    {
+      "id": "2c223857be3033099ddf569b",
+      "qdrant_id": "1b18eb6c-b441-55b5-9e8b-cab4f6158f22",
+      "text": "ﬂ owers) ‘for Twenty Times the Price paid for them’ (ibid.: 132). As an agent in the aesthetic marketplace Fry operates at a characteristically modern intersection of fashion, sex and consumption, Lewis’s analysis proclaims. With Fry’s brand of promotion the ‘aesthetic thrill’ obtained by French painting resembles that of a pornographic sideshow, imbued with ‘naughtiness’ and the ‘English philandering ﬂ apper-sensibility’ (ibid.: 134). On the same pattern, though Lewis does not explicitly comment on this, it may be argued that the Omega’s marketing strategy, resting quite clearly on the erotic appeal of its particular brand of con- sumer goods, draws on the mix of sexology and political economy which commentators from Michael Tratner to Douglas Mao have identiﬁ ed as the core of modernism’s declared liberation from Victorian constraints.4 Against a background of Keynesian econ…",
+      "source": "R. S. Koppen - Virginia Woolf, Fashion, and Literary Modernity (2009, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 363,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69291425,
+      "importance": 0.7509344816207886,
+      "final_score": 0.6929143071174622
+    },
+    {
+      "id": "e62ab84b9a61ae7f8612811b",
+      "qdrant_id": "37e315de-281a-540b-acf6-304baebc75f0",
+      "text": "(Octave’s publicly known love affairs, for example, turn out to be excellent advertising for the store). And since Octave is not only a financial wizard but also a sexual superman (he arrives, when we first meet him, “fresh” and “ready for work” after a sleepless night of passion with an actress he “picked up” [RM 3: 417]), there is, for readers, little real suspense as to whether he might finally deplete either his economic capital or his seminal investments. But if neither Octave nor Denise is given to wasteful spending, both are complicit in the business’s general practice of inciting the customers to pre- cisely such spending. And it is here that a certain indeterminacy of values troubles the boundary between spending and saving, productivity and waste, Gender and War in AU BONHEUR DES DAMES 75",
+      "source": "Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf",
+      "chunk_index": 300,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69178,
+      "importance": 0.7388445734977722,
+      "final_score": 0.6917799115180969
+    },
+    {
+      "id": "b78ce6ea11615c1a1258e54b",
+      "qdrant_id": "fa601432-95c0-57f8-904d-834d402d5a9f",
+      "text": "1998, 153; Gagnier 2000, 135). Gagnier’s work not only maps parallel developments within nineteenth-­ century aesthetics and economics; pertinent to our own purposes, it demon- strates how sex and sexuality are implicated in theories of ­aesthetic production and consumption. Gagnier, for example, demonstrates how decadent writ- ers recoiled from bourgeois notions of “purposive” or ­reproductive sexu- ality (the same “broadly heterosexual” productivism that ­underlies the applied aesthetics of Ruskin and William Morris) ­(Gagnier 2000, 128). The fin de siècle, she argues, witnessed the “cultural dialectic” between a ­“heterosexual aesthetic” and a “perverse” non-(re)productive aesthetic as seen, for instance, in decadence (139). The question of how homosexual writers of the fin de siècle positioned themselves in relation to biological and sexological thinking is one that has, and …",
+      "source": "[Routledge studies in nineteenth-century literature 16] Ford, Jane(Editor)_Keates, Kim Edwards(Editor)_Pulham, Patricia( - Economies of desire at the Victorian Fin de Sicle_ libidinal lives (2015_2016, Routledge).pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.69082093,
+      "importance": 0.760801374912262,
+      "final_score": 0.6908208727836609
+    },
+    {
+      "id": "3f1bf2d79e63e548338504fd",
+      "qdrant_id": "39233bac-e7c8-5a43-96a1-feee946811f2",
+      "text": "a seemingly boundless source of impulsive energy caught within a dynamic of creation and destruction. The first part of the discussion looks at the work of several avant-garde theorists – including Georges Bataille (1897–1962), Gilles Deleuze (1930–1995), and Félix Guattari (1930–1992) – who have tried to unravel why sexuality violently oscillates between life and death. The second part of Chapter 3 reveals how this fraught discussion about the life-giving and death-dealing aspects of desire appear most vividly in modern feminist debates about pornography. Undoubtedly, pornography continues to divide feminist opinion about the injurious or emancipatory effects of erotic desire. On the one hand, many radical feminist campaigners against pornography claim that it leads time and again to violent sexual crimes, and should therefore be legally called to account for the serious damage it causes. On the other, libertarian feminists eager to combat punitive state",
+      "source": "Joseph Bristow - Sexuality (The New Critical Idiom) (1997) - libgen.li (1).pdf",
+      "chunk_index": 35,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6906408,
+      "importance": 0.7786312699317932,
+      "final_score": 0.6906411051750183
+    },
+    {
+      "id": "05262d23300eca53f91c3a9a",
+      "qdrant_id": "45a61ab7-3324-504b-84a3-ceaf1d6f7348",
+      "text": "to be working on the basis of ridiculous expenditure and squander. But despite this reasonable critique (which is not indicative of his general posi- tion, as the rest of the article is highly positive about Bataille), Baudrillard offers us exactly the same ‘ﬂ aws’ with symbolic exchange in the very year (1976) he points out the limits of the Bataillean accursed share. Symbolic exchange would disrupt the ‘system’ of capitalism, offers an alternative view of human culture as a whole, and stems from sacriﬁ ce and death now lost to the modern West and must be excluded. If anything, Baudrillard’s tentative use of Bataille when explicit (for example, the handful of pages in SED) indicates the proximity not only in content of the two ideas, not",
+      "source": "Richard G. Smith - The Baudrillard Dictionary (2010) - libgen.li.pdf",
+      "chunk_index": 21,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6905955,
+      "importance": 0.7437560558319092,
+      "final_score": 0.6905955076217651
+    },
+    {
+      "id": "faa536fa871f9e826d2cd3fd",
+      "qdrant_id": "c6ba784e-4be7-54cf-b6ec-44bf4829abcf",
+      "text": "and more obvious. In this respect whilst rejecting any notion that there has been an ‘arrival’ of masturbation in mainstream culture, a boundary that marks a postmodern scission or definitive new historic period, it does suggest that the current emphasis on consumption reveals a facet of capitalism that is particularly sensitive to both the pleasures and the costs of a masturbatory subjectivity. As always, our monsters are not monstrous in their alien otherness, but in their sameness and the masturbating serial killer of much contemporary cinema is not so much ‘exceptional’ as an ‘extreme’ reflection and metaphor of a more general anxiety regarding the autonomy of the lone individual of both modernity and the market economy. That such representations of masturbation eschew the possibility of presenting masturbation as a cost-free, exploitation-free form of sexual pleasure available to all, a demonstration not only of the generosity of the flesh, but of",
+      "source": "(At the Interface _ Probing the Boundaries 38) Niall Scott - Monsters and the Monstrous_ Myths and Metaphors of Enduring Evil-Rodopi (2007).pdf",
+      "chunk_index": 111,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6905918,
+      "importance": 0.7569084167480469,
+      "final_score": 0.6905918717384338
+    },
+    {
+      "id": "fb2dbb6a339eb3aa8a5c262a",
+      "qdrant_id": "3f7ed715-5905-5695-afb6-9efb42188a6a",
+      "text": "them, which allowed, and how the inequalities in the distribution of goods affected the actions of these men and women. We learn nothing, however, of the historical effects of the fact that men and women often act to avoid pleasure, to shun these goods. Having stated these distinctions, I would like to return to the case of Clérambault to see if history will allow us to dislodge the fantasmatic notion of his “nasty secret” that is even now being revived. At the literal center of this fantasy (i.e., reproduced in the middle of La passion des étoffes) is a series of photographs that Clérambault took between 1914 and 1918 while he was in Morocco recuperating from a war wound. During these years in Morocco Clérambault learned Arabic and began a study of Arab dress; these photographs are obviously a part of that study.",
+      "source": "Read My Desire (Joan Copjec) (Z-Library).pdf",
+      "chunk_index": 176,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.68965375,
+      "importance": 0.7471181154251099,
+      "final_score": 0.6896536350250244
+    },
+    {
+      "id": "d448a36f631170000deff44e",
+      "qdrant_id": "71f1452c-825b-5f91-84c9-89e0ce913b40",
+      "text": "literature. A feminism that is based on sexual differences has been decried, especially in Anglo-Saxon quarters, where it is judged to be 'phallocentric' and male oriented. Yet difference is at the very basis of life and is there to be enjoyed. And the goal is to open it from the binary to multiplicity, and further, to take it out of a restricted economy. Difference confounds oppositional terms and opens to play and movement. Sexual difference is detrimental only when it is thought from within masculine parameters, within the same discourse that, as history shows, favoured expansionism, colonialism and possessive annexation of woman. A limited, or masculine, economy is characterised by retention and accumulation. !ts dialectical nature implies the negation - or death of one of the terms, for the enhancement of the other. Elaborating a critique of such an economy, in the lat…",
+      "source": "Verena Andermatt Conley - Hélène Cixous_ Writing the Feminine-University of Nebraska Press (1991).pdf",
+      "chunk_index": 146,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.68937004,
+      "importance": 0.7483229041099548,
+      "final_score": 0.6893702149391174
+    },
+    {
+      "id": "1d535bc738cab31dd1f48b6a",
+      "qdrant_id": "b3ef8a19-8657-5cfa-a1f5-82fbb48c0663",
+      "text": "only through loss that glory and honor are linked to wealth’’ (Georges Bataille, ‘‘The Notion of Expenditure,’’ in Visions of Excess, Selected Writings 1927–1939, ed. Allan Stoekl [Minneapolis: University of Minnesota Press, 1985], 122). 174 Notes to pages 38–40",
+      "source": "[Perspectives in continental philosophy] Lemm, Vanessa_ Nietzsche, Friedrich Wilhelm - Nietzsche's animal philosophy _ culture, politics, and the animality of the human being (2009, Fordham University Press) - li.pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6890629,
+      "importance": 0.7352011799812317,
+      "final_score": 0.6890628933906555
+    },
+    {
+      "id": "11d3b959356ca3dcb541ba19",
+      "qdrant_id": "d0ad89d4-461d-58bb-8c7d-9a24447ff57e",
+      "text": "according to their strength or weakness, not their capacity for good or evil, which is equivalent: ‘If that be feeble this be strong.’ Bataille ﬂeshes out Brontë’s insight about human behaviour in both this poem and her novel. ‘In the practice of life,’ Bataille writes, ‘humanity acts in a way that allows for the satisfaction of disarmingly savage needs, and it seems able to subsist only at the limits of horror.’¹⁴ In her discussion of Bataille’s observation, Barbara Herrnstein Smith points out that classic utility theory offers material aggrandizement and the survival of the individual-as-bodily-organism as the inevitable, fundamental, and/or ultimate ‘goods’ to which all human activity is subordinated. What he will offer in opposition to this—and implicitly in opposition to every rational/economic account of human action or to what he sees as the deﬁnitively bourgeois ‘reasoning that balances accounts’—is the evidence of a fundamental human need for ‘nonproductive expenditure’ and",
+      "source": "Janet Gezari - Last things _ Emily Brontë's poems (2007, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 224,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6890307,
+      "importance": 0.7422307133674622,
+      "final_score": 0.6890307664871216
+    },
+    {
+      "id": "e3d32f1776be02c34909f1d6",
+      "qdrant_id": "3c37a6df-c2a7-5ce1-b68a-e9c8f08544ff",
+      "text": "13. Introduzione alia Magia quale scienza dell'Io, by the “Groupe d’Ur” (Rome: vol. 11, p. 204.) 14. On Justice, IV. 15. Schlegel, Ideen, Minor, no. 131. 16. Erotique de l’Art, vol. 36, p. 531. 17. Georges Bataille, Inner Experience, trans. Leslie Anne Boldt (New York: SUNY Press, 1988). Cf. Maurice Blanchot, Faux pas (Paris: Gallimard, 1943), pp. 47-52. 18. Nunberg. 19. Beyond the Pleasure Principle, SE, vol. 18, p. 50. 20. The Economic Problem oj Masochism, SE, vol. 19, p. 164. 21. Inhibition, Symptom and Anxiety, SE, vol. 20, p. 171. With regard to Freud, Bataille used to smile at the cultural pretensions of Paris, where Freud’s complete works were not yet available (nor, at the time, were those of Marx). 22. La Rochefoucauld. 23. J. P. Sartre. 24. Valery, Suite, p. 139. See note, p. 34.",
+      "source": "Georges Bataille - Tears of Eros-City Lights Books (1989).pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.68856966,
+      "importance": 0.7549617886543274,
+      "final_score": 0.6885696649551392
+    },
+    {
+      "id": "cfcfb4361191dc7a5c44ced2",
+      "qdrant_id": "ea95e9e4-f95c-51b9-a4eb-6987f83162ee",
+      "text": "own terminology, the aim is ‘to analyse the specific nature of the libidinal investments in the economic and political spheres’,38 where the libido is to be understood as an intensive flux, and the economic and political as registers in extension. The references to economics in the strict sense that we are interested in here appear predominantly in the third chapter, devoted to Deleuze and Guattari’s ‘universal history’39 of the three extant social formations, or kinds of societies. These, the so-called savage, barbarian and civilised formations correspond to pre-State, State and capitalist (para-State) social formations. In presenting their tripartite history, Deleuze and Guattari make two claims about the economic that seem prima facie to contradict each other. The first is that all three formations are economic systems insofar as the major active social category is debt. The…",
+      "source": "Rosi Braidotti and Simone Bignall - Posthuman Ecologies _ Complexity and Process After Deleuze (2019, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 150,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6885247,
+      "importance": 0.7716962099075317,
+      "final_score": 0.6885247230529785
+    },
+    {
+      "id": "6280a3cdebe1abd85abf2fe4",
+      "qdrant_id": "bbee56c0-2633-506b-a453-5c472999450a",
+      "text": "The erotical narrative, however, is preceded by a long discursive pre- amble in which the narrator depicts a panoramic analytical picture of Paris and its social classes. The classes are separated, economically distinguished, according to their material wealth, according to the amount of gold that they possess or do not possess; but they are also united by their common desire for ‘‘gold’’ and for ‘‘pleasure’’: the self- destructive drive for ever-increasing amounts of money and enjoyment canalizes the social energies on all class levels. Paris is thus viewed by Balzac as a battleﬁeld of interests and passions in which ‘‘everything stimulates the upward march of money’’ (318), each ‘‘sphere’’ throwing its ‘‘spawn into a superior one,’’ each class endeavoring to rise to a higher social rank, in order ‘‘to obey that universal master, gold or pleasure’’ (316, TM). ‘‘Who . . . is dominant in …",
+      "source": "Emily Sun (editor)_ Eyal Peretz (editor)_ Ulrich Baer (editor) - The Claims of Literature_ A Shoshana Felman Reader (2022, Fordham University Press) [10.1515_9780823292790] - libgen.li-2.pdf",
+      "chunk_index": 107,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.68840516,
+      "importance": 0.7472814917564392,
+      "final_score": 0.6884050965309143
+    },
+    {
+      "id": "8a6bb4d5b06fc1cca383ee21",
+      "qdrant_id": "65627e55-e2fb-5e63-9a11-c43bc7ab5dc1",
+      "text": "is not finite, in the room it keeps growing, it is still without fixed forms, being made at every moment, it's not only there where he sees it, it is also elsewhere, it extends beyond his view, toward risk, death, it's supple, it embarks whole into pleasure as if it were grown up, adult, it is without guile, it has a frightening intelligence. (121) Besides offering a remarkable view of herself in terms of the desiring gaze directed at her, and an understanding of her own capacity to serve as the object of desire, this passage suggests the importance of desire and the erotic as potential transgressions of human finitude. For Georges Bataille, in L'erotisme, the erotic is fundamentally trans- gressive of taboos and limitations. Human beings are \"discontinuous\"- finite, closed, incapable of deep communication with others because the bodies of others are closed to them. In the erotic encount…",
+      "source": "Peter Brooks - Body Work_ Objects of Desire in Modern Narrative (1993, Harvard University Press) - libgen.li.pdf",
+      "chunk_index": 144,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6882157,
+      "importance": 0.7565612196922302,
+      "final_score": 0.6882157325744629
+    },
+    {
+      "id": "c0ed8bd1f3e000d902560806",
+      "qdrant_id": "e535a976-32da-559b-8508-fc96fe25d363",
+      "text": "Bergson, op. cit., p. 462. Candide, 5 September 1966, p. 36. La Folie en téte, p. 117. La Chasse 4 l'amour, p. 46. Ibid., p. 295. ee ¥ bathe: Roman Jakobson, Language in Literature (Cambridge Mass.: Harvard University Press, 1987), p. 378. i es, op. cit., p. 51. te , ; Bat Sontag: othe Pornographic Imagination’ in Georges Bataille, Story of the Eye (Harmondsworth: Penguin Books, 1982), pp. 83-118 (p. 96).",
+      "source": "Violette Leduc mothers, lovers, and language (Hughes, Alex, 1960-) (Z-Library).pdf",
+      "chunk_index": 665,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6880497,
+      "importance": 0.7622494101524353,
+      "final_score": 0.6880497336387634
+    },
+    {
+      "id": "73f5270b3727a89684d17e33",
+      "qdrant_id": "15706b2f-afd3-5038-aa9f-db1d7f187b34",
+      "text": "Seillans and from Vezelay. I have also copied, by hand on two fragments of orange paper, the text by Georges Dumas on Pleasure and Pain, which so impressed him. And his notes, the foreword (nine manuscript sheets), and the first meticulously corrected proofs. And also a letter from Henri Parisot, which filled him with joy, accompanying the color photograph of Balthus’ The Guitar Lesson (it was around the time of the Methode de Meditation). It was on the 24th of July, 1959, that Bataille decided upon the title of this book: The Tears of Eros (“Pauvert will love it,” he added, not without malice). On the same date, he asked me in re¬ gard to the New Dictionary of Sexology to make sure to include articles on Gilles de Rais, Erzsebet Bathory, the Sacred, Transgression, Fashion, Nudity, Jean Genet, Pierre Klossowski ... his favor¬ ite voices. The idea of The Tears of Eros never left him, and he planned it down to the most minute detail,",
+      "source": "Georges Bataille - Tears of Eros-City Lights Books (1989).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6880235,
+      "importance": 0.74625164270401,
+      "final_score": 0.6880235075950623
+    },
+    {
+      "id": "9d104524a78b00acc25c8b68",
+      "qdrant_id": "416c4f7f-5769-5f1b-9327-0e84ac5f0f0b",
+      "text": "knew that the photograph is a commodity. But it shares this property with all the products of our society. (The painting, too, is a commodity.) Disderi also knew what services photography is able to render the com- modity economy. He was the first to use photography to draw certain goods (primarily works of art) into the process of circulation-goods which had more or less escaped it up to then. He had the shrewd idea of acquiring a state monopoly on the reproduction of works in the Louvre's collection. Since then, photography has made more and more segments of the field of optical perception into saleable commodities. It has con- quered for commodity circulation objects wbich up to then had been vir- tually excluded from it. This development falls outside the framework of Gisele Freund's study. She is concerned primarily with the epoch in which photography began its triumphant …",
+      "source": "Walter Benjamin - The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media (2008, Belknap Press of Harvard University Press) - libgen.li (1).pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6575412,
+      "importance": 0.7567436099052429,
+      "final_score": 0.6575411558151245
+    },
+    {
+      "id": "70532124c15dd1b4426ca4a0",
+      "qdrant_id": "b5c52cdb-d4e6-5a05-82cb-1f19713d951f",
+      "text": "means of stockpiling access to films, on an individual basis or in the form of a central memory bank. But the essential usage of the image recorder seems to me to be elsewhere, in its private use for the manufacture of one's own gaze upon the world, and first and foremost upon oneself. Pleasure tied to the self- directed gaze: Narcissus after Echo. Eroticism as an appropriation of the body. The new instrument thus emerging will find its real usage only in the produc- tion, by the consumer himself, of the final object, the movie made from virgin film. The consumer, completing the mutation that began with the tape recorder and photography, will thus become a producer and will derive at least as much of his satisfaction from the manufacturing process itself as from the object he produces. He will institute the spectacle of himself as the supreme usage. The Political Economy of Composition Composition belongs to a political economy that it is difficult to conceptualize:",
+      "source": "[Theory and history of literature] Jacques Attali - Noise_ The Political Economy of Music (1977, 1985, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 586,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6485111,
+      "importance": 0.7564672231674194,
+      "final_score": 0.6527649164199829
+    },
+    {
+      "id": "5eccda601a7c9cd913124a9b",
+      "qdrant_id": "2d525fb0-d9cd-5a6a-ab96-cb38ca0e88ce",
+      "text": "lier work. This is also nicely illustrates Barthes’ own proposition that every bit of reading, regardless how objective it seems to be, is deter- mined by unconscious fantasies. Second, because the lectures also amend the image presented by many critics of the later Barthes as a hedonist who could not be in- convenienced by theoretical consistency, and for whom the only thing that mattered was the pleasure of reading, without any further obliga- tion. The lecture notes make clear that, behind the apparent hedonism, there indeed lurked a consistent argument. Literary studies were, ac- cording to the later Barthes, a way to care for the self, and this is why he viewed his lecture series at the Collège de France above all as an ethical experiment, as he emphasised in an interview from 1979: Dans mon cours, au Collège, vous avez pu voir que je ne travaille pas une œuvre, je lis des œuvres, et puis je fais passer des morceaux de",
+      "source": "(Faux titre no. 353) Pint, Kris_ Gemerchak, Christopher M._ Barthes, Roland - The perverse art of reading _ on the phantasmatic semiology in Roland Barthes' Cours au Collège de France-Rodopi (2010).pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "barthes-mythologies-semiotics-punctum-studium",
+        "roland-barthes-lover-s-discourse-punctum-camera-lucida"
+      ],
+      "raw_score": 0.78030074,
+      "importance": 0.817718505859375,
+      "final_score": 0.6478934288024902
+    },
+    {
+      "id": "7bf34915fa76f50ba0693f4c",
+      "qdrant_id": "096c49f8-5a9a-5a8b-aedf-a116dbb70b97",
+      "text": "brought about his gradual awareness not only of how much he enjoyed the sadistic nature of his treatment of Miss F. and her tolerance of it. He also recognized that even if she was trying to manipulate him, his feeling so much in control of their relationship gave him a sense of excitement. A new theme then emerged in the treatment: namely, Mr. L/s fantasy that if he really wanted to marry again and have children of his own, it would be the beginning of old age and death; only a playboy existence of carefree sex and lack of responsibility guaranteed eternal youth. Now his adolescent way of presenting himself in the session (an excessively and almost inappropriately juvenile style of dress and manners) became the subject of analytic exploration; it emerged as a protective effort to avoid the sense of doom connected with the idea of adulthood. As revealed in a series of loosely connected d…",
+      "source": "Otto Kernberg - Love Relations_ Normality and Pathology-Yale University Press (1998).pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "clarice-lispector-the-passion-according-to-g-h-cockroach-becoming"
+      ],
+      "raw_score": 0.7054515,
+      "importance": 0.7595664262771606,
+      "final_score": 0.6152228713035583
+    },
+    {
+      "id": "961b74ffbe3e9f0643773b13",
+      "qdrant_id": "220a43bb-ba28-5a04-b822-5a39b9142a86",
+      "text": "84 Walter Benjamin on Radio the playful appropriation of technology in Grandville’s imagery represents the ‘‘enthronement of the commodity, with its glitter of distractions.’’ The transformation of the world, including its cosmological forms of appearance, into familiar scenes of such enthronement is, Benjamin argues, the secret theme of Grandville’s art. Whence the split between its utopian and cynical elements in his work. The subtle artiﬁces with which it repre- sents inanimate objects correspond to what Marx calls the ‘‘theological ni- ceties’’ of the commodity. The concrete expression of this is clearly found in the spe´cialite´—a category of goods which appears at this time in the luxu- ries industry. World exhibitions construct a universe of specialties. The fan- tasies of Grandville achieve the same thing. They modernize the universe. In his work, the ring of Saturn becomes a cas…",
+      "source": "Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation-Fordham University Press (2022).pdf",
+      "chunk_index": 314,
+      "page": null,
+      "seed_hits": [
+        "walter-benjamin-aura-mechanical-reproduction-archive"
+      ],
+      "raw_score": 0.7260952,
+      "importance": 0.763444721698761,
+      "final_score": 0.6098038554191589
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "bernard-stiegler-technics-memory-pharmacology",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "f1352b587d66e0fd35c4f438",
+      "qdrant_id": "10095d8f-f98a-5849-8ed0-2bac49473e20",
+      "text": "of technologies, where consciousness is the cinema, and time is reveled ‘cinemato-graphically’ (see Barker 2009; Stiegler 2011: 31). Stiegler has published thus far three volumes (more to come) in his series on Technics and Time (see 1998, 2009, 2011). His thesis is that technics (forms of media technologies) are what organise and consti- tute human memory, and these technics are currently a ‘convergence’ of ‘analog, digital, and soon biological syntheses’ (2011: 210), along with all the technical industrial technologies that are now digital. When humans die, their genetic and individual memories die with them. While genetics may contain inherited information (although how to retrieve more than just an intuitive feeling or biological dispossession, or predilection for things in the world has yet to be determined), characteristics and individual experi- ences can only be ‘passed on’ through a tertiary form (contingent upon the",
+      "source": "Felicity Colman - Film, Theory and Philosophy The Key Thinkers (2009, Acumen) - libgen.li (1).pdf",
+      "chunk_index": 229,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7755557,
+      "importance": 0.8065370917320251,
+      "final_score": 0.7755559682846069
+    },
+    {
+      "id": "d67e758c1d63ea71ef663414",
+      "qdrant_id": "0551fa3e-c129-51e2-abfe-48c2779c6164",
+      "text": "include recording technologies such as books, records, photographs and ﬁlm, necessary for cultural memories to be maintained and be reproduc- ible. Stiegler’s theory describes how societies have different technologi- cal systems and models with which to remember their cultural practices. This memory takes three different stages; ﬁrst, the primary experiences of passing time, second are secondary retentions of the memory of those passages, and third are the tertiary forms of retention of experience and memory, through externalised processes. Grammatisation thus describes the techniques and systems with which a society will maintain and feed its externalisation of memory models. Stiegler’s grammatisation is a concept that is not without its critics (cf. Lebedeva 2009; Bunyard 2012) and discus- sants (cf. Hansen 2004; Barker 2009; Kember and Zylinska 2012: 167), as it tends to draw a universalist paradigm of the affects that capitalist visual",
+      "source": "Felicity Colman - Film, Theory and Philosophy The Key Thinkers (2009, Acumen) - libgen.li.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7346823,
+      "importance": 0.7763336300849915,
+      "final_score": 0.7346823811531067
+    },
+    {
+      "id": "f175e13129cfe83013998cf5",
+      "qdrant_id": "1e91b059-479d-5db8-af08-577541cefcfa",
+      "text": "Chapter 8 The pharmacopornographic pandemic On ‘Learning from the Virus’ by Paul Preciado (2020) When he heard that the ﬁrst marketed vaccine in late 2020 for COVID-19 was produced by big-pharma giant Pﬁzer, who also produced the Viagra brand of sildenaﬁl in 1988, the coincidence would hardly have produced a bat of the eyelid in surprise from trans activist and philosopher Paul B. Preciado. Already, in the middle of that annus horribilis of disease, Preciado had been making the case that the global pandemic had created conditions for the consolidation, and the speeding up of the application of what he had already for a decade or longer been nominating as the pharmacopornographic regime. Variations of the case featured in several essays by Preciado in 2020, published in El Pais and Art Forum and elsewhere, and arguably the most powerfully concise form is to be found in ‘Learning from the Virus’.1 Explications of the pharmacopornographic regime often take oﬀfrom a",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 264,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.7277037,
+      "importance": 0.7564419507980347,
+      "final_score": 0.7277036905288696
+    },
+    {
+      "id": "a5ecceaa907c8c7a0cb72a45",
+      "qdrant_id": "4ded3091-1522-54b0-aba2-a325870359fb",
+      "text": "hypomnemata (Stiegler 2010: 33). For Bernard Stiegler, grammatization explains ‘the history of the exteriorisation of memory in all its forms: nervous and cerebral memory, corporeal and muscular memory, biogenetic memory’ (2010: 33). This is to understand the connection between collective consciousness and memory in order to appreciate the nature of the expansion of consciousness and how it is connected with postmedia. I want to think collective intelligence alongside the idea of the World Brain or superorganism. The conclusion highlights the dangers and possibilities of computer-aided subjectivity, the contemporary manipulation of brain science for marketing and entertainment purposes, and the ethical consequences of brain research, the latter of which Guattari would frankly call mental pollution. What I am saying is that there is both simultaneously a mental pollution of the …",
+      "source": "[Schizoanalytic Applications] Joff P. N. Bradley_ Alex Taek-Gwang Lee_ N. Y. Manoj - Deleuze, Guattari and the Schizoanalysis of Postmedia (2023, Bloomsbury Academic) [10.5040_9781350180536] - libgen.li (1).pdf",
+      "chunk_index": 96,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7254249,
+      "importance": 0.7674593925476074,
+      "final_score": 0.7254250049591064
+    },
+    {
+      "id": "9c252c795d486201c05941fd",
+      "qdrant_id": "0acda055-6bc0-50c9-b107-46693c8528f6",
+      "text": "the field of transindividual memory, which is always-­there, collecting the experience of past generations. In this sense, Stiegler differentiates between three types of memory: the genetic memory of the biological individual, the epigenetic memory of the existential individual, and the epiphylogenetic (techno-­logical) memory, which is transindividual and which designates technicity in general (Stiegler 1998: 177). For Stiegler, genesis is a ‘program’ in a quasi-­deterministic biological sense, whereas epigenesis is the develop- ment of a unique individual which, unfortunately, is finite and disappears",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 418,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7208537,
+      "importance": 0.757222592830658,
+      "final_score": 0.7208539247512817
+    },
+    {
+      "id": "59f45ca811ca8cb5586611f5",
+      "qdrant_id": "8b9627b8-f3ac-52be-9f8d-1779a3687606",
+      "text": "anticipation of what is emerging in the present, enriching perception with the contents of the recalled memory and allowing the apparent iteration of a per­ ception to be, in fact, different than and new in comparison with the previous primary experience. Stiegler’s innovation (following Derrida’s insistence on the grammatological dissemination of philosophical constructs such as ‘per­ ception,’ ‘consciousness,’ and ‘memory’) is to focus on a third ‘tertiary’ order of retention that is exteriorized in material objects and media. Tertiary retention is ‘supplementary’ and ‘prosthetic’ in relation to primary and secondary reten­ tion; yet, as Derrida’s grammatological critique of Husserl already suggested",
+      "source": "[Transcultural Aesthetics_ 2] Jie Wang - Controversy and Construction in Contemporary Aesthetics (2023, Brill) - libgen.li.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7194612,
+      "importance": 0.7719756364822388,
+      "final_score": 0.71946120262146
+    },
+    {
+      "id": "3825dc1f3aa8c6394afd7190",
+      "qdrant_id": "dd5f715e-dae2-5fb8-9675-5b450e32f91d",
+      "text": "General Organology: Between Organism and Machine 107 notion of general organology as a kind of pharmacology which helps to diag- nose the divergence between technological individuation and psychosocial individuation observed in contemporary society.10 Although admitting that technology has a crucial role in constituting the individual and the society, Stiegler assumes that technologies might be poisonous (pharmakon) in the sense that they create prostheses for memory and thus increase the proletar- ianisation of knowledge. However, these pharmacological ambitions, being at the same time diagnostic and therapeutic, compromise Stiegler’s project as far as they rest on a humanistic presumption that there is an ‘authentic’ experience and knowledge. To conclude, we can argue that Stiegler elaborates Simondon’s ideas and asserts that human development and technical epiphylogenesis ar…",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) [10.1515_9781399510561] - libgen.li.pdf",
+      "chunk_index": 423,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7187591,
+      "importance": 0.7563173174858093,
+      "final_score": 0.7187590599060059
+    },
+    {
+      "id": "1ff4aaa56b5b9c2ca00c2f59",
+      "qdrant_id": "8714d50d-46f0-5c92-ae15-b4bd27fad869",
+      "text": "my lectures. But our investigations in the field of memory we will consider now. It will soon be seen that they are closely related to what I have said so far. The term \"memory\" is often used in a very general sense. We will distinguish between learning, a process which establishes traces in the nervous system, and these traces them- selves, which form the basis for memory in a narrower sense. And both have to be distin- guished from such facts as actual remember- ing, which may mean either recalling or recognizing, both obviously being effects of traces on present psychological processes. When we first began to be interested in this group of facts, all questions referring to it seemed to differ from the problems with which we had become acquainted when studying perception. In this respect, we soon discovered, we were mistaken. For some of the problems in the new field p…",
+      "source": "The Task of Gestalt Psychology (Princeton University Press) - libgen.li.pdf",
+      "chunk_index": 223,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.71843445,
+      "importance": 0.7690171599388123,
+      "final_score": 0.7184343338012695
+    },
+    {
+      "id": "6055378be2e6ea8d827e6947",
+      "qdrant_id": "865648a9-4b09-5f8b-9f65-2d352a7327ee",
+      "text": "the body. This exteriorized mode of memory served as a prosthetic extension of the internal forms of memory stored genetically in the DNA and neurally in the nervous system.1 More recently, Bernard Stiegler has elaborated the consequences of this early threshold shift in human evolution for understand- ing our existence as humans. In his account of the inception of human technology he asserts that the memory of the stereotype for the first tools, choppers, and rudimentary bi-­faced blades re- sided first in the material trace, that is, in the tool itself. The steps needed to produce the tool required anticipation and foresight. The tool was the reservoir or medium where the memory of those steps was stored. The earliest technical memory of how to produce the simple flaked pebble resided outside the body as a prosthetic memory that enabled Homo habilis to act with foresight and …",
+      "source": "Roger F. Cook - Postcinematic Vision_ The Coevolution of Moving-Image Media and the Spectator (Posthumanities) - libgen.li.pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.71593213,
+      "importance": 0.7652488350868225,
+      "final_score": 0.7159323692321777
+    },
+    {
+      "id": "471a695d135aa28ac8617dbe",
+      "qdrant_id": "c0bfbc31-2587-526c-a8f1-c5c76e5220f3",
+      "text": "R a v e l t h e D e c a d e n t 20 insofar as the creative and sublimating aspects of memory shape it to fi t precon- ceptions of beauty. For Marcel, memory most oft en behaves this way when memo- rializing desirable women in his life, whether it be Albertine, silhouett ed against the sea at Balbec, or Gilberte, “embowered always in a hedge of pink hawthorn” (I, 578), or the Princesse of Guermantes, whose noble profi le is forever impressed into his memory as upon the gold of a glorious medal (II, 659). A fragile thing, susceptible to the vicissitudes of the body to which it belongs, memory simultaneously preserves the self and exposes it to mortal danger; it is no coincidence that one of the most widely read treatises on memory during this period, Th éodule-Armand Ribot’s Les maladies de la mémoire (1881), att empts to explicate memory from the standpoint of its pathologies—…",
+      "source": "Michael J. Puri - Ravel the Decadent_ Memory, Sublimation, and Desire (2012, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 78,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.71217394,
+      "importance": 0.7665293216705322,
+      "final_score": 0.7121739387512207
+    },
+    {
+      "id": "ce052b284d86e5c484d061bd",
+      "qdrant_id": "28725676-79ee-52a4-8738-c004e9713165",
+      "text": "© Tyrus Miller, 2024 | DOI:10.1163/9789004685925_004 Chapter 2 Adorno, Stiegler, and Industrial Schemata of Experience Tyrus Miller Bernard Stiegler offers a diagnosis of the 20th century as the period of the increasing industrial organization of technically mediated memory, what he calls ‘tertiary retention,’ and the proffering of industrially standardized and synchronized temporal experiences, such as films, television, and recorded music, for sale and consumed on a mass scale. Despite the couching of his argument in the theoretical idiom of Husserlian phenomenology, Heideg­ gerian existential ontology, and French post-structuralism, as well as French theories of technics including Gilbert Simondon and André Leroi-Gourhan, Stiegler’s exposition also critically reprises—and extends—the ‘culture indus­ try’ hypothesis advanced by Theodor W. Adorno and Max Horkheimer in the mid-20th century. Adorno, as we know, did not simply criticize the industrial products of cul­",
+      "source": "[Transcultural Aesthetics_ 2] Jie Wang - Controversy and Construction in Contemporary Aesthetics (2023, Brill) - libgen.li.pdf",
+      "chunk_index": 96,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7113679,
+      "importance": 0.7571931481361389,
+      "final_score": 0.7113678455352783
+    },
+    {
+      "id": "edb84347cc334a2105f88dac",
+      "qdrant_id": "b482d91e-af87-51df-aaeb-f1311ce932fc",
+      "text": "O’Gorman, Marcel and Bernard Stiegler. 2010. “Bernard Stiegler’s Pharmacy: A Conversation.” Configurations 18.3: 459–76. Ondaatje, Michael. 1993. The English Patient. Toronto: Vintage Canada. Plato. Phaedrus. Trans. Benjamin Jowett. The Internet Classics Archive. Ray, Robert B. 2002. The Avant-Garde Finds Andy Hardy. Cambridge, MA: Harvard University Press. Rosner, Daniela K and Sarah E. Fox. 2016. “Legacies of Craft and the Centrality of Failure in a Mother-Operated Hackerspace.” New Media & Society 18.4: 558–80. Sennett, Richard. 2009. The Craftsman. New Haven: Yale University Press. Shirky, Clay. 2010. Cognitive Surplus: Creativity and Generosity in a Connected Age. New York: Penguin. Simondon, Gilbert. 1989. L’individuation psychique et collective. Paris: Aubier. Somerson, Rosanne and Mara L. Hermano, eds. 2013. The Art of Critical Making. Hoboken, NJ: Wiley.",
+      "source": "Marcel O’Gorman - Making Media Theory_ Thinking Critically with Technology (2021, Bloomsbury Academic) [10.5040_9781501358586] - libgen.li.pdf",
+      "chunk_index": 282,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.71011037,
+      "importance": 0.7512887716293335,
+      "final_score": 0.7101104855537415
+    },
+    {
+      "id": "23476cb7fda420ee08b31c30",
+      "qdrant_id": "49405581-6f6b-5a0f-932e-83fbff88abca",
+      "text": "Technological memory, or tertiary retention, is the necessary condition for organising society. Thus, on the one hand, Stiegler differentiates between different kinds of memory (biological, existential and technological); on the other hand, he relates these diverse modes of being into a unified theory of ‘general organology’, which includes biological organs, technical objects (organon) and the organisation of society.8 The concept of general organol- ogy is synonymous with the term epiphylogenesis, which encompasses bio- logical memory, individual memory and the transindividual technological memory. In his book For a New Critique of Political Economy,9 Stiegler asserts that general organology is a theory of the articulation of bodily organs (brain, hand, eyes, touch, tongue, genital organs, viscera, neuro-­vegetative system, etc.), artificial organs (tools, instruments and tec…",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 420,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7086913,
+      "importance": 0.7523068785667419,
+      "final_score": 0.7086913585662842
+    },
+    {
+      "id": "8951ca203538cebece5fb684",
+      "qdrant_id": "120c7789-1d27-5ca5-95bc-cb34e2bb8424",
+      "text": "in the 20th and early 21st century derives—like Adorno and Horkheimer’s account of the self-destructive dynamics of enlightenment—from a much broader speculative philosophical anthropology that he articulated over ­several different books, most prominently the multivolume Technics and Time studies,10 which expound through a number of critical expositions the tech­ nical infrastructures of memorial ‘retention’ of time and exteriorized medi­ ations of experiences registered in time. Stiegler focuses on various means of registering memory and their implications for individual and collective temporal experience, insofar as these historically evolving technics inflect memorial trace-making, preservation and storage of experiences as memory, 8 Gandesha, Samir. 2004. ‘Leaving Home: On Adorno and Heidegger,’ in The Cambridge Companion to Adorno, ed. Tom Huhn. Cambridge: Cambridge University Press, p.107. 9",
+      "source": "[Transcultural Aesthetics_ 2] Jie Wang - Controversy and Construction in Contemporary Aesthetics (2023, Brill) - libgen.li.pdf",
+      "chunk_index": 113,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.70344484,
+      "importance": 0.7582982182502747,
+      "final_score": 0.7034450173377991
+    },
+    {
+      "id": "eafa8b2c334a811122944c86",
+      "qdrant_id": "7f34f9a8-a1eb-5abc-a267-05b61e6206a4",
+      "text": "to another. The living, on his reading, differs from the non-living by virtue of its care for survival - a property, Hagglund points out, that is completely contingent and destructible. Finally, Bernard Stiegler, in an essay that forms part of a longer work on what Stiegler terms ‘the pharmacology of spirit’, also develops one of Derrida’s key notions, in this case the ambiguous nature of the pharmakon. In ‘Plato’s Pharmacy’ Derrida demonstrated how the double meaning of this word - as both dangerous poison and health-giving drug - operates in Plato’s Phaedrus to complicate the relation between speech and writing. Without any indication that he is conscious of doing so, Plato simultaneously condemns writing as under­ mining the delivery of true meaning in speech and acknowledges that speech depends on just those properties for which writing is denounced. Stiegler’s essay exte…",
+      "source": "Jane Elliott, Derek Attridge - Theory After 'Theory' (2011, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 85,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.70133233,
+      "importance": 0.758112370967865,
+      "final_score": 0.7013323903083801
+    },
+    {
+      "id": "018b1631b85d80864e09b23a",
+      "qdrant_id": "9ca399e8-d37c-5406-8bed-d62082e93476",
+      "text": "1 Bernard Stiegler, Economie de l’hypermatériel et psychopouvoir: Entretiens avec Philippe Petit et Vincent Bontems (Paris: Mille et une nuits, 2008), and Jean Baudrillard, Paroxysm, trans. Chris Turner (London: Verso, 1998).",
+      "source": "François Laruelle - Intellectuals and Power (2014, Polity) - libgen.li.pdf",
+      "chunk_index": 11,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7002522,
+      "importance": 0.7576213479042053,
+      "final_score": 0.7002524137496948
+    },
+    {
+      "id": "bc014b8d7e2c2d141b950f0e",
+      "qdrant_id": "b9361e1d-2a33-5e36-8e2f-742b9335b6f2",
+      "text": "with hypomnesis (externalized memory), and the two can hardly be separated.5 What’s more, and I’ll make the point here without Derridean apparatus, the acts of reading and writing themselves are conspicuously embodied acts of decoding and encoding that demand long circuits of cognitive processing. And these long circuits are essential in the production not merely of knowledge but of subjectivity itself. In a neo-Marxist manifesto entitled “Anamnesis and Hypomnesis,” Bernard Stiegler suggests that industrial society is founded on the production of 4 Note that the word “specific” is an archaic term that means “remedy.” 5 Derrida suggests that Plato is not offering a general condemnation of the externalization of memory; rather, he is targeting sophistics (1981). For a more detailed discussion of this point and its relationship to digital media, see my essay in CTheory, “Taking C…",
+      "source": "Marcel O’Gorman - Making Media Theory_ Thinking Critically with Technology (2021, Bloomsbury Academic) [10.5040_9781501358586] - libgen.li.pdf",
+      "chunk_index": 226,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6964607,
+      "importance": 0.7505670189857483,
+      "final_score": 0.6964607834815979
+    },
+    {
+      "id": "ad0fad0d9c73c6d391e8033a",
+      "qdrant_id": "f8e9296a-c494-56f1-a418-cefe82846cc2",
+      "text": "contents vii 23. The Pharmacology of Poststructuralism: An Interview with Bernard Stiegler 489 Bernard Stiegler and Benoît Dillet Conclusion: Poststructuralism Today? 507 Benoît Dillet, Iain MacKenzie and Robert Porter Notes on the Contributors 527 Index 533 contents viii contents ix Acknowledgements acknowledgements acknowledgements Our thanks to Nicola Ramsey, Jenny Daly and Michelle Houston of Edinburgh University Press for their inspiration, patience and attention to detail: this book would not have happened without them. We thank Surasti Puri for the cover photo. We acknowledge and thank Presses universitaires de France (PUF) and Corinne Enaudeau for permission to publish a translation of her text on Lyotard. This text was originally published as ‘La politique entre nihilisme et histoire’, Cités, Vol. 45, No. 1, 2011, pp. 103–15. And on a personal note: Tara for her inspiration; Anna, Kathryn, Sam, Kerry-Ann, Jess and wee Anna, such loving companions in life.",
+      "source": "The Edinburgh Companion to Poststructuralism (Benoît Dillet, Robert Porter, Iain Mackenzie) (Z-Library).pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.69605774,
+      "importance": 0.7484005093574524,
+      "final_score": 0.6960576772689819
+    },
+    {
+      "id": "39854e03a0c69a29211c66e6",
+      "qdrant_id": "dbcc9364-0c49-5e6c-a7b4-f30d90fea6b8",
+      "text": "[History], in Geschichtliche Grundbegriffe: Historisches Lexikon zur politisch-sozialen Sprache in Deutschland [Fundamen- tal historical concepts: Historical dictionary of political-social language in Germany], vol. 2, edited by Otto Brunner, Werner Conze, und Reinhart Koselleck (Stuttgart: Klett-Cotta, 1975), 593–717, at 663. 4. Pierre Nora, “Between Memory and History: Les Lieux de Mémoire,” Representations, no. 26, special issue: “Memory and Counter-Memory” (Spring 1989): 7–24, at 13. CHAPTER 7 1. Roland Barthes, “Wirklichkeits—oder vielmehr Realitätsef- fekt (Lacan)” [Verisimilitude, or rather the effect of reality (Lacan)], in Texte zur Theorie der Fotografie [Texts on the theory of photography], edited by Bernd Stiegler (Stuttgart: Reclam, 2010), 95–101, at 95, 99. 2. Crispin Startwell, End of Story: Toward an Annihilation of Lan- guage and History (New York: SUNY Press, 2000), 17.",
+      "source": "[Untimely meditations 13] Simanowski, Roberto - Waste_ A New Media Primer (2018, MIT Press) - libgen.li.pdf",
+      "chunk_index": 257,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.69553447,
+      "importance": 0.7520422339439392,
+      "final_score": 0.6955345869064331
+    },
+    {
+      "id": "15aaa6e89315243cf438b8b3",
+      "qdrant_id": "e6174657-c05b-5339-9e1a-89059f3bdba3",
+      "text": "Bernard Stiegler: The Time of Technics Bernard Stiegler is perhaps best known in the anglophone academic community for the first two volumes of Technics and Time which appeared in English translation in 1998 and 2009 respectively (Stiegler 1998; 2009c). Yet, since the publication in French of the final volume of this trilogy in 2002, his output has been prolific and includes a second trilogy of books entitled Mécréance et discrédit (Stiegler 2004b; 2006a; 2006b), a two-volume work entitled De la misère sym­ bolique (Stiegler 2004a; 2005a), as well as numerous other single authored and edited volumes. To label Stiegler simply as a philoso­ pher of technology would be to misconstrue the scope and ambition of the Technics and Time trilogy taken in its own right and, more generally, that of his increasingly prolific output. His philosophical elaboration of ‘the technological rooti…",
+      "source": "Ian James - The New French Philosophy (2012, Polity) - libgen.li (1).pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6934279,
+      "importance": 0.7379067540168762,
+      "final_score": 0.6934280395507812
+    },
+    {
+      "id": "2743c71ecba8a2e7489202d7",
+      "qdrant_id": "43042fb2-f33b-50cc-b71e-dcba527280fb",
+      "text": "and data are seldom the exclusive property of one particular memory” (Franzen 8). As a result, memories are largely interconnected and easily triggered by excitation of related regions of the brain, forming a “constel- lation” that is preserved through the very act of remembering. Memories must be recalled to remain memories, since “each succeeding recollection and retelling reinforces the constellation of images and knowledge that constitute the memory. At the cellular level, according to neuroscientists, I’m burning the memory in a little deeper each time, strengthening the den- dritic connections among its components, further encouraging the firing of that specific set of synapses” (Franzen 9). In these terms, narrative is not simply the emplotment of memory; memory itself is created by its telling. Storytelling at once confirms and even creates memory, since that which is n…",
+      "source": "Amelia DeFalco - Uncanny Subjects_ Aging in Contemporary Narrative (2010, Ohio State University Press) - libgen.li.pdf",
+      "chunk_index": 238,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.69307756,
+      "importance": 0.7427073121070862,
+      "final_score": 0.6930775046348572
+    },
+    {
+      "id": "39c1730eacc0c4f2ac8469e9",
+      "qdrant_id": "c6c122a6-9cd9-5d08-85e4-7a9cb7f44a32",
+      "text": "memory, 17–18, 22, 25, 28, 33, 37–40, 42, 45, 61–3, 75, 100, 104, 110, 119, 121–2, 127, 130–1, 142–4, 148, 154–5, 164–5, 170–1, 177–8, 186 Micheaux, André, 89 Michelson, Annette, 162 micropolitics, 20 Minnelli, Vincente, Brigadoon, 42 mirrors, 27, 30–1, 45, 47, 62, 69–70, 78, 102, 111, 113, 124, 126–8, 148–9, 159–60, 179 mise-en-scène, 43, 99, 141, 181–2 Modernism, 89, 101, 106–7, 129, 181 molar, the, 64, 86, 98–9, 118, 122, 129 molecularity, 4, 11, 45, 60–6, 73, 80, 86, 89–90, 97–100, 104, 110, 113–14, 119, 121–2, 127, 177, 185 Mondrian, Piet, 111 monster, the, 79, 81 montage, 69, 82, 105–6, 108, 146, 164, 166, 180 morphing, 30, 179 movement, 23, 26, 28–9, 31, 38, 44, 66, 106, 141, 169 and aﬀect, 84, 98, 125 and drugs, 61, 67, 71–2, 76, 80–1, 87, 89, 91 and forces, 58, 99, 110, 114 and light, 88, 97, 107, 121–2 and temporality, 2, 137–41, 143–4, 159, 162, 164, 166–7, 171 and the camera,…",
+      "source": "Anna Powell - Deleuze, Altered States and Film (2012, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 152,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6929805,
+      "importance": 0.7532482743263245,
+      "final_score": 0.6929808259010315
+    },
+    {
+      "id": "7b6a43b08cc6efd96fa9f462",
+      "qdrant_id": "da929c7c-5350-53ca-88d4-79754d3ffbd6",
+      "text": "phenomenology and existential philosophy. Illinois: Northwestern University Press. Stiegler, Bernard. 1994–2001. La technique et le temps I–III. Paris: Galile´e. Stiegler, Bernard. 2004a. Me´cre´ance et discre´dit. 1. La de´cadence des de´mocraties industrielles. Paris: Galile´e. Stiegler, Bernard. 2004b. Philosopher par accident. Entretiens avec E´lie During. Paris: Galile´e. Stiegler, Bernard. 2005. Me´cre´ance et discre´dit.2.Les socie´te´s incontrolables d’individus de´ saffecte´s. Paris: Galile´e. Stiegler, Bernard. 2006. Me´cre´ance et discre´dit. 3. L’esprit perdu du capitalisme. Paris: Galile´e. 314 References",
+      "source": "[Ethical Economy №49] Jacob Dahl Rendtorff (auth.) - French Philosophy and Social Theory_ A Perspective for Ethics and Philosophy of Management (2014, Springer) [10.1007_978-94-017-8845-8] - libgen.li.pdf",
+      "chunk_index": 241,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.69224006,
+      "importance": 0.7466493844985962,
+      "final_score": 0.692240297794342
+    },
+    {
+      "id": "ac73423aed4fb38c9abd5128",
+      "qdrant_id": "9efb6d13-6592-5aa4-90f3-3b99a79a1282",
+      "text": "perpetuate the legacy of the past as a “living symbol” even “without depending on con- scious acts of remembrance” (p. 8). Therefore, it should not be regarded as a passive con- duit for mental activities and contents but rather as an agent that plays an indispensable role in the genesis and expression of thoughts, feelings and hence memories. Whereas con- ceptual thinking and its representations tend to marginalize the corporeal dimension of existence in favor of abstract schemata, the body’s symbolic function grounds meaning in the concrete realm of matter. Memory is inseparable from technology. Since prehistory, being human has meant being involved in the development of technologies, not only mechanisms and tools, but also stories, pictures and melodies. As Bernard Stiegler persuasively argues in Technics and Time (1998), human evolution and technological development are inextricably …",
+      "source": "Anime and memory  aesthetic, cultural and thematic perspectives (Cavallaro, Dani) (Z-Library).pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.68879634,
+      "importance": 0.7477855682373047,
+      "final_score": 0.6887964010238647
+    },
+    {
+      "id": "0b72b62c1c9e227d9d240afa",
+      "qdrant_id": "f6ddf093-e895-5c3f-b879-2a239258af01",
+      "text": "\"hyphen\" and meeting ground between executives, printers and intellectuals appeared wholly natural and eternal at the time, naturally eternal. ,'- In a later period, however, as Bernard Stiegler has shown, analogically recorded memories drastically modify the \"hand\" dealt to us. Photography, phonography, film, radio, TV (to say nothing of digitized recording techiques) no longer require any particular qualification to be admitted to the archives, delegate the tasks of encoding and decoding to machines, give a comparative advantage to information over knowledge (to the document over criticism, to the event over duration, etc. ). They \" decommunitarize\" knowledge and science even as they atomize and delocalize the collectives of knowledge (including the \"col­ lective intellectuals\" that workers' parties were supposed to be)? In principle, whoever reads a letter can also write …",
+      "source": "Regis Debray - Media Manifestos_ On the Technological Transmission of Cultural Forms-Verso (1996).pdf",
+      "chunk_index": 305,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.68840945,
+      "importance": 0.7358433604240417,
+      "final_score": 0.6884093880653381
+    },
+    {
+      "id": "ce00d53237b1946494f826dd",
+      "qdrant_id": "c55eaddf-da56-5e64-9a99-6d0f6b17ccec",
+      "text": "The Obverse Side of Jacques Derrida’s ‘Freud and the Scene of Writing’ 127 Freud thus assigns the contradictory functions of memory to two categories of neurones: ‘there are permeable neurones (offering no resistance and retaining nothing) … and impermeable ones (loaded with resistance, and holding back Qn)’ (300). Memory is situated in the latter. The capacity of receptivity and of retention must still be accounted for. The contact-barriers of these neurones thus permanently modified are yet submitted to change in so far as remem- bering gradually eases the passage of quantity, up to the point where these neurones may become more and more similar to the neurones ‘offering no resistance and retaining nothing’ (ibid.). How can neurons be further differentiated? In view of the changing power of the contact-barriers, memory cannot be explained by the fact that some neurones offer …",
+      "source": "[Bloomsbury Studies in Continental Philosophy] Simon Morgan Wortham_ Chiara Alfano (editors) - Desire in Ashes_ Deconstruction, Psychoanalysis, Philosophy (2016, Bloomsbury Academic) [10.5040_9781474219358] - lib.pdf",
+      "chunk_index": 131,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6875032,
+      "importance": 0.7452262043952942,
+      "final_score": 0.6875033378601074
+    },
+    {
+      "id": "c0f67430de719b99d93a030f",
+      "qdrant_id": "882e269a-a9c5-5deb-b70b-aada6d1cdb1e",
+      "text": "tians wiser (sophoterous) and improve their memory (mnemonikoterous). The drug (pharmakon) for memory and wisdom (mnemes te gar kai sophias) has been discovered’’ (274e). Thamus will reject both claims, but we must note several things about Theuth’s defense of letters. First, we should take note of the two words employed for ‘‘memory’’: mnemonikoterous and mnemes. In a moment, Thamus will reject this claim by distinguishing ‘‘memory’’ from ‘‘reminding.’’ Here is his critique: And now you, father of these letters, have in your fondness for them said what is the opposite of their real e√ect. For this will produce a forgetting in the souls of those who learn these letters as they fail to exercise their memory (mnemes ameletesia), because those who put trust in writing recollect (anamimneskomenous) from the outside with foreign signs, rather than from themselves recollecting from within by themselves. You have not discovered a drug (pharmakon) for memory",
+      "source": "[Studies in continental thought] Drew A. Hyland - Plato and the Question of Beauty (2008, Indiana University Press) - libgen.li.pdf",
+      "chunk_index": 499,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.68622226,
+      "importance": 0.7319285869598389,
+      "final_score": 0.6862223148345947
+    },
+    {
+      "id": "bf6c1182463df25a2c6591f6",
+      "qdrant_id": "4fbb7be0-2913-5541-9175-cf1bb18fdd46",
+      "text": "be a narcotic—one oft en made possible by narcotics themselves, as the protodec- adents de Quincey and Baudelaire famously discovered in their experimentation with opium and hashish. Indeed, Proust himself describes memory as a “phar- macy” or “chemical laboratory in which our groping hand may come to rest now on a sedative drug, now on a dangerous potion” (III, 397). Further, memory can feel like an illness, especially in its involuntary mode. When discussing leitmo- tivic design in Wagner, Marcel is struck by its “reality” as a simulation of memory: Its “insistent, fl eeting themes which visit an act recede only to return again and again, and, sometimes distant, drowsy, almost detached, are at other moments, while remaining vague, so pressing and so close, so internal, so organic, so vis- ceral, that they seem like the reprise not so much of a musical motif as of an att ack of n…",
+      "source": "Puri, Michael J._ Ravel, Maurice - Ravel the decadent _ memory, sublimation, and desire (2011, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 80,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.68543494,
+      "importance": 0.7460322976112366,
+      "final_score": 0.6854349970817566
+    },
+    {
+      "id": "d09f3c38a1349b4a71374bae",
+      "qdrant_id": "b70ae758-5da7-56c6-932f-9e978d0b7973",
+      "text": "l'art thérapeutique: Du bon usage des psychotropes [An essay on therapeutic art: The correct use of psychotropic drugs] (Paris: SynapseFrison Roche, 1987). z. Jean Delay, \"Allocution finale du colloque international sur la chiorpromazine et les médicaments neuroleptiques en psychia- trie\" [Closing address at the international conference on chlor- promazine and neuroleptic medications in psychiatry], L'En- céphale. 45, flO. 4 (1956): i-8i. 3. \"Entretien avec Henri Laborit\" [Interview with Henri La- borit], Oedipe et les neurones [Oedipus and neurones], Autre- ment, 117 (October 1990): 2.35. . Edouard Zarifian, Des paradis plein la tête [Head full of paradises] (1994; reprint, Paris: Odile Jacob, 1998), p. 73. A French psychiatrist, Zarifian denouces the excesses of psycho- pharmacology in Le prix du bien-être: Psychotropes et société",
+      "source": "Elisabeth Roudinesco, Rachel Bowlby - Why Psychoanalysis_ (European Perspectives_ A Series in Social Thought and Cultural Criticism) (2004, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 372,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.68519884,
+      "importance": 0.7411730885505676,
+      "final_score": 0.6851989030838013
+    },
+    {
+      "id": "5d5183ef6fed2fbbc07746dc",
+      "qdrant_id": "fe473a8f-632e-51a5-adc9-4729a63d72fa",
+      "text": "iI. On this subject, see Michel Schiff, The Memory of Water: Homeopathy and the Battle of Ideas in the New Science, with a foreword by Jacques Benveniste (London: Thorsons, 1995). 4. A collective work published by Seuil in 1987. 5. On this subject, see Bruno Latour and Steve Woolgar, Laboratory Life: The Construction of Scientific Facts (Princeton, N.J.: Princeton University Press, 1986). 6. An interesting question for French psychoanalysts: why is it among them that one finds the most determined representatives of the characterization of the \"subject of science\" as such? In doing this, what agenda are they following? 7. Bruno Latour, The Pasteu,·ization of France, trans. Alan Sheridan and John Law (Cambridge: Harvard University Press, 1 988) (followed, in the same edition, by the equally indispensable Irreductions). 8. See Latour and Woolgar, Laboratory Life, as well as Bruno Latour, Science in Action: Hmo to Follow Scientists",
+      "source": "Isabelle Stengers - Power and Invention_ Situating Science (Theory Out of Bounds Series , Vo 10) (1997) - libgen.li (1).pdf",
+      "chunk_index": 160,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6817782,
+      "importance": 0.7427471280097961,
+      "final_score": 0.6817783713340759
+    },
+    {
+      "id": "15b1bfc6ac9b69ef7d6e6b89",
+      "qdrant_id": "bae4e736-84fb-58d8-8ccd-42f9284a4398",
+      "text": "special issue on Bernard Stiegler and the Question of Technics [Online: http://www.transformationsjournal.org/journal/issue_17/article_01. shtml] Barthes, R. (1976 [1973]) The Pleasure of the Text. trans. R. Miller. New York: Hill and Wang. ___ (1990a [1967]) The Fashion System, trans. M. Ward and R. Howard. Berkeley, CA: University of California Press. ___(1990b [1970]) S/Z: An Essay, trans. R. Miller and R. Howard. New York: Hill and Wang.",
+      "source": "Felicity Colman - Film, Theory and Philosophy The Key Thinkers (2009, Acumen) - libgen.li.pdf",
+      "chunk_index": 358,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6807351,
+      "importance": 0.7411410212516785,
+      "final_score": 0.6807351112365723
+    },
+    {
+      "id": "b6c9e1b03bb488818fe38914",
+      "qdrant_id": "5ef85094-b644-5d46-82ae-d51e5e7a5932",
+      "text": "77 Hertz and Roessner, p. 3. 78 Sloboda, p. 496. Cf. also David Rubin, Autobiographical Memory (New York: John Wiley & Sons, 1986); and Hans Baumgartner, ‘Remembrance of Things Past: Music, Autobiographical Memory, and Emotion’, Advances in Consumer Research, 19 (1992), 613–​20.",
+      "source": "[Internationale Forschungen zur Allgemeinen und Vergleichenden Literaturwissenschaft 208] Norbert Bachleitner (editor), Juliane Werner (editor) - Popular Music and the Poetics of Self in Fiction (2021, Brill) - lib.pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6787648,
+      "importance": 0.7339730858802795,
+      "final_score": 0.678765058517456
+    },
+    {
+      "id": "8d681e0dd93ad65c8f94b9af",
+      "qdrant_id": "8c7441b5-42a4-5254-aaf8-7969bb33cc62",
+      "text": "responsible for the specter of global annihilation can be applied toward the prolongation of life. It is here that we encounter the pharmacological nature of technology. Socrates, in the last moments of his life, recognized the hem- lock he was about to ingest as a pharmakon; the poison would put an end to his physical being, but at the same time, as he so brazenly informed his pri- vate audience, it would also secure his immortality, his heroism or kleos.1 For Plato, writing technology also serves as a pharmakon—­a tool that in one stroke",
+      "source": "[Posthumanities 33] O'Gorman, Marcel - Necromedia (2015, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.677698,
+      "importance": 0.7330813407897949,
+      "final_score": 0.6776983737945557
+    },
+    {
+      "id": "ef43995db4e240492bda4bf4",
+      "qdrant_id": "30d8d8f9-27de-5014-86dd-eaf5ad175fb4",
+      "text": "Concept Bernard Stiegler, Technics and Time, 2: Disorientation Bernard Stiegler, Acting Out Susan Bernstein, Housing Problems: Writing and Architecture in Goethe, Walpole, Freud, and Heidegger Martin Hägglund, Radical Atheism: Derrida and the Time of Life Cornelia Vismann, Files: Law and Media Technology M E R I D I A N Crossing Aesthetics",
+      "source": "Barbara Johnson (editor)_ Judith Butler (editor)_ Shoshana Felman (editor) - A Life with Mary Shelley-Stanford University Press (2014).pdf",
+      "chunk_index": 137,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.67757714,
+      "importance": 0.7388275265693665,
+      "final_score": 0.6775771379470825
+    },
+    {
+      "id": "53d26ea23abe592be19438da",
+      "qdrant_id": "191a96a2-5ac6-5865-937c-cfff2586e6db",
+      "text": "focus here are the digitization of personal memories, tunnel images in science ﬁction ﬁlms and biomedical documentaries, and body assemblages in a hypertext novel. José van Dijck, in chapter 8, explores the way in which personal memory is aªected by the possibilities of digital storage, tracing the cultural fantasy of a universal mem- ory machine as a desire for total recall and total control. Van Dijck takes the exam- ple of a digital project, “MyLifeBits,” which allows the user to store personal bits INTRODUCTION I xvii",
+      "source": "Smelik, Anneke(Editor) - Bits of Life_ Feminism at the Intersections of Media, Bioscience, and Technology (2008, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.67755747,
+      "importance": 0.7369386553764343,
+      "final_score": 0.6775574684143066
+    },
+    {
+      "id": "e70faaed5a8b9baf02c062c3",
+      "qdrant_id": "dc93d7a8-f665-5859-9952-15e22c8c6938",
+      "text": "current research centres on political and legal theory. Henry Staten is Lockwood Professor in the Humanities and Adjunct Professor of Philosophy at the University ofWashington. He is the author of Wittgenstein and Derrida (University of Nebraska Press, 1984), Nietzsche’s Voice (Cornell University Press, 1990) and Eros in Mourning: Homer to Lacan (Johns Hopkins University Press, 1984). Bernard Stiegler is the Director of the Department of Cultural Development at the Centre Georges-Pompidou in Paris and the founder of the political group Ars Industrialis. He has published more than 25 books in French, his best-kiiown work being the three-volume project La technique et le temps published in English translation as Technics and Time, vol. 1: The Fault of Epimetheus (Stanford Umversity Press, 1998), Technics and Time, vol 2: Disorientation (Stanford University Press, 2009), and Technic…",
+      "source": "Jane Elliott, Derek Attridge - Theory After 'Theory' (2011, Routledge) - libgen.li (2).pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.675707,
+      "importance": 0.7283890843391418,
+      "final_score": 0.6757069230079651
+    },
+    {
+      "id": "44043c9ad74f94581dea0dac",
+      "qdrant_id": "aa82a008-cc15-5c3e-a51f-e9c8dbf5ef1f",
+      "text": "If we have at our disposal interfaces capable of memoriz- ing, in a fashion accessible to us, vibrations naturally beyond our ken, i.e. that determine us as no more than 'material points' (as is the case with many forms of radiation), then we are extending our power of differentiation and our memories, we are delaying reactions which are as yet not under control, we are increasing our material liberty. This complex of transformers, still seen from the pragmatist point of view, well deserves the name it bears, that of techno-science. The new technologies, built on electronics and data pro- cessing. must be considered — still from the same angle — as material extensions of our capacity to memorize, more in Leibniz's sense that Bergson's, given the role played in them by symbolic language as supreme 'condenser' of all informa- tion. These technologies show in their own way that there is no break between matter and mind, at least in its reactive I",
+      "source": "Jean-FranCois Lyotard, Geoffrey Bennington, Rachel Bowlby - The Inhuman_ Reflections on Time (1992, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6751387,
+      "importance": 0.7357668280601501,
+      "final_score": 0.6751385927200317
+    },
+    {
+      "id": "38f594681a6e7942b0673447",
+      "qdrant_id": "d4c0e139-84de-56dd-97ed-deecfe173647",
+      "text": "60 Chapter 3 61. Bergson, Creative Evolution, 323. 62. For a discussion of punch cards as differential storage, see “Die Lochkarte als Träger des Hollerith-Verfahrens,” in Festschrift zur 25-Jahrfeier der Deutschen Hol- lerith Maschinen Gesellschaft (Berlin: November, 1935), 86ff. 63. Raulff, Der unsichtbare Augenblick, 74. See Sigmund Freud, Der Wahn und die Träume in W. Jensens »Gradiva«, ed. Bernd Urban and Johannes Cremerius (Frankfurt am Main: Fischer, 1973). 64. Siegfried Kracauer, Geschichte—vor den letzten Dingen (Frankfurt am Main: Suhrkamp, 1971), 62. 65. Raulff, Der unsichtbare Augenblick, 77. 66. See Peter Galison, Einsteins Uhren, Poincarés Karten. Die Arbeit an der Ord- nung der Zeit (Frankfurt am Main: Fischer, 2003). 67. Hermann Schmidt, Denkschrift zur Gründung eines Institutes für Regelung- stechnik (Berlin: VDI-Druck, 1941), 9. 68. Helmut Siekmann, “Experi…",
+      "source": "[Media Philosophy] Wolfgang Ernst - Chronopoetics_ The Temporal Being and Operativity of Technological Media (2016, Rowman & Littlefield International) - libgen.li.pdf",
+      "chunk_index": 127,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6736306,
+      "importance": 0.7305867075920105,
+      "final_score": 0.6736304759979248
+    },
+    {
+      "id": "bb5aa28d98cdebc27dd634fa",
+      "qdrant_id": "8b62d08c-26d3-5a21-9523-55051bdb06fe",
+      "text": "and so on. Here, time is theorized as something that happens to a technical object, with the technical object being situated in a temporal frame that shapes it. For Stiegler, this broader temporal frame is based upon a geometric conception of space and an entropic model of temporality. In Stiegler’s (2012: 32) words, retention is a ‘spatialisation of time’ predicated on three modes of co-existing temporality: physical, negentropic and technical. As he puts it,",
+      "source": "James Ash - Phase Media_ Space, Time And The Politics Of Smart Objects (2018, Bloomsbury Publishing) - libgen.li.pdf",
+      "chunk_index": 97,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6733877,
+      "importance": 0.724997878074646,
+      "final_score": 0.6733877658843994
+    },
+    {
+      "id": "9d91c643c8b8b3f4f9ea2d26",
+      "qdrant_id": "d40a6120-fcb5-53f4-b81e-3c6a9097017e",
+      "text": "become interested in the ‘technicization’ of science. As an example of this one can think of Edmund Husserl’s work on the arithmeti- cization of geometry.10 Importantly, as Stiegler also points out, the Platonic conception of technicization as the loss of memory is still at the basis of Husserl’s understanding of algebra.11 I will come back to Plato’s understanding of technology in a moment. For now it is worth remembering that in his dialogue Phaedrus Plato famously",
+      "source": "[Media Philosophy] Federica Frabetti - Software Theory_ A Cultural And Philosophical Study (2015, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6732248,
+      "importance": 0.7299985885620117,
+      "final_score": 0.673224925994873
+    },
+    {
+      "id": "7ab70749a17fa8bd1c6544c1",
+      "qdrant_id": "6f30b5a7-8149-5a35-a3e7-656334d18cd3",
+      "text": "tion 2.1; Bruckner 2012: section 3; Felder 2018: section 1; Greene 2017: sections 2.2–2.3; Steele 1976: 425). There is some disagreement about whether it would be necessary to adjust human memory capacities (per- haps via some sort of implant or pharmaceutical treatment) in order to prevent permanent boredom/disenchantment in immortal lives, but many of these thinkers concur that normal human levels of gradual forgetful- ness, or something very close to them, would be sufficient to keep one engaged indefinitely.13 Although Fosca apparently has an unaltered human memory, his claims about its capacity vary a bit. On a few occasions, he wishes he could forget and seems almost tormented by a memory too reliable for his own good (see e.g. AM 17, 34–5), but, more frequently, Fosca’s com- ments on his memory are about his forgetfulness, especially when it comes to details and the distant past (see e.g. AM 46, 219, 251, 256, 275,",
+      "source": "[Routledge Studies in Contemporary Philosophy] Adam Buben - Existentialism and the Desirability of Immortality (2022, Routledge) - libgen.li.pdf",
+      "chunk_index": 504,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.67224365,
+      "importance": 0.7254130244255066,
+      "final_score": 0.6722437739372253
+    },
+    {
+      "id": "755aed00fb78f91501095687",
+      "qdrant_id": "b98581d3-e3e4-514d-ab05-27ec73da08b4",
+      "text": "forgetting gradually becomes impossible and yet we seem to remember less and less – cloud culture is both ‘hypermnesia’ and post-mnemonic.155 The triumph of instantaneous inscription: we both remember and forget everything, embracing a forgetfulness underwritten by a fully-comprehensive mnemonic insurance. Indeed, pace Stiegler, memory-as-data operates in a möbius-like fashion – it’s the Cloud ecology that is mnemonic. In such a world, we are increasingly deemed to be wholly reliant on an ability to interrogatively access this ecology – ‘when your mind is 74 Cloud Time",
+      "source": "[Zero Books] Dean Lockwood_ Rob Coley - Cloud Time_ The Inception of the Future (2012, Zero Books) - libgen.li.pdf",
+      "chunk_index": 212,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.67209435,
+      "importance": 0.7224656343460083,
+      "final_score": 0.6720944046974182
+    },
+    {
+      "id": "46854d09e0dd6f2f4027fedc",
+      "qdrant_id": "800980c2-8a15-5c0d-bb85-afe4a08706d5",
+      "text": "768, and \"The Deceptions of Power: Psychoanalysis and Hypnosis,\" Substance 62-63 (1991): 81-9 1 . 1i1. Sigmund Freud, \"Remembering, Repeating and Working-Through,\" in The Standard Edition of the Complete Psychological Wo,·ks of Sigmund Freud, vol. 12, p. 1 52; hereafter cited in the notes as SE, along with the relevant volume and page numbers. 2 4 0 , 1 14. Sigmund Freud, \" 'Wild' Pschoanalysis,\" in SE, vol. 1 1 . 15. Freud, \"Remembering, Repeating and Working­ Through,\" pp. 1 54-55. 16. Sigmund Freud, \"The Dynamics of Transference,\" in SE, vol. 12, p. 106. 17. Sigmund Freud, \"Analytic Therapy,\" in SE, vol. 16, p. 451 . 18. Sigmund Freud, \"Analysis Terminable and Interminable,\" in SE, vol. 2 3 . 19. Laplanche, Nouveaux flndements pour la psychanalyse. 20. This is Leon Chertok's basic thesis in Le non-savoir des psy (Paris: Payot, 1979). Chapter 6. Of Paradigms and Puzzles 1. Of Pm·adigms and Puzzles is the transcript of a lecture",
+      "source": "Isabelle Stengers - Power and Invention_ Situating Science (Theory Out of Bounds Series , Vo 10) (1997) - libgen.li (1).pdf",
+      "chunk_index": 163,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6719576,
+      "importance": 0.7299665808677673,
+      "final_score": 0.6719576716423035
+    },
+    {
+      "id": "d6edda677a025aa48a246c84",
+      "qdrant_id": "85e3b7dc-ff11-50c8-8930-2f150f86aca9",
+      "text": "Books. ---.1976. The Diaries: 1910-1923. Editcd by Max Brod. New York: Schockcn Books. __ -o 1983. The complete stories. Edited by N. Glatzer. Ncw York: Schocken Books. ---.1984. Tagebücher 1910-1923. Frankfurt am Main: Fischer-Taschenbuch-Verl. Kurz, G. 1980. Traum-schrecken, Kafkas literarische existenzanaJyse. Smttgart: J. B. Metzlcr- sche Verlag. Lévi-Strauss, C. 1963. The sorccrcr and his magic. In StructuraJ anthropology, 167-85. New York: Basic Books. Levine, J. 1983. Materialism and qualia: Thc explanatory gap. Pacific PhilosophicaJ Quarterly 64: 354-61. Lcwis, D. A., T. Hashimoto, and D. W. Volk. 2005. Cortical inhibitory neurons and schizo- phrenia. Nature Reviews Neuroscience 6 (April): 312- 24. Lukianowicz, N. 1958. Autoscopic phenomena. Archives of Neurology and Psychiatry 80: 199-220. Mcrabct, L. B., D. Maguirc, A. Warde, K. Alterescu, R. Stickgold, and A. Pascual-Lcone.",
+      "source": "Isabel Jaén_ Julien Jacques Simon - Congnitive Literary Studies_ Current Themes and New Directions (2012, University of Texas Press) - libgen.li.pdf",
+      "chunk_index": 461,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6701492,
+      "importance": 0.7287394404411316,
+      "final_score": 0.6701492667198181
+    },
+    {
+      "id": "cef825ddd06455d39b2bb2eb",
+      "qdrant_id": "4604da74-49a5-5d67-8712-30fedd14e543",
+      "text": "Writing With a Soldering Iron \b 71 hypomnesic objects that, in their efficiency, reduce the necessity for humans to retain specific forms of knowledge. For example, “the more improved the automobile becomes, the less we know how to drive—the GPS system assisting the driver in his driving will replace him altogether” (Stiegler, n.d.). In Stiegler’s brute neo-Marxist terms, industrial society represents an epoch in which “memory has passed into the gesture-reproducing machine that the proletarian no longer has to know about, but that he must simply serve, having thus become a slave once again” (n.d., Stiegler’s emphasis). This enslavement, according to Stiegler, is as much a product of the efficient externalization of memory as it is a product of the speed of this externalization. Evoking both the immediacy of filmic visualization and the instantaneity of networked communicati…",
+      "source": "Marcel O’Gorman - Making Media Theory_ Thinking Critically with Technology (2021, Bloomsbury Academic) [10.5040_9781501358586] - libgen.li.pdf",
+      "chunk_index": 227,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66996,
+      "importance": 0.7262872457504272,
+      "final_score": 0.669960081577301
+    },
+    {
+      "id": "505923676d6c9532ebb1efa0",
+      "qdrant_id": "a5eab701-d737-5c2d-b198-2ad05f4978da",
+      "text": "disguised biographical details and facts that needed to be given; and I have sometimes combined the facts of two or more cases into one, or divided those of a single case among several persons. When I have altered elements of an interac- tion or a case, I have done so in ways that (I hope) preserve the point that I mean the example to substantiate. Suffice it to say that the question of the presentation of clinical facts, cases, and vignettes in the history of psychoanalysis is complex and unresolved, given the dual goals of preserving patient anonymity, con- fidentiality, and treatment and of presenting theoretical and technical claims to analytic and other colleagues with adequate empirical backing. The former goal must of course take priority. 3. Adler and Buie (1979) describe how overwhelming loneliness and empti- ness—the loss of a two-person psychology—can lead to the disappearance…",
+      "source": "Nancy J. Chodorow - The Power of Feelings_ Personal Meaning in Psychoanalysis, Gender, and Culture (1999, Yale University Press) - libgen.li.pdf",
+      "chunk_index": 103,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6690872,
+      "importance": 0.7388292551040649,
+      "final_score": 0.6690872311592102
+    },
+    {
+      "id": "9f1a239facf5237b8ee62563",
+      "qdrant_id": "e35205a9-86ee-520c-b083-26ef43794b97",
+      "text": "user’s perspective. After the death of the implant bearer, professional “cut- ters” compose biographical video précis of their lives (with controversial moments excised) for projection at special ceremonies at their funerals, known as “rememories.” Activists though are also shown in the ﬁlm protesting the implant company with slogans such as “remember for your- self, live for today,” as well getting special tattoos to block the working of the implant. In the movies Brainstorm (1983, dir. Douglas Trumbull) and Strange Days (1995, dir. Kathryn Bigelow), the direct recording of all the emotions and perceptions of the subject (onto discs or magnetic tape) enables their transmission to others, a procedure that turns out to be trau- matic and dangerous in the case of the transfer of intense sense experiences (orgasms, seizures). 4. That “original” memories are not “retrieved” from a memory ban…",
+      "source": "The Moral Uncanny In Black Mirror (Margaret Gibson, Clarissa Carden) (Z-Library).pdf",
+      "chunk_index": 274,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66902417,
+      "importance": 0.7318973541259766,
+      "final_score": 0.6690242886543274
+    },
+    {
+      "id": "1c2c922f2cf38517190def6b",
+      "qdrant_id": "d9b29b7b-971e-5336-b902-8546a626c82c",
+      "text": "270 I n d e x Rosch, Eleonor, 166–167 Rothbaum, Barbara, 210–211 Sartre, Jean-Paul, 130, 193 Schachter, Stanley, 63–64 Schwitzgebel, Eric, 59 Scruton, Roger, 39 selective serotonin reuptake inhibitor (SSRI), 14, 131–132 serotonin, 14–18, 28, 38, 53, 131 sex, 15, 40, 45, 181–185. See also sexual desire addiction, 20–23 casual, 187–190 with no strings attached. See sex, casual and synesthesia, 190–192. See also synesthesia sexual desire, 45–46, 82, 145, 165, 168, 184–185, 200, 222, 225, 227–228 Shakespeare, 7, 169, 221 Shapiro, Francine, 214–215 Simpson, Wallis, 198–199 Sinclair Method, 219–220 singularity, the, 53–54 sleep, 164, 206–207. See also dreams and memory, 164 Smuts, Aaron, 40 Solomon, Robert, 80 Sperry, Roger W., 97–98 split brain syndrome, 97–98 stereotypes. See prototype theory Stickgold, Robert, 161 Stoicism, 227–228 Stossel, Scott, 211 stress, 13–14, 30, 32–33, 109, 1…",
+      "source": "[Philosophy in Action] Berit Brogaard - On Romantic Love_ Simple Truths about a Complex Emotion (2015, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 125,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology",
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.66898036,
+      "importance": 0.7303487062454224,
+      "final_score": 0.6689803600311279
+    },
+    {
+      "id": "428a75293d42cb0b31da4018",
+      "qdrant_id": "fc4c9b4b-02e9-5caa-9006-33966c51f683",
+      "text": "bodies, establishing a model of synthetic control that operates almost invis- ibly from within the body, at the molecular level, modifying directly the chemical composition of individuals. First, the event of the separation of the reproductive function from sexuality, enabled by the availability of the contraception pill, opened up the way for the scientific fabrication of femi- ninity. Through synthetic hormones, the pill executes a double operation that cuts menstruation to artificially restitute it. In other words, hormonal hyper sensibilization is chemically induced by a pharmaceutic transnational. This means for Preciado that “feminine” biological truth is neither a natu- ral circumstance nor an immutable reality, but manipulable by the pill: a kind of an ingestible Panopticon. Second, the pornographic image has been the most effective apparatus to transform representation i…",
+      "source": "[Critical Mexican Studies] Irmgard Emmelhainz - Toxic Loves, Impossible Futures_ Feminist Living as Resistance (2022, Vanderbilt University Press) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.668831,
+      "importance": 0.7538848519325256,
+      "final_score": 0.6688310503959656
+    },
+    {
+      "id": "628a00c8e7e4ca0be9e7ff84",
+      "qdrant_id": "1339232e-fd15-5206-9015-de656ca8bd16",
+      "text": "is a protention. Husserl names these time modes as primary retention and primary protention. However, if we are not listening to the melody in the actual present moment but are trying to recollect it in our memory, we also have to retain those phrases which have already been pronounced and to anticipate those which will come, even if these processes are taking place in our memory. Husserl names these time modes as secondary retention and secondary protention. In addition to this schema, Stiegler suggests what he names as tertiary ­retention – ­a retention that is inscribed not in the actual perception (primary retention), or in our imagination (secondary retention), but in a technologi- cal memory of technical objects. It is an artificial, or technological, memory, such as writing or recording, which compresses primary and secondary 5 Jacques Derrida, De la grammatologie, P…",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 413,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6687535,
+      "importance": 0.7240995764732361,
+      "final_score": 0.6687535047531128
+    },
+    {
+      "id": "da03c20e1249cd32f37beae1",
+      "qdrant_id": "de6af307-9db1-5347-9a86-60674ba307e2",
+      "text": "their ways round mazes too, and even dogs can behave as if they have a sense of humour. Perhaps this is why technology, which is an extension of our neocortical ability, already feels neither like part of ourselves nor simply another part of the material world. As Wolfgang Schirmacher comments, 240 For example, in “Evidence for semantic learning in profound amnesia: An investigation with patient H.M”, Hippocampus, Volume 14, Issue 4, p417-425, Gail O'Kane, Elizabeth A. Kensinger, and Suzanne Corkin present clinical evidence that new semantic memories can be formed by a human being whose hippocampi have been removed. 241 Wolfgang Schirmacher, \"From the phenomenon to the event of technology”. Philosophy and Technology, ed F Rapp (Reidel: Dordrecht 1983), Boston Studies in the Philosophy of Science 80. “Machine technology however exhibits the characteristics of an indisputable autonomy; its functioning obeys an intrinsic law, is clearly",
+      "source": "[Think Media_ Egs Media Philosophy] James Morris, Wolfgang Schirmacher (editor) - Can Computers Create Art_ (Think Media_ Egs Media Philosophy) (2009, Atropos Press) - libgen.li.pdf",
+      "chunk_index": 361,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6686362,
+      "importance": 0.7260496020317078,
+      "final_score": 0.6686363816261292
+    },
+    {
+      "id": "185f9e0484c498867944762b",
+      "qdrant_id": "ea8457c6-43c7-5147-a6d1-aa29657969d8",
+      "text": "Phänomenologie, sondern auch für die (an den Neurowissenschaften orientierte) empirisch-experimentelle Forschung in den Schlaflaboren—ist gewissermaßen eine Nutznießerin der Freudschen Vorarbeit. Denn sie alle befinden sich durch die von der Psychoanalyse ermöglichte Rehabilitierung des Traumphänomens, dass nämlich der Traum der Ausgrenzung entrissen und überhaupt wieder ‘Gegenstand’ theoretischer Untersuchungen werden konnte, in einer bereits begünstigten Ausgangssituation” (Ates 82).",
+      "source": "The Oneiric in the Films of David Lynch (Raphael Morschett) (Z-Library).pdf",
+      "chunk_index": 175,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6679757,
+      "importance": 0.7757838368415833,
+      "final_score": 0.6679757237434387
+    },
+    {
+      "id": "10bee3bed061d5b0f251b2ae",
+      "qdrant_id": "d3f373ee-ab07-5b7f-8d15-287fa9f19794",
+      "text": "Includes bibliographical references and index. ISBN 0-8232-219-2-X (hardcover)—ISBN 0-8232-2193-8 (pbk.) 1. Memory (Philosophy) 2. Plato I. Title. II. Series. BD181.7 .C4713 2002 128\u0001.3—dc21 2002000390 Publication of this book was aided by a grant from The Henry and Ida Wissmann Fund. Printed in the United States of America 02 03 04 05 06 5 4 3 2 1 First Edition",
+      "source": "Jean-Louis Chretien - The Unforgettable and the Unhoped For (Perspectives in Continental Philosophy, 26) (2002) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6678901,
+      "importance": 0.7299976944923401,
+      "final_score": 0.6678901314735413
+    },
+    {
+      "id": "55edf913d4bd394979d37828",
+      "qdrant_id": "f2cf92a9-7400-5fa5-b227-283cd37d1331",
+      "text": "Movement. Durham, NC: Duke University Press. ___ (2005b) New Punk Cinema. Edinburgh: Edinburgh University Press. Roberts, B. (2006) ‘Cinema as mnemotechnics: Bernard Stiegler and the industrialization of memory’, in Angelaki, 11, 1, 55–63. ___ (2012) ‘Technics, Individuation and Tertiary Memory: Bernard Stiegler’s Challenge to Media Theory’, in New Formations, 77, 8–20. Rodowick, D. N. (1991) The Difﬁculty of Difference: Psychoanalysis, Sexual Difference and Film Theory. New York: Routledge. ___ (1994) The Crisis of Political Modernism: Criticism and Ideology in Contemporary Film Theory. Berkeley, CA: University of California Press. ___ (2007) The Virtual Life of Film. Cambridge, MA: Harvard University Press. ___ (2010) ‘An Elegy for Theory’, in M. Furstenau (ed.) The Film Theory Reader: History and Debates. London and New York: Routledge, 23–37. ___ (2013) ‘The Value of Being Disagreeable’, in Critical Inquiry, 39, 3,",
+      "source": "Felicity Colman - Film, Theory and Philosophy The Key Thinkers (2009, Acumen) - libgen.li (1).pdf",
+      "chunk_index": 411,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6678717,
+      "importance": 0.7699559926986694,
+      "final_score": 0.6678717732429504
+    },
+    {
+      "id": "9fe78e40299da7ddf10fe91a",
+      "qdrant_id": "11e49a78-50ba-52bd-9208-c5f20e35a770",
+      "text": "LeDoux,Joseph E. 1993. \"Emotional Memory Systems in the Brain.\" Behavioural Brain Research 58, 69-79. --. 1994. \"Emotion, Memory, and the Brain.\" Scientific American 270, 50-57. --. 1996. The Emotional Brain: The Mysterious Underpinnings of Emotional Life. New York: Simon and Schuster. Lelyveld,Joseph. 2011. Great Soul: Mahatma Gandhi and his Stntggle with India. New York: Knopf. Lessing, Gotthold Ephraim. (1766) 1962. Laokoon: oder iiber die g-renzen der malerei nnd poesie. Reprint, Paderborn: F. Schoeningh. Lifton, Robert jay. 1986. The Nazi Doctors. New York: Basic Books. Locke, John. (1698) 1990. A Letter Concerning Toleration. Reprint, Amherst, NY: Prometheus Books. Losty,J. P., ed. 2012. Delhi: F7mn Red Fort to Raisina. Delhi: Roli Books. Marcus, Ruth Barcan. 1980. \"Moral Dilemmas and Consistency.\" Journal of Philosophy 77, 121-136.",
+      "source": "Political Emotions_ Why Love Matters for Justice_ -- Martha C_ Nussbaum -- 1, 2013 -- Harvard University Press -- 9780674724655 -- 70f041544de2fd058ad75a4254fe2cab -- Anna’s Archive.pdf",
+      "chunk_index": 270,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66738176,
+      "importance": 0.7306069731712341,
+      "final_score": 0.667381763458252
+    },
+    {
+      "id": "3a3dc0ab3e4a939953ebbb15",
+      "qdrant_id": "292aa067-4c2a-5291-9346-7f5d9d6e8800",
+      "text": "Act of the Mind: Essays on the Poetry of Wallace Stevens, eds. Roy Harvey Pearce and J.Hillis Miller, The Johns Hopkins Press, Baltimore, 1965, 146.) 2. The concept of memory as defined by Santayana may be a useful gloss here. Stevens’s debt to Santayana has been well noted; here, it will suffice to observe, that in Santayana’s definition, memory is a dynamic process. A “repetition,” rather than “recollection,” memory does not retrieve the past, but rather constructs it. Jerome Griswold points to a convergence Notes 137",
+      "source": "Krystyna Mazur - Poetry and Repetition_ Walt Whitman, Wallace Stevens, John Ashbery (Literary Criticism and Cultural Theory) (2005).pdf",
+      "chunk_index": 619,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66729176,
+      "importance": 0.7275794744491577,
+      "final_score": 0.6672917604446411
+    },
+    {
+      "id": "5e21302684e92625f1669af2",
+      "qdrant_id": "65b0c9dc-bbea-5202-9cd6-da41a189eb4f",
+      "text": "Ellenberger, Henri F., 10 Ellis, Havelock, 68 EmmyvonN., 102, 103 emotion: and identification, 31, 46; image role in, 94-95; and memory, 93-95; and numbing, 2. See also affect. endorphins, 257-58 epilepsy, 144 Erichsen,John,3 Eros,29,34 ether: advantage of in abreaction, 200-201; in war neuroses treatment, 209, 210 exhaustion, 84 exorcism, of multiple personality, 68 -7 5, 108 eye-witness testimony, accuracy of, 247 F Fabing, Howard, 205, 215-16 false memory, 8, 38, 82, 182n. 43(3). Seea/so hypnosis: suggestibility False Memory Syndrome Foundation, 245 fantasy: role of, 21, 122n, 203; trance logic, 170n; understanding of, and psycho- anaiyticcures, 157, 187; vs. recovered memories in narcoanalysis, 204-5 faradic method, 210 311",
+      "source": "Ruth Leys - Trauma_ A Genealogy (2010, University of Chicago Press) [10.7208_9780226477541] - libgen.li.pdf",
+      "chunk_index": 181,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6670847,
+      "importance": 0.7319009900093079,
+      "final_score": 0.667084813117981
+    },
+    {
+      "id": "c5ab348e822f754e08f84706",
+      "qdrant_id": "7f33b2f2-c72f-5771-9a99-7d99f80dae87",
+      "text": "with the rise and rise of the diagnoses of attention and hyperactivity disorders. High volumes of these drugs are given in institutions, not just to control conduct in prisons but also to manage behaviour problems in homes for the elderly and those with dementia. Over the last 50 years of the twentieth century, the development, manufacture and marketing of these drugs became a highly profitable part of the portfolio of pharmaceutical companies. And both within those com- panies, and in universities and laboratories across the world, research on the neurobiological underpinnings of psychiatric disorders has gone.hand.in.hand_with.strategies.fo.r.drug.development,.in.the.belief _ that if one understood the anomalies in neural mechanisms leading to mental disorders, one would be able to develop pharmaceuticals to target and rectify them. Further, it is hard to imagine a world without these drugs, because",
+      "source": "Nikolas S Rose - Our Psychiatric Future (2018, Polity Press) - libgen.li.pdf",
+      "chunk_index": 418,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6669539,
+      "importance": 0.7215506434440613,
+      "final_score": 0.6669541597366333
+    },
+    {
+      "id": "0f783bb51a126dd817ffb59c",
+      "qdrant_id": "8e815912-8d35-5157-85bb-1742e2f93cc3",
+      "text": "CHAPTER SIX cure by remarking that although success could be achieved by several variations of the drug abreaction method, including one in which the kind of intensely emotional abreaction Sargant advocated was com- pletely missing, any variation that produced an inadequate recovery of the memory for the amnesic material left the patient without therapeutic benefit. From his observations he concluded that \"the least common de- nominator of therapy, the sine qua non of therapeutic effectiveness, was the recovery and emotional resynthesis of memory for the amnesic ma- terial\" (\"CBS,\" 37). For advocates of chemical catharsis, as for Ferenczi earlier, the ques- tion of the truth-status of the abreacted performance was closely tied to the problem of simulation, or malingering-a crucial issue in times of war.32 From the moment of their invention, the barbiturates had often been regarded as a means of obliging the patient to confess the truth.",
+      "source": "Ruth Leys - Trauma_ A Genealogy (2010, University of Chicago Press) [10.7208_9780226477541] - libgen.li.pdf",
+      "chunk_index": 150,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66668814,
+      "importance": 0.7231374382972717,
+      "final_score": 0.6666881442070007
+    },
+    {
+      "id": "c62bbee0efc5d9659e58f97d",
+      "qdrant_id": "3c081097-a59c-5666-bf71-c76f29aac502",
+      "text": "Post-memory in Art Spiegelman’s Maus ______________________________________________________________ 48 20 ibid 21 ibid, p 105 22 ibid 23 ibid, p 250 24 Elmwood, p 702 25 ibid 26 ibid, p 703 27 Spiegelman, p 175 28 Sicher, p 145 29 ibid 30 ibid 31 D LaCapra, Trauma, Absence and Loss, in N Levi and M Rothberg, The Holocaust: Theoretical Readings, Rutgers University Press, New Brunswick, 2003, p200 32 Spiegelman, p 176 33 C Caruth, Trauma and Experience, in Levi and Rothberg op cit, p 193 34 ibid, p197 35 Sicher, p 144 36 Spiegelman, p 161 37 M Staub, The Shoah Goes on and on: Remembrance and Representation in Art Spiegelman’s Maus, Melus, Vol 20, 3, 1995, p 36 38 Sicher, p 146 39 ibid, p144 40 Spiegelman, p 3 41 Staub, p 44 42 M Levine, Necessary Stains: Spiegelman’s Maus and the Bleeding of History, American Imago, Vol 59, 3, 2002, p 317 43 C Caruth, Unclai…",
+      "source": "Michele Huppert (Ed.) - Where Fear Lurks - libgen.li.pdf",
+      "chunk_index": 155,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66643846,
+      "importance": 0.7311990857124329,
+      "final_score": 0.6664383411407471
+    },
+    {
+      "id": "c2a45cc2528cdd0bc176b5f9",
+      "qdrant_id": "f9c1a799-3d4e-5f56-bef9-22c32d911314",
+      "text": "1576–85 . Griﬃ ths , Benjamin J. , George Parish , Frederic Roux , Sebastian Michelmann , Mircea Van Der Plas , Luca D. Kolibius , Ramesh Chelvarajah , et al. “ Directional Coupling of Slow and Fast Hippocampal Gamma with Neocortical Alpha/Beta Oscillations in Human Episodic Memory. ” Proceedings of the National Academy of Sciences 116 , no. 43 (October 2019 ): 21834–42 . Kheirbek , Mazen A , Kristen C Klemenhagen , Amar Sahay , and Ren é Hen . “ Neurogenesis and Generalization: A New Approach to Stratify and Treat Anxiety Disorders. ” Nature Neuroscience 15 , no. 12 (December 2012 ): 1613–20 . Leutgeb , Stefan , and Jill K. Leutgeb . “ Pattern Separation, Pattern Completion, and New Neuronal Codes within a Continuous Ca3 Map. ” Learning and Memory 14 , no. 11 ( 2007 ): 745–57 . Penﬁ eld , Wilder , and Brenda Milner. “ Memory De…",
+      "source": "[New Approaches to Sound, Music, and Media] Jonathan Leal (editor), Selmin Kara (editor) - Cybermedia_ Explorations in Science, Sound, and Vision (2021, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 152,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66578954,
+      "importance": 0.7186487913131714,
+      "final_score": 0.6657897233963013
+    },
+    {
+      "id": "ecc199ec6e85bf66b8438460",
+      "qdrant_id": "2fd26862-7c3d-589b-8e53-de8a3c898f08",
+      "text": "8 Introduction of that interest he introduced the digestive and stimulating properties of coca to the European scientific community. Further substantiated by his direct experience as a coca consumer, initially recorded in numerous entries of his personal journals, the essay On the Hygienic and Medicinal Properties of Coca and on Nervine Nourishment in General, published in 1859 on his return to Italy, was the first official scientific recognition of the action of erithroxylon on the human body and of its pharmacological applications. Awarded the Dall’Acqua prize for its pioneering value, Mantegazza’s study achieved sensational success both in Italy and abroad, and has remained a landmark in the history of cocaine. It is enough to open Sigmund Freud’s later writings on cocaine to appreciate the relevance of Mantegazza’s essay for subsequent psychop- harmacological investigations. Indeed, …",
+      "source": "Paolo Mantegazza_ Nicoletta Pireddu - Physiology of Love and Other Writings-University of Toronto Press (2008).pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6654794,
+      "importance": 0.722263514995575,
+      "final_score": 0.6654795408248901
+    },
+    {
+      "id": "01ebd8163543ced8be03eea9",
+      "qdrant_id": "5fc81e53-fa67-5bbc-b85a-810a267b5703",
+      "text": "have kept to the formality of last name or full name. But in the commentar- ies and reminiscences, we have given the authors freedom to find the many unique forms this man could take. It is in the spirit of this extraordinary man that the personal, the clinical, the intellectual, the creative, the sub- lime and spiritual are all alive and in contact. Notes 1. These three, born two years apart (1924–26), grew up in Montreal, went to medical school at McGill, came to New York City, trained at and joined White in the 1960s, and engaged with politics and psychoanalysis in the 1970s. 2. Here we may think of the work of other motivational systems thinkers—spe- cifically, self psychologists—who, like Ghent, reframe drive theory and pro- pose different motivational systems of behavior (Lichtenberg, 2001/1989; Lichtenberg, Lachmann, & Fossage, 2014, 2001/1992, 1996). 3. The idea of destru…",
+      "source": "(Relational Perspectives Book Series) Victoria Demos, Adrienne Harris - The Collected Papers of Emmanuel Ghent_ Heart Melts Forward-Routledge (2017).pdf",
+      "chunk_index": 83,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66494024,
+      "importance": 0.7493284344673157,
+      "final_score": 0.6649402379989624
+    },
+    {
+      "id": "05d7e654a0fdfd9d2cfdc574",
+      "qdrant_id": "51f3770c-4a38-5782-9f19-ad3edd99140e",
+      "text": "Stiegler, Bernard. 2010. Ce qui fait que la vie vaut la peine d’eˆtre ve´cu. De la pharmacologie. Paris: Flammarion. Stiegler, Bernard. 2012. E´tat de choc. Beˆtise et savoir au XXI sie`cle. Paris: Mille et une nuit. Stiegler, Bernard, Alain Giffard, and Christian Faure´. 2009. Pour en ﬁnir avec la me´croissance. Quelques re´ﬂexions d’Ars Industrialis. Paris: Flammarion. Stuart, Elnora W., and Barbara K. Fuller. 1991. Clothing as communication in two business-to- business sales settings. Journal of Business Research 23: 269–290. Taylor, Frederick W. 1947. Scientiﬁc management. New York: Harber & Bros. Triantaﬁllou, Peter. 2012. New forms of governing. A Foucauldian inspired analysis. London: Palgrave Macmillan. Tyler, Melissa. 2005. Women in change management. Simone De Beauvoir and the co-optation of women’s otherness. Journal of Organizational Change Management 18(6): 561–577. Virilio, Paul. 1977. Vitesse et Politique: essai de dromologie. Paris: e´d. Galile´e.",
+      "source": "[Ethical Economy №49] Jacob Dahl Rendtorff (auth.) - French Philosophy and Social Theory_ A Perspective for Ethics and Philosophy of Management (2014, Springer) [10.1007_978-94-017-8845-8] - libgen.li.pdf",
+      "chunk_index": 242,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66440034,
+      "importance": 0.7258813381195068,
+      "final_score": 0.6644003987312317
+    },
+    {
+      "id": "e71dd11cf6bce75e6128d2d3",
+      "qdrant_id": "325d5b6f-303d-598a-87c3-0f7149d66a51",
+      "text": "Harvard University Press, 2000). A succinct summary of recent neurobiological perspectives on memory may be found in Suzanne Nalbantian, Memory in Literature: From Rousseau to Neuroscience (New York: Palgrave Macmillan, 2003). 32. Anderson, Imagined Communities, 9–36 33. Anderson, Imagined Communities, 11–12. 34. Peter Alter, Nationalism, 2nd ed. (New York: Edward Arnold, 1994), 57. 35. Alter, Nationalism, 14. 36. See Varela’s (“Reenchantment,” 321, 324) comments on Marvin Minsky, The Society of Mind (New York: Simon and Schuster, 1986). 37. Alter, Nationalism, 32. 38. Anderson, Imagined Communities, xiv. 39. Anderson, Imagined Communities, 145. 40. Kristin Ross, The Emergence of Social Space: Rimbaud and the Paris Commune (Minneapolis: University of Minnesota Press, 1988), 87. 41. Anderson (Imagined Communities, 24) borrows the expression “homoge- neous, empty time” from Walter Be…",
+      "source": "Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf",
+      "chunk_index": 568,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.664197,
+      "importance": 0.7287803292274475,
+      "final_score": 0.6641972661018372
+    },
+    {
+      "id": "b649b4d5f712ac461de12b19",
+      "qdrant_id": "6853310c-1c4a-57e6-b1b5-56c02632dd33",
+      "text": "injection of convenience into an inconvenient situation. The memory work of the brain is not only associative in the purely neurological sense that nerve cells form assemblies and whole networks of traffic systems; memory is also experienced associatively. Initially, this is just as primitive as behaviorism says it is. If a dog has had its food served often enough together with the ring of a certain bell, it will associate the sound of the bell with the food. It takes the sound for food. By reacting to the sound with the same activation of the salivary glands with which it reacts to food, it lets us know that for it sound = food. This equivalency is memory. It is more or less the same with thirst. Thirst wants to be stilled. In other words, thirst = drinking. To be thirsty is equiv- alent to seeking the shortest route to the next spring. This poses no diffi- culty for an organis…",
+      "source": "Christoph Türcke_ Susan H. Gillespie - Philosophy of Dreams (2013, Yale University Press) [10.12987_9780300199123] - libgen.li.pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6635641,
+      "importance": 0.7228245139122009,
+      "final_score": 0.6635642051696777
+    },
+    {
+      "id": "5c0802a111b005234d11f13b",
+      "qdrant_id": "36d29204-45b1-571e-80e0-c3ec0aa3d21d",
+      "text": "N e c r o m e d i a T h e o r y a n d P o s t h u m a n i s m . 9 enhances the human capacity for knowledge and endangers the capacity to remember. These issues, as pursued by Jacques Derrida and more recently by Bernard Stiegler in the form of the techno-­pharmakon, are central to this study. The pharmakos (scapegoat) is here as well, in the form of a ritual, cathartic social rite. Indeed, it is at the border, in the hands of Homeland Security, that we encounter the first pharmakos of this book, banished from his vehicle and sent to a purgatorial holding tank, all in a ritual of expiation against the spec- ter of terror. Finally, the media scene at the border might prompt a curious reader to ask, what was the purpose of the bone scan in the first place? In this case, my doctor had ordered the test to further examine the cause of chronic pain in my hip and lower back. The…",
+      "source": "[Posthumanities 33] O'Gorman, Marcel - Necromedia (2015, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66280305,
+      "importance": 0.7569500803947449,
+      "final_score": 0.662803053855896
+    },
+    {
+      "id": "8f7d136445ea9984cb689089",
+      "qdrant_id": "d97eaa9c-ddc5-5e8f-ab8d-9ca8923b60a7",
+      "text": "behavior: A Meta-Analysis. Communication Research 21(4). 516–546. Papenberg, Goran, Lars Bäckman, Christian Chicherio, Irene E. Nagel, Hauke R. Heekeren, Ulman Lindenberger & Shu-Chen Li. 2011. Higher intraindividual variability is associated with more forgetting and dedifferentiated memory functions in old age. Neuropsychologia 49(7). 1879–1888. Paul, William. 1994. Laughing, screaming: Modern Hollywood horror and comedy (Film and Culture). New York: Columbia University Press. Pendery, David R. 2017. Biochemical responses to horror, or, ‘Why do we like this stuff?’. Horror Studies 8(1). 147–163. Petrides, Michael. 2005. Lateral prefrontal cortex: Architectonic and functional organization. Philosophical transactions of the royal society of London. Series B, biological sciences 360(1456). 781–795. Plato, Harold N. Fowler & W. R. M. Lamb. 1925. Philebus. Cambridge, MA: Harvard University Press. Platt, Tracey, Jennifer Hofmann, Willibald Ruch & René Proyer. 2020. Duchenne Display",
+      "source": "[Humor Research [HR]] Straßburger, Lena - Humor and Horror_ Different Emotions, Similar Linguistic Processing Strategies (2022, De Gruyter Mouton) - libgen.li.pdf",
+      "chunk_index": 136,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.66231704,
+      "importance": 0.7264534831047058,
+      "final_score": 0.6623170971870422
+    },
+    {
+      "id": "4453332f9f9cf195b1063be9",
+      "qdrant_id": "26cc2b12-994d-5c4b-ae1a-3e9166763cbe",
+      "text": "efficient molecules. See Marcel Legrain and Thérèse Lecomte, \"La consommation des psychotropes en France et dans quelques pays européens\" [The consumption of psychotropic drugs in France and in some other European countries], Bulletin de l'A- cadémie nationale de médecine i8i, no. 6 (1997): 1073-87. See",
+      "source": "Elisabeth Roudinesco, Rachel Bowlby - Why Psychoanalysis_ (European Perspectives_ A Series in Social Thought and Cultural Criticism) (2004, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 377,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.655354,
+      "importance": 0.7206758260726929,
+      "final_score": 0.6553539037704468
+    },
+    {
+      "id": "2102d694455fe655d728c5d0",
+      "qdrant_id": "8ba64e3b-d289-5cde-a6c2-8fbb658ea971",
+      "text": "signal sharpening circuit 119–21 Skaif, Thomas 98 Sloterdijk, Peter 16 Smith, Terry 55 , 68–9 , 79 Smith, Willoughby 111 Spencer, J.B. and Melhuish, A.J. 97 Stiegler, Bernard 24 , 28 , 109 , 137 , 157 storage camera 146–7 storage media 3 , 10 , 15–17 , 28 , 36–8 , 39 , 57 , 79–80 in computer history 15 , 67 , 157–8 digital memory 15 , 18 , 36 , 72–3 , 74–5 , 141 ﬁ lm as 109 , 114 history and 3–4 , 38 , 101 Leyden Jars 147 television and 21–2 , 109–10 , 114–16 , 145–7 time and 2–3 , 5 , 10–12 , 73 , 73–6 , 109 , 145–7 , 155–6 stroboscopic photography 100 Sauve qui peut (la vie) (1979) (also Every Man for Himself and Slow Motion ) 91–3 A Sudden Gust of Wind (after Hokusai) 69 Swift, John 126 , 129–30 , 132–4 switching 14–15 , 32 , 35 , 110 , 145 , 147 the symbolic 16 , 17–18 ,…",
+      "source": "Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf",
+      "chunk_index": 651,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.65298545,
+      "importance": 0.7162137031555176,
+      "final_score": 0.6529855728149414
+    },
+    {
+      "id": "5ed7b35cbc7cae84f6007ef0",
+      "qdrant_id": "ff266a14-67ae-5bab-98ff-1de33e22461d",
+      "text": "the artist’s early work. Unlike art historical studies, which associate per­ for­mances such as Unicorn (1970) or Mit beiden Händen gleichzeitig die Wände berühren (Scratching Both Walls at Once, 1974–75) with body art and video art,17 I would like to direct our attention ­toward their connection with sci- entific contexts. The resonance between Rebecca Horn’s early imagescapes and the iconography of the medical clinic has often been pointed out.18 This chapter supplements such indications with references to experimen- tal physiology and psy­chol­ogy as well as psychiatry. Like a laboratory scientist, Rebecca Horn calls the objects used in her early works “instruments,” and like one of the experimental physiologists par excellence, Claude Bernard, she deploys her instruments to instruct her- self and ­others about life. At the same time, she designates the sphere at which the relevant per­for­mances and exercises are aimed as the domain",
+      "source": "Henning Schmidgen_ Nils F. Schott - Horn, or The Counterside of Media (2021, Duke University Press) [10.1515_9781478022343] - libgen.li (1).pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "elaine-scarry-the-body-in-pain-representation"
+      ],
+      "raw_score": 0.7559902,
+      "importance": 0.7972086668014526,
+      "final_score": 0.6461778283119202
+    },
+    {
+      "id": "0920c719f4f9ebaeb752205e",
+      "qdrant_id": "a54f721f-1dab-5f37-a2d1-234a71c05202",
+      "text": "an adult, the place remains linked to her not only through memory, but also through illnesses that she believes were ultimately caused by the hazards to which she was exposed. Everything connects in her body. Although she and her body were already compromised by genetics, fam- ily psychology, and environmental poisons, as a teenager Antonetta added the extra burden of massive quantities of drugs, especially heroin and LSD. Her old diaries reveal that she used heroin and other drugs daily for more than a year. Was she self-medicating? Perhaps. But she was also taking chances, hanging out with reckless boys, working for dealers, brushing as close as she could to death without being taken. Reflecting on a particularly terrifying diary entry written while tripping on LSD, her fifteenth trip in three weeks, Antonetta con- siders the intersection of the body, brain, and biography: In …",
+      "source": "Ann Jurecic - Illness as Narrative (Composition, Literacy, and Culture)-University of Pittsburgh Press (2012).pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.643095,
+      "importance": 0.743248462677002,
+      "final_score": 0.6430950164794922
+    },
+    {
+      "id": "39964404aaff9a57bce4af6a",
+      "qdrant_id": "3d4df757-889d-5c4d-87f2-2c25f63f47c3",
+      "text": "times to 1–3). However, he also used psychostimulants (Ritalin, Dexedrine, Adderall, Bupropion), which had sexually activating effects, to adjust the sexual behaviour of individual cases.165 The impression given is of both careful experimentation and diagnostic uncertainty. Kafka referred to the paucity of published data (‘scant’ was the word used), indecision about the optimum duration of such treatment (a year or indefinitely?) and vagueness concerning the combinations and quantities of medication, and warned of the dangers of terminating medication. He also seemed inconsistent as to whether medication should proceed in tandem with psychological counselling or only when such therapy had failed, although in his own practice (treating over 250 males) he clearly favoured the latter.166 It is likely that the testing – careful or not – will continue. Doctors at the Impulse Control Disorders…",
+      "source": "Barry Reay_ Nina Attwood_ Claire Gooder - Sex Addiction_ A Critical History (2015, Polity) - libgen.li.pdf",
+      "chunk_index": 500,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6695689,
+      "importance": 0.7257078289985657,
+      "final_score": 0.6352933645248413
+    },
+    {
+      "id": "6f6030d0b79c6d1ffc8168e8",
+      "qdrant_id": "0e3fd296-4308-5472-9fb6-bbc50d764e13",
+      "text": "The last of these injections was made on June 4th, about five weeks and a half ago. I ceased making use of them for the purpose of ascertaining how long their good effects would last. For four weeks no marked change occurred, but grad- ually, although rapidly, from the 3rd of this month (July) I have witnessed almost a complete return of the state of weakness which existed before the first injection. This loss of strength is an excellent counter-proof as regards the demonstration of the influence exerted on me by the subcutaneous injections of a spermatic fluid. My first communication to the Paris Biological Society was made with the wish that other medical men advanced in life would make on themselves experiments similar to mine, so as to ascertain, as I then stated, if the effects I had observed depended or not on any special idiosyncrasy or ona kind of auto- suggestion without hypnotisation, due to the conviction which I had before",
+      "source": "Sexuality (Robert A. Nye) (Z-Library).pdf",
+      "chunk_index": 132,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64284694,
+      "importance": 0.7121692299842834,
+      "final_score": 0.6315510272979736
+    },
+    {
+      "id": "b613ecdfb03c669314d29459",
+      "qdrant_id": "94f65a65-faf5-5f28-b2ed-9c6558bd0dd2",
+      "text": "THE RADICAL CUTTING OF EXPERIMENTAL TELEVISION 111 incrementally moved the image perpendicular to the line that was just traced. The result was that the stylus could measure the variation in electric current over each scanned line. This was then transmitted as electricity to a similar apparatus at the receiving end where a stylus would discharge the current on a piece of paper that, like Bain’s earlier invention, was treated with a chemical solution sensitive to electric charge. These were among the ﬁ rst systems to replace the voice of the telephone and the coded messages of the telegraph with images. The telephone and the telegraph presented the receiver with synthetic information – by either listening or reading the receiver would assemble the particles of the message into a whole. The image however, although drawn line-by-line over time, presents a new temporal system, one …",
+      "source": "Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf",
+      "chunk_index": 406,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6583523,
+      "importance": 0.7224533557891846,
+      "final_score": 0.6309125423431396
+    },
+    {
+      "id": "0b8c3afd41f6360a03d1e4d8",
+      "qdrant_id": "f715b931-85b0-5eb1-8e94-798ebc0f6485",
+      "text": "his time in the service, a kind of “f8 and be there” sensibility. He liked the work I was doing and gave me a key to the school darkroom, which meant I could go in anytime and print—and I did. Ken Jandel took a chance on a newbie like me and in his ex- marine corpsman style “trained” me into medical photography. God bless him—he had a way with surgeons like I’m sure he had a way with certain master sergeants. Gus Gustafson, the unofficial mayor of St. Paul and the eternal optimist, was the Norman Vincent Peale of photography; whenever I was down about the business, he would say “ah, no problem,” and whenever I had a question about what I would charge for some work he would say “just bill ’em.” Gus out and about was always a good sign. The other eternal optimist was Jim Czarniecki. Interested in what I was up to, he always had new ideas, and he was like that with many artists…",
+      "source": "Faust, Chris_ Faust, Chris_ Rothfuss, Joan - Nocturnes (2007, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.5992912,
+      "importance": 0.6890652775764465,
+      "final_score": 0.614830732345581
+    },
+    {
+      "id": "ae46f14843c5984352849b56",
+      "qdrant_id": "137e3864-9547-551e-8b75-7051318620e0",
+      "text": "Coimbra. He is also a team member of the research project “PO-EX ’70- ’80: A Digital Archive of Portuguese Experimental Literature” (CECLICO, University Fernando Pessoa, 2010–2013), and principal researcher of the project “No Problem Has a Solution: A Digital Archive of the Book of Disquiet” (CLP, University of Coimbra, 2012–2015). Signs in the Machine: The Poem as Dataflow Digital computer networks are now the main tool and space for writing. The metamedia nature of the computer as a writing device results from its technical ability to represent all data streams as numerical strings. Whether as hardware or software, digitization dissolves media specificity through common operations for coding, decoding and transcoding objects. This article discusses the electronic nature of writing, taking as its starting point Friedrich Kittler’s ideas about the relationship between circuits and interface. The automatic and human dimension of computational semiotic",
+      "source": "Maria Teresa Cruz - Media Theory and Cultural Technologies _ In Memoriam Friedrich Kittler (2017, Cambridge Scholars Publishing) - libgen.li.pdf",
+      "chunk_index": 555,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.6907258,
+      "importance": 0.7405292391777039,
+      "final_score": 0.6046668291091919
+    },
+    {
+      "id": "aa38e0382522a09a53086688",
+      "qdrant_id": "deea79b2-eab4-57ab-9dfc-28b2417444b1",
+      "text": "Björn Sonnenberg-Schrank University of Cologne Cologne, North Rhine-Westphalia, Germany ISBN 978-3-030-31286-2 ISBN 978-3-030-31287-9 (eBook) https://doi.org/10.1007/978-3-030-31287-9 © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2020 This work is subject to copyright. All rights are solely and exclusively licensed by the Publisher, whether the whole or part of the material is concerned, speciﬁcally the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microﬁlms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed. The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not i…",
+      "source": "Björn Sonnenberg-Schrank - Actor-Network Theory At The Movies_ Reassembling The Contemporary American Teen Film With Latour-Palgrave Macmillan (2020).pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "agamben-profanations-potentiality"
+      ],
+      "raw_score": 0.6658256,
+      "importance": 0.725865364074707,
+      "final_score": 0.5946816205978394
+    },
+    {
+      "id": "cac6cd94859c4c46884f8c8c",
+      "qdrant_id": "b30a53ab-882f-51ae-9dc6-0746a0419a89",
+      "text": "keep the memory traces in synch with the machine cycles. Even with such a complex apparatus of seven units, each with 18 delay columns, the system could store only 1000 computer words. Fast memory would remain a pro- hibitively expensive computing component for several decades. The engineering of the computer, and the design attributed to Von Neu- mann, manifested a new form of ‘present-mindedness’ (Innis, 1991) in its pyramidal memory structure. Changes occurred from the top of the pyramid, in the central processor, and in the register ﬂip-ﬂops that store the informa- tion states for immediate use. The processor steps from one instruction to the next at high speed in a digital ‘stream of consciousness’, making deci- sions that trickle up and down, and to and from, lower levels of memory and storage. The slower main memory is connected through a memory bus and supplies data and instructions as required. Larger amounts of data tend to be",
+      "source": "[Publications of the Austrian Ludwig Wittgenstein Society – New Series_ 7] Herbert Hrachovec (editor)_ Alois Pichler (editor) - Philosophy of the Information Society_ Proceedings of the 30th International Ludwig Wi.pdf",
+      "chunk_index": 35,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.6771304,
+      "importance": 0.7294915318489075,
+      "final_score": 0.5908910036087036
+    },
+    {
+      "id": "15db0596c26c605745b26564",
+      "qdrant_id": "e511caff-e08b-5a1a-b7ab-c2982b807d01",
+      "text": "Psychiatry 1985; 30:225-228 470. Wermuth BM, Davis RL, Hollister LE, et al: Phenytoin treatment of binge-eating syndrome. Am J Psychiatry 1977; 134:1249-1253 471. White WC, Boskind-White M: An experiential-behavioral approach to the treatment of",
+      "source": "James. E. Mitchell - Bulimia Nervosa (1986, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 481,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6474508,
+      "importance": 0.7034546732902527,
+      "final_score": 0.5873350501060486
+    }
+  ]
+}

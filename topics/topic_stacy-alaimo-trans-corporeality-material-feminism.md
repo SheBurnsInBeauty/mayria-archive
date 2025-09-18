@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: stacy-alaimo-trans-corporeality-material-feminism
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: b9f6244366f12dcc2f869ab1
+- qdrant_id: d930fa42-8903-5e77-80d4-f25baac3d9bf
+- source: Kyle Bladow_ Jennifer Ladino (eds.) - Affective Ecocriticism_ Emotion, Embodiment, Environment (2018, University of Nebraska Press) - libgen.li.pdf
+- chunk_index: 26
+- importance: 0.8098
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+work, and most recently in her book Exposed, Stacy Alaimo advocates for analyzing the enmeshment of material and sociocultural phenomena using the insights of feminist scholarship, maintaining that “material feminisms are at the heart of new materialisms.”27 In the influential collection Material Feminisms Alaimo and Susan Hekman write, “Women have bodies. . . . We need a way to talk about these bodies and the materiality they inhabit.”28 They also articulate what has since become a hallmark of material ecocrit- icism: “nature is agentic— it acts, and those actions have consequences for both the human and nonhuman world.”29 Ecocritics, long attentive to the literary and cultural enunciations of ecological thinking, were primed to recognize and elaborate such claims about agentic natures. Serenella Iovino and Serpil Oppermann, editors of the subsequent vol- ume Material Ecocritic…
+
+## Excerpt 2
+- id: a03691606c939692ce0487e6
+- qdrant_id: d1a47734-a83c-5506-881a-958f1ca00e03
+- source: Todd McGowan, Sheila Kunkle - Lacan and contemporary film (2004, Other Press) - libgen.li.pdf
+- chunk_index: 601
+- importance: 0.8042
+- seed_hits: laura-mulvey-visual-pleasure-narrative-cinema-male-gaze
+
+altogether where the terrain of the political lies. Campion’s reluctance to claim the term “feminist filmmaker” stems in part from the prescriptive nature of feminism and feminist film theory in the 1970s and 1980s. This prescriptive dimension of feminist film theory manifested itself most conspicuously in the work surrounding Laura Mulvey, with its insistence on combating patriarchal narrative and filmic conventions with new feminist alternatives. In “Visual Pleasure and Narrative Cinema,” Mulvey explains the process of viewer identification, in which the viewer identifies with the male hero because the camera identifies with the male hero. The camera focuses on what the male hero is looking at and to this extent also follows the active male hero through the filmic text. This camera/male hero alignment forces the woman into the position of the object of the male gaze. Mulvey’s…
+
+## Excerpt 3
+- id: c670ca6b2f43ad1c76175565
+- qdrant_id: 0f244ec8-46c1-52f1-85e0-469763871393
+- source: Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 28
+- importance: 0.7965
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+similarities to feminist frameworks past and present. Although written in a different context, Stacy Alaimo’s qualiﬁcation regarding the feminism in present- day theoretical materialisms is helpful here. Even if these theories do not explicitly address feminist questions of sex or gender, explains Alaimo, “they still have their roots in feminism as a social movement, via their insistence that the human body is, simultaneously, a political, onto- logical, and epistemological site.”15
+
+## Excerpt 4
+- id: 0fe3e4f7d54d0cd3c1b7c42e
+- qdrant_id: ccec971f-d3cb-5043-911c-b1219be02953
+- source: Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf
+- chunk_index: 77
+- importance: 0.8296
+- seed_hits: donna-haraway-cyborg-feminism-companion-species-situated-knowledges, rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism, stacy-alaimo-trans-corporeality-material-feminism
+
+As here indicated, the situation for feminist posthumanities today remains espe- cially coloured by its legacy of feminist science studies and its insistence on the bio-curious creativity of feminist theory, as is evidenced in the works of feminist environmental humanities pioneer Stacy Alaimo, or in the transformative and alter-worlding works of Eva Hayward and her collaborations with feminist biolo- gist Malin Ah-King. Gender, like “genus” and “generation” (Hemmings 2011, van der Tuin 2015), may well in this setting be remembered for how it has functioned in academic institutions: as an engine of discovery as much as a category of cri- tique. Haraway’s work, especially her ﬁguration of the cyborg, with its insistence on a material-semiotic relationality that indexes our sense of belonging, stand in any case out as particularly fertile starting point for feminist posthumanities. Yet eve…
+
+## Excerpt 5
+- id: 28534161c951b793c059e51f
+- qdrant_id: 4c97a824-6d15-5802-9c8c-e019f8395ae0
+- source: Stacy Alaimo and Susan Hekman _ (eds) - Material Feminisms (2008, Indiana University Press) - libgen.li.pdf
+- chunk_index: 9
+- importance: 0.8038
+- seed_hits: rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism, stacy-alaimo-trans-corporeality-material-feminism
+
+1 introduction: emerging models of materiality in feminist theory Stacy Alaimo and Susan Hekman The purpose of this anthology is to bring the material, speciﬁcally the materiality of the human body and the natural world, into the fore- front of feminist theory and practice. This is no small matter indeed, and we expect this collection to spark intense debate. Materiality, par- ticularly that of bodies and natures, has long been an extraordinarily volatile site for feminist theory—so volatile, in fact, that the guiding rule of procedure for most contemporary feminisms requires that one distance oneself as much as possible from the tainted realm of materi- ality by taking refuge within culture, discourse, and language. Our thesis is that feminist theory is at an impasse caused by the contempo- rary linguistic turn in feminist thought. With the advent of postmod- ernism and poststruc…
+
+## Excerpt 6
+- id: 671f140b63b1c67b8c654aa1
+- qdrant_id: 092c9078-ab7e-5580-904c-ef341c666476
+- source: , - The Contradictions of Love (Towards a feminist-realist ontology of sociosexuality) __ (2014, Routledge) [10.4324_9781315851464] - libgen.li.pdf
+- chunk_index: 749
+- importance: 0.7903
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+Aarseth , Helene ( 2007 ) ‘Between labour and love: the re-erotization of home-making in egalitarian couples within a Nordic context’ , NORA – Nordic Journal of Feminist and Gender Research 15 ( 2/3 ): 133 – 43 . Alaimo , Stacy ( 2008 ) ‘Trans-corporeal feminisms and the ethical space of nature’ , in S. Alaimo and S. Hekman (eds) Material feminisms . Bloomington : Indiana University Press . Alaimo , Stacy and Susan Hekman ( 2008a ) ‘Introduction: emerging models of materiality in feminist theory’ , in S. Alaimo and S. Hekman (eds) Material feminisms . Bloomington : Indiana University Press . Alaimo , Stacy and Susan Hekman (eds) ( 2008b ) Material feminisms . Bloomington : Indiana University Press . Alcoff , Linda Martín ( 2000/2001 ) ‘Who’s afraid of identity politics?’ , in P.M.L. Moya and M.R. Hames-García (eds) Reclaiming identity . Hyderabad : Orient Longman .
+
+## Excerpt 7
+- id: d2b81a8bdf69cc9b58fc6321
+- qdrant_id: ee8ed585-dc3a-5318-ac35-479601a324b6
+- source: Narrative After Deconstruction (Daniel Punday) (Z-Library).pdf
+- chunk_index: 78
+- importance: 0.7942
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+In particular, corporeal feminism raises the issue of how this material- ity will appear to us and be recognized. As should already be clear, materiality cannot simply be a stable and objectively knowable quality of the things of the world or discourse, since such concreteness would return us to the traditional language of distinct subject and object. The Narrative Turn . 15
+
+## Excerpt 8
+- id: cd03be3be57b954a81003f47
+- qdrant_id: 2b1a653a-2a42-55cf-9e55-9c0a85168807
+- source: Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf
+- chunk_index: 121
+- importance: 0.7904
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+425 contributors Stacy Alaimo is Associate Professor of English at the University of Texas at Arlington, where she teaches courses in feminist theory, multicultural American literatures, environmental humanities, and cultural studies. She is author of Undomesticated Ground: Recasting Nature as Feminist Space. She has published articles in Feminist Stud- ies, camera obscura, Studies in American Fiction, ISLE, MELUS, and other journals. She is currently completing a book entitled Bodily Natures: Environmental Health, Environmental Justice, and Material Ethics. Karen Barad is Professor of Feminist Studies, Philosophy, and His- tory of Consciousness at the University of California at Santa Cruz. She has a doctorate in theoretical particle physics. Her research in physics and philosophy has been supported by the National Science Foundation, the Ford Foundation, the Hughes Foundation…
+
+## Excerpt 9
+- id: 1f4415e10c8f59d1633010e0
+- qdrant_id: 4300d3af-de74-5dff-886e-bfa45d846c45
+- source: Anthropocene Feminism (21st Century Studies) (Richard Grusin, Stacy Alaimo, Rosi Braidotti etc.) (Z-Library).pdf
+- chunk_index: 34
+- importance: 0.7880
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+creatures.” In place of such figurations, “which abstract the human from the material realm and obscure differentials of responsibility and harm,” Alaimo proposes a model of “the Anthropocene subject as immersed and enmeshed in the world.” She deploys her own notion of “trans-­corporeality” as a way to make sense of a variety of different engagements with the geological, all of which “conceptualize humans as enmeshed with something as rigid as a rock.” Like Huffer, Alaimo finds shells and fossils to be powerful figures for an anthropocene femi- nism, although her archive is the ocean itself and the shell-­destroying acidification it has suffered under human intervention. Unlike the spec- tacular terrestrial impacts of climate change, for example, underwater biochemical changes can only be made legible by imaginative forms of scientific and aesthetic mediation, such as those inv…
+
+## Excerpt 10
+- id: f9c684249e8d422bf62e2c01
+- qdrant_id: 84989f77-751d-54b5-949b-25f1a3823e72
+- source: Elizabeth Grosz - Sexual Subversions (1989).pdf
+- chunk_index: 149
+- importance: 0.8051
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism, julia-kristeva-chora-semiotic-maternal-space, stacy-alaimo-trans-corporeality-material-feminism
+
+to displace male models, rather than to accurately reflect what female sexuality really is. In other words, her writing always refers to other texts or discourses, not to a non-discursive or 'real' corporeality, experience or pleasure. It is an active, creative coding or inscription, a positive marking of women's bodies, which may produce a female body whose sexuality is lived in other, different terms than the limiting possibilities available to women in patri- archy. In her understanding, patriarchal knowledges represent (male) sexuality by a solidity, stability and identity congruent with the kind of identity constructed for the boy by his oedipus complex. Her aim is to reveal the fluidity, the polymorphous multiplicity of the pre-oedipal which underlies and precedes it. This is not a nostalgic celebration of a lost, irretrievable past, nor the romantic utopian desire for a polymorphous, 'liberated' future-for it is
+
+## Excerpt 11
+- id: b655c7fad5cdca9c1918b1ee
+- qdrant_id: d34d5ed1-7349-5e23-b8d4-571e453135d3
+- source: [Posthumanities] Katherine Behar (editor) - Object-Oriented Feminism (2016, Univ Of Minnesota Press) - libgen.li.pdf
+- chunk_index: 29
+- importance: 0.7921
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+of being” and is inseparable from individuation and subjecthood, with a Nietzschean model in which active, self- modifying forces unfurl, “[seeking] the being of becoming.”18 Here, object- oriented feminism coincides with perspectives in feminist new materialisms, wherein our common status as matter makes way for continuity between all objects, whether human or nonhuman, organic or inorganic, animate or inanimate.19 To this end, Patricia Clough describes how recent work on bodies, science, and technology propels feminist theory to “[open] the study of bodies to bodies other than the human body.”20 For Clough, this revision forges compatibility, even co- constitution, between bod- ies and the technics of measurement that support advances in genet- ics and digital media. Underscoring this same technicity, Nigel Thrift conceives of a transformation within capitalism toward territorializ- ing a “new land” on the model of tenancy in which “site, organic and
+
+## Excerpt 12
+- id: ec4f03835f25d2e6f257383b
+- qdrant_id: b01a377e-aa4c-503c-98dc-fb7f2edb23bc
+- source: (Transformations_ Thinking Through Feminism) Sara Ahmed_ Jane Kilby_ Celia Lury_ Beverley Skeggs_ Maureen McNeil - Transformations_ Thinking Through Feminism-Routledge (2000).pdf
+- chunk_index: 90
+- importance: 0.7932
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+in which ‘third world’ women are constructed as objects of information and knowledge exchange. Likewise, Sneja Gunew examines the potential effects on feminism of new forms of racism which emphasise cultural, rather than biolog- ical, difference. These contributions to this volume highlight the importance of feminists being vigilant about the perpetual reconfiguration of institutions, bodies, temporalities and categories. As well as recognising that some transformations in gender relations may be problematic for feminism, we also recognise how easily ‘transformation’ can itself become a buzz word for conservative politics and thus that not all calls for trans- formation are progressive. For example, flexible capitalism, modern forms of consumerism or what Celia Lury (1998), amongst others, has called ‘prosthetic culture’, may themselves use the discourse of transformation to produce a subject who can re-produce existing power relations. Lisa Adkins’s chapter illus-
+
+## Excerpt 13
+- id: 4246949c455e246e98eab2ca
+- qdrant_id: e6773f3e-8652-5a32-918f-449725ee7571
+- source: Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 169
+- importance: 0.8177
+- seed_hits: donna-haraway-cyborg-feminism-companion-species-situated-knowledges, stacy-alaimo-trans-corporeality-material-feminism
+
+for non-totalising and partial identities. Within feminist SF, the contradictory identities embodied by the cyborg provide a means of questioning existing definitions of gendered subjectivity. As Haraway suggests, 'The cyborgs popu- lating feminist science fiction make very problematic the statuses of man or woman, human, artefact, member of a race, individual identity, or body' (Haraway, 1985: 97). The ambiguous postmodern romances of feminist SF are transgressive because they foreground female desire while evading closure around the binarisms of masculinity and femininity. The ironic 'cyborg mon- sters' (Haraway, 1985: 99) who inhabit these narratives move between and across the subject positions of masculinity and femininity and allow the relationship between identity and desire to be explored outside the confines of fixed subject positions. The cyborg can be regarded as a di…
+
+## Excerpt 14
+- id: 2670927367e6ab0cfa61264e
+- qdrant_id: f1d557ec-22a4-5560-850a-36f418b70e77
+- source: Linda Alcoff, Elizabeth Potter (eds.) - Feminist Epistemologies (1993, Routledge) - libgen.li.pdf
+- chunk_index: 18
+- importance: 0.7809
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+allows us to identify the historical trajectory of current work and to see where we are coming from. We find a strong consensus among feminists today that both the term and the project of feminism itself must be more inclusive than a focus on gender alone permits. If feminism is to liberate women, it must address virtually all forms of domination because women fill the ranks of every category of oppressed people. Indeed, the ontological status of woman and even of women has shifted for academic feminists in light of influential arguments showing that women, per se, do not exist. There exist upper-caste Indian little girls; older, heterosexual Latinas; and white, working-class lesbians. Each lives at a different node in the web of oppressions. Thus, to refer to a liberatory project as “feminist” cannot mean that it is only for or about “women,” but that it is informed by or consistent with feminism. It seeks, in current
+
+## Excerpt 15
+- id: f8588a67465456d9e4b54baa
+- qdrant_id: 134f1217-070f-5b42-9b17-529da4300c65
+- source: Amaleena Damlé - The Becoming of the Body_ Contemporary Women's Writing in French (2014, Edinburgh University Press) [10.1515_9780748668229] - libgen.li.pdf
+- chunk_index: 92
+- importance: 0.7874
+- seed_hits: catherine-malabou-plasticity-the-new-wounded, elizabeth-grosz-volatile-bodies-corporeal-feminism, stacy-alaimo-trans-corporeality-material-feminism
+
+otherwise fluid identities within the strict parameters of gender, sexual- ity and race that are governed by assumptions formulated on the basis of biology or cultural identification. Reading contemporary women’s writing in French, this book will argue, reopens and renegotiates the parameters between specificity and difference that have concerned second-wave feminism. In the contemporary realm, we may ask what factors constitute and specify female corporeality. We may ask how the female body is materially defined and culturally constructed. But we may also ask how we might think about the female body’s difference beyond the sexual binary and whether the female body might differ not only from its other – or its multiple others – but also, perhaps, from itself and its own material reality. This book considers articulations of female corporeality in the writing of Nothomb, Devi, Darrieussecq and Bouraoui, and argues for
+
+## Excerpt 16
+- id: c6dd15529cc6790c8d032a87
+- qdrant_id: 855d63bc-87a8-5b19-9c5e-af0bdb1d9c4d
+- source: Feminism and postmodernism -- Margaret Ferguson and Jennifer Wicke -- 1992 -- Duke university press -- dacef07905dfcb509597f845281a8f6d -- Anna’s Archive.pdf
+- chunk_index: 33
+- importance: 0.7935
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+that the relations will become complex and even oppositional. The increas- ing fragmentation of the categories of gender, class, race, sexuality, eth- nicity, and religion challenge easy coalitions and the privileging of singular political identities, including that of ‘woman’ or even ‘feminist’. At the same time, such de-centering offers fresh possibilities for political alignments and furthers a reconceptualization of the multiple sites of feminism. This issue of boundary 2, as a whole, seeks to map the boundaries between postmod- ernism and feminism, while it envisions a new terrain for their crossing in a materialist feminist politics. Feminist materialist thought requires a geocultural reorientation as well, and it is to supply this that our particular admixture of feminism and postmodernism is shaken and bottled as a special issue of boundary 2. To point to a globalism …
+
+## Excerpt 17
+- id: bc35eb19be57209d818f228b
+- qdrant_id: efb9e409-0789-5ce7-a6f0-b02c737a5abf
+- source: (Theory Redux) Helen Hester - Xenofeminism-Polity (2018).pdf
+- chunk_index: 272
+- importance: 0.7807
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+Our analysis concluded by insisting upon the importance of transfeminist reproductive jus- tice frameworks, and by pointing to potential vectors of solidarity between the self-help and trans* health movements. Encouragingly – and relevantly, given Chapter 3’s discussion of men- strual extraction – it seems that attempts to foster just this kind of solidarity are emerging around technomaterial projects today. I want to con- clude this book by gesturing towards a number
+
+## Excerpt 18
+- id: 74b349937950002b4d8ea796
+- qdrant_id: d3d69db2-bf61-55d9-8714-4691cf6b5d1b
+- source: Stone, Alison - Luce Irigaray and the Philosophy of Sexual Difference (2006, Cambridge University Press) [10.1017_cbo9780511617287] - libgen.li.pdf
+- chunk_index: 119
+- importance: 0.7787
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+than ours’ (KW, 178–9). To this end, her later work elaborates a form of ecofeminism according to which nature is inherently active; by engaging further withher work,wecan exploretheviabilityofsuchan ecofeminism. Despite the ecological afﬁnities of Irigaray’s philosophy of natural sex- ual difference, its problems, taken in conjunction, seriously diminish its appeal. They suggest that, rather than being politically transformative, Irigaray’s philosophy may actually be politically conservative and divisive. 57 Stacy Alaimo, Undomesticated Ground: Recasting Nature as Feminist Space (Ithaca: Cornell University Press, 2000), p. 10. My allusions to different ecofeminist positions draw on Alaimo’s overview of these (pp. 2–13). Disappointingly, Alaimo herself reiterates the view that the later Irigaray, for whom ‘ “woman” and “the earth” have shifted ontologically from discursive constructions …
+
+## Excerpt 19
+- id: bf5894e2d9865d725b4e596e
+- qdrant_id: aaddad24-e4d7-5505-bd20-a29c8e3723ca
+- source: Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf
+- chunk_index: 48
+- importance: 0.7798
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+the false dilemma of having to choose between a romanticized valori- zation of bodies and natures or an anti-essentialist ﬂight from the grounds of our being. As a particularly vivid example of trans-corporeal space, toxic bodies insist that environmentalism, human health, and social justice cannot be severed, since they are all continually emergent from zones of intra-activity (in Barad’s terms) that are as biological as they are political, as material as they are social. Alaimo promotes trans-corporeal feminisms that encourage us to imagine ourselves in constant interchange with the “environment” and, paradoxically, per- haps, to imagine an “epistemological space” that allows for both the unpredictable becomings of other creatures and the limits of human knowledge. Catriona Mortimer-Sandilands begins her essay, “Landscape, Memory, and Forgetting: Thinking through (My Mother’…
+
+## Excerpt 20
+- id: b3961af9874b5d08d0fa33fb
+- qdrant_id: 4fdec792-460c-5cab-aca5-cef13ce23590
+- source: Alexandra Howson - The Body in Society_ An Introduction (2012, Polity Press) - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.7822
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism, stacy-alaimo-trans-corporeality-material-feminism
+
+the women’s movement and feminist thought has made visible the signiﬁ cance of the body in the oppression of women. Feminists have drawn attention to the ways in which the female body is objectiﬁ ed through medical, legal and representational practices. In some cases,
+
+## Excerpt 21
+- id: a42915ce19903403555288b9
+- qdrant_id: 1ccce374-0411-533a-bd58-086332338d86
+- source: Metamorphoses (Rosi Braidotti) (Z-Library).pdf
+- chunk_index: 101
+- importance: 0.7793
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+attributes. She is thus reduced to unrepresentability within the male sym bolic system, be it by lack, by excess or by perennial displacement of her subject-positions. Even feminine sexuality is defined by Irigaray (1997) as not-one, that is to say multiple and complex and ex-centric to phallic genitality. This theoretical premise leads to a political conclusion: through the strategy of mimetic repossession of the feminine by feminist women, a political process is set up that aims at bringing the ‘other of the Other’ into representation. This is what I have called the ‘virtual feminine’ of sexual difference feminism. In poststructuralist or sexual-difference feminism, materialism is linked both to embodiment and to sexual difference, and the link is made by the political will and determination to find a better, a more adequate, representation of female corporeal reality, not a…
+
+## Excerpt 22
+- id: 820d23c1153394e707d0943f
+- qdrant_id: f1585d62-bbad-5150-89c3-12d9c74594fb
+- source: Cook, Jane Alexandra - Sex, metaphysics, and madness _ unveiling the grail on human nature and mental disorder (2013, Peter Lang AG, Internationaler Verlag der Wissenschaften) - libgen.li.pdf
+- chunk_index: 57
+- importance: 0.7800
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+employed in its oppression of women, thereby impeding the poststructuralist refiguring of subjectivity, sexual identity and difference as always fluid and diverse. Adriana Caverero therefore appears to be accurately describing the experience of a late twentieth century feminist essentialist philosopher finding herself in social constructionist company when she says, [I]f she does not pronounce the magic word ‘multiple subjectivity’, she will probably be at- tacked as an across-the-board antiquated, European, essentialist metaphysical thinker. Addi- tionally, she knows that she will cut the sad figure of someone not prepared for the coming third millennium. (cited in Perpich, 2004, p. 393) However, (seemingly) essentialist philosophers and theorists have not just taken the bullets; they’ve also fired some of their own. In response to the feminist poststructuralist de-essentializi…
+
+## Excerpt 23
+- id: b812c7de958cfa25dfa08f0c
+- qdrant_id: b49509e9-da53-5b49-9593-cec5860700f4
+- source: Alice Jardine, Paul Smith - Men in Feminism (1987) - libgen.li.pdf
+- chunk_index: 15
+- importance: 0.7754
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+and appropriation, everything precisely that is being challenged, that has to be altered. Women are the subjects of feminism, its initiators, its makers, its force; the move and the join from being a woman to being a feminist is the grasp of that subjecthood. Men are the objects, part of the analysis, agents of the structure to be transformed, representatives in, carriers of the patriarchal mode; and my desire to be a subject there too in feminism—to be a feminist—is then only also the last feint in the long history of their colonization. Which does not mean, of course not, that I can do nothing in my life, that no actions are open to me, that I cannot respond to and change for feminism (that would be a variant on the usual justification for the status quo, men are men and that’s that); it just means that I have to realize nevertheless—and this is an effort not a platitude—that I am not …
+
+## Excerpt 24
+- id: df1e91cfe86a87465d5c8c7c
+- qdrant_id: 63b656ca-cdcb-5e1d-a41c-a78ca441c95e
+- source: [Feminist Technosciences] Cyd Cipolla_ Kristina Gupta_ David A. Rubin_ Angela Willey - Queer Feminist Science Studies_ A Reader (2017, University of Washington Press) - libgen.li.pdf
+- chunk_index: 64
+- importance: 0.8022
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+stakes of our relationships to innumerable others, near and afar, who make our own lives, communities, and works possible. For our part, we hope that this volume demonstrates the diversity and richness of queer feminist critical inquiries into science and presents a range of possible directions for future study. We hope this volume offers stronger and queerer feminist genealogies for feminist new materialism, feminist science and science studies, critical disability studies, and critical studies of gender, sexuality, and embodiment in their myriad manifesta- tions. We hope those genealogical resources will ground us as we explore evolving sciences, and the stuff of our worlds, in the knowledge that ­contexts of intelligibility can never be relegated to the footnotes. The world itself is material-discursive; there is no biology without history, no
+
+## Excerpt 25
+- id: b80c35adcb6521584d1f61f4
+- qdrant_id: e022a68d-4632-5913-9ae5-06eeedc4d727
+- source: Claire Colebrook - Philosophy and Post-structuralist Theory_ From Kant to Deleuze (2022, Edinburgh University Press) [10.1515_9780748680740] - libgen.li.pdf
+- chunk_index: 133
+- importance: 0.7804
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+and live their world.) But feminism has also been a demand for repre- sentation: the subject must not be seen as some general, universal or neutral power. There is no general or transcendental subjectivity; sub- jects are only given as, or known through, particular modes of embod- iment, and it is the specific contribution of women’s embodiment that demands a feminist understanding of subjectivity. (Like the critique of anthropomorphism this demand for a positive feminism refuses to see a general ground, logic or subjectivity that is not lived in a certain way. The subject is not a general condition but is always given or known in a determined way.) Irigaray’s representational aporia might be seen as exemplary, not only of feminist ethics, but of any post-enlightenment demand for a specific or positive ethics. What makes representation crucial to this aporia is its location as the very limit of experience and
+
+## Excerpt 26
+- id: 122d696782059c5378e004fe
+- qdrant_id: ab77cbac-659e-5a92-ace4-d4228b09ed48
+- source: Mary Flanagan_ Austin Booth - Reload_ Rethinking Women + Cyberculture-MIT Press (2002).pdf
+- chunk_index: 167
+- importance: 0.7803
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+of virtuality—racial, gendered, Othered—live in the body, and though science is pro- ducing and encouraging different readings and revisions of the body, it is premature to throw it away just yet, particularly since so much postcolonial, political, and feminist critique stems from it. The vexed position of women’s bodies and raced bodies in feminist and postcolo- nial theory has been a subject of intense debate for at least the past twenty years. While feminism and postcolonial studies must, to some extent, buy into the notion of there being such a thing as a “woman” or a “person of color” in order to be coherent, there are also ways in which “essentialism is a trap,”5 to quote Gayatri Spivak. Since deﬁni- tions of what counts as a woman or a person of color can be shifting and contingent upon hegemonic forces, essentialism can prove to be untenable. Indeed, modern body technologies are partly responsible for this: Gender reassignment surgery and cosmetic
+
+## Excerpt 27
+- id: 119f45c2194d547f821be39f
+- qdrant_id: ad9acd88-1659-5af9-ba2e-2d8de8a0bf38
+- source: Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 55
+- importance: 0.7852
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+material world. The profound aesthetic, ethical, and political implications of performative human– technology interfaces such as these will be our primary focus in the remainder of the book. Chapter Outlines Having already established the signiﬁcant methodological and conceptual correspondences between post- 1990 new media installation art and femi- nist theory, the remainder of the book comprises four thematic chapters organized around case studies of exemplary artworks, exhibitions, and critical texts. Chapters 2 and 3 establish a theoretical and historical model for understanding new media art as it has been informed by feminism and identify the art form’s critical aesthetics. Chapters 4 and 5 approach the thematic of feminism in a less direct fashion. They do not explicitly re- argue for the “feminism” visible or not in each case, but rather build from the book’s foundationa…
+
+## Excerpt 28
+- id: 8feeb8e4fb6bf105f541a0a8
+- qdrant_id: 4c523e48-4dfd-5cdc-9fe2-140d69efe0b0
+- source: (Transformations_ Thinking Through Feminism) Sara Ahmed_ Jane Kilby_ Celia Lury_ Beverley Skeggs_ Maureen McNeil - Transformations_ Thinking Through Feminism-Routledge (2000).pdf
+- chunk_index: 87
+- importance: 0.7801
+- seed_hits: claire-colebrook-deleuze-feminism-extinction, stacy-alaimo-trans-corporeality-material-feminism
+
+successfully translated into a final end or outcome. Of course, it is instructively paradox- ical that our very call for feminism not to be programmatic can make use of programmatic language. We need to reflect on our language here, which is still making a claim for how feminism should be, even if we are destabilising what it means ‘to be’ a feminist, and which is still setting an agenda, even if this is not regarded as immutable or hedged in precise expectations about a final outcome. Hence, we also contend that, although the relation between feminism and its objects is complicated and contingent, it remains impossible (and we would add, undesirable), to think through feminism without identifying desires, priorities and agendas. To assume that we are not setting agendas would be to conceal the agendas we are setting. So the issue here is not whether feminists advance programmes for social change, but how we set agendas, and whether we allow
+
+## Excerpt 29
+- id: ba94d83debda266c05e23fb9
+- qdrant_id: 0e776301-5b86-5714-89e1-f18d21411a72
+- source: Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 176
+- importance: 0.8176
+- seed_hits: donna-haraway-cyborg-feminism-companion-species-situated-knowledges
+
+those same skills that comprise the methodology of the oppressed, which including the technologies of 'semiotics,' 'deconstruction,' 'meta-ideologizing,' 'democratics,' and 'differential movement.' It is these technologies that permit the constant, differential repositioning necessary for perception and action from what Haraway identifies as 'the standpoints of the subjugated.' Indeed, Haraway's essay on cyborg feminism identifies all five of these technologies (if only in passing) as ways to bring about what she hopes will become a new feminist methodology. Of the first 'semiotic' technology, for example, Haraway writes that 'self knowledge requires a semiotic-material technology linking meanings and bodies ... the opening of non-isomorphic subjects, agents, and territories to 257
+
+## Excerpt 30
+- id: 3b1500326f288a5e08645c61
+- qdrant_id: 4813f174-ca6f-5d07-ab1b-8c494313c2a1
+- source: Janet Price and Margrit Shildrick (eds.) - Feminist Theory and the Body_ A Reader (1999, Routledge) - libgen.li.pdf
+- chunk_index: 28
+- importance: 0.7766
+- seed_hits: luce-irigaray-this-sex-which-is-not-one-speculum, stacy-alaimo-trans-corporeality-material-feminism
+
+ment as a constructive force has, in consequence, been highly controversial, and nowhere more so than in the response to the work of Luce Irigaray. As more representative of a poststructuralist feminism with its roots in re­ cent Continental philosophy, than of the predominantly materialist analyses associated with the Anglo-American tradition, her approach is concerned primarily with discourse. Nonetheless, Irigaray's project of rewriting sexual difference beyond the binary of masculine:feminine - a binary which positions the sexed body, male or female, as static, ahistorical and determinate - makes constant reference to the anatomical differences between the sexes. Her concern is to revalue the way in which femininity is inscribed on to the female form in a culture in which masculinity is in retreat from the body and where disembodiment is privileged. In her 'labial politics'…
+
+## Excerpt 31
+- id: b2dbcb9d085e412f05bf867f
+- qdrant_id: 934c3732-be90-5589-bd96-a740cd204e79
+- source: [Critical Perspectives on Women and Gender] Teresa L. Ebert - Ludic Feminism and After_ Postmodernism, Desire, and Labor in Late Capitalism (1996, University of Michigan Press) - libgen.li.pdf
+- chunk_index: 54
+- importance: 0.7759
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+tions and positive knowledge of their material conditions so that they can change them. If feminism, as an ensemble of contesting ways of knowing and polit- ical practices, is to continue to develop, it must be self-critical. It needs to understand that a materialist critique of its own historical situation and limits is vital to its ongoing struggle against patriarchy—especially at a time when patriarchy is intensifying both its appropriation of feminism and its backlash against it. The appropriation and backlash are signs that patriarchy is in crisis. It is being divided by its own difference: by the conflict between emergent forms of patriarchy and more traditional modes. In the spaces of these social fissures, contemporary feminism has built the site in which to articu- late social change. Obviously, feminism has played a crucial role in dis- placing key aspects of tradi…
+
+## Excerpt 32
+- id: ac79bc33452f70562c845167
+- qdrant_id: 32d419a0-3ec3-54c3-9002-010991302f4e
+- source: [Gender and Culture Series] Rosi Braidotti - Nomadic Theory_ The Portable Rosi Braidotti (2011, Columbia University Press) - libgen.li.pdf
+- chunk_index: 50
+- importance: 0.7741
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+INTRODUCTION 13 FEMINIST TRANSPOSITIONS In part 2 of this volume I will apply some of my key concepts to the produc- tion of alternative interventions in the present contextual conditions. Given the complex and internally contradictory nature of the globalized system, feminist critical theory needs to innovate in its very tools of analysis. The current cultural paradoxes: on the one hand, rising conservatism, on the other, fascination with changes and mutant and nonunitary others, express both a deep anxiety about the fast rate of transformation of identities and also the poverty of our social imaginary to cope creatively with the ongoing transformations. In rising to this challenge, feminist theory engages with contemporary scientiﬁ c advances and new understandings of the structure of bodies and matter (see chapter 5, “Matter-Realist Feminism”). Feminism is the social and…
+
+## Excerpt 33
+- id: cb2fafb94b60e4b5c1b999be
+- qdrant_id: 73583bff-6d35-55ca-8714-dd63535cea55
+- source: [Theory Q] Lee Edelman - Bad Education_ Why Queer Theory Teaches Us Nothing (2022, Duke University Press) - libgen.li.pdf
+- chunk_index: 105
+- importance: 0.7749
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+of gender or “queer multitudes.” I continue to see myself as a ­woman. I know very well that the word is plastic, that it cannot be reconstituted as a separate real­ity, and that, as I wrote in “The Meaning of the Feminine,” “­there is no reason to privilege the ‘feminine,’ or to name the crossroads of ontic-­ontological exchange ‘feminine,’ ” I know the feminine is one of the “passing, metabolic points of identity.” Still, I believe that the word “­woman” has a meaning outside the hetero­ sexual matrix.54 Conforming as it does to the logic of the fetish, the formula for which she all but quotes (“I know very well” but “still”), this belief that Malabou cannot renounce, this point of consistency to which she adheres in spite of what she knows, should be recognized not merely as an attachment to the specific identity of “­woman” but also (and even more crucially) as an attachment to the coupling of ­woman and meaning: “I believe that the word ‘­woman’ has a
+
+## Excerpt 34
+- id: 7ffec205c7fcef9650ab5921
+- qdrant_id: 3bb42285-2fd7-52ce-8d00-72da17bd2c3a
+- source: Genevieve Yue - Girl Head_ Feminism and Film Materiality-Fordham University Press (2020).pdf
+- chunk_index: 7
+- importance: 0.7749
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+repre sen ta tion. A feminism oriented toward these other spaces offers an en- larged understanding of the often invisible social forces that shape supposedly “neutral” or “objective” technical pro cesses. Such a feminism might tell us how anx i eties about the social status of women are displaced onto the material di- mension of film. And while materiality has been recently undergoing intense scrutiny in the humanities, and in film and media studies, the discourse on materiality has emphasized the specific materiality (immaterial or other wise) of the digital vis- à- vis analog technologies. Despite this interest in materiality, not to mention the profound impact of feminist film analy sis in other areas of film studies, gender has never been examined as an intrinsic and key theoreti- cal aspect of film materiality. This is where Girl Head intervenes, and in doing so it cons…
+
+## Excerpt 35
+- id: 94bb72b448145933e874dc73
+- qdrant_id: b66b3473-0e66-519f-94cd-bc837a2e798e
+- source: [Gender and Culture] Elisabeth Bronfen_ Misha Kavka (eds.) - Feminist Consequences_ Theory for the New Century (2001, Columbia University Press) - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.7765
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism, stacy-alaimo-trans-corporeality-material-feminism
+
+of a possible “true” consciousness about sex and gender relations within a singular, repressive patriarchy to an understanding of sexuality as a con- struction,the product of differing discourses that are themselves diffuse sites and enactments of power. Sometime between the late s and the early s, then, an important shift happened, a shift from explaining women’s subordination in terms of a single constraining system—whether we call it capitalism,patriarchy,biology, or even language—to focusing on the discursive, material, and cultural dif- ferences that make up the being or becoming of women.This shift from sys- temic approaches to the passionate and sometimes agonized proliferation of difference(s) was largely the consequence of two discourses,critiques by fem- inists of color and by poststructuralists, that began to be voiced in feminist work from the early s onwards.Thou…
+
+## Excerpt 36
+- id: 11570e1475e3e89a6de804cc
+- qdrant_id: df2ff4b0-67ef-50f4-82de-8856869f0947
+- source: [Feminist Technosciences] Cyd Cipolla_ Kristina Gupta_ David A. Rubin_ Angela Willey - Queer Feminist Science Studies_ A Reader (2017, University of Washington Press) - libgen.li.pdf
+- chunk_index: 77
+- importance: 0.7728
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+Natural Sciences.” Hypatia 23 (4): 134–156. Roy, Deboleena, and Banu Subramaniam. 2016. “Matter in the Shadows: Femi- nist New Materialism and the Practices of Colonialism.” In Mattering: Femi­ nism, Science, and Materialism, edited by Victoria Pitts-Taylor, 23–42. New York: NYU Press. Salamon, Gayle. 2010. Assuming a Body: Transgender and Rhetorics of Materiality. New York: Columbia University Press. Schiebinger, Londa L. 1993. Nature’s Body: Gender in the Making of Modern Science. Boston: Beacon Press. Scott, Joan Wallach. 1988. Gender and the Politics of History. New York: Columbia University Press. Sedgwick, Eve Kosofsky. 1990. Epistemology of the Closet. Berkeley: University of California Press. Sedgwick, Eve Kosofsky, and Adam Frank. 2003. Touching Feeling: Affect, Peda­ gogy, Performativity. Durham: Duke University Press. Smith, Pamela H., Amy R. W. Meyers, and Harold J. Cook. 2014. Ways of Making and Knowing: The Material Culture of Empirical Knowledge. Ann Arbor: Uni-
+
+## Excerpt 37
+- id: db1a51bfc0b74138b7010757
+- qdrant_id: f9ecf733-e7d0-5ce4-892e-c73fe1c940c9
+- source: [Feminist Technosciences] Cyd Cipolla_ Kristina Gupta_ David A. Rubin_ Angela Willey - Queer Feminist Science Studies_ A Reader (2017, University of Washington Press) - libgen.li.pdf
+- chunk_index: 43
+- importance: 0.7740
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+to the case she analyzes, that “two-handedness” was constructed as nor- mal and “one-handedness” as deviant through media labeling of the desire for hand-amputation as mentally disordered and through the refusal of doctors to remove a transplanted hand that was no longer wanted (and that both of these were material-semiotic processes). Queer feminist sci- ence studies also assumes that resistance to regimes of normality and deviance occurs through material-semiotic processes, such as when Michelle Murphy argues that women’s health activists challenged ideas about normal and deviant cervixes by meticulously recording data about their own cervixes every day for months and then using this data to argue that there is not any one model of cervical health. Queer feminist sciences studies scholarship offers powerful examples of how to critique the nor- malizing and pathologizing tendencies of Western biomedicine and sci-
+
+## Excerpt 38
+- id: 8d6fea20b4c38e82f3b7f9d9
+- qdrant_id: f4ad38cb-f4bc-5df9-8245-39780bd9e65b
+- source: [Critical South] Maria Pia Lopez - Not One Less_ Mourning, Disobedience and Desire (2020, Polity) - libgen.li.pdf
+- chunk_index: 43
+- importance: 0.7684
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+The subject of contemporary feminism is built on the recog­ nition of gender and at the same time questions existing genders and its patterns of regulation of behavior. It overlaps with the materiality of trans feminism, which banishes any naturalizing meaning. Feminism today ranges from strategic essentialism to the surging demand for political recognition of socially available identities. Perhaps, like Marx’s proletariat, feminism may be able to conceive of its own redemption only through a complete transformation of the social order. There is not one feminism but a plurality of feminisms. Heterogeneous and conflicting. With distinct emphases and propositions. In modern-day Argentina, they converge in shared organizational goals. The writing of this book coincides with assemblies to organize the 8 March women’s strike in Buenos Aires and as meetings held by the Not One Less
+
+## Excerpt 39
+- id: c941e866b6547974902a7c61
+- qdrant_id: b9ef09aa-3430-569e-8479-2796be3e1575
+- source: Max Henninger, Giuseppina Mecchia, and Timothy S. Murphy, Christian Marazzi, Paolo Virno, Antonio Negri, Franco Berardi, Michael Goddard, Maurizio Lazzarato, Antonella Corsani, Seth Graebner - SubStan.pdf
+- chunk_index: 385
+- importance: 0.8223
+- seed_hits: rosi-braidotti-affirmative-ethics-vitalist-materialism, rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism, stacy-alaimo-trans-corporeality-material-feminism
+
+project. — Rosi Braidotti (1994, 37-38) This essay is situated at the intersection of two trajectories of critical thought: feminism and post-workerism. In the displacements brought about by feminism, it seeks to grasp the need to rethink the categories of the critique of political economy. The feminism to which I am referring here is essentially that which reconfigured itself following its confrontation with the homosexual and post-colonial movements—a feminism that I will call transfeminism, using a term borrowed from Beatriz Preciado—that is, a feminism that is a thinking of and a political experimenting with multiplicity. I am joining the other trajectory, post- workerism, essentially at the level of the developments that have resulted from the contributions of Maurizio Lazzarato, Christian Marazzi, Yann Moulier Boutang, Antonio Negri and Carlo Vercellone over the past dozen years—their effort to rethink labor, social cooperation, the wage and
+
+## Excerpt 40
+- id: 1b98bf6dd88abe5ac2441e04
+- qdrant_id: 863cf96a-489d-5b23-a0cc-3fd7e8dcfb75
+- source: Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 464
+- importance: 0.7654
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+Signs 28, no. 3 [2003]: 801– 31); Nancy Tuana on “viscous porosity” (“Viscous Porosity: Witnessing Katrina,” in Material Feminisms, ed. Susan Hekman and Stacy Alaimo [Durham, N.C.: Duke University Press, 2007], 188– 213); and Stacy Alaimo on “trans- corporeality” (Bodily Natures: Science, Environment, and the Material Self [Bloomington: Indiana University Press, 2010]). Alaimo outlines the conceptual parallels among the latter three models in “Thinking as the Stuff of the World,” O- Zone: A Journal of Object- Oriented Studies 1 (2014): 13– 21. 8. Karen Barad, Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning (Durham, N.C.: Duke University Press, 2007), 353.
+
+## Excerpt 41
+- id: dfb32ceb70bbd8df3530ee43
+- qdrant_id: bc46a116-250a-5ad1-ab38-ba2843f81adb
+- source: Moi, Toril - Revolution of the ordinary_ literary studies after Wittgenstein, Austin, and Cavell (2018, The University of Chicago Press) - libgen.li.pdf
+- chunk_index: 15
+- importance: 0.7729
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+of the “OLP and Feminism” group at our house. For years, on our daily walks, he let me hold forth about my struggles with this project. He helped me figure out what I really wanted to say. He strengthened my voice. Da- vid is my advisor, my friend, and my heart’s companion. * * * I gratefully acknowledge permission to reprint previously published ma- terial from the following publications and publishers. I have substantially edited and rewritten most of the material listed. Chapter 3 includes key parts of “‘They Practice Their Trades in Different Worlds’: Concepts in Poststructuralism and Ordinary Language Philosophy,” New Literary His- tory 40, no. 4 (2009): 801– 24. (A few pages also appear in the introduc- tion.) Chapter 4 includes almost all of “Thinking through Examples: What Ordinary Language Philosophy Can Do for Feminist Theory,” New Lit- erary History 46, no. 2 (2015): 191– 216. Chapter 8 is an expanded version
+
+## Excerpt 42
+- id: ca855cbc1984cdc7b3376349
+- qdrant_id: 0dce8b50-bbfa-5d4b-a5b2-ce7e4be98d3c
+- source: [Routledge Companion] Gavin Brown, Kath Browne - The Routledge Research Companion to Geographies of Sex and Sexualities (2016, Routledge) - libgen.li.pdf
+- chunk_index: 115
+- importance: 0.7686
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+articulated in relation to particular models of transitioning and 'gender reassignment' can also be queried beyond the Global North. For example, as Silva and Omat (Chapter 37 in this volume) demonstrate, travestí <loes not equate to transgender and transgender can be rejected as an identity by travestís themselves. Alongside the ways in which sorne cultures beyond the Global North can be classified as being 'more progressive' with regard to gendered lives beyond male/female binaries, the presumption that the Global North leads the way in sexual equality agendas is also questionable. These assertions often focus on the 'progress' made in specific cities and the acceptance of sorne gay men (and lesbians). However, discussions of world cities and ordinary cities (see Kanai, 2014; Oswin, 2015; and the chapters by Muller-Myrdahl, Johnston and Longhurst, and Visser in this volume), show that as geographers we are critica! of
+
+## Excerpt 43
+- id: c3449e557fa4672b7a3f5eba
+- qdrant_id: 5ecac7f2-6376-5ba8-9e4d-f8c81f89d0b0
+- source: [Thinking Gender] Linda J. Nicholson (ed.) - Feminism_Postmodernism (1990, Routledge) - libgen.li.pdf
+- chunk_index: 156
+- importance: 0.7888
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+granted. The loss of that reification of gender relations ought not to be lamented as the failure of a feminist political theory, but, rather, affirmed as the promise of the possibility of complex and generative subject- positions as well as coalitional strategies that neither presuppose nor fix their constitutive subjects in their place. The fixity of gender identification, its presumed cultural invariance, its status as an interior and hidden cause may well serve the goals of the feminist project to establish a transhistorical commonality between us, but the “us” who gets joined through such a narration is a construction built upon the denial of a decidedly more complex cultural identity— or non- identity, as the case may be. The psychological language which purports to describe the interior fixity of our identities as men or women works to enforce a certain coherence and to foreclose convergences of gender
+
+## Excerpt 44
+- id: af4e5e1f43a29701efc0970f
+- qdrant_id: 8012227e-bbf7-5151-a9b9-8fb0e41a89de
+- source: Nathan Snaza - Tendings_ Feminist Esoterisms and the Abolition of Man (2024, Duke University Press) - libgen.li.pdf
+- chunk_index: 140
+- importance: 0.7687
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+introduction, it is on the ­matter of concordance (what I call homogenization) that new materialist and feminist witchcraft proj­ects differ from each other, and the topic on which I differ from both proj­ects the most. While I hope my approach might, among other ­things, make more space for spiritual and other non“scientific” knowledges in con­temporary feminist and queer discourse (in modalities other than inclusion), I want to make it very clear that I ­don’t
+
+## Excerpt 45
+- id: 04059787a9482bc17971469d
+- qdrant_id: 8b928cfd-48d5-579a-abf8-9b24b9da44c4
+- source: Holly Lawford-Smith - Sex Matters_ Essays in Gender-Critical Philosophy-Oxford University Press (2023) (1).pdf
+- chunk_index: 6
+- importance: 0.7704
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+University, Pepperdine University, Hong Kong University, and the University of West England between 2018 and 2020. A huge thank you, too, to all the real-­name and anonymous radical feminist and gender-­critical women of Twitter and Facebook who shared their thoughts with me and provided such vigorous debate when I was new to these issues (and before I was banned from Twitter). Chapter 4, in particular, was written with a lot of input from those women. Finally, I’d like to acknowledge the work of the women who have published on the conflict of interests between gender identity activism and feminism before me, and whose work has helped to shift the public conversation to taking feminist interests more seriously. Among the first were Gloria Steinem ([1977] 1983, pp. 224-­228), Mary Daly (1978, pp. 67-­69 & pp. 71-­72), Janice Raymond (1979), Germaine Greer (1989; 1999, pp. 80-­93…
+
+## Excerpt 46
+- id: bd6feab8b172745f56e56114
+- qdrant_id: fb6021b1-ddc3-564a-9175-881b3fdcea4b
+- source: Janet Price and Margrit Shildrick (eds.) - Feminist Theory and the Body_ A Reader (1999, Routledge) - libgen.li.pdf
+- chunk_index: 54
+- importance: 0.7951
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+tangible, albeit fluid, materialities. A large part of Haraway's own project has been not simply to deconstruct the boundaries between the organic and the inorganic, but to problematise the category not just of the female but of the human itself. For her the interconnectedness of human and animal bodies, the sense of nature as agentic rather than as a passive locus of action, the 'promises of monsters' (Haraway 1992), all speak to forms of posthuman embodiment. At the same time, technological advances such as xenotransplantion, genetic hybridisation, transsexual surgery and even cloning blur in practice the boundaries of the closed and proper human body. And yet there is nothing new about transgressive morphology: whether we see normative standards as natural or discursively constructed, there have always been those bodies which have failed to conform. All those who are monstr…
+
+## Excerpt 47
+- id: ce0a233f9f3d28ede9f34c78
+- qdrant_id: c202fe1f-0560-5622-b505-1a6d2a3cf469
+- source: Robin Truth Goodman (editor) - The Bloomsbury Handbook of 21st-Century Feminist Theory-Bloomsbury Academic (2019).pdf
+- chunk_index: 43
+- importance: 0.7687
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+1 Introduction ROBIN TRUTH GOODMAN KEYWORD: FEMINIST THEORY This book comes at a time of major transition and radical change in the way gender is publicly recognized and organized, from debates worldwide over transsexuality and gay marriage as well as regressions in abortion and birth control policy, to austerity measures, sweatshop labor, war, environmental policies, and migration policies that cause misery disproportionately to women, and new arrangements of labor that substitute robotics for bodies and service for manufacturing. In light of these transformations, it is impossible to consider feminism as having produced a settled body of theory. Especially in the language it uses to describe itself, feminism must be presented in active development. When we initially started to work on this volume, feminism was a word becoming rarefied in popular culture and sometimes in academi…
+
+## Excerpt 48
+- id: 7bad2fbd6f1324f595f4f0eb
+- qdrant_id: 18db22f1-84d2-5c66-a8bb-7952baadd1ed
+- source: Tamsin Lorraine - Irigaray and Deleuze_ Experiments in Visceral Philosophy (1999, Cornell University Press) - libgen.li (1).pdf
+- chunk_index: 32
+- importance: 0.7698
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+garay's work that I derive the main inspiration for the form my project takes.3 Irigaray argues that contemporary culture is bifurcated by a sexual divi- sion oflabor in which the body and the "natural" are relegated to the fem- inine and the more "cultural" products of symbolic significance are rele- gated to the masculine. She further argues that this bifurcation has serious ethical implications which have led to an impoverished life for us all and have encouraged us to create symbolic support for feminine subjectivity. Such support would make possible a genuine dialogue between two kinds of subjects. Genuine communication between two genders could lead to undermining the body/mind bifurcation of contemporary culture, foster practices of perception in which all subjects took responsibility for inte- grating body and mind, and open up important ethical and political op- portunit…
+
+## Excerpt 49
+- id: 8f3a7af3c74360c2bbc8c3aa
+- qdrant_id: 91fdf667-a377-5377-a8a5-48199ad1c663
+- source: The Monstrous-Feminine in Contemporary Japanese Popular Culture (Raechel Dumas) (Z-Library).pdf
+- chunk_index: 44
+- importance: 0.7694
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+as those that prioritize the misogynistic impulses of popular Japanese engagements with gender. This is not to suggest that I elide these issues entirely: the female body as an object of violence is a pervasive theme in Japan, and one that I take up in my analyses of the titles examined here; likewise, I devote considerable attention to the monstrous-feminine as a product of the patriarchal imagination and, in several cases, as impe- tus for the cathartic restoration of patriarchal norms. That being said, I concentrate also on female monsters whose unremitting violence insists on their identity and agency in defiance of patriarchal authority: after all, as Creed contends, the monstrous-feminine is not only a source of terror but also “offers a great deal of pleasure to spectators encouraged to identify with her wildly excessive, anarchic, deadly behavior” (2005, p. 16). This b…
+
+## Excerpt 50
+- id: 354a692f904028d64aad9791
+- qdrant_id: d5032aa1-0eba-5a2c-995d-d9b6a3880796
+- source: Professor Veronica L Schanoes - Fairy Tales, Myth, and Psychoanalytic Theory_ Feminism and Retelling the Tale-Ashgate Pub Co (2014).pdf
+- chunk_index: 628
+- importance: 0.7819
+- seed_hits: claire-colebrook-deleuze-feminism-extinction, stacy-alaimo-trans-corporeality-material-feminism
+
+as different areas of focus, even while maintaining the same themes and concerns. The fact that poets and novelists continue to work with ideas long after they have passed out of fashion in academia suggests that the ideas are in fact not outmoded, that criticism does not exhaust their potential or interest, but that criticism is a precondition, not the final word, but an early word. Second-wave feminism saw an immense amount of thought put into the question of identity and what it meant/means to be a woman; indeed, feminism has yet to meet the standard of providing support and advocacy for all women, as too many feminists continue to reject transsexual and transgender people, for example. Both the concepts of mother-daughter relationships and mirrors challenge traditional boundaries understood or assumed to exist between self and other, subject and object, and the valorization…
+
+## Excerpt 51
+- id: 02b6a5a4855aa0b69318aadb
+- qdrant_id: 60312d1c-af30-553a-b522-77214d2965c0
+- source: Robin Truth Goodman (editor) - The Bloomsbury Handbook of 21st-Century Feminist Theory-Bloomsbury Academic (2019).pdf
+- chunk_index: 120
+- importance: 0.7688
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+where they are exposed to conditions of violence and neo-slavery” (163). Here the glo­ balization of high tech calls out to women workers from across borders who can assume needed emotional, nurturing, and domestic labor functions in other national settings, so that gender becomes a key translatable good, an ideological relation gathering meanings in its translations and mistranslations. The term “world” is thus imbued with a mish­ mash of discrepant, even clashing subjectivities, sensibilities, sensitivities, languages, genders, systems, and historical processes, all of which throw “woman” into turmoil and up for grabs. Introduced in translation, the subject/world interconnectivities and crossings that form as gender in feminist theory thus also rely on new vocabularies, reconsidering lost pos­ sibilities in old vocabularies and remobilizing language. The very idea of a language f…
+
+## Excerpt 52
+- id: 8040d052e5ee7f11aa3cbba3
+- qdrant_id: d134bbd2-ad6d-5945-aa02-6d00d8150fc5
+- source: (Semiotext(e) _ Intervention Series, 24) Sayak Valencia - Gore Capitalism-Semiotext(e)_ MIT Press (2018).pdf
+- chunk_index: 5
+- importance: 0.7649
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+the same order and with the same validity as Western subjects, yet without being categorized or translated as identical to them or as a monolith. Thus, without neglecting our differences, we seek the creation of our own discourses that nurture a transfeminism that confronts and questions our contemporary situation, a situation that is invariably circumscribed by the logic of gore capitalism. By saying this, we do not mean for this book to reject, or fail to recognize, the theoretical and practical work of diverse forms of feminism and their existence throughout history. On the contrary, the fact that our
+
+## Excerpt 53
+- id: ded3d467040f0a6f81a6315e
+- qdrant_id: 624b5428-df05-512a-b508-29233823dc46
+- source: [Posthumanities] Katherine Behar (editor) - Object-Oriented Feminism (2016, Univ Of Minnesota Press) - libgen.li.pdf
+- chunk_index: 112
+- importance: 0.7747
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+Political Feminist Positioning 207 because of the new technologies and new scientiﬁc discoveries, Coole and Frost write, “unprecedented things are currently being done with and to matter, nature, life, production, and reproduction” through, for instance, biogenetics (4). Proponents of the new materialism, as pointed out by DeFazio, express frustration with what Coole and Frost refer to as the “allergy to ‘the real’” of earlier textual approaches that had the eﬀect of discouraging “critical inquirers from the more empirical investigation that material processes and structures require” (6). They suggest that it is now necessary to address how the material world— the world of not just objects, nature, and the human body but also such phenomena as “the electricity grid, food, and trash” (9)— has an “agency” that has hitherto not been accounted for. In fact, Coole and Frost, as argued by DeFazio, joyfully aﬃrm the new materialism
+
+## Excerpt 54
+- id: 07b81f91cd10f2128de74dfd
+- qdrant_id: 0fc10326-0e55-5e71-9d9b-b308aa644691
+- source: (Semiotext(e) _ Intervention Series, 24) Sayak Valencia - Gore Capitalism-Semiotext(e)_ MIT Press (2018).pdf
+- chunk_index: 114
+- importance: 0.7634
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+have micropolitical implications, understood as a process-oriented micropolitics focused on the acquisition of agency, through social fabric as it is formed and enters into contact with reality. What emerges is a counter-offensive working against “the social forces that administer capitalism today [who] understand that the production of subjectivity is possibly more important than any other kind of production, more essential than the production of petroleum and energy” (Guattari & Rolnick, 2008, 36). Transfeminist subjects can be understood as queer multitudes, who through the performative materialization of their bodies are able to develop different kinds of g-local agency. These queer multitudes continue developing categories and enacting practices that result in non-standard agencies, not as an absolute truth nor as infallible actions, which can be applied in a variety of contexts in …
+
+## Excerpt 55
+- id: cccc394097824205a0ce42ac
+- qdrant_id: a28cee0b-d281-5444-88a7-69521382e121
+- source: Johnstone, Hazel_ Evans, Mary_ Madhok, Sumi_ Hemmings, Clare_ Pl - The SAGE handbook of feminist theory (2014, SAGE Publications Inc) - libgen.li.pdf
+- chunk_index: 123
+- importance: 0.7727
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+ture’. This binary division is not a benign separation but is value-laden, inscribing value to one (i.e., culture) and ‘denigrating’ the other (i.e., nature). Neimanis writes that this nature/culture distinction is not a refer- ence to discrete entities alone but has come to stand in for a whole host of representa- tional practices and relations whereby asso- ciations with ‘culture’ indicate ‘masculin- ity’, ‘western’ and ‘cosmopolitan ways of life’, while ‘nature’ is used to denote asso- ciational links with ‘femininity’, primi- tiveneness and backward, non-progressive world views and life worlds. Neimanis pro- vides a ‘schematization’ of the ‘various feminist positions’, outlines a ‘detailed evaluation of “new materialist” positions on nature/culture’ and argues that if feminist theory is to realize a much more expansive idea of ethical and political accountability then it must bring in as part of its commit- ment to intersectional analyses not only
+
+## Excerpt 56
+- id: 8fda1fc94e0b6e24abb47653
+- qdrant_id: 456c01f7-c085-57a2-837b-7d8f262d1dc3
+- source: Sunny Hawkins - Deleuze and the Gynesis of Horror_ From Monstrous Births to the Birth of the Monster (2020, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 75
+- importance: 0.7728
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+project in Metamorphoses is “finding new figurations of hybrids and monsters as possible models for a ‘materialist theory of becoming,’” for the “challenge that the hybrid, the anomalous, the monstrous others throw in our direction is nothing less than a disassociation from [the Victorian sensibility] which pathologized and criminalized difference” (Betterton 2006: 87). The challenge the monstrous-maternal body throws in the direction of feminism is no less a challenge to disassociate ourselves first from the mindset that attitudes toward masculinity and femininity can be changed without simultaneously questioning the binary construction of same/other, male/female, and secondly from the belief that our bodies are natural, beyond coding or representation—a given that never changes. To conceive of the body as a given requires distancing ourselves from embodied, nonrepresentation…
+
+## Excerpt 57
+- id: 085ac7a8cce18556b3fbdf8b
+- qdrant_id: 8f93dfb7-de89-5826-a775-bd484d717abe
+- source: [Cambridge Studies in Twenty-First-Century Literature and Culture] Jennifer Cooke - Contemporary Feminist Life-Writing_ The New Audacity (2020, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 55
+- importance: 0.7668
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+and the legacies of feminism. He demonstrates, for example, that cis- women and trans people’s entanglements with hormones – whether to repress the reproductive cycle or to change gender – are part of the same pharmaceutical history. The inclusion of Preciado here illustrates the pragmatic dimension of eschewing the category ‘women’s writing’ in favour of ‘feminist’ for this project. Not all feminism is the same, however. Preciado warns that ‘feminism functions, or can function, as an instrument of normalization and political control when it reduces its subject to “women”’.6 He is summarising the work of Teresa de Lauretis, but theorists such as Judith Butler and Leigh Gilmore have long warned against the false universalising that the term ‘women’ can enact by ﬂattening out differences between women and their circumstances within social struc- tures and geographical locations.7 Not every writer studied here would categorise their work as primarily
+
+## Excerpt 58
+- id: 3fcaa834bf56599138048e31
+- qdrant_id: f0873eaa-3343-5f17-a85e-609ec58fffa2
+- source: Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf
+- chunk_index: 10
+- importance: 0.7717
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+12 On Preparations: Engaging with Inhuman Materialities . . . . . . . . . 141 Myra J. Hird 13 Queer Disability, Postcolonial Feminism and the Monsters of Evolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153 Donna McCormack 14 Re/membering the Body . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165 Margrit Shildrick 15 “Let Me Show You”: A Caring Ethnography of Embodied Knowledge in Weaving and Engineering . . . . . . . . . . . . . . . . . . . . . 175 Tania Pérez-Bustos 16 Anatomical Assemblages: Medical Technologies, Bodies and their Entangled Practices. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189 Ericka Johnson 17 Practising Ambivalence: The Feminist Politics of Engaging with Technoscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199 Celi…
+
+## Excerpt 59
+- id: 379b0a468bcdf6a2bbd2f918
+- qdrant_id: 4523ec13-1746-573a-b9e9-bcda2592b8f5
+- source: Tamsin Lorraine - Irigaray and Deleuze_ Experiments in Visceral Philosophy (1999, Cornell University Press) - libgen.li (1).pdf
+- chunk_index: 107
+- importance: 0.7592
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+she is. This movement is captured and elaborated by Irigaray in her sym- bolization of the feminine as she is apart from masculine subjectivity. Pos- itive characterizations of this feminine movement provide the initial sym- bolic support required for the emergence of the truly alternative economy of a feminine subject. While Irigaray does not believe that any one person could achieve such an economy in isolation, her dream of the feminine 24 lrlglny 1111 DIIIIZI
+
+## Excerpt 60
+- id: 223b21d168fec1ad460568d2
+- qdrant_id: 3bf51525-c0d8-52a8-86f6-f1babd889183
+- source: Victoria de Grazia (editor)_ Ellen Furlough (editor) - The Sex of Things_ Gender and Consumption in Historical Perspective (2020, University of California Press) [10.1525_9780520916777] - libgen.li.pdf
+- chunk_index: 40
+- importance: 0.7640
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+cordingly, they argue that women, out shopping or otherwise practicing what has been called "style politics," use the rituals of consumption in dress, cos- metics, hairstyle, and gesture to bend the norms ordained by the market and to flout family and other authority. The essays here, though not indifferent to such debates, advance a dif- ferent set of concerns. First, they focus on the construction of gender roles rather than on an unexamined acceptance of the category of "woman" and thus construe the process of gendering broadly, in terms of male as well as female identities. This expanded focus recognizes the capacity of com- modities to move between the customarily female spaces of the market and
+
+## Excerpt 61
+- id: b7bbaa115f9880443b8681c3
+- qdrant_id: 263c7498-cf08-5672-ab45-7e3d13a5d9ac
+- source: Susan Stryker, McKenzie Wark (editor) - When Monsters Speak_ A Susan Stryker Reader (ASTERISK)-Duke University Press Books (2024).pdf
+- chunk_index: 36
+- importance: 0.7701
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+quences for feminism. Trans makes the category of “woman” more interest- ing and might even “queer the woman question.” Gender might no longer be just a mimetic double of sex as a “biological” given — as it has become in much of Trans-­Exclusionary Radical Feminist (terf) discourse. Instead, we might all practice nonmimetic ways of experiencing and conceiving our becomings. Stryker experimented with both gender as lived, and genre as written. Interestingly, for Stryker, the concept of trans-­ness is not limited to trans people. It is present as that which the sex/gender system controls. Whether in gay or straight life, there are sanctions for doing gender “wrong.” One of the agents of control of trans-­ness ended up being a certain kind of feminism that set itself up as the police of good womanhood. It treats the “biological” body, or rather a fantasy of it, as if it were a “na…
+
+## Excerpt 62
+- id: f0883961f893c3f1be643cf2
+- qdrant_id: 9f888bfa-f477-5b6b-9a73-3a6a093cc8de
+- source: (SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf
+- chunk_index: 29
+- importance: 0.7671
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+print, among a range of efforts to refute the oppressive idealization of the female body and reconsider entrenched aesthetic categories and values. The most influential voices of this movement, Susan Faludi, Naomi Wolf, and Susan Bordo, are largely absorbed with elaborating resistance to the beauty industry, and promote the displacement of false consciousness by critical con- sciousness. Feminists who give added dimension to such positions include transgression theorists who describe the power of a performative abjection (Morgan, Yaeger, Russo) and both popular (Friday) and scholarly (Davis) Introduction 7
+
+## Excerpt 63
+- id: 2e051d5350d5585e81d5316c
+- qdrant_id: efec218a-b7f1-5b97-af78-65b0b96bab56
+- source: [Fundamentals of Philosophy series] Georgia Warnke - Debating Sex and Gender (2011, Oxford University Press) - libgen.li.pdf
+- chunk_index: 378
+- importance: 0.7635
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+of gender-defined interests. At the same time, she insists that because, when merged together, the positions argue that women workers are both the same as and different from male workers, they “effectively muddly] that term [women workers].”” In other words, if women workers both pursue and diverge from a male career path, it follows that by focusing on women in trying to explain work-force statistics, we are focusing on a nonexistent, disaggregated collective. Moreover, she asserts, this rec- ognition of its nonexistence—or at least, muddiness—forms the sub- stance of feminism: “That ‘women’ is indeterminate and impossible is no cause for lament. It is what makes feminism; which has hardly been an indiscriminate embrace anyway of the fragilities and peculiarities of the category."”? Still, if it is hard to see how Scott's genealogy gives us reasons to cheer for one side or the other in the garment wars, it is also difficult to envision
+
+## Excerpt 64
+- id: 17f567a1004c343d4da66602
+- qdrant_id: 41833e34-1a3b-535c-88a8-0d0327d94024
+- source: [Critical Perspectives on Women and Gender] Teresa L. Ebert - Ludic Feminism and After_ Postmodernism, Desire, and Labor in Late Capitalism (1996, University of Michigan Press) - libgen.li.pdf
+- chunk_index: 34
+- importance: 0.7893
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+are ee eo any coherent tively to construct radically different social arrangements “Gyithout the utopian mystifications that haunt some contemporary feminisms), we need to know what we are acting on. In other words, we have to have reliable knowledge of the social relations and institutions we § seek to change. It is, of course, common knowledge r now that f poststructuralism and ludic femi- nism deny the possibility of such reliable knowledge. In the following chapters, I will address the politics of such epistemological maneuvers. Here I want to state that critique, far from an act of trashing, is in fact the most trustable ally of transformative feminism because it produces knowl- edge of the social totality by examining existing practices. Critique enables. feminism to arrive, by democratic, public contestations, at a collective understanding of of — eal pauens and in…
+
+## Excerpt 65
+- id: 27bea4d4520a2858194f0a4b
+- qdrant_id: bb72b9d6-9866-51bc-afb3-d6f82fa3ee2f
+- source: [Gender and Culture Series] Rosi Braidotti - Nomadic Theory_ The Portable Rosi Braidotti (2011, Columbia University Press) - libgen.li.pdf
+- chunk_index: 51
+- importance: 0.8033
+- seed_hits: rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism, stacy-alaimo-trans-corporeality-material-feminism
+
+of bodies and matter (see chapter 5, “Matter-Realist Feminism”). Feminism is the social and theoretical movement that, more than any other, expressed a double-edged vision that combined creativity with cri- tique. Although it is critical in political orientation, feminist nomadic thought is never negative; on the contrary, it makes an explicit case for af- ﬁ rmative politics. The ongoing processes of transformation require alterna- tive ﬁ gurations to express the kind of internally contradictory multifaceted subjects we have become. There is a noticeable gap between how we live—in emancipated or postfeminist, multiethnic global societies, with high tech- nologies and telecommunication, allegedly free borders, and increased se- curity controls as well as a state of warfare—and how we represent to our- selves this lived familiarity. This belies an imaginative poverty that can be par…
+
+## Excerpt 66
+- id: 3ec0f65e7be77e97d7905f18
+- qdrant_id: c2c4377f-5f3b-5d74-a202-79fbc310d634
+- source: Patricia Ticineto Clough_ Jean O'Malley Halley - The affective turn _ theorizing the social (2007, Duke University Press) - libgen.li.pdf
+- chunk_index: 108
+- importance: 0.7736
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism
+
+to unpaid reproductive labor in the era of structural adjustment. In ‘‘Always on Display: A√ective Production in the Modeling Industry,’’ Elizabeth Wissinger focuses on the work of fashion models. Arguing that understanding the body in terms of a√ective capacities proves a more e√ective model for researching postmodern bodies, Wissinger traces links between the growth of imaging technologies, the growth of the modeling industry, and increased investment in the means of modulating a√ective ﬂow between bodies. Wissinger points to the socialization of a√ect or a√ective capacity in late-twentieth-century capitalism as a way to think beyond the subjectivist bent of traditional critiques of con- sumer culture. Melissa Ditmore’s ‘‘In Calcutta, Sex Workers Organize’’ takes up labor in an a√ective economy in order to understand prostitution as sex work and to argue that abuses connected to prostitution and tra≈cking, which policy
+
+## Excerpt 67
+- id: c5a8d69886f226114e234c4e
+- qdrant_id: 6dc67493-515a-50e1-9d9c-c87abd670243
+- source: Kathy Davis (editor)_ Inderpal Grewal (editor)_ Caren Kaplan (ed - The Making of Our Bodies, Ourselves_ How Feminism Travels across Borders (2007, Duke University Press) [10.1515_9780822390251] - libgen.li.pdf
+- chunk_index: 51
+- importance: 0.7764
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism
+
+translation projects. Finally, I organized several group discussions with members of the collective concerning the history of the book’s transformation within and outside the United States.19 The second phase of the inquiry involved an in-depth analysis of OBOS as a feminist epistemological project—that is, a project that is involved in generating feminist knowledge and knowledge practices. It began with a confrontation between the epistemological assump- tions of OBOS and postmodern feminist body theory (in particu- lar, the work of Donna Haraway, Judith Butler, Elizabeth Grosz, Joan Scott, and Susan Bordo), as well as alternative biological, phenome- nological, and materialist critiques of this theory.20 I show how OBOS can contribute to some of the most central discussions in feminist body theory by providing an embodied, situated, critical feminist politics of knowledge. T…
+
+## Excerpt 68
+- id: 9325c59895c0d031b3a17606
+- qdrant_id: daf5428e-262a-5844-a0c7-9bb928ac76b3
+- source: [Value Inquiry Book _ Social Philosophy, Band 358] Deirdre C. Byrne (editor), Marianne Schleicher (editor) - Entanglements and Weavings_ Diffractive Approaches to Gender and Love (2020, Brill _ Rodopi) - libgen.l.pdf
+- chunk_index: 132
+- importance: 0.7821
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism
+
+love. The focal point of the analysis will be the moment of physical encounter between the male animal and his bride. This analysis leads me to conclude that the effects of the physical encounter overturn the ideological thrust of the nar- ratives. I will use two concepts proposed by new materialist feminists: Eliza- beth Grosz’s idea of “freedom to” (Grosz 2010) that allows for a much more empowering and materially-grounded understanding of female agency; and Karen Barad’s notion of an “agential realist ontology” (Barad 2013) that cri- tiques social constructionist understandings of culture by theorising a mutual
+
+## Excerpt 69
+- id: 8cfd699c0307c476848f08e2
+- qdrant_id: 683fbf7a-9967-5420-b9ef-cfd7151968a7
+- source: On Female Body Experience Throwing Like a Girl and Other Essays (Iris Marion Young) (Z-Library).pdf
+- chunk_index: 245
+- importance: 0.7871
+- seed_hits: sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+If I live my identiﬁcation with the clothing images through my experi- ence of ﬁlm narrative, it may not be too wild to explore our pleasure in clothes through feminist ﬁlm theory. Following a Lacanian framework, feminist ﬁlm theorists have developed an account of a female experience of pleasure in the objectiﬁed female body within a patriarchal order. The story goes something like this.6 Subjectivity is crucially constituted by relations of looking. Through active looking the subject acquires a sense of subject set off against ob- jects. Through looking at an image of himself in the mirror, the subject gains a sense of narcissistic identiﬁcation with a totalized motor being misrepresented as a unity. In the phallocratic order, however, this sub- ject who takes pleasure in looking at objects other than himself and who takes pleasure in looking at totalized images of himself is a male subject. The phallocratic order splits looking into active and passive moments.
+
+## Excerpt 70
+- id: d45bf8b3919acf9f75b85dd3
+- qdrant_id: 39a521ce-8f2c-55b1-92d6-10898a622267
+- source: [Cambridge Studies in Nineteenth-Century Literature and Culture] Pamela K. Gilbert - Disease, Desire, and the Body in Victorian Women's Popular Novels (2005, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 156
+- importance: 0.8012
+- seed_hits: elizabeth-grosz-volatile-bodies-corporeal-feminism
+
+Row, 1978). Grosz, Elizabeth, Volatile Bodies: Toward a Corporeal Feminism (Bloomington: Indiana University Press, 1994). Haraway, Donna, "A Manifesto for Cyborgs: Science, Technology and Social- ist Feminism in the 1980s," in Elizabeth Weed (ed.), Coming to Terms: Feminism, Theory, Politics (New York: Routledge, 1989). Cambridge Books Online © Cambridge University Press, 2009
+
+## Excerpt 71
+- id: 482aeb631de8fa2935ffe4b1
+- qdrant_id: 890928d1-89bb-5115-a42d-658502f841c1
+- source: Prudence Bussey-Chamberlain - Queer Troublemakers_ The Poetics of Flippancy (2019, Bloomsbury Academic) [10.5040_9781350079380] - libgen.li.pdf
+- chunk_index: 151
+- importance: 0.7489
+- seed_hits: autotheory-maggie-nelson-the-argonauts
+
+else; someone who feels a strong longing to have a child even in the face of anti- reproductive queer theories; a woman who has never been more pro-choice as when she was pregnant. That the words ‘radical’ and ‘comrade’ are not enough for Nelson is perhaps then no surprise. They are bound to dogma and the fantasy of a single attack, one in which the unity of the attackees is apparent both within and without. Her favouring of openness is in some ways an attempt to undo both the radical and the comrade. It is a position that will change, a slipperiness that cannot be pinned, and a series of possibilities that will not be aligned or ironed out by participation within a very specifically directed collective. This, importantly, has gone on to create a necessary solidarity with those who read The Argonauts. In an interview for The Fader, Nelson states: My experience with The Argonauts …
+
+## Excerpt 72
+- id: 263049fcb50a552d827cdb9a
+- qdrant_id: f331af92-d557-5752-8839-6f34021cccad
+- source: [Reference] Stefan Herbrechter, Ivan Callus, Manuela Rossini, Marija Grech, - Palgrave Handbook Of Critical Posthumanism (2022, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 196
+- importance: 0.7653
+- seed_hits: stacy-alaimo-trans-corporeality-material-feminism
+
+operations of her subjugation, they also attempt to problematize them. Tiqqun repeats, reproduces, and remixes girl culture with a critical agenda – to deconstruct the same affective, emotional, and ideological valences that support neoliberalism’s proliferation. At the same time, the Young-Girl constantly interrupts Tiqqun, both within the text and through the criticisms brought to bear on it. These interruptions create openings for exploring the signiﬁcance of this theory beyond the framework set by its authors. (Kennedy, 2015, p. 176) Without disavowing or exonerating otaku culture of its disturbing element of fetishization, it is possible to suggest that it also makes possible a critique of the very nature of sexuality. In his 2009 book, The Anime Machine, Thomas Lamarre discusses an anime entitled Chobits, which is about the relation between a 19-year- old boy, Motosuwa Hideki, and …
+
+## Excerpt 73
+- id: 0c7873e482084f5bac763333
+- qdrant_id: 765f3e1c-ce4d-5c5e-9bda-5098f92e603a
+- source: Sara Ahmed - The Promise of Happiness-Duke University Press Books (2010).pdf
+- chunk_index: 179
+- importance: 0.7679
+- seed_hits: sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+tribution o f happiness to p articu lar objects or social ideals: Lhe fem in ist killjoy, the u n h ap p y queer, the a n g ry black w o m an , an d the m elanch olic m ig ran t. T h ro u g h her readings she raises critical questions about th e m oral order im p o sed b y th e in ju nction to be happy. “W h a t cou ld b e m ore n atu ralized an d less subject to ideological critique th a n h appin ess? H o w 2 : e w e t o get critical persp ective on it? T h ro u g h her readin gs o f texts and film s, S a ra A h m e d s : iuws h o w this m ight w ork . B y revealin g th e co m p le xity an d am bivalen ce o f happiness, she ir tervenes m several fields— in cluding queer an d fem in ist theory, affe ct studies, an d critical rr-ce th e o ry— in a gen uinely n ew an d excitin g w a y " fit* ill! ill!! - H E A T H E R L O V fc, author of Feeling Backward: Lossand the Politics of Queer History
+
+## Excerpt 74
+- id: 09cb722773bfec4fe8aa403a
+- qdrant_id: ef4fd36b-49dc-5f5a-b9de-bd7bc3261be5
+- source: Stacy Gillis, Gillian Howie, Rebecca Munford - Third Wave Feminism_ A Critical Exploration (2004) - libgen.li.pdf
+- chunk_index: 6
+- importance: 0.7704
+- seed_hits: sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+of Cyberfeminism 185 Stacy Gillis Part IV Challenges Introduction: Challenges 199 Nicole Ward Jouve 16 Wa(i)ving it All Away: Producing Subject and Knowledge in Feminisms of Colour 205 Mridula Nath Chakraborty 17 Muslim Feminism in the Third Wave: A Reflective Inquiry 216 Sherin Saadallah
+
+## Excerpt 75
+- id: fed776766e52689fa18306f8
+- qdrant_id: 8fbd8fd8-a158-5b53-8e63-3fefde49fbce
+- source: The Monstrous-feminine (Barbara Creed) (Z-Library).pdf
+- chunk_index: 11
+- importance: 0.7714
+- seed_hits: kathy-acker-body-writing-cut-up, media-archaeology-kittler-apparatus-inscription
+
+Festival; and the Brisbane Centre for Psychoanalytic Studies. Finally, the La Trobe University Publications Committee deserves a special acknowledgement for providing a grant towards publication of the illustrative material. I wish to thank the following individuals for their assistance with the illustrative material. Ken Berryman of the National Film and Sound Archive of Australia; Tessa Forbes of the British Film Institute’, Ted Gott of the Australian National Gallery, Beverly Partridge of Films Around the World Inc; and James Sabine of the Australian Film Institute. Illustrative material has been provided by the Kobal Collection; Design and Artists Copyright Society; Robert Le Tet of Entertainment Media; Michael Leunig of The Age, the National Film and Sound Archive of Australia; and Robert Tappert of Renaissance Pictures. Part I FACES OF THE MONSTROUS- FEMININE: ABJECTIO…
+
+## Excerpt 76
+- id: f9431043dd13dfaa901043be
+- qdrant_id: b65fdbe1-e0c6-540d-81a7-ab7b236c7711
+- source: Maggie Hennefeld_ Nicholas Sammond - Abjection Incorporated_ Mediating the Politics of Pleasure and Violence (2020, Duke University Press) - libgen.li.pdf
+- chunk_index: 36
+- importance: 0.7649
+- seed_hits: sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+(Ilana Glazer, Bridget Everett, Leslie Jones), biting self-­referential stand-up (Margaret Cho, Tig Notaro, Maria Bamford), and defiant confessional lit­er­a­ ture (Lindy West, Roxane Gay, Gabourey Sidibe). Yet, at the same time, ­these ­women are predatorily harassed with ad hominem scorn and online death threats. Again, debates about ­whether grotesque bodily display is liberating or shaming are no longer adequate in a climate of permanent carnival and rampant transgressive discourse. Feminist scholarship on affect and emotion has repeatedly refused to con- sider laughter with the same degree of nuanced complexity offered to other ambiguous expressions of emotion. Instead, many of ­these works, such as Sara Ahmed’s Cultural Politics of Emotion and The Promise of Happiness, con- sider only the negative feelings: pain, hate, fear, disgust, shame—­with “love” as the ultimate horizon of collective affirmation. Ahmed glosses over laughter,
+
+## Excerpt 77
+- id: 5824d686e5ebc199c35ae2d4
+- qdrant_id: 91c6194a-89ee-55be-a3c5-ff6c19fc325e
+- source: Peg Zeglin Brand (ed) - Beauty Unlimited-Indiana University Press (2013).pdf
+- chunk_index: 110
+- importance: 0.7646
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+is part and parcel of her social expulsion. This endeavor is charged with the paradoxical task of making the insignificant matter, of having the existence of a disposable person count. How is this possible while retaining her insignifi- cance? Rather than resolving this paradox, Lispector uses it to push the limits of the web of aesthetically mediated relationships surrounding Macabéa— relationships that are organized with the help of the concept of beauty. In challenging such aesthetic relationships, Lispector rewrites the connections of the beautiful and the ugly with the feminine, the body, the postcolonial, and race, and directs us toward an alternative economy of beauty. The force of Lispector’s cultural critique stands out when considered in light of the relational frames in which philosophers historically have cast the beautiful. Plato and Enlightenment philosophers have implicitly offered accounts
+
+## Excerpt 78
+- id: 9f5f3d2937610d1083297939
+- qdrant_id: 8f089000-a18d-5308-a8e5-8bd01093bdd6
+- source: Ben Almassi - Nontoxic_ Masculinity, Allyship, and Feminist Philosophy (2022, Palgrave Macmillan) - libgen.li (1).pdf
+- chunk_index: 142
+- importance: 0.7623
+- seed_hits: bell-hooks-all-about-love-feminist-love-ethics
+
+Patriarchy • Visionary feminism Not all resistance to rejecting masculinity and embracing androgyny has come from those who are antagonistic to feminism. bell hooks is one visionary feminist who has warned against discarding manhood or mascu­ linity too quickly. In Feminism is for Everyone (2000), We Real Cool (2004a), and The Will to Change (2004b), she sees feminist masculinity as a loving alternative to patriarchal masculinity. “Undoubtedly,” hooks says, © The Author(s) 2022 B. Almassi, Nontoxic: Masculinity, Allyship, and Feminist Philosophy, https://doi.org/10.1007/978-3-031-13071-7_4
+
+## Excerpt 79
+- id: f6e25be7b7f1f89b8192680f
+- qdrant_id: b6d4f757-8adf-54dd-b968-c4f079ba0e92
+- source: Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li.pdf
+- chunk_index: 30
+- importance: 0.8009
+- seed_hits: bell-hooks-all-about-love-feminist-love-ethics
+
+and making old things matter in new ways. By presenting love as a foundation for both ethics and epistemology, hooks belongs to a tradition of black feminist theorising around love that Jennifer C. Nash calls “love-politics”. Drawing on Alice Walker, the Combahee River Collective, Patricia Williams, and others, Nash argues 2 HOW TO DO POLITICS WITH LOVE
+
+## Excerpt 80
+- id: 084b9e1081b513eb54a9566a
+- qdrant_id: 8be8a0bd-1056-5e47-a16a-336037e51e06
+- source: The Cambridge Companion to American Horror (Stephen Shapiro, Mark Storey) (Z-Library).pdf
+- chunk_index: 12
+- importance: 0.7606
+- seed_hits: kathy-acker-body-writing-cut-up
+
+Tenga) of Plant Horror: Approaches to the Monstrous Vegetal in Fiction and Film (Palgrave, 2016) and (with Matthew Wynn Sivils) of The Ecogothic in Nineteenth- Century American Literature (Routledge, 2017). She has also edited a collection on The Walking Dead and coedited (with Elizabeth Erwin) a second. She has recently published numerous articles on folk horror and is working on an edited collection on the topic. She writes regularly for a website she cofounded, Horror Homeroom. is Professor of Political Aesthetics at Birkbeck, University of London. Her books include various studies and translations of Walter Benjamin, as well as Hollywood Flatlands: Animation, Critical Theory and the Avant Garde (Verso, 2002), Synthetic Worlds: Nature, Art and the Chemical Industry (Reaktion, 2005), Derelicts: Thought Worms from the Wreckage (Unkant, 2014), Liquid Crystals: The Science and Art of a Fluid Form (Reaktion, 2016), and two projects on milk

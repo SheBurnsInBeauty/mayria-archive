@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: bcf7967967fbedd8ebd8714d
+- qdrant_id: 132849fa-fe1a-55a0-970e-bfea458a5bc9
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 247
+- importance: 0.8702
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+forgets its origins or in a way that brings to thought and language its natal bond with the world. The latter marks Merleau-Ponty’s own attempt, an attempt that is very much akin to the concern of the present book. The present chapter focuses on the project and work in which Merleau- Ponty is most successful in his attempt to articulate the bodily Being in which thinking arises, namely The Visible and the Invisible.2 In this work and the working notes that go along with it, Merleau-Ponty abandons the language of conscious- ness that infuses his earlier work Phenomenology of Perception and departs more radically from an articulation of perception in terms of a relationship between a perceiving subject (consciousness) and a world with perceived things (objects). He thinks the body neither in terms of an object nor simply subjectively but rather as flesh that emerges in the flesh of the world. As we will see, with
+
+## Excerpt 2
+- id: a87da7633c3226f14f07e8fa
+- qdrant_id: 87add8c5-ddd6-5abe-8ddd-89778dbe4b88
+- source: Paul Crowther - Art and Embodiment_ From Aesthetics to Self-Consciousness (1993, Oxford University Press) [10.1093_acprof_oso_9780199244973.001.0001] - libgen.li.pdf
+- chunk_index: 349
+- importance: 0.8723
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness, maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+in his overall philosophical position. In this respect we will remember that in Merleau-Ponty’s later work he concentrates on the phenomenon of visibility. Specifically, he argues that this phenomenon shows par excellence the common ‘flesh’ which bonds us with things. What we see is given form and texture by our body’s mode of orientation towards the world, and, in particular, by a layer of ‘invisibility’, that is, details of present, possible, and past bodily orientations which inform our vision but which we are not immediately aware of. The fact that this invisible dimension can structure perception is intimately bound up with the fact that we know ourselves as belonging to the sensible world, that is, we know that we who see and are sentient can ourselves be seen and sensed. With these points in mind we can now consider Merleau-Ponty’s claims about painting in the essay ‘Eye and Mind’. A useful starting-point is his remark that
+
+## Excerpt 3
+- id: f7a0ed05ed50d7d87d3b8dab
+- qdrant_id: 168a23e6-84ec-59de-acb0-f2a94fcfe7cd
+- source: Thinking Through the Skin (Sara Ahmed, Jackie Stacey) (Z-Library).pdf
+- chunk_index: 166
+- importance: 0.8688
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+membranes, changeability. This robotic re-embodiment of touch suggests that bodies must indeed be both material and semiotic, but that they do not need to conform to the ‘imaginary morphology’ (Butler 1993) of the human, with all the internal hierarchies and absolute diﬀerentiation from the non-human this entails. Merleau-Ponty’s phenomenological understanding of bodily sensation can be useful here, because it insists on the imbrication of the body and the world in perception. For Merleau-Ponty, the nature of perception is constituted through the sensory apparatus (hearing, touch, vision) of the body and the particular way each sensory apparatus apprehends the world. Writing about vision and touch in particular, Merleau-Ponty uses the example of patients whose sight has been restored through cataract removal to describe this intimate relation: The blind man’s world diﬀers from the normal person’s not only through the
+
+## Excerpt 4
+- id: b6a970f7e420d60eaa19b68d
+- qdrant_id: 77b1a38d-3975-5da6-8841-780a27ee00c3
+- source: [Warwick Studies in European Philosophy] Cathryn Vasseleu - Textures of Light_ Vision and Touch in Irigaray, Levinas and Merleau Ponty (1998, Routledge) - libgen.li.pdf
+- chunk_index: 66
+- importance: 0.8674
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+produced within a corporeal and social context (1968: 235). Merleau-Ponty’s account of vision is anti-Platonic. It inhabits a space which is tactile as well as visual, and is resistant to a unified, self-reflexive or panoptic viewpoint. Philosophers and scientists alike have traded, without acknowledgement, on the essential carnality of this sense. In his commitment to making a radical break with the privilege given to objective thought as the basis of knowledge Merleau-Ponty does not subordinate vision to other senses. Instead, he includes it in a general account of perception whose structuration defies reduction to disembodied or objective modes of consciousness. For this reason, Merleau-Ponty’s work, with its insistence on the primacy of perception and, in later work, its questioning of the relationship between perception and language, offers itself as a unique interrogation and reint…
+
+## Excerpt 5
+- id: cdf0508b6cf654f7536d4c37
+- qdrant_id: 56361654-35fb-5c9c-a40f-132709eff946
+- source: Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 299
+- importance: 0.8685
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+much works in progress, it has been necessary to reconstruct and develop some ofthetantalizingly sketchy yet provocative overtures which suggest that the French phenomenologist was envisaging a radically new material- ism. This is already implicit in early work on the primacy of perception, and it is this primacy, together with the consequent emphasis on cor- poreality as productive negativity, that remains at the heart of Merleau- Ponty's account ofmaterial existence as folded flesh. l The aim ofexistential phenomenology as Merleau-Ponty understood it is to return to lived experience before it is written over and objectified by theory. "The first philosophical act would appear to be to return to the world of actual experience which is prior to the objective world" in order to "restore to things their concrete phYSiognomy" and thereby to under- talce a "genealogy ofbeing."2 For him, this…
+
+## Excerpt 6
+- id: 9841d458e1fe26cee8cc797a
+- qdrant_id: 99316f02-5966-5aef-bc14-a3aa1e529bf7
+- source: Narrative After Deconstruction (Daniel Punday) (Z-Library).pdf
+- chunk_index: 80
+- importance: 0.8618
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Merleau-Ponty certainly encourages us to believe that “touch” is inher- ently connected to the body by using the term flesh to describe a sub- stance that bridges subject and object: There is an experience of the visible thing as pre-existing my vision, but this experience is not a fusion, a coincidence: because my eyes which see, my hands which touch, can also be seen and touched, because, therefore, in this sense they see and touch the visible, the tangible, from within, because our flesh lines and even envelops all the visible and tangible things with which nevertheless it is surrounded, the world and I are within one another, and there is no anteriority of the percipere to the percipi, there is simul- taneity or even retardation. (123) Merleau-Ponty’s rather mysterious idea of “flesh” seems to explain how subject and object participate in a total world, what phenomenologists describ…
+
+## Excerpt 7
+- id: 6fcbbf22426c253f661d938e
+- qdrant_id: 3567d512-fe95-550a-b8b0-aaba974313fc
+- source: Paul Crowther - Art and Embodiment_ From Aesthetics to Self-Consciousness (1993, Oxford University Press) [10.1093_acprof_oso_9780199244973.001.0001] - libgen.li.pdf
+- chunk_index: 334
+- importance: 0.8557
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+be termed ‘phenomenological’ in so far as it seeks to describe the correlation of body and world that exists in pre-reflective perception. His later work does not constitute a break with this. Rather, it seeks to deepen our understanding of this correlation in the direction of an ontology. This more concentrated scope of Merleau-Ponty’s investigations is manifest in the fact that he now focuses his attention specifically on the phenomenon of visibility. For example, in the essay ‘Eye and Mind’ we are told that the body is a thing, ‘But because it moves itself and sees, it holds things in a circle around itself. Things are an annex or prolongation of itself; they are incrusted into its flesh, they are part of its full definition.’6 But why are ‘things’ a part of the embodied subject’s ‘full definition’ ? Well, the answer to this is already hinted at in Merleau-Ponty’s
+
+## Excerpt 8
+- id: 77d1280b3d01f10c1c2c0c53
+- qdrant_id: 1a93dd9c-7770-51c4-a622-8c47a1ae0b7c
+- source: Eva Illouz - Cold Intimacies_ The Making of Emotional Capitalism - libgen.li.pdf
+- chunk_index: 303
+- importance: 0.8596
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+else. In that respect, we may invoke here Merleau-Ponty’s cri- tique of the empiricist approach to perception of the phenom- enal. He argues that the empiricist empties perception and feeling (sentir) of what he calls its “mystery.” Merleau-Ponty distinguishes between sentir and connaître, where the latter refers to an apprehension of the object based on properties, or what Merleau-Ponty views as dead qualities of the object (qualités mortes). Feeling, on the other hand, refers to an expe- rience of the active properties of the object. To see a motion- less body is not the same as seeing a moving body. What is forgotten when perception is treated as an act of knowing, Merleau-Ponty claims, is the “existential background.” Bourdieu, reviving Merleau-Ponty, employs a similar argu- ment by putting the body squarely at the center of social inter- actions: “[A]fter two hundred years of pervasive Platonism, it is hard for us to think that the body can ‘think itself’ through
+
+## Excerpt 9
+- id: 505c14cb216349b677e1a848
+- qdrant_id: 0eb5d55d-aad1-585b-bac7-11caee113779
+- source: Dana Arnold (ed.) - Art History_ Contemporary Perspectives on Method (2010, Wiley-Blackwell) [10.1002_9781444324716] - libgen.li.pdf
+- chunk_index: 168
+- importance: 0.8607
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Merleau-Ponty maintains that prior to any concept of the world, the body is engaged with it in a pre-logical encounter by which the subject comes to grips with objects as part of a wider system that constitutes the spatial and temporal environment. Because of this pre-cognitive multi-sensorial contact, the world has a uniﬁed appearance within the perceptual ﬁeld. Among the most signiﬁcant aspects of Merleau-Ponty’s elaboration of the bodily experience are his insistence on the primacy of the sense of touch, and his emphasis on the active, expressive body. He argues that tactility gives the fullest articulation of the object’s visual properties. From the sense of touch, which localizes an object in its environment, the other senses formulate an understanding of that object’s implicit nature, including its colour and organization in relation to other things and one’s own body. For this rea…
+
+## Excerpt 10
+- id: d851ff29b15fec3b309815d0
+- qdrant_id: b52dc837-6ec6-5dfd-b34c-5beb6863b9e6
+- source: Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism-Palgrave Macmillan (2023).pdf
+- chunk_index: 114
+- importance: 0.8544
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+require an identity of those objects, and (2) it allows for a communication and relation of objects without requiring that one type of object reign over all other types of objects. For Merleau-Ponty, the concept of flesh has “no name in any philoso­ phy,” cannot be talked about in terms of substance, and is an “element” or “a concrete emblem of a general manner of being” (Merleau-Ponty 1968, 147). The flesh is that which allows each object or visible to engage with other objects or visibles on the same plane of being. The flesh “lines and even envelops all the visible and tangible things with which neverthe­ less it is surrounded, the world and I are within one another, and there is no anteriority of the percipere to the percipi, there is simultaneity” (Merleau-Ponty 1968, 123). Even as Merleau-Ponty developed an explicit ontology that challenged the traditional understanding of subjects and objects, his analysis most
+
+## Excerpt 11
+- id: 674e9955530c5efef448c917
+- qdrant_id: ccff89ce-6818-5701-963d-67407fc98f87
+- source: Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism (2023, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 404
+- importance: 0.8639
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+representation, but as an ontological coupling. The observer and the art-­ object become unified in a new object. But this is not merely an insight about the imaginative engagement with the painting. Instead, we must continue to attend to the art as object. Further, the analysis of this cou­ pling must acknowledge the way that surrounding objects affect and, in a sense determine, the presentation of the work of art. It is here, just as the human observer becomes ported into a new object that is not completely human, that the second aspect of Merleau-Ponty’s flesh becomes apparent. As stated earlier, one consequence of the revers­ ibility of flesh is that we as humans no longer have an ontologically privi­ leged position from which to observe, manipulate, and engage with other objects. We are objects just as much as every other object. The light of Turrels’ “viewing chambers” invites me in, reflects off my skin, and wraps
+
+## Excerpt 12
+- id: 9531437493c0de4d0432a821
+- qdrant_id: 06c5480c-ea0e-58df-baa8-00bd64040d9c
+- source: Zoë Roth - Formal Matters_ Embodied Experience in Modern Literature (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 93
+- importance: 0.8534
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+the division between subject and object, thus challenging the dualistic nature of representation. Throughout different stages in his thinking, Merleau-­Ponty retains this close connection between consciousness and material being. In The Structure of Behavior (1942), for instance, he introduces the notion of being-­in-­the-­world to refer to the way a subject organizes experience into meaningful and comprehensible configura­ tions. Perception is not consciousness of an already constituted world; it forms the world. The perceptual world is only given meaning, however, through a subject’s behavior, understood in terms of gesture, posture, and comportment or bearing.51 The perceiving subject is inherently embodied and the world is firmly grounded in the concrete and the material realm of perception. He more explicitly takes up the question of the lived body in his sub­ sequent work, Phenomenology of Perception (1945), in which he argues
+
+## Excerpt 13
+- id: 45c53e96e99df57f8810224c
+- qdrant_id: d7450cf5-d33f-5df2-854c-16a71f847f2e
+- source: Zoë Roth - Formal Matters_ Embodied Experience in Modern Literature (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 99
+- importance: 0.8496
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+contrast to the embodied subject’s visual perception, which installs a representational gap between the body and the world, flesh implies a 53 Maurice Merleau-­Ponty, The Primacy of Perception, trans. Arleen B. Dallery et al. (Evanston, IL: Northwestern University Press, 1964), 6. 54 Merleau-­Ponty, Phenomenology of Perception, 100. 55 Merleau-­Ponty, The Visible and the Invisible, 130–31. 56 Merleau-­Ponty, Phenomenology of Perception, 105–108.
+
+## Excerpt 14
+- id: a35dba39d7fec08e7f24eecf
+- qdrant_id: a8a9e3c1-81ec-56f0-bc08-a90daae154c9
+- source: Carnal Thoughts Embodiment and Moving Image Culture (Vivian Sobchack, Univ of California Pr) (Z-Library).pdf
+- chunk_index: 20
+- importance: 0.8543
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+4 introduction 5. Ibid., 6. 6. Gary Brent Madison, “Did Merleau-Ponty Have a Theory of Perception?” in Merleau-Ponty and Postmodernism, ed. Thomas Busch (New York: State University of New York Press, 1992), 94. 7. Gary Brent Madison, The Phenomenology of Merleau-Ponty: A Search for the Limits of Con- sciousness (Athens: Ohio University Press, 1981), 25. or analytic theme, and embodiment as the existential ground of culture and self is critical.”5 Hence the need to turn our attention from the body to embodiment. Embodiment is a radically material condition of human being that nec- essarily entails both the body and consciousness, objectivity and subjectivity, in an irreducible ensemble. Thus we matter and we mean through processes and logics of sense-making that owe as much to our carnal existence as they do to our conscious thought. Furthermore (and responding to the occasional critique …
+
+## Excerpt 15
+- id: 66628d7f17a8802e7ea30edd
+- qdrant_id: 0e1b3778-f2ae-5dcd-bb3d-e693ee68085c
+- source: Vicki Kirby - What if Culture was Nature all Along_ (2017, Edinburgh University Press) [10.1515_9781474419307] - libgen.li.pdf
+- chunk_index: 159
+- importance: 0.8528
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Ponty’s interest in blurring the relation between the observing subject and the observed object-world. In The Visible and the Invisible (1968), Merleau-Ponty posits the ‘singularity’ (7) of perceptual relations between observer and observed. These relations are posited as being embodied, whereby a spatial, ‘corporeal component’ (8) conditions perception. It is the bodily, and therefore the spatial/material, focus of Merleau- Ponty’s phenomenology that is of most relevance to our current inquiry. This distinguishes this version of phenomenology from the work of other inﬂ uential phenomenologists such as Edmund Husserl (1859–1938) and Martin Heidegger (1889–1976). Husserl focuses on a transcendent con- sciousness as the condition of worldly experience, an ‘inﬁ nite world of absolute mental processes – the fundamental ﬁ eld of phenomenology’ (Husserl 1983: 114; emphasis in origina…
+
+## Excerpt 16
+- id: e44a8c6441c00b5fa30d0764
+- qdrant_id: c7f6598c-fb65-5027-889e-297ecb240ead
+- source: Corinne Saunders, Ulrika Maude, Jane Macnaughton (eds.) - The Body and the Arts (2009, Palgrave Macmillan UK) [10.1007_978-0-230-23400-0] - libgen.li.pdf
+- chunk_index: 42
+- importance: 0.8554
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+and the shaping force of culture on the body. While these discursive and socialized conceptions of embodiment have left their mark on various essays in this collection, the primary emphasis of a number of the chapters is on the fleshly, experiencing, living body, best theorized by Maurice Merleau- Ponty. In his Phenomenology of Perception (1945), Merleau-Ponty agues that the body constitutes not only the subject’s point of view, but subjectivity itself.3 It is the medium of our having a world, which is never ready-made, but is built up through a dialectical movement between the incarnate sub- ject and its surroundings. Merleau-Ponty stresses what he calls the primacy of perception, foregrounding the importance of pre-reflective experience to our encounter with the world. A single collection of essays cannot, of course, treat this rich and varied subject comprehensively. The aim …
+
+## Excerpt 17
+- id: 5419053b920bad2206395c40
+- qdrant_id: 26579ca8-a49b-5897-83bb-a052eba344ac
+- source: A. Licia Carlson_ Peter R. Costello - Phenomenology and the Arts-Lexington Books (2016) (1).pdf
+- chunk_index: 119
+- importance: 0.8545
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+not alien to the flesh, that gives it its axes, its depth, its dimensions. 76 In this complicated and rich passage, we are able to watch Merleau-Ponty move the philosophy of conceptless knowledge from the field of aesthetics to phenomenology of the lived body, finally to the ontology of Flesh with a new kind of ideality, that of embodied thought, what Merleau-Ponty himself names “sensible ideas.”77 Thus, from the Preface to Phenomenology of Perception through Eye and Mind into The Visible and the Invisible, Merleau-Ponty extends Kant’s char- acterization of the limited domain of the beautiful to the entire sensible
+
+## Excerpt 18
+- id: 1ce9e6d3e58a3781903b28d2
+- qdrant_id: 40d21a65-3622-59e9-b1ae-4f0a3f65cf4f
+- source: [SUNY series in Contemporary Continental Philosophy] Emmanuel Alloa (editor), Frank Chouraqui (editor), Rajiv Kaushik - Merleau-Ponty and Contemporary Philosophy (2019, State University of New York Press) - libgen..pdf
+- chunk_index: 100
+- importance: 0.8572
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+cover of this lexical proximity and refusing to see any distance, to attribute to the things of the world the meaning of being of the chair propre. One will therefore have to examine whether the mode of givenness that signifies this presence in the flesh may be described satisfactorily by Merleau-Ponty’s notion of flesh: Is what the expression Leibhaftigkeit designates already visible or does it, rather, remain in the background to any visibility? We may now return to the feeling of unease mentioned above. Ulti- mately, it comes down to the fact that Merleau-Ponty puts forward a univocal concept of the flesh to which the very distinction between the feeling and the felt—that is to say, intentional distance—appeals. Indeed, the ontological generalization of a carnal reversibility leads unavoidably to a transformation of one of the terms. My flesh reveals an encroachment between…
+
+## Excerpt 19
+- id: 5a334725f6dc3abcc048719e
+- qdrant_id: 99e168fa-c15c-589d-81f3-ead81c045fba
+- source: [Warwick Studies in European Philosophy] Cathryn Vasseleu - Textures of Light_ Vision and Touch in Irigaray, Levinas and Merleau Ponty (1998, Routledge) - libgen.li.pdf
+- chunk_index: 78
+- importance: 0.8534
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+the phenomenal body is the synergistic system or unifying source of the multiple aspects of perception, in The Visible and the Invisible the experience of embodiment is itelf schematized in the folds of flesh. This revision of phenomenological thought gives Merleau-Ponty a way of describing corporeality textually, as an engagement comprising multiple historico-cultural, ideal and libidinal dimensions rather than as something separate from or inadequate to them. There are several aspects of Merleau-Ponty’s account of embodied experience which, while not entirely successful in breaking with an objective notion of embodiment, are radical in their conception. There is a challenging of the division between the interiority and exteriority of psychical and physical embodiment and, related to this, an account of body image which is neither internally nor externally derived, but exists as an inde…
+
+## Excerpt 20
+- id: f05d90246ca2e6780042d83f
+- qdrant_id: 0d5067e9-d079-5a65-a5c5-6741dc1355ff
+- source: Jeffner Allen_ Iris Marion Young - The Thinking Muse_ Feminism and Modern French Philosophy (1989, Indiana University Press) - libgen.li.pdf
+- chunk_index: 21
+- importance: 0.8537
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Introduction 5 which appears in Sartre and Beauvoir's frequent separation of conscious- ness, transcendent being-for-itself, and the body, immanent and inert being-in-itself. Maurice Merleau-Ponty attempts to overcome the obstacles such a dichotomy presents by locating consciousness in the body. With the concept of the lived body, Merleau-Ponty uncovers the fluid spatiality and orientation of the acting body, infused with meaning, understanding, and expressiveness in gait and gesture. Since consciousness is bodily, such a subject is thoroughly in the world, which always outruns her or him. Beauvoir identifies ambiguity as integral to an ethics bv which we might grasp the genuine conditions of our lives. Merleau-Ponty defines ambiguity as constitutive of the fleshy consciousness which inhabits a multi-dimen- sional field where the senses intermingle, a field open to a multiplicitv of poss…
+
+## Excerpt 21
+- id: e7f55b392629b39ebb76acad
+- qdrant_id: 5c4b97f6-f23e-5d05-b8fc-1bb41175a9a3
+- source: Vicki Kirby - Quantum Anthropologies_ Life at Large-Duke University Press (2011).pdf
+- chunk_index: 485
+- importance: 0.8540
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+scribed, maintained, and defended against its improper use. If the radical interiority of the Sensible is utterly referential then we can understand why Merleau-Ponty’s notion of identity, or self-possession, has a quite peculiar dimensional density. He posits the workings of perceptual registration as an implicated weave, or language, that “holds with all its fibers onto the fabric of the visible, and thereby onto a fabric of invisible being” (132). Whether in the instance of a perceptual moment or in the existence of a perceiving being, identity for Merleau-Ponty is “a certain node in the woof of the simultaneous and the successive. It is a concretion of visibility, it is not an atom” (132). Merleau-Ponty therefore corporealizes semiosis such that “the flesh” is articulate in its perceptions and in contact with itself through autodispersion. However, it is precisely here, in …
+
+## Excerpt 22
+- id: 5778e4af30c8d7acbbac557a
+- qdrant_id: 81cf5078-7ff7-5981-a2be-aeb68d7e082f
+- source: Thinking Through the Skin (Sara Ahmed, Jackie Stacey) (Z-Library).pdf
+- chunk_index: 45
+- importance: 0.8541
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+private aﬀair, but is always already mediated by our continual interactions with other human and non-human bodies’ (Weiss 1999: 5). In Merleau-Ponty’s (1968) work, there is an emphasis on embodiment, not only as ﬂeshy and material but also as ‘wordly’, as being in an intimate and living relationship to the world, which is a world made up of other bodies. Given his focus on the experiential, Merleau- Ponty’s work attends to the multiplicity of sense perceptions: bodies can be touched as well as seen. Following from Merleau-Ponty and Cathryn Vasseleu (1998), Claudia Castañeda’s contribution to this collection attends to the relation- ship between touch and the sociality of embodiment: one is always touched by others, not all of whom are necessarily human. Merleau-Ponty theorises the ﬂeshiness of such intercorporeality through considering the concept of the reversibility of touch: While each monocular vision, each touching with one sole hand has its own
+
+## Excerpt 23
+- id: b4385051ba028911f6d0c89c
+- qdrant_id: ea1fecf7-d358-5b56-9620-ca38e7e62570
+- source: [Suny Series in Gender Theory] Murphy, Ann V - Violence and the Philosophical Imaginary (2012, State University of New York Press) - libgen.li.pdf
+- chunk_index: 288
+- importance: 0.8529
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Merleau-Ponty’s final writings address the question of touch and sen- sibility in a way that anticipates this Derridean account. Merleau-Ponty’s rendering of the flesh in The Visible and the Invisible is his final critique of transcendental subjectivity and its attendant structures of intention, and for this reason, the ontology of the flesh is importantly a material ontology of receptivity, passivity, and undergoing. Merleau-Ponty anticipates Derrida’s account of sensibility in his resistance to thinking of touch in terms of imme- diacy or adequation. Indeed, Merleau-Ponty’s account of touch emphasizes the reality of a delay or deferral that marks the movement of alterity through the reflexive structure of touch. Underwriting the famous descriptions of
+
+## Excerpt 24
+- id: e1b15c540bbf0a5c8318e197
+- qdrant_id: 03bcfecf-9515-5593-b55a-0809603ec6d5
+- source: Cecilia Åsberg, Rosi Braidotti - A Feminist Companion to the Posthumanities (2018, Springer) [10.1007_978-3-319-62140-1] - libgen.li.pdf
+- chunk_index: 159
+- importance: 0.8492
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+bodies, and their situations, crucially matters. Like any other ﬁeld of inquiry, phenomenology has grown and fractured, with new versions of phenomenology carrying with them conceptual debts even as new theoretical commitments are forged. For French phenomenologist Maurice Merleau-Ponty (1962), going “back to the things themselves” cannot escape the body in some transcendental move; it is a necessarily embodied undertaking. Merleau-Ponty’s oeuvre offers a detailed theory of embodiment, in which he dis- covers that the body is not something we “have,” but is rather something we ines- capably are. His keen attention to embodiment as consciousness thus provides a helpful method for corporeal attunement – useful for developing the ﬁgure of bodies of water. His ontological understanding of bodies, folded chiasmatically into the world by way of what he calls “ﬂesh” (Merleau-Ponty 1968), moreov…
+
+## Excerpt 25
+- id: cc11301432e547f3de9df87e
+- qdrant_id: ff1b9ade-ea93-5405-ace7-fe49c3768282
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 272
+- importance: 0.8484
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Ponty does not say that in coming to himself the perceiver experiences himself as an extension of the flesh of things in which he was immersed. Rather the flesh of things is now experienced as an extension of the perceiver’s own flesh, so that the perceiver comes to be primary with respect to the perceived. Merleau-Ponty’s description continues as follows: The space, the time of the things are shreds of himself, of his own spa- tialization, of his own temporalization, are no longer a multiplicity of in- dividuals synchronically and diachronically distributed, but a relief of the simultaneous and of the successive, a spatial and temporal pulp where the individuals are formed by differentiation.29 This latter part suggests that not only the space and time of things but also the perceiver’s spatialization and temporalization are formed in this process of differentiation.30 Merleau-Ponty’s shift in perspectives in the description of our primordial
+
+## Excerpt 26
+- id: 25b90a4145cc86ca9f584bab
+- qdrant_id: c16e20a3-0c54-5919-9a11-89badaf50749
+- source: Samuel Todes - Body and World (2001, The MIT Press) - libgen.li.pdf
+- chunk_index: 91
+- importance: 0.8535
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Introduction II xxxix general and prepersonal “habits” of constituting the world. And this is in fact Merleau-Ponty’s final word on the matter: “the natural object is the track left by this generalized existence” (PP, 347). 2. Our sensory exploration of the object is always “incomplete,” and there is “a depth (profondeur) of the object that no progressive sensory deduction will ever exhaust” (PP, 216). This, we may grant Merleau-Ponty, is a fact of our perceptual experience. But what does it prove? The “depth” of the object is part and parcel of the perceptual meaning the object discloses to our body. Merleau-Ponty derives this meaning—predictably and correctly, given his entire theory—from the body’s general and prepersonal grip upon the world: “what we in fact have, is consciousness of an inexhaustible object, and we are sucked into it because, between it and us, there is this latent k…
+
+## Excerpt 27
+- id: 9da323add3790a33d3b3910f
+- qdrant_id: c41af0f4-e348-53ef-92a6-c056ad915996
+- source: Ian James - The New French Philosophy (2012, Polity) - libgen.li (1).pdf
+- chunk_index: 135
+- importance: 0.8503
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+texts such as The Muses and The Ground of the Image. Marion’s characterization of flesh recalls Merleau-Ponty’s thinking in The Visible and the Invisible and, much more directly and specifically, Michel Henry’s phenomenology of auto-affective immanent life (Merleau-Ponty 1968; Henry 1973). Likewise, the description of the icon clearly repeats the Lévinassian motif of the face of the Other. Despite these resonances, echoes or repetitions, it would be wrong to dismiss M arion’s thinking of saturated phenomena as merely deriva­ tive. Rather, what he can be said to have achieved is more of an original synthesis of a number of the key advances in recent French phenomenological and post-phenomenological thought: hermeneu- fir>C ( t? 1 r* ΓΛ o 11 f \ rl i -p-Fn ?" rt tn r* η η n r\ o r f i r f i r * r i r o r o n t o + i A t i / T ^ n r r i r l n / M o n m r ^ ^JL V ilL/ W W …
+
+## Excerpt 28
+- id: 8e1d95bc5c9f715f21872495
+- qdrant_id: c006a679-a411-5f20-a6c0-3fff39ee3c5f
+- source: Luna Dolezal, Danielle Petherbridge - Body_Self_Other_ The Phenomenology of Social Encounters-SUNY Press (2017).pdf
+- chunk_index: 146
+- importance: 0.8476
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+constituted and can be actively controlled.”82 Phenomenologists insist that this phenomenon of the experience of one, common world, a world that tran- scends forever each of our perspectives and yet it given through our embodied perspectival apprehension, has never been properly appreciated, never mind properly analyzed, by the very objective sciences that assume the existence of the world. Merleau-Ponty expresses this paradox of being embedded in a world constituted by our senses and at the same time transcending them: We understand then why we see the things themselves, in their places, where they are, according to their being which is indeed more than their being-perceived—and why at the same time we are separated from them by all the thickness [l’épaisseur] of the look and of the body; it is that this distance is not the contrary of this proximity, it is deeply consonant with it, it is synonymous with it. It is that the thickness
+
+## Excerpt 29
+- id: ec6c9abe24b6dc6bdb2e9efd
+- qdrant_id: 71dc84d6-3824-51a0-a344-6a5dccc25b9c
+- source: Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism-Palgrave Macmillan (2023).pdf
+- chunk_index: 395
+- importance: 0.8426
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+implicit within Merleau-Ponty’s thought. In the Visible and the Invisible, he seems to be questioning the privileged place of humans when he claims that “when we speak of the flesh of the visible, we do not mean to do anthropology, to describe a world covered over with all our own projec­ tions, leaving aside what it can be under the human mask” (Merleau-­ Ponty, The Visible and the Invisible 1968, 136). It has been well documented that Merleau-Ponty was unsatisfied with the work in the Phenomenology of Perception and wanted to escape the perspective of human consciousness. As such, the concept of flesh is built on a revers­ ibility that demands an ontological equality among objects. Humans can no longer claim absolute knowledge, or even the right to control or domi­ nate other objects, because we do not stand outside or above non-human objects. For Merleau-Ponty, the reversibility of flesh not only allows for
+
+## Excerpt 30
+- id: 93b9674b157734929073adf0
+- qdrant_id: 9704c038-aee1-579c-92ff-c9e52da46cad
+- source: [Studies in Phenomenology & Existential Philosophy] Alphonso Lingis - Libido_ The French Existential Theories (1985, Indiana University Press) - libgen.li (1).pdf
+- chunk_index: 134
+- importance: 0.8419
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+tion, shimmering of nothingness over the surfaces of a being which, beneath, remains stolidly what it is in itself. For Maurice Merleau-Ponty, phenomenology makes possible a new conception of sense. In explicating it, he will show that the possible sexuality that engenders and answers to sense is our sexuality.
+
+## Excerpt 31
+- id: 937299231ec8360810c43f28
+- qdrant_id: f18d2d81-bdac-53a5-b749-26600a16607b
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 279
+- importance: 0.8395
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+c. Recoiling Flesh and the Genesis of Perception Merleau-Ponty says that the flesh that he conceives as “the coiling over of the visible upon the seeing body, of the tangible upon the touching body,” is “at- tested [my emphasis] in particular when the body sees itself, touches itself seeing and touching the things, such that, simultaneously, as tangible it de- scends among them, as touching it dominates them all and draws this relation- ship and even this double relationship from itself, by dehiscence or fission of its own mass.”40 In another passage he says that there is no fusion between flesh of the world and flesh of myself “because [my emphasis] between my body looked at and my body looking, by body touched and my body touching, there is over- lapping and encroachment, so that we must say that the things pass into us as well as we into the things.”41 Merleau-Ponty says that we can experience and think the difference be-
+
+## Excerpt 32
+- id: c9d6a21bce620add1217988a
+- qdrant_id: 1c0379a5-fcd2-5a9b-8766-4575b70f9f45
+- source: [Speculative realism] Sparrow, Tom - The end of phenomenology _ metaphysics and the new realism (2014, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 83
+- importance: 0.8433
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Merleau-Ponty, the body is situated at the center of the phenom- enological standpoint. Given the embodied character of our expe- rience, our embeddedness in the lifeworld assumes priority over dispassionate theoretical analysis and the quest for an objective perspective or view from nowhere. If practice always comes before theory, the story goes, then the ideal objects of theory cannot be detached from the living, breathing Umwelt that supports the practice of thinking. This priority is again and again underscored by the phenomenologist, often as a way to remind the reader that this is real, tangible life we are talking about, not some docile mental construction or aloof realm of innocuous abstract enti- ties. The phenomenologist is no armchair spectator! From all of this we are meant to infer – are explicitly told on occasion – that there is a world out there that precedes our existence and, espe- cially, our thought. It is much more than a construction; it exceeds
+
+## Excerpt 33
+- id: 2bdb96d17da75e8a6b339e57
+- qdrant_id: 043142af-933e-563e-a562-cd14c43f181a
+- source: Dana Arnold - Art History_ Contemporary Perspectives on Method (Art History Special Issues) (2010) - libgen.li.pdf
+- chunk_index: 166
+- importance: 0.8469
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+its convergences with other methods of art-historical inquiry. T HE P RO B LE MATI C S OF T HE F LES H Phenomenology is often associated with the notion of embodiment, and this is largely due to the considerable inﬂuence of Maurice Merleau-Ponty’s writings. In the 1960s, that theorist’s Phenomenology of Perception (1945) and The Visible and the Invisible (1959) had a profound impact on artists, critics, and art historians, particularly in the United States. Though since then other theorists of phenom­ enology have come to the foreground of the discipline, his work still poses a number of ethical challenges that are worthwhile considering further.3 Merleau-Ponty initiated a line of questioning on the a priori conditions of perception. He hypothesized that perception is founded on a pre-objective awareness of oneself as interwoven in a network of sense with other people, ob…
+
+## Excerpt 34
+- id: c306874de8a10d1d5a1038e3
+- qdrant_id: 9c4f3da0-ecd1-59f4-8059-9eb468779ebe
+- source: Luna Dolezal, Danielle Petherbridge - Body_Self_Other_ The Phenomenology of Social Encounters-SUNY Press (2017).pdf
+- chunk_index: 135
+- importance: 0.8455
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+182 LANDES young male body. This is the critique that is oﬀered of Merleau-Ponty by S. Sullivan in “Domination and Dialogue in Merleau-Ponty’s Phenomenology of Perception,” Hypatia 12(1) 1997: 1–19. Kruks quite rightly concludes that for Merleau-Ponty “the body is not . . . a ‘short cut’ to a common ground,” but rather a “source of its possibility” (42, 37), and this is precisely the position being supported in the present paper. Embodiment as existential dimen- sionality creates the possibility of communication and the various levels of violence of intersubjectivity as well. 40. This suggests a harmony with Al-Saji’s notion of a “critical-ethical vision” in the cited essay. 41. Merleau-Ponty, Phenomenology of Perception, 364. 42. Ibid., 367. 43. Ibid., 370. 44. Ibid., 374. 45. Ibid., 377. 46. Ibid., 381. 47. Ibid., 382. 48. See, for instance, Merleau-Ponty, Husserl at the Limits of Phenomenology, 25. 49. M. Merleau-Ponty, “On the Phenomenology of Language,” in Signs,
+
+## Excerpt 35
+- id: 5bbef584d6c751a4c5bf65e4
+- qdrant_id: 8c17d91d-1fda-5417-87d1-dbb0d1ba7ad9
+- source: Nick Crossley - The Social Body_ Habit, Identity and Desire (2001, Sage Publications) - libgen.li-1.pdf
+- chunk_index: 282
+- importance: 0.8408
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+74 The Social Body body is not merely composed of perceptible qualities; it perceives. It is not merely secn but sees; is not merely touchable but touches; cannot simply be heard but hears and so on. Against the physical corpse of Descartes, Merleau-Ponty (19683) juxtaposes animate, sensuous and 'reversible' 'flesh' . The flesh of the human body belongs to the flesh of the world, he argues, we are 'of' the world. But ours is a reversible flesh, not only sen- sible but also sentient or sensuous. In addition, the meanings and purposes to which Merleau-Ponty refers in his critique of behaviourism are embodied too. Cartesian thought indines us to think of 'meanings' in particular as 'ideal' realities, but this is not Merleau-Ponty's view. To speak of perceptual meanings, for him, is to identify the manner in which specific sensuous patterns emerge within our perceptual field whi…
+
+## Excerpt 36
+- id: 8945f79a236841d724bc640d
+- qdrant_id: 944ab550-886e-59c3-ac15-3fa72defa25b
+- source: (Continental Philosophy and the History of Thought) Elodie Boublil - Reframing Twentieth-Century French Philosophy_ The Roots of Desire-Lexington Books (2023).pdf
+- chunk_index: 41
+- importance: 0.8504
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+necessarily tied to the constituting powers of subjectivity. Contemporary attempts to investigate the roots of desire through cosmological and post- metaphysical reflections prove true the fecundity of this revaluation. The last part of the volume (“Desire, Cosmology and Metaphysics”) focuses on three philosophical endeavors that aim to rethink the foundations of phenomenology and French philosophy positively. In Signs, Merleau-Ponty explained: “in the last analysis, phenomenology is neither materialism nor a philosophy of mind. Its proper work is to unveil the pre-theoretical layer on which both of these idealizations find their relative justification and are gone
+
+## Excerpt 37
+- id: 4977e3b10101559e036d1ea7
+- qdrant_id: ccd30044-a959-5ca3-b1a1-2c06722799fd
+- source: Regis Debray - Media Manifestos_ On the Technological Transmission of Cultural Forms-Verso (1996).pdf
+- chunk_index: 436
+- importance: 0.8461
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+1 34 M E D IA M A N I F E S T O S Merleau-Ponty deployed so well (particularly in his "Eye and Mind" " ). In other words, reconstructing the succession of regimes of vision is not to be confused with an inquiry into the pre-pred­ icative origin of seeing. Such inquiries seek to get inside the texture of Being, to delineate the miracle of sensed sentience, the enigma of the human body and its experience of the world. There will be found here no search for a latent layer of meaning, other­ wise beclouded, beneath a manifest layer of the visible. No illusion to denounce, no orthodoxy to dismantle in short, noth­ ing to demystify. Instead of the depth approach of the phenomenologist, we have preferred (modestly, I think) to analyze differentially the modalities of "seeing" by approaching the prac­ tices of visual figuration historically, in an entirely external way. To go back u…
+
+## Excerpt 38
+- id: 76bcbf0a86f32886687bbfeb
+- qdrant_id: 513dfd84-1f33-5a5c-9fcf-e4d7646dae3c
+- source: Samuel Todes - Body and World (2001, The MIT Press) - libgen.li.pdf
+- chunk_index: 86
+- importance: 0.8405
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+of several other related metaphors15—only strengthens our convic- tion that for Merleau-Ponty too esse est percipi. To be sure, through- out the Phenomenology of Perception Merleau-Ponty argues consistently that the perceiving body gains its own unity only through coping with the perceived objects. But (to use the Hegelian terminology Merleau-Ponty so often relies upon) the object is only one indis- pensable term in a relation in which the perceiving body is not simply the other term, but the whole relation as well. If, given the presence of the appropriate bodily set, I cannot think that I perceive a pipe or an ashtray without taking for granted that there really is that perceived pipe or that ashtray (PP, 374), then this may or may not be enough to rule out the threat of my experience being here a perceptual illusion, but this is certainly not enough to show that the perceived reality …
+
+## Excerpt 39
+- id: 370b4418c404c8d735b4e6ad
+- qdrant_id: c238dac2-1453-5efe-bb2c-1194c849d764
+- source: Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 617
+- importance: 0.8474
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh, sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy
+
+mum, in conjunction with the work of Merleau-Ponty and Foucault, they sharpen our awareness of the multiple inter-involvements between affect, MATERIALITIES OF EXPERIENCE 193 memory, and tactility in the organization of perception. You now more readily call into question simple models of vision and better appreciate how a disciplinary society inflects affect-imbued perception. You might even become attracted to experimental strategies to deepen visceral attachment to the complexity of existence itself during a time when the automatic sense ofbelonging to this world is often stretched and disrupted. None of the above responses is automatic. An opportunity merely opens. Pursuing it requires moving back and forth between per- ceptual experimentation and reflection on changes in the larger circum- stances oflife that enter into affect-imbued judgments and perceptions. As a preliminary to the…
+
+## Excerpt 40
+- id: 1ea42fac9abd5e4a221d0d89
+- qdrant_id: c55ec3ad-da7b-5b1c-94a7-64fa630e05fa
+- source: Robyn Ferrell - Genres of Philosophy-Ashgate Publishing (2002).pdf
+- chunk_index: 586
+- importance: 0.8431
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+of our contact with this object and this spectacle, insofar as they made our gaze and virtually our touch, our ears, our feeling of risk or of destiny or of freedom vibrate.' Children's art and modern art have this in common: 'It is a question of leaving a testimony and not any more of providing information.' The critique Merleau-Ponty provides of two-dimensional perspective, and the argument he offers against taking an objective view of perception, follow a similar intuition. They both suggest that the relation between mind and body is one which is preceded by a layer of experience to which it gives rise; and to which we can have access only if we are prepared to suspend our cultural and intellectual beings long enough to contemplate how they are formed: . . . the philosopher describes sensations and their substratum as one might describe the fauna of a distant land - without being aware that he himself perceives, that he is the
+
+## Excerpt 41
+- id: 5cda9e499ecd4d466196811a
+- qdrant_id: 8dcbfafc-2d62-56b5-8a8c-86e138375795
+- source: Bermúdez, José Luis - The bodily self_ selected essays on self-consciousness (2018, The MIT Press) - libgen.li.pdf
+- chunk_index: 51
+- importance: 0.8389
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Introduction 15 our general perceptual experience of the world (and of ourselves) so that it is not always easy to identify which elements in our multimodal experience of the world are contributed by bodily awareness. Both the significance of bodily awareness and the importance of studying it in an empirically informed and multidisciplinary way were rec­ ognized in the phenomenological tradition long before philosophers in the analytic tradition started to take notice. Maurice Merleau-Ponty’s The Phenomenology of Perception, originally published in French in 1945 but not translated into English for another two decades (Merleau-Ponty 1962), is undoubtedly the most important work here. Chapter 5, “The Phenomenol­ ogy of Bodily Awareness,” first published in a volume entitled Phenomenol­ ogy and the Cognitive Sciences edited by Daviod Woodruff Smith and Amie L. Thomasson, is framed…
+
+## Excerpt 42
+- id: 4e9ae20badee51c5df9e0eb9
+- qdrant_id: 3b265ce6-6008-5cd2-804d-b8bd17377b2b
+- source: Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism-Palgrave Macmillan (2023).pdf
+- chunk_index: 83
+- importance: 0.8446
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+agencies of observation. The line between subject and object is not fixed and it does not preexist particular practices of their engagement, but neither is it arbitrary. Rather, object and subject emerge through and as part of the spe­ cific nature of the material practices that are enacted. (Barad 2007, 158–159) Again, for Barad the insights of physics lead to the disruption of the sub­ ject and object as preexisting relations. It is only in the contact between the person and the cane that each is constituted. This echoes a similar point made by Merleau-Ponty in the Phenomenology of Perception. Here Merleau-Ponty describes the blind man’s cane as becoming a part of the body’s engagement with the world through what he calls habit, where “[h]abit expresses our power of dilating our being-in-the-world, or chang­ ing our existence by appropriating fresh instruments” (Merleau-Ponty, Perception 1962, 166). While Barad’s is an explicitly ontological point,
+
+## Excerpt 43
+- id: f171f9f7bdd97c2f1cc29cfa
+- qdrant_id: d64ccde3-efb9-5620-9c89-860fcf2c75f1
+- source: Richard Kearney (editor)_ Brian Treanor (editor) - Carnal Hermeneutics-Fordham University Press (2015).pdf
+- chunk_index: 36
+- importance: 0.8391
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+mot Moran explains how Merleau-Ponty reinterprets and transforms the account of “double sensation” (Doppelempﬁ ndung) discussed by Husserl (and other contributors to this volume). Husserl claims that double sensa- tion is characteristic only of touch, and that this indicates a certain prior- ity of touch over the other senses in the composition of the living organic body (Leib). However, Merleau-Ponty argues that the reversibility of sensa- tion is characteristic of all ﬁ ve senses, and that it preﬁ gures and founds the reﬂ exivity of thought. Moreover, this intertwining—which goes by various terms in Merleau-Ponty’s work: the chiasm, interlacing, or inversion of the
+
+## Excerpt 44
+- id: 04978506516fe67492101183
+- qdrant_id: 4aa15377-e168-58bb-8a53-f5162b54614c
+- source: Paul Gilbert_ Kathleen Lennon - The World, the Flesh and the Subject_ Continental Themes in Philosophy of Mind and Body-Edinburgh University Press (2005).pdf
+- chunk_index: 81
+- importance: 0.8351
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+the character of experience 21 features involve a degree of autonomy on the part of the body; it gets on with things, so to speak, without being consciously controlled (though at any time it can be). Sensitivity to Colours Merleau-Ponty draws upon the autonomy of the body in discussing the sensory experiences involved in fully conscious perception. One way to view Merleau-Ponty’s discussion is as addressing the question we noted in the first section of this chapter as exercising analytic philosophies: do sensations have so-called phenomenal or sensational content as well as having intentional objects? We saw at the outset that Merleau-Ponty rejects ‘pure sensation’ as an illusion and with it, we may add, the whole notion of content in terms of which the question is posed. But how, then, does he account for what it is like to have the experiences we do, particularly when we seem to be regarding them as things to savour, so
+
+## Excerpt 45
+- id: 061a469d051659d3a418f48f
+- qdrant_id: 7833e12f-cfb7-5791-83ab-4acb3e5b15a9
+- source: Susan Hayward - Cinema studies the key concepts (2018, Routledge) - libgen.li.pdf
+- chunk_index: 131
+- importance: 0.8452
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+discussing the relationship between cinema, perception and the body. Thus, some theorists have turned to the phenomenology (the philoso- phy of experience) of Merleau-Ponty and investigated its relevance to ﬁlm spectatorship and ﬁlm practice. As Frampton explains (2006: 40), in terms of spectatorship, ﬁlm ‘shows us the expression of mind in the world’; it allows us a strange, distanced possession of the world. But, in terms of ﬁlm practice, cinema also owns the objects and characters that it manifests in its images. Thus, the experience in cinema is double: ‘the ﬁlmgoer’s experience of the ﬁlm, and the ﬁlm’s experience of its characters and objects’ (Frampton, 2006: 41). According to this approach, ﬁlm is a mechanistic assemblage that brings itself into being (as if a body, a textual body) and in so doing allows for social meaning (a body-text that has meaning and can be read). In its be…
+
+## Excerpt 46
+- id: 7358b4db0dfd66c5896ca48c
+- qdrant_id: 30c427e4-cbe3-5486-abb6-9d835483fa72
+- source: Paul Gilbert_ Kathleen Lennon - The World, the Flesh and the Subject_ Continental Themes in Philosophy of Mind and Body-Edinburgh University Press (2005).pdf
+- chunk_index: 55
+- importance: 0.8306
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+body that those concerns come to light and by it that they are pursued. ‘Consciousness is “I can”’ It is to Maurice Merleau-Ponty’s Phenomenology of Perception that one turns for the development of Heidegger’s comments on the body, for ‘the theory of the body is’, he announces, ‘already a theory of perception’.35 The starting point of Merleau-Ponty’s defence of this claim is a rejection of the idea of sensation as the building blocks of our knowledge of things analogous to Heidegger’s and Sartre’s repudiation of it. Being able to have visual experiences conceived in terms of seeing patches of colour presupposes having experiences of things in the world, from which they are abstracted, so that, when I suddenly make out a ship with masts against the trees beyond, I only see the shapes in the light of this perception, which has a quite distinct subjective character, as we may call it, from what went before. ‘Pure sensation’, he says, ‘is
+
+## Excerpt 47
+- id: 0dc34046956f76d6c287a489
+- qdrant_id: 09ed1bed-a985-5540-91b4-3ebb988910e1
+- source: Luna Dolezal, Danielle Petherbridge - Body_Self_Other_ The Phenomenology of Social Encounters-SUNY Press (2017).pdf
+- chunk_index: 94
+- importance: 0.8406
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+future. This sense of belonging is located not in a table of shared values and social meanings that I reﬂect upon or that I use to identify with or recognize in others. Rather, this familiarity is located in my body as an atmosphere that informs how I perceive the world as I live through it. Merleau-Ponty’s ontology of the ﬂesh is at once an account of how we are conditioned by circulating ideas (including ideas of race, gender, ability, age, and so on) and also an account of how those meanings we come to embody inﬂuence our per- ception of the world and of others. Qualities (color, age, texture, etc.) that I perceive do not, for Merleau-Ponty, adhere to the object of perception; nor are qualities mental ideas that I project onto the world. Red, for example is a “punctuation in the ﬁeld of red things” actualized in the intertwining of body and world through the impact of “cultured being” on incarnated ideas drawn
+
+## Excerpt 48
+- id: 234e3e44268f4d99d89e5db9
+- qdrant_id: d2927c33-560d-5424-b4ea-a6102f5465c1
+- source: Tim Stevens_Leonard Johnson Project._Johnson, Leonard_Stevens, T - Thinking About Love_ Essays in Contemporary Continental Philosophy (2015, Made available through hoopla, Penn State University Press) - libgen. (1).pdf
+- chunk_index: 136
+- importance: 0.8375
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+in 1940 theorized that there is a continuous field of energy between ob- jects and human perception (SB 33). Although this idea was experimentally proven untenable, Merleau-Ponty’s emphasis on the idea of relationship between organism and milieu continues to be effective. He asks, what if consciousness is not simply a mostly passive milieu that receives its orga- nization from outside through the action of material, sociological, or physi- ological causality? If this is the case, it appears that certain structures are, in some manner, prefigured in consciousness—otherwise, any objects associ- ated with them would be mere sensations disengaged from human meaning (TSB 169). Language would be merely sound; use-objects would be merely sensory phenomena; other people would be curiously integrated motions, gestures, and sounds but nothing more. This implies that the sensible exis- tence…
+
+## Excerpt 49
+- id: 74bc6f08e502bde952f34668
+- qdrant_id: 05145b44-74af-5b5e-b4a2-c0fdc4df7532
+- source: Samuel Todes - Body and World (2001, The MIT Press) - libgen.li.pdf
+- chunk_index: 26
+- importance: 0.8357
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+on the work of Maurice Merleau-Ponty. Merleau-Ponty claims that, in perceiving things, I sense that they could be more clearly perceived and my body is drawn to get a firmer grip on them: My body is geared to the world when my perception offers me a spectacle as varied and as clearly articulated as possible, and when my motor intentions, as they unfold, receive from the world the responses they anticipate. This maximum distinctness in perception and action defines a perceptual ground, a basis of my life, a general milieu for the coexist- ence of my body and the world.2 In Todes’s terms, our perception of the things around us is a response to our dissatisfaction with our lostness in the world. We
+
+## Excerpt 50
+- id: 21d716eac14050c21c7f1ab8
+- qdrant_id: 7969ac5a-1d67-5244-bb92-94d285ff175c
+- source: Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 640
+- importance: 0.8378
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+experience by means ofmultimedia that exceed the ready reach ofintellectual self-consciousness. He draws us, then, into political territory mapped by Foucault and Deleuze. 19 Ibid., 189. 20 So16 and Goodwin, Signs ofLife, 142-43. 21 In fact, Henri Bergson is better than Merleau-Ponty at focusing attention on the role that the imperative to make perceptual judgments rapidly as one runs through the numerous encounters of everyday life plays in creating the sub- tracti~ns and simplifications ofoperational perception. It is beyond the scope of thIS essay to explore the comparative advantages and weaknesses of each perspective. But if I were to do so, the above limitation in Merleau-Ponty would be balanced against his reflective appreciation ofthe numerous sensory "inter-involvements" that mal,e perception possible. The starting pOint to engage Bergson on these issues isMatter andMemory. 22 M…
+
+## Excerpt 51
+- id: 9de8bac6e97f8034383d5bcc
+- qdrant_id: fcf20fb3-cb16-5a41-bae2-4a2b6e60fbdb
+- source: [SUNY series in Contemporary Continental Philosophy] Emmanuel Alloa (editor), Frank Chouraqui (editor), Rajiv Kaushik - Merleau-Ponty and Contemporary Philosophy (2019, State University of New York Press) - libgen..pdf
+- chunk_index: 35
+- importance: 0.8322
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Merleau-Ponty’s accounts of how experiences come about, both in terms of how things come into view and how correlatively subjects come into being. Merleau-Ponty’s arguably most widely known conceptual invention is arguably “the flesh” (la chair), which has generated many critical dis- cussions in contemporary philosophy. As Renaud Barbaras argues in “The Three Senses of Flesh,” Merleau-Ponty’s own ambiguity concerning the meaning of “flesh” has led to two opposing interpretations. The first one reads la chair as a faithful retranslation of the Husserlian idea of Leib as the experiential body, but then we find ourselves with the strange concept of a “flesh of the world”: the reversible structure of embodiment (my own body is both sentient and sensed) cannot be extended to the world at large without turning the world itself into a sentient being (some aspects of this hypothesis…
+
+## Excerpt 52
+- id: 311cb8159446d93f3a96ccab
+- qdrant_id: e34d480c-b364-567d-a818-260f29ac09ca
+- source: [Perspectives in Continental Philosophy] Richard Kearney - Poetics of Imagining_ Modern and Post-modern (1998, Fordham University Press) - libgen.li.pdf
+- chunk_index: 299
+- importance: 0.8311
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+his dualist and phenomenological approaches, and that accordingly phe- nomenology was greally prejudiced: 'A philosophy of ambiguity', introduc- tion to). Merleau-Ponty's Structure of Behaviour (Boston, Mass.: Beacon, 1963 ), trans. A Fischer from origmal La Structure du comportement (Paris: Presses Universitaires de France, 1949), pp. v-xv. Merleau-Ponty himself and Bachelard express a similar view: see chapters below. But it is E. Kaelin in his 'Phenomenology in Same's theory of Images', Existentialist Aesthetic, p. 46, who offers the neatest formulation of this critique: For Sanre, consciousness is pure spontaneity. In what sense therefore, can an object affect a consciousness in perception? Sartre claims that it does not. But if thi~ is so, what IS the relation between consciousness and object in an act of perception? The statement which constitutes the phenomenological axi…
+
+## Excerpt 53
+- id: 5021dd06d236ba93f8927cf5
+- qdrant_id: 3a93d976-afba-5fee-9534-aa326717bbc8
+- source: Carnal Thoughts Embodiment and Moving Image Culture (Vivian Sobchack, Univ of California Pr) (Z-Library).pdf
+- chunk_index: 15
+- importance: 0.8308
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+ena of our experience cannot be reduced to ﬁxed essences; rather, in exis- tence they have provisional forms and structures and themes and thus are always open to new and other possibilities for both being and meaning. Thus, Maurice Merleau-Ponty, the philosopher whose focus on embodiment transformed transcendental (or constitutive) phenomenology into existen- tial phenomenology, tells us that “the greatest lesson of the [phenomeno- logical] reduction is the impossibility of a complete reduction.”2 Instead of seeking essences, then, a phenomenological approach seeks, in a given case, the meaning of experience as it is embodied and lived in context—meaning and value emerging in the synthesis of the experience’s subjective and objective aspects.3
+
+## Excerpt 54
+- id: 7c67ec76a849ca2e1c5c6ddb
+- qdrant_id: 80f7d8b7-cc3a-5b7a-aa77-7349bf384da7
+- source: Paul Gilbert_ Kathleen Lennon - The World, the Flesh and the Subject_ Continental Themes in Philosophy of Mind and Body (2005, Edinburgh University Press) [10.1515_9781474468473] - libgen.li.pdf
+- chunk_index: 91
+- importance: 0.8353
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+that matters, not the visual sensations and so forth which they produce. We are concerned with those, he suggests, only when things go wrong, or when we take a break from active engagement with the world. Their subjective character in these circumstances is, therefore, no indication of what experience is like for us in other situations. Merleau-Ponty develops Heidegger’s account by viewing our existence in the world as primarily ‘pre-objective’, that is, as that of embodied agents manipulating things unreflectively, rather than that of subjects set over against the objects of our experience. Intentionality is in the first place, therefore, the ‘motor intentionality’ of my body acting, as it were, autonomously upon objects. It is motor intentionality which gives us, literally as well as metaphorically, a grasp on objects, so that they are perceived as complete things, even though they project only a two- dimensional image on our retinas. Here, as elsewhere, Merleau-Ponty
+
+## Excerpt 55
+- id: 7c32b1ac5127878852d33b73
+- qdrant_id: 9f9dc962-e725-5640-ad10-b5c26671c437
+- source: [Reference] Stefan Herbrechter, Ivan Callus, Manuela Rossini, Marija Grech, - Palgrave Handbook Of Critical Posthumanism (2022, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 274
+- importance: 0.8283
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+processual ontologization of “Flesh.” For Merleau-Ponty, there is a distinctiveness to human existence, but situated within a relational, ecological continuum. Humans are like other reversible (self-)sentient and responsive bodies, who are irreducibly 740 C. A. Howard and W. M. Ku¨pers
+
+## Excerpt 56
+- id: 41c9ef258af92b444695b1cb
+- qdrant_id: 22114e84-e6b4-5c58-b118-91fadb0f01ac
+- source: [Warwick Studies in European Philosophy] Cathryn Vasseleu - Textures of Light_ Vision and Touch in Irigaray, Levinas and Merleau Ponty (1998, Routledge) - libgen.li.pdf
+- chunk_index: 171
+- importance: 0.8320
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+51 Vision in the flesh The body of the Cartesian subject is experienced by introspection or the capacity to reflect on one’s feelings, desires and perceptions. By way of contrast, Merleau-Ponty turns the contents of consciousness outwards, into a consciousness of one’s body that is experienced as a postural schema or the perception of a bodily orientation in relationship to the world. Similarly, the perception of others and the sharing of perceptual experience is possible, not because the bodies of others are recognisable as projections of one’s own body, but because they have a perceivable comportment and intentionality as relationships that are translatable between bodies. As the schema within which the subject can be articulated in the world, the experience of embodiment becomes the horizon of possibility for all intersubjective and objective relations. The bodies of others are not ob…
+
+## Excerpt 57
+- id: c162e0ca3b33cc0d4178367a
+- qdrant_id: 363105b8-a99f-58ba-94de-bb003794b2f2
+- source: Paul Gilbert_ Kathleen Lennon - The World, the Flesh and the Subject_ Continental Themes in Philosophy of Mind and Body-Edinburgh University Press (2005).pdf
+- chunk_index: 164
+- importance: 0.8306
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+can possibly point to something beyond itself in giving us reasons for action continues to preoccupy philosophers, like McDowell. Yet the later Merleau-Ponty, Lyotard and Levinas have already confronted it and offered a number of fruitful suggestions on how to resolve it. The later Merleau-Ponty develops a notion of the ‘flesh’ as the common element between the subject and object of experience, drawing upon the fact that it is through the body that things act upon us, so that our bodies can be both subject and object, as when we touch ourselves. We can, perhaps, reinterpret this suggestion in terms of an appeal to the body as a causal mechanism whose operation can nonetheless provide us with reasons, rather than merely stimuli, because we each feel the effects of things on the body in the same way, and, consequently, as making our reactions intelligible. Thus what may seem from an observer’s standpoint purely causal, a shared subjective viewpoint can
+
+## Excerpt 58
+- id: c23a122783294fc1e5691dd0
+- qdrant_id: 4b881154-0139-5220-98fb-f7938bf1e1a7
+- source: [Blackwell Readings in Continental Philosophy] Donn Welton (editor) - The Body_ Classic and Contemporary Readings (1999, Wiley-Blackwell) - libgen.li.pdf
+- chunk_index: 139
+- importance: 0.8368
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+sides without which it would have no depth or solidity. In a sequence of musical notes I grasp a structure, an idea which resides in these sounds while never quite being reducible to them: once again there is identity-in-difference. This ideality of perception can emigrate “into another less heavy, more transparent body” (p. 153), that of language. Yet even this “purified” ideality remains of the flesh. Language is itself embodied through the signifier. And while supplementing the sense of the perceptual world, words are always dependent upon it, drawing their meaning from an ideality which “already streams forth along the articulations of the aesthesiological body, along the contours of the sensible things... ” (p. 152). This is but a brief description of Merleau-Ponty’s richly textured notion of flesh, left uncompleted at his death. Yet it will suffice for the point I wish to
+
+## Excerpt 59
+- id: 4e5ed4cb22398970ba144fa9
+- qdrant_id: 9e11b841-be88-55e0-99f2-e79af407b571
+- source: Luce Irigaray - The Mediation of Touch-Palgrave Macmillan (2024).pdf
+- chunk_index: 62
+- importance: 0.8415
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+tion of their potential, notably thanks to desire, especially a sexuate desire. The inter-bodies relation of intersubjectivity, to which Merleau-Ponty alludes, seems to be the result of an artificial elaboration, of a coding extraneous to life itself. Its invisibility is not a real one; it bears witness to a lack of connection between the real and the coding. Hence our body is torn between two truths: that of life that it incar­ nates and that of sociocultural encodings. Two languages correspond to these two truths: one wants difference and the other sameness. The first is appropriate to the relation between living beings, beginning with two
+
+## Excerpt 60
+- id: f0413b1fa79c83db621344cc
+- qdrant_id: 6a40baae-0d44-54cf-a2e7-de18bc8dff2f
+- source: Postmodernism and continental philosophy -- Silverman, Hugh J; Welton, Donn -- 1988 -- Albany_ State University of New York Press -- 9780585092362 -- fd2ba93a3fb1e529b172d62233f79e40 -- Anna’s Archive.pdf
+- chunk_index: 20
+- importance: 0.8298
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+shape. Experience was not just projectively free, unconstrained, and unbounded as Sartre had been proposing. With Merleau-Ponty, it was clear that experience is embodied, lived, and imbued with significa¬ tion. It was not until after Merleau-Ponty produced his first major work - the Phenomenology of Perception (1945) - that he realized how important a theory of language was for his account of the lived body.
+
+## Excerpt 61
+- id: 05b0312be2d7c9c193582660
+- qdrant_id: f479bf45-2ee7-5208-a41d-8f6eb41ff629
+- source: [Studies in Phenomenology & Existential Philosophy] Alphonso Lingis - Libido_ The French Existential Theories (1985, Indiana University Press) - libgen.li.pdf
+- chunk_index: 135
+- importance: 0.8314
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+2. Sense and Non-sense in Sexuality Sartre had seen an affective force behind the objectification of our bodies; Maurice Merleau-Ponty used phenomenology to explore the metaphysical preconceptions behind the privilege that empiricist physiology and psychology had bestowed on the objective image of the body. And to reveal another body- the "lived body." Like Sartre, Merleau-Ponty distinguishes between our body as object and our body as agent. But for him the distinction is not between the way my body appears to others and the way it appears to me. For Sartre my own body is for me but an unper- ceived, unmanipulated, and unfelt locus about which the spectacle of attracting and repelling implements spreads. Mer- leau-Ponty, appealing to Goldstein's and Schilder's work,' shows one's experience of one's own body to be structured. The volume of the body's space has an inner postural axis, a dynamic figure which turns to and answers to correlates in the
+
+## Excerpt 62
+- id: a8e3e6534a1fec7c1d7c0444
+- qdrant_id: 18999273-4810-5aa5-a195-4eefa90c3682
+- source: Robert C. Solomon - Existentialism (2005, Oxford University Press) - libgen.li.pdf
+- chunk_index: 146
+- importance: 0.8270
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Maurice Merleau-Ponty ( 1908- 1961) FRENCH ♦ Merleau-Ponty has too often been viewed in the shadow of Sartre, as the younger classmate, as the “other” founder of Les Temps Modernes, as the “other” French existential phenomenol- ogist and Marxist. In his phenomenological work, Merleau- Ponty far surpasses Sartre in his knowledge and development of Husserl’s theory of perception. His early Structure of Behavior is an important attempt to argue against the pervasive Cartesian model of man as consciousness + machine-body. His important Phenomenology o f Perception is the most ambitious attempt to correct certain persistent problems in Husserl’s theory of per­ ception. It begins with Husserl’s basic techniques of phenome­ nology, provides an insightful account of the role of “sensation” in phenomenology and psychology, then quickly moves to Husserl’s later works, adding a thorough …
+
+## Excerpt 63
+- id: e9fb84aa7cf1d36b05ac4091
+- qdrant_id: 48549a26-b249-59ab-9a5a-bf528b059693
+- source: Nick Crossley - The Social Body_ Habit, Identity and Desire (2001, Sage Publications) - libgen.li-1.pdf
+- chunk_index: 296
+- importance: 0.8347
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+mentioned circularity of perception and action turns once more. The football example not only provides a good illustration of Merleau- Ponty's view on the relationship between perception and action, but also provides an important illustration of his view of the relationship of human agents to the social world. In The Phenomenology of Perception, for example, he argues that: It is as false to place ourselves in SOCiety as an Object amongst objects, as it is 10 place society in ourselves as an object of thought, and in both cases Ihe mistake lies in treating the social as an object. We must return to the social with which we are in contact by the mere fact of existing. and which we carry about insep- arably with us before any objectification. (Merleau-Ponty 1962: 362) This is exactly what we see in the football example. The game is not a con- tainer external to the players, in whi…
+
+## Excerpt 64
+- id: b52f9bd9e38edbff49af9fb5
+- qdrant_id: 47f3249a-ab2a-510d-8c0b-a27a7b8bf2da
+- source: [Blackwell Readings in Continental Philosophy] Donn Welton (editor) - The Body_ Classic and Contemporary Readings (1999, Wiley-Blackwell) - libgen.li.pdf
+- chunk_index: 45
+- importance: 0.8274
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+8 INTRODUCTION 11 Maurice Merleau-Ponty, Phenomenologie de la perception (Paris: GaUimard, 1945); Phenomenology of Perception, trans. by Colin Smith (London: Routledge and Keegan Paul, 1962). 12 Maurice Merleau-Ponty, Le Visible et I’invisible (Paris: GaUimard, 1964); The Visible and the Invisible, trans. by Alphonso Lingis (Evanston, lU.: Northwestern University Press, 1964). PARTI PHENOMENOLOGICAL FORMULATIONS
+
+## Excerpt 65
+- id: 916d2f253e329350f0a98a41
+- qdrant_id: d874964f-1683-535f-891b-b754aa14cbd7
+- source: Dorothea E. Olkowski - Deleuze, Bergson, Merleau-Ponty_ The Logic and Pragmatics of Creation, Affective Life, and Perception (2021, Indiana University Press) - libgen.li.pdf
+- chunk_index: 439
+- importance: 0.8377
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+118 Deleuze, Bergson, Merleau-Ponty sensation, arises at the very limit of the lived body.101 This claim presents us with a distinction and with a comparison, possibly inviting us to choose between two conceptions of the body: that of phenomenology and that of a logic of sen- sation. It is a choice between a lived body and an almost unlivable one. But on what basis can we possibly choose? Is one obviously true and the other false? Is one saddled to an untenable worldview while the other pushes us forward into brave new worlds of life and thought? Does one inhabit a space of oppression or conformity and the other a space of freedom or endless originality? Perhaps we cannot answer these questions, or perhaps we need to ask different kinds of questions. Let us think about this a bit more. In Deleuze’s account, phenomenology set out to give us perceptions and affections that awaken …
+
+## Excerpt 66
+- id: f686d45980da3f41cd6238c0
+- qdrant_id: 6f35baf2-996f-5b9c-935c-f4de1a5f03e2
+- source: [Perspectives in Continental Philosophy] Irving Goh (editor) - Jean-Luc Nancy among the Philosophers (2023, Fordham University Press) - libgen.li.pdf
+- chunk_index: 136
+- importance: 0.8341
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+own work), particularly the one according to which Derrida would be a semantic reductionist. 21. See Merleau-­Ponty, “An Unpublished Text,” in Primacy of Perception, 11. See Bernard Waldenfels, “The Paradox of Expression,” in Chiasms: Merleau-­ Ponty’s Notion of Flesh, ed. Fred Evans and Len Lawlor (Albany: State University of New York Press, 2000), 93–94. 22. Merleau-­Ponty, Phenomenology of Perception, trans. Donald A. Landes (New York: Routledge, 2012), 146. 23. See among ­others: “Consciousness is being ­toward the ­thing through the intermediary of the body” (Merleau-­Ponty, Phenomenology, 140). 24. Merleau-­Ponty, Phenomenology, 222. 25. The inadequacy of the passive/active dichotomy is not ­limited to perception. It is also apparent in cases of habitual actions, which are not understandable ­either in terms of passive, mechanistic reflexes, or in terms of willful intentional actions. Habitual actions rely on bodily knowledge and
+
+## Excerpt 67
+- id: a44634544c48213ce899fbff
+- qdrant_id: dce8f10d-69c5-54bc-af85-499a839d7743
+- source: Dana Arnold (ed.) - Art History_ Contemporary Perspectives on Method (2010, Wiley-Blackwell) [10.1002_9781444324716] - libgen.li.pdf
+- chunk_index: 219
+- importance: 0.8359
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+means to identify the parameters within which the interrogation of the artwork takes place. Merleau-Ponty’s understanding of the ﬂesh is not conﬁned to the rela- tionship between oneself and an other, or oneself and the world, but rather is socially charged insofar as it includes the communication of language as well as the expression of the body. The issue at stake in a phenomenological account of art is therefore how the totalizing bond of the ﬂesh might be the site at which new possibilities of interpretation, beyond individual investments, are born. How does phenomenology reinvigorate a truly interrogative mode, in the sense Irigaray intends, as a questioning of the other/object that recognizes its fundamental alterity? In her reading of Merleau-Ponty, Judith Butler notes that despite the solipsistic orientation of the senses, there are signiﬁcant ways in which Merleau-Ponty shows ho…
+
+## Excerpt 68
+- id: c34acea70e9126590b1048c7
+- qdrant_id: abb94395-154c-502a-876e-7a8e56ba2bcf
+- source: Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism (2023, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 48
+- importance: 0.8280
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+4 Merleau-Ponty and an Ontological Wonder In contrast to Heidegger’s ontological wonder that demands a new begin­ ning for thinking, I will argue for an ontological wonder that moves beyond the necessity of human involvement at all. To do this, I will employ the phenomenological and ontological insights of Merleau-Ponty as a theoretical framework. In this section, I will provide a brief justification for employing Merleau-Ponty’s philosophy. In a widely cited text, M.C. Dillon argues that Merleau-Ponty offers two major theses in the Phenomenology of Perception: an epistemological thesis of the primacy of perception and an ontological thesis of the pri­ macy of phenomena (Dillon 1997, 51). Both theses are grounded in the world of pre-reflective bodily engagement. For Merleau-Ponty, the body and the world are not two separate entities that meet at some given time, but the body as body-subject is always-already in the world. In the
+
+## Excerpt 69
+- id: e05e8a06c6daf90d38149d10
+- qdrant_id: ae6ddc5d-d9c9-52de-87fb-81dec8f3a0bb
+- source: Dana Arnold (ed.) - Art History_ Contemporary Perspectives on Method (2010, Wiley-Blackwell) [10.1002_9781444324716] - libgen.li.pdf
+- chunk_index: 172
+- importance: 0.8357
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+sides of embodied perception. Moreover, Merleau-Ponty extends this model of reversibility to the relationship between the senses of vision and touch, postu- lating that the latent tangibility of the world is the condition of its visibility. Vision is founded on pre-cognitive touching, gesture and movement, and thus the look behaves like a hand that ‘envelops, palpates and espouses visible things’. For this reason, the term ‘embodiment’, as it appears in the history of post- minimalist sculpture, and more recently in that of installation and virtual art, is understood to refer to the spectator’s state of quasi-immersion in the artwork. A phenomenological interpretation often assumes that the viewer is not merely physically located in relation to the artwork, but is actually incorporated by it, and formulated as a viewing subject through this corporeal relation. But even this description d…
+
+## Excerpt 70
+- id: e53b54d111e2aa8292fe78ac
+- qdrant_id: 6d078d14-3ee8-560a-9efd-cf6242f662d0
+- source: Abject Pleasures in the Cinematic The Beautiful, Sexual Arousal, and Laughter (Aaron Kerner) (Z-Library).pdf
+- chunk_index: 44
+- importance: 0.8374
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+situates the image, the visual field, as “closely related to the superficial and ungrounded, the sensual and trivial, and is opposed to the abstract truths of linguistic reason. In this model of the image, Plato lays the foundations for an iconoclasm that grounds much modern image theory.” The affective experience is painted with a similar brush, as it bypasses the organ of reason and goes straight to the nervous system.16 Some though have questioned our Platonic inheritance. Contrary to the Platonic, the sensible is not an inferior form of knowledge Emmanuel Levinas argues, “Sensibility is enjoyment.” We come to understand the external world (including the cinematic experience) not only through cog- nitive processes, but through our senses. Maurice Merleau-Ponty insists that our physical bodies are integral to our perception of the world. “In short, my body is not merely one o…
+
+## Excerpt 71
+- id: 7e9e9f68bcfd51b4b1a52a3c
+- qdrant_id: 323fc9bb-7c79-5ee1-b439-77f18fb71a2e
+- source: [Perspectives in Continental Philosophy] Richard Kearney - Poetics of Imagining_ Modern and Post-modern (1998, Fordham University Press) - libgen.li.pdf
+- chunk_index: 436
+- importance: 0.8331
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+of intersubjective existence - our being with others in the world Essences are the implicit structures of primordial expression to be disclosed dialectically by means of a secondary form of expression, that is, eidetic refleaion.4o It would appear, in the final analysis, that Merleau-Ponty's thinking here is influenced by both Hegel's pre- dilection for dialectical aujbebung and Heidegger's theory of the hermeneutic circle. Merleau-Ponty brings imagination back to life by demonstrating that imagination never left real life in the first place. Imagination is not opposed to our everyday lived experience. Even the most ordinary instance of perception re lies on imagination. Moreover, since the invisible essence of any object can never be exhausted in a single perspectival perception, its totality can only be anticipated by means 127
+
+## Excerpt 72
+- id: b5d83e61ef0ed3a009c8e291
+- qdrant_id: 154237ce-8870-5e66-811e-6a6bf960059d
+- source: Vicki Kirby - Quantum Anthropologies_ Life at Large-Duke University Press (2011).pdf
+- chunk_index: 464
+- importance: 0.8330
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+what holds itself back from the good and the creative. And yet, Merleau- Ponty will find a way to ameliorate even this agonistic face-off about how we should move forward. Importantly for this discussion, he also figures perception through the feminine, as is evident in his quite specific use of the term “invagination” to describe how the flesh of the world folds back upon itself in an interrogative reflex. For Merleau-Ponty then, the world perceives itself by opening itself to the experience of its own difference— the energies, torsions, contrasts, and tensions of its noncoincidence. In its very directness, the intention of this global embrace (invagination) is to seize the essential fullness of Being in all its expressions. And in its desire for carnal knowledge it follows that “the flesh” is unashamedly lacking in reserve: the wantonness of its desire is so diverse, so perv…
+
+## Excerpt 73
+- id: 133f74e6c13252f2a84e6118
+- qdrant_id: d532d020-116b-51e1-80f0-183b16d0b09f
+- source: (Wellek Library Lectures) Elizabeth Grosz - Chaos, Territory, Art_ Deleuze and the Framing of the Earth-Columbia University Press (2008).pdf
+- chunk_index: 77
+- importance: 0.8338
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+and sensations of the lived body—the merging and undecidability of subject and object, seer and seen in a common flesh as suggested by Straus (1963) and later elaborated by Merleau-Ponty (1968), but about transforming the lived body into an unlivable power, an unleashed force that transforms the body along with the world. Deleuze's response to phenomenological readings of the lived body as the site for art production is highly critical, although it is clear that he owes a debt not so much to Merleau-Ponty as to Uexkull (as we shall see in further detail in the next chapter, a phenomenolo- gist or semiotician not of the conscious human subject but rather of the animal), and his understanding of nature as the patterned counterpointing of phenomenologically selected environments: the spider carries within its web a complex picture of the prey it is to capture—its web is a map of and a counterpoint to the fly.
+
+## Excerpt 74
+- id: 5c564d4f534d9e1425ac2727
+- qdrant_id: f8b3fd62-d31e-54be-b441-587f35bb753b
+- source: Dorothea E. Olkowski - Deleuze, Bergson, Merleau-Ponty_ The Logic and Pragmatics of Creation, Affective Life, and Perception (2021, Indiana University Press) - libgen.li.pdf
+- chunk_index: 372
+- importance: 0.8282
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+101 Reflection In an address given to the Société française de philosophie shortly after the publication of Phenomenology of Perception, Maurice Merleau-Ponty maintains that we can think the world only because we have first experienced it, a posi- tion he attributes to Immanuel Kant.1 This unexpected attribution to Kant, whose a priori faculties of imagination, understanding, and reason might seem to preclude the primacy of perception, provides an opportunity to rethink Merleau-Ponty’s account of perception in order to understand in what sense he aligns himself with Kant. Very quickly, Merleau-Ponty elaborates on his position. Our perceptions, taken only as sensations, are private, ours alone, but if we take them as acts of the intellect, they are changed. He states that “if perception is an inspection of the mind, and the perceived object an idea, then you and I are talking ab…
+
+## Excerpt 75
+- id: d75681d8609d2237a97af819
+- qdrant_id: 90be7e57-978a-53a9-b98c-ff5cf8253b52
+- source: Lowell Gallagher - Sodomscapes_ Hospitality in the Flesh (2017, Fordham University Press) [10.1515_9780823275236] - libgen.li (1).pdf
+- chunk_index: 64
+- importance: 0.8323
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+From the Sin of Sodom to the Flesh of Lot’s Wife Maurice Merleau-Ponty’s phenomenology of carnal being offers a touch- stone for my inquiry. Famously, Merleau-Ponty translates Edmund Hus- serl’s notion of the “lived body” (Leib) as the shared “ﬂ esh of the world” (la chair du monde).34 The translation emphasizes the co-implication of the affective registers of touch and sight in an enveloping network of chias- tic exchanges between “the sensing and the sensed.”35 Such intertwin- ing expresses the intercorporeal drama that Merleau-Ponty also calls the “topology of being.”36 For Merleau-Ponty, the topological image es- chews allegiance to a ﬁ xed Archimedean point of sovereign rationality or its attendant scientistic trappings of instrumental objective knowledge. Merleau-Ponty’s topology instead endorses an incarnate rationality that replaces data-driven notions of “concept, idea, mi…
+
+## Excerpt 76
+- id: 8ad68a370e94b905cc1a7088
+- qdrant_id: 434cb434-097e-5f5b-808f-248cc71a8c6e
+- source: Robyn Ferrell - Genres of Philosophy-Ashgate Publishing (2002).pdf
+- chunk_index: 590
+- importance: 0.8254
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+opposing, but Merleau-Ponty finds they make the same error with regard to perception. Either way, the philosopher 'provides himself with a ready-made world' , whereas what makes the question of perception so complex is that perception underlies and underwrites that ready-made appearance. Merleau-Ponty is critical of any view of the matter that relegates the body to something which can always already be distinguished from the mind. As he says: 'The subject of sensation is neither a thinker who takes note of a quality, nor an inert setting which is affected or changed by it, it is a power which is born into, and simultaneously with, a certain existential environment . . . ' (1962, 2 1 1). What does this mean, to speak of 'a power born into, and simultaneously with an existential environment' ? It means a bodily capacity that produces itself in response to, and as characteristic of, a certain way of being (existence). One might describe
+
+## Excerpt 77
+- id: e3dc11686cbb8b3124a472ac
+- qdrant_id: d8d50e0c-a7d9-5392-aed3-6e9075b87d56
+- source: Adam Daniel - Affective Intensities and Evolving Horror Forms_ From Found Footage to Virtual Reality (2022, Edinburgh University Press) [10.1515_9781474456371] - libgen.li (1).pdf
+- chunk_index: 102
+- importance: 0.8346
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+24 Aff ective Intensities and Evolving Horror Forms gradual or sudden transformation of ourselves and our relation to the world around us. He identifi es the origins of this breach in a contracted focus of attention that comes with a phenomenological (not geographical!) closeness of the inten- tional object that seems to press in on us and that we wish to fl ee.64 At the same time, the lived-body is experienced diff erently; we literally feel it foregrounded in a specifi c way.65 Phenomenology, and more specifi cally the existential form of phenomenol- ogy drawn from the work of Maurice Merleau-Ponty, reframes the processes of perception in a manner that requires that we necessarily interrogate the distinction between fi lm-as-object and viewer-as-subject. A phenomenologi- cal framework can off er valuable insight into the experience of spectatorship, because it not only provide…
+
+## Excerpt 78
+- id: 54b304b9dcb162c147ae62e7
+- qdrant_id: cf5fbde4-66c6-53f8-9fd9-68cb15b36dc8
+- source: [SUNY series in Contemporary Continental Philosophy] Emmanuel Alloa (editor), Frank Chouraqui (editor), Rajiv Kaushik - Merleau-Ponty and Contemporary Philosophy (2019, State University of New York Press) - libgen..pdf
+- chunk_index: 106
+- importance: 0.8222
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+contrast to the flesh of the world. There is here something like an attempt at naturalizing the flesh which inevitably leads to a restoration of the point of view of consciousness. Once more, Merleau-Ponty wavers between a cer- tain form of realism and a certain form of idealism: in so doing, he doesn’t overcome their opposition. But this failure shows us a way. One would be foolish to seek an ontol- ogization of chair propre, for this could only lead into some sort of confused phenomenological monism. The best way to truly overcome the philosophy
+
+## Excerpt 79
+- id: 645c09e548bcb0a907f2d96e
+- qdrant_id: f72b08f8-1755-53f8-911a-7630d4aebe9d
+- source: Brian W. Becker_ John Panteleimon Manoussakis_ David M. Goodman - Unconscious Incarnations_ Psychoanalytic and Philosophical Perspectives on the Body (2018, Routledge) - libgen.li.pdf
+- chunk_index: 49
+- importance: 0.8287
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+Introduction 9 that Merleau-Ponty noted a foundational role of flesh for psycho- analysis, writing in his working notes that “the philosophy of Freud is not a philosophy of the body but of the flesh— . . . The Id, the unconscious— and the Ego (correlative) to be understood on the basis of the flesh.”44 Other phenomenologists have picked up on this link as well. Marion writes that “[i]t is unquestionable that an unconscious inhabits me, and keeps me busy-my flesh that arouses itself.”45 Manoussakis has recently furthered the phenomenological connection, writing that the flesh “remains unsaid and unsayable, more intimate to me than my body, yet irreducible to any form of signification or reflection . . . occup[ying] the place of das Ding.”46 This description of the flesh would seem to suggest that it offers a phenomenological analog to the Lacanian real more apt than the imagin…
+
+## Excerpt 80
+- id: b127204037d7c13393d39dd5
+- qdrant_id: a9f2757d-8310-5330-80f1-cdf88b79f33c
+- source: Paul Gilbert_ Kathleen Lennon - The World, the Flesh and the Subject_ Continental Themes in Philosophy of Mind and Body (2005, Edinburgh University Press) [10.1515_9781474468473] - libgen.li.pdf
+- chunk_index: 112
+- importance: 0.8406
+- seed_hits: maurice-merleau-ponty-phenomenology-of-perception-the-flesh
+
+given these movements. What controls the senses is here presented, however, as the things they sense. The autonomy of their operation is not, as seems to be implied in the earlier work of Merleau-Ponty, to be explained in terms of the way it serves our active engagement with a world we constitute in the light of its relevance to our purposes. Rather, although the operation of the senses does indeed do that, it is something more primitive than this engagement. It is what is required for that engagement to be controlled by confrontation with the deliverances of experience, rather than simply by the mysterious fulfilment or frustra- tion of our purposes. How is it, though, that sensory experience can reveal something beyond itself? Merleau-Ponty’s answer is that it can do so only because seen and seer are, as he puts it, introducing a new metaphorical term into his discussion, of the same flesh. The word has connotations of carnality

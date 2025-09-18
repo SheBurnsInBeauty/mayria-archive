@@ -1,0 +1,1213 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "maggie-nelson-bluets-blue-as-methodology",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "3cfa7d216b2f5982c3c7f935",
+      "qdrant_id": "d11cb528-da54-5e6d-a9da-7d03e96f32d8",
+      "text": "as to arouse it” (21). Viewers would do better, she thinks, to attend to the form of the images and their context, not just their content. In exposing what photography fails to do, Sontag suggests what she would like her writing to accomplish. Sontag clearly wants her writing to give access to what is real, transmit knowledge, and create the conditions for compassionate understanding and ethical action. Indeed, the project of many of Sontag’s best known, early essays is to protect reality from the distorting influence of repre- sentation. She wants her ideas to affect and change minds and culture. So at the end of On Photography, she announces, “If there can be a better way for the real world to include the one of images, it will require an ecology not only of real things but of images as well” (180). She calls for a “conservationist” approach to the dissemination of photograph…",
+      "source": "Ann Jurecic - Illness as Narrative (Composition, Literacy, and Culture)-University of Pittsburgh Press (2012).pdf",
+      "chunk_index": 287,
+      "page": null,
+      "seed_hits": [
+        "sontag-against-interpretation-erotic-of-art",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.74325836,
+      "importance": 0.785671055316925,
+      "final_score": 0.7374991178512573
+    },
+    {
+      "id": "40a3b7abe7cfb44dc0c0cf6b",
+      "qdrant_id": "ec6fee20-e82a-5826-9c8e-8f0c06b1a4a8",
+      "text": "I • I M A G E S , N O T S I GNS 141 sought to take seriously the material procedures of manufacturing, projecting and diffusing visual representations because it became apparent that a modification of productive technique brought with it a change in the very nature and status of the product. The ontology of images is answerable to such technique: one simply does not take the same kind of photograph using a photographic plate exposed for two hours during the subject's tedious pose and using a Polaroid camera. And as Dagognet frequently reminds us, for a century technical progress has brushed away from represen­ tational images all those obstacles which iconophobic denigration had for twenty-five centuries declared most philosophically objec­ tionable and insurmountable: silver salt emulsions have given us color photography beyond the shadowy insubstantiality of black and …",
+      "source": "Regis Debray - Media Manifestos_ On the Technological Transmission of Cultural Forms-Verso (1996).pdf",
+      "chunk_index": 460,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.70257086,
+      "importance": 0.7829113602638245,
+      "final_score": 0.702570915222168
+    },
+    {
+      "id": "e90bbfc818871327a439e631",
+      "qdrant_id": "02f7e6f6-a3f3-5f69-b879-73e352dd00d5",
+      "text": "ingly, close kin. ∗∗∗ In this part of the introduction we give a brief tour of what will unfold in this volume. In doing so, we will sketch some of the main issues and themes that will be addressed. There are four main parts, with a number of fascinating essays in each. Part 1 – How Blue is Blue? The Metaphysics of the Blues The essays in this first section examine the basic question of what the blues really is. To say that the question is basic is by no means to imply that the answer is simple or easy. A number of possible characterizations of the blues have been put forward – that a description of the musical form typically found in most blues music is easy enough to produce; that",
+      "source": "Jesse R. Steinberg, Abrol Fairweather (eds.) - Blues - Philosophy for Everyone_ Thinking Deep About Feeling Low (2011, Wiley-Blackwell) [10.1002_9781118153284] - libgen.li.pdf",
+      "chunk_index": 53,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6921303,
+      "importance": 0.7437623143196106,
+      "final_score": 0.6921303868293762
+    },
+    {
+      "id": "1781948d2cfeef29b6fe0617",
+      "qdrant_id": "394f8791-0471-54e4-8e26-222f1b59b414",
+      "text": "Composing Bluets’ in M. Sulak and J. Kolosov (eds), Family Resemblance: An Anthology and Exploration of 8 Hybrid Literary Genres, 141–147, Rose Metal Press, Brookline, MA. Nelson, Maggie 2015b, The Argonauts, Graywolf Press, Minneapolis, MN. Nicholson, Linda J 1990, ‘Introduction’, in L.J. Nicholson (ed.), Feminism/ Postmodernism, 1–16, Routledge, New York and London. Paola Antonetta, Susanne 2015, ‘Blurring the Magisteria; Science as Fact, Science as Metaphor’, in M. Sulak and J. Kolosov (eds), Family Resemblance: An Anthology and Exploration of 8 Hybrid Literary Genres, 15–21, Rose Metal Press, Brookline, MA. Phelan, James [2013] 2014, ‘Narrative Ethics’, in P. Hühn et al. (eds), The Living Handbook of Narratology, University of Hamburg, Hamburg, http://www.lhn.uni- hamburg.de/article/narrative-ethics (retrieved 12 November 2018). Project Gutenberg 2020, ‘Sarraute, Nathalie’, http://self.gutenberg.org/articles/eng/ Nathalie_Sarraute (retrieved 25 May 2020).",
+      "source": "Tasha Haines - Redemptive Hybridism in Post-Postmodern Writing (2023, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 546,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6918112,
+      "importance": 0.7467240691184998,
+      "final_score": 0.6918110847473145
+    },
+    {
+      "id": "32f0150820732ef5cb091424",
+      "qdrant_id": "cc4d65e7-8abe-530f-b9fc-ff2f6a07f177",
+      "text": "1. Communication 21 contexts, these writers all share certain concerns, and I am interested in staging a conversation between them on relatively level terms, rather than bringing theory from a putative outside in order to apply to Nelson’s text. 2. Letters 2.1. The Literary Text as Letter In Bluets (2009), Maggie Nelson describes her love for the final line— “Sincerely, L. Cohen”—of Leonard Cohen’s “Famous Blue Raincoat.” “It makes me feel less alone,” she writes, “in composing almost everything I write as a letter. I would even go so far as to say that I do not know how to compose otherwise.”4 Whereas “The Death of the Author” made Zadie Smith feel lonely, “Famous Blue Raincoat” has the opposite effect on Nelson. The line “Sincerely, L. Cohen”—a kind of signature, a sign of the song’s authoredness—has some kind of communicative or community-forming effect. If “The Death of the…",
+      "source": "Philip Sayers - Authorship’s Wake_ Writing After the Death of the Author (2021, Bloomsbury Academic) [10.5040_9781501367700] - libgen.li.pdf",
+      "chunk_index": 94,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6874378,
+      "importance": 0.7312701940536499,
+      "final_score": 0.6874377727508545
+    },
+    {
+      "id": "1205391e5aaa16dbec9afad3",
+      "qdrant_id": "9f4f276c-41cb-546a-b7e5-d014ec14dcca",
+      "text": "205 determined in accordance with a reader’s own enjoyment of the novel and, indeed, their existing knowledge of relevant topics that support the novel. Meanwhile, Maggie Nelson (2005)—despite her creative approach to retelling a narrative—is relatively explicit in her utilisation of research materials. Though they may be incorporated into the text in somewhat inventive or distinct ways, she still cites supporting books and newspaper articles, alongside which she includes details of her primary research prac­ tices, too—such as her interviews with Phil. In this area, then, Nelson (2005) demonstrates the ways in which practice-based creative research can still clarify, for a reader, the authenticity and accuracy of materials used, which is, I posit, a significant contribution to broader areas of cre­ ative writing study. Significantly, one might conclude here that somehow—either through traditional citations or through the quality of the (creative) writing—",
+      "source": "[Crime Files] Charlotte Barnes - Deconstructing True Crime Literature (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 144,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.68123436,
+      "importance": 0.7276514172554016,
+      "final_score": 0.6812344193458557
+    },
+    {
+      "id": "74c6caac9835e0f7deb3704b",
+      "qdrant_id": "9a053a44-2216-526b-a17f-1d38eb36dcd8",
+      "text": "from the life of the poet as evidenced by their other memoirs Chelsea Girls and Cool for You. Rather the novel, perhaps part fiction, part stylized, shifts focus onto genre as opposed to the potential truth of the content. Nelson is the most institutionally enshrined of the poets, having progressed through a traditional education system to become a Professor. She has released critical books on the New York School and cruelty, and has written two memoirs, The Red Parts and The Argonauts. Nelson began her writing career as a poet and like her precursors has moved into other genres in which she maintains an openness that allows for multiplicity and fluidity. Her critical writing and memoirs demonstrate the fluctuations in Nelson’s work, where flippancy and lightness is situated alongside far darker subject matter, orientating around violence and murder. More flippant, perhaps, is …",
+      "source": "Prudence Bussey-Chamberlain - Queer Troublemakers_ The Poetics of Flippancy (2019, Bloomsbury Academic) [10.5040_9781350079380] - libgen.li.pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6117121,
+      "importance": 0.7295866012573242,
+      "final_score": 0.6774044036865234
+    },
+    {
+      "id": "172275aa4a769b5427b35cfa",
+      "qdrant_id": "439415d9-a41f-51bc-be2a-05e0222fb76a",
+      "text": "ALSO BY MAGGIE NELSON Bluets Women, the New York School, and Other True Abstractions The Red Parts: A Memoir Jane: A Murder Something Bright, Then Holes The Latest Winter Shiner The Art of Cruelty A RECKONING Maggie Nelson W.W. NORTON & COMPANY NEW YORK • LONDON For Annie Dillard, who advises otherwise. Contents STYLES OF IMPRISONMENT THEATERS OF CRUELTY GREAT TO WATCH CAPTIVITY, CATHARSIS EVERYTHING IS NICE THEY’RE ONLY DOLLS THE GOLDEN RULE NOBODY SAID NO THE BRUTALITY OF FACT WHO WE ARE A SITUATION OF MEAT PRECARIOUSNESS INFLICTED FACE RINGS OF ACTION RARER AND BETTER THINGS Acknowledgments Bibliography Index",
+      "source": "The Art of Cruelty A Reckoning (Nelson Maggie) (Z-Library).pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.67501974,
+      "importance": 0.7256391644477844,
+      "final_score": 0.6750199198722839
+    },
+    {
+      "id": "09f846d3f5b9e7051b1b6eaf",
+      "qdrant_id": "efd780fa-c21d-5492-87df-ee686d7c8f1e",
+      "text": "and gender shifting, Nelson is queer and emphasizes trans experience, explicitly addressing the way in which labels and gender categories are mobilized such as to oppress those who inhabit them. Unlike her precursors, Nelson’s queerness is explicitly tied to both social movements and theory. She does draw on not just the material of life, narrating the highly personal story of her falling in love and having a child, but the theory that circulates around such a life. For Nelson, this academic approach bleeds necessarily into the everyday, and so The Argonauts creates a synthesis that actively undoes any hierarchies that might be applied to lived experience versus academic writing. I read Nelson’s flippancy in conjunction with the critical work that she has done on the New York School, in which she makes important distinctions about the types of levity that can be performed by d…",
+      "source": "Prudence Bussey-Chamberlain - Queer Troublemakers_ The Poetics of Flippancy (2019, Bloomsbury Academic) [10.5040_9781350079380] - libgen.li.pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6081526,
+      "importance": 0.7345067858695984,
+      "final_score": 0.6747774481773376
+    },
+    {
+      "id": "13df53548213f82220cbabca",
+      "qdrant_id": "f94be8a2-db31-519b-bfdc-238730acd8a4",
+      "text": "—Patrick Langley, Times Literary Supplement “Nelson . . . breathes life into debates about representations of violence. . . . Recommended.” —K. L. Brintnall, Choice “The book’s strength lies in [Nelson’s] frank, disarming and absolutely personal way of doing theory. Not only does this inevitably draw the reader in but it makes for a good read.” —Eva Aldea, Times Higher Education “Maggie Nelson’s fascinating and supremely intelligent account asks what the point is of cruelty in art, with reference to these contemporary horrors and cultural representations of them.” —Lesley McDowell, Herald (Scotland)",
+      "source": "The Art of Cruelty A Reckoning (Nelson Maggie) (Z-Library).pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6704521,
+      "importance": 0.7242355346679688,
+      "final_score": 0.6704521179199219
+    },
+    {
+      "id": "7dd46e6d9c4a2a70085fd8bd",
+      "qdrant_id": "b64a05d3-76df-5401-8c5d-e85799a73c2d",
+      "text": "much exemplary or representative as it is what I call “coincident.” While Angela Davis’ Blues Legacies and Black Feminism explicitly examines the coincidence of gender, race, and class as it is “expressed” in the music of Ma Rainey, Bessie Smith, and Billie Holiday, it also implicitly begins to draw out the coincidence of gender, race, and class with the discourses and practices which came to con- stitute “the blues.” Thus, I turn to this text as an instance of how the “example” model is transformed into a coincidental or conjectural model of the relation- ships among race, class, gender, and music. I have adopted the term “coinci- dence” to describe the relationships among race, gender, and music because it is a more accurate metaphor than the widely used and critiqued language of inter- sectionality. Neither the “traffic” metaphor nor the “blending” model for inter- sectionality adequately captures the co-incidence (i.e., mutual constitution) of",
+      "source": "Robin James - The Conjectural Body_ Gender, Race, and the Philosophy of Music-Lexington Books (2010).pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6687709,
+      "importance": 0.7322997450828552,
+      "final_score": 0.6687710285186768
+    },
+    {
+      "id": "28cf1f00db4ac5a0014f1afc",
+      "qdrant_id": "b45443b8-3696-5aad-82bd-d366a8a5f984",
+      "text": "ate, and other organizations concerned with governing. He then focuses on meth- ods used to study parties, particularly quantitative approaches that attend to these difﬁculties, addressing methodological issues within various domains as well as the question of party cleavage and realignment that bridges the domains. In each case he outlines the various methods that have been used to study the key questions, presents the strengths and weaknesses of each, and deals with the claims of competing models. Noel concludes with a plea for creativity in exploring new methods and with the assertion that party scholars must be familiar with the wide variety of methods used to study questions across the entire expanse of the ﬁeld. Ainsworth utilizes many interest group classics as well as a wide range of new works to illustrate key methodological concerns for the interest group subﬁeld. In his view methodological advances are helpful when they illuminate puzzles in",
+      "source": "L. Sandy Maisel_Jeffrey M. Berry_ - The Oxford Handbook of American Political Parties and Interest Groups (2011, OUP Premium) - libgen.li.pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6670221,
+      "importance": 0.7278771996498108,
+      "final_score": 0.667022168636322
+    },
+    {
+      "id": "2b39a412733dc13f83e121d4",
+      "qdrant_id": "d55f9dd6-531d-5800-935d-60149370c4dc",
+      "text": "detailed in its disposition of colour, including infinitely varied shades of blue, blue- green, violet-blue, jade, turquoise, cobalt blue, Prussian blue, blue-grey . . . and so on. On one level, the whole point of Monet’s multiple studies of the play of light and colour on the surface of the lily pond is to open up an infinitesimal degree of colouristic particu- larity which the singularity and anonymity of the word blue serves only to close down. For anyone who enters into the presence of the painting, the gap between the richness of its material play and the paucity of the linguistic term is not only glaring, but touches on one of the reasons we have art in the first place. A far more significant question would be the one provoked by the artwork: What does Monet’s painting do to our perception of form, colour, light, and time? What kind of knowledge of the world does Monet’s paint- ing make available to us?",
+      "source": "The Oxford Handbook of Western Music and Philosophy (2020, Oxford University Press, USA) - libgen.li.pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.66586536,
+      "importance": 0.732119083404541,
+      "final_score": 0.665865421295166
+    },
+    {
+      "id": "8efba0f1d5375c36dd6813ca",
+      "qdrant_id": "477b9dd4-3c0f-516b-8237-eda33c12c5b1",
+      "text": "from Tegg, Dean and Munday, Roe, Harrild, J. Ker, and Ann Lemoine. I have (as I hope) sufficiently recognized the existence of the sixpenny “ blue books ”—so called from their 36 pages being roughly stitched into a cover of flimsy blue paper—without attempting exhaustively to apprize their numbers. It should perhaps be pointed out that there will be found some entries under authors’ names in the Index of Authors which have not been duplicated in detail in the body of the Bibliography. The reason for this is that whilst in not a few cases it seemed useful and even necessary to give a complete list of an author’s work it was obviously not required to devote to his every treatise or monograph, which had no connexion with imaginative writing, such additional space and considera­ tion as must have swelled the Bibliography to a second volume without any real profit or advantage. At…",
+      "source": "Montague Summers - A Gothic Bibliography (1940, The Fortune Press) - libgen.li.pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.665856,
+      "importance": 0.7302902936935425,
+      "final_score": 0.665855884552002
+    },
+    {
+      "id": "c06a91a73c85d4c7986c989f",
+      "qdrant_id": "edc81e00-0e09-51a0-8b64-4628c0d99cc4",
+      "text": "methods. Behind this combination stands the “personal biography of the researcher: he or she approaches the world with a set of ideas, a framework (theory, ontology) that specifi es a set of questions (episte- mology, analysis)” (Denzin & Lincoln, 2000, pp. 18–19). In addition, the use of methodologies is infl uenced by social factors, such as the attitudes that prevail in the research collective and among those fi nanc- ing the research. Whether they are predefi ned by a particular Weltanschauung or con- structed by the researcher’s peer group (Sallot, Lyon, Acosta-Alzuru, & Jones, 2003), several scholars have pointed out that our understandings of phenomena are built on certain underlying philosophical assump- tions. Although public relations can be seen as a scientifi c discipline in its own right, with specialized journals, professional and scholarly associations, and a netwo…",
+      "source": "[LEA's communication series] Øyvind Ihlen, Betteke Van Ruler, Magnus Fredriksson - Public Relations and Social Theory_ Key Figures and Concepts (Routledge Communication Series) (2009, Routledge) - libgen.li.pdf",
+      "chunk_index": 19,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6638421,
+      "importance": 0.7245038151741028,
+      "final_score": 0.6638420820236206
+    },
+    {
+      "id": "5aaf14a9c14ea686cea101fd",
+      "qdrant_id": "6f77c1bf-ec6c-5bdc-acca-fbc7597a7f37",
+      "text": "stituting Empiricism: The Project and Legacy of W. V. Quine with Lynn Hank- inson Nelson. Lynn Hankinson Nelson is professor of philosophy at the University of Mis- souri, St. Louis, and visiting professor at the University of Puget Sound. She is the author of Who Knows: From Quine to a Feminist Empiricism (Temple University Press, 1992) and (with Jack Nelson) On Quine (Wadsworth, 1999). She is currently working with Jack Nelson on Reconstituting Empiri- cism: The Project and Legacy of W. V. Quine. Andrea Nye is professor emeritus of philosophy at the University of Wis- consin–Whitewater. She is currently lecturer at the University of Massachu- setts–Boston. Her published books include Words of Power: A Feminist Read- ing of the History of Logic (Routledge, 1990) and, as editor, Philosophy of Language: The Big Questions (Blackwell, 1998), a reader for use in philosophy of language course…",
+      "source": "Rachel Joffe Falmagne (editor), Marjorie Hass (editor) - Representing Reason_ Feminist Theory and Formal Logic (2002, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 168,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6618142,
+      "importance": 0.7224817872047424,
+      "final_score": 0.6618143320083618
+    },
+    {
+      "id": "48f0e3d44de523345fd44a34",
+      "qdrant_id": "06815f2b-1bb8-53ad-ac49-c2625a10a3f5",
+      "text": "A partial reprise Let me take a step back at this point, and indulge in a moment of reiteration and re-contextualization. It should be clear by now that the notion of co(a)gency serves what we might call an ‘(a)methodological’ purpose. I mean this in the broad sense (see Chapter 1) of allowing us to ‘perform’ the world in a particular way, that is, to narrate everyday life anew. It is a rough and ready tool for excavating usually unnoticed connections that constitute patterns that might suggest unforeseen orderings and disorderings. Co(a)gents are, as I have noted above, reiﬁcations, objectifications. This strategy runs counter to what I called above the ‘will to deconstruction’ that seems to prevail in some academic quarters, and in which there is a concern to focus not upon entities, but upon relations (e.g. Callon and Law, 1995), circulations (Latour, 1999a) or prepositions (Serres and Latour, 1995): the project is to dissolve entities into ﬂows, to demonstrate how the product",
+      "source": "[International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf",
+      "chunk_index": 654,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6615605,
+      "importance": 0.7591611742973328,
+      "final_score": 0.6615604758262634
+    },
+    {
+      "id": "5beb5b8fc17f6523d526e60a",
+      "qdrant_id": "8570164e-2fd1-5ab0-8c3f-8fa885e34e4c",
+      "text": "ing, spatial aptitudes, and in certain informational subjects like history, geography, or the sciences in general.'' It remains to be seen whether women, once conscious of their iden- tity and without trying to imitate what has been done until now, could inaugurate a new culture. Our knowledge has been following a path that is not necessarily the only one possible. In the last few years there has been a renewal in the principal disciplines that has led to the follow- ing consideration: not only have the discourses of knowledge been ar- bitrarily chosen, but their object as well. Set theory in mathematics does not constitute progress so much as a change in point of view: the passage from monovalence to polyvalence. And just as in art, the Impressionists' concern with the relative charac- ter of colors in relation to each other is not necessarily preferable to such and such a school of tho…",
+      "source": "Elaine Marks & Isabelle de Courtivron - New French Feminisms_ An Anthology (1981, Schocken Books, New York) - libgen.li (1).pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6611129,
+      "importance": 0.7493064999580383,
+      "final_score": 0.6611128449440002
+    },
+    {
+      "id": "d0ab60835ca1c7b9be977ce2",
+      "qdrant_id": "36ff8074-dc03-5fc0-ad90-4de7a31b7625",
+      "text": "thetic and artistic legitimacy. We find a more explicit statement of this agenda in the introduction to a collection of essays on songs and singing that she co-edited: “the most interesting aesthetic questions about songs apply to non-art songs (hereafter ‘vernacu- lar’ songs)” (Bicknell and Fisher 2013; originally a special issue of the Journal of Aesthetics and Art Criticism). In that volume of twelve essays, ten are focused on popular music, two on art music. I believe that we are at a juncture where more philosophers of art agree with Bicknell than Kivy and Ridley. Collectively, philosophers of music are adopting a methodologi- cal programme that took hold in musicology a generation ago: there is less to be learned in thinking about the “serious” music (and writings) of Milton Babbitt than about a hit song by a popular group such as Earth, Wind, and Fire (McClary 1989, 77–81). However,",
+      "source": "The Oxford Handbook of Western Music and Philosophy (2020, Oxford University Press, USA) - libgen.li.pdf",
+      "chunk_index": 202,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.66046715,
+      "importance": 0.741352379322052,
+      "final_score": 0.660467267036438
+    },
+    {
+      "id": "f6a9739491278e235166a6fa",
+      "qdrant_id": "dc9c26b3-6282-5dea-885c-360e8f77bc34",
+      "text": "finest, most rigorous sense, for she does not simply pursue the tradi- tional object(s) of one discipline merely by using some of the language and practices of another. Rather, she seeks a new object by straining to \"know\" in wholly new ways. What propels her forward in this case is a pained sense that sociology as we have come to know it (and the various other human sciences) cannot tell the true history of the losses occa- sioned by the slavery and racism that have been so enabling for capital- ism. It cannot precisely because its very definition of the social primes us to \"see\" and thus to describe the reality of certain obvious things, thereby blinding us to the ways in which those things are expressly pro- duced and fundamentally enabled by a history of loss and repression. Sociology does not well attend, then, to the living traces, the memories of the lost and the disappeared. And …",
+      "source": "Avery F. Gordon - Ghostly Matters_ Haunting and the Sociological Imagination (2008, University Of Minnesota Press) - libgen.li (3).pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6599031,
+      "importance": 0.7396094799041748,
+      "final_score": 0.6599031686782837
+    },
+    {
+      "id": "67cdb97a4d46027f07db6d9a",
+      "qdrant_id": "e3a2012b-084f-5f03-8144-870888420642",
+      "text": "in this book. In each chapter of Part II, the author discusses various aspects of the narratives before centring her attention on the spatial analysis. The critical strategy of the model works on the idea of taking a binocular view of the Oedipal triangle, denying legitimacy to any single perspective. The author displays great conﬁdence in her model by testing it repeatedly and effectively on different genres and narrative forms. The model generates cross-over vocabulary and grammar that may be utilized to frame coherent readings even of texts not included in the book. The spatial gyno- critic model and close-readings advanced in Part II introduce a way of thinking about texts that does not essentialize and prescribe, enabling and encouraging the reader to be intellectually nomadic. The use of diagrams, rarely found in critical analyses of texts, is ideally suited to spatial analysis. Th…",
+      "source": "Java Singh - Feminist Literary and Cultural Criticism_ An Analytical Approach to Space (2022, Springer) - libgen.li.pdf",
+      "chunk_index": 9,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.65964526,
+      "importance": 0.7627710700035095,
+      "final_score": 0.6596452593803406
+    },
+    {
+      "id": "92d626b28b6bd7bb4539eb8d",
+      "qdrant_id": "2dfe1791-bf42-55cd-976b-6c5200162025",
+      "text": "Are changed upon the blue guitar.” And they said then, “But play you must, A tune beyond us, yet ourselves, A tune upon the blue guitar Of things exactly as they are.” These first few stanzas set out the problematic of the poem. The need to describe the process of change that constitutes things, “Things as they/ Are changed upon the blue guitar.” The role of colors as implacably founded in existence, as a full quality of reality: “The day was green.” And the common- sense, commonplace, but contradictory desire of humans to be both ob- jects and subjects; fixed, defined and self-identical, yet to also be things that grow and change. “But play you must, /A tune beyond us, yet ourselves, / A tune upon the blue guitar/Of things exactly as they are.” The following thirty-two sections of the poem could be read as a consideration of how it is possible to account for both the fixity …",
+      "source": "[Fordham Perspectives in Continental Philosophy] Roland Faber, Jeremy Fackenthal - Theopoetic folds_ philosophizing multifariousness (2013, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 71,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.65898424,
+      "importance": 0.7252281904220581,
+      "final_score": 0.6589843034744263
+    },
+    {
+      "id": "4273b2e81489f576426e361b",
+      "qdrant_id": "5cff05f0-3696-5261-a96d-1d28603ac70a",
+      "text": "Introduction or dancers. I choose the word “deviant” not to brand these women anew, but to suggest the especially ambiguous position of inspired women as both artists and spectators. In discussing my analytical practices, I take my inspiration from French philosopher Mich`ele Le Doeuff, speciﬁcally from the introduc- tion to her work The Philosophical Imaginary (L’imaginaire philoso- phique, 1980). There Le Doeuff lays out some of the methodological propositions that guided her enterprise, stressing that what she offers is a retrospective description, a theorization, if you will, of her practice. She attaches to her propositions a “proviso” that they “do not encap- sulate a method systematically deployed” and argues that her practice has, in fact, produced her propositions more than been guided by them. Designating her assessment as “a concluding appraisal,” Le Doeuff sets for them the t…",
+      "source": "Mary D. Sheriff - Moved by Love_ Inspired Artists and Deviant Women in Eighteenth-Century France-University of Chicago Press (2008).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6586385,
+      "importance": 0.7714360356330872,
+      "final_score": 0.6586383581161499
+    },
+    {
+      "id": "1f93119f85bc19575b6d25d3",
+      "qdrant_id": "d4a333c4-3f97-5857-a9ed-02c8efbb95ca",
+      "text": "spheres: poetry should limit itself to representing temporal action; painting should limit itself to depicting static bodies in space.6 Bluestone entitles chapter 1 of his Novels into Film “The Limits of the Novel and the Limits of the Film,” after Laocoön’s subtitle. In this ﬁeld-founding chapter, he designates the novel as conceptual, linguistic, discursive, symbolic, inspiring mental imagery, with time as its formative principle, and the ﬁlm as perceptual, visual, presentational, literal, given to visual images, with space as its formative principle.7 Like Lessing, Bluestone urges a separation of representational spheres on the basis of these differences: “The ﬁlm and the novel [should] remain separate institutions, each achieving its best results by exploring unique and speciﬁc properties.”8 Bluestone is as widely cited in his interdisciplinary ﬁeld as Lessing has been in his. But while poetry and painting studies regularly debate Lessing’s premises,9 by and large,",
+      "source": "A Companion to Literature and Film (Robert Stam, Alessandra Raengo) (Z-Library).pdf",
+      "chunk_index": 35,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6585563,
+      "importance": 0.7248850464820862,
+      "final_score": 0.658556342124939
+    },
+    {
+      "id": "c2f011f94a1843f03576cdc4",
+      "qdrant_id": "8cff2239-0035-5267-96f5-edfb4ab76ddb",
+      "text": "isfaction are implicitly prioritized, as illustrated by the positive news cov­ erage that one proposed version of a “female Viagra” received for allegedly being able to not only boost sex drive, but also help women lose weight (O’Donoghue, 2014). Give your sweetie a pill, and she will always be (a) horny and (b) skinny. It is, unfortunately, rare for media writers to criti­ cally examine this long-espoused “need” for a female desire-enhancing “little pink pill” that would provide the proper gendered match to the “little blue pill” (Viagra’s pop-culture nickname). Most journalists hold back criticism, lest they appear non-objective. Because of media’s generally tacit endorsement of the medicalization of female desire, critiques have been left to advocates and experts. For example, sex educator Emily Nagoski (2015) questions why the proposed “female Viagra” treats hypoactive sexua…",
+      "source": "Miglena M. Sternadori - Mediated Eros_ Sexual Scripts Within and Across Cultures-Peter Lang (2015).pdf",
+      "chunk_index": 140,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6579881,
+      "importance": 0.7142806649208069,
+      "final_score": 0.6579880714416504
+    },
+    {
+      "id": "1a42685dde0ff4a7afcd3e85",
+      "qdrant_id": "fadc09ce-009c-50d1-81b0-13ba8e0852bf",
+      "text": "way with two divisions, (a) and (b), in bullet-point style. Milner will go on to refer to the data she recorded as ‘facts’, ‘the facts of my own life’, and to her own selection from these as ‘observations’. But beneath or alongside this appearance of scientific method and objectivity, something quite different is also present. The subject of the study is ‘happiness’, and not just happiness in the abstract, or in general, but a personal feeling, ‘what . . . made me happy’; it is about ‘moments’ and ‘daily life’. But while the happiness happenings are short-term or small-scale phenomena, the ‘seven years’ study’, on the other hand, seems to freight the project with history of its own and also with a traditional kind of significance. It suggests a long appren- ticeship, a labour of love or love of the labour; or else perhaps some- thing like a pilgrimage that might eventually be re…",
+      "source": "[The literary agenda] Bowlby, Rachel - Everyday stories _ the literary agenda (2016, Oxford University Press) - libgen.li-1.pdf",
+      "chunk_index": 360,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.65717626,
+      "importance": 0.7381842136383057,
+      "final_score": 0.6571762561798096
+    },
+    {
+      "id": "5cb76bbe326dc6a30c87851b",
+      "qdrant_id": "091c3232-5f7d-5116-9c84-088bcb2bf22f",
+      "text": "ness.’18 This fundamental re-telling of the everyday biographical story – i.e. one which black women from this period and beyond may identify with – sublates or ‘lifts up’ Pheoby so that she grows, changes and has a new sense of dissatisfaction with her lot; the essential point here is that this growth is intersubjective, a shared experience between two women. Baker’s ‘blues geographies’ – a complex mapping of Afro-American literary, artistic and theoretical culture – incessantly interrogates the black aesthetic in critical and creative ways that rarely lose touch with personal, family history. As such, Baker’s synthesis of high theory and the vernacular, which remains focused upon the economic and social conditions of slavery and modern Afro-American history, also provides a pedagogic model for producing readings of indigenous texts, readings that maintain a sensitivity to the everyday conditions of artistic existence and production. In other words, in interrogating",
+      "source": "[Routledge Key Guides] Richard J. Lane - Fifty Key Literary Theorists (Key Guides (2006, Routledge) - libgen.li.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6565308,
+      "importance": 0.7172799706459045,
+      "final_score": 0.6565309762954712
+    },
+    {
+      "id": "605221c43d006e4646d10aa1",
+      "qdrant_id": "ea585fc9-dba3-5d27-a5d4-75bc8e681eb9",
+      "text": "the analytic approach, and attends to thinkers outside the analytic tradition, showing what analytic aesthetics can learn from them. The pace of new work in aesthetics is so brisk that this Companion has grown by almost ﬁfteen percent in four years. This second edition features new chapters on French and German philosophers – Schopenhauer, Schiller, Schelling, Merleau-Ponty and Sartre – who offer useful insights on such topics as imagination, art perception and the moral function of art. Soon after the publication of the ﬁrst edition, the Harvard philosopher Nelson Goodman died. Goodman reinvigorated philosophical aesthetics in the 1970s and his legacy is discussed in Chapter 15. Part II features a new chapter on the ontology of art, a topic on which four major studies have been published since the ﬁrst edition. New chapters on creativity and style reﬂect new-found philosophical interest…",
+      "source": "[Routledge Philosophy Companions] Berys Gaut, Dominic McIver Lopes (editors) - The Routledge Companion to Aesthetics, 2nd Edition (Routledge Philosophy Companions) (2005, Routledge) - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6564075,
+      "importance": 0.7739430069923401,
+      "final_score": 0.6564075350761414
+    },
+    {
+      "id": "dc9aae4282f483ceaa6a2b4c",
+      "qdrant_id": "10ba9532-0517-50e4-afe3-a7559138e82b",
+      "text": "resolutely focused on tracing the paths of the various actants who have gath- ered together to articulate quality child care as a (Latourian) Thing. Her field study reflects Latour’s famous mantra: “describe, write, describe, write” (RS 149). W. Michele Simmons, Kristen Moore, and Patricia Sullivan follow this same advice in their “Tracing Uncertainties: Methodologies of a Door Closer.” Their study of a diverse trio of field sites suggests that Latour does not offer an approach so much as the questions that unsettle approaches. Simmons, Moore, and Sullivan discern ways to remain productively uncertain in their own work. There may be method in Latour, but the most important thing is the madness. Laurie Gries’s “Dingrhetoriks” argues that Latour’s vision of the Thing can push rhetorical studies away from its long-standing orientation toward representation. This movement would be especially fruitful in the study of",
+      "source": "Lynch, Paul(Editor)_Rivers, Nathaniel(Editor)_Spinuzzi, Clay(Con - Thinking with Bruno Latour in Rhetoric and Composition (2015, Southern Illinois University Press) - libgen.li.pdf",
+      "chunk_index": 54,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6551627,
+      "importance": 0.7293321490287781,
+      "final_score": 0.6551628112792969
+    },
+    {
+      "id": "a62c3370a17b68c457c19fbd",
+      "qdrant_id": "cdc11c48-d2a0-5670-8797-d0883e203f75",
+      "text": "44 Gary Kelly, ‘Clara Reeve, Provincial Bluestocking: From the Old Whigs to the Modern Liberal State’, in Nicole Pohl and Betty A. Schellenberg (eds), Reconsidering the Bluestockings (San Merino: Huntington Library, 2002), pp. 105–25. Reassessing the Gothic/Classical Relationship 173",
+      "source": "Angela Wright, Dale Townshend (editors) - The Cambridge History of the Gothic_ Volume 1. Gothic in the Long Eighteenth Century-Cambridge University Press (2020).pdf",
+      "chunk_index": 144,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6549703,
+      "importance": 0.7127678990364075,
+      "final_score": 0.6549703478813171
+    },
+    {
+      "id": "8fec047ace44f25982f6b274",
+      "qdrant_id": "4c54b621-a02e-506b-9185-1730cc59a520",
+      "text": "role in circumscribing this project. This is in part because the analyses that follow are methodologically and thematically driven. They all seek to raise – from different vantage points – systemic questions regarding philosophical methodology and what it is that we do when we purport to engage in contemporary theory. These methodological preoccupa- tions orbit, moreover, around three primary topics, which have been central to my research over the last fifteen or so years: history, politics and aesthetics. Although individual essays tend to focus on one of these issues, they all contribute in various ways to the overall project of developing alternative models for thinking the historical relation- ship between political forces and aesthetic practice. They are thereby preoccupied with one of the fundamental themes of critical theory in the broad sense of the term: what – if any – is the relationship between",
+      "source": "Gabriel Rockhill - Interventions in Contemporary Thought_ History, Politics, Aesthetics (2016, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 82,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6534671,
+      "importance": 0.7419628500938416,
+      "final_score": 0.6534671783447266
+    },
+    {
+      "id": "16cc8651aa32711397c112a6",
+      "qdrant_id": "2e853f9a-fa72-5c7c-aead-bc315ac11f1b",
+      "text": "And in the second place, these discussions will provide us with an intuitive illustration for reasoning that uses many-valued logics. Method and Philosophy in Bergson and Russell As we enter into the critiques Russell levels at Bergson’s conception of motion and change, we will notice that much of this disagreement comes from their taking opposite approaches to philosophical thinking itself.1 Both express a dissatisfaction with how philosophy was conducted up to their times, and both think that philosophical thinking should strive for precision. But they differ on the best methodologies for properly attaining precise conceptions. And, as we will see, this distinction can influence whether we conclude that motion and change are composed ultimately of motions and changes or of fixed positions and states. To clarify the difference between Bergson’s and Russell’s views on philosophi…",
+      "source": "[Bloomsbury Studies In Continental Philosophy] Corry Shores - The Logic Of Gilles Deleuze_ Basic Principles (2021, Bloomsbury Academic_Bloomsbury Publishing) - libgen.li.pdf",
+      "chunk_index": 93,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.65340954,
+      "importance": 0.741909921169281,
+      "final_score": 0.6534096002578735
+    },
+    {
+      "id": "e06e0c03a20e5ad381c44f53",
+      "qdrant_id": "863c4f37-ab65-586e-a559-0a2975629c81",
+      "text": "The retreat from strong methodological claims sometimes leads the contextualists to sug­ gest that their approach is common sense or standard historical practice. This view is re­ ceived enthusiastically by historians indebted to the more Whiggish strand in the so- called Cambridge School. For example, Bryan Young, who followed Burrow and Collini in­ to the program in Intellectual History at the University of Sussex, restates the Whiggish (p. 20) view that philosophical concerns, let alone methodological ones, are a hindrance to the practice of history. Like Forbes, whom he credits as his inspiration, Young describes intellectual history as an art, a way of seeing, and an aesthetic (Young 2002). If Young is merely cautioning us claims about the sufficiency or necessity of any method, then his point is well taken. But there is no reason why a rejection of strong methodological claims…",
+      "source": "The Oxford Handbook of the History of Political Philosophy (George Klosko) (Z-Library).pdf",
+      "chunk_index": 78,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.65204066,
+      "importance": 0.7170082330703735,
+      "final_score": 0.6520408391952515
+    },
+    {
+      "id": "1ea7f17bbc226bf8a6c17dd4",
+      "qdrant_id": "bee9e1b8-e5d9-5870-8b78-2a50e7d6839f",
+      "text": "Barcelona congress, Ladson Hinton, with whom I shared a platform and with whom I entered a fruitful correspondence, Melinda Haas, whose paper The Third in Mahler’s Ninth I found mind and soul expanding, and John Dourley, Jung and the Mystical Anamnesis of the Nothing, were particularly inspiring. My reading has been eclectic, not only in the domains of psychology but in those of art, music, and creative writing. Lyn Cowan’s writing has been a source of inspiration and something to aspire to. Her wry humour and support of my endeavours has been enormously appreciated over the few years that I have known her. (However, she does not reference the void in her Portrait of the Blue Lady, the book’s one lack.) Charles Abbott, a friend in need and deed, has ﬁelded innumer- able phone calls about IT matters with calm good humour, guiding me through some of the intricacies of writing on a computer…",
+      "source": "Paul W. Ashton - From the Brink_ Experiences of the Void from a Depth Psychology Perspective-Karnac Books (2007).pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.65202045,
+      "importance": 0.7179059386253357,
+      "final_score": 0.6520207524299622
+    },
+    {
+      "id": "f8507dfdf16a95bf381fed66",
+      "qdrant_id": "b5faaad0-088e-57c8-b618-d8b8fef0eafa",
+      "text": "Nelson also rejects recent postmodern claims that there is no subject or agent of knowledge. These postmodern arguments set two dilem- mas for feminist epistemology; the first is that either agents or knowl- edge are abstract Cartesian selves or they are “subjects in process” constituted by “the discourses and practices of their culture” and so cannot be the agents of knowledge. This dichotomy is related to a second one about evidence; either there is a foundation of knowledge or there are no standards for judging knowledge claims. Nelson argues that neither dichotomy is exhaustive, and the burden of her essay is to present an alternative view of the agents of knowledge as com- munities and of the evidence underpinning knowledge as communal, historical, and contingent. The discovery of a bit of scientific knowledge, for example, is only possible within a system of theories and practices including meta- physical commitments, methods, and standards of evidence that",
+      "source": "Linda Alcoff, Elizabeth Potter (eds.) - Feminist Epistemologies (1993, Routledge) - libgen.li.pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6517956,
+      "importance": 0.7351428866386414,
+      "final_score": 0.6517956256866455
+    },
+    {
+      "id": "66acc6b722a0e9e53ed56873",
+      "qdrant_id": "faca3fcc-0020-56a9-aeaa-6b453aa87059",
+      "text": "specifically, women working within the various life sciences have begun to contest the validity or relevance of many hypotheses and presumptions within medicine, genetics and biology, and to ask if there are not other ways of proceeding, other methods and assump- tions that could be used, other projects to be funded and developed. Such a position, which is critical of scientific assumptions and methods from a perspective within the sciences, is well represented in this volume by Lesley Rogers who challenges a number of inferences pervasive to sociobiological, genetic and physiological research regarding sexual differences. She is concerned with the ways in which scientific research accords with stereotypical social representations of the two sexes rather than, as is commonly pre- sumed, social images finding their ‘truth’ in independently estab- lished scientific statements. She argues that although we are cate-",
+      "source": "Crossing boundaries_ feminisms and the critique of -- Caine, Barbara; Grosz, E_ A_ (Elizabeth A_); De Lepervanche, -- 1988 -- Sydney ; Boston_ Allen & -- 9780043050040 -- 645a2e5f3c6f24537e4accce4fc66a8f -- Anna’.pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6517695,
+      "importance": 0.773658812046051,
+      "final_score": 0.6517694592475891
+    },
+    {
+      "id": "6010a0c0f98b89d9e7778916",
+      "qdrant_id": "56fc3a7c-eea3-5715-a82b-8cee3853227e",
+      "text": "when he began studying philosophy, both from Russell and the Vienna School. But it is its assumptions – unquestionable in their way – that he starts to interrogate, at first in the informal Blue and Brown Books (1933–35) and then in Philosophical Investigations, all published only after his death. He begins in the Brown Book by setting out the ostensive case for the word ‘slab [Platte]’. He asks whether there is any quality or set of qualities that all slabs have in common, so that we could determine from the possession of these qualities whether the object before us is a slab. Or to put this in more practical terms, we might point out a number of different slabs to someone, say an apprentice on a building site, and they should be able on the basis of the qualities embodied in them to pick up further examples of slabs, at which point we would say that they have properly under…",
+      "source": "Rex Butler - Stanley Cavell and The Arts_ Philosophy and popular culture (2021, Bloomsbury Academic) [10.5040_9781350008540] - libgen.li.pdf",
+      "chunk_index": 73,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6499835,
+      "importance": 0.7182104587554932,
+      "final_score": 0.6499837040901184
+    },
+    {
+      "id": "2cdb5117172dcfa3d91d6b57",
+      "qdrant_id": "59ed56bd-bca3-504c-bbe8-a4b2210331ff",
+      "text": "take on contradictory disguises and are spoken in contrary accents’ (3). Denning’s wide-ranging methodology includes reader reception stud- ies, empirical history, and sociocultural analysis. These valuable methodological contributions and their attendant the- oretical implications make Denning’s book a crucial one. And yet, the powerful tools that illuminate much about the complex mechanisms of mass-produced cultural objects can also obscure their vitality. It is perhaps instructive to examine Denning’s work on nineteenth-century dime novels alongside Catherine Ross Nickerson’s The Web of Iniquity (1998), a study of what she calls ‘domestic detective fiction,’ the middle- brow detective stories written by and often featuring American women in the same period as the dime novels. Nickerson’s work has forced scholars of detective fiction to acknowledge a new body of texts, mostly long out of print until she recovered and analyzed them. Critics such as",
+      "source": "[Crime Files ] Pamela Bedore (auth.) - Dime Novels and the Roots of American Detective Fiction (2013, Palgrave Macmillan) [10.1057_9781137288653] - libgen.li.pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6499655,
+      "importance": 0.7135778069496155,
+      "final_score": 0.6499654054641724
+    },
+    {
+      "id": "b6a5518563b977381e2be303",
+      "qdrant_id": "6af1985a-a19b-55c9-966b-d5c823affd33",
+      "text": "cause she will put them to everyday use. Dee, by contrast, is not im­ mersed in tradition but views it from outside. She relates to her past through modish, secondhand ideas about blackness that she has picked up at college. She turns useful everyday things into works of art and objects of display, wrenching them out of their immediate, lived con­ text. To aestheticize something in this way, Walker's story seems to suggest, is to rob it of its soul. Readings of Walker's story have tended to support this view. Hous­ ton Baker and Charlotte Pierce-Baker, in particular, read Walker's story in starkly antithetical terms. \"The stylish daughter's entire life has been one of 'framed' experience,\" they write; \"she has always sought a fashionable 'aesthetic' distance from southern expediencies.\" They go on to dismiss Dee as a sellout and a fake, her phony Afrocentrism a cre­ ation of West…",
+      "source": "Rita Felski_ - Literature After Feminism_ (2003, The University of Chicago Press) - libgen.li.pdf",
+      "chunk_index": 265,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6495843,
+      "importance": 0.726904571056366,
+      "final_score": 0.6495843529701233
+    },
+    {
+      "id": "94a6315a2030c3bcb54ce7f9",
+      "qdrant_id": "40b42a49-fb07-58ed-8dcc-412835acbc5b",
+      "text": "section of these themes. Using recent and contemporary movies, the essays engage familiar philosophical subdivisions and methods to highlight dif- ferences that considerations of race make to the philosophy of \u0002 lm. The collection generally takes as its starting point Charles W. Mills’s observa- tion that philosophy remains “one of the very ‘whitest’ of the humanities” (1998a, 13)—a point that similarly applies to this relatively new and ex- panding sub\u0002 eld. The essays contained herein focus on the question of how philosophical analysis of \u0002 lm would be transformed if race were formally incorporated into its standard repertory. The collection addresses how dif- ferent philosophical sub\u0002 elds might look when considerations of race have been factored into their methodology and content. For example, the \u0002 rst section illustrates how epistemology is transformed once race and its effe…",
+      "source": "Mary K. Bloodsworth-Lugo (editor), Dan Flory (editor) - Race, Philosophy, and Film (Routledge Studies in Contemporary Philosophy Book 50)-Routledge (2013).pdf",
+      "chunk_index": 24,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64937425,
+      "importance": 0.7471616268157959,
+      "final_score": 0.6493743658065796
+    },
+    {
+      "id": "7d115d41800eb567c6626a95",
+      "qdrant_id": "187761ed-35f2-56df-b244-49f7e8d8d135",
+      "text": "ing dialogue with slogans, rounded characters with stereotypes. Like any newspaper they contain a mixture of serious reportage and more trivial issues, focusing on both large-scale world events and the micronarratives of indi- viduals. This form contributes to a vibrant history of documentary theatre, a style that continues to impact the contemporary theatre scene across the world. Again, this genre searches for a truth. Janelle Reinelt exposes the identity of this truth: ‘The value of a document is predicated on a realist epistemology, but the experience of documentary is dependent on phenom- enological engagement’ (Forsyth and Megson 2009: 7). Certainly a docu- ment (and living newspapers use a range of documents as raw material for performance) can possess an innate sense of the truth and yet the way we read them or watch them or search through them relies on our own construct…",
+      "source": "Claire Warden - Modernist and Avant-Garde Performance_ An Introduction (2015, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 309,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64923805,
+      "importance": 0.7267695069313049,
+      "final_score": 0.6492382287979126
+    },
+    {
+      "id": "e658f7fef9ff4cb201b368c8",
+      "qdrant_id": "4a42bd2e-8a90-590e-97bc-d773c566b137",
+      "text": "ambitions—of Husserl’s descriptive philosophical methodology. The often- quoted and highly evocative vignettes in BN (Pierre in the café, the woman on the date, the hiker who gives in to fatigue) show Sartre taking full advantage of the opportunity to indulge in the detailed and stylish elaboration of Йctional characters and scenarios which, he thought, the phenomenological method provided. And, some years later, when Murdoch came to downgrade her earlier opinion of Sartre, she produced a competing vignette of her own (featuring “M,” a mother, and “D,” her daughter-in-law) to illustrate her criticisms of Sartre (Murdoch 1970). In America it took longer for serious interest in Sartre’s philosophy to become established: with a few exceptions, most philosophical discussion postdated and depended on Barnes’s translation.7 This time lag seems also to have made it more diГcult for Sartre’s ideas to get an unprejudiced hearing: by",
+      "source": "Jean-Paul Sartre - Being and Nothingness (2021, Atria Books) - libgen.li.pdf",
+      "chunk_index": 60,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64845777,
+      "importance": 0.7534843683242798,
+      "final_score": 0.6484576463699341
+    },
+    {
+      "id": "a6b653d42dc91e4b79cbd453",
+      "qdrant_id": "94742f01-aa58-55f7-b294-991caff6aabe",
+      "text": "hyperbole, metaphor, simile, meanwhile Nelson, too, employs techniques such as erasure, ekphrasis, and intertextuality throughout, as a means to integrate other voices into the narrative. Their peers utilise figurative language, and similar techniques, in sup­ port of their narrative delivery as well. It is noteworthy, I propose, that all texts employed creative language use to some degree. Vincent Bugliosi (2015) arguably uses it the least across the works, though there were simi­ les and metaphors present throughout still. Meanwhile, Rule (1989), McNamara (2018), and Capote (2000)—the latter of whom has already been considered—use these styles to varying degrees. Rule (1989) and McNamara (2018) use a noteworthy amount of these techniques; how­ ever, their language use is often to contextualise something rather than to overtly dramatise or overstate a detail, making for a distinctive usage in the wider context of this discussion and, indeed, True Crime writing.",
+      "source": "[Crime Files] Charlotte Barnes - Deconstructing True Crime Literature (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 138,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64844227,
+      "importance": 0.7139394879341125,
+      "final_score": 0.6484423279762268
+    },
+    {
+      "id": "88e1d7b13c68516f4d2fe234",
+      "qdrant_id": "cde9a97b-1a58-57fd-be12-6723e3ecdb07",
+      "text": "similar connotations of controlled violence. Anderson and Höch have both created scrapbooks of material from magazines, newspapers and fine art as part of their working process. They have similarly ambiva- lent responses to such images both celebrating and critiquing them. Lavin suggests that Höch’s photomontages employ ‘pleasure in the aes- thetic aspects of media photographs mixed with an angry critique of certain social stereotypes’ (ibid.: 124). Anderson has a similarly ambiva- lent relationship with her material. Her often expressed obsession with choreographing patterns means she has always been fascinated by the kind of symmetry and unison that Berkeley’s work exemplifies. Her choreographic approach in Yippeee!!!, however, has more in common with Höch’s practice of appropriating and fragmenting imagery. Höch assembles body parts from different sources to construct new ima…",
+      "source": "Valerie A. Briginshaw, Ramsay Burt (auth.) - Writing Dancing Together (2009, Palgrave Macmillan) [10.1057_9780230235335] - libgen.li.pdf",
+      "chunk_index": 128,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.64541316,
+      "importance": 0.7583690881729126,
+      "final_score": 0.6479917764663696
+    },
+    {
+      "id": "62174033a327695f81aa1aa1",
+      "qdrant_id": "0c23eaaa-09e7-5228-8df3-d01f11ca8f19",
+      "text": "entangled in practices of describing, watching, drawing, organizing, manipulating things, and communicating with people or animals. Referring to the work of Karen Barad (2007: 185), anthropologist Tim Ingold argues that we can observe the world because we are of the world. Research thus can be described in terms of practice: “If its method is that of the practitioner, working with materials, its discipUne lies in the observational engagement and perceptual acuity that allow the practitioner to follow what is going on, and in turn to respond to it” (Ingold 2013:4) This approach suggests a turn away from “objective” science that is interested in theoretical models explaining practice— technically applied (by means of not only technical devices, but also social or psychological techniques), these models attempt to govern and control practice. What is the aim of “engaged” observation? This necessarily raises philosophical questions—not on a meta-theoretical",
+      "source": "[Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 96,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6477847,
+      "importance": 0.7473898530006409,
+      "final_score": 0.6477846503257751
+    },
+    {
+      "id": "e752cc609f4de2f8e60ee56d",
+      "qdrant_id": "c222da6e-551d-56aa-919e-52093d21ae79",
+      "text": "given, emphasising the tone, the major character qualities highlighted, and the stance adopted by the biographer towards the biographee. Obviously this method of understanding theory through biograph- ical illustration is far from an evaluation through the hypothetical– deductive method commonly used in psychology. It is more akin to “inference to the best explanation” (IBE) (Haig, 2009). Haig describes this as a method used by both Darwin and Einstein, as “based on the idea that much of what we know about the world, in both science and everyday life, is based on considerations of the explanatory worth of our beliefs . . . IBE takes the relation between theory and evidence to be one of explanation, not logical entailment . . . IBE generally takes theory evaluation to be a predominantly qualitative exercise focussing on explanatory criteria rather than the quantitative assignment of proba…",
+      "source": "Fiona Ross - Perversion_ A Jungian Approach-Karnac Books (2013).pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6477448,
+      "importance": 0.7120071053504944,
+      "final_score": 0.6477448344230652
+    },
+    {
+      "id": "5b3aab981878d9e6f5ea2ff6",
+      "qdrant_id": "b0e3f43f-2374-590a-9840-abb1ce9a2860",
+      "text": "hypotheSiS, or the selective genealogical maps that his work suggests. In taking up each of these themes, this book both draws on Foucault 5. See, for example, John Kelly, Politics of Virtue: Hinduism, Sexuality, and Countereolonial Diseourse in Fiji (Chicago: Chicago UP, 1991); Ronald Hyam, Empire and Sexuality: The British Experience (Manchester: Manchester UP, 1990); Vron Ware, Beyond the Pole: White Women, Racism and History (London: Verso, 1992); Luise White, Comforts of Home: Prostitution in Colonial Nairobi (Chicago: Chicago UP, 1990); and my own work on the sexual politics of Europeans in colonial Southeast Asia, \"Carnal Knowl­ edge and Imperial Power: Gender, Race and Morality in Colonial Asia\" in Micaela di Leonardo, ed., Gender at the Crossroads of Knowledge: Feminist Anthropology in a Postmodern Era (Berkeley: U of Cali­ fornia P, 1991): 51-101, and \"Sexual Affronts an…",
+      "source": "Ann Laura Stoler - Race and the Education of Desire_ Foucault’s History of Sexuality and the Colonial Order of Things-Duke University Press Books (1995).pdf",
+      "chunk_index": 40,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6477362,
+      "importance": 0.744971752166748,
+      "final_score": 0.6477363109588623
+    },
+    {
+      "id": "ab39486c4e6792d7336f9718",
+      "qdrant_id": "eaa1963a-a9fc-58b6-87b6-cec145fe4f5a",
+      "text": "Introduction 9 phenomenology to be as diverse as the worlds it aims to unveil. It would permit the inclusion of Wittgenstein, Ryle, Austin, Cavell, McDowell, and Putnam in the canon of phenomenology, for, after all, each of them bear a “methodological affinity” with Husserl, Heidegger, and Merleau-Ponty. Simon Glendinning argues for this in In the Name of Phenomenology, as does François-David Sebbah and the authors of The New Phenomenology.25 Phenom- enology, Glendinning says, is more about the method (the “how”) than it is about the content (the “what”). It is not a set of doc- trines, it is about paying closer attention to the appearances that present themselves to subjective experience. How is this done? He does not really say. He prefers to keep the definition “skeletal” to avoid drawing too much attention to particular texts.26 Nev- ertheless, he enumerates three possible answers to the question of phenomenology’s content, including: 1) phenomenology is the",
+      "source": "[Speculative realism] Sparrow, Tom - The end of phenomenology _ metaphysics and the new realism (2014, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 67,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6473874,
+      "importance": 0.7845919132232666,
+      "final_score": 0.6473874449729919
+    },
+    {
+      "id": "08a40649c715fe5fb3e1f2a9",
+      "qdrant_id": "58fc8ea2-013d-5a9f-b3fe-bc312631926b",
+      "text": "than indexing a sonic materialism that lies beyond the realm of audition; the way bodies are carried out through resonance. Breillat’s gazing camera thus functions as a microphone held up to the female anatomy as it becomes audible, in line with the scale of the shot as if the camera’s approach were a bringing into earshot. However, a better com- parison for the camera’s behaviour here might be a stethoscope, an instru- ment of listening rather than amplifying, and specifically an instrument for listening that takes place at the surface of the body, bringing sound into focus only alongside the scale and proximity of the close-up. Breillat embraces the role her handling of technology can play in relation to mediating what Arnt Maasø describes as ‘the spatial relationship between speaker and lis- tener’ (2008: 38). Or in this case, body and listener. Noise here is not a figure of interiority but for exteriority, an emitted signal, expressive of this surface",
+      "source": "Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 153,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6471362,
+      "importance": 0.7552703022956848,
+      "final_score": 0.647136390209198
+    },
+    {
+      "id": "4c2251fe0b87635bbb496b43",
+      "qdrant_id": "8564b390-3571-5c88-8b35-cec6f77c8a22",
+      "text": "­known representative of an emergent area of contemporary U.S. culture in which animal studies and disability studies converge. Both disability studies and animal studies are interested in rethinking (from the ground up, as it were) questions of subjectivity, bodily experience, mental life, intersubjectivity, and the ethical and even political changes attendant on reopening those questions in light of new knowledge about the life experiences of nonhuman animals and those who are called (problem- atically, no doubt) the disabled. In Grandin’s case, she insists that her specific condition (a form of autism known as Asperger’s syndrome) enables her to understand more deeply how nonhuman animals such as cows perceive and experience the world, and she has integrated that understanding, she claims, into her designs for animal holding facilities throughout North America. I am interes…",
+      "source": "[Posthumanities 8] Cary Wolfe - What Is Posthumanism_ (2009, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6470575,
+      "importance": 0.7655656933784485,
+      "final_score": 0.6470575332641602
+    },
+    {
+      "id": "5d8c2f0e5a4185fc0951c8ae",
+      "qdrant_id": "78a383b1-9d00-5a42-86a1-d39d002c9a22",
+      "text": "Toni Morrison’s The Bluest Eye 17 It seems as if the aging of the social-construction analysis has made debating its content unnecessary, as if the sheer passage of time has somehow done for us what we could not do for ourselves: moved us beyond a radically skepti- cal position that for years successfully cast any alternatives to its insights as naïve and politically retrograde. (1698) Although she sees that putting down these debates over constructionism and essentialism has enabled new work to occur, she does point to one ‘problem- atic aspect’ of this positioning of these debates in the past: As the repeated declarations of feminism’s death in the mainstream media and the academy make clear, the production of the new as a signal intellec- tual value can be used to dismiss uncomfortable insights, which don’t have to be disproved as long as they can be made to seem passé. Feminis…",
+      "source": "Alice Ridout - Contemporary Women Writers Look Back_ From Irony to Nostalgia (2010, Continuum) [10.5040_9781472542373] - libgen.li.pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64699423,
+      "importance": 0.7212810516357422,
+      "final_score": 0.6469943523406982
+    },
+    {
+      "id": "f1675cf73935fcfe796576fd",
+      "qdrant_id": "59c453ac-2c03-5800-8889-6da82201d5d9",
+      "text": "scape strikes the farmer, the scientist or the photographer in quite different ways (as pasture, as geological stratum or as aesthetic image). What Miinsterberg adds to this familiar Kantian point is an interesting Schopenhauerian twist. The theorist (scientist or scholar) seeks to find the causal networks of which the object is a part, to situate it 26",
+      "source": "Film, theory and philosophy_ the key thinkers -- Colman, Felicity, 1967- -- 2009 -- Durham_ Acumen -- 1844651843 -- a6438d2c7c571e7b20518b3ef8b20295 -- Anna’s Archive.pdf",
+      "chunk_index": 139,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.646418,
+      "importance": 0.7306585311889648,
+      "final_score": 0.6464181542396545
+    },
+    {
+      "id": "394edf9f96f2bdbcb39694b8",
+      "qdrant_id": "179cf802-a32b-5847-a651-65275572c888",
+      "text": "analytic procedures of close reading with the observational practices of post- war microsociology, not only off er queer studies methodological lessons for handling the “partial identifi cations” that take place through “quasi- universal and fl exible categories” but also open up the possibility of forging “crucial al- liances” between disciplines that have for too long seen themselves opposed. Frances Ferguson’s essay takes up questions of communication and agreement as they are made conspicuous (or conspicuously absent) in the so cio log i cal experiment in verbal behavior that was I. A. Richards’s Practical Criticism (the compiled results of Richards’s having asked students to respond to poems with no preparation or even the help of knowing the author’s name). For Ferguson, the value of Richards’s approach is that it steers us away from the sense that “reading literature [invo…",
+      "source": "Jason Potts_ Daniel Stout - Theory aside (2014, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 76,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6463646,
+      "importance": 0.7132542729377747,
+      "final_score": 0.646364688873291
+    },
+    {
+      "id": "32cb3f66d833b23780f4f95d",
+      "qdrant_id": "ba6dafcf-1214-5e30-bf2e-5081746b451d",
+      "text": "versity. Her work has appeared in the Southern Journal of Philosophy, Phi- losophy Today, Hypatia: A Journal of Feminist Philosophy, Trans-Humanities, and philoSOPHIA: A Journal of Continental Feminism. She is editor of a special issue entitled “Luce Irigaray: From Ecology to Elemental Differ- ence” of the Journal of the British Society for Phenomenology and co-editor of a volume forthcoming with Oxford University Press rereading the rela- tionship between the works of Simone de Beauvoir and Luce Irigaray. Tom Sparrow teaches in the department of philosophy at Slippery Rock University. He is the author of The End of Phenomenology (Edinburgh University Press, 2014), Plastic Bodies (Open Humanities Press, 2015), and coeditor of Itinerant Philosophy: On Alphonso Lingis (punctum books, 2014). Richard I. Sugarman is Professor of Religion and Director of the Integrat- ed Humanities Program at the University of Vermont. Professor Sugar-",
+      "source": "Randolph C. Wheeler (editor) - Passion in Philosophy_ Essays in Honor of Alphonso Lingis (2016, Lexington Books) - libgen.li.pdf",
+      "chunk_index": 613,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6457728,
+      "importance": 0.7135393023490906,
+      "final_score": 0.6457728147506714
+    },
+    {
+      "id": "17649f3ec866ea97d7ec0f50",
+      "qdrant_id": "158f3935-4e7a-5fa1-a36e-ba35ee49fc20",
+      "text": "have chronicled their considerable and costly battles with illness, accident and ageing – with Lorde, who among the three is deceased, describing the process of her dying from cancer in moving poetic terms. All three cultivated a personal style as a means of facing up to their human and specific vulnerabilities. And unlike Breillat and Didion, Lorde suffered the further vulnerabilities that come with being a woman of colour and a lesbian in post-war America. Taken together, Breillat, Didion and Lorde help to teach a range of lessons from what I have defined as an existential philosophical perspective. Approached in the right spirit – and again, speaking from my own experience – they refresh and inspire the disciplinary practice. The selection of sources is admittedly far from perfect. It is obviously limited in the extent to which it can guide the reader outside of a Western/ s…",
+      "source": "Matthew R. McLennan - Philosophy and Vulnerability_ Catherine Breillat, Joan Didion and Audre Lorde (2019, Bloomsbury Academic) [10.5040_9781350004108] - libgen.li.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival",
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.7368206,
+      "importance": 0.7800467014312744,
+      "final_score": 0.645541787147522
+    },
+    {
+      "id": "c9ca13a616baf5aaf1351605",
+      "qdrant_id": "a1f7b6fb-4ca5-5957-9a8b-d48eb4dc07e2",
+      "text": "tion? Would studying the evolution of covers across an artistic oeuvre shed new light on the overarching aesthetics of the artist in question? To sum up, what I propose here is that we may profitably consider an album cover as a relational object, as a hermeneutic node in a larger assem- blage that spans the complete discography of the artist, and, for that mat- ter, other components of their visual cache such as music videos, band photographs, and documentaries. In some—or maybe most—cases, the graphic heterogeneity of any given artist may seem bewildering; take, for example, The Rolling Stones or Bob Dylan. In other cases, say, some of the bands associated with the 4AD label (like Cocteau Twins, Pixies), the pictorial design might be quite consistent across albums. But viewing 27 Robert J. Belton, “The Narrative Potential of Album Covers,” Studies in Visual Arts and Communication: An International Journal, 2.2 (2015), http://journalonarts.org/wp-con-",
+      "source": "Asbjørn Skarsvåg Grønstad - Rethinking Art and Visual Culture_ The Poetics of Opacity (2020, Palgrave Macmillan) [10.1007_978-3-030-46176-8] - libgen.li.pdf",
+      "chunk_index": 645,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6454298,
+      "importance": 0.7181758284568787,
+      "final_score": 0.6454300284385681
+    },
+    {
+      "id": "a3c9cc0f8a0357698db0afe1",
+      "qdrant_id": "260b31c3-bfb3-5752-ba60-8e8f011ff3fb",
+      "text": "19 us the chance to induce the activation of qualities we don’t often see. Scientific experimentation does not ever give us direct access to the object as such, but works to demonstrate that objects can fail to actualize their qualities under typical circumstances. For Bryant, this actualization is not causally determined by the qualities of other objects but is an object’s active engagement with other objects. According to Bryant, “if we had an ontologically accurate language, we would instead say that ‘the mug blues’ or that ‘the mug is bluing’ or that ‘the mug does blue.’ The blueness of the mug is not a quality that the mug has but is something that the mug does. It is an activity on the part of the mug” (Bryant 2011, 90). With this active ability to engage and relate to other objects via various qualities, Bryant brings us back to Jane Bennett’s thing-power and Karen Barad’s principle of intra-action. Both Bennett and Barad argue for a",
+      "source": "Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 102,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64541805,
+      "importance": 0.7474085688591003,
+      "final_score": 0.6454180479049683
+    },
+    {
+      "id": "e1ded929c155833f05fa902d",
+      "qdrant_id": "3db6f25f-a59f-53d1-8e18-765824a8642c",
+      "text": "Latour, Bruno, Pandora’s Hope: Essays on the Reality of Science Studies, trans. Catherine Porter, Cambridge, Harvard University Press, 1999. Latour, Bruno and Peter Weibel (eds.), Iconoclash: Beyond the Image Wars in Science, Religion and Art, Cambridge, MIT Press, 2002. Latour, Bruno, Reassembling the Social: An Introduction to Actor-Network-Theory, New York, Oxford University Press, 2005, pp. 106-109.",
+      "source": "[Anamnesis] Levi Bryant, Nick Srnicek, Graham Harman (eds.) - The Speculative Turn_ Continental Materialism and Realism (2011, re.press) - libgen.li.pdf",
+      "chunk_index": 240,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6453912,
+      "importance": 0.7209616303443909,
+      "final_score": 0.6453911066055298
+    },
+    {
+      "id": "5b8b0e181d6bdb01d9f65cc2",
+      "qdrant_id": "3af30e0d-a4fa-5360-8048-04d8ce2140e1",
+      "text": "that it falls within the band of blue. If I say, \"this book is beautiful,\" I ascribe to the objectan objec- tive quality that it doesn't have, since the phrase is in fact only a translation of my subjective feel- ing that it is this book that stirs a feeling of pleasure in me. Now, says Kant, this objective expres- sion that we use, even though it is not absolutely demonstrable, is justified. To have taken seri- ously the claim to objectivity made by the judgment of taste - when in fact it could not be anything but subjective -was inspired simplicity. Simple, that is, in the sense that \"it's easy once you know how.\" He writes, Hence the following antinomy emerges concerning the principle of taste: 1. Thesis: A judgment of taste is not based on concepts, for otherwise one couJd dispute about it (decide by me<;lns of proofs). 2. Antithesis: A judgment of taste is based on concepts, f…",
+      "source": "Joan Copjec (Ed)_ Thierry de Duve_ Alenka Zupančič_ Monique David-Ménard_ Charles Shepherdson_ Robert Groome_ Herman Rapaport - Umbr(a)_ Aesthetics & Sublimation-Center for the Study of Psychoanalysis (1).pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64514625,
+      "importance": 0.7739269733428955,
+      "final_score": 0.6451462507247925
+    },
+    {
+      "id": "b5a8f9669234f0162e85479a",
+      "qdrant_id": "db973e03-2e61-5ee4-bf5a-f43392fd42aa",
+      "text": "making these proposals. The proposals were, for these scholars, contrary to what they thought they knew about women's true nature. Another line of rejection has been to claim that the proposals are undesirable. Not even women would welcome such so-called opportunities. Another technique has been to deflect attention from the issue of gender equality by introducing social-historical and psychoanalytic interpretations of Socrates and Plato. Other scholars, who had thought of themselves as profeminist, would approve of some measure of gender equality but warn that one can go too far with that sort of thing. Bluestone is at her best in examining the views of some Plato commentators who hold that Plato didn't really mean what he said: he did not have much faith in his own argument, or the proposal is paradoxical, or it is amusing, ironic, meant to be a joke. Bluestone, as well as A…",
+      "source": "[Blackwell Companions to Philosophy] Alison M. Jaggar (editor), Iris Marion Young (editor) - A Companion to Feminist Philosophy (1998, Wiley-Blackwell) - libgen.li.pdf",
+      "chunk_index": 100,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6448187,
+      "importance": 0.7195409536361694,
+      "final_score": 0.6448187828063965
+    },
+    {
+      "id": "ba888ea48aafe1dbcdc81148",
+      "qdrant_id": "af265f8f-e3c6-5406-8b45-dfd545886bf0",
+      "text": "essays, by Margaret Freeman and Michael Sinding, address the central ques- tion of how new meaning is created in literature, and significantly broaden the scope of this area's investigations. Freeman explores the ways in which blending theory can better account for the creative imagination, while Sinding brings Mikhail Bakhtin's insights to his analysis of the emergence and com- plexity of the novel. In her article, \"Blending and Beyond: Form and Feeling in Poetic Iconicity;' Freeman deals with the artistic process of blending form with feeling, or felt life (the conscious realization of internaI emotions and ex- ternaI sensations), in order to create poetic meaning. She demonstrates how poetic iconicity works in Emily Dickinson's poetry, whose metaphoric blend creates identity among self, poem, and nature. Freeman advocates a reassess- ment of conceptual blending, stressing that the role of feeling needs not only",
+      "source": "Isabel Jaén_ Julien Jacques Simon - Congnitive Literary Studies_ Current Themes and New Directions (2012, University of Texas Press) - libgen.li.pdf",
+      "chunk_index": 62,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6445315,
+      "importance": 0.7468512058258057,
+      "final_score": 0.6445314288139343
+    },
+    {
+      "id": "6d100e6a17c3f4b5b2fff568",
+      "qdrant_id": "6323095c-4f09-5764-9fe0-b9d91786dc63",
+      "text": "relation, interdependence, and entanglement—concepts better suited, he argues, to the decolonizing of knowledge. Comparative methodol- ogy thus gives way to a relational ontology in which the scholar is always implicated in the objects he or she is analyzing. In their essay, Robert Stam and Ella Shohat undertake to “compare comparisons,” analyzing the ways in which the inhabitants of Brazil, France, and the United States deploy transnational and often-triangulated modes of thinking to characterize national and ethnic identities, com- monalities, and differences. Drawing on a rich archive of examples, they catalogue the role of comparative thinking in numerous contexts: discourses of national exceptionalism; traditions of ethnic and cultural ranking; comparative histories of France, Brazil, and the United States; popular mythologies of national identity; comparative debates abou…",
+      "source": "Felski, Rita_Friedman, Susan Stanford - Comparison_ Theories, Approaches, Uses (2013, Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6444582,
+      "importance": 0.7238311171531677,
+      "final_score": 0.6444582343101501
+    },
+    {
+      "id": "efe8b850371c2d36093c047f",
+      "qdrant_id": "d287c237-ce0e-52b5-af35-7367413ba0cd",
+      "text": "subjective, has been burned away or at least transformed through the medium of art into the representative’ (Fetterley 1978:xi). Her work is primarily a content analysis, that is, she examines various depictions of female characters which it is difficult for females to read easily unless they adopt the position of a male reader. She states: ‘To read the canon of what is currently considered classic American literature is perforce to identify as male’ (ibid.: xii). She suggests, and Elaine Showalter’s work in this area would seem to reinforce her point, that it is standard reading practice for women students at university studying literature to position themselves as male in order to make sense of the text (Showalter 1971).6 Fetterley states: ‘While women obviously cannot rewrite literary works so that they become ours by virtue of reflecting our reality, we can accurately name the realit…",
+      "source": "(Interface) Sara Mills - Feminist Stylistics -Routledge (1995).pdf",
+      "chunk_index": 285,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6444171,
+      "importance": 0.7621838450431824,
+      "final_score": 0.6444172263145447
+    },
+    {
+      "id": "d321050e86979c595381ae49",
+      "qdrant_id": "7e2ef8d9-b864-5db8-8523-ce70b0270a48",
+      "text": "to render explicit the conditions without which the range of problems to be resolved would be feeble, fallacious or already out of date. In practice, this means opening up hypotheses, breaking down interdictions, omissions or ignorance, to make flexible or to overturn objectives which present themselves, at first glance, as ‘evident’. The second seeks to supply concrete localizations for problems considered to be the most important, to map pertinent points of contact, to project concrete hypotheses onto the soil of social life, and, in this way, to construct a geography of the possible. (1973:270) De Certeau’s argument raises with some force the questions that have to be asked before we can envision articulating the questions of ‘who is she and who am I’. ‘Disclosing and critiquing closures’ and ‘creating and rendering precise openings’ are the twinned conditions of possibility …",
+      "source": "Sexing the Self Gendered Positions in Cultural Studies (Elspeth Probyn) (Z-Library).pdf",
+      "chunk_index": 559,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6441965,
+      "importance": 0.7298007011413574,
+      "final_score": 0.6441965103149414
+    },
+    {
+      "id": "26daf94c8638e8bfba7dc48a",
+      "qdrant_id": "dccb614b-ecf5-5ff4-8d5e-1917c3b595fb",
+      "text": "the blues. That is where you can hear it. And that is the movement from the black to the blues. That is the movement from identification with lead, or with being poisoned by lead as the alchemists said, to the expression of loss and regret. One of the old ideas of the blue in Sufi mysticism was that apprentices wore blue. At a certain time, they changed colors. They wore blue in remembrance of what they have lost. Part of the blueing of the psyche is remembering what you have lost; it is nostalgia. That is a melancholic condition. It is not so bitter. Where did it all go? At the moment that you can think, Where did it all go? you have the images of how it once was. You have those images of love. You have those images of beauty. You have those images of poetry. You have those images of people, beloved people, those scenes, those moments. And that is nostalgic and sad, but not the same as …",
+      "source": "On Melancholy & Depression (Uniform Edition of the Writings -- James Hillman -- 2024 -- Spring Publications, Incorporated -- 9780882140438 -- f2946c92ee3987e660d5b0ad9bafb931 -- Anna’s Archive.pdf",
+      "chunk_index": 362,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64381087,
+      "importance": 0.7381801009178162,
+      "final_score": 0.6438109874725342
+    },
+    {
+      "id": "8793846c563b5efa18d8c034",
+      "qdrant_id": "216314d8-739e-54bd-8ab7-c935e1ac1d6e",
+      "text": "this technique—and the resultant first-person speaker (Jane) that arises from it—is something that introduces the book, too. While Nelson’s (2005) voice is introduced through her initial disclaimer, the first poetic speaker we hear is in fact Jane herself through Nelson’s (2005) re-shaping 11 NARRATIVE HYBRIDITY IN TRUE CRIME: IS MAGGIE NELSON…",
+      "source": "[Crime Files] Charlotte Barnes - Deconstructing True Crime Literature (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 132,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6437167,
+      "importance": 0.7013514637947083,
+      "final_score": 0.6437166929244995
+    },
+    {
+      "id": "881230658adc7f8fcc08a7b7",
+      "qdrant_id": "2357810d-097c-5c65-a85e-b12309d121a4",
+      "text": "we need to turn to the philosophy that embodies the metaphor as well as to what it is that connects this metaphor to the topography of an idealized Hellenic landscape. There is a double movement of subject–object relations in play for Hyperion on Acrocorinth. On the one hand, his ability to lose himself in the blue-beyond depends upon a dynamic conception of nature, on a Naturphilosophie that posits natural objects as vibrantly alive and thus with the capacity to respond, embrace, and enfold in ways inert objects never could. We thus find here a dynamic concept of materiality, a living land- scape composed of vital material objects that are not merely the product of our representations but rather vibrantly entwined with human experience (more on this vitalism in the next chapter). On the other hand, we find Hyperion himself struggling to see in a fashion that exceeds material l…",
+      "source": "William S. Davis - Romanticism, Hellenism, and the Philosophy of Nature (2018, Palgrave Macmillan) [10.1007_978-3-319-91292-9] - libgen.li.pdf",
+      "chunk_index": 85,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6435916,
+      "importance": 0.7650945782661438,
+      "final_score": 0.6435917615890503
+    },
+    {
+      "id": "70df4a1a52b036092da8b150",
+      "qdrant_id": "bb81fb8b-0e6f-5c05-8753-7d5c05b4a4cb",
+      "text": "the late 19th and early 20th centuries, migrating by trains to the North in search of jobs, safety, and a less racist environment. Siting the blues within a Derridean framework can be a useful exer- cise in that it provides us with a specifically Afro-American translation of différance, but reading Derrida through the prism of American blues can also be instructive. Translation, after all, works both ways; \"call and response\" can always be reversed, with striking results. It is tempt- ing to think of Derrida as one of Baker's \"freight-hopping hobos,\" and indeed The Post Card, with its recurrent train imagery, encourages us to do so. What happens if we relocate Derrida, sidetrack him if you will, from a Parisian metro car to a Southern railway boxcar, from the European Orient Express to an Afro-American soul train? One of the things which we learn is that Derrida is a master at …",
+      "source": "Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li.pdf",
+      "chunk_index": 331,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64354503,
+      "importance": 0.7638631463050842,
+      "final_score": 0.6435452103614807
+    },
+    {
+      "id": "c22a56c95b4e88b616b66b1f",
+      "qdrant_id": "64ea5f7e-bb56-5960-b2e9-d47384c1a20a",
+      "text": "which, properly understood, is more the precipitating cause: “One cannot wholly resist the impression that Benjamin wanted to provide an ex post facto materialist foundation for a discovery he owed to his commerce with avant- gardiste art, the discovery of the loss of aura” (TAG, 29). Still, in a strong sense Benjamin sets the critical agenda for Bürger’s theory, which is developed through critique: by revealing the degree and limits of validity of Benjamin’s theory of technical reproducibility as an explanation of the interwar crisis of art and aesthetics. Later in the book, Bürger adopts aspects of Benjamin’s theory of allegory to interpret the change in the status of the modern art “work,” its loss of wholeness and the prevalence of “montage” as its formal principle, its con- struction through a juxtaposition of parts without a larger synthetic form being presupposed. Benjamin himself developed his concept of allegory first",
+      "source": "Tyrus Miller - Modernism and the Frankfurt School (2014, Edinburgh University Press) [10.1515_9780748694716] - libgen.li.pdf",
+      "chunk_index": 584,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64319336,
+      "importance": 0.742718517780304,
+      "final_score": 0.6431934237480164
+    },
+    {
+      "id": "8d87eab133e87c66076fc3bb",
+      "qdrant_id": "18df808d-fcfb-54e8-9821-98a5da4797a6",
+      "text": "within the broader context of globalisation. As she notes, ‘there is a need both to capture the distinctions, differentiations and nuances of complex inequalities . . . and to keep the global horizon in sight’ (Walby, 2009: 2–3). In complexity theory she finds the toolbox to analyse these multiple systems as it permits a rethinking of the concept of system. In particular, she argues that when reconceptualised from a complexity perspective, systems – while having boundaries – also intersect with other systems, allowing the possibility of thinking about their mutual influ- ence. These intersections are always far from straightforward (or linear), and forms of inequality interact in ways that can only be understood from a complexity based analysis. Walby’s model permits the analysis of unequal power relations between different systems. Central to this is the concept of fitness landscape, which provides a way of understanding power differentials. Additionally, it allows the",
+      "source": "[Interventions] Erika Cudworth, Stephen Hobden - The Emancipatory Project of Posthumanism (2018, Routledge) - libgen.li.pdf",
+      "chunk_index": 515,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage",
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.67524546,
+      "importance": 0.7375767230987549,
+      "final_score": 0.6420443654060364
+    },
+    {
+      "id": "fa819664915d29032313217f",
+      "qdrant_id": "20a236c5-324a-5296-878d-ece2ce020e11",
+      "text": "immediate expression of the performer’s most intimate thoughts and feelings, or is musical meaning rather the function of the musician’s use and manipulation of conventions? McClary argues that examining the history of the blues “can help academic music study out of a long-standing methodological impasse: I am drawing on blues as a clear example of a genre that succeeds magnificently in balancing convention and expression” (McClary, CW, 34). The blues, according to McClary, is an explicit and “clear example” of an accurate description of the relationship between structure and ideology, expression and convention. This example’s clarity lies in its foregrounding and attenuating the aporetic relation- ship between the material and the social: seemingly effortless and powerfully direct emotional expressions require a high degree of technical mastery. “Con- trary to a popular belief that regards blues as some kind of unmediated expres-",
+      "source": "Robin James - The Conjectural Body_ Gender, Race, and the Philosophy of Music-Lexington Books (2010).pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64167804,
+      "importance": 0.7056697607040405,
+      "final_score": 0.641677975654602
+    },
+    {
+      "id": "34dab1205878a1d888c63ad5",
+      "qdrant_id": "85c4c60a-1097-540c-a0e6-e772ce16a1b1",
+      "text": "Introduction 19 chamber, while his latest wife is a detective-reader, whose reading en- ables her to write her way out of Bluebeard’s deadly plot. The enmity between Bluebeard and his wife consists of a series of entangled writ- ing and reading contests that are embedded within the global plot of ‘Bluebeard’ (5–6, 38–9). Metaﬁ ctionally speaking, one might say that the tale illustrates the strife between a master poet and his successor. In her essays on Charlotte and Emily Brontë (‘Introduction’ and ‘Love’) Carter lauds them for creating heroines whose capacity for passion is unusual. The Brontë sisters struggled to ﬁ nd linguistic and narrative expression for sexuality, gender, and the emotions where no precedent models existed. In spite of professed admiration, Carter neverthe- less sees Charlotte Brontë also as a negative model. Carter thinks that the author was unable to sustain her passionate vision, thanks to Jane",
+      "source": "Heta Pyrhönen - Bluebeard Gothic_ Jane Eyre and its Progeny (2010, University of Toronto Press) [10.3138_9781442686748] - libgen.li.pdf",
+      "chunk_index": 71,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64053077,
+      "importance": 0.7147162556648254,
+      "final_score": 0.6405307054519653
+    },
+    {
+      "id": "29d3522b56f2cc44409d0d5e",
+      "qdrant_id": "fb420015-7c3d-51ef-96e7-0aa5794a484b",
+      "text": "means of the blues or other musical expressions. After suggesting, through recourse to Whitehead and Charles Peirce, that the world expresses itself in a polyphony of voices and must, therefore, be articulated in an equally polyphonic manner, he unfolds an understanding of the blues as such a polyphonic utterance, one that requires human response as response to the other. The “Polyphony” section engages religious worldviews based on plural- ism and multiplicity from a theopoetic perspective. Matthew LoPresti’s chapter explores theopoetics and the question of relativity, critically re- flecting on the role of theopoetics in philosophy. Addressing whether or not theopoetics can be termed a relativistic endeavor and whether or not Whitehead’s particular theopoetic notions make for sound philosophy, Lo- Presti ultimately highlights the ways in which theopoetics sparks imagina- tive …",
+      "source": "[Fordham Perspectives in Continental Philosophy] Roland Faber, Jeremy Fackenthal - Theopoetic folds_ philosophizing multifariousness (2013, Fordham University Press) - libgen.li (1).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6403655,
+      "importance": 0.7103054523468018,
+      "final_score": 0.6403655409812927
+    },
+    {
+      "id": "fa05e6c50c0441994bfd2cb5",
+      "qdrant_id": "5f30b60e-a4e7-5b33-9d63-73119159435e",
+      "text": "sion gives us a closer look at the methodology of crime scene investigation, portrayed in all its clinical detail in CSI. Two essays about key philosophical issues in the methodology and epis- temic status of detection and crime-scene investigation provide invaluable guides. The original CSI is itself investigated in “CSI and the Art of Forensic Detection” by Deborah Knight and George McKnight. Their essay addresses the film-historical roots of, continuities with, and departures from, classic film noir and neo-noir. They argue that the process of reading the evidence is part of a strategy of constructing a convincing explanatory narrative of the motives and actions of suspects. According to Knight and McKnight, “detection works from evidence to narrative explanation by means of good guesswork and the testing of competing hypotheses.” Their essay can be seen as an attempt to give some content to the notion of explanation, and as such",
+      "source": "[The Philosophy of Popular Culture] Steven M. Sanders, Aeon J. Skoble - The Philosophy of TV Noir (The Philosophy of Popular Culture) (2008, The University Press of Kentucky) - libgen.li.pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64027905,
+      "importance": 0.7203682065010071,
+      "final_score": 0.6402791738510132
+    },
+    {
+      "id": "b3359c2bc64c5d36e211d823",
+      "qdrant_id": "9654b04b-a331-507f-959f-e4013b58b1ec",
+      "text": "234 & and later that same year as a small volume on its own. Her purpose was to be of use to other can- cer-sufferers who had been made to feel shame and humiliation, and indeed, this little book gave comfort to many thousands of patients and their families. In keeping with its utilitarian intent, the writing style was lucid and accessible, purged of that teasing, mystifying opacity that had charac- terized her earlier books. In examining the life-work of any writer, it is instructive to consider which themes, positions, or stylistic maneuvers are carried forth from the past, which ones abandoned or reversed—in other words, how the writer builds on infrastruc- tural footfalls he or she knows can be relied on, even as the new challenge is embraced. So, just as in Against Interpretation, Illness as Metaphor advocates a prophylactic stance against one form of rhetoric; as in On Photography, it rummages far and wide through the literature, accumulating",
+      "source": "Phillip Lopate - Notes on Sontag (2009, PrincetonUP) - libgen.li.pdf",
+      "chunk_index": 83,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.632599,
+      "importance": 0.7790488004684448,
+      "final_score": 0.6291322112083435
+    },
+    {
+      "id": "c351622789ce2dc8f21af7fe",
+      "qdrant_id": "c3fdaf64-eca9-53af-98f1-7099dc458e35",
+      "text": "turbed by them. The navigation and technical control of sound waves in early audio-technical discourse reflected colonialist narratives of exploration, domination, and return. Against these narratives and drawing on Irigaray, Rodgers proposes to resituate the subject of sound studies “within the waves.” Rather than voyages of conquest, Rodgers invokes diasporic journeys that transform, as well as inform, the researcher. Informed by Irigaray, Rodgers’s analysis reveals the essential relationality of sound as a materialization of forms of life. Sounds set us in relation to other humans, other species, and other environments. They demand an ethical attentiveness to these rela- tions, rather than a continued investment in domination and control. In her essay, “Luce Irigaray and Anthropological Thought,” Mary Beth Mader notes that Irigaray frequently employs terms from anthropology, while she rarely engages with this literature directly. Mader’s essay addresses this",
+      "source": "[SUNY series in Gender Theory] Mary C. Rawlinson (editor) - Engaging the World_ Thinking after Irigaray (2016, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "michel-serres-the-five-senses-noise-parasite"
+      ],
+      "raw_score": 0.72027206,
+      "importance": 0.7673287987709045,
+      "final_score": 0.6281822919845581
+    },
+    {
+      "id": "1a1ff13f3341cea6709647d2",
+      "qdrant_id": "414d6f87-d4b4-5c9d-aa7c-3f59737ca394",
+      "text": "their thoughts, forcing the reader to reflect on each character's relationship with nature. Shortly after her first appearance in the story, Gladys, the barmaid, is described from Flutie's point of view as having \"watery blue eyes\" (423). Later, she imagines the river as a \"black snake ... nosing south\" (426). To its \"wet blunt snout\" Gladys offers an invitation, \"Here, baby, she murmurs, mov- ing her hips\" (426). Even though just prior to this natural image of the river as snake, Hospital's narration likens a man-made machine to the sweetness of a lover; her placement of the hip-moving sentence makes the powerful coital im- agery connect Gladys and the \"wet blunt snout\" of the river (426). It is nature's force and vitality, not something man-made that charms Gladys. Thus Hospital foreshadows Gladys's readiness to merge with nature and to choose it over all other suitors, in perhaps one of the most radical responses to male dominance a",
+      "source": "Farhat Iftekharrudin, Joseph Boyden, Joseph Longo, Mary Rohrberg - Postmodern Approaches to the Short Story (Contributions to the Study of World Literature) (2003) - libgen.li.pdf",
+      "chunk_index": 290,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6014395,
+      "importance": 0.7509212493896484,
+      "final_score": 0.6172305345535278
+    },
+    {
+      "id": "d729ba349d951059446dca63",
+      "qdrant_id": "215e39a7-9ee9-5dea-8fdb-111c7c0c047d",
+      "text": "115 Finding a Name for Possibility Maggie Nelson’s The Argonauts (2015b) combines the autobiographical with the theoretical, becoming ‘autotheory’, which she discusses with Michael Silverblatt (2015). Named after Barthes’s ship builders and heroic crew and in relation to Nelson’s appropriation of that analogy, The Argonauts is an authorial response to love’s incarnations and specific complexities. Nelson also invokes and interacts with various theoretical points of view throughout. ‘The Argonauts’ references the Greek myth which Roland Barthes discusses in his multi-media autobiography Roland Barthes ([1975] 1994). Barthes employs the anecdote of the ship, the Argo and its ‘Argonauts’ from the Greek myth of Jason and the Argonauts: a crew of heroes who sailed on the ship named Argo4 in pursuit of the ‘Golden Fleece’ (the taking of which would bring utmost authority and grandeur). Barthes uses the image as an illustration of the idea that",
+      "source": "Tasha Haines - Redemptive Hybridism in Post-Postmodern Writing (2023, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 392,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.670788,
+      "importance": 0.7284063100814819,
+      "final_score": 0.616837739944458
+    },
+    {
+      "id": "ed560668c742669f6dff6ed0",
+      "qdrant_id": "058a5d13-a734-51d9-a4e1-add4a97f4adc",
+      "text": "Contents How to use this book vii Frontispiece xi Foreword xiii Acknowledgements xvii 1 John Berger, Ways of Seeing 1 2 John Szarkowski, The Photographer’s Eye and Stephen Shore, The Nature of Photographs 15 3 Susan Sontag, On Photography 30 4 Roland Barthes, Camera Lucida 76 5 Martha Rosler, In, Around and Afterthoughts (On Documentary Photography) 113 6 Abigail Solomon-Godeau, Inside/Out 125 7 Clive Scott, The Spoken Image: Photography and Language 133 v 8 Andy Grundberg, The Crisis of the Real 149 9 Raghubir Singh, River of Colour 159 10 Bertrand Russell, Appearance and Reality 169 11 Italo Calvino, The Adventures of a Photographer 172 12 Poems by Felix Morisseau-Leroy and George Szirtes 187 13 Robert Adams’, John Baldessari’s and Peter Godwin’s Analysis of Particular Photographs 193 Figures 199 Bibliography 222 Appendixes 226 Glossary 236 Index 248 Contents vi",
+      "source": "Grange, Ashley la - Basic Critical Theory for Photographers-Routledge (2005).pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.73557144,
+      "importance": 0.7768654227256775,
+      "final_score": 0.616199791431427
+    },
+    {
+      "id": "a12f6ce3591e3870ee6b3a02",
+      "qdrant_id": "0b35a796-abb7-55e8-beb9-8d5b92c38ab6",
+      "text": "New York to study poetry directly under Myles. This has ultimately resulted in a close friendship between the two poets, with Nelson serving as the executor of Myles’ literary estate. In a 2016 interview with The New York Times, Myles says, ‘I’ve known Maggie Nelson for 20 years. That’s totally what the poetry world is, is those kind of relationships’ (Correal 2016). This seems to suggest that the poetry world of Nelson and Myles is not that dissimilar to the groups of artists and writers with whom Stein and O’Hara interacted. As my previous paragraph demonstrates, Nelson has critical investments in the New York School that range beyond her creative practice. Investigating the poetics, style and postures of the New York School, Nelson traces influence as far back as Stein, before turning to O’Hara, ultimately considering Mayer, Notley and Myles. She tracks a lineage of ‘not ca…",
+      "source": "Prudence Bussey-Chamberlain - Queer Troublemakers_ The Poetics of Flippancy (2019, Bloomsbury Academic) [10.5040_9781350079380] - libgen.li.pdf",
+      "chunk_index": 24,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6169098,
+      "importance": 0.7261271476745605,
+      "final_score": 0.5746762156486511
+    }
+  ]
+}

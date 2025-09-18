@@ -1,0 +1,1211 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "catherine-malabou-plasticity-the-new-wounded",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "9d7759eac99a73b63eff9267",
+      "qdrant_id": "13f36bb4-e34d-5be6-b4d2-cfd2b1eb916c",
+      "text": "in her writing and its variable inflections in different domains. The concept itself has been extensively glossed or commented upon in the burgeoning scholarship and critical-philosophical engagement with Malabou’s thought, and is, as has been indicated, ceaselessly elaborated and re-elaborated throughout her work.1 Defined, initially at least, as being ‘at once capable of receiving and of giving form’ (Malabou 2005: 8), the ‘plastic’ here is not just concerned with the emergence and dissolution of forms, either biological, mate- rial, symbolic or conceptual, but also and decisively informs the capacity of forms to be exchanged or transformed from one regime to another, that is to say, from the biological to the symbolic or from the material to the conceptual. So, plasticity in Malabou is not simply a concept to be worked out within the het- erogeneous domains of biology, neurolo…",
+      "source": "Catherine Malabou, Tyler M. Williams - Plasticity_ The Promise of Explosion (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 17,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7829945,
+      "importance": 0.8136605024337769,
+      "final_score": 0.7829947471618652
+    },
+    {
+      "id": "c6c3280ae78e78b41dfbb2dd",
+      "qdrant_id": "f9814151-765e-5222-9548-7c03568f2687",
+      "text": "developing something like a post-continental naturalism.7 Yet the stakes here are also quite profoundly political, engaging questions of individual and collec- tive identity, determinism and freedom, and ultimately also political and social organisation. Such stakes are addressed perhaps obliquely in books such as The New Wounded (2012), a work that questions the rival paradigms of neurosci- ence and psychoanalysis, their potential reconciliation, and the implications of ‘destructive plasticity’, a quality discernible in the neurological damage suffered by Alzheimer’s patients. In interrogating biological corporeal and cerebral life, Malabou is in fact never far from political considerations.8 This is most evident from her first book devoted to the question of brain plasticity: What Should We Do With Our Brain? The political implications of neuroplasticity can be discerned on the…",
+      "source": "Catherine Malabou, Tyler M. Williams - Plasticity_ The Promise of Explosion (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7773466,
+      "importance": 0.8057131767272949,
+      "final_score": 0.7773466110229492
+    },
+    {
+      "id": "a03d421d878bc9bd3ae93baf",
+      "qdrant_id": "7dfc8571-dce2-5ff5-81f4-d7a914822afd",
+      "text": "of the relation between the regimes of the biological and of consciousness, or what she will later call the mental and the neuronal. Already, in her very first major work, Malabou is able to note the significance of the fact that it ‘is not by chance that the notion of plasticity today operates in the domain of cell biology and neurobiology’ (2005: 192). The key insight here is that no system, no form and no regime of being is ever closed or self-sufficient. All are constitutively open to and affected by the other systems, forms or regimes to which they are necessarily related and are so in such a way as to ensure that they will always have a capacity to modify or transform themselves. This would include, say, the transformation from one neuronal, conceptual or symbolic form into another, but also the transformation of neuronal to conceptual or symbolic forms and vice versa. F…",
+      "source": "Catherine Malabou, Tyler M. Williams - Plasticity_ The Promise of Explosion (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.77516496,
+      "importance": 0.8085023760795593,
+      "final_score": 0.7751649022102356
+    },
+    {
+      "id": "c492d79976f605fe4f34efaa",
+      "qdrant_id": "d03248fc-51d2-56f9-b887-3ca2950e1155",
+      "text": "12 Plasticity of the Mind: Reflecting on and Discussing Marcus Aurelieus’s Meditations with Catherine Malabou Georgia Mouroutsou 13 “The Still Missing People”: Thinking the Affective Work of Art in the Work of Gilles Deleuze, through Catherine Malabou’s Concept of Plasticity Meadhbh Mcnutt 14 Diagnosing the Sociopolitical Wound: Frantz Fanon and Catherine Malabou Sujaya Dhanvantari CONCLUSION 15 Discontinuity and Difference: Heidegger and Lévi-Strauss Catherine Malabou (Translated by William Samson) Index About the Contributors",
+      "source": "Thomas Wormald and Isabell Dahms - Thinking Catherine Malabou_ Passionate Detachments (2018, Rowman and Littlefield) - libgen.li.pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7726642,
+      "importance": 0.8009238839149475,
+      "final_score": 0.7726642489433289
+    },
+    {
+      "id": "0f9f35508975432d9f007012",
+      "qdrant_id": "8a777c86-942f-5108-96e7-550a0c77df28",
+      "text": "Introduction 15 with the uncomfortable, the repressed, and the uncanny (the uncanny it- self can be read as a manifestation of anxiety, in which what was thought to be strange is not only familiar, but much too proximate). This notion of anxiety (and its disavowal) can also be linked to Lauren Berlant’s concept of cruel optimism. Berlant describes cruel optimism as a neoliberal affec- tive state in which people are invested in attachments that inhibit their own flourishing. For example, neoliberal discourses like self- help, postmodern management, and “staying positive” function to cover over the exploited subject’s anxious relationship to a neoliberal order that is systematically im- poverishing them. Cruel optimism is a positive affect, but one that func- tions as an embodied ideology and is thus a negative phenomenon. It enables the subject to evade a confrontation with the n…",
+      "source": "Noir Affect (2020, Fordham University Press) [10.1515_9780823287796] - libgen.li.pdf",
+      "chunk_index": 68,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.7700561,
+      "importance": 0.7987310290336609,
+      "final_score": 0.7700558304786682
+    },
+    {
+      "id": "b9aadff157f9bc57a4080702",
+      "qdrant_id": "1300fe7c-dc26-5249-b961-7cbd478bf8ea",
+      "text": "analysis. She is author of over 90 articles and of several books including, The Hysteric’s Guide to the Future Female Subject (2000); The Regime of the Brother: After the Patriarchy (1991); and Figuring Lacan: Criticism & the Cultural Unconscious (1986). She is Professor Emerita of Comparative Literature and English at UC Irvine, and current co-chair of the California Psychoanalytic Circle. She is co-editor, with Dean MacCannell of (a): the journal of culture and the unconscious. She also works as an artist, participating in some 19 group shows over the past 14 years. Catherine Malabou is a Professor in the Philosophy Department at the Cen­ tre for Research in Modern European Philosophy (CRMEP) at Kingston Uni­ versity. She is author of numerous books on philosophy, psychoanalysis and neuroscience, including most recently Sois mon corps (with Judith Butler) (2010); La Grande Ex…",
+      "source": "(Anamnesis) Joan Copjec, Sigi Jöttkandt, eds. - Penumbr(a)-re.press (2013) (1).pdf",
+      "chunk_index": 170,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.76508844,
+      "importance": 0.7924769520759583,
+      "final_score": 0.7650883197784424
+    },
+    {
+      "id": "0648c81e76793dc4e0b21f39",
+      "qdrant_id": "c6a90118-fe1e-51e4-980e-022427a530fb",
+      "text": "and assessing Malabou’s philosophy, even though serious readers will then have to turn to other texts to follow her elaborated readings of Hegel, Heidegger, Derrida, and the brain sciences. Following the publication of Plasticity at the Dusk of Writing, in 2007 Malabou published her reading of Freud in Les Nouveaux Blessés. Les Nou- veaux Blessés is important for many reasons, but primarily for the distinction Malabou makes between the psychoanalytic notion of sexuality and the neuro- logical idea of cerebralité, that is, that the understanding of how the brain works changes how we conceive of an event. Th e cerebral event (Ereignis) radically transforms subjectivity, while the sexual event (Erlebnis) is always assimilated into or appropriated by the subject.9 In Les Nouveaux Blessés, Malabou empha- sizes the destructive plasticity represented by brain wounds, whether they are caused by traumas such as post–traumatic stress disorder or diseases such as",
+      "source": "Catherine Malabou_ Carolyn Shread_ Clayton Crockett - Plasticity at the Dusk of Writing_ Dialectic, Destruction, Deconstruction-Columbia University Press (2009).pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.76112735,
+      "importance": 0.7937673926353455,
+      "final_score": 0.7611274719238281
+    },
+    {
+      "id": "6985c7e62c6d473befcddb9b",
+      "qdrant_id": "06d21789-95eb-552f-9890-68a75754c479",
+      "text": "but ultimately to change it,3 in which ways might we grasp Malabou’s central concept of plasticity to facilitate po liti cal praxis? In the making of this volume, we asked the authors to liberally but critically explore the economic, psychoanalytic, and sociocultural dynamics that Malabou has also identifi ed as her po liti cal fi eld. All the authors share concerns re- garding the limits and potentials of contemporary neoliberal economics and the reconfi guration of sovereign power that engender techniques of accumulation and dispossession relying upon the fl exibility of labor, the porosity of national borders to fl ows of capital but not working bodies, and juridical apparatuses that riddle the rule of law with exception.4 Th is neoliberal fl exibility is accompanied by forms of violence that reinscribe colonial relations of subjection. What intellectual directions might Mal- abou’s thinking about change, metamorphosis, and destructive plastic-",
+      "source": "Brenna Bhandar, Jonathan Goldberg-Hiller - Plastic Materialities_ Politics, Legality, and Metamorphosis in the Work of Catherine Malabou-Duke University Press Books (2015).pdf",
+      "chunk_index": 10,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.75842154,
+      "importance": 0.791041374206543,
+      "final_score": 0.7584215998649597
+    },
+    {
+      "id": "6e0e6aebefe209bdc645ecd3",
+      "qdrant_id": "17f390b7-c1c2-5719-bc0b-1544aafe8f51",
+      "text": "the artist’s early work. Unlike art historical studies, which associate per­ for­mances such as Unicorn (1970) or Mit beiden Händen gleichzeitig die Wände berühren (Scratching Both Walls at Once, 1974–75) with body art and video art,17 I would like to direct our attention ­toward their connection with sci­ entific contexts. The resonance between Rebecca Horn’s early imagescapes and the iconography of the medical clinic has often been pointed out.18 This chapter supplements such indications with references to experimen­ tal physiology and psy­chol­ogy as well as psychiatry. Like a laboratory scientist, Rebecca Horn calls the objects used in her early works “instruments,” and like one of the experimental physiologists par excellence, Claude Bernard, she deploys her instruments to instruct her­ self and ­others about life. At the same time, she designates the sphere at which the rele…",
+      "source": "Henning Schmidgen - Horn, or The Counterside of Media (Sign, Storage, Transmission) (2022, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "elaine-scarry-the-body-in-pain-representation"
+      ],
+      "raw_score": 0.754146,
+      "importance": 0.7952120900154114,
+      "final_score": 0.7541457414627075
+    },
+    {
+      "id": "c06425c3ce91fcd298c5d7ca",
+      "qdrant_id": "e0454932-551e-5d49-b0ca-a361593d3a53",
+      "text": "4 Catherine Malabou: Plasticity of Reason The tension between preformationism and the freedom of morphogenetic development, which we observed in examining Ruyer’s work, also guides Catherine Malabou’s philosophy. Malabou examines this tension through the notion of ‘plasticity’, which means the capacity of the living being to receive form and to give form, and also the capacity to explode form. Plasticity refers to the qualitative change that takes place both at the level of cells (cell plasticity) and the brain (neuroplasticity), and that can be either creative or destructive. It is destructive plasticity that is the most interesting for neurological and philosophical investigations, because it reveals the rupture between the cerebral and the mental, or between cerebral auto-­ affection and mental auto-­affection. In these cases, we discover something that Malabou names the ‘ce…",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) [10.1515_9781399510561] - libgen.li.pdf",
+      "chunk_index": 303,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.75412536,
+      "importance": 0.7853460907936096,
+      "final_score": 0.7541255950927734
+    },
+    {
+      "id": "ec521e28c9c2530bbb3ee0bd",
+      "qdrant_id": "d85f8820-bf20-5484-b637-d839b0699639",
+      "text": "of them, held upright by the gentle warmth of shoulders and bellies; and their satisfied desire took pleasure in this painful approach” (RM 3: 618). 33. The punitive and moralizing tone of these passages appears to represent a per- version of what Thomas Laqueur has called “the humanitarian narrative”— detailed legal, medical, and novelistic descriptions of bodily injury that evoke compassion for the injured while raising questions of causality, responsibility, and equitable redress (see Thomas W. Laqueur, “Bodies, Details, and the Humanitarian Narrative,” in The New Cultural History, ed. Lynn Hunt [Berkeley: University of California Press, 1989], 176–204). However, as Wai Chee Dimock reminds us in her Residues of Justice, 140–167, nineteenth-century humanitari- anism did not eschew the infliction of pain as a form of moral pedagogy, a “purgative” (154) or curative suffering whose long-…",
+      "source": "Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf",
+      "chunk_index": 632,
+      "page": null,
+      "seed_hits": [
+        "elaine-scarry-the-body-in-pain-representation"
+      ],
+      "raw_score": 0.7529447,
+      "importance": 0.7911918759346008,
+      "final_score": 0.7529445886611938
+    },
+    {
+      "id": "7bf8a720882c8229f0e706ff",
+      "qdrant_id": "3bf83d8f-6751-574d-b87a-c0c02f8de1af",
+      "text": "New Wounded (Les nouveaux blessés), written by the French philosopher Catherine Malabou, who claimed that even now we have a new form of psychic illness. If the twentieth century was defined by hysterical neurosis, now, increasingly, we have a “post-traumatic personality.” This is the new order, which means we were submitted to some kind of trauma. It can be rape, 68",
+      "source": "Žižek, Slavoj - Demanding the Impossible (2014, Wiley) - libgen.li.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7515985,
+      "importance": 0.7791696190834045,
+      "final_score": 0.7515985369682312
+    },
+    {
+      "id": "b176b51222081480c13d2e3b",
+      "qdrant_id": "3777a0ae-43a0-59e1-9de2-d3c271b42c7b",
+      "text": "ity of preserving the modifications inherent in such a change’: the ‘twin energies’ of ‘constancy and creation’.13 Malabou depicts the plastic human subject negotiating a way between two extremes of plasticity: firstly our fluidity, which enables us to (re)form ourselves; secondly, a certain rigidity which enables us to retain our new identity as our habits solidify into an increasingly intractable second nature. Malabou posits two options: either we allow society to manipulate our plasticity and shape us to its own ideological ends, or we seize control of our own plasticity and shape ourselves, resisting the attempts of authorities to transform us.14 For Malabou, the latter option is obvi- ously more desirable. She stresses plasticity’s anarchic properties with her idea of ‘destructive plasticity’, whereby: plasticity is also the capacity to annihilate the very form it is able to receive or",
+      "source": "Laura Seymour - Refusing to Behave in Early Modern Literature (2022, Edinburgh University Press) [10.1515_9781474491822] - libgen.li.pdf",
+      "chunk_index": 244,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.748232,
+      "importance": 0.7840140461921692,
+      "final_score": 0.7482321858406067
+    },
+    {
+      "id": "24b9ce59bf55b55c0c3b5375",
+      "qdrant_id": "c1928fed-b99e-5ff5-b983-c48f7cc2fa6d",
+      "text": "simply become English. Although we were in bilingual Canada, she spoke in English at the conference, as she usually does in Anglophone areas of North America. This translational fact prompts me to call on her signature term by recognizing the tremendous plasticity of Catherine Malabou herself. We recall that from Université Paris VIII she became professor at Kingston University, United Kingdom, and that she frequently teaches in the United States, including a new position at University of California, Irvine. She writes increasingly in English alongside French, and her work is widely read in translation. Indeed, Malabou’s plasticity is such that we might wonder if she still needs translators into English. Even so, translation is clearly integral to Malabou’s overall project in philosophy and the global reception of her work. She is translated",
+      "source": "Thomas Wormald and Isabell Dahms - Thinking Catherine Malabou_ Passionate Detachments (2018, Rowman and Littlefield) - libgen.li.pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.747312,
+      "importance": 0.7758434414863586,
+      "final_score": 0.7473118901252747
+    },
+    {
+      "id": "fb3a61de2842a2641d442f56",
+      "qdrant_id": "82d4ea42-521e-502b-a0a9-67a3e7b4ffda",
+      "text": "paradoxically generative of something new. In this contribution, Washington pursues and attempts to elaborate this strange queer force that Derrida finds in Genet, placing him in conversation with Catherine Malabou’s concept of destructive plasticity and Lee Edelman’s theorization of queer negativity. Washington fascinatingly reflects on what this means for Derrida’s reading of dialectics, using Malabou and Edelman to push toward a rethinking of the possibilities of a specifically queer form of negation. Inspired by Malabou’s articulation of plasticity, in our next chapter Georgia Mouroutsou explores how the stoicism of Marcus Aurelius",
+      "source": "Thomas Wormald and Isabell Dahms - Thinking Catherine Malabou_ Passionate Detachments (2018, Rowman and Littlefield) - libgen.li.pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7377707,
+      "importance": 0.7813509702682495,
+      "final_score": 0.7377706170082092
+    },
+    {
+      "id": "06b7b4226ce7936fab067c16",
+      "qdrant_id": "5031c79f-a1dc-55ff-87c9-e8fe297db9f0",
+      "text": "Foreword Clayton Crockett I M B R I C A T I O N S : M A L A B O U ’ S O E U V R E Plasticity at the Dusk of Writing is at once an intellectual autobiography, a highly condensed summa, and an explosive manifesto from one of the most important contemporary philosophers at the height of her intellectual powers. Its brevity belies its signifi cance. Based upon previous books on Hegel, Heidegger, and Derrida, it is also marked, although less explicitly, by her most recent publica- tion in French, Les nouveaux blessés [Th e New (or Newly) Wounded], which is a reading of Freud from the standpoint of contemporary neurology. Combined with her book What Should We Do with Our Brain?, these works establish Cath- erine Malabou as an incredibly signifi cant thinker in the wake of French post- structuralism, with the concept of plasticity being her original, signature idea. Malabou is noted as a student of Jacques Derrida, and her thesis on Hegel,",
+      "source": "Catherine Malabou_ Carolyn Shread_ Clayton Crockett - Plasticity at the Dusk of Writing_ Dialectic, Destruction, Deconstruction-Columbia University Press (2009).pdf",
+      "chunk_index": 7,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7339506,
+      "importance": 0.7737575769424438,
+      "final_score": 0.7339506149291992
+    },
+    {
+      "id": "70cda1dfc8799d703552966c",
+      "qdrant_id": "b235a083-50c2-56db-982a-b57a5e626445",
+      "text": "he is part: the stories narrated by Harlow, Damasio and Malabou herself. Malabou’s agenda in her writing on brain lesions is to counter psy- choanalytic elasticity by emphasising the radical and irreversible change undergone by people with brain lesions, but her own language betrays a more complex situation. Take this short passage from The New Wounded as an example: Rehabilitating the event is thus a matter of taking into account the disconti- nuity produced by the traumatizing event and of [sic] its destructive power to transform identity (‘Gage was no longer Gage’). If we ask patients about their experiences of these changes of personality, we observe that this is no metaphor. The patients ﬁnd themselves really changed; they no longer rec- ognize themselves as they were before. (LNB 254/TNW 153) Malabou quite correctly emphasises that the patients do not recognise themselves. What she does not comment on is that at least Malabou, and",
+      "source": "Christopher Watkin - French Philosophy Today_ New Figures of the Human in Badiou, Meillassoux, Malabou, Serres and Latour (2016, Edinburgh University Press) [10.1515_9781474414746] - libgen.li (1).pdf",
+      "chunk_index": 138,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.73288715,
+      "importance": 0.773948609828949,
+      "final_score": 0.7328871488571167
+    },
+    {
+      "id": "0adb8d58d6ffbad975f021f4",
+      "qdrant_id": "d9ab99c1-73c3-5f8e-8fe2-94fc81196225",
+      "text": "catherine malabou: the plastic human | 79 human to a host capacity approach. Along the way, I will indicate two main questions that Malabou must answer. Plasticity and Hegel Malabou’s first engagement with the paradigm of plasticity is in her doc- toral thesis on Hegel, later published as The Future of Hegel. The book begins with a reading of the ‘Anthropology’,6 a section of twenty-four paragraphs in the third and final volume of Hegel’s Encyclopaedia of the Philosophical Sciences. The reader beginning to follow the trail set by Malabou through the ‘Anthropology’ could be forgiven for thinking that these paragraphs provide a quite spectacularly poor basis for elaborating an account of the human that does not rely on determinate host properties. Under the heading ‘The knowledge of man’s genuine reality – of what is essentially and ultimately true and real’7 Hegel furnishes his reader with the somewhat underwhelming insight that the essence of man8 is found",
+      "source": "Christopher Watkin - French Philosophy Today_ New Figures of the Human in Badiou, Meillassoux, Malabou, Serres and Latour (2016, Edinburgh University Press) [10.1515_9781474414746] - libgen.li.pdf",
+      "chunk_index": 130,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.73200357,
+      "importance": 0.7671573162078857,
+      "final_score": 0.7320036292076111
+    },
+    {
+      "id": "1a11cbcc40e74dce3277251e",
+      "qdrant_id": "d1f70ad3-a529-5046-a44e-33c26521ce10",
+      "text": "continuity, than an unhelpful conception of space. In this sense, the prob­ lem in Malabou’s conception is not so different from the one that Norval identifies in Mouffe’s conception of agonism, insofar as the production of adversaries instead of enemies involves not an aspect shift but a radical spatial break between opposed parties. That is, preceding the conceptual distinction of enemy and adversary is a spatial logic that would resemble something like a series of incommunicable, wholly distinct totalities. In Malabou’s theory of the brain, what heals when broken are not two pieces that were once one. Rather, what heals is the edge of whatever remains after the break and is sealed off without a trace, in the work of healing, from what it was once attached to. The new cannot be renewed, submitted to aspect change; the new can only be what was severed and what remains outside…",
+      "source": "Brian Price - A Theory of Regret (2017, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 466,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.729939,
+      "importance": 0.7784401774406433,
+      "final_score": 0.7299391031265259
+    },
+    {
+      "id": "26bf4126ae81b1a84c749d88",
+      "qdrant_id": "d1fc6dae-4e17-53cb-873f-2238157c1164",
+      "text": "all vulnerable (logically, neurologically) and the accident whose occurrence does not occur for everyone. That is, in the case of psychical trauma, it will always be an accident whether or not any particular “accident” becomes traumatizing. For more on the accident to the second degree, see Chapter 2. 22. Catherine Malabou also draws attention to Freudʼs move to the language of “infiltrate,” but she comes to a very dixerent conclusion. Instead of seeing the infiltrate as a further and more radical expression of the unlocatability of trauma and thus precisely as the impossibility of synthesis, Malabou reads infiltration as a sign that the traumatic event can and has been “integrated” into the history of the subject. For Malabou, the unlocatability of the infiltrate makes the traumatic event something that is “proper [propre]” to the subject. Catherine Malabou, The New Wounded: From Neurosis to Brain",
+      "source": "Elizabeth Rottenberg - For the Love of Psychoanalysis_ The Play of Chance in Freud and Derrida (2019, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 102,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.72756255,
+      "importance": 0.7685993313789368,
+      "final_score": 0.7275625467300415
+    },
+    {
+      "id": "a543b9831e0172ecce2784b7",
+      "qdrant_id": "365e233e-da9e-5d32-a5cf-6f63e4ecf806",
+      "text": "ing fortitude in the face of violence, imprisonment, and social stigma, Thomas becomes a courageous non-­conformist by habitually behaving in a courageous non-­conformist way. The work of the philosopher Catherine Malabou in the first two decades of the twenty-­first century illuminates how Thomas seized on his body’s malleability (which religious and political authorities wanted to manipulate to shape him into a conforming Anglican subject) and decisively used it to shape himself. Drawing on Aristotelian theories of habit and on cognitive neuroscience, Malabou describes the human self as ‘plastic’: able to shape itself and hold its form, and thereby able to resist the forms that others impose on it.12 Malabou explains, ‘for Aristotle, habit implies the aptitude for change, along with the possibil- ity of preserving the modifications inherent in such a change’: the ‘twin energies’ of ‘constancy and creation’.13 Malabou depicts the plastic",
+      "source": "Laura Seymour - Refusing to Behave in Early Modern Literature (2022, Edinburgh University Press) [10.1515_9781474491822] - libgen.li.pdf",
+      "chunk_index": 243,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.72755754,
+      "importance": 0.7682762742042542,
+      "final_score": 0.7275576591491699
+    },
+    {
+      "id": "fb5e8fca08b9af13a69ff77f",
+      "qdrant_id": "dda95ff4-4970-5a1a-8c5e-b76768ac6f51",
+      "text": "xxx T R A N S L A T O R ’ S I N T R O D U C T I O N might power social, economic, political, and personal transformations, I see the workings of plasticity in translation. Th ese plastic practices already exist in translation and always have; the task at hand for translation studies is that of revising our theoretical models and discourses away from the question of elas- ticity and toward the liberation of plasticity. In so doing, we in translation join Malabou at the dusk of writing, ready for the light of a new fl ame. P L A S T I C I T Y A T T H E D U S K O F W R I T I N G",
+      "source": "Catherine Malabou_ Carolyn Shread_ Clayton Crockett - Plasticity at the Dusk of Writing_ Dialectic, Destruction, Deconstruction-Columbia University Press (2009).pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.72683644,
+      "importance": 0.771155834197998,
+      "final_score": 0.7268365025520325
+    },
+    {
+      "id": "0cfbe10122d649fdd2e9d7f4",
+      "qdrant_id": "7509204a-9d93-5dc4-b5df-cd2f92b5d52b",
+      "text": "INTRODUCTION Staging Encounters Brenna Bhandar and Jonathan Goldberg-Hiller ■ Catherine Malabou’s philosophical thought stages a new and restless encounter with form and so transforms the possibilities of philosophy for thinking contemporary politics, law, and justice. In a series of books, most of which have been recently translated into En glish, she has pio- neered a distinctive mode of reading the Continental philosophical tra- dition, revealing a new materialism that survives and brings to restored relevance Hegel, Heidegger, Derrida, Irigaray, Deleuze, Foucault, and Freud, among others. Traversing the philosophical groundwork of these thinkers, Malabou uncovers and exposes elements of their work that metabolize and metamorphosize concepts and logics that otherwise ap- pear to be unmoving, if not static. Th e restless form that survives philo- sophical critique, which she explores with her signature concept of plas-",
+      "source": "Brenna Bhandar, Jonathan Goldberg-Hiller - Plastic Materialities_ Politics, Legality, and Metamorphosis in the Work of Catherine Malabou (2015, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.72606146,
+      "importance": 0.7737521529197693,
+      "final_score": 0.7260615825653076
+    },
+    {
+      "id": "67cd3389d5edacd4d7f1eaaf",
+      "qdrant_id": "6e9d69b6-2076-560f-8cb7-052b3b8e6c9a",
+      "text": "Catherine Malabou: Plasticity of Reason 89 defines destructive plasticity as a phenomenon that appears only through a negation or rupture: Something shows itself when there is damage, a cut, something to which normal, creative plasticity gives neither access nor body: the deserting of subjectivity, the distancing of the individual who becomes a stranger to herself, who no longer recognizes anyone, who no longer recognizes herself, who no longer remembers her self. (Malabou 2012b: 6, emphasis in original) Destructive plasticity tears apart the ‘cerebral self’ and the ‘subjective self’ and presents itself as a scar, a radical change that is irreversible, and whose effects are unrepairable. However, as was discussed above, this destruction is a necessary com- ponent of plasticity and change. To get a new form, to acquire a different identity, we have to undergo a change, to dest…",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) [10.1515_9781399510561] - libgen.li.pdf",
+      "chunk_index": 351,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.724651,
+      "importance": 0.7594957947731018,
+      "final_score": 0.7246510982513428
+    },
+    {
+      "id": "27f0cff84f0e3040e3409164",
+      "qdrant_id": "7b4d99b7-e6cb-5c3a-adbb-181b434333b8",
+      "text": "Introduction 7 who one is; one becomes only who one is.”33 Instead, destructive plas- ticity cuts this time from its mooring; a stroke or other brain trauma instantly makes one “a stranger to the one before,”34 suff ering because of the lack of suff ering: “an indiff erence to pain, impassivity, forgetting, the loss of symbolic reference points.”35 Yanked out of the familiar times of life, destructive plasticity, like Freud’s death drive, reveals the “power of change without redemption, without teleology, without any meaning other than strangeness.”36 Deleuze, too, addressed the accident, but he sees it as an aspect of everyday occurrence, opposed to the ideal Event.37 Malabou pushes against Deleuze’s reading, in which the accidental is re- cuperated as form stripped of its ideal essence, a limit to true metamor- phic possibilities. Rather than the philosophical conservatism of meta- physical form, Malabou suggests, the accident reveals that form is not",
+      "source": "Brenna Bhandar, Jonathan Goldberg-Hiller - Plastic Materialities_ Politics, Legality, and Metamorphosis in the Work of Catherine Malabou (2015, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7245382,
+      "importance": 0.7721430659294128,
+      "final_score": 0.7245383262634277
+    },
+    {
+      "id": "010847eb5d11b00a661745b6",
+      "qdrant_id": "7f64ab8e-c2d8-516b-8617-a0b22310a705",
+      "text": "Logographe, 3 April, <http://membres.lycos.fr/fenrir/nothomb.htm> (last accessed 23 August 2009). Toranian, Valérie (2004), Pour en finir avec la femme, Paris: Grasset et Fasquelle. Tyagi, Ritu (2011), ‘Rethinking identity and belonging: “Mauritianness” in the work of Ananda Devi’, Islanded Identities: Constructions of Postcolonial Cultural Insularity, ed. Maeve McCusker and Anthony Soares, Amsterdam: Rodopi. Van Zuylen, Maria (2003), ‘Maghreb and melancholy: a reading of Nina Bouraoui’, Research in African Literatures, 34:4, 84–8. Vassallo, Helen (2007), ‘Wounded storyteller: illness as life narrative in Nina Bouraoui’s Garçon manqué’, Forum for Modern Languages Studies 43:1 (January), 46–56. –– (2008), ‘Embodied memory: war and the remembrance of wounds in Nina Bouraoui’s Garçon manqué and Leïla Sebbar’s Lettres parisiennes’, Journal of War and Culture Studies 1:2 (January), 189–200. –– (2009), ‘Unsuccessful alterity? The pursuit of otherness in Nina Bouraoui’s",
+      "source": "Amaleena Damlé - The Becoming of the Body_ Contemporary Women's Writing in French (2014, Edinburgh University Press) [10.1515_9780748668229] - libgen.li.pdf",
+      "chunk_index": 160,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7222793,
+      "importance": 0.7733370661735535,
+      "final_score": 0.7222794890403748
+    },
+    {
+      "id": "06fa5a11705847a33beccd60",
+      "qdrant_id": "931e4975-d347-5196-9962-0f1b53fc2cf9",
+      "text": "that gives her discourse its political purpose and its gravity, and which makes of these seminars the continuation of the project of Etrangers à nous mémes (1988) and Les nouvelles maladies de l’âme (1993). At the same time both volumes follow the pattern established by La révolution du langage poétique (1974) and Pouvoirs de l’horreur of a lengthy and complex theoretical (i.e. psychoanalytic) introduction which makes up nearly half of Sens and over one third of La Révolte. These are then followed by a dense exploration of specific theoretical and literary texts that they have been developed to make possible. Now Lautréaumont, Mallarmé and Céline are succeeded by Roland Barthes, Jean-Paul Sartre and Louis Aragon as exemplary materials for Kristeva’s inquiries. The portraits of these three men adorn the cover of each volume. On the first grouped side by side beneath the oversize face of t…",
+      "source": "Griselda Pollock - Julia Kristeva 1966–96_ Aesthetics politics ethics (Parallax, Issue 8 July–September 1998) (1998) - libgen.li.pdf",
+      "chunk_index": 571,
+      "page": null,
+      "seed_hits": [
+        "roland-barthes-lover-s-discourse-punctum-camera-lucida"
+      ],
+      "raw_score": 0.7355599,
+      "importance": 0.7843008637428284,
+      "final_score": 0.7220807671546936
+    },
+    {
+      "id": "e9d2355e04de66dfe44aa8e7",
+      "qdrant_id": "daec0ee2-ad27-517f-8a2e-ec8333afd8f8",
+      "text": "Malabou, Catherine 6, 9–10, 53, 137, 147, 159, 161, 166, 168, 170, 173, 176, 183–200, 204, 247n. 5, 248n. 52, 249n. 56 The Heidegger Change 199 La grande exclusion 197 The New Wounded 183–4, 192, 194 Plasticity at the Dusk of Writing 188, 199",
+      "source": "Speculative Realism Problems and Prospects (Peter Gratton) (Z-Library).pdf",
+      "chunk_index": 131,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7214878,
+      "importance": 0.763711154460907,
+      "final_score": 0.7214878797531128
+    },
+    {
+      "id": "4113204e1a3bfd0e331a7e4a",
+      "qdrant_id": "0953fcb9-9fc0-5ab3-9a7d-230321b1c45a",
+      "text": "doesn’t step in to occupy her subjective perspective; instead this spatial and temporal displacement is lived transversally across character and cinematic bodies. These are two modes of negotiating this relation: in a kind of internal edit, Susan makes the cut herself through a relation be- tween hands and eyes, a direct action on her body inserting a black frame between two worlds, and then she allows the camera to take responsibil- ity for her own displacement, to move on her behalf. Two tools of cine- matic transition—the edit and the camera movement—are deployed, and they result in the first instance of reaction to seeing herself in that film, as if the goal of such encounters was to discover that otherness of the self, in an “auto-a¤ection.” Susan lives this sequence as if from within a movie, where irrational cuts are not accepted examples of a cinematic shorthand but expe…",
+      "source": "Alanna Michael Thain - Bodies in Suspense_ Time and Affect in Cinema (2017, Univ Of Minnesota Press) - libgen.li (1).pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.626891,
+      "importance": 0.7840210795402527,
+      "final_score": 0.720920205116272
+    },
+    {
+      "id": "d56a030cbd00f53c15bb7746",
+      "qdrant_id": "6b669d16-1ed8-5f21-8b63-85b5c0fc8d37",
+      "text": "tity’s investments in itself, and especially in its own history of suffering, come into conflict with the need to give up these investments, to engage in some- thing of a ‘forgetting’ of this history, in the pursuit of an emancipatory democratic project? (Brown 1995: 202) Brown contends that the injuries, insults and agonies embodied in the politi- cised subject become a necessary fetish for the gaining of visibility and credibility in late modernity (Taylor 1994; Fraser 1995). The subject, in effect, is what she feels, and she desires recognition of her pain as her primary identity. According to Brown, as a result of this complete identification with pain, the politicised subject is either unable or unwilling to break its hold or envision a less self- absorbing and retributive politics. Critiques such as Brown’s are not simply a call for feminists to overcome all claims to identity or for recognition, but rather they call for reflection on the",
+      "source": "(Transformations_ Thinking Through Feminism) Sara Ahmed_ Jane Kilby_ Celia Lury_ Beverley Skeggs_ Maureen McNeil - Transformations_ Thinking Through Feminism-Routledge (2000).pdf",
+      "chunk_index": 98,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7207707,
+      "importance": 0.7720319628715515,
+      "final_score": 0.7207706570625305
+    },
+    {
+      "id": "8c902916152e2b179a78b19d",
+      "qdrant_id": "eb4d1b1e-0bec-55fc-872f-bccd328c1c7c",
+      "text": "promises us new perspectives on po liti cal and social change. De cades after a Continental turn away from structuralism, Malabou’s scholarship invites us to imagine what we might gain by reconceptualiz- ing form and bringing it back into philosophical and po liti cal grammar. In this new metamorphic structuralism,1 might we fi nd an emergent",
+      "source": "Brenna Bhandar, Jonathan Goldberg-Hiller - Plastic Materialities_ Politics, Legality, and Metamorphosis in the Work of Catherine Malabou-Duke University Press Books (2015).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7185118,
+      "importance": 0.7667275667190552,
+      "final_score": 0.7185119986534119
+    },
+    {
+      "id": "49d46e75283b36d35e3dede0",
+      "qdrant_id": "b52ee490-40ca-55b4-b801-c3cbab77d72c",
+      "text": "Afterword When asked in interview about how others should explore the concept of plasticity in their own ﬁeld, Catherine Malabou’s opening response was as follows: You cannot really write a discourse on method about this because energy is unpredictable.1 This can be read as a version of Malabou’s weighing up of the question of responsibility and non-responsibility of the human in relation to their existence on the earth. Accidents will happen, the unexpected, unpredictable and uncontrollable will take place, chance and the contingent will present them- selves, so what should be the quality, she seems to ask, of our responsibility for our non-responsibility? It is signiﬁcant that Malabou explicitly sides against Descartes in coming back to that question. Descartes’s Discourse on Method has long been received as a response, if not an outright disciplinary rejection of the conversational, anarchic – and indeed, self-confessedly ‘frivolous’ – nature of",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 439,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.71847767,
+      "importance": 0.7620072364807129,
+      "final_score": 0.7184778451919556
+    },
+    {
+      "id": "ca855cbc1984cdc7b3376349",
+      "qdrant_id": "0dce8b50-bbfa-5d4b-a5b2-ce7e4be98d3c",
+      "text": "articulated in relation to particular models of transitioning and 'gender reassignment' can also be queried beyond the Global North. For example, as Silva and Omat (Chapter 37 in this volume) demonstrate, travestí <loes not equate to transgender and transgender can be rejected as an identity by travestís themselves. Alongside the ways in which sorne cultures beyond the Global North can be classified as being 'more progressive' with regard to gendered lives beyond male/female binaries, the presumption that the Global North leads the way in sexual equality agendas is also questionable. These assertions often focus on the 'progress' made in specific cities and the acceptance of sorne gay men (and lesbians). However, discussions of world cities and ordinary cities (see Kanai, 2014; Oswin, 2015; and the chapters by Muller-Myrdahl, Johnston and Longhurst, and Visser in this volume), show that as geographers we are critica! of",
+      "source": "[Routledge Companion] Gavin Brown, Kath Browne - The Routledge Research Companion to Geographies of Sex and Sexualities (2016, Routledge) - libgen.li.pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.718464,
+      "importance": 0.7686004042625427,
+      "final_score": 0.7184638977050781
+    },
+    {
+      "id": "002019b30ab140bd389f260d",
+      "qdrant_id": "b4359de1-dbac-506a-b9fd-23db96e98721",
+      "text": "entists. Ultimately, he argues that Malabou’s concept of destructive plas- ticity invites us to confront the “horrors” of po liti cal plasticity and that lesions, decay, dementia, Alzheimer’s, and shock therapy refl ect life’s in- diff erence to radical change that leaves no trace of what preceded it. He",
+      "source": "Brenna Bhandar, Jonathan Goldberg-Hiller - Plastic Materialities_ Politics, Legality, and Metamorphosis in the Work of Catherine Malabou-Duke University Press Books (2015).pdf",
+      "chunk_index": 104,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7175218,
+      "importance": 0.7605224847793579,
+      "final_score": 0.7175218462944031
+    },
+    {
+      "id": "c2d54bee804ecd0c834765f6",
+      "qdrant_id": "f672c29b-a22d-5561-88a8-aa7a0844e116",
+      "text": "20 Nail, Being and Motion, 77. 21 Nail, Being and Motion, 73. 22 Brinkema, ‘Critique of Silence’, 231. 23 Brinkema, ‘Critique of Silence’, 231; my emphasis. 24 Nail, Being and Motion, 69–70. 25 Brinkema, ‘Critique of Silence’, 231. 26 Manning, Relationscapes, 6. 27 Catherine Malabou, The New Wounded: From Neurosis to Brain Damage, trans. Steven Miller (2007; New York: Fordham University Press 2012), 59. 28 It is interesting to note here that the concept of elasticity is very prominent in Manning’s Relationscapes. 29 Catherine Malabou, ‘La plasticité en souffrance’, Sociétés & Représentations 20 (2005): 33; my translation. 30 Malabou, ‘La plasticité en souffrance’, 36. 31 Malabou, ‘La plasticité en souffrance’, 36; my translation. 32 See Carlo Rovelli, The Order of Time (London: Penguin Books, 2017), 122. 33 Catherine Malabou, Plasticity at the Dusk of Writing: Dialectic,…",
+      "source": "[Thinking Media] Sharon Jane Mee_ Luke Robinson (editors) - Sound Affects_ A User’s Guide (2022, Bloomsbury Academic) [10.5040_9781501388910] - libgen.li.pdf",
+      "chunk_index": 130,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7174077,
+      "importance": 0.768334686756134,
+      "final_score": 0.7174078226089478
+    },
+    {
+      "id": "0d1c1e4ebf49d86919143ee9",
+      "qdrant_id": "18e2f4be-ef1e-5260-8c3f-b9582f3db316",
+      "text": "granted an identity. Approached but avoided, glimpsed often enough in fantasy literature but never connected to reality, neglected by psychoanalysis, ignored by phi­ losophy, nameless in neurology, the phenomenon of pathological plasticity, a plasticity that does not repair, a plasticity without recompense or scar, one that cuts the thread of life in two or more segments that no longer meet, nevertheless has its own phenomenology that demands articulation. Phenomenology indeed. Something shows itself when there is damage, a cut, something to which normal, creative plasticity gives neither access nor body: the deserting of subjectivity, the distancing of the individual who becomes a stranger to herself, who no longer recog­ nizes anyone, who no longer recognizes herself, who no longer remembers her self. These types of beings impose a new form on their old form, without mediation or transition or glue or accountability, today versus yester­",
+      "source": "Catherine Malabou, Carolyn Shread - The Ontology of the Accident_ An Essay on Destructive Plasticity (2012, Polity) - libgen.li.pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7166536,
+      "importance": 0.7684091329574585,
+      "final_score": 0.7166537046432495
+    },
+    {
+      "id": "39db204d1c1f13d7a340e260",
+      "qdrant_id": "131a07bd-fa2f-51a4-bf06-01b34b76bc70",
+      "text": "among other natural debris in an almost recursive recycling, but Cliff’s hunting mother burns herself in an act of retaliation: ‘Mother who goes forth emitting flames from her eyes. Nose. Mouth. Ears. Vulva. Anus. She bites the evildoers that they become full of sores. She burns the canefields’ (Cliff 1987, 163–4). The gothic fire imagery, haunting and torment of humans by a spirit is noticeably sexual and gendered; yet, it furthermore alludes to a symbiosis with the land as an act of decolonial resistance. Harriet and Clare experience a sort of catharsis in the biosocial space they seek to reappropriate that helps them deal with the oppressive conditions their ancestors have been a part of and from which they now face liberation as queer individuals. Clare and Harriet both strive for liberation from a restrictive colonial environ- ment, a liberation found only in ruinate with each other. What is also remarkable",
+      "source": "Rebecca Duncan - The Edinburgh Companion to Globalgothic (2023, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 169,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7155968,
+      "importance": 0.7657972574234009,
+      "final_score": 0.7155966758728027
+    },
+    {
+      "id": "80b4a65f1b06fc39fd846faa",
+      "qdrant_id": "f5957868-0ca4-50fa-9c54-e49383a36616",
+      "text": "Catherine Malabou: Plasticity of Reason 81 mals have the capacity to potentiate their brain activity during the processes required for perception and learning. The idea of modulational plasticity questions the old assumption that the brain of an adult is incapable of changes; on the contrary, it is open to constant morphogenetic modulations. In this respect, neuronal plasticity can be compared with stem-­cell plasticity: ‘one could claim that neuronal connections, because of their own plasticity, are always capable of changing difference, receiving or losing an imprint, or transforming their program’ (Malabou 2008: 24). Malabou argues that our brain literally is what we do with it: by activating our brain, we can escape biological determination and increase the potential for improvisation. The third level of plasticity is so-­called reparative plasticity, which encompasses bo…",
+      "source": "Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) [10.1515_9781399510561] - libgen.li.pdf",
+      "chunk_index": 319,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7146341,
+      "importance": 0.7546994686126709,
+      "final_score": 0.7146344184875488
+    },
+    {
+      "id": "263d8493b3b317293880df7c",
+      "qdrant_id": "32daec16-a087-5dd5-9633-74a98b1efe15",
+      "text": "can no longer begin an analysis. Healing the mental problems of older people would thus be a lost cause. Today, the verdict is less damning and the possibility of late treatment is clearly supported and implemented. In L’Age et le principe de plaisir, Le Gouès returns to Freud’s dual articulation of the concept of plasticity, namely, the indestructibility of psychic life and the tenacity of libidinal investments. He demonstrates that the ageing subject tries to compensate for the natural weakening of libidinal investments through an uncon­ scious emphasis on psychic life, marked by a return to infantile psychic forms. Supposedly the older person returns to the solipsism and egotism of the child. Libidi­ nal weakening is accompanied by a reinforcement of the partial pre-genital drives and a narcissistic withdrawal. Ferenczi too noticed this, as he explains: “Older people beco…",
+      "source": "Catherine Malabou, Carolyn Shread - The Ontology of the Accident_ An Essay on Destructive Plasticity (2012, Polity) - libgen.li (1).pdf",
+      "chunk_index": 98,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.71311694,
+      "importance": 0.7772525548934937,
+      "final_score": 0.7131171822547913
+    },
+    {
+      "id": "715374f60e3d46bacf397cdc",
+      "qdrant_id": "525f63b2-317b-5a3f-a549-8026b955054c",
+      "text": "introduction 7 10. Catherine Gallagher and Stephen Greenblatt, Practicing New Historicism (Chicago: Uni- versity of Chicago Press, 2000), 15. relative. Hence my turn to existential phenomenology with its focus on embodiment and the structure of experience—and this long before the amputation and the novel bodily experiences that followed, which, given my curiosity, made my body (not “the” body) a very real (not virtual) laboratory for phenomenological inquiry. In such extreme circumstances I was able to reﬂect not merely on my pathological situation but also to use it—as phe- nomenologists often do—to reﬂect on the usually transparent and norma- tive aspects of being embodied, learning as much during my recovery from my (supposedly) present leg as from my (supposedly) absent one. Even the words present and absent were up for interrogation—their taken-for-granted representations inadequate…",
+      "source": "Carnal Thoughts Embodiment and Moving Image Culture (Vivian Sobchack, Univ of California Pr) (Z-Library).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.71179944,
+      "importance": 0.7901316285133362,
+      "final_score": 0.7117997407913208
+    },
+    {
+      "id": "cc215a3341793566cf4faab0",
+      "qdrant_id": "9507aa65-43b3-5785-9c82-eadb100241fb",
+      "text": "neufs ! (Rimbaud) . . . for whatever precautions are taken, the change that translation practices is always liable to uncover the uncanny, the change that unsettles identity, inspiring horrified fascination, ridicule or repulsion. As it happens, in Malabous Ontology o f the Accident, we experience this same discomfort - even in the French. In her steely confrontation of the disconcerting power of being to change, Malabou calls readers to envisage their own possible accident, the transformation that leaves them dumb and disoriented, departed. Drawing on lit- vm",
+      "source": "Catherine Malabou, Carolyn Shread - The Ontology of the Accident_ An Essay on Destructive Plasticity (2012, Polity) - libgen.li.pdf",
+      "chunk_index": 7,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7116265,
+      "importance": 0.7594301104545593,
+      "final_score": 0.7116266489028931
+    },
+    {
+      "id": "f0883961f893c3f1be643cf2",
+      "qdrant_id": "9f888bfa-f477-5b6b-9a73-3a6a093cc8de",
+      "text": "print, among a range of efforts to refute the oppressive idealization of the female body and reconsider entrenched aesthetic categories and values. The most influential voices of this movement, Susan Faludi, Naomi Wolf, and Susan Bordo, are largely absorbed with elaborating resistance to the beauty industry, and promote the displacement of false consciousness by critical con- sciousness. Feminists who give added dimension to such positions include transgression theorists who describe the power of a performative abjection (Morgan, Yaeger, Russo) and both popular (Friday) and scholarly (Davis) Introduction 7",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7095959,
+      "importance": 0.7671181559562683,
+      "final_score": 0.7095960378646851
+    },
+    {
+      "id": "39aa2f01995ed2efb1d0133a",
+      "qdrant_id": "04c2f52f-7964-5e40-b7e7-c6fb017fd0b8",
+      "text": "suffering of others is important. Bartky examines the twin perils of, on the one hand, a condescending ‘sympathy’ from on high that reduces the one who suffers to a passive object and, on the other, an ‘empathy’ in which over-identification with the sufferer dissolves the empathizer’s own subjective boundaries and obliterates respect for differ- ences. Drawing on the less-known phenom- enology of Max Scheler (1874–1928), and using the example of her own reading of Nawal El Sadawi’s account of her violent subjection to clitoridectomy as a young child (El Sadawi, 1980), Bartky elucidates a third mode of experiencing the suffering of others that (with Scheler) she calls ‘feeling- with’. Here neither objectification nor over- identification takes place. Experiencing pain and terror and feeling-with the one who does so are not to be confused, and feeling-with, as she quotes Scheler as saying, ‘“presup- poses that awareness of distance between",
+      "source": "Johnstone, Hazel_ Evans, Mary_ Madhok, Sumi_ Hemmings, Clare_ Pl - The SAGE handbook of feminist theory (2014, SAGE Publications Inc) - libgen.li.pdf",
+      "chunk_index": 192,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7091942,
+      "importance": 0.7764965891838074,
+      "final_score": 0.7091943025588989
+    },
+    {
+      "id": "be771f5a9943eacfb8974c33",
+      "qdrant_id": "9b5bd00e-4fe3-52e0-aa5b-2cc7ba9e9d52",
+      "text": "SUNY Press. -(2005), The Future of Hegel: Plasticity, Temporality and Dialectic. Trans. Lisabeth During. London: Routledge. -(2008), What Should We Do with Our Brain? Trans. Sebastian Rand. New York: Fordham University Press. -(2010), Plasticity at the Dusk of Writing: Dialectic, Destruction, Deconstruction. Trans. Carolyn Shread. New York: Columbia University Press. -(2012a), \"Interview with Catherine Malabou;' available at http://groundwork- philosophy. wordpress.com/20 12/02/ 17 /interview-with -catherine-malabou/ (Last accessed 1 September 2013). -(2012b), The New Wounded: From Neurosis to Brain Damage. Trans. Steven Miller. New York: Fordham University Press. Malabou, Catherine and Adrian Johnston (2013), Self and Bmotional Life: Philosophy, Psychoanalysis, and Neurascience. New York: Columbia University Press. Malabou, Catherine and Noël Vahanian (2008), \"A Conversation with Catherine Malabou:' Journal for Cultural and Religious Theory 9(1): 1-13.",
+      "source": "Peter Gratton - Speculative Realism_ Problems and Prospects (2014, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 163,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7073532,
+      "importance": 0.7494810819625854,
+      "final_score": 0.7073532342910767
+    },
+    {
+      "id": "24eaa9f6d17a38a4c66b70b2",
+      "qdrant_id": "92aed154-e69c-549f-a021-efb129b4a9c9",
+      "text": "is otherwise left intact, it transforms this life beyond recognition, cuts it off from its own past. The paradigm of this transformation is the experience of brain damage: “Whereas the psychoanalytic narrative of the resistance of the indestructible within destruction privileges the persistence of child- hood, the past, and psychic destiny, which become recognizable through the disturbance that solicits them, the neurological narrative of the destruction of the resistance to destruction stages the exhausted but surviving resources of a psyche that no longer recognizes itself . . . The writing of neurological suffering—the theater of absence or the novel of ‘brain ache’—raises the vertiginous question of the psyche’s survival of its own annihilation” (Catherine Malabou, The New Wounded: From Neurosis to Brain Damage, trans. Steven Miller [New York: Fordham University Press, 2012…",
+      "source": "Anne Dufourmantelle_ Steven Miller - In Praise of Risk-Fordham University Press (2019) (1).pdf",
+      "chunk_index": 130,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.70642513,
+      "importance": 0.7624238729476929,
+      "final_score": 0.7064253091812134
+    },
+    {
+      "id": "46ea4bd12cb5d6b203cc44d8",
+      "qdrant_id": "18f06e81-6056-5b4c-a00e-4ed1211c8ff6",
+      "text": "LE TRAVAIL DU NÉGATIF mal ou pathologique, mais ensuite — et en cela il se montre un conquistador différent de ceux qui se contentent d'exploiter leurs conquêtes territoriales — c’est dans sa propre conception qu'il découvre les nouveaux obstacles compromettant la construction d’un modèle de fonctionnement psychique, heuristiquement plus prometteur. Lorsqu'il prend conscience d’une entrave à la progression vers la vérité, il n’a de cesse - comme s’il craignait qu'un détracteur ne le devance — de désigner la faute et de proposer une reconsidération de la théorie. C’est d’ailleurs une excellente opportunité pour réaffirmer sa conviction sur ce qui reste la base inaliénable de sa pensée, introduire des concepts nouveaux qui font la preuve, après coup, de l'insuffisance de la théorie dont ils sont absents, puis réenvisager les rapports inter- nes des différentes composantes de …",
+      "source": "Le travail du négatif (REPRISE) -- Green, André -- Reprise -- 16, Reprise (Éditions de Minuit), Paris, France, -- Éditions de Minuit; Minuit -- 9782707321633 -- ae92e4d0860376343fee019698a4897a -- Anna’s Archive.pdf",
+      "chunk_index": 120,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7055002,
+      "importance": 0.7617430686950684,
+      "final_score": 0.7055003643035889
+    },
+    {
+      "id": "924763905488970405a1ab64",
+      "qdrant_id": "858feb08-1188-51ba-a029-12345e4c272e",
+      "text": "trols” of the post-colony. Erikson, in his pioneering work on collective trauma, speaks of “a gathering of the wounded” who have learned a “profoundly unsettling truth: that human institutions cannot be relied on” (Erikson 1994: 232, 239), which astutely describes the isolates of sector B. Those suffering from chronic or pervasive trauma will perceive the world as hostile and beyond their conscious control, influence, or knowledge. This is what Erikson terms the “traumatic world view” (239). However, in the fictional dynamic of plot move- ments, we see a tendency towards inclusion and connectivity, which is recuperative and leads to a coming of terms with trauma, often through social activism. A further expansion of trauma theory, as I have suggested, seems needed, not only to include resilience, but also the influence of forgiveness as a factor in the trauma process. Douglas’…",
+      "source": "Michelle Balaev (eds.) - Contemporary Approaches in Literary Trauma Theory (2014, Palgrave Macmillan) [10.1057_9781137365941] - libgen.li.pdf",
+      "chunk_index": 446,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7048048,
+      "importance": 0.7585628032684326,
+      "final_score": 0.7048050165176392
+    },
+    {
+      "id": "09adbf10b4b4d1695581794f",
+      "qdrant_id": "6f73849c-a63a-5754-89b3-dac306fb3848",
+      "text": "citizen: one freed from the pressures of local attachments. Meanwhile, the healthy and vigorous body is cast as inherently less capable of impersonality. It is disadvantaged by its very ability to act in the world, to engage actively with others, and to fulfill responsibilities that distinguish between those who are closest and those who are furthest away. This chapter thus invites us to consider the many implications of the fact Martineau took as her starting point the disabled, implicitly feminized body of the invalid, and specifically, the new possibilities it raises for thinking about the conditions, nature, and consequences of the impersonality of liberalism. Feeling Pain As we have already begun to see, Martineau makes clear throughout her ill- ness writings that being sick involves a host of distortions and inaccuracies. Illness and pain are, first of all, the products of…",
+      "source": "Rachel Ablow - Victorian Pain (2017, PrincetonUP) - libgen.li.pdf",
+      "chunk_index": 123,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.70478165,
+      "importance": 0.7721142768859863,
+      "final_score": 0.7047817707061768
+    },
+    {
+      "id": "063964bd114ab9eb2506047f",
+      "qdrant_id": "f3feb70a-5f7f-5bfa-8786-cbb62e5165bd",
+      "text": "59. Žižek, End Times, 304. 60. Malabou, “Plasticity and Elasticity,” 78. 61. Malabou, “Plasticity and Elasticity,” 78. 62. Weber, Return to Freud, 159. 63. Žižek, End Times, 304. 64. Malabou, New Wounded, 199. 65. Lacan, Ethics of Psychoanalysis, 270–85.",
+      "source": "Brenna Bhandar, Jonathan Goldberg-Hiller - Plastic Materialities_ Politics, Legality, and Metamorphosis in the Work of Catherine Malabou (2015, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 136,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.70352757,
+      "importance": 0.7513061165809631,
+      "final_score": 0.7035276889801025
+    },
+    {
+      "id": "10f78cce8158347be92c2fcd",
+      "qdrant_id": "5bdece8a-cc2e-503b-abf6-63c4a0d6109f",
+      "text": "for the first time only in its belated repetition. Unsettling temporal structures and disturbing relations between the individual and the world, trauma represents for Caruth a profound crisis of history: If PTSD must be understood as a pathological symptom, then it is not so much a symptom of the unconscious, as it is a symptom of history. The traumatized, we might say, carry an impossible history within them, or they become themselves the symptom of a history that they cannot entirely possess. (1995: 5) Caruth's articulation of a crisis of historical experience resonates powerfully with the broken narratives and disrupted lives which have emerged out of the debris of recent traumatic events. Focusing on the structure of trauma, Caruth knowingly risks the accusation of losing the specifics of an event in a generalisable condition, but far from seeking to minimise or downplay suffering, her work represents an important attempt to think through the hiatuses and dislocations",
+      "source": "Anne Whitehead - Trauma Fiction (2004, Edinburgh University Press) [10.1515_9780748666010] - libgen.li (1).pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.70325744,
+      "importance": 0.7572917342185974,
+      "final_score": 0.7032573819160461
+    },
+    {
+      "id": "d2947270d189214957b7e58c",
+      "qdrant_id": "5cdc60ef-9019-56d1-9f82-b48ee6ce11de",
+      "text": "hood. The spectacle is life as a dream – we all want this” (1995: 8). With Debord, Kristeva points to the way the society of the spectacle inverts reality – instead of experiencing the shallowness and meaning- lessness of capitalist society, subjects begin to experience images as real. While Debord focuses on the way this phenomenon alters objective reality, Kristeva focuses on how it distorts subjective space. In her book, New Maladies of the Soul, which she had written in 1993, Kristeva observes that a new kind of patient is appearing on psycho- analysts’ couches. Today’s patients seem to suffer from a withering of psychic space; they seem to have less of a “soul”: Modern man is a narcissist – a narcissist who may suffer, but who feels no remorse. He manifests his suffering in his body and he is afﬂicted with somatic symptoms. His problems serve to justify his refuge in the very proble…",
+      "source": "[Routledge Critical Thinkers] Noelle McAfee - Julia Kristeva (2003, Routledge) - libgen.li.pdf",
+      "chunk_index": 326,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7023045,
+      "importance": 0.7587249279022217,
+      "final_score": 0.7023045420646667
+    },
+    {
+      "id": "018b1631b85d80864e09b23a",
+      "qdrant_id": "9ca399e8-d37c-5406-8bed-d62082e93476",
+      "text": "1 Bernard Stiegler, Economie de l’hypermatériel et psychopouvoir: Entretiens avec Philippe Petit et Vincent Bontems (Paris: Mille et une nuits, 2008), and Jean Baudrillard, Paroxysm, trans. Chris Turner (London: Verso, 1998).",
+      "source": "François Laruelle - Intellectuals and Power (2014, Polity) - libgen.li.pdf",
+      "chunk_index": 11,
+      "page": null,
+      "seed_hits": [
+        "bernard-stiegler-technics-memory-pharmacology"
+      ],
+      "raw_score": 0.7002522,
+      "importance": 0.7576213479042053,
+      "final_score": 0.7002524137496948
+    },
+    {
+      "id": "0f3ffe17ab2944e4650f192c",
+      "qdrant_id": "2181f3e0-daee-5f9b-a300-7cd4acfe2243",
+      "text": "convinced that his or her clinical attitude would be modified if he or she admitted—as we propose in these pages—that the body is a screen on which memories are projected and that the current somatic suffering of the patient is the vivid resurgence of an earlier pain that had been forgotten. He or she would invite the patient to speak about earlier traumatic shocks, whether psychical or corporeal, that the patient could remember. But we have said that the earlier pain could just as well reappear trans- figured in another affect that is as painful as a feeling of guilt, transformed into a psychosomatic injury or metamorphosed into an impulsive act. How do we explain these avatars of pain? It could happen that the flux of painful energy can strike other neurons than those upon which the image of the aggression is inscribed: other neu- rons, for example, that carry the traces of painful events that were experi-",
+      "source": "The Book of Love and Pain Thinking at the Limit With Freud and Lacan (Juan-David Nasio, David Pettigrew etc.) (Z-Library).pdf",
+      "chunk_index": 192,
+      "page": null,
+      "seed_hits": [
+        "elaine-scarry-the-body-in-pain-representation"
+      ],
+      "raw_score": 0.7719948,
+      "importance": 0.8051468729972839,
+      "final_score": 0.7002242803573608
+    },
+    {
+      "id": "1f1be545c39b26df6f719688",
+      "qdrant_id": "11ae7528-3235-5a14-9a8c-2c74fcd0b65e",
+      "text": "of a sexual encounter in which she is teased with a knife, conveying the sense of reference points destroyed and boundaries lost. At another point she writes: \"I wanted to be whipped into numbness by a stranger. I wanted to be slapped around until I left my body, slid into an altered state of consciousness\" (V 129). Similarly, DeLynn's Don Juan finds a momentary respite from agonizing self-consciousness in the mind- altering yet strangely soothing rituals of sadomasochistic sex. At an­ other point, she dwells on the experience of being fondled at a party by a woman she finds repellent; her sense of disgust only fuels her excite­ ment. Characters have difficulty distinguishing pleasure and pain, lust and disgust: sex takes them to a place where categories are blurred, boundaries confused, and the sense of self shattered. The new lesbian writing draws on male literary influences b…",
+      "source": "Rita Felski_ - Literature After Feminism_ (2003, The University of Chicago Press) - libgen.li.pdf",
+      "chunk_index": 344,
+      "page": null,
+      "seed_hits": [
+        "elaine-scarry-the-body-in-pain-representation"
+      ],
+      "raw_score": 0.7511308,
+      "importance": 0.7930451035499573,
+      "final_score": 0.687852144241333
+    },
+    {
+      "id": "535ffbcc28cd8415a03730a0",
+      "qdrant_id": "b67e2859-d4fd-53b3-9604-dd9cee41ab67",
+      "text": "Dead power is everywhere among us—in the forest, chopping down the songs; at night in the industrial landscape, wasting and stiffening the new life; in the streets of the city, throwing away the day. We wanted something different for our people: not to find ourselves an old, reac- tionary repubhc, full of ghost-fears, the fears of death and the fears of birth. We want something else. —Muriel Rukeyser, The Life of Poetry . . . what, anyway, was that sticky infusion, that rank flavor of blood, that poetry, by which I lived? —Galway Kinnell, \"The Bear\" Sometimes we drug ourselves with dreams ofnew ideas. The head will save us. The brain alone will set us free. But there are no new ideas waiting in the wings to save us as women, as human. There are only old and forgotten ones, new combinations, extrapolations and recognitions from within ourselves—along with the renewed courage to try them o…",
+      "source": "Adrienne Rich - What Is Found There- Notebooks on Poetry and Politics (1993, W.W. Norton) - libgen.li.pdf",
+      "chunk_index": 9,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.6835921,
+      "importance": 0.7383590340614319,
+      "final_score": 0.6835922598838806
+    },
+    {
+      "id": "e956bce49fb46e77135ebec0",
+      "qdrant_id": "d09431f5-d1a3-5a26-aab5-c91ea213be04",
+      "text": "the art leads to an increase or decrease in vitality, and whether it lends itself well or poorly to the struggles of those concerned, especially those who have been dispossessed. It is a more relevant framework for the criticism of collab- orative public works with ameliorative goals than that advanced by Bishop (or Bourriaud, for that matter). The attunement to the social level of creativity is the artistic difference that Altaf and her collaborators bring to the table. It sets the Nalpar project apart from the work of NGOs and government agencies involved in development, aid and the provision of basic material necessities. Nalpar is especially inter­ esting because it illustrates how artists, and not scientists, engineers, urban planners, government agencies or corporations, can act as motors for vital social transformation. This is not to dismiss the potential contributions of…",
+      "source": "Ian Buchanan_ Lorna Collins (editors) - Deleuze and the Schizoanalysis of Visual Art (2014, Bloomsbury Academic) [10.5040_9781472594303] - libgen.li (1).pdf",
+      "chunk_index": 155,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage"
+      ],
+      "raw_score": 0.6828539,
+      "importance": 0.7408421635627747,
+      "final_score": 0.6828537583351135
+    },
+    {
+      "id": "f650b4d190a7628895eb623c",
+      "qdrant_id": "0e3149ed-b91d-57de-a033-14f7a9464dee",
+      "text": "10 Catastrophe Culture, Atrocity Supplements evidence but also in the demand to supplement the overﬂow of atrocity with an afﬁrmative spin. * * * The metaphoric catastrophe is precisely that, the failure of any anchor. Catherine Malabou, Counterpath Whereas the atrocity supplement makes itself both indispensable for the full revelation of the truth and disposable for the protection of the not-yet-adult (it is ‘‘easily detachable’’), in Sontag’s world, such images of ‘‘ultimate horror’’ no longer have the power to disclose any positive or newly revealed truth. Merely the repetition of a once revelatory but now stalled ‘‘negative epiphany,’’ their only truth-function, it would seem, is to reinforce the image in its already established lack of effect, a moribund negativity. Nor, according to Sontag, would such images require the addi- tional shield of supplementary detachment. Rather than t…",
+      "source": "Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation-Fordham University Press (2022).pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.70741403,
+      "importance": 0.7610058784484863,
+      "final_score": 0.6823638081550598
+    },
+    {
+      "id": "f8e4072c7b6319216bd7eba2",
+      "qdrant_id": "172ded81-427c-51d7-b37d-d5b9f3b745d4",
+      "text": "as a ‘follower’ of the late Derrida. Malabou puts forward ways of thinking about the process of deconstruction that have helped to reconceptualize Derrida’s very own project. If one were permitted to identify a single vector of this reworking, it would have to be her attempt to radicalize the very idea of différance – and to come up with what is now called a hyper- deconstruction. In her four books to date, she indeed offers a way of rethinking the abyss of deconstruction, not in an attempt to surpass it or get rid of it for that would be impossible, but in a way that does not leave us in an endless free-fall and yet continues the work of de(con)struction of Western metaphysics. Malabou’s main question is perhaps this one: Why did Derrida continually address the issue of the radically other, of that which has absolutely no ground? This crucial question resets in motion the deconstructive…",
+      "source": "[Renewing Philosophy] Jean-Paul Martinon - On Futurity_ Malabou, Nancy and Derrida (2007, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.71523064,
+      "importance": 0.7674458026885986,
+      "final_score": 0.6803758144378662
+    },
+    {
+      "id": "fbd685cfbc53d54175dd50de",
+      "qdrant_id": "d13dbd48-0fa2-503a-a61d-a0589d2e3c27",
+      "text": "(2007). Her work points to changes in the way in which “the social” is conceptualised: Theories of affect and the deployment of affective capacity are valuable at this conjuncture, she suggests, “to grasp the changes that constitute the social and to explore them as changes in ourselves, circulating through our bodies, our subjectivities, yet irreducible to the individual, the personal and psychological”. (Clough 2007: 3) (Pedwell and Whitehead 2012: 117) Sara Ahmed’s contribution to debates on emotion and affect has also been important and she shows how power works through affect to configure indi- vidual and social bodies (see Ahmed 2000). In The Cultural Politics of Emo- tion (2004) Ahmed’s critical point is that emotions can tie us into conditions of subordination. She also recognises that change is difficult to achieve because relations of power are: “so intractable and end…",
+      "source": "[Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf",
+      "chunk_index": 457,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7961159,
+      "importance": 0.816604495048523,
+      "final_score": 0.6759955286979675
+    },
+    {
+      "id": "ba381764fe3646d5a33c1597",
+      "qdrant_id": "1890a97b-420e-55cc-8d95-059d104ea986",
+      "text": "médias, nous interrogeons sur le métier de critique et sur ce que le féminisme peut lui apporter, entre autres à l’aune de la popularisation des travaux de l’universitaire Laura Mulvey sur le male gaze, et de leur prolongement en France par Iris Brey, notamment dans son essai Le Regard féminin, une révolution à l’écran, paru en 2017. La rélexion se fait presque à bâtons rompus, et « sur pièces », mais elle vise bien à retravailler, voire à remettre en cause, le terme de female gaze, qui a depuis fait lorès. ■ Charlotte Garson © CONDOR DISTRIBUTION",
+      "source": "Cahiers_du_Cin_ma_-_F_vrier_2024.pdf",
+      "chunk_index": 17,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.71587944,
+      "importance": 0.7819159030914307,
+      "final_score": 0.6758962273597717
+    },
+    {
+      "id": "3c2bf1cd68c58455e5485386",
+      "qdrant_id": "4b4809f3-78fe-52fb-9091-9bfc27b27aeb",
+      "text": "to become more healthy, efficient, productive, normal and individual (Foucault 1977: 144). Foucault draws our attention to how the bodies of soldiers, stu- dents, patients, prisoners, housewives, commuters and workers are dis- ciplined through the daily rituals that separate human beings into cat- egories, organise their time and regulate their activity. The processes and standards that order our lives “are a part of our most familiar land- scape” that is often simply taken for granted (1988: 11). It is not only in the prison cell and the schoolyard that disciplinary power is manifest, but also in beauty, fashion and health regimes (Bartky 1988; King 2004; Heyes 2007). Here we see that our bodies are disciplined through our own as- pirations as much as by the overt commands of others. Cressida Heyes highlights the “intensified and proliferating forms of surveillance of the body” (2007: 3…",
+      "source": "[Edition Politik_ 84] Amanda Machin - Bodies of Democracy_ Modes of Embodied Politics (2022, transcript Verlag) [10.1515_9783839449233] - libgen.li.pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "michel-foucault-discipline-punishment-biopower-genealogy"
+      ],
+      "raw_score": 0.73134834,
+      "importance": 0.7757023572921753,
+      "final_score": 0.6733098030090332
+    },
+    {
+      "id": "8b725d9808011156f86879d0",
+      "qdrant_id": "4fde793a-3cfc-51f9-b59d-42b571efe063",
+      "text": "created a turning point for change, his death had been in vain (Ensor 2016). The dissipation of pity and the inaction following the event in the long term affirm the double bind which necro-aesthetics of the virtual induces: abstracting the corpse while abandoning engagement and responsibility for the political. Death imagery as abjection and its pull into a sensorium of affect affirmed the short-lived nature of grief. As part of the postmodern condition, the ‘wound’ of trauma disappears and is replaced by experiences of surprise and mild shock belonging to a category of expression in which we are assaulted by sensations we did not expect (Redfield 2007: 72–73). While in its immediate aftermath Alan Kurdi’s death called attention to the plight of the refugee situation in the Mediterranean, the fascination and obsession over time shifted towards the death imagery a mode of com- modification and the collective sensorium which can be exploited as an av-",
+      "source": "Yasmin Ibrahim - Digital Icons_ Memes, Martyrs and Avatars - libgen.li.pdf",
+      "chunk_index": 434,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7492359,
+      "importance": 0.7903696894645691,
+      "final_score": 0.6713449358940125
+    },
+    {
+      "id": "2acb24d6cfe47d9d44c9bb15",
+      "qdrant_id": "f5e01074-1a66-5961-8982-32f3317bdda8",
+      "text": "during this process. Rather, the nontherapeutic approach to trauma that she describes suggests a wild utopianism-a hopefulness in despair­ that is reminiscent of the politics of despair Sylvia Townsend Warner describes in Summer Will Show. For her examples, Cvetkovich turns to artists and activists whose work is bound up with the everyday experi­ ence of feeling bad. Cvetkovich is involved with an academic and activist organization, the Public Feelings Project, that has attempted to create a political move­ ment that takes seriously such apparently useless feelings. The Chicago­ based \"feeltank\" associated with the group organizes an annual depres­ sion march. The protesters march in bathrobes and slippers, carrying signs that say, \"Depressed? It might be political,\" and passing out fake prescriptions for Prozac. The point of an event like this is not only that the political landscape is bad but also that it makes you feel bad, and that",
+      "source": "Heather Love - Feeling Backward_ Loss and the Politics of Queer History (2007, Harvard University Press) - libgen.li.pdf",
+      "chunk_index": 521,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.667326,
+      "importance": 0.7547717094421387,
+      "final_score": 0.6711111068725586
+    },
+    {
+      "id": "8e367d1cb52fa5be0ab9e496",
+      "qdrant_id": "9d059da0-39ba-5076-8e1b-553d4e9eb432",
+      "text": "dans le cervelet” (I would even assert that inspiration has something in com- mon with convulsion, and that every sublime thought is accompanied by a nervous shock, more or less violent, that reverberates deep within the brain) (Oeuvres complètes, 2: 690). But Baudelaire is well aware that pain also threat- ens creativity, for he fears “de voir s’user et péricliter, et disparaître, dans cette horrible existence pleine de secousses, l’admirable faculté poétique, la netteté d’idées, et la puissance d’espérance qui constituent en réalité mon capital” (see- ing used up, depleted, and disappear—in this horrible existence full of shocks—the admirable poetic faculty, the clarity of thought, and the power of hope that in fact constitute my capital) (Charles Baudelaire, Correspondance, ed. Claude Pichois, 2 vols. [Paris: Gallimard, Bibliothèque de la Pléiade, 1973], 1: 327). See also the discu…",
+      "source": "Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf",
+      "chunk_index": 675,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.66928744,
+      "importance": 0.7642800211906433,
+      "final_score": 0.6692874431610107
+    },
+    {
+      "id": "031a4b3b44cd87179e5b03c1",
+      "qdrant_id": "34742815-2e09-507b-8f68-26a33920a3fb",
+      "text": "purpose painful and difficult circumstances as positive “challenges.” Barbara Ehrenreich has examined this attitude within the culture of breast cancer, which has been rapidly consumerized with pretty and pink products over the past few decades. Ehrenreich, who is herself a breast cancer survivor, is sympathetic to but critical of intragroup pressure to view the disease as a gift or as “a chance for creative self-transformation—a makeover opportunity, in fact” (31). Such “sugarcoating,” she maintains, encourages women who struggle with insurance tangles, fear, and debilitating pain to bury such feel- ings under “a cosmetic layer of cheer” (41).21 The sublimation of negative emotions in postfeminist culture is, of course, a complex process; believing that a painful experience has a higher mean- ing can be a profoundly helpful process for people struggling with illness. Furtherm…",
+      "source": "Splattered Ink Postfeminist Gothic Fiction and Gendered Violence (Sarah E Whitney) (Z-Library).pdf",
+      "chunk_index": 67,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.6672119,
+      "importance": 0.7676204442977905,
+      "final_score": 0.6672119498252869
+    },
+    {
+      "id": "aee1f74edbae42ac970adc5a",
+      "qdrant_id": "a1301965-c85c-52fb-9d91-74d370c08068",
+      "text": "to change capacities, humans can be thought as uniquely able to alter and transform their substance, or rather than being in a set of fixed relations with others of their kind and with the features of their habitat, humans can be thought unique in being able to change and manipulate their relations. We will encounter this self-reflexivity particularly in relation to Malabou and Serres. These three categories of substance, capacity and relation will provide our preliminary orientation in the transformations of the human in contemporary French thought. Pointing out the dangers and shortcom- ings of various ‘hosts’ along with their reflexive variants will be a regular",
+      "source": "Christopher Watkin - French Philosophy Today_ New Figures of the Human in Badiou, Meillassoux, Malabou, Serres and Latour (2016, Edinburgh University Press) [10.1515_9781474414746] - libgen.li.pdf",
+      "chunk_index": 68,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.706025,
+      "importance": 0.7771859765052795,
+      "final_score": 0.6612949371337891
+    },
+    {
+      "id": "636444e4301abae162b79fa0",
+      "qdrant_id": "3378e2c1-e0c8-5b1a-befc-7da1faff214a",
+      "text": "her work upon the world at large, and she has certain hopes, if not inten- tions, for what that work will accomplish in the political realm. As she has described her effort, \"my mode of writing is sublimely didactic\" (Koenen 74). Morrison's hope is simultaneously to reveal and to heal, to strip away the il- lusions to show why African-American life remains to many an embattled existence, and to minister to a beleaguered population: \"There has to be a mode to do what the music did for blacks, what we used to be able to do with each other in private and in that civilization that existed underneath the white civilization. I think this accounts for the address of my books. I am not explaining anything to anybody. My work bears witness and suggests who the outlaws were, who survived under what circumstances and why, what was legal in the community as opposed to what was legal outside it. All that is in the fabric of the story in order to do what the music used to do\" (LeClair",
+      "source": "Marc C. Conner - The Aesthetics of Toni Morrison_ Speaking the Unspeakable (2000, University Press of Mississippi) - libgen.li.pdf",
+      "chunk_index": 65,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts",
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64309615,
+      "importance": 0.747823178768158,
+      "final_score": 0.6604977250099182
+    },
+    {
+      "id": "808f6bcd704be07914003d1a",
+      "qdrant_id": "c461a94f-cb40-57b9-9427-c0b6b7730c7c",
+      "text": "familiarisation à laquelle participèrent d’ingénieux appareils optiques, domestiques et ludiques, bien qu’ils n’en furent pas mécaniquement des anticipations. L’événement qu’est l’entrée d’un être vivant ou d’un objet mobile par un bord de l’image, et sa sortie par un autre bord, constitue le « degré zéro » dramaturgique d’une vue Lumière que des artistes tels que Degas, Caillebotte et de nombreux petits maîtres préigurèrent. C’est ce que le cinéma prolonge, en naturalisant photographiquement la représentation picturale de la vie en train de s’accomplir sans privilégier un moment prégnant mais au proit du quelconque. Et s’il faut à Monet des journées entières pour peindre dans son atelier les vagues agitées de l’Atlantique qu’il a observées sur la côte basque, il suit de quelques minutes aux frères Lumière pour réaliser ce même projet. C’est dire que la cinématographie eut …",
+      "source": "Cahiers_du_Cin_ma_-_Juillet_2024.pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.6674541,
+      "importance": 0.7593697905540466,
+      "final_score": 0.6584331393241882
+    },
+    {
+      "id": "190b59c89259943011116230",
+      "qdrant_id": "92284461-5119-59fd-b422-ea487942d348",
+      "text": "sequential, due to the fact that no one would mourn her departure from this world. Mentally fatigued by continuance, she is therefore accepting of death. W has sought company and failed to fi nd it and therefore, tired of search- ing, she has succumbed to the pull of gravity, descended into the basement, perhaps, and positioned herself in the old rocker. No longer reaching out for another like herself, she accepts the reality that, in her world, no other exists except herself. Although physically she has journeyed into the basement, it is evident that metaphorically she has descended the steep stair down into her mind, where her ‘own other’ is representative of the company she now experi- ences. The rocking chair embraces her, cradling her in its arms, as its soothing movement endeavours to ‘rock her off’ (Beckett 1990: 442) and ‘stop her eyes’ (ibid.). Despite her lack of identi…",
+      "source": "[Continuum Literary Studies] Kathryn White - Beckett and Decay (2009, Continuum) [10.5040_9781472542946] - libgen.li.pdf",
+      "chunk_index": 287,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.66044277,
+      "importance": 0.755258321762085,
+      "final_score": 0.6556847095489502
+    },
+    {
+      "id": "bc37ecf290efcf2fa62c566e",
+      "qdrant_id": "b982e069-6781-5da4-8133-e7bfbbfb37f8",
+      "text": "Regarding the Pain of Others 71 Thus postcolonial Africa exists in the consciousness of the general public in the rich world -besides through its sexy music-mainly as a succession of unforgettable pho- tographs of large-eyed victims, starting with figures in the famine lands of Biafra in the late 1960s to the survivors of the genocide of nearly a million Rwandan Tutsis in 1994 and, a few years later, the children and adults whose limbs were hacked off during the program of mass terror conducted by the RUF, the rebel forces in Sierra Leone. (More recently, the photographs are of whole families of indigent villagers dying of AIDS.) These sights carry a double message. They show a suffering that is outra- geous, unjust, and should be repaired. They confirm that this is the sort of thing which happens in that place. The ubiquity of those photographs, and those horrors, cannot help but nourish belief in the inevitability of tragedy in",
+      "source": "Susan Sontag - Regarding the Pain of Others (2004, Picador) - libgen.li.pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "achille-mbembe-necropolitics-postcolony"
+      ],
+      "raw_score": 0.6534625,
+      "importance": 0.7217811346054077,
+      "final_score": 0.6534625291824341
+    },
+    {
+      "id": "0ad150140af8f58b27aac02b",
+      "qdrant_id": "b7feec69-3f85-5c6d-b712-147b722691e2",
+      "text": "variety of disciplines including quantum physics, biology, feminism, phe­ nomenology, post-structuralism, and post-Marxism. According to Rick Dolphijn and Iris van der Tuin, authors of New Materialism: Interviews and Cartographies, new materialism has been gaining traction since the late 1990s (Dolphijn and van der Tuin 2012, 13). Coined separately by Rosi Braidotti and Manuel DeLanda, new materialism (or neo-­materialism) stresses “the concrete yet complex materiality of bodies immersed in social relations of power” (Dolphijn and van der Tuin 2012, 21). Focusing heav­ ily on feminist issues of embodiment, Dolphijn and van der Tuin work to extend discussions of bodies beyond the human context. That is, the bod­ ies at stake in new materialisms are not limited to human bodies, but include nonhuman animals, plants, rocks, weather patterns, computers, and throw rugs. In one of the interviews conducted by Dolphijn and van der Tuin,",
+      "source": "Brian Hisao Onishi - Weird Wonder in Merleau-Ponty, Object-Oriented Ontology, and New Materialism-Palgrave Macmillan (2023).pdf",
+      "chunk_index": 57,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.77612925,
+      "importance": 0.803512454032898,
+      "final_score": 0.6531351208686829
+    },
+    {
+      "id": "34f74c93c8efe1fe736fd56a",
+      "qdrant_id": "38687b23-a008-5802-8430-afb7692d4d12",
+      "text": "for whom the stories are created. So much so that the people are often convinced the characters are real. In effect, she is telling the people their own stories. Her next step is to find local artists, who are often young people not yet estab- lished as artists, to illustrate the stories. These illustrations further enrich the sto- ries, making them even more real to those who will hear them. We remember once visiting Kathy at this stage of the process and walking onto a beautiful balcony in the early morning sun and seeing maybe ten young people busy as they could be, drawing and coloring their illustrations. In some cases, they were being paid for their work for the first time in their lives. We suddenly began to understand how every step of Kathy’s work was empow- ering those with whom she came into contact—­first the interviewers, then the art- ists, and finally those who would become facilitators in the classroom. At Fonkoze,",
+      "source": "Cash, Kathleen Ann - Sex, Shame, and Violence_ A Revolutionary Practice of Public Storytelling in Poor Communities (2016, Vanderbilt University Press) - libgen.li.pdf",
+      "chunk_index": 23,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.64890194,
+      "importance": 0.7196803092956543,
+      "final_score": 0.6489019989967346
+    },
+    {
+      "id": "b4b786aa34104cc598b70431",
+      "qdrant_id": "43696a6b-c46b-508e-9530-0b1b499beb01",
+      "text": "hand, signifying the reduction of his phallic power. In Nelson, Ada sports a metal ﬁnger crafted by clever George, exchanging the power of her muteness – the phallic femininity that belongs to the mythic, monumen- tal time that precedes and is outside of the social – for the minor dis- comfort of a missing digit, a physical reminder of the way in which that power has been literally as well as ﬁguratively checked by patriarchal imperatives. In losing her ﬁnger and her fetishised piano, and learning to speak, Ada becomes, in one sense, a woman like any other, a woman Retuning The Piano 139",
+      "source": "Cora Kaplan - Victoriana - Histories, Fictions, Criticism (2007, Edinburgh University Press) [10.1515_9780748628186] - libgen.li.pdf",
+      "chunk_index": 543,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6216526,
+      "importance": 0.732586145401001,
+      "final_score": 0.6372829079627991
+    },
+    {
+      "id": "c6c0e78cc1bd706ebec7e80f",
+      "qdrant_id": "aae71090-14bd-564e-8ef7-1a3c9ca8573a",
+      "text": "the object. During this period I take full responsibility.’’ On the table lie a gun, a bullet, needles, scissors, knives, a rose, perfume, and other assorted implements. One man uses the scissors to slice open the artist’s clothing. Another uses a marker to scrawl ‘‘End War’’ across her body. A third holds the gun to her forehead, frozen in a terrifying moment of unthinkable possibilities. After six hours the artist has been cut and is bleeding, and stunned audience members put an end to the performance.∏≤ In another room, at another time, a ﬁlm begins in close-up. We see the head and shoulders of a young woman holding a metal brush in one hand and a comb in the other. She begins speaking: ‘‘Art must be beautiful. Artist must be beautiful.’’ She repeats these lines again and again, acceler- ating and decelerating the pace of her voice at various intervals. As she does so she pulls the br…",
+      "source": "Patrick Anderson (editor)_ Judith Halberstam (editor)_ Lisa Lowe (editor) - So Much Wasted_ Hunger, Performance, and the Morbidity of Resistance-Duke University Press (2010).pdf",
+      "chunk_index": 130,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6354792,
+      "importance": 0.7415242791175842,
+      "final_score": 0.635479211807251
+    },
+    {
+      "id": "084b9e1081b513eb54a9566a",
+      "qdrant_id": "8be8a0bd-1056-5e47-a16a-336037e51e06",
+      "text": "Tenga) of Plant Horror: Approaches to the Monstrous Vegetal in Fiction and Film (Palgrave, 2016) and (with Matthew Wynn Sivils) of The Ecogothic in Nineteenth- Century American Literature (Routledge, 2017). She has also edited a collection on The Walking Dead and coedited (with Elizabeth Erwin) a second. She has recently published numerous articles on folk horror and is working on an edited collection on the topic. She writes regularly for a website she cofounded, Horror Homeroom. is Professor of Political Aesthetics at Birkbeck, University of London. Her books include various studies and translations of Walter Benjamin, as well as Hollywood Flatlands: Animation, Critical Theory and the Avant Garde (Verso, 2002), Synthetic Worlds: Nature, Art and the Chemical Industry (Reaktion, 2005), Derelicts: Thought Worms from the Wreckage (Unkant, 2014), Liquid Crystals: The Science and Art of a Fluid Form (Reaktion, 2016), and two projects on milk",
+      "source": "The Cambridge Companion to American Horror (Stephen Shapiro, Mark Storey) (Z-Library).pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.63156366,
+      "importance": 0.7606189846992493,
+      "final_score": 0.6315636038780212
+    },
+    {
+      "id": "b03ec36da3dd0519169c7ab0",
+      "qdrant_id": "752335b1-2112-5d50-ad54-94706fa3d9a8",
+      "text": "possibilities and enthusiasms, that first day in London was dreary and uncomfortable' (The Envoy from Mirror City, p. 19).54 Frame's writing was what saved her from having a leucotomy and spending the rest of her life in and out of mental institutions. Her doctor hears that Frame has won a literary prize and decides she does not need a leucotomy: 'It was my writing that at last came to my rescue. It is little wonder that I value writing as a way of life when it actually saved my life. My mother had been persuaded to sign permission for me to undergo leucotomy' (An Angel at My Table, p. 106). This is something that haunts her throughout her life; the constant question 'what if?': When I was eventually discharged from hospital, Nola [who had a leucotomy] remained, and although she did spend time out of hospital, she was often re-admitted; over the years I kept in touch with her, and it …",
+      "source": "[Postmodern studies 33] Gunnthórunn Gudmundsdóttir - Borderlines_ Autobiography and Fiction in Postmodern Life Writing (2003, Rodopi) - libgen.li (3).pdf",
+      "chunk_index": 110,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6266713,
+      "importance": 0.7243197560310364,
+      "final_score": 0.6266714930534363
+    },
+    {
+      "id": "1725951964bae109ebf6b50a",
+      "qdrant_id": "48d1315f-7cb9-5ace-bd76-86c75039b540",
+      "text": "WOMEN RECOVERING OUR CLOTHES 67 turning the body or body parts into fetishes. Sweaters cut low in front or back, bathing suits and lingerie cut high on the hip, cutouts in midriff at the waist, skirt slits or short skirts, cutoff pants—all pattern the cloth- ing cut to focus on bare ﬂesh, and frequently the cuts also direct atten- tion to the fetishized neck, breasts, stomach, genitals, thighs, calves, ankles.9 The slit aesthetic creates the image of the sexy clothed body, an image of phallic female power. We women sometimes respond to this image with desire, the desire to be that sexy woman. It’s all true, I guess; at least I cannot deny it: In clothes I seek to ﬁnd the approval of the transcending male gaze; in clothing I seek to trans- form myself into a bewitching object that will capture his desire and identity. When I leaf through magazines and catalogs I take my pleasure from imag…",
+      "source": "(Studies in Feminist Philosophy) Young, Iris Marion - On Female Body Experience_ ''Throwing Like a Girl'' and Other Essays-Oxford University Press, USA (2005).pdf",
+      "chunk_index": 252,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.62648094,
+      "importance": 0.7407939434051514,
+      "final_score": 0.6264809370040894
+    },
+    {
+      "id": "0235cb0f4e667c9498530bc0",
+      "qdrant_id": "4c502dde-32fd-557c-9a72-b3d491593606",
+      "text": "then, and clarified in its resurfacing by contrast with these decimated rather than just defaced pages displayed nearby, that appropriated Book of Maladies, title unchanged, appears in the form of its bound but also artificially sealed imprint—further violated (after sanding) by the corrosive effect of applied liquid crystals on its open surface. Any medicinal dimension to this paralyzed and psoriatic volume has thus suffered the fate of its own signifiers: a case, so to say, of deformation following function, though gorgeous in the alchemy of its mottling—and potential anthropomorphic molting. In this malady-ridden volume, book conservation and reconditioning are reversed in the etymological male habitus (ill-conditioned) substrate of print impress. Hence, once again the transmediation of the illegible page to the figurative bulk or surface of its own evocation. In each work, content is transferred to form so completely",
+      "source": "[Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 167,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6258223,
+      "importance": 0.7495277523994446,
+      "final_score": 0.6258220076560974
+    },
+    {
+      "id": "377fc6d4644a40bd83fa412c",
+      "qdrant_id": "b21b90b8-5523-524e-9ba8-e5aa26296d31",
+      "text": "ability and authenticity, in a way that often cannot be matched in actual True Crime works. There is likely more to say on this point, though it is likely, too, that that is a comment better explored beyond the realms of this project. Subsequently, then, while her efforts range in terms of their subtlety, McNamara (2018) is evidently using comparative language throughout as a means to not only build context around her case-telling—the term ‘story-telling’ does not sit quite right here—but also to build this context in a way that holds relevancy to a reader. This conscientious approach is one of the distinctive features of McNamara’s (2018) authorial practice that marks her as one of the expert tellers featured in this monograph. Research as Collaborative Practice By the close of the Prologue, McNamara (2018) has already alluded both to the compulsivity and to the collaborative practice involved in her",
+      "source": "[Crime Files] Charlotte Barnes - Deconstructing True Crime Literature (2023, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 122,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.64680755,
+      "importance": 0.7291657328605652,
+      "final_score": 0.6043198704719543
+    },
+    {
+      "id": "91698bfe2e82acbe699dd029",
+      "qdrant_id": "2b7d4649-0d4a-52db-96c6-aee370d90f4b",
+      "text": "O N T O L O G Y O F T H E A C C I D E N T An Essay on Destructive Plasticity CATHERINE MALABOU Translated by Carolyn Shread Ontology of the Accident An Essay on Destructive Plasticity CATHERINE MALABOU Translated by Carolyn Shread polity",
+      "source": "Catherine Malabou, Carolyn Shread - The Ontology of the Accident_ An Essay on Destructive Plasticity (2012, Polity) - libgen.li.pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.7379584,
+      "importance": 0.7724609375,
+      "final_score": 0.5423851013183594
+    }
+  ]
+}

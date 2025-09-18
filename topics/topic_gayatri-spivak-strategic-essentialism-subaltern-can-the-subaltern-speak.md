@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: 9f460d8c221a40c915df1121
+- qdrant_id: 61872da7-689b-586b-b89a-c482bfb929dc
+- source: Maryam Ebadi Asayesh - Patriarchy and Power in Magical Realism (2017, Cambridge Scholars Publishing) - libgen.li.pdf
+- chunk_index: 4
+- importance: 0.8418
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+PREFACE Gayatri Chakravorty Spivak’s answer to the question she poses in the title of her seminal essay “Can the Subaltern Speak?” is a clear “no.” For Spivak, the subaltern, particularly the subaltern as female, lacks or is denied access to the dominant discourse and thus “there is no space from which the sexed subaltern subject can speak” (Spivak 1988, 307). By her claim that the subaltern cannot speak, Spivak actually wants to say that even if the female subaltern tries to speak she is condemned to silence because she has no distinctive voice in which to make herself heard by the dominant discourse (Spivak 1996, 292). Another important point Spivak stresses is that if the subaltern were to make herself heard, then “her status as a subaltern would be changed utterly; she would cease to be subaltern” (ibid., 6). Bhabha, in contrast, by claiming that all forms of cultu…
+
+## Excerpt 2
+- id: 07b098039c2cae6cf3d7dbdd
+- qdrant_id: 42e652b8-f58c-52b7-b28d-5803be1fef4a
+- source: Routledge Companion to Critical Theory (Simon Malpas, Paul Wake) (Z-Library).pdf
+- chunk_index: 126
+- importance: 0.8267
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+~gi 1986: 13). Bengali cultural and literary critic Gayatri Chakravorty Spivak (1942–) takes up the question of who is permitted to speak in her challenging and thought-provoking essay, ‘Can the Subaltern Speak?’ (1988). In the context of subaltern studies, subaltern designates non-elite, subordinated social groups such as the colonized illiterate peasantry, tribals and the lower strata of the urban sub-proletariat: groups that are the subjects of discourse and whose identities are constructed from positions that they themselves do not control. Spivak’s question comes to address both the space inhabited by the female subaltern and the historiographical practices of the Subaltern Studies group itself. Whilst few contemporary critics call themselves narratologists, or perhaps even think of their critical practice in terms of narratology, narrative theory plays a significant role in critical theory. Narrative theory has found useful application
+
+## Excerpt 3
+- id: be0b358add1e04877a92723d
+- qdrant_id: 28c43589-0e30-54fa-8075-524dcd069dc0
+- source: Namita Goswami - Subjects That Matter_ Philosophy, Feminism, and Postcolonial Theory-SUNY Press (2019).pdf
+- chunk_index: 36
+- importance: 0.8064
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+speak” (308).13 It may be worthwhile to briefly reread how she got to this statement, especially since “Can the Subaltern Speak?” entered its thirtieth year of publication in 2018.14 In her essay, Spivak demonstrates the geopolitical determination of discourses that declaredly vitiate the sovereignty of the western subject but in fact rehabilitate this subject’s hegemony by ceding the intellectual as a transparent vehicle of the other’s transparent voice. To garner actual avenues for subaltern women to speak, Spivak aims for a more nuanced understand- ing of ideology that can dispute subaltern women’s reputed accessibility. First, the beneficent impulse to transmit the other’s authentic voice presupposes a “monolith [. . .] [called] ‘women’ . . . whose unfractured subjectivity allows them to speak for themselves” (278). The subject is typified as fragmented and dispersed (subject rather than Subject) while the oppressed are valorized as
+
+## Excerpt 4
+- id: 08000ea9d7fe0414d0cf6e14
+- qdrant_id: 0847ff72-7fc1-59a8-8897-0f68649b1cc8
+- source: Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf
+- chunk_index: 362
+- importance: 0.8082
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+FEMINIST PHILOSOPHIES A–Z 139 Strategic Essentialism: a concept used ﬁrst by Gayatri Chakra- vorty Spivak in her essays ‘Can the Subaltern Speak?’ (1988) and ‘Subaltern Studies: Deconstructing Historiog- raphy’ [1985] (1995) to indicate a political and temporary use of essentialism for the subversive ends of creating or understanding a group self-consciousness. Spivak, in her critique of the Subaltern Studies group, a working group of postcolonial theorists, argues that when she reads their work ‘from within but against the grain’ (1985: 214) she reads the project as an attempt to develop a narrow con- sciousness, a self-consciousness, that would allow the em- ployment and deployment of a strategic essentialism to understand the subaltern woman. She says: I would suggest that elements in their text would warrant a reading of the project to retrieve the subal- tern consciousness as the attempt to undo a massive historiographic metalepsis and ‘situated’ the effect
+
+## Excerpt 5
+- id: 4211594455e139e053dd0594
+- qdrant_id: da57ded9-e15f-5231-a133-efd3ac6d3d77
+- source: Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li (1).pdf
+- chunk_index: 371
+- importance: 0.7986
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+that may inﬂuence what is taken to count as truth and knowledge. They, thus, cannot be reﬂexive in the more thorough and productive sense that Harding requires of reﬂexivity. See diffraction Subaltern: Gayatri Chakravorty Spivak asks the question ‘Can the subaltern speak?’ (283) in her important 1988 article ‘Can the Subaltern Speak?’ Her response to this question is ‘the subaltern cannot speak’ (308). The term subaltern refers to those oppressed, marginalised or colonised individuals and communities and was ﬁrst used by Antonio Gramsci, an early twentieth-century Italian social theorist, to refer to oppressed economic classes. When Spivak claims that the subaltern cannot speak she is asserting that because academics (in her essay she is refer- ring to postcolonial theorists) have been trained to listen in the language of hegemonic, white, androcentric, Euro- centric discourse they are incapable of hearing the subal- tern. Thus when academics make claims about the subal-
+
+## Excerpt 6
+- id: 0c7ee3d8e933a587668fbdbe
+- qdrant_id: 6ac7f636-128f-5b6e-aecb-818b8227c516
+- source: Johnstone, Hazel_ Evans, Mary_ Madhok, Sumi_ Hemmings, Clare_ Pl - The SAGE handbook of feminist theory (2014, SAGE Publications Inc) - libgen.li.pdf
+- chunk_index: 184
+- importance: 0.8034
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+namely: who can, or should, speak for nature? How should nature/culture debates deal with the question of representation? Gayatri Spivak (1988) famously asked whether the subaltern could speak as a way of highlighting the fraught nature of a colo- nial representation of the reality of colonized peoples. In terms that reverberate with Spivak’s groundbreaking challenge to feminist theory and beyond, Catriona Sandilands also asks about the possibility of representing nature:
+
+## Excerpt 7
+- id: d20c80a4e1f95b49f5171e36
+- qdrant_id: 2c063069-5310-50fa-9de7-d8e4113fcdf0
+- source: Sophia Phoca - Introducing Postfeminism-Totem Books (1999).pdf
+- chunk_index: 88
+- importance: 0.7985
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Spivak is a member of the Subaltern Studies Collective, based at Delhi University, which investigates Indian colonial history. Its aim is to establish a subaltern or peasant consciousness independent of any hegemonic élite. In this perspective, Spivak questions the essentialist assumption of a subject who speaks from a position of knowledge in terms of identity (race, gender, class, etc.) rather than difference. "Can men theorize feminism, can whites theorize racism, can the bourgeois theorize revolution, and so on. It is only when the former groups theorize that the situation is politically intolerable. Therefore it is crucial that members of these groups are kept vigilant about their assigned subject positions . . . (The position that only the subaltern can know the subaltern, only women can know women and so on, cannot be held as a theoretical presupposition either, for it predicates the possibility
+
+## Excerpt 8
+- id: dee2565e71014cdabb044cdc
+- qdrant_id: 12afd2fa-3937-5742-b3d4-dbab4c926c39
+- source: Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li (1).pdf
+- chunk_index: 241
+- importance: 0.8024
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+marginalised or colonised individuals and communities, in other words individuals who have been radically oth- ered through colonialism. Third World feminist Gayatri Chakravorty Spivak asks the question ‘Can the subal- tern speak?’ (283) in her 1988 article ‘Can the Subaltern Speak?’ Her response to this question is ‘the subaltern cannot speak’ (308) because the subaltern woman is ef- fectively silenced by the theorist that is claiming to speak for her. Thus the subaltern woman is further othered by those claiming to be speaking for her. Ecofeminists have argued that western culture treats non-human nature as Other. Ecofeminist Val Plumwood in her 1994 book Feminism and the Mastery of Nature connects dualisms to othering. She argues that viewing humans and nature as separate and opposed and clinging to Cartesian rationality has led to a distancing of hu- mans from nature and a ruthless treatment of nature as Other. In turn, this has led to pervasive environmental
+
+## Excerpt 9
+- id: 33c54bac7a75e0b38edf6c68
+- qdrant_id: a33b9f50-c174-5e4b-bfa9-8b99d3ad8d3c
+- source: David Carter - Literary Theory (Pocket Essential series) (2006, Pocket Essentials) - libgen.li.pdf
+- chunk_index: 218
+- importance: 0.8093
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+unemployed, the homeless, subsistence farmers etc. Of course,she is especially interested in the fate of the ‘female subaltern’. She is concerned that the ‘female subaltern’ is not misrepresented (in Can the Subaltern Speak? 1988). Spivak argues that, in the traditional Indian practice of burning widows on the funeral pyres of their husbands, neither the Indians nor the British colonisers allowed the women themselves to express their own views. She combines Marxism and a deconstructive approach in analysis of colonialist texts, showing how they create false oppositions between a united colonialist consciousness and a ﬁctional primitive chaos. It is possible, she argues, through deconstruction of the text, to reveal the insta- bility of these oppositions, the hollowness in fact of the colonial power structure. DAVID CARTER 118
+
+## Excerpt 10
+- id: 5557ef914e5d480d395c9afc
+- qdrant_id: 813d75dd-8690-56ba-b414-2a9eeb8cfb01
+- source: Namita Goswami - Subjects That Matter_ Philosophy, Feminism, and Postcolonial Theory-SUNY Press (2019).pdf
+- chunk_index: 35
+- importance: 0.7909
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+7 INTRODUCTION in “Can the Subaltern Speak?” was assessed as synonymous with sheer victimization. Notwithstanding postcolonial feminist disapproval of Spivak’s putative silencing of the subaltern, the essay’s money line (if you will) is the acknowledgment that the “subaltern subject is irretrievably heterogeneous” (284).12 To refute the normalization of silence, Spivak’s titular question lends the lie to any proxy (Vertreten) or portrait (Darstellen) that undertakes verisimilitude. At that time in the Euro-US academy, the aggregate ontol- ogy of the colonized female body stood in stark contrast to the condition of philosophy that proffered an unknowable subject. Against this desire for authenticity, Spivak interjects her notorious lament that “the subaltern cannot speak” (308).13 It may be worthwhile to briefly reread how she got to this statement, especially since “Can the Subaltern Speak?” entered its thirtieth year of publication in 2018.14
+
+## Excerpt 11
+- id: 272b6ff75e3ad2700e04e94c
+- qdrant_id: 10d7b38f-b5af-5a18-8c07-0fa05e4e3a8f
+- source: William E Cain, Jeffrey J Williams, John McGowan, Laurie A Finke - The Norton Anthology of Theory and Criticism (2018) - libgen.li.pdf
+- chunk_index: 458
+- importance: 0.7914
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+The first part of my proposition—­that the phased development of the sub- altern is complicated by the imperialist project—­is confronted by the “Subal- tern Studies” group.4 They must ask, Can the subaltern speak? ­Here we are within Foucault’s own discipline of history and with people who acknowledge his influence. Their project is to rethink Indian colonial historiography from the perspective of the discontinuous chain of peasant insurgencies during the colonial occupation. This is indeed the problem of “the permission to narrate” discussed by Said.5 As Ranajit Guha, the founding editor of the col- lective, argues, 2004 / GAYATRI CHAKRAVORTY SPIVAK
+
+## Excerpt 12
+- id: b58faa2ff09bc34f0fdbcb42
+- qdrant_id: f28bb730-a969-5091-922f-f9efb4c6bb29
+- source: Foucault and Feminism Power, Gender and the Self (Lois Mcnay) (Z-Library).pdf
+- chunk_index: 157
+- importance: 0.7884
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Methuen. —— 1988. Can the subaltern speak? In L. Grossberg and C. Nelson (eds), Marxism and the Interpretation of Culture. London: Macmillan. —— 1990. Gayatri Chakravorty Spivak: an interview. Radical Phi- losophy, 54, 32–4. Taylor, C. 1989. Sources of the Self: The Making of the Modern Identity. Cambridge: Cambridge University Press. Thompson, J. and Held, D. (eds) 1982. Habermas: Critical Debates. London: Macmillan. Waerness, K. 1987. On the rationality of caring. In A. Showstack Sassoon (ed.), Women and the State: The Shifting Boundaries of Public and Private. London: Hutchinson. Warnke, G. 1987. Gadamer: Hermeneutics, Tradition and Reason. Cambridge: Polity Press.
+
+## Excerpt 13
+- id: c290cb057de084ccd1adbc41
+- qdrant_id: 243b9114-2e77-5d5d-b7c4-50e452c58b94
+- source: Namita Goswami - Subjects That Matter_ Philosophy, Feminism, and Postcolonial Theory-SUNY Press (2019).pdf
+- chunk_index: 90
+- importance: 0.7892
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+excellence. To resuscitate this abstract subaltern via an infusion of determinate politics, therefore, she cannot grant any substantive basis to Spivak’s concept of subalternity, when political interests (colonial or metropolitan) generate the subaltern’s ethereality in the first place. Varadharajan applies the determinate- philosophical to the theoretical-postcolonial for the feminine Ethnic Other’s political desire to gain priority over metropolitan interests precisely because Spivak’s reputedly self-interested discourse eclipses subaltern protest. Having established a distinction between the substantive subaltern (universal determinate-philosophical) and the abstract subaltern (particular theoretical-postcolonial), Varadharajan reinstates a gendered subaltern whose body is the site of political remonstration against historical processes. Since this seemingly fit to purpose subaltern signifies radical otherness and negative
+
+## Excerpt 14
+- id: d8366cca3a92dcb7cea9ebde
+- qdrant_id: 00217cf3-7b4b-5981-8806-c9ac57390c78
+- source: [LEA's communication series] Øyvind Ihlen, Betteke Van Ruler, Magnus Fredriksson - Public Relations and Social Theory_ Key Figures and Concepts (Routledge Communication Series) (2009, Routledge) - libgen.li.pdf
+- chunk_index: 174
+- importance: 0.7923
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+as this group gets represented in the discursive space, Spivak suggests that this essence is always the Darstellung. For instance, the political rep- resentation of a subaltern group in an activist performance is built upon a portrayal of the group. For the public relations scholar engaging with postcolonial theory that seeks to create spaces for listening to subaltern voices, Spivak argues that these voices that we set out to listen to are always representations, not just of the subaltern voices but also of us as scholars. She suggests that “a deconstructive awareness would insistently be aware that the masterwords are catachreses…that there are no literal referents, there are no ‘true’ examples of the ‘true worker,’ the ‘true woman,’ the ‘true proletarian’ who would stand for the ideals in terms of which you’ve mobilized” (1990, p. 104). It is this recognition of the two mea…
+
+## Excerpt 15
+- id: 7bb35ce030da87a8f684450e
+- qdrant_id: 38831433-2513-55ff-bdc4-24caa6d10c7e
+- source: [Questioning Cities] Anders Blok (ed.), Ignacio Farías (ed.) - Urban Cosmopolitics_ Agencements, Assemblies, Atmospheres (2016, Routledge) - libgen.li.pdf
+- chunk_index: 153
+- importance: 0.7841
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+University Press. Spivak, G.C. 1988. Can the Subaltern Speak? In: C. Nelson and L. Grossberg, eds. Marxism and the Interpretation of Culture. Urbana: University of Illinois Press. Stengers, I. 2005. The Cosmopolitical Proposal. In: B. Latour and P. Weibel, eds. Making Things Public: Atmospheres of Democracy. Cambridge, MA: MIT Press, 994–1003. Taylor, N. 1998. Urban Planning Theory Since 1945. London: SAGE. Tironi, M. 2015. Modes of technification: Expertise, urban controversies and the radical- ness of radical planning. Planning Theory, 14(1), 70–89. Varas, A. 2006. Buenos Aires: Una trilogía metropolitana. Buenos Aires: Nobuko.
+
+## Excerpt 16
+- id: b1b3318ba9b76e1e10d3fb4d
+- qdrant_id: ad198a11-7195-58c7-81e7-2c6610d3e86f
+- source: On the Inconvenience of Other People (Lauren Berlant) (Z-Library).pdf
+- chunk_index: 147
+- importance: 0.7835
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Spillers, Hortense J. “Mama’s Baby, Papa’s Maybe: An American Grammar Book.” In “Culture and Countermemory: The ‘American’ Connection.” Special issue, Diacritics 17, no. 2 (Summer 1987): 64–81. Spivak, Gayatri Chakravorty. “Can the Subaltern Speak?” In Marxism and the Interpre- tation of Culture, edited by Cary Nelson and Lawrence Grossberg, 271–313. Urbana: University of Illinois Press, 1988. Spivak, Gayatri Chakravorty. “Can the Subaltern Speak? Speculations on Widow- Sacriﬁce.” Wedge, nos. 7–8 (1985): 120–30. Spivak, Gayatri Chakravorty. “Criticism, Feminism, and The Institution: An Interview with Gayatri Chakravorty Spivak” (1984). In The Postcolonial Critic: Interviews, Strategies, Dialogues, edited by Sarah Harasym, 1–16. New York: Routledge, 1990. Spivak, Gayatri Chakravorty. “ ‘Draupadi’ by Mahasveta Devi.” In “Writing and Sexual Diﬀerence.” Special issue, Critical Inquir…
+
+## Excerpt 17
+- id: f584ab508ab05fa985c22f89
+- qdrant_id: 1365b3fa-0b67-5514-8e00-75c1478b50af
+- source: [Theory Q] Anjali Arondekar - Abundance_ Sexuality’s History (2023, Duke University Press) [10.1515_9781478024484] - libgen.li.pdf
+- chunk_index: 19
+- importance: 0.7870
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Make. Believe · 5 Neferti Tadiar reminds us, “In this endeavor, anti-­European, anti-­colonial critiques have not lost their pointed relevance”; rather, they have become suitably bracketed, akin to “third-­string guests in a crowded party, nodded to in passing,” while academic shareholders make their way to topics with “the highest profit margin.”20 In so ­doing, we recast, as it ­were, over and over again, the early debates inaugurated by Gayatri Spivak’s seminal essay “Can the Subaltern Speak?” as histories of elsewheres perform necessary scenes of nonrepresentability and reprieve (recall her opening invocation of the conversation between first-­world intellectuals, Deleuze and Fou- cault). What is often elided in readings of Spivak’s essay is her emphasis on forms of learning from below that must flourish precisely ­because of such incommensurability.21 Given such a conceptual quagmire, then, how do we harness the tre-
+
+## Excerpt 18
+- id: e1b0ad189d658028655e70cb
+- qdrant_id: c68c375b-0478-5591-8d9e-a6556916ade5
+- source: (New Critical Idiom) Pam Morris - Realism-Routledge (2003).pdf
+- chunk_index: 491
+- importance: 0.7824
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+preserve some irreducible ethnicity but, on the contrary, to further the ‘demand for the recognition of the tribal as a citizen of independent India’ (Devi 1995: xvii). Moreover, she moves from the particularity of this cause to the universal plight of ‘all the indigenous people of the world’. Nevertheless, Spivak’s ‘Preface’ as translator is somewhat anxious or defensive in tone as to the status of her translation. This is not too surprising given her theoretical afﬁliation with deconstruction and her earlier essay ‘Can the Subaltern Speak?’ (Spivak [1988] 1993: 66–111) which suggests the question has to be answered in the negative. She concludes her Preface by quoting the warning contained in the South African writer, J.M. Coetzee’s comments on his translation of the Dutch poet Achterberg: It is in the nature of the literary work to present its translator with problems for which the pe…
+
+## Excerpt 19
+- id: 76b9ee1ded2f2431a557a45e
+- qdrant_id: a59f6d40-74ae-5b91-b470-ea245081911d
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li (1).pdf
+- chunk_index: 132
+- importance: 0.7789
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+that will see such an alignment to be without interventionist value. Indeed it is in their very insistence upon the subaltern as the subject of history that the group acts out such a translating back, an interven- tionist strategy that is only partially unwitting. (206-207) Spivak's simultaneous critique ana endorsement of Subaltern Studies' essentialism suggests that humanism can be aaivated in the service of
+
+## Excerpt 20
+- id: db9a0a379742954b1f3a3c15
+- qdrant_id: ceef3038-a0e0-5223-9491-33d532cc1895
+- source: George Hartley (editor)_ Stanley Fish (editor)_ Fredric Jameson (editor) - The Abyss of Representation_ Marxism and the Postmodern Sublime-Duke University Press (2003).pdf
+- chunk_index: 81
+- importance: 0.7848
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Spivak’s infamous subaltern. According to the terms of Spivak’s construction of the subaltern as sheer heterogeneity, whatever itineraries of the subject we might imagine capable of o√ering themselves up as objects of intellectual se- duction, we must, it seems, content ourselves with the impossible demand to continue on the quest to represent the unrepresentable. The subaltern thus functions for Spivak as the postmodern sublime object continually e√aced from view under Western(ized) eyes. Laclau and Mou√e, on the other hand, o√er a productive mode of entry into this impossible space through their notion of hegemony—a notion that ˇZiˇzek modiﬁes in his Lacanian model of the symptom. The question still remains, When we say that we cannot represent the subaltern, who is this ‘‘we’’? And what happens when the symptom or the subaltern occupies the position of the subject of the sentence? To …
+
+## Excerpt 21
+- id: 8be9998b4e4629042f798c9e
+- qdrant_id: 69bf18d9-c523-52c1-a517-b0b84777e667
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.7789
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+ist notions such as agency, totality, and presence. Spivak's "Subaltern Studies: Deconstructing Historiography" (1987, 197-221) is a sharp and discerning reading of the way in which the collective's entire attempt to "let the subaltern speak" falls prey to a positivistic search for a subaltern or peasant consciousness, which, in Spivak's opinion, can never be ultimately recovered.5 What is strikingly different about Spivak's reading of Subaltern Studies is that she does not dismiss their essentialism out of hand. In fact,sshe reads the collective's humanist ambitions to locate a subaltern consciousness as "a strategic use of positivist essentialism in a scrupu- lously visible political interest" (205). Wittingly or unwittingly, Subal- tern Studies deploys essentialism as a provisional gesture in order to align themselves with the very subjects who have been written out of conv…
+
+## Excerpt 22
+- id: 2a62160225f7d341ae0a5d21
+- qdrant_id: edc1a326-74f3-53cc-a6d5-78d2f6e5427d
+- source: (SUNY series in contemporary continental philosophy) Christina Hendricks, Kelly Oliver - Language and Liberation_ Feminism, Philosophy, and Language -State University of New York Press (1999).pdf
+- chunk_index: 52
+- importance: 0.7856
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+describes a strategic deployment of a class or group identity for the sake of eliminating the very identity used as a political strategy. For example, workers may unite as workers in order to challenge capitalism and exploitation so that one day they will own the means of their own production and no longer be merely workers but also owners. Discussing the subaltern, Spivak maintains that group identity is necessary to come together in political struggle and change the very identity in question. If we apply Spivak's notion of "strategic essentialism" to women, we can acknowledge that it might be necessary for women to unite using the group identity that currently serves to keep them oppressed in order to challenge oppression and ultimately to challenge any notion of identity that essentializes woman. The tensions in the debate over women's identity are becoming more apparent in recent…
+
+## Excerpt 23
+- id: bec9daf4d80b575e738623e2
+- qdrant_id: 20259386-3d28-5617-9d39-cba642125b46
+- source: Mónica Judith Sánchez Flores (auth.) - Political Philosophy for the Global Age-Palgrave Macmillan US (2005).pdf
+- chunk_index: 175
+- importance: 0.7815
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Spivak, G. C. 1988. “Can the Subalterns Speak?” In Marxism and the Interpretation of Culture. Ed. C. Nelson and L. Grossberg. Urbana: University of Illinois Press, pp. 271–313. Starr Sered, S. 1994. Priestess, Mother, Sacred Sister: Religions Dominated by Women. Oxford: Oxford University Press. Stearn, S. 1982. “On Fitness.” In Environmental Adaptation and Evolution, Ed. D. Mossakowski and G. Roth. Stuttgart: Gustav Fisher. Steiner, H. 1994. An Essay on Rights. Oxford: Basil Blackwell. Swenson, R. 1992. “Galileo, Babel, and Autopoiesis (it’s Turtles All the Way Down).” International Journal of General Systems 21: 267–69. Tae, H. 1997. “Toward Postcolonial Feminist Ethics: Gayatri Spivak and French Feminism.” Journal of English Language and Literature 43(1): 151–69. Tamir, Y. 1993. Liberal Nationalism. Princeton: Princeton University Press. Tams, H. 1998. Communitarianism: A New Agenda for Politics and Citizenship. Basingstoke: Macmillan.
+
+## Excerpt 24
+- id: b1339ed4202441447d49b76f
+- qdrant_id: 0df470fd-3bf6-5626-85e0-428b4d4b4e64
+- source: Nikos Papastergiadis - The Cosmos in Cosmopolitanism-Polity Press (2023).pdf
+- chunk_index: 114
+- importance: 0.7765
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+world has become too messy. Cultures overlap. People are on the move. Communication technologies can skip over territorial borders. In this context, the multitude of distinctive cosmologies will inevitably interact with each other. But on what basis can they commune with sympathetic neighbors let alone operate amidst rival cosmologies? The postcolonial theorist Gayatri Spivak’s concept of “strategic essentialism” could be helpful for grasping the potential to engage with competing cosmologies (2012b). From this perspective each cosmology must proceed as if it is fixed at the center of the world, but also accept
+
+## Excerpt 25
+- id: 098bdd645be7256c775e8049
+- qdrant_id: 6cd36ae1-7968-5edc-9d24-ab5f2c8d97a8
+- source: edited by Nico Bechter & Gabriele De Angelis - Problems of Democracy_ Probing the Boundaries - libgen.li.pdf
+- chunk_index: 261
+- importance: 0.7627
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+is the non-I. F. Subaltern Counterpublics: ‘The Subaltern cannot speak.’ (Spivak) The term ‘subaltern’ was first used by Gramsci to refer to economically dispossessed social groups, but later picked up by Spivak, who first used it in its current postcolonial sense in ‘Can the Subaltern Speak?’15 Rita Felski coined the term ‘counterpublic’ when referring to the feminist public sphere that offered a critique of cultural values of the bourgeois public sphere from the standpoint of women as a marginalized group within society.16 It was Nancy Fraser who put both terms together for the first time and, drawing on scholars such as Joan Landes, Mary Ryan, Geoff Eley, problematized some of the ‘dubious assumptions’ that underlay the bourgeois public sphere, as it ‘rested on, indeed was temporarily constituted by, a number of significant exclusions’.17 Subaltern counterpublics as a critical term de…
+
+## Excerpt 26
+- id: 5b6911b94dcd7ea82dfa5cce
+- qdrant_id: 2e5e4d4c-2960-5f85-90ab-d2f903e8af67
+- source: Jane Elliott, Derek Attridge - Theory After 'Theory' (2011, Routledge) - libgen.li (1).pdf
+- chunk_index: 176
+- importance: 0.7730
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+to repudiate the aspiration that animates these projects. But my point is that the aspiration to learn - and its political instantiation in the form of coalitional organ­ ization — does not resolve the fundamental problem that Spivak so aptly and dis­ turbingly casts as the subaltern subject’s muteness — or more precisely, our incapacity to hear from her what we do not already know to know. Of course, ‘learning’ can take rather different forms, not aU of which depend on intersubjective relations. Partha Chatterjee also advocates for the value of
+
+## Excerpt 27
+- id: 4ba97b3f92c09ec1bc7e7e39
+- qdrant_id: d93d3175-9315-5b67-88e3-c7e99799ff5b
+- source: (Neo-Victorian Series vol. 3) Marie-Luise Kohlke, Christian Gutleben - Neo-Victorian Gothic_ Horror, Violence and Degeneration in the Re-Imagined Nineteenth Century-Rodopi _ Brill (2012).pdf
+- chunk_index: 132
+- importance: 0.7666
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+representation and empowering of the colonised other avoid following a political agenda? As Gayatri Spivak has shown in her seminal essay, ‘Can the subaltern speak?’, the whole point of postcolonial literature is to give voice to the subaltern, to allow the colonised other to finally speak for her/himself and no longer be spoken by the colonial masters. This oppositional and retributional stance can also be found in postcolonial Gothic where the other, the monster or the revenant speaks out against her/his oppression and annihilation. What is at stake in the exploration of these forms of otherness – and this is a major difference from the postmodernist approach to Gothic – is not, or at least not primarily, ontological but essentially political, insisting on individual resurrections which always possess a collective or national dimension. Jane Eyre’s Bertha Mason is often considered as an archetype of the Victorian Gothic character, the epitome of the fearful unknown
+
+## Excerpt 28
+- id: 864c25469fb7c81f1f81850e
+- qdrant_id: 52f339e4-8ed0-5704-87cd-09eff6d0a6fa
+- source: Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf
+- chunk_index: 443
+- importance: 0.7695
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Spelman, Elizabeth (2002) Repair: The Impulse to Restore in a Fragile World. Boston: Beacon Press. Spivak, Gayatri Chakravorty (1988) ‘Can the Subaltern Speak?’, in Lawrence Grossberg (ed.), Marxism and the Interpretation of Cul- ture. Chicago: University of Illinois Press, pp. 271–316. Spivak, Gayatri Chakravorty (1993) Outside In the Teaching Machine. London: Routledge. Spivak, Gayatri Chakravorty (1995) The Spivak Reader: Selected Works of Gayatri Chakravorty Spivak. New York: Routledge. Spivak, Gayatri Chakravorty (1999) A Critique of Post-Colonial Rea- son: Toward a History of the Vanishing Present. Cambridge, MA: Harvard University Press. Spivak, Gayatri Chakravorty (2003) Death of a Discipline. New York: Columbia University Press. Spretnak, Charlene (ed.) (1982) The Politics of Women’s Spirituality: Essays on the Rise of Spiritual Power within the Feminist Movement. New York: Anchor Books. Sullivan, Shannon (2001) Living Across and Through Skins: Trans-
+
+## Excerpt 29
+- id: 62404845a7f72221a560d9f0
+- qdrant_id: 35bce84c-e28a-5b26-905c-1c0ef28ca7b0
+- source: Jane Elliott, Derek Attridge - Theory After 'Theory' (2011, Routledge) - libgen.li (2).pdf
+- chunk_index: 59
+- importance: 0.7713
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+compulsory about it, that only comes into being through the act ofjudging itself, and its implicit appeal — always contestable - to what Zerilli, after Wittgenstein, calls ‘our mutual attunement in language’ (129). Rethinking the politics of representation It is perhaps no surprise that two of the essays in this section are specifically con­ cerned with representation and postcoloniality. From Edward Said’s Orientalism to Spivak’s infamous query, ‘Can the subaltern speak?’, to ChandraT. Mohanty’s inter­ rogation ofWestern feminism in ‘Under Western Eyes: Feminist Scholarship and Colonial Discourses’, questions of postcoloniality, race and ethnicity became, under the auspices of theory, inextricable from questions of representation. While iden- tity-politics models of scholarship usually highlighted exclusions and called for 6.111 and equal representation of racial and ethnic mino…
+
+## Excerpt 30
+- id: 4620ac26f3613cca84e58dbd
+- qdrant_id: d2af1f90-a2f7-56b0-9264-7629887954f4
+- source: Clough, Patricia Ticineto - Autoaffection_ unconscious thought in the age of teletechnology (2000, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 122
+- importance: 0.7765
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+40. Gayatri Chakravorty Spivak, The Post-Colonial Critic: Interviews, Strategies, Dialogues, ed. Sarah Harasym (New York: Routledge, 1990), 51, 41. Gayatri Chakravorty Spivak, "Translator's Preface and Afterword to Ma- hasweta Devi, Imaginary Maps," in The Spivak Reader, ed. Donna Landry and Ger- ald Maclean (New York: Routledge, 1996), 270. 42. Trinh, Woman, Native Other, 76. 43. Trinh, Framer Framed, 157. 44. Gayatri Chakravorty Spivak, "Can the Subaltern Speak?" in Marxism and the Interpretation of Culture, ed. Gary Nelson and Larry Grossbery (Urbana: University of Illinois Press, 1988), 288-89. 45. Herman Rapaport, "Deconstruction's Other: Trinh T. Minh-ha and Jacques Derrida," Diacritics 25 (1995), 102. 46. I take the phrase "flickering signifiers" from N. Katherine Hayles's essay "Virtual Bodies and Flickering Signifiers," October (fall 1993): 69-91. Hayles links teletechnology to …
+
+## Excerpt 31
+- id: 84d0fb272248074b1775c92d
+- qdrant_id: c954b0c9-d885-5dfc-a9e1-502c2f7a0561
+- source: Bauman, Zygmunt_ Raud, Rein - Practices of selfhood (2015, Polity Press) - libgen.li.pdf
+- chunk_index: 114
+- importance: 0.7606
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+you do not adopt the correct position from within which to act, and if you do, you are no longer able to act. But this now raises an interesting problem. From my point of view, adopting a speaker-position that has been imposed on you – especially when this is done uncritically – is an act of violence against yourself. This is the precondition of being successfully oppressed. This is what Gayatri Spivak was challenging in her seminal article entitled ‘Can the Subaltern Speak?’ (1988). Thus, supposedly, what we should do is to get rid of, or at least to con- sciously try to neutralize, the external matrix imposed on our speech at any given moment. Because, otherwise, a genuine meeting of minds in Buber’s sense would hardly be possible, we would be repeating to each other the pleasing, but unproductive, words of pre-existing scripts from a conversation guide. But what if the ava…
+
+## Excerpt 32
+- id: 9b1640fb4e48d9e61debdada
+- qdrant_id: 26f37c70-1c87-58b2-be68-cd358d114cf9
+- source: (Theory Q) Anjali Arondekar - Abundance_ Sexuality’s History-Duke University Press (2023).pdf
+- chunk_index: 388
+- importance: 0.7687
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+in accepting our contact as a source of constant and uneven multilingual learning. The task of translation ­here, and as it has always been in South Asia, signified less as proj­ect of literalism and more as a proj­ect of recom- position and rendition.37 Boys are out, or a map for queer (and South Asian) ­futures: Last but not least, most surprisingly, the central protagonists (or villains) of the conference ­were not gay men (as I had falsely assumed). No centrality was given to cis/gay men; instead, feminists, lesbians, and trans/subjects took on key roles, not in any orchestrated summoning of safe spaces (as is the practice ­here in the United States, or even in India) but more as an organic instantiation of the worlds outside the sanitized space of the academic conference. ­After all, even in terms of the sparse ­legal rights afforded to sexual minorities in Pakistan, the k…
+
+## Excerpt 33
+- id: 2a5df5fbc4ba6c60905c9eb0
+- qdrant_id: 6421a423-7f40-5b0f-8d7c-7101fab69ba2
+- source: David Amigoni - The English Novel and Prose Narrative (Literary Studies (Edinburgh Paperback)) (2003) - libgen.li.pdf
+- chunk_index: 615
+- importance: 0.7646
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+with a rich variety of sources which map the major critical and intellectual directions in the ﬁeld. Homi K. Bhabha (ed.), Nation and Narration (Lon- don: Routledge, 1990), contains many valuable essays on the relationship between narration and ‘location’. Bhabha is one of the leading post- colonialist theorists and critics; his challenging work on subjectivity, mimicry and diasporic movement is exempliﬁed in his The Location of Culture (London: Routledge, 1994). Gayatri Chakravorty Spivak is another major voice in postcolonial theory: an overview of her challenging corpus can be found in Donna Lendry and Gerald McLean (eds), The Spivak Reader: Selected Works of Gayatri Chakravorty Spivak (New York: Routledge, 1995). Select bibliography and suggested further reading 167
+
+## Excerpt 34
+- id: 43aa8d0d37f038d708e1c6aa
+- qdrant_id: 5788bf22-8f34-5c97-85eb-0bd90d6166e7
+- source: (Univocal) Félix Guattari, Gary Genosko, Jay Hetrick - Machinic Eros_ Writings on Japan-Univocal Publishing (2015).pdf
+- chunk_index: 346
+- importance: 0.7683
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+it to publish Sanbar's journal Revue d'etudes palestiniennes in 1981. As if to preempt Spivak's criticism of Deleuze and Guattari in "Can the Subaltern Speak?" Deleuze said that the journal "en­ ables [the Palestinians] to speak in a new way, neither aggressively nor defensively, but as 'equals' with the world," as "a people like any other people." 1 8 Sanbar has since become a diplomat for the Palestinian delegation and has dedicated his 2004 book Figures du Palestinien: ldentiti des origines, identiti de devenir "to Deleuze, in 15. For a detailed analysis of nomad art, see my "What is Nomad Art? A Ben­ jaminian Reading of Deleuze's Rieg!" in Deleuze Studies 6.1 (February 2012), pp. 27-41. 16. Dosse, Intersecting Lives, p. 259. 17. Gilles Deleuze, "The Troublemakers," Discourse 20.3 (Fall 1998), pp. 23-24. 18. Gilles Deleuze, "The Indians of Palestine" in Two Regimes of Madn…
+
+## Excerpt 35
+- id: 1554387e168a9a534f48c2fc
+- qdrant_id: 33ecf5ff-9597-5c97-9728-612cfc16bf34
+- source: Dr Jesus Martin-Barbero - Communication, Culture and Hegemony_ From the Media to Mediations (Communication and Human Values) (1993) - libgen.li (1).pdf
+- chunk_index: 272
+- importance: 0.7677
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+to attrihute to these e1asses an unlimited capacity for defiance and an almost metaphysical power to produce an alternative. The most dangerous aspect of this oscillation between extremes, as Garda Canelini (lY84b) notes, is that there is so much insistence on the juxtaposition of the subaltern and hegemonic culture and on the political necessity of defending the independence of the subaltern culture that the two come to be thought of as two !.juite separate entities. With the presupposition that the task of hegemonic culture is to dominate and that of the subaltern culture is to resist, much research has had no other aim than to inquire about the ways the two distinct roles were carried out. The fact that interpretations of Gramsci have come to this extreme does not imply, in my view, a limitation in the thought of Gramsci, as Garcia Canelini seems to think, I do not consider such positions simply an 'enthusiastic expansion' of the thought of
+
+## Excerpt 36
+- id: 09e6ced8e7790b76397e2034
+- qdrant_id: 94ccc7a1-d0e4-5a2c-b5d5-8b5afe675517
+- source: Jane Elliott, Derek Attridge - Theory After 'Theory' (2011, Routledge) - libgen.li (1).pdf
+- chunk_index: 172
+- importance: 0.7635
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+possibility’ (Spivak 1988b: 201). But what, precisely, is the work of‘transformation’? Is urdearning an end in itself, or a way to set the conditions of possibility for learn­ ing (to learn)? To be sure, ‘unlearning’ is itself a form oflearning, but is it not one that problematically forecloses on its object - that turns the investigator back on herself, in a posture of narcissistic self-contemplation? And what of the difference between the conundrums of subaltern historiography and our relation, in the present, to living subalterns? What is the bearing on Subaltern Studies of Spivak’s claim that the subaltern today is no longer cut off from lines of access to the centre? Today, as the insane forms of capital proliferate around us, and the field of political contestation seems given over to international civil society and the admin­ istrative rationality o f‘risk-assessment’, ‘c…
+
+## Excerpt 37
+- id: d9cfc8217a199b9477a3928a
+- qdrant_id: fe8be273-b2d7-568c-a695-48eadd61976a
+- source: [Key Concepts] John Scott - Power (2002, Polity) - libgen.li.pdf
+- chunk_index: 275
+- importance: 0.7630
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+'training': the very subjectivity of subalterns is constituted through mechanisms of power. Disciplined individuals have acquired skills, habits of action, desires, and qualities of character that allow them to act in appropriate and expected ways and to do so through the exercise of self-control (Hindess 1996: 113). Modern rulers have come to see their task as one of government in this sense of the shaping, guiding, and directing of the condUCt of others by using per- suasive processes of signification and legitimation to work through their desires, aspirations, interests, and beliefs (Dean 1999: 11). Modern states - as Weber showed - are concerned with ensuring their sovereignty over their particular territories vis- a-vis other states and international agencies. Sovereignty over a territory also involves the management of its population through regulating the life process…
+
+## Excerpt 38
+- id: 0cb2ea3c338169a740cc2bc0
+- qdrant_id: 6e891e96-2abb-5bce-bbc6-5fcb0e5d5c91
+- source: Cora Kaplan - Victoriana - Histories, Fictions, Criticism (2007, Edinburgh University Press) [10.1515_9780748628186] - libgen.li.pdf
+- chunk_index: 316
+- importance: 0.7614
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+9. See Spivak’s discussion of the need for, and the problems with, ‘strategic essentialism’: the ﬁrst in, Gayatri Chakravorty Spivak, In Other Worlds: essays in cultural politics (New York: Routledge, 1987) p. 205, and the second in a later interview with Ellen Rooney. In the interview she points out that ‘Identity is a very different word from essence. We “write” a running biography with life-language rather than only word-language in order to “be.” ’. Gayatri Chakravorty Spivak, Outside in the Teaching Machine (New York: Routledge, 1993) p. 4. 10. Samuel Johnson, ‘Literary Biography’, The Idler, 102, Saturday, 29 March 1760, in Johnson on Savage, p. 126. 11. A. S. Byatt, The Biographer’s Tale (London: Vintage, 2001) p. 1. 12. A. S. Byatt, The Biographer’s Tale, p. 5. 13. A. S. Byatt, The Biographer’s Tale, p. 257. 14. See George L. Mosse, The Image of Man: the creation of modern mascul…
+
+## Excerpt 39
+- id: 73d0bb379de47bd98adb82c2
+- qdrant_id: 479af38f-e691-5367-9584-ee1d704174de
+- source: Griselda Pollock - Julia Kristeva 1966–96_ Aesthetics politics ethics (Parallax, Issue 8 July–September 1998) (1998) - libgen.li.pdf
+- chunk_index: 612
+- importance: 0.7524
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+question of whether taking one’s lead from Spivak is the only possible way of ethically engaging with her work. So, in the interview with the editors, Spivak discusses the negative responses to her piece, ‘Can the Subaltern Speak’ (which is not reproduced in the Reader as it is being revised for Spivak’s forthcoming book), as examples of failed readings, readings which did not get close enough. (pp.288–89) Is it possible, then, to get closer to her texts, but not simply affirm their movement? Is a close reader always only an affirmative one? Or can one read in her work a different ethical demand: that you must criticise that which you love? What would loving Spivak perform, as a way of reading, other than following her lead by not following her lead? I end this review with these questions as ways of opening out other possibilities for reading Spivak and reading The Spivak Reader. Notes 1…
+
+## Excerpt 40
+- id: 4015c2783c258daaaa7f273a
+- qdrant_id: ba371183-3819-59a4-9a78-eb7dbc18ca64
+- source: [Pedagogy and Cultural Practice] William Spanos - The End Of Education_ Toward Posthumanism (1992, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 157
+- importance: 0.7627
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+nition of the polyglossic necessity of a nonfoundational mode of inquiry to always al- ready reexamine its own discourse is what distinguishes posthumanist thinking in general from the monoglossic "pluralist" discursive practices of "disinterested" human- ist inquiry. In some sense the debates internal to "theory" are symptomatic evidence of this openness to self-criticism. But the failure to theorize the positive possibilities of this absolute imperative of a mode of inquiry professing the decentered center as point of departure is disabling. The particular difference retrieved by a particular discourse must, of course, be understood in its own historically specific terms. As Gayatri Spivak has shown, a critic, whether Western or non-Western, who undertakes a critique of patriarchal structures of modern India from a Western subject position without self- examination does violence rather than contributes to the project of decolonization.4
+
+## Excerpt 41
+- id: 85da81c10c4c8285f73f6f6c
+- qdrant_id: 0183e602-14a7-50d9-84c1-bbc427692461
+- source: A. L. Macfie - Orientalism_ A Reader (2022, Edinburgh University Press) [10.1515_9781474470476] - libgen.li.pdf
+- chunk_index: 176
+- importance: 0.7505
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+pp. 67-80. Sivan, Emmanuel, ‘Edward Said and His Arab Reviewers’, in E. Sivan, Interpretations of Islam: Past and Present (Princeton, NJ: Darwin Press, 1985). Spivak, Gayatri Chakravorty, ‘Can the Subaltern Speak?’, in Cary Nelson and Lawrence Gossberg (eds), Marxism and the Interpretation of Culture, (Basingstoke: Macmillan Education, 1988). Spivak, Gayatri Chakravorty, ‘Poststructuralism, Marginality, Postcoloniality and Value’, in Peter Collier and Helga Geyer-Ryan (eds), Literary Theory Today (Cambridge University Press, 1990). Tibawi, A. L., ‘English-Speaking Orientalists’, Islamic Quarterly, 8, 1-4, 1964, pp. 25­ 45 and 73-88. Tibawi, A. L., ‘Second Critique of the English-Speaking Orientalists’, Islamic Quarterly, 23, 1, 1979, pp. 3-54. Tibawi, A. L., ‘On the Orientalists Again’, Muslim World, 70, 1, 1980, pp. 56-61. Weiner, Justus Reid, ‘“My Beautiful Old House” and Other Fabrications by Edward Said’, Commentary, September 1999, pp. 23-31.
+
+## Excerpt 42
+- id: fa7fc47703c1282fab70fc03
+- qdrant_id: b8069617-de5d-599e-94e5-c062383c6966
+- source: [Routledge Companions] Stuart Sim - The Routledge Companion to Postmodernism (2011, Routledge) - libgen.li.pdf
+- chunk_index: 207
+- importance: 0.7617
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+The Ideal Companion to The Routledge Companion to Postmodernism Gayatri Chakravorty Spivak Routledge Critical Thinkers By Stephen Morton, Tampere University, Finland Gayatri Chakravorty Spivak offers an overtly political challenge to the way we think about literature and culture. As she highlights the many legacies of colonialism, she re-defines the ethical horizons of contemporary critical thought. This volume focuses on her key theoretical concepts, intellectual context and critical reception, providing an accessible introduction to one of the most important thinkers of our time. Stephen Morton introduces Spivak's crucial work through an analysis of such issues as: methodology and Spivak's 'difficult' style deconstructive strategies third world women, the concept of the 'subaltern' and the critique of western feminism re-reading Marx for the global capitalist era
+
+## Excerpt 43
+- id: ffdc3707fbcbe8ef7e811b46
+- qdrant_id: bfde20f8-767b-57ff-b2bd-db4115bf2932
+- source: Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf
+- chunk_index: 373
+- importance: 0.7571
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+FEMINIST PHILOSOPHIES A–Z 143 violence with the advancement of learning and civiliza- tion. And the subaltern woman will be as mute as ever’ (295). Thus the subaltern woman is effectively silenced by the theorist that is claiming to speak for her. Spivak suggests that ‘[i]n seeking to learn to speak to (rather than listen to or speak for) the historically muted subject of the subaltern woman, the postcolonial intellectual sys- tematically “unlearns” female privilege’ (295). Thus the intellectual has to learn to be critical of her own roles in patriarchal culture and postcolonial theory and unlearn her approach to her subject. This task of ‘unlearning’ and learning to ‘speak to’ is a responsibility the female intel- lectual ‘must not disown with a ﬂourish’ (308). The ‘sub- altern’ has become an important concept in Third World feminism and decolonisation. See colonisation; decolonisation; oppression; other/ othering Symbolic: symbolic has several but interrelated meanings in
+
+## Excerpt 44
+- id: 447957d079352c93fec25d5e
+- qdrant_id: af2fa722-c4ea-546e-8cb1-c164333c4d0a
+- source: George Hartley (editor)_ Stanley Fish (editor)_ Fredric Jameson (editor) - The Abyss of Representation_ Marxism and the Postmodern Sublime-Duke University Press (2003).pdf
+- chunk_index: 141
+- importance: 0.7548
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+gender keeps the male dominant. If, in the contest of colonial production, the subaltern has no history and cannot speak, the subaltern female is even more deeply in shadow. (274) ‘‘Itinerary’’ here refers to the production of the subject within a particular ideological discourse. Within various discourses, the subaltern ﬁgures both as subject and object. Within the discourse of colonialist historiography, the sub- altern is constructed as the object of study, as the other of the colonial subject. For example, Spivak writes that ‘‘the itinerary of recognition through assimila- tion of the Other can be more interestingly traced, it seems to me, in the imperialist constitution of the colonial subject and the foreclosure of the ﬁgure of the ‘native informant’ ’’ (280). Even in the imperialist construction of a colonial subject, however, the ﬁgure of the woman remains invisible until constru…
+
+## Excerpt 45
+- id: 2325f09a0d432187a5946bac
+- qdrant_id: bf59a815-2bfc-55c2-bee3-81d83b938ad7
+- source: William E Cain, Jeffrey J Williams, John McGowan, Laurie A Finke - The Norton Anthology of Theory and Criticism (2018) - libgen.li.pdf
+- chunk_index: 456
+- importance: 0.7487
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+vak’s note]. said (1935–­2003), Palestinian-­born American theorist of postcolonialism and po­liti­ cal activist. the international division of labor from socialized capital, inside and outside the circuit of the epistemic violence of imperialist law and education supple- menting an earlier economic text, can the subaltern speak? We have already considered the possibility that, given the exigencies of the inauguration of colonial rec­ords, the instrumental woman (the Rani of Sirmur) is not fully written.5 Antonio Gramsci’s6 work on the “subaltern classes” extends the class-­ position/class-­consciousness argument isolated in The Eigh­teenth Brumaire.7 Perhaps because Gramsci criticizes the vanguardistic position of the Leninist intellectual,8 he is concerned with the intellectual’s rôle in the subaltern’s cultural and po­liti­cal movement into the hegemony. This movement must be …
+
+## Excerpt 46
+- id: 1ca0b304f3120f4356e58adb
+- qdrant_id: 4c95b84d-1e31-5fe7-a58a-48f1fb658457
+- source: [Theory Q] Anjali Arondekar - Abundance_ Sexuality’s History (2023, Duke University Press) [10.1515_9781478024484] - libgen.li.pdf
+- chunk_index: 215
+- importance: 0.7513
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+paradoxes that Wendy Brown invokes around the limitations of rights discourses for minoritized communities (in her case, ­women and/or queers). See Brown, “Suffering Rights as Paradoxes.” 29 See Kamat, Farar Far. 30 I am of course referring ­here to Spivak’s attentiveness to the perilous de- mands of a liberal proj­ect as “that which we cannot not want.” See Spivak, Outside in the Teaching Machine, 44. 31 Pandey, “Can ­There Be a Subaltern ­Middle Class?” Pandey focuses “on specific assemblages that have historically been seen as communi- ties of lower-­class and underclass individuals and families. His essay examines the history of members of ­these ‘communities’ who come to inhabit not the positions of the down-­and-­out, where they allegedly belong, but ­those of the more comfortable, educated, professional ­middle classes. Thus it asks what the history of the strug­gles of ­these subaltern
+
+## Excerpt 47
+- id: e1cca37565db5f681407e2a3
+- qdrant_id: 0ace0118-a9a3-5b01-b643-7daf29ef550d
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li.pdf
+- chunk_index: 128
+- importance: 0.7530
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+subaltern. Spivak borrows and adapts her theoretical terminology not from Lacan but from Michel Foucault, although Lacan's theory of subjectivity is everywhere in the background here. It is in The Archaeology of Knowledge that Foucault elaborates his own notion of subject-positions as one of the four fundamental components of
+
+## Excerpt 48
+- id: e77bc95984ff196691e1358c
+- qdrant_id: 4a4f2277-b402-5eb8-acbf-7ccec3a2aa70
+- source: Robert Doran - The Ethics of Theory_ Philosophy, History, Literature-Bloomsbury Academic (2017).pdf
+- chunk_index: 53
+- importance: 0.7648
+- seed_hits: archive-fever-derrida, gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+(in French) only in 2014 (this publication forms the basis of my discussion of Derrida and ethics in Chapter 3).64 It is thus no accident that 1987 marks a turning point in the ethical- political understanding of Theory. (As I note in Chapter 3, the number of publications devoted to the idea of ethics or politics in Derrida, to cite a prominent example, starts to spike immediately after 1987.) Just a year later, Gayatri Spivak—who had studied under Paul de Man at Cornell University and who had introduced Derrida’s thought to an American audience in her translation of and formidable commentary on Of Grammatology— publishes a seminal essay, “Can the Subaltern Speak” (1988),65 effectively inaugurating the “political turn” in Theory.66 With this essay, Spivak helps define a new field, “postcolonial studies,” thereby bringing Edward Said— retroactively considered the progenitor of thi…
+
+## Excerpt 49
+- id: 7b8f420eb3dba9dd60752696
+- qdrant_id: 6826ca47-8ffe-5a7b-9bcd-4ce326df50fb
+- source: Sophia Phoca - Introducing Postfeminism (1999, Totem Books) - libgen.li.pdf
+- chunk_index: 87
+- importance: 0.7485
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Postcolonial or Subaltern Muteness Spivak also confronts the "muteness" of woman in postcolonial society. She combines feminist and poststructuralist techniques with postcolonial studies to draw attention to the colonial subject, the "doubly oppressed native woman". For Spivak, does the native collude in the formation of otherness and voicelessness? Spivak has argued that under British imperialism the "native", in particular the "native female", was rendered mute. Antonio Gramsci (1891-1937), Italian Marxist militant and theorist, employed the term "subaltern" in 1934. He developed a theory of hegemony to explain why an exploited or subaltern class accepts domination, when according to Marxist theory it should oppose it. For Gramsci, comparably to Foucault, domination does not simply depend on "state repression" but on persuading the whole of society that the prevailing thinking of the ruling class is the only natural and normal one, thereby gaining its hegemony. 112
+
+## Excerpt 50
+- id: 227e6568689d6fbc1ce72705
+- qdrant_id: 51bb0b8f-78d8-51a8-a6b4-ee93331572c1
+- source: [Literature, Culture, Theory] Richard Murphy - Theorizing the Avant-Garde_ Modernism, Expressionism, and the Problem of Postmodernity (1999, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 148
+- importance: 0.7562
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+dominant discourse presents itself as a transparent window on reality. It consequently seems to present the recipient with direct access to knowledge and truth, by offering reality as given and self-evident, so that ‘‘the events’’ as Benveniste says ‘‘seem to narrate themselves.’’40 In contrast to the subaltern discourses in which the traces of the speaking subject from whom they derive testify to their lack of any superior or transcendental viewpoint, the dominant discourse foregrounds itself as clear and imperso- nal. It consequently operates as a ‘‘meta-language’’ or framing discourse, commenting upon the degree of truthfulness em- bodied by the other discourses and criticizing their relative opaqueness while itself remaining invisible, ‘‘unwritten,’’ and thus immune to criticism. The paradigmatic form of this hierarchical discursive organiz- ation occurs as we have seen in what MacCabe calls the ‘‘classic realist text,’’ and in a form typiﬁed by the nineteenth-century
+
+## Excerpt 51
+- id: 773687b8cf08762310baa86d
+- qdrant_id: 25e59eb2-4493-51d8-bd5e-8ba68a8c2f4e
+- source: Mary Louise Pratt - Planetary Longings (Dissident Acts) (2022, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 138
+- importance: 0.7548
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+critics have brought to our attention.4 For example, testimonio and oral his­ tory often involve a kind of self-­translation, in which subaltern subjects seek to translate or transpose their knowledge into terms that make it apprehen­ sible to distant metropolitan subjects. ­Here reconversion has many facets: subalterns perhaps speaking in a second language more power­ful than their own, or metropolitan intellectuals reconverting a recorded text into writ­ ing. The intersections and resonances between metropolitan genres and the speech repertoire of the testimonial speaker are critical. What counts as a story? Again, in all such instances, the entanglements ­matter. Anthropol­ ogist Ruth Behar explores this question in a study aptly titled Translated ­Woman: Crossing the Border with Esperanza’s Story (1993). The concept of cultural translation bears the unresolvable contradiction …
+
+## Excerpt 52
+- id: e78a854b60900630f72345a9
+- qdrant_id: d82444fc-4e53-5cf8-bd79-b7b539362a7b
+- source: (Theory Q) Anjali Arondekar - Abundance_ Sexuality’s History-Duke University Press (2023).pdf
+- chunk_index: 377
+- importance: 0.7493
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+organizers, Omar Kasmani and Nida Kirmani, to give a keynote on my work on the Gomantak Maratha Samaj. The Samaj, as I noted ­earlier in this chapter, had considered Pakistan as one of its desired destinations of refuge, so ­there is a poignant symmetry to my return. Boldly conceived as a deliberation titled “Queer ­Futures: Politics, Aesthetics, Sexualities,” the three-­day event is being heralded as the first queer conference to be held in Pakistan and promises an invigorating and wide-­ranging conversation on Pakistan’s myriad queer modalities.35 The stage is set, and I am raring to go. The journey to Lahore has been beset (unsurprisingly) by a concatenation of histories and collaborations. Indo-­Pak relations are once again implod- ing; airports are hard to get to, and visas even harder to procure. Yet I am fi­nally ­here, and all that remains now is my short walk to the co…
+
+## Excerpt 53
+- id: 2e443447cb3edc1fcb410d89
+- qdrant_id: a49f094e-3816-5f67-9956-fe28a3bb9b7e
+- source: [Indiana series in the philosophy of religion] Caputo, John David_Alcoff, Linda Martín - Feminism, sexuality, and the return of religion (2011, Indiana University Press) - libgen.li.pdf
+- chunk_index: 8
+- importance: 0.7521
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+we can follow this model, given that women and gays (an intersecting set) are again being used as today’s pawns in the geopolitical debates over the meaning and value of culture, tradition, and religion. After all, it is critically important, as Saba Mahmood demonstrates here, that feminists and queer theorists become very clear about the ways in which our agendas have become alibis for anti-Muslim exclusion and unilateral military action, in some cases used against our avowed goals but in others with willing support from movement leaders. This is noth­ ing new, of course. The liberation of women played a critical role in jus­ tifying British control over India in the early days of colonialism so that, in the words of Gayatri Spivak, white men might save brown women from brown men. Still today this motivation of a kind of perverse gallantry continues to work for the West to cloa…
+
+## Excerpt 54
+- id: 7b76559f77e95158aa18f4e0
+- qdrant_id: 00aa1e02-c0ca-5302-8fb9-fa98c1090f91
+- source: (SUNY series in Contemporary Italian Philosophy) Luisa Muraro_ Timothy S. Murphy - The Symbolic Order of the Mother-SUNY Press (2018).pdf
+- chunk_index: 22
+- importance: 0.7654
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+necessary; to recall, she states that “language can be given to us only by means of . . . negotiation with the mother because language is nothing other than the fruit of that negotiation” (46; my emphases). But, one might reply, surely in fact we learn to speak from our mothers only because, in contingent fact, we have historically had a social division of labor that allocates the care of young children primarily or exclusively to women, while reserving the higher-ranked spheres of public work and politics for men. This gender division of labor has been bound up with the hierarchical division between public and private spheres and, in turn, with the symbolic divisions between civilization and nature, word and body—divisions that Muraro contests. Yet this suggests that the mother has her symbolic authority in teaching us language only under a symbolic order that denies her tha…
+
+## Excerpt 55
+- id: 2a4f962e0265422f0f532457
+- qdrant_id: 40630fcf-c947-50fb-a26d-705b3cdfb8e8
+- source: Anu Aneja - Feminist Theory and the Aesthetics Within_ A Perspective from South Asia (2021, Routledge India) - libgen.li.pdf
+- chunk_index: 58
+- importance: 0.7588
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+interest of its ideological agendas. It is against the backdrop of these con­ flicted contexts that it becomes possible to locate the promise of poetry, art and literature for a renewal of common memories, shared values and vistas of a collective future. In some of the chapters that follow, the possibility of such a syncretic perception steers my discussion as, for instance, in the context of the mystic traditions of Bhakti and Sufism as well as of the pre-­modern Urdu ghazal. That these shared visions also have the capability to transport us beyond South Asia and relate likeminded transnational endeavours in sympathetic and synchronic ways becomes evident in the ghazal’s journey across conti­ nental boundaries and to its unlikely, surprising contemporary Western homes. The evolution of Urdu language and literature in the postcolonial moment must also make us attentive to the particular language politics
+
+## Excerpt 56
+- id: 58183addcb8f80cad2de9780
+- qdrant_id: 193df650-a2f6-5746-b7c1-a8de3030ebc1
+- source: Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf
+- chunk_index: 462
+- importance: 0.7557
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+that the ‘very form of coherence’ of the general can be ‘troubled’ there. At the pragmatic conference of the dining table, she writes of ‘shared orientations’15 in which she is asked to assent and participate whereby the reality of who takes precedence and priority in these sharings reveals the power dynamic and the underlying ideologies. Equally de Sousa Santos in his essay here shows how that European hegemony as a ‘universal attribute of the mind’ breaks down on a pragmatic front in the confrontation, mutual unintelligibility and hostility between western leftist theory – whose privileged and prioritised position informing action is long estab- lished in European strategic political struggles of the nineteenth and twentieth centuries – and the activism of grassroots progressive movements of the Global South advocating and agitating for social justice – often through spontaneous and heterogenous types of action. This prompts a playing to the strengths of the essay,
+
+## Excerpt 57
+- id: b10c35c1722cf5a1465eafc4
+- qdrant_id: 5ae526f5-3ace-5524-b86a-05f3d7e8be36
+- source: Lauren Berlant (editor) - Intimacy (A Critical Inquiry Book)-University of Chicago Press (2000).pdf
+- chunk_index: 176
+- importance: 0.7488
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+its subalterns arrive at a felicitous, although unmotivated, endpoint. If indigenous persons slip, if they seem to be being opportunistic, to be speaking to the law too much or not enough or in a cultural framework the court recognizes as its own, they risk losing the few judicial and mate- rial resources the state has made available to them. To weigh the political stakes of these national hegemonic projects, our analyses must be as mo- bile as the projects themselves; must engage, as they do, the discursive and the global, the microdiscursive, the imaginary, and the corporeal cur- rents through which new relations of social dominance are currently be- ing articulated. The Australian juridical, state, and public commitment to multicul- turalism provides an especially interesting example of the role a multicul- (June 1993). For a more general discussion, see State Sovereignty as Social Construct, ed. Thomas J. Biersteker and Cynthia Weber (Cambridge, 1996).
+
+## Excerpt 58
+- id: 8170b04ff12ea0054beda78f
+- qdrant_id: b4254ea1-b24f-5ac8-b1e7-b823bbe8d634
+- source: [LEA's communication series] Øyvind Ihlen, Betteke Van Ruler, Magnus Fredriksson - Public Relations and Social Theory_ Key Figures and Concepts (Routledge Communication Series) (2009, Routledge) - libgen.li.pdf
+- chunk_index: 65
+- importance: 0.7463
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+14 Øyvind Ihlen and Betteke van Ruler Although Western male theorists dominate the book, Mohan Jyoti Dutta (Purdue University) introduces Gayatri Chakravorty Spivak and discusses the work of this important postcolonial theorist on public rela- tions. Using Spivak as a springboard, Dutta argues that the knowledge structures of public relations must be seen in relation to the politics of representation, power, and materiality. He points to the possibility that public relations can commit itself to emancipatory goals through an interrogation of the communicative practices that connect transna- tional corporations, nation states, and global structures. In chapter 15, Arild Wæraas (University of Tromsø) uses the work of classic sociological theorist Max Weber to discuss the processes of legiti- macy and legitimation and how they are important for public relations. Wæraas claims that t…
+
+## Excerpt 59
+- id: 4460faec5ba6d14081a2ba44
+- qdrant_id: cd5f3c75-1ebb-559e-9d50-4e538ad0d1ce
+- source: Alan D. Schrift - The History of Continental Philosophy, 8 volumes (2010, University Of Chicago Press) - libgen.li.pdf
+- chunk_index: 556
+- importance: 0.7529
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+of Edward Said’s seminal book Orientalism. In that work, Said argues that the West has projected onto the East the notion of the Other, an Other against which it then identifi es itself. Th is idea of self and other and the play of identifi cation has been taken up by more recent thinkers who are grappling with the eff ects of colonization and the attempt to form identities in the wake of its decline. Gayatri Spivak takes up the critique of the West’s representation of non- Western populations. She shows how the West, by representing itself as universal, Volume 8
+
+## Excerpt 60
+- id: 1ed3f98ad3efe05a3ad5e1ff
+- qdrant_id: 2983f2e3-368b-57a5-89ab-d131f4a2d087
+- source: Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf
+- chunk_index: 375
+- importance: 0.7514
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+reveal the interior as not necessarily constituted by an enclosure but by the ringing round of a horizon of discourse formed of possible approaches, rela- tions, understandings and dealings. Even if any potential outside, via dis- identiﬁcation with the community, is, for the moment, totally surrounded and enveloped in that horizon of given discursive formations, the sun of abolition may still rise above, shine through and signal possible beyonds. At any rate it does not seem, with regard to Ferreira da Silva, that these diﬀerent modes of refusal are in any way exclusive. Notes 1 Fred Moten and Stefano Harney, ‘The University and the Undercommons’, Social Text, 22(2) (June 2004), pp. 101–15. The undercommons 93
+
+## Excerpt 61
+- id: c68a3c7c5a6d6b2d729b4838
+- qdrant_id: d002b6df-23f0-5713-9d6d-a19ad5c4ec80
+- source: [The Legacy of post-Kantian German thought] Cooper, Ian_Adams, Nicholas_Walker, John_Jamme, Christoph_Amerik - The impact of idealism_ the legacy of post-Kantian German thought VOL 2 Historical, Social and Politica.pdf
+- chunk_index: 24
+- importance: 0.7503
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+tion, crucial to intercultural dialogue, that the idea of ‘discourse without domination’ can be only procedurally, but never substantively deﬁned: it is a regulative ideal in the Kantian sense. By the same token, the voices which encounter each other in intercultural dialogue are never the product of reﬂection alone, but emerge from the complex systems of human ethical life which Hegel called Sittlichkeit: culturally speciﬁc forms of practice and
+
+## Excerpt 62
+- id: 6093a7a5f59f18e51bb06cf4
+- qdrant_id: c83f167e-e697-5995-968f-5144fc46d6ec
+- source: Diana Fuss - Essentially Speaking_ Feminism, Nature & Difference (1989, Routledge) - libgen.li (1).pdf
+- chunk_index: 16
+- importance: 0.7565
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+xiv I Introduction that it is possible to speak from a location above or beyond this powerful structuring opposition. My own position, throughout this text, is that of an anti-essentialist who wants to preserve (in both senses of the term: to maintain and to embalm) the category of essence. The complications and limitations as well as the possibilities and stratagems of this contradictory position will I hope become clear as the successive readings of essentialism unfold. Perhaps it only needs final emphasizing at this point that the project of interrogating essence wherever we may find it does not necessarily entail simultaneously dismissing it. By the same logic, to reach a clearer understanding of constructionism we must begin by recognizing and coming to terms with its internal contra- dictions. Simultaneously applying concentrated pressure to both sides of the binarism will yield a rather different set of conclusions about
+
+## Excerpt 63
+- id: 12ec5897677d85c00de42944
+- qdrant_id: ee6f85c3-1fba-5496-b0d1-66e13240ad82
+- source: Terry Smith (editor), Okwui Enwezor (editor), Nancy Condee (edit - Antinomies of Art and Culture_ Modernity, Postmodernity, Contemporaneity (2009, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 92
+- importance: 0.7461
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+INTRODUCTION 11 by any one set of views is impossible in human a√airs, that not even their fundamentalism is applicable to all human kind, that the others will, mostly, remain Other. This sense underlies, and deeply threatens, the homogenizing thrusts of certain kinds of economic globalization, obliging it to adapt to local circumstances. It also renders provisional, and often gestural, the appeals to universal rights that have been for decades an available language for negotiation between competing interests. This is dangerous. New forms of translation need to be found for channeling the world’s friction. Di√erences that are as profound as these do not lie side by side, peacefully, nor do they sit up separately in some static array awaiting our inspection. They are actively implicated in one another, all over the place, all the time, just as every one of us lives in them, always. Their …
+
+## Excerpt 64
+- id: c036f17195e1c78eb8ec973d
+- qdrant_id: a1a8310e-6451-538b-beaf-1e19168ff9cf
+- source: (Transformations_ Thinking Through Feminism) Sara Ahmed_ Jane Kilby_ Celia Lury_ Beverley Skeggs_ Maureen McNeil - Transformations_ Thinking Through Feminism-Routledge (2000).pdf
+- chunk_index: 22
+- importance: 0.7434
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+Gayatri Chakravorty Spivak is Avalon Foundation Professor in the Humanities at Columbia University and author of numerous books on post- colonialism, deconstruction and trans-national cultural studies, including The Post-Colonial Critic (Routledge1990), Outside in the Teaching Machine (Routledge1993), A Critique of Postcolonial Reason (Harvard University Press 1999) and Imperatives to Reimagine the Planet (Passagen Verlag 2000). Ngai-Ling Sum is the Simon Research Fellow at the International Centre for Labour Studies, University of Manchester. She has research interests in the political economy of East Asia and trans-border issues. Her most recent publications include articles in Economy and Society, New Political Economy and Emergo. She also has various book chapters on the global–regional–local dynamics of ‘Greater China’; three new kinds of orientalism and trans- border identities; and regional strategies and identities of East Asian newly
+
+## Excerpt 65
+- id: 8de1965a89631c1414f18975
+- qdrant_id: b91cf774-eeca-5737-8872-dbb7adfe3689
+- source: Alice Ridout - Contemporary Women Writers Look Back_ From Irony to Nostalgia (2010, Continuum) [10.5040_9781472542373] - libgen.li.pdf
+- chunk_index: 579
+- importance: 0.7458
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+21 See Dwight A. McBride’s article entitled ‘Speaking the Unspeakable: On Toni Morrison, African-American Intellectuals and the Uses of Essentialist Rhetoric’ for a helpful discussion of Morrison’s uses of essentialism in ‘Speaking the Unspeakable.’ His argument is based on Diana Fuss’s notion of a ‘strategic essentialism.’ Fuss argues that ‘Neither a pure constructionist approach nor an unalloyed essentialist one is sufﬁ ciently equipped to come to grips with a ques- tion as theoretically complex and politically urgent as the place and function of “race” in the era of poststructuralism’ (92). 22 Many critics have addressed this unusual repetition and Carl Malmgren offers a useful summary of the critical consensus: The standard critical reading of the three versions is that the ﬁ rst repre- sents the life of white families, orderly and ‘readable’, the second, that of the MacTeer …
+
+## Excerpt 66
+- id: f455525e61cb130cb7b7cb88
+- qdrant_id: b0f68da8-6b02-5fef-a9bd-23295b2c1cd9
+- source: Lecia Rosenthal - Mourning Modernism_ Literature, Catastrophe, and the Politics of Consolation-Fordham University Press (2022).pdf
+- chunk_index: 330
+- importance: 0.7505
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+To elucidate this point, one should note that Apter’s argument draws on Gayatri Chakravorty Spivak’s elaboration of the ‘‘planet’’ as ﬁgure in a critical rewriting of the system-logic of globalization. ‘‘The planet,’’ Spivak argues, ‘‘is in the species of alterity, belonging to another system; and yet we inhabit it, on loan.’’ At the same time, a simple substitutive opposition or reversal of terms will not do. ‘‘It [the planet] is not really amenable to a neat contrast with the globe. I cannot say ‘the planet, on the other hand.’ When I invoke the planet, I think of the effort required to ﬁgure the (im)possibility of this underived intuition.’’38 The planet is a ﬁgure of and name for thinking radical alterity, along with the necessary impossibility of translating ‘‘it’’ along the way: it, the (writing of the) planet; it, the radically other, a ﬁgure of the world we inhabit that ‘‘re- mai…
+
+## Excerpt 67
+- id: 9c97f5414a5039f684477771
+- qdrant_id: dfb9b722-11af-59ca-8c2c-77bbe1b4e3df
+- source: Stephen Mulhall - Stanley Cavell_ Philosophy's Recounting of the Ordinary (1999, Clarendon Press) - libgen.li.pdf
+- chunk_index: 91
+- importance: 0.7446
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+said when makes manifest the fact that sharing a language, being able to speak to one another, is in part a matter of being able to speak for one another; communication hangs together with community. The extent and existence of that community cannot be guaranteed in advance, and any specific claim to community with other speakers may fail; but to deny the general capacity of a native speaker to speak for her community is to deny her the capacity for speech. These matters—the connections between a capacity for speech, a form of self-knowledge which is knowledge of others, and a set of methods for mapping out the scope of community—are ones which the procedures of ordinary language philosophy bring to light, and they clearly require elucidation; but the air of mystery surrounding them should be a spur to further enquiry rather than to a denial of their existence. (p.12) Bespeaking the World So much for Cavell's response to Mates's first criticism concerning the need for
+
+## Excerpt 68
+- id: 492676453b485372480a8415
+- qdrant_id: 93acb17d-0dbf-5053-bf03-360e0fef9fb8
+- source: Anu Aneja - Feminist Theory and the Aesthetics Within_ A Perspective from South Asia (2021, Routledge India) - libgen.li.pdf
+- chunk_index: 65
+- importance: 0.7478
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+I N T R O D U C T I O N 12 Taking into account my present ‘positionality’ in between South Asia and the West, then, I attempt first to establish a theoretical framework for femi­ nist theorizing in the West and in India – both parts of the world that I continue to engage with personally and academically – and then to adopt this framing as a way of approaching some of the aesthetic traditions of the northern regions of South Asia. Given India’s dominant political role in the region, there remains, of course, the not unfounded risk in deploying an ‘Indian’ perch for looking at other parts of South Asia. As Trivedi cautions us about the term ‘South Asia’, ‘Is it, as some persons from outside India may suspect, just India by another name?’ (2005: 192). I have therefore tried to be mindful of Trivedi’s admonitory advice: ‘It is therefore incum­ bent on us in India to be especially solicitous of the sensitivities of the other
+
+## Excerpt 69
+- id: cfd854079f5955e9a7e00325
+- qdrant_id: 259f1ff7-9546-58be-8552-3e0af34e4d6f
+- source: Jeffrey R. Di Leo_ Christian Moraru (editor) - The Bloomsbury Handbook of World Theory (2022, Bloomsbury Academic) [10.5040_9781501361975] - libgen.li.pdf
+- chunk_index: 186
+- importance: 0.7481
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+of a mythic communitarian isolation? Nonetheless, while globalization makes more transparent the “humankind” that exists as a (complex) singularity over and above proximal categorizations and identifications of nation, ethnicity, class, religion, gender, and locale, a challenge comes from a “strategic essentialism” that, paradoxically, insists on the ontological distinctiveness of each cultural construction of “world.”39 This is a call to “identity politics” on behalf of promoting the needs and interests of categories of people deemed to suffer from a structural disadvantage: “women,” “Blacks,” “children,” “Gypsies,” the “physically challenged”; “Muslims” in the “West”; economic migrants, asylum seekers, and refugees more broadly; “indigenous” populations in “settler societies,” and so on. According to Bruno Latour, it is “impossible for us now to inherit the beautiful idea of cosmopolitanism since what we lack is just what our prestigious ancestors
+
+## Excerpt 70
+- id: c66e4244a59cebcbf4f73228
+- qdrant_id: 4f935325-20ae-5a80-b7f6-170649b9289c
+- source: Stephen D. Moore (editor)_ Laurel Kearns (editor) - Divinanimality_ Animal Theory, Creaturely Theology (2014, Fordham University Press) [10.1515_9780823263226] - libgen.li.pdf
+- chunk_index: 33
+- importance: 0.7453
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+2 | Stephen D. Moore to the animal in a continuous line with the interrogations of the male/ female, masculine/feminine, heterosexual/homosexual, white/nonwhite, and colonizer/colonized hierarchies entailed in feminist studies, gender studies, queer studies, racial/ethnic studies, and postcolonial studies. It is tempting, but it might also be misleading. “Can the subaltern speak?” is a vexed question, but the subaltern at least speaks human languages, whereas “those who constitute the objects of animal studies,” as Kari Weil observes, “cannot speak . . . any of the languages that the academy recog- nizes as necessary for . . . self-representation. Must they then be forever condemned to the status of objects?”1 The interdisciplinary enterprise we are considering fl ies, trots, slithers, and crawls under a variety of names: animal studies, human-animal stud- ies, critical animal studies, animality studies, posthuman animality stud-
+
+## Excerpt 71
+- id: cf6f98fce6e08779a3171ec5
+- qdrant_id: c61d0040-f87c-51de-a04b-3a5a8a8aa80d
+- source: Jon Simons - From Agamben to Zizek_ Contemporary Critical Theorists (2010, Edinburgh University Press) [10.1515_9780748643264] - libgen.li.pdf
+- chunk_index: 146
+- importance: 0.7446
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+136, 137 norms: Butler’s views, 85 in subalternity: Spivak’s views, 218–19, 220 The Gita, and Indian nationalism: Spivak’s views, 221 global-local dualisms, Latour’s views, 170–1 globalisation Bhabha’s views, 65, 70 Spivak’s views, 212 God, Badiou’s views, 41–2 government, and multitude: Negri’s views, 189–90 Grand Theory, 11 Greek polis, 104 green critical theory, 4, 5, 6, 7, 11, 110–12 criticisms, 122–3 ecofeminism, 119–22 see also Naess, Arne; Rodman, John; Singer, Peter Guantanamo Bay, 24, 25 Haraway, Donna, 127–8 critical reactions to, 138–9 on ﬁ guration, 130–4, 135, 139 inﬂ uence, 139–40 on kinship, 134–5 ‘Manifesto for Cyborgs’, 4Table 1.2 Modest_Witness@Second_Millennium, 134 on science, 128–30 scientiﬁ c outlook, 136–8 hate-speech, Butler’s views, 81, 82, 83 hegemony Gramsci’s views: used by Laclau and Mouffe, 147–9 Laclau’s views, 153 Hegemony and Socia…
+
+## Excerpt 72
+- id: fb311fe40c0dec4ca12f0022
+- qdrant_id: fe74ffb8-be2a-5892-a924-04196b5c90b7
+- source: Mónica Judith Sánchez Flores (auth.) - Political Philosophy for the Global Age-Palgrave Macmillan US (2005).pdf
+- chunk_index: 28
+- importance: 0.7468
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+follows, I will describe what I call the postcolonial predicament and this will be the basis to reconsider the analytical validity of the terms West and non-West to represent power struggles in the contemporary globalized world. Modernity defines the terrain for postcolonial theory because postcolonial intellectuals find themselves in the predicament of need- ing to use Western tools for their own self-interpretation, at the same time as they aspire to speak for the unknowable other or the subaltern (Spivak 1988). Postcolonial theory needs the Western center in order to criticize and reject it at the same time, much in the same way as Marxism depends on an absolutist center, and post-structuralism and postmodernity on the absolutist negation of any center (Merquior 1986). But postcolonialism encompasses concepts and theoretical frameworks of both Marxist and postmodern analyses. It includes both the emancipating imperative of giving back the voice to the
+
+## Excerpt 73
+- id: 71dbf066173d1ca1254e03e2
+- qdrant_id: cd2a085b-408e-5eb7-84c5-2e3587478bd7
+- source: Mark Evans - The Edinburgh Companion to Contemporary Liberalism (2001) - libgen.li.pdf
+- chunk_index: 73
+- importance: 0.7483
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+is decisively shedding its connections with democ- racy. Howard Williams's chapter switches our atten- tion to the question of the global order and the normative goal of securing principles by which states may live together in peace. He assesses the utility of Kant's thinking in this regard as a classical and quintessentially liberal starting-point from which contemporary reflections may proceed. A flavour of the latter is provided in Peter Sutch's contribu- tion, which goes on to articulate the concept of `developmental communitarianism' as the justifica- tory strategy that a liberal `law of peoples' (to borrow Rawls's phrase) may usefully adopt. The Companion ends with three chapters high- lighting some issues fairly new to liberal research but which may become established preoccupations. In another example of new seams for liberals to mine, Richard Sakwa shows how strikingly varied li…
+
+## Excerpt 74
+- id: f3d23da6bb319d2ab1330155
+- qdrant_id: 363bf2f6-56a3-5fe1-b8ae-ff19acb849ee
+- source: (Theory Q) Anjali Arondekar - Abundance_ Sexuality’s History-Duke University Press (2023).pdf
+- chunk_index: 163
+- importance: 0.7450
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+emergence, eschewing any reference to the Samaj’s attachments to sexuality and/or to Portuguese India, evident in “Gomantak” (from Goa). In many ways, the Samaj’s early strug­gles around self-­nominalization anticipate many of the paradoxes that have now become the mainstay in discussions of rights and repre­sen­ta­tion. At issue ­here is the reification of a name such as Gayak (Singer) that at once secures visibility even as it strengthens the very category that founds its marginalization.28
+
+## Excerpt 75
+- id: 84746e2af52e77ef73554958
+- qdrant_id: 0b8bb841-1f7d-5279-9b72-47534deecc5c
+- source: (Critics of the Twentieth Century) Bill Readings - Introducing Lyotard_ Art and Politics (Critics of the Twentieth Century)-Routledge (1991).pdf
+- chunk_index: 632
+- importance: 0.7543
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+systems of representation, where no determinate criteria exist for resolution of the conflict that do not prejudge the case by suppressing one or both of the languages of the parties. To make a claim which it will be the work of this book to explain, one may say that Lyotard’s work is nothing less than the attempt to produce an aesthetics, philosophy and politics/ethics of the incommensurable. 7 The notion of the langue as a totality is crucial in determining the fusion of structural linguistics with Marxism in French thought. As Ducrot and Todorov put it, ‘what all the Saussurians retain in common, however, is that the linguistic unit, through its phonic and semantic aspects, always refers back to all the other units and that it is impossible either to hear or to comprehend a sign without entering into the global play of the language.’ (Ducrot and Todorov, 1979:19). The fact t…
+
+## Excerpt 76
+- id: dabda153fc749a0aa033af3c
+- qdrant_id: a0e3adb2-dffc-5af9-9645-07fe48dc3be1
+- source: Martha C. Nussbaum - For Love of Country_ (2002, Beacon Press) - libgen.li.pdf
+- chunk_index: 80
+- importance: 0.7462
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+f M tha Nussbaum in her fine essay, "a ality is in the wor soar h . " i , . ti "Nussbaum argues t at In con- II . el nt characterts rc, mora y irr eva bi bo ndary such as the boundary of di th t a morally ar itrary u . ce mg a d s: ti e role in our deliberations, we . h deep an tormanv .. the nanon as a f anv pri .pled way of persuading em- denri rselves 0 any pnnel seem to epnve ou . s: ., h nds" across the "boundaries of zens that they should in tactJom da " did gender an race. ethnicity an c ass an . k i g here if I insist on the dis- ul ay what I thin is wron c. I I can 0 y s . 5 Th .r conllation is a perfect y '. t te and nation. ei tinction between s a after Rwanda, Sri Lanka, r. d rn person-even natural one or a mo e b .. But the yoking of nation and . B . nd Azer a'pn. . Amritsar, osma, a . d d to bring the arbItrary h Enl" htenment was mten e state in t e .g .,th the "natural" b…
+
+## Excerpt 77
+- id: 9c763ac115e718eb44a6dda5
+- qdrant_id: 19997d20-2373-5e5f-a24a-647ffc7e1fec
+- source: Joseph Weiss - The Dialectics of Music_ Adorno, Benjamin, and Deleuze (2021, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 102
+- importance: 0.7500
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+forces of production, see Claire Colebrook, Deleuze: A Guide for the Perplexed (New York: Continuum, 2006), 9. 60 Cf. Gayatri Spivak, “Can the Subaltern Speak?” in Marxism and the Interpretation of Culture, ed. Cary Nelson and Lawrence Grossberg (Chicago: University of Illinois Press, 1988), 275. 61 For further consideration of this attempt to think against or to dynamize a Spinozian dualism, see Adrian Johnston, “For a Thoughtful Ontology: Hegel’s Immanent Critique of Spinoza,” in Adventures in Transcendental Materialism (Edinburgh: Edinburgh University Press, 2014), 23–50. 62 For further consideration of this critique of Deleuze’s alleged vitalism, see Alain Badiou, Deleuze: The Clamor of Being, trans. Louise Burchill (Minneapolis: University of Minnesota Press, 1999).
+
+## Excerpt 78
+- id: 9fe3551d1d020c9bf973e1fd
+- qdrant_id: 6c4c2a47-4b6d-571a-b078-4ee8a75baf51
+- source: [Theory and History of Literature] Gilles Deleuze, Felix Guattari - Kafka_ Toward a Minor Literature (1986, Univ of Minnesota Pr) - libgen.li.pdf
+- chunk_index: 420
+- importance: 0.7420
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+a language at a certain moment and what cannot be said (even if it can beeorges Devereux (cited by H. Gobard) analyzes the case of the young Mohave Indians who speak about sexuality with great ease in their vernacular language but who are incapable of doing so in that vehicular language that English constitutes for them; and this is so not only because the English instructor exercises a repressive function, but also because there is a problem of languages (see Essais d'ethnopsychiatrie generate [Paris: Gallimard, 1970], 125-26). 21. On the Prague Circle and its role in linguistics, see Change, No. 3 (1969) and 10 (1972). (It is true that the Prague circle was only formed in 1925. But in 1920, Jakobson came to Prague where there was already a Czech movement directed by Mathesius and connected with Anton Marty who had taught in the German university system. From 1902 to 1905, Kafka followed the courses given by Marty, a disciple of Brentano, and participated in Brentanoist meetings.)
+
+## Excerpt 79
+- id: 86eb90877e09a7038c2e9a81
+- qdrant_id: d2d53729-8bfb-5f5c-9cc7-bea68809a745
+- source: Subashish Bhattacharjee (editor), Fernando Gabriel Pagnoni Berns (editor) - Horror and Philosophy_ Essays on Their Intersection in Film, Television and Literature-McFarland (2023) (1).pdf
+- chunk_index: 8
+- importance: 0.7434
+- seed_hits: jasbir-puar-debility-capacity-assemblage
+
+for helping them give shape to the volume. Subashish would like to thank his thesis supervisor, Prof. Saugata Bhaduri, for his unwavering support to the former’s flights of fancy and Prof. Girindra Narayan Ray, whose guidance and teaching has helped create much of the philosophical framework behind the volume. He also wishes to thank Prof. Ashis Sengupta, Prof. Chandanashis Laha, Prof. Soumyajit Samanta, Prof. Ranjan Ghosh, Prof. Bishnupada Ray, Prof. Sau­ nak Samajdar, Prof. Abhijit Majumdar, and Prof. Ajanta Deb for their sup­ port during his formative years. Thanks to Prof. Dilip Kr. Das for allowing him the liberty to work on his projects while balancing his duties and responsibilities at the institution of his employment. He also wishes to thank his colleagues and friends who have helped him work on the volume through their constant support and inputs: Prof. Subrata Paul, P…
+
+## Excerpt 80
+- id: f6a6f1ce29899fc403f3ff1f
+- qdrant_id: 38e876c9-5d62-5619-acdb-2f2c31e1ce81
+- source: [Key Concepts] John Scott - Power (2002, Polity) - libgen.li.pdf
+- chunk_index: 65
+- importance: 0.7638
+- seed_hits: gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak
+
+constructed in accordance with a 'script' that is provided by the particular form of discourse that underpins a power relationship. Domination is strengthened to the extent that subalterns accept this narrative as a rationalisation of their reasons for acting: The theatrical imperatives that normally prevail in situa- tions of domination produce a public transcript in close conformity with how the dominant group would wish to have things appear. The dominant never control the stage absolutely, but their wishes normally prevail. In the short run, it is in the interests of the subordinate to produce a more or less credible performance, speaking

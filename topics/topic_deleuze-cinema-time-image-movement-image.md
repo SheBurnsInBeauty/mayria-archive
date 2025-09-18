@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: deleuze-cinema-time-image-movement-image
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: 59561668acf7fcbe50fe1e7b
+- qdrant_id: 76101dc8-e722-5f33-afae-9d1d3d3e5b1e
+- source: Julian Daniel Gutierrez-Albilla - Aesthetics, Ethics and Trauma in the Cinema of Pedro Almodóvar (2017, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 152
+- importance: 0.8654
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+in mind that the ‘time-image’ is not only associated with the long take; the ‘time-image’ cannot be limited to a technical question – for instance, the long take. ‘The force or pressure of time’, Deleuze suggests instead, ‘goes outside the limits of the shot, and montage itself works and lives in time’ (Deleuze 1989: 42). The focus here is on a broader philosophical distinction between the ‘time-image’ and the ‘movement-image’. At the same time, Deleuze does see certain cinematic examples of ‘slow cinema’ (i.e., the cinema of Michelangelo Antonioni) as suspending the logic of cause and effect, and connecting images in terms of external causality (Walsh 2004: 196). Moreover, ‘the object of cinema is not to reconstitute a presence of bodies, in perception and action, but to carry out a primordial genesis of bodies in terms of a white, or a black or a grey (or even in terms of c…
+
+## Excerpt 2
+- id: dd8f423ce384b9ed02dd2bc5
+- qdrant_id: dd040991-ebb7-5a27-bf00-ea54c00a8a4f
+- source: Mark B.N. Hansen - New Philosophy for New Media (2004, The MIT Press) - libgen.li.pdf
+- chunk_index: 83
+- importance: 0.8664
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+of image—the aﬀection-image—deﬁned exclusively by the protracted inter- ruption of the sensorimotor circuit, the interruption, that is, of the form of the movement-image. Deleuze’s neo-Bergsonist account of the cinema carries out the pro- gressive disembodying of the center of indetermination. This disembodying reaches its culmination in the second volume of his study devoted to what he calls the “time-image.” In a certain sense, the time-image—an image that, rather than subordinating time to movement in space, presents time directly— can be understood as a realization of the cinema’s capacity to instance the uni- versal ﬂux of images, or more exactly, to divorce perception entirely from (human) embodiment. While the montage cut and the frame—both central in the ﬁrst volume of Deleuze’s study—remain homologous to the dimunition that constitutes perception on Bergson’s account, the “inter…
+
+## Excerpt 3
+- id: a8c49540f94280f4a7c7583c
+- qdrant_id: bd3037ba-a148-551e-87dd-6c01f973953f
+- source: Todd McGowan - Out of Time_ Desire in Atemporal Cinema (2011, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 33
+- importance: 0.8605
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+separated from its movement, which is the position that we tend to occupy in our everyday lives. Film alerts us to the constitutive role that time plays in our existence. 17 In ﬁ lms that produce what Gilles Deleuze calls time-images, time becomes the source of action and movement rather than just the arena in which movement occurs, as it is in what he calls the movement-image. Though he sees the time- image emerging in the post–World War II era with Italian Neorealism and the ﬁ lms of Orson Welles, Deleuze believes that it nonetheless represents the essence of cinematic art. 18 The time-image shows the ontological priority of time by taking the focus away from action that unfolds in chronological or spatialized time. Instead, the specta- tor experiences time directly through, say, Welles’s depth of ﬁ eld, which juxtaposes past and present in a single shot. Early cinema’s focus on the priority of movement—evident in ﬁ lms as disparate as
+
+## Excerpt 4
+- id: 43553bb032c905dc911bf28a
+- qdrant_id: cd231671-3c06-5a4e-b6f1-adf97616b099
+- source: Richard Rushton - Deleuze and Lola Montès (2021, Bloomsbury Academic) [10.5040_9781501345791] - libgen.li.pdf
+- chunk_index: 17
+- importance: 0.8569
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+of the movement-image do. In many ways the experience of time is one of memory for Deleuze. Time is a matter of the ways that our memories of the past influence our conceptions of the present and our premonitions of the future. As we will see throughout this book, memory is indeed central for films of the time-image. Because film offers ways of capturing images of the present which, as soon as they are photographed, become images of the past, then film offers unique ways of conceiving of the relationship between the past and the present. Deleuze considers that a range of films which emerged after the Second World War took certain aspects of memory as a theme—the “flashback,” for example, became a staple of Hollywood cinema during the 1940s.2 It is therefore films like this, which deal with memory to a large extent and with the relationship between the past and the present, …
+
+## Excerpt 5
+- id: d2da99ce32beaa9b543441d1
+- qdrant_id: 3b68049e-2dae-56c3-9606-9f510b37816f
+- source: John Marmysz - Cinematic Nihilism_ Encounters, Confrontations, Overcomings (2017, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 38
+- importance: 0.8485
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+of the ‘time-image’. This is the concept created by Deleuze in order to char- acterise works of postwar cinema (by directors such as Akerman, Tarkovsky, Alain Resnais and Marguerite Duras) that develop a ‘direct’ presentation of time, untied from a narrative logic of cause and effect (as opposed to the cinema of the ‘movement-image’, in which the presentation of time is ‘indirect’, that is, subordinated to a causal chain of narrative development). Reflecting on the collective disorientation of perception articulated by cinematic works in the
+
+## Excerpt 6
+- id: 5fae1fb4ffc8f9243eeefb3f
+- qdrant_id: 64fb105b-90cc-5fbf-9193-d22af5ee5905
+- source: Jeffrey Skoller - Shadows, Specters, Shards_ Making History in Avant-Garde Film-University Of Minnesota Press (2005).pdf
+- chunk_index: 39
+- importance: 0.8580
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+descriptions of the ways time can be rendered cinematically that I have encountered, and give a new language with which to write about cinematic time. Deleuze has not produced a theory of film signification. Rather, through close observation of tempo- ral formations in cinema, he has produced a philosophical context and a taxonomy of the different constructions of cinematic movement and time, and the ways cinema evokes and creates images of the shifting structures of thought in an evolving society. Most important for a study of avant-garde film is his emphasis on the experiential aspects of cinema as an aesthetic encounter with duration that generates a complex web of shifting ideas about what constitutes the present. Like much avant-garde film, Deleuze's ideas at once challenge older conceptions of the movement of time and reveal new potentials for cinema as a means of thinking in time.…
+
+## Excerpt 7
+- id: 756b3fa8aa12be2ab45ba2ee
+- qdrant_id: 6f3d276e-fa27-5f37-b79b-933fbc406967
+- source: Stephen Crocker - Bergson and the Metaphysics of Media (2013, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 181
+- importance: 0.8528
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+‘kinesiology’ from which cinema derives its name. The deep-focus shot gives us the first ‘time-image’, which Deleuze describes as ‘a direct presentation of time’. 10 I will not explore Deleuze’s theory of time and movement in any more detail here, since we have already touched on it in the previous chapter. Instead, we turn our attention
+
+## Excerpt 8
+- id: 41008a8b3a7521f00721a519
+- qdrant_id: 2974e48c-a23b-51f1-9bef-c795ea9bf01f
+- source: Richard Rushton - Deleuze and Lola Montès (2021, Bloomsbury Academic) [10.5040_9781501345791] - libgen.li.pdf
+- chunk_index: 43
+- importance: 0.8482
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+DELEUZE’S CINEMA 13 there are a great many rewards in conceiving of “a little time in the pure state.” Time-as-movement and time-as-time can comfortably coexist. The Time-Image What then is a time-image? As I have already stated, time- images have a “looser” sense of time, a conception of time as lived or experienced rather than measured or specified on a clock or calendar. But I have also stated that cause-and-effect relations between the past and the present (and the future) are much weaker in films of the time-image than they are for the movement-image. For the time-image, the past does not necessarily cause the present (or the future), at least not in any direct or straightforward way. I have also claimed that what is important for films of the time-image is a notion that the past can change (or be changed). Deleuze can act very much as a guide here, for when writing of …
+
+## Excerpt 9
+- id: 5dfc2945c3915fc65f773e3b
+- qdrant_id: 145c0dc8-3d9e-5191-89af-e21e05e3a2f7
+- source: D. N. Rodowick - Afterimages of Gilles Deleuze's Film Philosophy (2010, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.8495
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+Introduction xvii arts, and so Deleuze may help us to confront new questions. In what ways may cinema remain relevant, aesthetically and philosophically, in the twenty-first century? What new forms and what new subjectivities may it solicit? In what ways can cinema continue its century-long dia- logue with philosophy on questions of space, time, image, and ethics? Will the time-image persist as a contestatory force in relation to what Deleuze called control societies, or will it be displaced, for good or ill, by a silicon-image? Can digital imaging and digital cinema express time and duration with the same qualitative powers as film and so find their own original “will to art”?7 To ask or answer these questions implies that the time-image has a historical sense, but there are good reasons why Deleuze insists that the cinema books do not present a history of cinema. In Reading the Figural, I suggest that the movement-image and the time-image are not
+
+## Excerpt 10
+- id: cf36db31a6fe385fff2baeaf
+- qdrant_id: c2ff1618-e7f2-52cd-be95-c29cf0053d1d
+- source: Anna Powell - Deleuze and Horror Film (2006, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 36
+- importance: 0.8535
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+Movement-Image and Cinema 2: The Time-Image. In my conclusion, I will assess the value of Deleuzian work for horror Film Studies and suggest its future potential. Each chapter oﬀers a theoretical introduction to aspects of Deleuze’s work relevant to horror. Speciﬁc theories do not overlay case studies like mechanistic templates, but seek to bring out a fuller sense of the ﬁlm as an aﬀective aesthetic experience. A multi-layered discussion of the ﬁlmic event is my intention, rather than a ﬂattened, over-schematic and abstract grid. I aim to convey a sense of my own visceral enjoyment of the movies as well as theorising them. Themes are manifest through style, and I will be detailing mise-en-scène and cinematography in each chapter. My analysis will also draw on non-ﬁlm-speciﬁc ideas from elsewhere in Deleuze’s work. Bergson and Deleuze are a creative assemblage sometimes diﬃcult to separate. I cross-reference them and draw on Bergson speciﬁ-
+
+## Excerpt 11
+- id: 9f985289d4c88a2ee169cdf8
+- qdrant_id: b0d99db0-b07e-5d4b-afc0-15db4e82efbf
+- source: Rachel Elizabeth Barraclough - Japanese Horror Cinema and Deleuze_ Interrogating and Reconceptualizing Dominant Modes of Thought (2022, Bloomsbury) - libgen.li.pdf
+- chunk_index: 15
+- importance: 0.8466
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+whose work is antithetical to hermeneutic modes of thought. Hermeneutic film scholarship, as Deleuze highlights in his texts Cinema 1: The Movement-Image (2005) and Cinema 2: The Time-Image (2013), predominantly conceptualizes cinema in terms of movement-images, linear, abstracted, cause and effect models of time and narrative structure. Although there are different types of interconnected movement-images which are explored in more detail later, the most prominent of these, the large form action-image, conceptualizes cinema as beginning with a situation which creates forces directly leading to actions from characters, which in turn reconstitute the situation or the encompassing milieu. Through such a linear conceptualization of film it is easy for scholars to derive singular, unifying languages, meanings or semiotics from them as all other possibilities or potentialities of narrative and time are negated. There
+
+## Excerpt 12
+- id: bd9d3a70d8baba3b208d388e
+- qdrant_id: c0a9893f-dc82-57a9-b9dc-f9e98af40cc1
+- source: Garrett Stewart - Cinemachines_ An Essay on Media and Method-University of Chicago Press (2020).pdf
+- chunk_index: 98
+- importance: 0.8489
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+[ sneak preview ] 27 sense of durée, of temporal continuity, was dubiously simulated, rather than captured and reproduced, by the new medium he rejected. Where time is a function of motion in Deleuze’s sense of the movement image on screen, Bergson saw the ersatz continuum of screen event as a misleading fabrication. What Deleuze thought Bergson missed, however, was that the intermittence of the strip does nonetheless produce, in projection, images we can accept as cross sections of real temporality. Indeed, in Deleuze’s preliminary discussion of this issue (this issuance to motion) in Cinema 1: The Movement-­Image (23–­24), Epstein is adduced as chief authority on the point, yet from an earlier newspaper piece on Fernand Leger from 1923. No reference is made there, on Deleuze’s part, to the more rigorous volume over a quarter of a century later that we’ve been concerned with, where the machine artifice of sequence is stressed in its
+
+## Excerpt 13
+- id: 6271efdabfafa3c05e12de30
+- qdrant_id: 7f7995ce-1fe5-5da5-aa39-ce2033565661
+- source: Jay Murphy - New Media and the Artaud Effect (2021, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 66
+- importance: 0.8496
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+completely reliant on hieroglyphic qualities. At the beginning of his dis- cussion of the “movement-image” Deleuze describes the rarefication (where the image tends to black or white) or saturation (the multiplication of objects or compression of space within the frame) of the film frame, maintaining that the frame “teaches us that the image is not merely given to be seen. It is as legible as it is visible.”78 In discussing the new forms of montage that arrive with the “time-image,” Deleuze writes of a moment of suspension, where the eye “accedes to a function of clairvoyance.” Here “the elements of the image, which are not only visual but also sonorous, enter the internal relations that require the entire image to be ‘read’ no less than seen, to be as legible as it is visible.”79 With this one can argue that the “movement-image” of classical cinema becomes the “time-image” of…
+
+## Excerpt 14
+- id: edd943c1c0fdd2d1853a9cee
+- qdrant_id: 10d75eff-f2d5-518a-97c7-7fa4af77180c
+- source: Jeffrey Skoller - Shadows, Specters, Shards_ Making History in Avant-Garde Film-University Of Minnesota Press (2005).pdf
+- chunk_index: 42
+- importance: 0.8515
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+xx — Introduction as presupposed by many traditional theories of cinematic representation. Deleuze argues against the notion of the film image as merely a simulated sign for something that exists in the world. Like many of the avant-garde films discussed in this book, and following Deleuze's thought, I move away from discourses about the ways films re- present the world and toward ones in which film images create worlds. In Deleuzian terms, "time-images" are direct images of time, comprising the interchange of the actual, what is represented, and the virtual, that which exceeds the image and can only be thought or sensed—both of which the body and mind experience as the sensation of being in time. Deleuze stresses the direct experience of duration as that which "goes beyond the purely empirical succession of time—past, present and future." Rather than being chronological, duration is "…
+
+## Excerpt 15
+- id: 20c928b0c23929669a300268
+- qdrant_id: dd83741a-75e5-5a24-9f04-447ea2b5cd3b
+- source: D. N. Rodowick - Afterimages of Gilles Deleuze's Film Philosophy (2010, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.8483
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+able act of superimposing a multitude of images in aesthetic reflection is not only a process of abstraction, but also, and at the same time, the projection of dead times or meanwhiles, irrecoverable interstices, onto one another. Deleuze seeks to revisit such lingering moments of absentminded- ness—filled with extinction as much as recollection, with jump cuts as well as “free” association—in his new aesthetic of the time-image. Here we are looking for the breaks in continuity, the between of movements (actions, affections, perceptions, images, and sounds), rather than for a relative or an absolute whole. Instead of reflecting fantasmatic objects, Deleuze’s cinema foregrounds its “flickerings [which] multiply the interstices like irrational cuts.”123 This cinema thrives on a method of spacing in which “each image is plucked from the void and falls back into it.”124 In a hopeless, exitless age, Deleuze turns to the practice
+
+## Excerpt 16
+- id: 95e398b0f6d7933adf6c508b
+- qdrant_id: 964dd17a-039f-594a-869e-c3c950ddba28
+- source: Patricia Ticineto Clough_ Jean O'Malley Halley - The affective turn _ theorizing the social (2007, Duke University Press) - libgen.li.pdf
+- chunk_index: 73
+- importance: 0.8477
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+an experiment in virtuality, an a√ecting or materializing of a virtual series. For Deleuze, the virtual is linked to what he refers to as the ‘‘time-image.’’ The time-image gives a direct image of time and therefore di√ers from what he refers to as ‘‘the movement-image,’’ the most important variant of which is ‘‘the action-image.’’ The action-image is ﬁxed to the movement of a hu- man ‘‘sensory-motor schema,’’ which ﬁxes time to the unfolding movement of a linear narrative, typical of classical cinematic representation. Unlike the movement-image, the time-image is no longer deployed to make something seen or to make a viewer see something. It is not a matter of representation, but rather a matter of images moving in conjunction with each other at di√erent angles and speeds. The time-image makes time visible in its own movement and without appearing as a movement aberrant to narrative.≤∑ As such, the time-image points to the productivity of time, the movement of time outside
+
+## Excerpt 17
+- id: 066260df19c8b514fbac8155
+- qdrant_id: 8b9a7817-b2d9-5377-8b78-524c2b8c7a15
+- source: [Thinking Cinema 8] Thomas Elsaesser - European Cinema and Continental Philosophy_ Film as Thought Experiment (2019, Bloomsbury Academic) [10.5040_9781501396311] - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.8511
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+the ‘time image’. In this respect, I fi nd myself more actively engaged with the critique of Deleuze by Ranci è re and Badiou, while at the same time recognizing their (and thus also my) substantial debt to Deleuze. If one focuses on questioning both the epistemology of cinema (is it a form of thought? What kind of knowledge does it generate?) and its ontology (as in the formula ‘Cinema: a form of art, or a form of life?’), then one’s inspiration must invariably include Deleuze, who tends to encourage the recklessness of the latter formula. But even a foolish move is not necessarily a misstep, when one sets out to contribute to a form of thinking about our post- human condition that does not implicitly start from, and remains circumscribed by, the presumptions of the natural and the experimental sciences as providing the only kind of knowledge either pertinent or admissible …
+
+## Excerpt 18
+- id: d1b8872ec41c6dad95be1668
+- qdrant_id: e01fffd7-1a2d-5868-bfd4-83024a9e79cb
+- source: Alice Maurice (editor) - Faces on Screen_ New Approaches (2022, Edinburgh University Press) [10.1515_9781474493802] - libgen.li.pdf
+- chunk_index: 128
+- importance: 0.8445
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+their aesthetic and ceremonious appearance, producing Young’s dichotomy of ‘pretty pictures’ and ‘extremely violent grotesque’ moments. Bradford Young’s reference to ‘moments’ and the use of slow motion shows the film mobilising a time-image rather than an action image. Philosopher and film critic Gilles Deleuze sees the emergence of the time-image connected to the disastrous violence of World War II with many films producing sleepwalking and shell-shocked protagonists deprived of agency and decisive action. The paralysis of the action image reflects a severe trauma that freezes reality into dreamlike images of pure contemplation. Deleuze describes the time-image in war films in terms similar to Young’s description of the Birmingham scene:
+
+## Excerpt 19
+- id: b5e9a09638c60763f178be2d
+- qdrant_id: 9186a325-f7f4-5547-9ebe-5e45631ec3ae
+- source: D. N. Rodowick - Afterimages of Gilles Deleuze's Film Philosophy (2010, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 98
+- importance: 0.8399
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+15 2. Image or Time? The Thought of the Outside in The Time-Image (Deleuze and Blanchot) Marie-Claire Ropars-Wuilleumier A Strange Attractor The grand narrative of the cinema that Deleuze proposes is, we know, ruled and turned on its head from the inside by the eternal return of sameness-in-difference (l’éternel retour du même différent). Many film- makers who we thought modern—such as Jean-Luc Godard and Pier Paolo Pasolini, as well Robert Bresson and Orson Welles—have a place in both of the work’s two volumes, reappearing not only in Cinema 2: The Time-Image, but also in Cinema 1: The Movement-Image, along- side those greats of the silent era, Buster Keaton, Jean Epstein, or F. W. Murnau. Thus the cinema plunges into itself, digging within itself its own time, more than it develops linearly. Nonetheless, volume 2, that Time-Image that preoccupies us today, sees the appearance of auteurs that are its exclusive domain: not only
+
+## Excerpt 20
+- id: bdf75dd053afc395a8ea8e44
+- qdrant_id: cee0f4ff-d2db-5c2c-838e-a9335573e0b9
+- source: Alain Badiou, Louise Burchill - Deleuze_ The Clamor of Being (1999) - libgen.li (1).pdf
+- chunk_index: 270
+- importance: 0.8449
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+tonist. We know the master's formula: time is the "moving image of eternity."3 One might at first believe that it condenses everything that Deleuze renounces: the re­ duction of sensible time-concrete time -to the miserable state of a copy of an eternal model. But if the image is referred, as it should be, to its specific being as simulacrum (and not to mimesis), and eternity to the One qua integral virtual, we can understand that, for Deleuze as well, for Deleuze above all, the essence of time consists in expressing the eternal. As Deleuze forcefully puts it, the time-images, which can be situated in the creative power of the All, are "volume-images which are beyond movement itself" (Cinema 1, p. 1 1). This clearly underlines that the profound being of time, its truth, is immobile. But how are we to think this immobile totalization that founds the mobility of time? Deleuze onc…
+
+## Excerpt 21
+- id: 980459e002ec4fc0df049c65
+- qdrant_id: 56563f88-577d-517c-99cd-655914f0f0c5
+- source: Kaufman, Eleanor - Deleuze, The Dark Precursor_ Dialectic, Structure, Being (2014, Johns Hopkins University Press) - libgen.li.pdf
+- chunk_index: 110
+- importance: 0.8450
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+an encounter between movement and immobility, Deleuze produces such an encounter in the realms of thought and image (percept, affect, concept). In Deleuze’s intricate trajectory from Cinema 1: The Movement-Image to Cinema 2: The Time-Image, we ﬁnd at once a complex Bergsonian anal- ysis of movement and immobility and a movement away from movement and toward time. In discussing ‘‘crystals of time’’ and ‘‘sheets of past’’ in Cinema 2, Del- euze redeploys Bergson so as to accentuate the way certain cinematic auteurs produce, through their images, multilayered renderings of time. One example is the way depth of ﬁeld gives rise to ‘‘two poles of a meta- physics of memory. These two extremes of memory are presented by Berg- son as follows: the extension of sheets of past and the contraction of the actual present.’’∑ Deleuze uses Alain Resnais and Alain Robbe-Grillet’s Last Year at Marienbad as…
+
+## Excerpt 22
+- id: 725f293e6fa7c3e7b277718a
+- qdrant_id: fc78900b-7728-5cd6-b7ed-8711796bf2b1
+- source: Tiago de Luca_ Nuno Barradas Jorge - Slow Cinema-Edinburgh University Press (2015).pdf
+- chunk_index: 71
+- importance: 0.8473
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+hindsight, some of Bazin’s favoured films may appear somewhat constrained in terms of their relatively timid temporal elongations, circumscribed as they were by dramatic and even theatrical structures (see Wollen, 2004: 252; de Luca, 2014: 18–21). For the French philosopher Gilles Deleuze, however, the films illuminated by Bazin are already the seeds of a cinema concerned with ‘direct presentations of time’ (Deleuze, 2005: 39). Deleuze’s hugely influential cinema books are by now well documented and duly invoked in many studies on slow cinema (and chapters in this volume) owing to his conception of the ‘time-image’ regime which updates Bazin’s notion of modern cinema in the following terms: Now, from its first appearances, something different happens in what is called modern cinema . . . What has happened is that the sensory- motor schema [of classical cinema, or movement-image]…
+
+## Excerpt 23
+- id: 0d9b58bcd4c713d18a5f17a6
+- qdrant_id: df64e526-b42a-5fe6-9c4f-605a430e6696
+- source: Ian Buchanan, Claire Colebrook - Deleuze and feminist theory (2000, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 108
+- importance: 0.8431
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+and slogans, becoming reduces images to clichés in a society completely under the spell of marketing. How to turn away from these conditions and actualise virtualities is taken up in the second of Deleuze’s two volumes on film entitled Time-Image. There Deleuze alludes to the revolutionary side of three women filmmakers, Chantal Akerman, Marguerite Duras and Agnes Varda. The repertoire is less ‘classical’ or ‘popular’ than, as with his choice of literature, anti-consumption. Deleuze deals with an anti-cinema that does not give the spectator the easy satisfaction of consuming images or of identifying with the screen. This cinema keeps, and shows, its links to writing and thinking. With the possible exception of Varda, none of these women film- makers is at any point truly ‘militant’. Deleuze sees all three as ‘revolutionary’, as focusing on certain notions of becoming(-woman) in their fi…
+
+## Excerpt 24
+- id: d3981bd0fffc16f1ba56c12d
+- qdrant_id: 579c7716-3a22-5f27-82bb-b468d2830ae4
+- source: Nadine Boljkovac - Untimely Affects_ Gilles Deleuze and an Ethics of Cinema (2013, Edinburgh University Press) [10.1515_9780748669707] - libgen.li.pdf
+- chunk_index: 72
+- importance: 0.8475
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+part automatically, listening to himself and beholding himself playing. (C2: 79) As the cinema discovers non-communicable means to think and create through the freeing of affect and time from the foundations of identity, representation and redundancy, it affirms the resist- ance of which Deleuze writes that radically counters conventional interpretations of freedom. Through virtual worlds, that is, the cinema manifests a ‘veritable transformation’ or ‘great circulation of elements’ (Deleuze 1998b: 16) that, via disjunctions of image, sound, score, speed, light and intensity, affect the sensory body of the spectator, a subjectivity produced by the doubling of crystalline time, a becoming of consciousness enabled through virtual memory. The emergence of the cinematic time-image in the post-Second World War period fundamentally derives not only from ‘the most ordinary states of sleep, dream, or a disturbance of attention’ but also from
+
+## Excerpt 25
+- id: 038679503c083e70fa3a8ba8
+- qdrant_id: 0d63f85a-60ec-59f9-85aa-a2b9d4173126
+- source: [Transversals] John Mullarkey - Post-Continental Philosophy_ An Outline (2006, Continuum) [10.5040_9781472547330] - libgen.li.pdf
+- chunk_index: 140
+- importance: 0.8450
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+D e l e u z e a n d t h e t r a v a i l s o f v i r t u a l i m m a n e n c e 31 Returning to Deleuze now, we can begin to see how a pragmatic and processual use of the virtual itself (rather than an ontologically foundational one) can be reintegrated into his thought and how it can consequently reconfigure its thinking of immanence. For Deleuze, time is multiplicity rather than passage – Aion over Chronos: be it the ‘original time’ of his Proust and Signs (seen in either the invol- untary image of eternity or the actual eternity affirmed in art), the ‘crystal-image’ of time in Cinema 2, the ‘pure and empty form of time’ (Aion) in Difference and Repetition, or the third synthesis of the Nietzschean eternal return, time is one metaphysical element heavily mediated by Deleuze’s theory of the virtual.79 A de-temporalisation of time. And yet, as Guattari observed separately, …
+
+## Excerpt 26
+- id: f2c5e98b6b95b8e5d21bd31a
+- qdrant_id: 8842b34f-8b47-56b9-bb1a-d504288797d8
+- source: David Rodowick (editor)_ Stanley Fish (editor)_ Fredric Jameson - Reading the Figural, or, Philosophy after the New Media (2001, Duke University Press) [10.1515_9780822380764] - libgen.li.pdf
+- chunk_index: 22
+- importance: 0.8385
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+shift from the movement-image to time-image can also be understood as the displacement of a Hegelian philosophyof history-in-images with a Nietzschean conceptualization of history articulated through new audiovisual forms in cinema, television, and digital media, no less than in the philosophical inﬂuence of Nietzsche in the writings of Michel Foucault, Gilles Deleuze and Félix Guattari, and other French histo- rians and cultural theorists. In French ﬁlm since 1958, a new orienta- tion of the visible with respect to the expressible—of image and sound as well as movement and time—also marks a new conceptual relation with questions of history, memory, and politics wherein the ﬁgural is considered again as both time-image and historical image. In the era of the ﬁgural, thought relies no less poignantly on open- ing a space in language responsive to the ﬁgural transformations of the eye than on releasing ﬁgures in space as discourse or expression.
+
+## Excerpt 27
+- id: ea938153833a31afd4f762be
+- qdrant_id: 75373045-e412-52a6-9c22-82faa4df9f1f
+- source: Sylvie Magerstädt - Philosophy, Myth and Epic Cinema_ Beyond Mere Illusions (2014, Rowman & Littlefield International) - libgen.li.pdf
+- chunk_index: 31
+- importance: 0.8395
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+specific aspects of the time-image that may have influenced mainstream Hollywood cinema. At this point, I also intend to work out the specific connections Deleuze draws between cinema, perception and belief sys- tems. One of the most interesting ideas in this context is Deleuze’s state- ment that ‘we no longer believe in this world’ (Deleuze 1989, 166). He further suggests that modern cinema may be able to reinstate our belief in this world, which I want to examine in more detail. After analysing both images and further relevant aspects of Deleuze’s writings on cinema, I proceed to the contemporary aspects of cinema. In this context, I will discuss how Deleuze’s ideas can be developed further with regard to the growing influence of digital technologies on cinema, as well as the new challenges this impact poses for theorists. As we shall see, the importance of new technologies lays not only with the aspects of image creation, but
+
+## Excerpt 28
+- id: 49626cf48881f1c10d7b9839
+- qdrant_id: a4bf564b-5473-5ce8-913f-817db1749bb6
+- source: Richard Rushton - Deleuze and Lola Montès (2021, Bloomsbury Academic) [10.5040_9781501345791] - libgen.li.pdf
+- chunk_index: 31
+- importance: 0.8344
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+DELEUZE’S CINEMA 9 again. Therefore, let us try some clear formulations. If the movement-image endeavors to fix the past-present-future into a clear, chronological order, then the time-image provides a far looser sense of chronological time and much more of a sense of lived time or time-as-it-is-experienced. This means that the time-image introduces relationships between the present and the past that are not fixed. Or, to try to put matters as simply as possible, for the time-image, the past can and does change its relationship to the present. The past can change: this is the major breakthrough initiated by the time-image. The past is not fixed. But how can the past change? Isn’t the past precisely that which cannot be changed? Isn’t that one of the things that makes it the past, the blunt fact that it happened and now there’s nothing that can be done to change that? We cer…
+
+## Excerpt 29
+- id: 59c699a9565d43bbd80db365
+- qdrant_id: 47b46374-dc0f-5aed-ac7a-1190ccba6ff7
+- source: [Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 281
+- importance: 0.8420
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+promised to (re)present temporal dynamics—and the temporality of things—directly, unmediated, a paradox that gives rise to the different “strategies” of what Deleuze calls the movement-image and the time- image, respectively. Such a representation, however, is an effect not only of a perceptive illusion, but also of the repression of the very materiality of film itself, the film stock, an immensely fragile medium that in the course of its “projection-life” is subjected to scratches, burns, etc.—to signs of the times. I wiU situate this crossbreed of material culture and media studies in the larger framework of Deleuze’s Cinema books mixed with his “intelligent materialism”^—a hybrid that stays in the family, so to speak, in order, as Regis Debray put it, “to proceed as if mediology Matter that images: Bill Morrison’s Decasia 113 could become in relation to semiology what ecology is to the biosphere. Cannot a ‘mediasphere’ be treated like an ecosystem, formed on the one
+
+## Excerpt 30
+- id: f2aa46d02316758c2bd668dd
+- qdrant_id: 895fd9cf-3469-568f-a621-f7742f60ad80
+- source: [Routledge Studies in Contemporary Philosophy 95] Josef FrUchtl - Trust in the World_ A Philosophy of Film (2017, Routledge) - libgen.li.pdf
+- chunk_index: 449
+- importance: 0.8400
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+“to ‘make’ movement”, choreographic and theatrical images conversely “remain attached to a moving body”.1 In the first case, the image is a physi- cal entity and the movement occurs mentally, while in the second case, the movement is physical and the image is a mental entity. Deleuze goes further, introducing the distinction between “movement-image” and “time-image” (image-temps). Whereas the former presents situations of (purposeful) action, the latter presents situations of (non-purposeful, roaming) seeing and hearing.2 Here the movement-image is thus no longer merely formal, but also contentually generally defined, with a view to situations of action. Its epistemological equivalent is an objectivistic concept of truth. Not until
+
+## Excerpt 31
+- id: a6a459e615e735736987ff4b
+- qdrant_id: eca390a7-d013-5da5-8c5a-2c7af3da98d7
+- source: Nick Davis - The Desiring-Image _ Gilles Deleuze and Contemporary Queer Cinema (2013, Oxford University Press) - libgen.li.pdf
+- chunk_index: 156
+- importance: 0.8417
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+( C2 ), Kafk a ( K ), or A Th ousand Plateaus ( TP ) that off er concentrated accounts of these concepts. Action-Image Th e type of shot that follows a perception-image and an aff ection-image within the prototypical, three-stage protocol on which Deleuze’s cinema of the movement-image depends. At this third stage, a set of perceived elements, as endowed with aff ective, narrative, or political import by an intervening shot, engages in a fi lmed action that reorganizes these elements or advances their relations in a new way, thereby restarting the perception-aff ection-action cycle. Th e post–World War II cinema of the time-image substantially reduces the role of this type of image. See especially: C1 , chapters 9, 10, and 12. Actual/Virtual Especially in Cinema 2 , the actual aspect of an image entails traits we see and hear, and relations we perceive among them. Th e virtual facets entail further, poten-
+
+## Excerpt 32
+- id: e262f1343dff0cf79da00007
+- qdrant_id: 5fdc9456-3eb0-59b9-842c-d252efba1dea
+- source: Teresa Rizzo - Deleuze and Film_ A Feminist Introduction (2012, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 9
+- importance: 0.8407
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+new kinds of interactions between terms, ideas, discourses, institutions and bodies. Deleuze’s work is expansive, covering a wide range of concepts, topics, philosophies and theories. It has also been taken up, interpreted and deployed in a vast number of ways by philosophers, anthropologists, architects, femi- nists, scientists, sociologists, artists, media theorists and gender theorists. As a result we might say that there are a number of Deleuzes. So, which one does the present book address? It focuses primarily on three Deleuzes. The first is the cinematic Deleuze that emerges from a meeting of philosophy and film in Cinema 1: The Movement-Image and Cinema 2: The Time-Image (hereafter Cinema 1 and Cinema 2, or the Cinema books).2 What is remarkable about this work is that in it we find an eminent philosopher examining cinema seriously as a conceptual practice. What is speci…
+
+## Excerpt 33
+- id: 245fd62c1ca4dc17ddb6d21d
+- qdrant_id: 581feb82-8246-5ec8-a30d-b77843391cfc
+- source: [Routledge Studies in Contemporary Philosophy 95] Josef FrUchtl - Trust in the World_ A Philosophy of Film (2017, Routledge) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.8309
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+pany of the objects of this world.9 As is well known, Deleuze is an ambivalent source regarding the definition of film as movement, however. In a Hegelian figure of thought, his movement- image is revoked in the time-image. According to this broad assumption, Italian Neorealism in the late 1940s, French Nouvelle Vague in the late 1950s and German Autorenkino in the late 1960s translated the cinema of the movement-image, the cinema of more or less natural stories with a linear structure and a hidden camera, into a cinema of images with a direct presen- tation of time, no longer understanding time as linear, but as a Bergsonian (or Heideggerian) layering of the modal times present, past and future. In this theory, paradoxical since Augustine, time is a simultaneity of the three modal times, a parallel unity of past, present and future. If this theory that, firstly, Modern cinema after World War II reveals the true essence of cinema
+
+## Excerpt 34
+- id: bb4b3848b10e5dfd396a0d4f
+- qdrant_id: 19be8f02-3b1c-5360-8f58-1f6e74635c58
+- source: Nick Davis - The Desiring-Image _ Gilles Deleuze and Contemporary Queer Cinema (2013, Oxford University Press) - libgen.li.pdf
+- chunk_index: 41
+- importance: 0.8380
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+rial and conceptual bases of fi lmmaking, which Deleuze partitions into two semidiscrete epochs, before and aft er World War II. In the simplest terms, cin- ema’s reliance on motion and controlled duration diff erentiate it from still photography—prompting Deleuze to eschew frame reproductions within his texts, since these are precisely not cinema. 14 More to his philosophical points, it is within the planes of movement and time that cinema’s transformative potentials inhere, goading us to rethink perception, relation, and collectivity as aesthetic and also political precepts. From these roots I derive my own ar- guments for how cinema generates and reformulates desire. Cinema’s fi rst challenge was to legibly organize overlapping movements and do so coextensively within the frame, across a sequence, and throughout a fi lm. In Deleuze’s genealogy, various national fi lm cultures perfect forms of move-
+
+## Excerpt 35
+- id: f080b76a165534b8cfa64ab8
+- qdrant_id: 324915a3-7263-5c76-8fb1-6ccc82a4c2ec
+- source: Tiago de Luca_ Nuno Barradas Jorge - Slow Cinema-Edinburgh University Press (2015).pdf
+- chunk_index: 73
+- importance: 0.8314
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+introduction 9 Though Deleuze’s pantheon is monumental in scope, his conceptualisation of the time-image thus comes to legitimise it as a by now well-known version of modernist art cinema characterised by observant and errant characters, ellipti- cal and dedramatised narrative structures, minimalist mise en scène, and/or the sustained application of elongated and self-reflexive temporal devices such as the long take.3 Initially associated with the likes of Carl Theodor Dreyer and Michelangelo Antonioni, this aesthetic axiom would bloom in the 1960s and 1970s with the rise of art cinema European auteurs, such as Andrei Tarkovsky, Theo Angelopoulous and Jean-Marie Straub and Danièle Huillet, on the one hand, and the more radical and non-narrative experiments practised across the Atlantic by the likes of Andy Warhol, Michael Snow and Hollis Frampton, on the other, with film-makers…
+
+## Excerpt 36
+- id: 8dccfe4c8cb1ef7210e737fd
+- qdrant_id: 6070bff7-e030-5221-9bfe-fc9c692c77d8
+- source: Leo Braudy, Marshall Cohen - Film Theory and Criticism (2009, Oxford University Press, USA) - libgen.li.pdf
+- chunk_index: 142
+- importance: 0.8357
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+(the ASA structure). These features enable but do not yet establish the time-image. In the time-image, the subordination of time to movement is reversed, and a direct, rather than an indi- rect, image of time is revealed on the surface of the screen. The time-image pre- sents a purely optical and sound situation that replaces the faltering sensory-motor system and its control of action. Into the world of continuous space-time where prac- tical action occurs, the modern cinema brings the emancipated senses into direct relation with thought and time, where the audience may grasp something too pow- erful, too unjust, or too beautiful, something that outstrips its sensory-motor capac- ities. To the extent that optical and visual description replaces motor action in this new regime of opsigns and sonsigns, a new principle of indeterminacy governs. We no longer know the difference between subjective and objective, imaginary and real,
+
+## Excerpt 37
+- id: e6d8a1bda2fbe626b49c99c3
+- qdrant_id: b83062ff-b181-523c-a78b-31bf92515ccb
+- source: Nick Davis - The Desiring-Image _ Gilles Deleuze and Contemporary Queer Cinema (2013, Oxford University Press) - libgen.li.pdf
+- chunk_index: 42
+- importance: 0.8380
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+do so coextensively within the frame, across a sequence, and throughout a fi lm. In Deleuze’s genealogy, various national fi lm cultures perfect forms of move- ment that echo their existing ideological and artistic bents. Th us, early U.S. fi lmmakers emphasized narrative movements and kinetic spectacles within character-driven, ahistorical entertainments; Soviet fi lmmakers expressed his- torical movement through dialectical montage; and French fi lmmakers privi- leged luminous, impressionist, and superimposed motions, in conjunction with painterly and photographic trends. For Deleuze, these advances provoke new, era-specifi c ideas of what movement is, of how it relates to categories of thought, and of how it participates in cycles of “becoming.” 15 He concerns him- self with more than images of motion: say, a galloping horse, an agitated crowd, or a fl owing river. Instead, Deleuze theorizes movement-images that prompt
+
+## Excerpt 38
+- id: bbcf9aabdde48f4137525a0b
+- qdrant_id: 985e3b23-fe40-50b8-b2cf-2e2fed6d7acf
+- source: Garrett Stewart - Cinemachines_ An Essay on Media and Method-University of Chicago Press (2020).pdf
+- chunk_index: 39
+- importance: 0.8319
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+of the suppressed. This includes not just the photogram always lost to view in one sense, while recovered in another by the so-­called frame grab. It includes as well the constituent pixel, and beneath that, by inference, the unglimpsed algorithmic template of electronic screening as the cinema- chine’s latest generative function. For cinema persists as institution and as narrative form, regardless of what subsists in the film stock’s former place. In this and other ways, my new explorations would inevitably remain attached to Deleuze’s question about what computerized imagery would do to the function of the time-­image in cinema, not what postcinematic video would do to perceptual temporality at large.9 The prospect of tackling again such issues was much on my mind when I was invited to take part in a symposium in 2017 at the University of Chicago on the film-­philosophy overlap in classroom teaching. Even there,
+
+## Excerpt 39
+- id: 695d747459eafcdf655bff82
+- qdrant_id: f255124b-147e-538c-a320-40b631569b2e
+- source: [Routledge Studies in Contemporary Philosophy 95] Josef FrUchtl - Trust in the World_ A Philosophy of Film (2017, Routledge) - libgen.li.pdf
+- chunk_index: 474
+- importance: 0.8346
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+in the world, to renew the torn bond between the subject and the object. Deleuze formulates his theory under the heading: “Thought and cinema”. The premise here is threefold: Firstly, there is an “artistic essence of the image”; secondly, it consists in “what forces thinking and what thinks under the shock”; thirdly, it emerges in cinema as a “movement-image” and a “time-image”. Therefore, as mentioned already earlier, it does not manifest itself in the painted image or the choreographic and theatrical image, for “pictorial images are immobile in themselves” and it “is the mind which has to ‘make’ movement”, whereas ballet and theatre “remain attached to a moving body”.20 The philosophical-aesthetic background to this is
+
+## Excerpt 40
+- id: 3a0cb772a492654d1978fb66
+- qdrant_id: b12f0709-1b7f-5e7d-a6ec-b2011255dc5c
+- source: Ceciel Meiborg, Sjoerd van Tuinen - Deleuze and the Passions (2016, Punctum Books) - libgen.li (1).pdf
+- chunk_index: 390
+- importance: 0.8352
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+materiality, we can now go as far as to conclude that they aimed to study the material inscriptions of ideology: transforming ide- ology critique into geology or physics.54 At this point, we need to come back to the loss of belief and the reign of images to understand how Deleuze provides an answer to questions about the capitalist exploitation of abstract desire in Cinema 2: The Time-Image. There are at least two reasons why the turn to images is cru- cial here. First, instead of representation it is the materiality of images that interests Deleuze, the circulation of these images, continuing in a way Benjamin’s early reflections on the repro- ducibility of images. Second, the analyses of images continue the noology project, of studying the historicity of the images of thought. Social reproduction is established with image-functions, and just as philosophy has conceptual perso…
+
+## Excerpt 41
+- id: 4893a842d09f2881ecc878aa
+- qdrant_id: da1b539a-2ac8-5a4f-ade7-ab0102e6a598
+- source: [Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 304
+- importance: 0.8287
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+actualitees, travel reports, industrial and educational films that all dated from the first half of the Centiuy of the Cinema and that all were shot on nitrate film.’ In a way, I argue, Morrison’s strategy enacts a reversal of classic cinema’s subordination of time to movement comparable to the Deleuzian taxonomy. Decasia’s cannibalization and recontextualization of prewar “movement-images” according to irrational cuts and false continuities enacts an undermining of the concept of time as the relation of movement and space. Whereas in the classic movement-image, the rational cut served as a “linkage of images” (Deleuze 1986: Cinema 2, 213), producing “natural relations (series)” (Deleuze 1986: Cinema 1, 204) of images, the film of the time-image “‘disenchain[s]’” (Bogue 2003:173) the images from these series, opening up and expanding an “irrational interval” by which each image, according to Rodowick, becomes what probability physics calls a “bifurcation point,” where it
+
+## Excerpt 42
+- id: 1dedeea4ad66a39c7fc774d5
+- qdrant_id: ac8e223e-940b-5dd6-9475-c37c00c2b8a2
+- source: Anna Powell - Deleuze, Altered States and Film (2012, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 98
+- importance: 0.8389
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+presents it to the public with the didactic intent of a Surrealist manifesto. Deleuze’s interest in early European avant-garde ﬁlm is informed by his diﬀerent philosophical and cultural agenda. For him, the value of such work as aﬀective time-image is twofold. Via experimentation with ‘visual and sound sensations (or tactile ones, cutaneous or coanesthetic) which have lost their motor extension’, they are able to express philo- sophical concepts.50 By creating a single ‘automatic subjectivity’ that unites ‘image, thought and camera’, they oﬀer insight into ‘the mystery of time’.51 Deleuze argues that perceptual disturbances are not dependent on extreme plot situations, but they can be produced by ‘ordinary states’ such as sleep, dream or disturbed attention.52 They do not require motor extension or the memory-based recognition of speciﬁc recollections. In such receptive states duration i…
+
+## Excerpt 43
+- id: 62e3e6848717bb2a17be218a
+- qdrant_id: f1125dfd-5991-5242-9985-49e51ab6b90c
+- source: Dorothea E. Olkowski - Deleuze, Bergson, Merleau-Ponty_ The Logic and Pragmatics of Creation, Affective Life, and Perception (2021, Indiana University Press) - libgen.li.pdf
+- chunk_index: 348
+- importance: 0.8359
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+whose hero is caught in a multiplicity of circuits that returns him each time to the pure present, where he meets a fatal end.57 Such a circuit seems to be not determinism but destiny, the pure power of time that overflows all possibility of reaction and defeats, immobilizes, and petrifies figures in their own affectiv- ity, condemning them to a horrendous fate even as it destroys all conventions. And let us remember that this theory of movement-image and time-image is a theory of the brain and how it functions. Deleuze takes cinema to be the power of putting images in motion in the brain, tracing neuronal circuits, and putting cinema in the place once occupied by psychoanalysis, in place of the human and in place of perception. Gratuitously violent and sexualized images (plentiful in cinema as in life) are localized in the limbic system, which is de- voted to generating feeling.…
+
+## Excerpt 44
+- id: 5a566548b5e1dbc6c1a6224b
+- qdrant_id: 2bd84d00-4b55-5e4b-9942-e0662685dc07
+- source: Jeffrey Skoller - Shadows, Specters, Shards_ Making History in Avant-Garde Film-University Of Minnesota Press (2005).pdf
+- chunk_index: 136
+- importance: 0.8302
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+are not simply on a continuum but integral to the present.17 As Deleuze writes of Bergson's theses on time: "The past co-exists with the present that it has been . . . at each moment time splits itself into present and past, present that passes and past which is preserved" (Cinema 2, 82). Hence the crystal image is one that is "present and past, still present and already past, at once and the same time" (79). In such images there is an indistinguishability between the actual and virtual temporalities within an image. The actual is the present of what is seen in the image, and the virtual is the past and future that coexist in the actual image of the present. The films examined in this sec- tion use highly formal cinematic techniques of montage (Godard and Child) and the long take (Eisenberg and Benning) to produce complex images of time that are dy- namic relationships between real time …
+
+## Excerpt 45
+- id: 9c56ecb58d6a3e3f09c89e3a
+- qdrant_id: 76fb08f3-c588-5920-ab82-7e179e821d4f
+- source: Lutz Koepnick - The Long Take_ Art Cinema and the Wondrous (2017, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 50
+- importance: 0.8247
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+to amend Deleuze’s concept of the time-­image, provides a sympto­matic example for this tendency.11 For Deleuze, the cine­matic time-­image in the work of postwar European auteurs presented time as the continual emergence of the new. It de- scribed the cinematic unfolding of durations that carry the past along yet avoid the cliché and boredom of repetition. What McGowan calls atemporal cinema—­films such as The Constant Gardener (2005; dir. Fernando Meirelles), 21 Grams (2003; dir. Alejandro González Iñárritu), 2046 (2004; dir. Kar Wai Wong), and Memento (2000; dir. Christopher Nolan)—­is designed to renounce this kind of optimism, the narrative film’s built-­in
+
+## Excerpt 46
+- id: 535825b5fb0cc8242a30a0d5
+- qdrant_id: be71a2c0-5a4c-59aa-b346-ca86ecc12689
+- source: Garrett Stewart - Cinemachines_ An Essay on Media and Method-University of Chicago Press (2020).pdf
+- chunk_index: 649
+- importance: 0.8223
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+9. See Gilles Deleuze, Cinema 2: The Time-Image, trans. Hugh Tomlinson and Barba- ra Habberjam (Minneapolis: University of Minnesota Press, 1989), 215. CHAPTER 1 1. Epstein, The Intelligence of a Machine, trans. Christophe Wall-Romana (Minne- apolis, MN: Univocal, 2015; originally published as L’Intelligence d’une machine [Paris: Jacques Melot, 1946]), 104. 2. Christian Metz, “Trucage and the Film,” trans. François Meltzer, Critical Inquiry 3, no.4 (Summer 1977): 672. 3. Salman Rushdie, Midnight’s Children (New York: Random House, 1981), 189. 4. Frank Norris, McTeague (New York: Oxford University Press, 1995), 84. 5. In “Conclusions” to Cinema 2: The Time-Image, Deleuze speculates on whether the “numerical image” is destined “to transform cinema or to replace it” (265)—an issue on whose terminology, at least, the present annotations have already weighed in by resisting too liberal a use of “postcinema.” The question this raises more specifically
+
+## Excerpt 47
+- id: 1e5c5ddf291f014b8aaa6e64
+- qdrant_id: 6f387f20-6d4c-5c57-84f6-a8476e71f734
+- source: John Marmysz - Cinematic Nihilism_ Encounters, Confrontations, Overcomings (2017, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 109
+- importance: 0.8363
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+and the different responses to this concept offered by Heidegger and Deleuze and Guattari. Focusing in particular on Deleuze and Guattari’s reworking of the concept of the Umwelt as a process of ‘desubjectified’ assemblages and becomings, I link this to Deleuze’s thinking of the time-image as a shift from subject to world, and as a realm that is intricately bound up with questions of differing, becoming and the virtual. While Deleuze is often invoked as a key reference in critical commentary on slow cinema, in such works his con- ceptualisation of the time-image tends to remain fairly briefly outlined and without detailed exploration.180 Addressing this gap, this chapter suggests particular ways of thinking through links between Deleuze, cinema and the slow animal film. At the same time, I turn to recent accounts of the relation between animals and film, including work by Pick, Burt, Lippit, Sobchack
+
+## Excerpt 48
+- id: 71ba5d582e15eeb43649ad44
+- qdrant_id: 72ee2a21-04ea-56fd-96d1-4d3d4fc83e87
+- source: Thomas Travers - Peripheralizing DeLillo_ Surplus Populations, Capitalist Crisis, and the Novel (2022, Bloomsbury Academic) [10.5040_9781501378409] - libgen.li.pdf
+- chunk_index: 116
+- importance: 0.8333
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+trans. John Kraniauskas (New York: Fordham University Press, 2020), vii. 29 Gilles Deleuze, Cinema 1: The Movement-Image, trans. Hugh Tomlinson and Barbara Habberjam (London: The Athlone Press, 1992), 206. 30 Deleuze, Cinema 1, 206. 31 Ibid. 32 Ibid., 210. [Emphasis in original]
+
+## Excerpt 49
+- id: 054da1a1351f5eb77df36d20
+- qdrant_id: 998f02fe-1421-5c43-8046-baff58f152a1
+- source: Teresa Rizzo - Deleuze and Film_ A Feminist Introduction (2012, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 159
+- importance: 0.8260
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+The Time-Image (Cinema 2), 1–2 Deleuze views 9 time-image 58, 71–3 transcendental empiricism 16–17 transcendental subject, Baudry’s views 26 cinematic apparatus for feminist film theory 25, 33 illusion for spectator 26 monocular perspective 25–7 voyeurism, Freud’s work on 18 Williams, Linda 49–50, 58, 77, 81, 83, 124 Women’s Pictures: Feminism and Cinema 23
+
+## Excerpt 50
+- id: 2368567f6f77b04ff8b0f474
+- qdrant_id: 87410ef7-b599-53b9-a365-42caea809150
+- source: Reidar Andreas Due - Deleuze (Key Contemporary Thinkers) (2007) - libgen.li.pdf
+- chunk_index: 570
+- importance: 0.8281
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+go through in both directions: at one end the dark background, at the other end the sharp light, which when it lights up produces whiteness in the designated area, but the white darkens more and more, is replaced by obscurity, an ever thicker shadow as it spreads towards the dark corners in all of the monad.2 Let us now consider how the parallel works the other way, how, that is, art may resemble philosophy. Cinema and the Critique of Representation Deleuze's two-volume work on cinema, L'image-mouvement and L'image-temps, translated as The Movement-Image and The Time-Image, presents cinema as a conflictual field of thought, an arena where two fundamentally different ways of organizing thought and creat- ing relations clash. One is representational and based on narrative conventions; the other, the cinema of modernity, challenges the conventions of narrative cinema and thereby challenges representa- tion itself. Narrative cinema constitutes a 'movement-image7. Cine-
+
+## Excerpt 51
+- id: fe8d966575762b26b46c0dfe
+- qdrant_id: 7ae2485f-1bd9-5c45-a4a8-21084e69dd94
+- source: Reidar Andreas Due - Deleuze (Key Contemporary Thinkers) (2007) - libgen.li (1).pdf
+- chunk_index: 574
+- importance: 0.8371
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+experience. This means that some films can challenge the order that we impose on the world within ordinary experience whereas others endorse this representational order. The focus of his analysis is always on the composition of indi- vidual frames and their relations to one another in editing. The aim of the analysis is to understand the cognitive achievements of dif- ferent film-makers and types of film. The visual qualities of the film image and the cognitive implications of these qualities are then conceived as autonomous, immanent features of the film. This theory of intrinsic qualities resembles a method of semiotics, but it has an ambiguous relation to conventional semiotic film theory which aims to quantify the narrative units or segments of a film. Against this narrative semiotics Deleuze develops a qualitative semi- otic of cinema, a theory of how aesthetic and signifying qualities of the film image are organized independently of the narrative units
+
+## Excerpt 52
+- id: 3b31229887b72544a61299b7
+- qdrant_id: a35da99c-2a60-54d1-9b80-da85340668a1
+- source: Sylvie Magerstädt - Philosophy, Myth and Epic Cinema_ Beyond Mere Illusions (2014, Rowman & Littlefield International) - libgen.li (1).pdf
+- chunk_index: 113
+- importance: 0.8363
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+writings on judgement. Here, his analysis shifts gradually from aesthetic considerations of the different images to ethical ideas about the truthful- ness and believability of the two types of cinema connected to these images. With the departure from the classical organic representation that aims at realism the time-image ‘ceases to be truthful, that is, to claim to be true, and becomes fundamentally falsifying. . . . It is a power of the false which replaces and supersedes the form of the true, because it poses the simultaneity of incompossible presents, or the coexistence of not-neces- sarily true pasts’ (Deleuze 1989, 127). Unlike in the classical movement- image, causal relations now no longer allow us to draw universal conclu- sions about the situations and the characters and we are presented with a variety of options that can all be true or false, or both. However, as Rodowick has …
+
+## Excerpt 53
+- id: 8a7bd6407b495a98e7567ea2
+- qdrant_id: c96e0393-f802-5a8d-a4be-0e4fe0ca8d94
+- source: Anna Powell - Deleuze, Altered States and Film (2012, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.8355
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+So how else can Deren’s ﬁlm oﬀer a productive nexus for a Deleuzian approach? Rather than establishing locale, the opening shot refuses spatial orientation by focusing on the slight motion of swaying trees. Such inten- sive movements turn in on themselves to suggest a mysterious and diﬀused world of non-human energy. In counterpoint to these, the central charac- ter struggles to move swiftly and extensively via a more focused glide as though swimming against a current. More extensive motion intrudes as an arm drops into frame, to disappear with equal suddenness after laying a ﬂower on the pathway. By labelling such part-objects as uncanny schizoid formations, cinepsychoanalysis ignores the ﬁlm’s style, the very area where Deleuze chooses to work. He uses framing to think the presence of a durational elsewhere not subject to the limits of the spatial dimension. For Deleuze, the frame’s in…
+
+## Excerpt 54
+- id: ee721dba6e7b82895fba331c
+- qdrant_id: 98476cf8-1152-55b9-871a-c566adf1acec
+- source: Sylvie Magerstädt - Philosophy, Myth and Epic Cinema_ Beyond Mere Illusions (2014, Rowman & Littlefield International) - libgen.li.pdf
+- chunk_index: 30
+- importance: 0.8258
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+Introduction: Philosophy, Myth and Spectacle xvii the second part of this chapter, I then proceed to alternative theories of cinematic realism by André Bazin and aim to link Kracauer’s theories to those of Gilles Deleuze, which will be discussed in the next chapter. Chapter 3, then, explores concepts of contemporary cinema based on Deleuze’s categories of the movement-image and the time-image. The first part of the chapter follows the transition from the classical cinema of movement to a modern cinema of time. The emphasis of this analysis will be on the movement-image, its relevance for Hollywood cinema and the specific characteristics that link it to a system of believability and truth- fulness. I will also raise the question if the movement-image really has lost its importance, as Deleuze seems to suggest. In addition, I will look at specific aspects of the time-image that may have influenced mainstream Hollywood cinema. At this point, I also intend to work out the specific
+
+## Excerpt 55
+- id: 5f5117d3ebc6e3e6e6c18d5e
+- qdrant_id: 40291112-105d-53fa-85c2-e526646db905
+- source: Reidar Andreas Due - Deleuze (Key Contemporary Thinkers) (2007) - libgen.li.pdf
+- chunk_index: 577
+- importance: 0.8205
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+film can develop an abstract image that detaches itself from its own plot and from the reference to the actions and reactions of characters. The second division which defines the border between the first and the second volume, entitled The Time-Image, concerns a much more general trend of aesthetic abstraction, i.e. of a mode of composition which relies more on the stylistic qualities of the film image than on the narrative content that it represents. This possibil- ity of aesthetic abstraction occurs at different moments within European, American and Japanese cinema but in each case it is seen by Deleuze as an affirmation of the visual and aesthetic autonomy of th film image. According to Deleuze, classical or mainstream narrative cinema is organized around an ideal correspondence between camera and character so that what the camera frames and films corresponds in principle to what a character within the fiction would be able to see.
+
+## Excerpt 56
+- id: 40bbf794a0d094e13a793234
+- qdrant_id: 538c8812-dd88-5c72-b12c-6ee973f5a4c6
+- source: Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf
+- chunk_index: 606
+- importance: 0.8253
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+Deleuze , Gilles . ( [1985]2005 ), Cinema 2: The Time Image , trans by Hugh Tomlinson and Robert Galeta , London and New York : Continuum . Deleuze , Gilles and Guattari , Felix . ( [1972]2004 ), Anti-Oedipus: Capitalism and Schizophrenia , London and New York : Continuum . Derrida , Jacques and Stiegler , Bernard . ( [1996]2002 ), Echographies of Television , trans. Jennifer Bajorek , Cambridge : Polity . Didi-Huberman , Georges . ( [1990]2005 ). Confronting Images: The Ends of a Certain History of Art , University Park, PA : The Pennsylvania University Press . Doane , Mary Ann . ( 2002 ), The Emergence of Cinematic Time: Modernity, Contingency and the Archive , Cambridge, MA : Harvard University Press . Doane , Mary Ann . ( 2005 ), ‘ Real Time: Instantaneity and the Photographic Imaginary ’ , in David Green and Joanna Lowry (eds.), …
+
+## Excerpt 57
+- id: df4310e3e1388f5a70e8df6b
+- qdrant_id: 82afbfd2-cb69-55ff-aabb-911db8359cf1
+- source: Andrew M. Jampol-Petzinger - Deleuze, Kierkegaard and the Ethics of Selfhood (2022, Edinburgh University Press) [10.1515_9781474476119] - libgen.li.pdf
+- chunk_index: 441
+- importance: 0.8231
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+mediary of movement, brought about through actions and reactions, is replaced by a new function. Now, in the aberration or disorderli- ness of movement, Deleuze argues, time ceases to be represented indirectly in cinema, and comes to be instead presented directly, for itself, as an independent phenomenon. We experience time not as an epiphenomenon of movement, where movement remains a function of predictable or programmable responses, but rather as it JAMPOL-PETZINGER 9781474476089 PRINT.indd 111 JAMPOL-PETZINGER 9781474476089 PRINT.indd 111 19/01/2022 20:40 19/01/2022 20:40
+
+## Excerpt 58
+- id: 59eb7c8c234ddf06ba76f8e1
+- qdrant_id: cb3e826c-b6d7-5af0-8d4e-b3b4db7d5144
+- source: Deleuze, Gilles_Río, Elena del - Deleuze and the Cinemas of Performance_ Powers of Affection (2012_2009) - libgen.li.pdf
+- chunk_index: 34
+- importance: 0.8287
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+ﬁlm in productive and inventive ways. In his Cinema 2: The Time-Image (1989), Deleuze devotes part of a chapter to the cinema of the body. Deleuze’s interest here lies in the capacity of bodily surfaces to make us think of the unthought. Both in its ceremonial and in its everyday attitudes, gestures, and postures, the body in ﬁlms by Cassavetes, Godard, Rivette,  7
+
+## Excerpt 59
+- id: d5f727349718aa5576c08fb4
+- qdrant_id: 43e2f649-e535-55f8-a1e9-9580864f5ac8
+- source: [Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 307
+- importance: 0.8256
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+by action-reaction, but rather stays “within the fiame,” and within the confinements of this frame, movement “happens” only locally, as if space does not exist (or matter), whereas the movement itself deconstructs its proper “motor function” and allows a glimpse of what Deleuze calls “a little time in the pure state” (Deleuze 1986: Cinema 2, xi). Thus, as Figure 6.3 Sufi dancer in Decasia (courtesy of Bill Morrison—Hypnotic Pictures). Matter that images: Bill Morrisons Decasia 123 Rodowick explains, “to the extent that time is no longer the measure of movement as indirect image, movement becomes a perspective on time” (81), a direct time-image, independent of montage strategies. After the Sufi dancer, a sequence shot in a film laboratory and rotating film reels follows—the audience witnesses the birth of a film in film.” The dancer’s circular movement is taken up again in this sequence and enacts the constituting paradox of the filmic medium: the “static
+
+## Excerpt 60
+- id: 010091e77eb00af9cf9c8477
+- qdrant_id: 4ae26ee8-1624-5a35-b9aa-b569492a5f3f
+- source: Sunny Hawkins - Deleuze and the Gynesis of Horror_ From Monstrous Births to the Birth of the Monster-Bloomsbury Academic (2020).pdf
+- chunk_index: 127
+- importance: 0.8242
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+32 Deleuze and the Gynesis of Horror optic nerves, convince us that the images on film exist in spatial and temporal relation to one another, we may recall Deleuze writing of our “indefinite life” that has no “moments, close as they may be one to another, but only between- times, between-moments; . . . the immensity of an empty time where one sees the event yet to come and already happened” (2005: 29). Cinema for Deleuze, as a collection of images filmed at different times, in different spaces, then assembled to appear continuous, even seamless, was at its most philosophic when it revealed this time-image, the image of time as immanent; for it could be said that film is editing, since it is in editing, the literal between-times and between-moments, that cinematic time and space as we have come to know it becomes possible. In this instance, as in others, film provides the opportu…
+
+## Excerpt 61
+- id: a3c398712af8d29c983eeb74
+- qdrant_id: 5925b1c0-6761-591e-8a65-58bdd0ce5657
+- source: (Thinking Media) Bernd Herzogenrath - Media Matter_ The Materiality of Media, Matter as Medium-Bloomsbury Academic (2015).pdf
+- chunk_index: 51
+- importance: 0.8197
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+Media|Matter 10 paradox that gives rise to the different “strategies” of what Deleuze calls the movement-image and the time-image, respectively. Such a representation, however, is not only an effect of a perceptive illusion, but also of the repression of the very materiality of film itself. If such an interest in the possibilities of the celluloid had already driven much of the 1960s’ avant-garde (Brakhage, Jacobs, etc.), Decasia, in addition, focuses not only on film’s “thingness,” but also on its own, particular “temporality.” Put together from found footage and archive material in various states of “dying,” this film reveals the “collaboration” of time and matter as in itself “creative,” and ultimately produces a category that I will call the matter-image and that, Herzogenrath argues, neither Deleuze’s movement-image nor his time- image completely sufficiently grasps: here, time and matter produce their own filmic image.
+
+## Excerpt 62
+- id: 6c41079a20b6934fb1dc3d91
+- qdrant_id: 75ef8e2f-4deb-5c1f-9c5c-bce7d2495f37
+- source: The Essay Film Dialogue, Politics, Utopia (Elizabeth Papazian Caroline Eades) (Z-Library).pdf
+- chunk_index: 124
+- importance: 0.8234
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+ever-changing in this volatile environment. Thus the opening image: the doubled images of humps that keep shifting and changing within the movement of cine- ma itself. Or the next image of a garbage dump, where time has caused a doubling and a shift in the image itself. The image is already not the image, the narration tells us, as time has already transformed what we are seeing and has, in fact, erased it: the garbage dump has already transmogrified into something else. Even the stasis and certainty of the documentary image cannot be trusted; in the least, it doesn’t signify any sort of fixed spatial coordinates. Nothing is static in this country, certainly not the signs that present themselves immediately to the eye. In this way, Description of a Struggle seems constantly to move beyond the static planes of the screen into triangulated dimensions, whether of time (before or aft…
+
+## Excerpt 63
+- id: de51843c1dcc3019da3d770e
+- qdrant_id: 1c70d221-dafe-58c5-aec4-624d02ad5fbb
+- source: David Rodowick (editor)_ Stanley Fish (editor)_ Fredric Jameson - Reading the Figural, or, Philosophy after the New Media (2001, Duke University Press) [10.1515_9780822380764] - libgen.li.pdf
+- chunk_index: 123
+- importance: 0.8232
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+that precedes it. Indeed, Deleuze even presents a historical context for this break. Prewar societies were sustained by organic ideologies (democracy or socialism) that functioned as universals deﬁned by a notion of history as progress. The movement-image is marked by the coherence of sensorimotor situations: perceptions derive from co- herent and meaningful images of the world and extend into actions capable of transforming the world; events are linked in meaningful ways organized by origins and ends; opposition and conﬂict are re- solvable through actions and are amenable to coherent solutions; indi- viduals act as the agents of history; and ﬁnally the individual stands, pars pro toto, for the collective and thus expresses the will of a people.6 In the movement-image, then, the protagonists’ actions drive a
+
+## Excerpt 64
+- id: 931c8ad8f6a2b3ee8850a1ed
+- qdrant_id: 7c66b457-bb85-5a1d-aa3f-bcb961ae1e05
+- source: Anna Powell - Deleuze, Altered States and Film (2012, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 75
+- importance: 0.8295
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+ual signiﬁcance, we can encounter images within the ﬂux of dynamic forces and become aware of our own participation in their motion. This means a shift away from symbolic meaning to the singularities of style and expression. Kinaesthetics replace language-like representation at the crux of the ﬁlmic event. Deleuze’s approach oﬀers a fresh encounter with even the most ‘classical’ ﬁlm dreams. I am extending the debate between Freudian and Deleuzian oneirics from surrealist echoes, through hybrid forms to new cinematic grammars of dream. The next stage of my journey is driven by mixed fuel: Deleuze’s time-image work on dreams and DeleuzeGuattarian schizoanalysis, which, I argue, remains a covert force permeating the cinema books. Schizoanalysis, Becoming and Film Deleuze and Guattari remap the unconscious to replace the unearthing of past trauma by psychoanalytic ‘archaeology’. They neither…
+
+## Excerpt 65
+- id: 3c0e8cc0a8a3586aaf168db2
+- qdrant_id: f139c1af-5207-569b-802b-dbd9eeca1a62
+- source: Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf
+- chunk_index: 362
+- importance: 0.8196
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+AGAINST TRANSMISSION 96 of things, we place ourselves outside them in order to recompose their becoming artiﬁ cially. We take snapshots […] the mechanism of our ordinary knowledge is of a cinematographical kind ’ [emphasis in original] (306). Deleuze later adapted Bergson quite radically to show how cinema in fact opens up dramatically new ways to conceive time. Bergson once warned us off cinema. Deleuze ([1985]2005) then gave us a new way to come to terms with the richness of its time-images. If the linear development of time as synthesis, represented by ﬁ lm running through a projector, represented modernity par excellence then the chronophotograph lay the foundations for what a century later we can start referring to as the analytical conditions of the post-historical. Developments in hardware for organizing time In the bandes chrono-photographiques series of images no…
+
+## Excerpt 66
+- id: d1710b69384847459d9d6e72
+- qdrant_id: 067bf638-0755-5083-9c23-1ff93dfe9023
+- source: Sylvie Magerstädt - Philosophy, Myth and Epic Cinema_ Beyond Mere Illusions (2014, Rowman & Littlefield International) - libgen.li.pdf
+- chunk_index: 14
+- importance: 0.8198
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+alongside contemporary writings on digital cinema will inform my anal- ysis of the images and structures of contemporary epic cinema. The latter is relevant insofar as according to Deleuze, the movement-image consti- tutes a system of truth, and I want to explore what it is that makes the movement-image particularly truthful. Moreover, I aim to find out what influence this has on the believability of contemporary cinematic myths.
+
+## Excerpt 67
+- id: b6d123acb211b621ed86cbe7
+- qdrant_id: fa078429-63f9-5284-8c30-d831bb6655df
+- source: [Value Inquiry_ Philosophy of Film_ 367] Christine Reeh-Peters, Stefan W. Schmidt, Peter Weibel - The Real of Reality_ The Realist Turn in Contemporary Film Theory (2021, Brill) - libgen.li.pdf
+- chunk_index: 54
+- importance: 0.8265
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+thought and focuses on the question of what kind of reality a movie shows. She proposes to introduce two parameters in order to distinguish various film-​ worlds from each other and from our intersubjective, shared reality: “warped- ness” and “enfoldedness.” “Enfoldedness” here refers to the temporal dimen- sion and is connected to what Deleuze calls “time-​image,” while “warpedness” is related to the Deleuzian movement-​image and refers to material reality. The various ratios between these parameters lead to what she calls “the film world map.” Mendelytė develops her mapping out of the possible manifesta- tions of various types of (post-​)Deleuzian images and explains their film-​world cartography. A Deleuzian point of view is also used by Martin Stefanov in “The Crisis of the Time-​Image: Montage in Postmodern Times,” in which he focuses on the relation between reality, photogra…
+
+## Excerpt 68
+- id: 7f940d08052a5ccbc8411a9a
+- qdrant_id: 2a2233e7-6696-5410-8989-a02fc9798848
+- source: Mark B.N. Hansen - New Philosophy for New Media (2004, The MIT Press) - libgen.li.pdf
+- chunk_index: 42
+- importance: 0.8249
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+tively dissolves the constitutive link of aﬀect to the body and appropriates it to the movement-image. This gesture enables Deleuze to deﬁne the body as an as- semblage of images: All things considered, movement-images divide into three sorts of im- ages when they are related to a centre of indetermination as to a special image: perception-images, action-images, and aﬀection-images. And each one of us, the special image or the contingent centre, is nothing but an assemblage of three images, a consolidate of perception-images, action- images and aﬀection-images.15 In eﬀect Deleuze has reduced aﬀection to a formal process of technical fram- ing, and in the process he has disembodied aﬀect, locating it outside the sub- ject in the world of technically assembled images. In this account the body becomes relatively passive, a site of technical inscription of movement-images instead of the acti…
+
+## Excerpt 69
+- id: 6470b2d73283d49fdf4d51a1
+- qdrant_id: 57936697-8bcb-5853-adc6-d01068d2e5ec
+- source: Dorothea E. Olkowski - Deleuze, Bergson, Merleau-Ponty_ The Logic and Pragmatics of Creation, Affective Life, and Perception (2021, Indiana University Press) - libgen.li.pdf
+- chunk_index: 335
+- importance: 0.8245
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+90 Deleuze, Bergson, Merleau-Ponty Umberto D. in which a maid enters a kitchen, cleans up, drives away some ants, begins to prepare coffee, then sees the belly of a pregnant woman. At this mo- ment, “it is as though all the misery in the world were going to be born.”45 This is the opsign. This purely optical situation does away with framing; the character does all the viewing, records rather than reacts, and is completely subject to her vision and not engaged in action.46 As Deleuze characterizes it, “Some characters, caught in certain pure, opti- cal and sound situations, find themselves condemned to wander about or go off on a trip. These are pure seers, who no longer exist except in the interval of movement.”47 In such situations, time is out of joint; time is no longer the sequen- tial tracking of solid bodies in homogenous space. Rather, the image, consisting of pure optical …
+
+## Excerpt 70
+- id: fa3e153186cd932a9be7c5dc
+- qdrant_id: d3ff35b6-201e-583d-b2ff-ef642a023956
+- source: Marcus Stiglegger_ Lothar Mikos - Film as a Medium of Seduction_ Introduction to the Seduction-Theory of Film (2024, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.8214
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+26 2 Film and Philosophy The perception image isolates a certain section from the fleeting flow of cin- ematic images; it enables the separate perception of a portrayed body by creating a framing. The action image results from the perception in a time-delayed reaction. “Just as perception relates movement to ‘bodies’ (nouns), i.e. to fixed objects that serve as carriers of movement or moved, action relates movement to ‘actions’ (verbs) that correspond to a predetermined goal or a presumed result.” (Deleuze [1983] 1989, pp. 95–96) The affect image creates a connection between the cinematic image and the body of the recipient, who, however, cannot react to it (Deleuze [1983] 1989, p. 96). Ultimately, Deleuze goes so far as to consider the self-image of man per se as “nothing more than an arrangement of these three images, a fusion of perception image, action image, and affect ima…
+
+## Excerpt 71
+- id: 1c257a1a4852ccc8f8c00380
+- qdrant_id: fc080503-6a31-5630-bca9-e67a08361226
+- source: Barbara Kennedy - Deleuze and Cinema_ The Aesthetics of Sensation (2003, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 23
+- importance: 0.8239
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+operate as movement-images, as affect, as modulation in process, dy- namic and unfixed, on a plane of immanence. Film is explored as processual, not purely representational. This book will locate Deleuze, his ideas on desire and sensation, within a new paradigm of post-feminist film theory. This will provide a move towards a post-semiotic, post-linguistic exploration of desire and move Introduction: Discovering the Beautiful Stranger . . . 5
+
+## Excerpt 72
+- id: f1faa125472d2106f73e5302
+- qdrant_id: 08bd9ff8-8529-5dd1-b02d-89f43cdf3098
+- source: Post Cinematic Affect (Shaviro, Steven) (Z-Library).pdf
+- chunk_index: 225
+- importance: 0.8138
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+World-War-II art cinema offers us an image of “time itself, ‘a little time in its pure state’ ” (Deleuze 1989, 17). In the modernist cinema’s direct image of time, sheer duration is affirmed in its own right, and liberated from any subordination to narrative. But Southland Tales, as a post-cinematic work, is about the exhaustion of this image of time – or perhaps I should say, the exhaustion of temporality itself. This is evidenced by the way that digital media do not seem able to “communicate duration” – as David Rodowick complains, quoting Babette Mangolte (Rodowick 2007, 163). Just as the movement-image gave way to the time-image, so now the time-image gives way to a new sort of audiovisual or multimedia image: one lacking “the sense of time as la durée” Rodowick 2007, 171).60 What Rodowick sees as sheer loss, however – a reduction to “the ‘real time’ of a continuous present” (171) – …
+
+## Excerpt 73
+- id: beddc498de86a3323b3c4c8d
+- qdrant_id: 9aba4654-6e20-588c-aab1-d46d6b0cb82e
+- source: Sean Redmond - Liquid Space_ Science Fiction Film and Television in the Digital Age (2017, I.B. Tauris) [10.5040_9781350987043] - libgen.li.pdf
+- chunk_index: 50
+- importance: 0.8171
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+flood one another. No more is this true when addressing the aesthet­ ics of speed and the liquidity of aesthetics. No longer do we inhabit the realms of the ‘movement image’ or the ‘time image’, as suggested by Deleuze (1989). Rather, this is the moment of the fast image and the image of flow. One can argue that much of contemporary science fiction film and television is obsessed with fast time: do-​or-​die deadlines; expiration and termination dates; missed meetings; chance encounters; and the fast ‘temporality’ of the screen itself as it helter-​skelters out of tempo­ ral and spatial control. The camera smashing into, or rather through everything, woozy and blurry, unleashed or uncoupled from narrative co-​ordinates, encapsulates such flow and velocity. In Time (Niccol 2011), set in a dystopian future where time has been turned into a commodity that one has to buy in order to sur­ vive beyond 25 years of age, captures this multi-​perspectival sense
+
+## Excerpt 74
+- id: 6ad407d117bf67229f5f276a
+- qdrant_id: 2ef62e6b-ca5c-5fbd-b14d-9d9c6f0cac0a
+- source: Adrian Parr (editor) - The Deleuze Dictionary (2005, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 98
+- importance: 0.8165
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+philosophical expression, noting the cinematographical character of ancient philosophy in its apprehension of the thought of ordinary know­ ledge (B 191 1 : 33 1-33). From this model (and the Kantian notion of time, and Hegelian conception of thought and movement) Deleuze develops his explication of how the perceptual recognition of moving images of the cinematic screen operates not through the apprehension of that movement, hut through specific moments of sound and optical registration. This I >cleuze discusses at length in his two books on the cinema, Cinema 1: The II/ovement-image and Cinema 2: The Time-linage.
+
+## Excerpt 75
+- id: b77872cacf26e4401da9bf36
+- qdrant_id: 0b607786-14ed-50bc-96c3-16141f9243ed
+- source: Ceciel Meiborg, Sjoerd van Tuinen - Deleuze and the Passions (2016, Punctum Books) - libgen.li.pdf
+- chunk_index: 404
+- importance: 0.8130
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+148 deleuze and the passions accomplish goals, and execute programs. The time-image, on the other hand, presents a passional consciousness, stunned by the world situation, and looking for the determinations of its circumstances. Deleuze’s two cinematic regimes irrupt dialecti- cally from the levels of subsumption before and after World War II. The third period is determined by the non-relation between surplus populations and surplus capital in our time. Real sub- sumption was a fact of labor’s life but workers’ victories were in struggles over absolute surplus value, the length of work, not its intensity. The prewar movement-image developed during an era dominated by struggles in the capitalist core over the for- mal subsumption of labor: over the length of the working day and the right to vacations and holidays. The movement-image lost salience, and the time-image replaced it …
+
+## Excerpt 76
+- id: 8e908cfdaa9d34813b8771eb
+- qdrant_id: f8654872-0ace-5cb1-9ff1-9662e96f644e
+- source: Alison Peirse, Daniel Martin - Korean Horror Cinema (2013, Edinburgh University Press) - libgen.li (1).pdf
+- chunk_index: 129
+- importance: 0.8152
+- seed_hits: deleuze-cinema-time-image-movement-image
+
+themes: time and space. Mikhail Bakhtin’s notion of the chronotope (time– space) is the intrinsic connectedness of temporal and spatial relationships that are artistically expressed in literature (Bakhtin 1986: 84). The concept is particularly appropriate for the analysis of cinema, a medium that is rooted in its temporal and spatial representations; Gilles Deleuze sets out in Cinema 1: The Movement-Image and Cinema 2: The Time-Image how cinema is like no other art form in its relations to the experience of time and space (1986, 1989). Bakhtin argues that time and space are inseparable, the intersection of the two creating the integral whole as ‘space becomes charged and responsive to the movements of time, plot and history’ (1986: 85). In order to discuss the time, plot and history of the two adaptations, I also employ the concepts syuzhet (the plot) and fabula (story) (Bordwe…
+
+## Excerpt 77
+- id: 9b53247a25cdea960c37ab93
+- qdrant_id: 3b91a54b-157b-5918-afad-931667b3b5a7
+- source: Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf
+- chunk_index: 318
+- importance: 0.8091
+- seed_hits: vilém-flusser-technical-image-apparatus
+
+by the machines that deﬁ ne modernity itself. Each moment was now able to be analysed in terms of potential for productivity. The apparatus remains at the centre of this new image of labour and workers synchronize their movements to the rhythms of the apparatus. What we are beginning to see in this image is the way that the temporality and conditions for experience were underpinned by the way engineers and scientists, such as Marey and Fremont, organized time in order for the signal to be processed by their mechanisms. The analytical photograph, as opposed to the cinematic, offers an image of one of the foundations for contemporaneity. It illustrates a cultural technique of archiving usually ﬂ eeting moments and transducing them into
+
+## Excerpt 78
+- id: e56860844cc53af6469f8a8f
+- qdrant_id: 41ac4b48-c027-59f5-a700-bfed807d954f
+- source: Erin Manning - Relationscapes_ Movement, Art, Philosophy (Technologies of Lived Abstraction) (2009).pdf
+- chunk_index: 136
+- importance: 0.8096
+- seed_hits: jasbir-puar-debility-capacity-assemblage
+
+de Keermaaker, Anna Teresa, 211 de Lahunta, Scott, 61, 234n38, 234nn39, 40 Deleuze, Gilles, 7, 20, 24, 25, 32, 34, 41, 42, 57, 63, 79, 80, 81, 87, 90, 91, 110, 121, 130, 132, 135, 157, 176, 178, 179, 196, 201, 203, 204, 206, 213n16, 219, 223, 227, 230n13, 235nnn41, 42, 243nn109, 111, 116 on abstract / concrete, 206 on abstract machine, 115, 116, 124, 237n72 on assemblage, 98, 237n71 and Bergson, 135, 235n 50, 239n81 on block of sensation, 216 on diagram, 124, 155, 156, 218 on the elastic point, 35, 37 on fi gure, 34, 243n109 and Guattari, 7, 20, 24, 63, 87, 90, 91, 124, 132, 137, 178, 179, 216, 230n13, 235n41 on infl ection, 35, 36 on the movement- image, 129, 130, 237n70 (see also Image, time- ) De Mey, Thierry, 208, 209, 211 Derrida, Jacques, 63, 231n21, 235n44, 236n55 Deterritorialization, 124–126, 237n72 Diagram, 10, 124, 125, 155–157, 163, 177, 178, 191, 196–198, 201, 217, 218, 221 Didi- Huberman, Georges, 110 Diff erence (qualitative), 69, 80
+
+## Excerpt 79
+- id: aa6c9c4a91b677ac118e6b59
+- qdrant_id: b2671d34-90d7-57b7-a313-6fa1d847f52a
+- source: Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf
+- chunk_index: 528
+- importance: 0.8118
+- seed_hits: claire-colebrook-deleuze-feminism-extinction
+
+Deleuzian, feminist, cinematic and an affective theorisation of desire. Therefore, if we take movement, we can theorise the way it affects the audience, particularly, with regards to this chapter, how this functions in terms of melancholia and repetition. In her reading of Deleuze and cinema, Colebrook argues that ‘Cinema frees affect or the power of images from a world of coherent bodies differing only in degree, and opens up divergent lines of movement to differences in kind ... For Deleuze this has political ramifications, for it helps to explain how we as bodies— respond and desire forms (such as Fascism) even when they would not be in our interest’ (2002, 39–40, author’s italics). Colebrook offers the example of political rallies, where the music, speeches and colours draw demonstrators in both in terms of what we can see and hear, but also what we feel; as Colebrook suggests: ‘our bodies respond positively to these pre-personal “investments”’ (2002, 40). Part of what we respond
+
+## Excerpt 80
+- id: 760455e6dd2128a0206b84be
+- qdrant_id: 169b4d5f-1ea9-5586-b324-5d845b7bcbb4
+- source: Radical Philosophy - Radical Philosophy #157-Radical Philosophy (2009).pdf
+- chunk_index: 254
+- importance: 0.7785
+- seed_hits: vilém-flusser-technical-image-apparatus
+
+use. Such extraneous details are sneaked into the image by the camera despite, and not because of, the intent of the photographer, and there they stand, for Barthes, as a plenipotentiary of affec- tive experience that prom- ises transcendence over the instrumentalized form of mass culture. Fried exploits this layered critique of inten- tionality in discussions of the poses adopted by young beachgoers in Dijkstra’s por- traits and, most forcefully, in the account he gives of Thomas Demand’s recon- structed archival photo- graphs. These celebrated works are images of blank Thomas Demand, Archive, 1995. Chromogenic process print with diasec. 183.5 x 233 cm

@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: e476224174c410d9a7f8f7dc
+- qdrant_id: cfa2749d-cba6-5737-9f95-15fe6d919a6c
+- source: (Critical Conversations in Horror Studies) Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text-Lehigh University Press_ Rowman & Littlefield (2020).pdf
+- chunk_index: 77
+- importance: 0.8314
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+are unsure as to the fields of its territory. As such, this book endeavors to speak to one of the central questions Eugene Thacker poses in his book In the Dust of this Planet, to see if we are capable to propose “a new darkness mysticism, a mysticism of the unhuman, which is really another way of thinking about a mysticism of the ‘without-us,’ or really, a dark mysti- cism of the world-in-itself” (156). Thacker’s recent work on “the horror of philosophy” is influential on this book in several ways. At the root of his work lies not an expansion of central motifs developed by writers in the horror genre, but rather what they tend to leave out, namely, the unthink- able itself, the direct intersection of horror and philosophy. Thacker’s discourse on the horror of philosophy involves a certain way of thinking through horror by horror. In Thacker’s formulation, supernatural horror offers rea…
+
+## Excerpt 2
+- id: 45a74fe1c504e172610addd9
+- qdrant_id: 3859f610-2319-5b08-95bb-e3747233cc88
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li.pdf
+- chunk_index: 514
+- importance: 0.8195
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Thacker maintains that cosmic pessimism is “a pessimism that is nei- ther subjective nor objective, neither for-us nor in-itself, and instead a pessimism of the world-without-us, a pessimism that is first and last about cosmos” (“Cosmic Pessimism” 68). This formulation is evocative of an inquiry into the cosmic nature of human horror and bewilderment that can be inventively applied to Cioran’s views on mysticism, cosmos, and consciousness. “Mysticism revolves around the passion for ecstasy and a horror of the void,” Cioran writes, “One cannot know one without the other. . . . Consciousness dilates beyond the limits of the cosmos” (Tears and Saints 64). This quotation helps us to situate the notion of cosmos within the context of consciousness by recognizing how its inter- change registers a dual dissonance/synthesis between self and world, world and cosmos. One’s own consciousness, shrou…
+
+## Excerpt 3
+- id: e685930da471ac9c68248f29
+- qdrant_id: 050f2747-9c19-5195-bf7e-f419ae55805b
+- source: 10.1007@978-3-030-19933-3.pdf
+- chunk_index: 160
+- importance: 0.8166
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+ening quality. Thacker’s main point remains, however, that reality was not made for us, it has not been designed with a special view to human needs, but simply is what it is irrespective of our cultural projections and scientific models. The emergence of human beings is to be considered as contingent a phenomenon in the deep time history of the cosmos as the emergence of dust, heavy molecules, algae, oxygen and whale song. This conviction that the cosmos is indifferent towards human concerns and that human beings do not, in principle, have good chances for ration- ally mastering the environmental conditions for their potential thriving is also called “cosmic pessimism”, and Thacker understands Lovecraft to be the seminal author of this position (Thacker 2011: 80): “The view of Cosmic Pessimism is a strange mysticism of the world-without-us, a hermeticism of the abyss, a noumen…
+
+## Excerpt 4
+- id: 095babc6e06e4cf5956df868
+- qdrant_id: e260461d-c57e-5f69-a004-971a5c40bd1d
+- source: Packer, Joseph_Stoneman, Ethan - A Feeling of Wrongness_ Pessimistic Rhetoric on the Fringes of Popular Culture (2018, The Pennsylvania State University Press) - libgen.li.pdf
+- chunk_index: 51
+- importance: 0.8074
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+Thacker can write that “if pessimism has any pedagogical value, it is that the failure of pessimism as a philosophy is inextricably tied to the failure of pessimism as voice.”45 Pessimism delivered in an optimistic veneer, in other words, is self-defeating or at least nonstarting. Or as Adorno argues of phi- losophy more generally, “The presentation of philosophy is not an external matter of indifference to it but immanent to its idea.”46 Fortunately for the rhetorically aspiring pessimist, there are a number of aesthetic forms and possibilities that lend themselves to pessimistic per- suasion. Although in the present book we make mention of a few of these, other scholars have already insightfully forayed into this area. Dienstag, for instance, suggests that “aphorisms and pessimism are fitted to one another” and points out that many of the great pessimists have written aphoristically. On his view, the unstructured and fragmented nature of aphorisms reflects a
+
+## Excerpt 5
+- id: c1901d5188d2a3037e9e5388
+- qdrant_id: 3fd48548-151e-542d-945c-ad29d7c09b82
+- source: Marie-Eve Morin - Continental Realism and Its Discontents-Edinburgh University Press (2017).pdf
+- chunk_index: 388
+- importance: 0.8238
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+human in cosmic affairs. However, it is also this indifference that, I argue, shows pessimism’s ontology to be fundamentally realist. In his ground-breaking work In the Dust of this Planet, Eugene Thacker develops the implications of pessimism’s commitment to ontological indifference, contending that it challenges us to think not simply the world that stands in opposition to the human or to human consciousness, ‘the world-for-us’ versus ‘the world-in-itself’, but, far more radically, ‘the world-without-us’, the world as completely unrelated and unrelatable to the human.7 This is, for Thacker, the fundamental insight of ‘cosmic pessi- mism’, and he traces this thinking of the ‘world-without-us’ through black metal, demonology, mysticism, philosophy and horror fiction, showing how this indifference manifests across an array of discourses and fields.8 At stake in this reading is n…
+
+## Excerpt 6
+- id: 7bc02ddf71dc61404ba42edb
+- qdrant_id: a5dba323-8a10-5e1b-91f5-091202b2f001
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li.pdf
+- chunk_index: 403
+- importance: 0.8025
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+portant question arises in our midst: noting his characterization as al- ready stated, why on earth would anyone want to read the old pessimist Cioran? In exploring the ways in which Cioran deploys the fragment, we will aim to show how pessimism, which, as Eugene Thacker suggests, “is the lowest form of philosophy, frequently disparaged and dismissed, merely the symptom of a bad attitude” (“Cosmic Pessimism” 66), holds a close relation to the notion of “failed mysticism” and that, against its relegation to the margins of philosophy and despite its futility, what the scholarly world actually needs—and secretly, even if unknowingly, begs for—is more pessimism. It is difficult to explain the intense and acerbic nature of his pessi- mism, especially given the complicated character of his personal, politi- cal, and intellectual lives. In fact, we will leave the vast intricacies of that ardent…
+
+## Excerpt 7
+- id: ce41e9b8d30dd0bf6fc80ac7
+- qdrant_id: 7e8011d4-1c67-58ec-9f4f-1c7da1492c90
+- source: [Routledge Studies in Speculative Fiction] Antonio Alcala Gonzalez (editor), Carl H. Sederholm (editor) - Lovecraft in the 21st Century_ Dead, But Still Dreaming (2021, Routledge) - libgen.li.pdf
+- chunk_index: 31
+- importance: 0.7971
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+2 Antonio Alcala Gonzalez and Carl H. Sederholm pull apart “the hierarchical relationship between fiction and reality” (24). Similarly, Eugene Thacker draws directly on Lovecraft to underscore the prospect of horrors beyond human thought and experience, particularly as we think about the unknown and the unknowable (9). One assump- tion behind such readings is that Lovecraft makes more sense in a world that no longer appears to make sense or that is teetering on the brink of collapse. Through his view of humanity as something insignificant when contrasted with a cosmic background, Lovecraft anticipated the kinds of concerns over uncertainty proper to the twenty-first century. Although we are not threatened by physical hyperobjects,1 at least not those in the shape of Lovecraftian monsters, we struggle harder every year to accept that no matter how much we pretend to be in contro…
+
+## Excerpt 8
+- id: 9c1c9993710f60134f42f567
+- qdrant_id: f8e4eb3a-df0a-5baf-a362-050a195902dc
+- source: Carl H. Sederholm_ Jeffrey Andrew Weinstock - The Age of Lovecraft (2016, Univ Of Minnesota Press) - libgen.li (2).pdf
+- chunk_index: 32
+- importance: 0.7944
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+6 Carl H. Sederholm and Jeffrey Andrew Weinstock “poet laureate of object-­oriented philosophy” (32). For Harman, weird or speculative realism not only makes the universe a more interesting place but object-­oriented ontology’s undermining of human exceptionalism (as developed by Jane Bennett, Ian Bogost, Levi Bryant, Timothy Morton, and others who do not address Lovecraft directly) can serve as the start- ing point for a more humane engagement with the universe we inhabit. Also addressing Lovecraft from a speculative realist perspective is philosopher Eugene Thacker, who proposes in his In the Dust of This Planet (2011) that supernatural horror is a privileged venue for address- ing what he refers to as the “unthinkable world” (2). What Lovecraftian cosmic fear in particular allows us to contemplate, suggests Thacker, is a “planetary” consideration of the “world-­without-­us” (5), the “negative concept” of what remains “‘after’ the human” (7). Thacker addresses
+
+## Excerpt 9
+- id: c66613d0de7874e0d70e8224
+- qdrant_id: 8288e7ea-5dba-5de5-abc4-382527e4f5f4
+- source: Carl H. Sederholm_ Jeffrey Andrew Weinstock - The Age of Lovecraft (2016, Univ Of Minnesota Press) - libgen.li (2).pdf
+- chunk_index: 33
+- importance: 0.7963
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+a “planetary” consideration of the “world-­without-­us” (5), the “negative concept” of what remains “‘after’ the human” (7). Thacker addresses Lovecraft as part of his argument that “‘horror’ is a non-­philosophical attempt to think about the world-­without-­us philosophically” (9). Thacker shares company to a certain extent with author of weird fiction–­ turned-­philosopher Thomas Ligotti, whose work both literary and phil- osophical amounts, according to Ben Woodard, to an “anti-­anthrocentric onslaught against the ramparts of correlationist continental philosophy” as it repeatedly thematizes the resistance of the world to complete com- prehension and what Ligotti refers to as the madness of thought itself. In his 2010 The Conspiracy against the Human Race: A Contrivance of Horror, Ligotti turns to the work of Lovecraft to showcase how weird fiction reveals that “consciousness is an existential liability” and dispels
+
+## Excerpt 10
+- id: ef602321de07500119d6309d
+- qdrant_id: b35a40c7-4a33-58c7-aa79-c1bd84371106
+- source: Mark Schmitt - Spectres of Pessimism_ A Cultural Logic of the Worst (2023, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 142
+- importance: 0.7830
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+tive dialectic of utopianism and pessimism. The central question is what could be productive about engaging with what Eugene Thacker has called the “nightside of thought”?8 As Thacker has put it, [p]essimism is the lowest form of philosophy, frequently disparaged and dismissed, merely the symptom of a bad attitude. No one ever needs pessi­ mism, in the way that one needs optimism to inspire one to great heights and to pick oneself up […]. No one needs pessimism, and yet everyone— without exception—has, at some point in their lives, had to confront pessi­ mism, if not as a philosophy, then as a grievance—against one’s self or others, against one’s surroundings or one’s life, against the state of things or the world in general.9 How can this philosophy as grievance be of any help in rethinking utopia­ nism? Both pessimism and utopianism are integral to prefigurative thought, politics and aesthetics. While utopianism challenges what John Storey has
+
+## Excerpt 11
+- id: d345f7376925c9f938f97e30
+- qdrant_id: b1558001-3f09-58c3-858c-aab589d94327
+- source: Edia Connole_ Gary J. Shipley - Serial Killing_ A Philosophical Anthology (2015, Schism Press) - libgen.li.pdf
+- chunk_index: 9
+- importance: 0.7863
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+W'hat Georges Bataille once termed the ‘horror of philosophy,' to refer to the dread fdt by philosophers when making abstract d^m s of thought, has been taken-up by Eugene Thacker to refer more specifically to a fund^ental un­ knowing embedded in the fabric of existence, suggesting the impossibility of our ever comprehending it. For Thacker, as for Bataille, this inherent dread moves the question of existence beyond the grasp of philosophy into the realm o f religious and mystical ecstasy where, once sloughed off, along with human- centric concerns regarding morality— ‘psychology, desire, motive, free ^wil, and so on’— horror becomes, in this ‘radicaUy singular self/world-negation,’ what Nicola Masciandaro, after Meher Baba and R^umi above, would term ‘individu­ alized salvation or God realization.’ The oeuvre of each o f these thinkers, in its o ^ disparate way, serves to sugg…
+
+## Excerpt 12
+- id: d91e207c4275a3c5e9b99f0b
+- qdrant_id: d8429ada-2498-52cb-863c-691c49b96c65
+- source: Drew M. Dalton - The Matter of Evil_ From Speculative Realism to Ethical Pessimism-Northwestern University Press (2023).pdf
+- chunk_index: 54
+- importance: 0.7888
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+12 I N T R O D U C T I O N new, absolutely justifiable pessimistic account of ethical duty and politi- cal activism. This conclusion leads us, in chapter 10, to see how Mainländer’s work might be updated and expanded by drawing from three different contemporary pessimisms: the “cosmic pessimism” of Eugene Thacker, Georges Bataille, and Emil Cioran; the Afropessimism of Frank B. Wilder- son, Saidiya Hartman, and Calvin Warren; and what I call the “extinctual nihilism” of Jean- François Lyotard and Ray Brassier. This chapter argues that by bringing Mainländer’s work into dialogue with these contempo- rary pessimisms it might be logically strengthened, historically informed, and more pointedly directed in order to become a practical and effective model of ethical, social, and political normativity. I conclude all of this by exploring in greater detail what can be practically gained from the kind of speculatively driven ethical pessimism
+
+## Excerpt 13
+- id: 39a272ca9a88f08cae29cfcc
+- qdrant_id: 66b045e8-9009-5f39-aa28-89d867d00c1c
+- source: A feeling of wrongness pessimistic rhetoric on the fringes of popular culture (Pennsylvania State University Press, Packer etc.) (Z-Library).pdf
+- chunk_index: 9
+- importance: 0.7862
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+to attribute any value to that suffering. After all, argues the arch-pessimist Arthur Schopenhauer, life is no more than a “constant dying,” a perpetual misery machine, entirely lacking in any meaning or purpose—that is, apart from its own blind, stupid self-consumption.4 And yet for all that doom and gloom, stylistically, such typical histrionics border on the laughably repel- lent, providing those who find pessimism otherwise irksome a convenient excuse to write it off as the self-indulgent ramblings of middle-aged, bour- geois cranks. Pessimists would be so lucky, however, if popular objections to pessimism were primarily driven by aesthetic preferences. But one sus- pects that resistance to pessimistic sentiment runs deeper than concerns for style and expression, that it stems principally from a disagreement over fundamental beliefs, values, and attitudes. For as a philosophi…
+
+## Excerpt 14
+- id: aade1acecaaf065dd3af54c1
+- qdrant_id: 5cedb173-93ca-5f43-8ec5-6fa1b0c3f449
+- source: Horror-of-Philosophy_-Eugene-Thacker-Starry-Speculative-Corpse.-2-Zero-Books-_2015_.pdf
+- chunk_index: 372
+- importance: 0.7819
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+between a human subject and a non-human world within which the subject is embedded. The only diʃerence is that with moral pessimism, we have a subjective attitude about the worst of all possible worlds, and with metaphysical pessimism we have an objective claim about the worst of all possible worlds. But both views, being concerned with “the worst” (pessimus), implicitly rely on an anthropocentric view – either one is stuck with a bad attitude or one is stuck in a bad world. (As Sid Waterman once put it, “I see the glass half full, but full of poison.”) So, while Schopenhauer himself was a curmudgeon, and while he does state that this is the worst of all possible worlds, his philosophy ultimately moves towards a third type of pessimism, one that he never names but which we have tenuously christened a cosmic pessimism.191 For Schopenhauer, the logical endpoint of pessimism is to question …
+
+## Excerpt 15
+- id: 1003b633a35165f556eb1e77
+- qdrant_id: ad824816-af73-5346-bcdc-eba50e100ae8
+- source: Steven Shaviro - The Universe of Things_ On Speculative Realism (2014, U of Minnesota Press) - libgen.li.pdf
+- chunk_index: 253
+- importance: 0.7850
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+speculative realisms seem to combine the most extreme tendencies of both panpsychism and eliminativism—however oxymoronic such a conjunction might seem. I am thinking, for instance, of Ben Woodard’s “dark vitalism” (2012), Reza Negarestani’s “dark materialism” (2008), and Eugene Thacker’s “horror of philosophy” (2011). For these thinkers, the world-without-us is alien and actively hostile to human life and thought. If nothing else, such projects are further signs that we are beginning to think speculatively and cosmologically again—after a century in which, with the lonely exception of Whitehead, such efforts were viewed with suspicion and derision.
+
+## Excerpt 16
+- id: 810d70f2fb7e13f30e58bcb8
+- qdrant_id: 8a01a158-50fb-516c-981c-c508934031ca
+- source: [Interventions] Francois Debrix - Global Powers of Horror_ Security, Politics, and the Body in Pieces (2017, Routledge) - libgen.li.pdf
+- chunk_index: 543
+- importance: 0.7819
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+accept or face. Some of Eugene Thacker’s recent writings may help us to understand this com- plicity or holy alliance against horror and “horroristic” thought. Affirming that “horror is about the paradoxical thought of the unthinkable,” 126 Thacker connects horror to a seemingly incomprehensible and unacceptable rejection of humanity. Understood to be “about the limits of the human,” horror is a Gorgonian confrontation with a world that can be seen or witnessed and yet is not for humans or, as Thacker claims, is not made for us. 127 Horror’s “negative philosophy” (Thacker’s turn of phrase 128 ) is an insistent attempt at placing us, humans, face to face with a world that is not just or is no longer for us, a “world-without-us.” 129 The main aim of this “world-without-us” revealed by horror is to unsettle the belief that the world must exist for us, for humans and their bodies (with heads attached), and can only be
+
+## Excerpt 17
+- id: 3be0ec15dde41d41ad1c9f57
+- qdrant_id: 1527ef35-3857-5e4e-8c81-f7cb051b33b6
+- source: Robin Mackay (editor) - Collapse_ Philosophical Research and Development. Concept Horror 4 (2008, Urbanomic) - libgen.li-2.pdf
+- chunk_index: 12
+- importance: 0.7861
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+In his contribution Eugene Thacker details how theology has, nevertheless, maintained a consistent historical relation to horror. His ‘Nine Disputations on Theology and Horror’ examines the extent to which the concept of ‘life’ owes its integrity to an immanent ‘after-life’ which is the proper object of horror. If life is defined by a duplicity ­– the distinction between the living being and life ‘itself’ – then, according to Thacker’s historical survey of the ‘teratological noosphere’, in the undertow of the questioning of life we always find changing conceptualizations of afterlife, whose horrific avatars are so many embodiments (or disembodi­ ments) of this problematic duplicity. They provide us with a handle on a fundamental question of biopolitics in its varying historical forms: The suppression of the after-life immanent to life, whose horror reveals that which is already there prior to individual lives, the anonymous Levinasian
+
+## Excerpt 18
+- id: 331fc5cbf2cb8d6f38b10e70
+- qdrant_id: e4002908-c716-5ece-8e37-47916e0960aa
+- source: Drew M. Dalton - The Matter of Evil_ From Speculative Realism to Ethical Pessimism-Northwestern University Press (2023) (1).pdf
+- chunk_index: 36
+- importance: 0.7809
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+gloomy mystic, or a melodramatic misanthrope— in a word, a pessimist. It is time that this tendency within Western philosophy is overturned. It is time that we follow the trajectory of our first moral experiences of reality and take seriously the possibility that existence may not be good, or even value- neutral, but may in fact be inexorably and irrevocably evil. It is time, in other words, that pessimism is redeemed from the margins of the history of Western philosophy, rescued from the periphery of our moral discourse, and placed squarely at the center of our ethical con- siderations as a reflection of a primal ethical truth that is immanent in material existence itself. Only by taking this possibility seriously can we hope to craft a theory of moral value which affirms our primordial ethi- cal instincts and develop from it a more realistic and more effective model of moral normativity, and perhaps even social and political responsibility.
+
+## Excerpt 19
+- id: ac22dd34ec0c7412f1666d46
+- qdrant_id: 3e074151-5e3f-5f28-9087-29190a0a2e74
+- source: Marie-Eve Morin - Continental Realism and Its Discontents (2017, Edinburgh University Press) [10.1515_9781474421157] - libgen.li.pdf
+- chunk_index: 383
+- importance: 0.7805
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Zapffe and Ligotti, pessimists assert that this world is not one in which humans can expect any lasting joy or satisfaction. This is because, for pessimists, the universe is fundamentally indifferent to human wants or desires. As Thacker puts it, pessimism ‘is the difficult thought of the world as absolutely inhuman, and indifferent to the hopes, desires, and struggles of human individuals and groups’.4 For many pessimists, this indifference is rooted in the human experience of linear time and the contradictory nature of consciousness: humanity’s finite and temporal existence assures that the satisfaction of our desires is, at best, fleeting and, at worst, unat- tainable. Desire drives us to want what we do not have, and, even if we get it, we quickly move on to new desires, a cycle that shows human exist- ence to be a questing after something that ultimately cannot be achieved or maintained. Hence, pessimism assets a basic teleological indifference
+
+## Excerpt 20
+- id: 9a98888d70b586139d26d4ec
+- qdrant_id: 418149c0-c799-596f-ba52-ad9cf6a64fb6
+- source: Horror-of-Philosophy_-Eugene-Thacker-Starry-Speculative-Corpse.-2-Zero-Books-_2015_.pdf
+- chunk_index: 435
+- importance: 0.7717
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+cannot say, know, or think. This is why there is no “analytical pessimism” in philosophy, only a metaphysical poetics of ɹnitude and angst. No one has ever claimed a scientiɹc status for pessimism. That is, almost no one. An exception is the late 19th century American author Edgar Saltus, who, near the end of his book The Philosophy of Disenchantment is curiously optimistic about what he calls a “scientiɹc pessimism” of the future. But Saltus’ scientiɹc pessimism is as much about a mystical revelation of limits as it is about logical rigor and veriɹable claims. Science in the service of pessimism, it seems. Eduard von Hartmann, discipline of Schopenhauer, takes a diʃerent route. In his massive, unwieldy The Philosophy of the Unconscious, Hartmann attempts to wed Schopenhauer’s pessimism with the biology and physics of his day. The entirety of the ɹrst part of his work contains detailed d…
+
+## Excerpt 21
+- id: 37121dd36256fdc021dedddd
+- qdrant_id: b14ceb3e-dd93-5e4e-a2c5-e234987ae810
+- source: Dark Matters Pessimism and the Problem of Suffering (Mara van der Lugt) (Z-Library).pdf
+- chunk_index: 50
+- importance: 0.7781
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+and opponents. The risk, in trying to achieve a more meaningful view of pessimism, is that our sympathies simply shift from one side to the other, so that optimism is flattened in the same proportion as pessimism is deep­ ened. This, I fear, is what happens in some parts of Dienstag’s book, which, in the course of complicating our conceptions of pessimism, ends up paint­ ing a too ­simple (and sometimes caricatural) picture of optimism.35 This is a tendency and temptation against which I ­will be constantly on guard, and that I ­will ­counter by trying to do justice to the deep moral intuitions and investments that stand ­behind the proj­ects of such arch-­optimists as Leibniz and King. My aim is to excavate a deeper understanding of pessi­ mism, but my hope is that in the course of making pessimism more in­ter­ est­ing, this ­will make optimism more in­ter­est­ing too. The outcome of this attempt, to lift the curtain just a ­little, is that I
+
+## Excerpt 22
+- id: 9e7c63299a576846db7810d6
+- qdrant_id: 950e19fc-c978-51a3-a213-0cf6179a21a7
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li (2).pdf
+- chunk_index: 518
+- importance: 0.7766
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+the very fictive nature of being itself, in order to become the pessimo- mystical sleuths we were always meant to be. This way of reading, which is a type of occult sleuthing, a kind of “true detection,”36 sets the stage to dismantle the very stage upon which this fiction takes place, as it reverses the hermeneutic circle, instantiating what could be called the liminal reading method of crypto-meontology, the hidden study of non-being. ZEN PESSIMISM: ON NON-BEING Shock to the System Unlike systematic philosophers, many of whom spend large swaths of time grappling with the fastidious organization of their ideas, pessimist philosopher E. M. Cioran gained a reputation for dismantling the so- called systematic utility of philosophy in favor of a fragmented, disinte- grative one.37 As Eugene Thacker suggests in an interview entitled “The Sight of a Mangled Corpse,” paying consideration to Cioran necessitates a corollary counter-analysis of philosophy itself. Thus, he indicates that
+
+## Excerpt 23
+- id: 1f0e8621d5cf8bfc314f3699
+- qdrant_id: 729187a9-c76b-5c06-bc8e-ade0cf36c73c
+- source: Dark Matters Pessimism and the Problem of Suffering (Mara van der Lugt) (Z-Library).pdf
+- chunk_index: 51
+- importance: 0.7774
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+est­ing, this ­will make optimism more in­ter­est­ing too. The outcome of this attempt, to lift the curtain just a ­little, is that I ­will end up conceiving of optimism and pessimism in sets of shared con­ cerns rather than in purely theoretical commitments: concerns having to do with the status of creaturely experience against the cosmic perspective, but also with the question of how to speak sensitively and meaningfully of ­human (and sometimes animal) suffering, over and against the ques­ tion of how to explain suffering in a way that can justify existence. A large part of my argument ­will be that ­there is a profound intellectual but also ethical drive in both positions, giving us a reason to take both sides deeply seriously. Interestingly, while both traditions are marked by a number of distinct concerns, they are also bound together by a twofold moral focus that powers the majority of their confrontations, having to do with hope,
+
+## Excerpt 24
+- id: 069f0a40d23ae429c467ac29
+- qdrant_id: 62e08a15-56d2-5191-a5e0-33ee558ae946
+- source: Mara van der Lugt - Dark Matters_ Pessimism and the Problem of Suffering (2021, Princeton University Press) - libgen.li.pdf
+- chunk_index: 94
+- importance: 0.7742
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+[ 24 ] Introduction This sense of responsibility is pre­sent in many of the authors in this book, in optimists as well as pessimists, though in some more than ­others. The debate on pessimism is itself shadowed by the spectre of Hegesias, the Cyrenaic phi­los­o­pher who supposedly painted so bleak a picture of life that it drove its readers to kill themselves, as Descartes writes: ‘the false philosophy of Hegesias, whose book was prohibited by Ptolemy and was the cause that many killed themselves ­after having read it, as it tried to argue that this life is evil’.53 ‘Maybe [Ptolemy] was right,’ Pierre de Maupertuis adds a ­century onwards: ‘a work that painted our evils too vividly would be pernicious, if it did not at the same time pre­sent us with ways by which they become bearable, and if it did not indicate their remedies’.54 Such concerns become especially poignant in the…
+
+## Excerpt 25
+- id: 9f394784d81da4fc147b62b2
+- qdrant_id: 6b18a17e-6634-5a66-a39c-6b067cf73976
+- source: Dwight Eddins - The Gnostic Pynchon (1990, Indiana University Press) - libgen.li.pdf
+- chunk_index: 208
+- importance: 0.7761
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+of pessimism" (p. 88) that balances human skill and courage-virtu in the formulation that Pynchon adopts from Machiavelli-against the blind forces of fortuna. The entropic randomness predicted by statistical me- chanics weights the scale heavily in favor of thermodynamic fortuna, threatening to destroy the balance that is humanity. Because this growing randomness is part of nature's essence, it be- comes problematic to project a transcendental ground from natural pro- cess. Dissol¥tion, decay, and disorder hardly provide paradigms of spiritual harmony; rather, they mirror the apeirontic polarity, thus ne- gating the possibility of a creative tension. The attempt of Callisto and Aubade to establish such a tension fails because they seek a natural equi- librium that no longer mirrors nature. Their little shrine to the recycling of energies is the relic of an obsolete religion that has become gnostic in
+
+## Excerpt 26
+- id: 29cc6f9d5aee3a7c12440a3a
+- qdrant_id: 952b39cb-922a-5390-9cce-6c797be548a9
+- source: Thomas Ligotti - The Conspiracy against the Human Race_ A Contrivance of Horror-Penguin Books (2018).pdf
+- chunk_index: 61
+- importance: 0.7762
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+and a terrible death if this saves or benefits the rest of his group. Anyone who declines is subjected to doom and death, instead of revulsion being directed at the world-order engendering of the situation. To any independent observer, this plainly is to juxtapose incommensurable things; no future triumph or metamorphosis can justify the pitiful blighting of a human being against his will. It is upon a pavement of battered destinies that the survivors storm ahead to ward new bland sensations and mass deaths. (“Fragments of an Interview,” Aftenposten, 1959) More provocative than it is astonishing, Zapffe’s thought is perhaps the most elementary in the history of philosophical pessimism. As penetrable as it is cheerless, it rests on taboo commonplaces and outlawed truisms while eschewing the recondite brain-twisters of his forerunners, all of whom engaged in the kind of convoluted cerebration that for thousands of years
+
+## Excerpt 27
+- id: 9b3314aa629443380edb97b3
+- qdrant_id: ca07a6a9-6613-580f-9dd5-3658cb4a0fde
+- source: Keith McDonald, Wayne Johnson - Contemporary Gothic and Horror Film_ Transnational Perspectives (2021, Anthem Press) - libgen.li.pdf
+- chunk_index: 381
+- importance: 0.7699
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Chapter 5 SHOCK AND AWE: COSMIC HORROR AS EXISTENTIAL CRISIS Horror has traditionally been a window on the unthinkable; our limits as a species. It has ultimately revealed to us what we do not wish to see, a reflection of ourselves as we really are. Often, the films covered here attest to the simple revelation that what horror presents to us is an unmasking of what makes us who we really are. Underneath the superficial coverage of our supposed rationalist civilization is still, at heart, the stark reality of what darkness lies beyond the campfire. As Eugene Thacker has thoughtfully posited: The world is increasingly unthinkable-​ a world of planetary disasters, emerging pandemics, tectonic shifts, strange weather, oil-​drenched seascapes, and the furtive, always-​looming threat of extinction. In spite of our daily concerns, wants, and desires, it is increasingly difficult to c…
+
+## Excerpt 28
+- id: 939ce4bb620eb157785cb8a7
+- qdrant_id: 9eed6175-fbb1-5731-bb52-2ab770f60f93
+- source: Marie-Eve Morin - Continental Realism and Its Discontents (2017, Edinburgh University Press) [10.1515_9781474421157] - libgen.li.pdf
+- chunk_index: 381
+- importance: 0.7730
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+between realism and pessimism that I develop in this chapter. More pre- cisely, building on the work of Dienstag, Thacker and Ligotti, I show how pessimism is best understood as an anti-correlationist realism, its concern for the unhappy and suffering-laden character of human life emerging from an ontological commitment to a world indifferent to and inde- pendent from human life. In addition, I argue that, in contrast to many current continental realisms, pessimism connects the assertion of a realist
+
+## Excerpt 29
+- id: 0d4af9354fd4ca2b42961929
+- qdrant_id: c9cfb241-5ef0-53b6-8768-8993318d2f19
+- source: Infinite Resignation (Eugene Thacker) (Z-Library).pdf
+- chunk_index: 15
+- importance: 0.7693
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+~ * ~ Melancholy of Anatomy. The logic of pessimism moves through three refusals: saying no to the world as it is (or, Schopenhauer’s tears); saying yes to the world as it is (or, Nietzsche’s laughter); and refusing to say either “yes” or “no” (or, Cioran’s sleep). Crying, laughing, sleeping – what other responses are adequate to a world that seems so indifferent? ~ * ~ Cosmic Pessimism. Beyond moral pessimism and metaphysical pessimism this is another kind, a pessimism that is neither subjective nor objective, that is neither about the world-for-us nor about the world-in-itself. A pessimism of the world-without-us. I could call this a cosmic pessimism… but this sounds too majestic, too full of wonder, too much the bitter aftertaste of the Great Beyond. Words falter. As does thought. And so we are left with a weakened pessimism, a pessimism that is first and last about cosmos, a suspicion towards the necessity and possibility of order. This
+
+## Excerpt 30
+- id: 089e90d9096ecc0c70137750
+- qdrant_id: a6052296-e087-57a8-8e11-c4a7ae024008
+- source: Terry Eagleton - On Evil-Yale University Press (2010) (1).pdf
+- chunk_index: 304
+- importance: 0.7690
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+j o b ’s c o m f o r t e r s 155 feel uneasy with these dourly Schopenhaurian sentiments. They may strike them as luridly defeatist, and as such in dan- ger of sapping political morale. There are leftists for whom pessimism is a kind of thought crime, just as there are chron- ically upbeat Americans for whom all negativity is a form of nihilism. But the root of all political wisdom is realism. Thomas Hardy knew that only by taking a cool look at the worst might one grope towards the better. Today, ironically, a mindless progressivism poses a greater threat to political change than an awareness of the nightmare of history. The true antirealists are those like the scientist Richard Dawkins, with his staggeringly complacent belief that we are all becoming kinder and more civilised. ‘‘Most of us in the twenty-ﬁrst century,’’ he writes in The God Delusion, ‘‘are . . . way ahead of our counterparts in the Middle Ages, or in the time of Abraham, or even as recently as the
+
+## Excerpt 31
+- id: b1d2c9be339cd747c1184eae
+- qdrant_id: 0911fee4-e9bb-5f3a-b684-17fabd99554d
+- source: Algirdas Julien Greimas - On Meaning_ Selected Writings in Semiotic Theory-University of Minnesota Press (1987).pdf
+- chunk_index: 70
+- importance: 0.7721
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+neutral terms can be loosely designated as historical Optimism and Pessimism respectively, a language whose slackness need not detain us long, since both are ~!early lo~ically impossible positions that t~e movement of the work rejects (S Is a conceivable but impossible synthesis, S is merely the empty wiping out o.f that content and the place of the global, mechanical negations of both terms of the initial opposition). It is therefore to the lateral (or deictic) syntheses that we t~rn our a~tention. Here indeed the great "philosophers of history" find their posi- tiOns, wh1ch have been generated by the inner logic of the square itself. Both H~gel a~d Marx, White tells us, achieved syntheses of Tragedy and Comedy: H1story IS a comedy, all of whose individual moments are tragic. Nietzsche, meanwhile, begins with an identification of Tragedy and Comedy, which Ju- FOREWORD D xxi ru…
+
+## Excerpt 32
+- id: eadd7fe1d6611646249b12f1
+- qdrant_id: 036072df-f76e-593e-92a1-851e7083e033
+- source: Thomas Ligotti - The Conspiracy against the Human Race_ A Contrivance of Horror-Penguin Books (2018).pdf
+- chunk_index: 98
+- importance: 0.7699
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+concerned with such things. This call seems indisputably correct. The possibility must be considered, then, that there is a genetic marker for philosophical pessimism that nature has all but deselected from our race so that we may keep on living as we have all these years. Allowing for the theory that pessimism is weakly hereditary, and is getting weaker all the time because it is maladaptive, the genes that make up the fiber of ordinary folk may someday celebrate an everlasting triumph over those of the congenitally pessimistic, ridding nature of all worry that its protocol of survival and reproduction for its most conscious species will be challenged —unless Zapffe is right and consciousness itself is maladaptive, making
+
+## Excerpt 33
+- id: 693d319e39e71134405f8f5c
+- qdrant_id: c378b885-b01c-546b-9d57-73ef7f859ca1
+- source: Subashish Bhattacharjee (editor), Fernando Gabriel Pagnoni Berns (editor) - Horror and Philosophy_ Essays on Their Intersection in Film, Television and Literature-McFarland (2023).pdf
+- chunk_index: 82
+- importance: 0.7680
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+knowing more about the origin of the “monsters” and the human race. The film concludes with Shaw leaving the planet of horror in a spaceship con­ fessing that she is “still searching” for answers because she wants to “know why” the Engineers (“monsters”) acted in the way they had. This last scene can engage audiences’ curiosity as well—and it optimistically highlights the mysteries of the scientific and philosophical unknown. Theorists like Eugene Thacker and Thomas Ligotti may highlight the “horror of philosophy” in pessimistic ways. However, the recipro­ cal—philosophical horror fiction—can be a much more optimistic. Philo­ sophical horror uses imaginative fiction to representationally contemplate elements of reality that lie beyond the material world. If all truths were clearly demonstrable through empirical evidence, then philosophy would be largely unnecessary, nor would contemplative horror be a persuasive
+
+## Excerpt 34
+- id: cbb5f667cdab7c960ff4733e
+- qdrant_id: ad4a2f0e-8533-50ce-b497-e61271b75fdd
+- source: Infinite Resignation (Eugene Thacker) (Z-Library).pdf
+- chunk_index: 95
+- importance: 0.7695
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+to the realization of its own absurdity, then it seems that the scientific pessimism of which Saltus dreamed can only have one method: the stark and arresting claim that it is better not to have been born is often preceded by a much lengthier exegesis… that is, in the end, undercut by its own conclusion. ~ * ~ On Physical Pessimism. At the doctor’s office. During our conversation, the tail end of a sentence jumps out: myofascial morbidity factors. What a fantastic phrase. I’m reminded of how much pessimism is taken to be a highly intellectual affair, whether one is a moral pessimist (the glass half empty) or a metaphysical pessimist (emptiness as the property of all glass). But what about physical pessimism? It’s surprising that there aren’t more physical pessimists in philosophy. What is more inevitable than the breakdown of the body, than illness and aches and pains, than the crumbling, aleatory sigh of every joint and muscle and organ, of all matter?
+
+## Excerpt 35
+- id: a909b8bafc6b0ce2f62aaa91
+- qdrant_id: 7de15e9a-50b6-5286-ac7f-8d0a03c9cd37
+- source: Benjamin Taylor - Into the Open_ Reflections on Genius and Modernity-New York University Press (2020).pdf
+- chunk_index: 270
+- importance: 0.7650
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+distant one.53 Pessimists, too , hav e thei r promise d lands . Bu t wha t Kafk a said abou t God-fearin g Mose s applie s equall y wel l t o th e atheist Freud : h e faile d t o ge t t o Canaa n no t becaus e hi s lif e was too short but becaus e it was a human life .
+
+## Excerpt 36
+- id: 94bd5605ffb31e74123feda6
+- qdrant_id: 435f76fe-317b-5985-93f0-e8baea3525ed
+- source: Infinite Resignation (Eugene Thacker) (Z-Library).pdf
+- chunk_index: 2
+- importance: 0.7644
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+~ * ~ A philosophy exists between the axiom and the sigh. Pessimism is the wavering, the hovering. ~ * ~ Whenever it occurs, however it occurs, pessimism has but one effect: it introduces humility into thought. It undermines the innumerable, self- aggrandizing postures that constitute the human being. Pessimism is the humility of the species that has named itself, thought furtively stumbling upon its own limitations on black wings of futility. (And is this helpful…?) ~ * ~ Pessimism is the night-side of thought, a melodrama of the futility of the brain, a lyricism written in the graveyard of philosophy. No one ever needs pessimism, in the way that one needs optimism, for instance, to inspire one to great heights and pick oneself up, in the way one needs constructive criticism, advice and feedback, inspirational books or just a pat on the back (though I like to imagine the idea of pessimism as self-help). Pessimism is a
+
+## Excerpt 37
+- id: 81564a72d9e4918258d9f1ad
+- qdrant_id: 975d75d2-440c-5711-b561-4b233040396b
+- source: Joseph Packer_ Ethan Stoneman - A Feeling of Wrongness_ Pessimistic Rhetoric on the Fringes of Popular Culture (2018, Penn State University Press) [10.1515_9780271083179] - libgen.li.pdf
+- chunk_index: 3
+- importance: 0.7687
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Contents Acknowledgments vii “Few Defenders”: An Introduction 1 1 “No, Everything Is Not All Right”: Supernatural Horror as Pessimistic Argument 23 2 “I’m Bad at Parties”: The Philosophical Pessimism of True Detective 49 3 “Wubba Lubba Dub-Dub!”: The Tragicomic Pessimism of Rick and Morty 79 4 “Finish Her”: The Interactive Pessimism of Final Fantasy VII 107 5 “All Hope Abandon”: Transhumanism’s Hidden Hellscape 137 Conclusion: Pessimism Never Won Any Battles? 165 Notes 175 Bibliography 196 Index 211
+
+## Excerpt 38
+- id: e6d12a508dae7881489b47cd
+- qdrant_id: 87dea1e8-7bbf-5c9e-a784-58a25e4f88dd
+- source: Horror-of-Philosophy_-Eugene-Thacker-Starry-Speculative-Corpse.-2-Zero-Books-_2015_.pdf
+- chunk_index: 42
+- importance: 0.7721
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+imagines Kant, swaying before the looming abyss of a gothic maelstrom; one imagines Nietzsche, reveling in the ɹn-de-siècle extinction of the species and the attendant exhaustion of vampiric thought. The proposition that governs this book, Starry Speculative Corpse, is that something interesting happens when one takes philosophy not as a heroic feat of explaining everything, but as the confrontation with this thought that undermines thought, this philosophy of futility. Certainly, there is a bit of tongue-in-cheek in this method of reading philosophy as if it were horror; and, like all methods, it is not to be taken too seriously. But the focus in the
+
+## Excerpt 39
+- id: 975f09d9a1396ad60a3e8ddc
+- qdrant_id: f7f87697-9ee0-55aa-94d3-6b0fe2d0e45d
+- source: Eric Wilson - The Republic of Cthulhu-Punctum Books (2016).pdf
+- chunk_index: 372
+- importance: 0.7656
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+145 the doom that came to humanism Thacker: we “cannot help but to think of the world as a human world, by virtue of the fact that it is we human beings that think it.”6 Yet, the sublime nature of increasingly imminent “planetary disasters” (climate change, global extinction7) creates a parallel horror of philosophy, “the thought of the unthinkable that phi- losophy cannot pronounce [for to do so would be tantamount to philosophy un-saying itself] but via a non-philosophical language.”8 To paraphrase the good burghers of Munich, when we can no longer have religion (or philosophy, or even science), we can still have art. And the form of art that is most germane to a horror of philosophy is the weird tale; the genre of “supernatu- ral horror is a privileged site in which this paradoxical thought of the unthinkable takes place. What an earlier era would have described through the…
+
+## Excerpt 40
+- id: 6c30bc6ea3f616fed1dbf27b
+- qdrant_id: b8908d2d-c032-5d7f-8286-5063496b8e6a
+- source: Amos Vogel. - Film as a subversive art-Random House (1974).pdf
+- chunk_index: 47
+- importance: 0.7698
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Man has no divine or secular right to the world. Instead, between birth and death, he is forced into an adventure for which no happy end is guaran- teed. This is what, in Camus' view, transforms Sisyphus' unceasing, doomed attempt to push the rock up the mountain from punishment into challenge. The universe, henceforth without a master, seems to him neither sterile nor futile. The struggle itself toward the heights is enough to fill a man's heart. (21) This bleak "optimism" of existentialism is even more clearly conveyed by Robbe-Grillet: once we deny significance to the world, we also deny it absurdity. There is nothing "absurd" about man's attempt -- against the most severe odds -- to impose his purpose on a world indifferent to him. But these revelations have proven too horrifying or too difficult for man. As yet another example of his weak cognitive faculties, his conciousness lags far behind existing realities. He therefore clings to such outdated and com-
+
+## Excerpt 41
+- id: 3add3f89a0f65a96c0ff17e2
+- qdrant_id: 0bd76e07-999c-5cbf-9e60-4693addf26f8
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li.pdf
+- chunk_index: 520
+- importance: 0.7596
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Thacker’s analysis continues, pointing out that there is “subtractive ri- gour to this kind of pessimism, what Nietzsche called the rigour of the ‘unfinished thought.’ Cioran appeals to the secret voice inside all our heads when we read philosophy, or science, or psychology, or self-help: ‘Really? You really think we can just figure it all out?’”(386).
+
+## Excerpt 42
+- id: 8a3ebbfda9b6eefb357cbe44
+- qdrant_id: 20121b96-ca31-526f-8c56-dcdf01232389
+- source: A feeling of wrongness pessimistic rhetoric on the fringes of popular culture (Pennsylvania State University Press, Packer etc.) (Z-Library).pdf
+- chunk_index: 102
+- importance: 0.7686
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+the sense of uncanny fear shares a strong family resemblance to pessimism: weird fiction does not merely scare its readers but fundamentally disturbs their worldview, moving beyond shock in the pursuit of an indefinable, unnerving understanding of the world. Indeed as Joshi writes, “During the early part of the twentieth century, weird fiction was not so much a genre as a consequence of a world view.”13 Conversely, the feeling of the weird is not so much a single emotion as the affective analogue of pessimistic premises and conclusions, that is to say, the affective result that would pre- sumably attend one’s—at least initial—acceptance of pessimistic arguments. Second, as noted above, resistance to philosophical pessimism is engen- dered and maintained, primarily, by the pervasive and seemingly ineradicable adherence to established patterns of perceptual experience, as explicat…
+
+## Excerpt 43
+- id: d2145fea5acd8c8d9aea212d
+- qdrant_id: db0eedb0-16ef-5545-b589-9a1c9fd70798
+- source: (The philosophy of popular culture) Fahy, Thomas Richard - The philosophy of horror-Eurospan [distributor], University Press of Kentucky (2012).pdf
+- chunk_index: 77
+- importance: 0.7690
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+even as more probable or likely than another.” The skeptical arguments he has put forward show that he is “in the most deplorable condition imaginable, environed with the deepest darkness, and utterly deprived of the use of every member and faculty.” Reason itself cannot save him from this condition, for it is an examination of reason that originally led him into this state. But there is a silver lining: “Since reason is incapable of dispelling these clouds, Nature herself suffices to that purpose, and cures me of this philosophical melancholy and delirium. . . . I dine, I play a game of backgammon, I converse, and am merry with my friends; and when, after three or four hours’ amusement, I would return to these speculations, they appear so cold, and strained, and ridiculous, that I cannot find in my heart to enter into them any further” (1969, 316). The return to everyday life restores our equilibrium.8 Something like this same return to everyday life and common sense is
+
+## Excerpt 44
+- id: 6162a9d763153cf54c53a5e6
+- qdrant_id: 0221a0a9-1d13-5d1b-893c-6aceaad60217
+- source: Joseph Packer_ Ethan Stoneman - A Feeling of Wrongness_ Pessimistic Rhetoric on the Fringes of Popular Culture (2018, Penn State University Press) [10.1515_9780271083179] - libgen.li.pdf
+- chunk_index: 24
+- importance: 0.7680
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+take a negative view toward humanity but ultimately stop short of arguing that life should not exist or that nonexistence is preferable to existence. This includes such intellectual luminaries as Jean-Jacques Rousseau, Friedrich Nietzsche, Max Weber, Miguel de Unamuno, José Ortega y Gasset, Sigmund Freud, Albert Camus, Theodor W. Adorno, and Michel Foucault, to name but a few. Ligotti, however, is reluctant to sign off on the pessimistic bona fides of this assortment as a whole, referring to many of its members as “‘heroic’ pessimists, or rather heroic ‘pessimists,’” shifting his scare quotes to chal- lenge both their heroism and pessimism.11 For Ligotti, a good pessimist is hard to find—not least of all because genuine pessimism demands a level of self-effacement that runs counter to the egoism that often accompanies intellectual creativity and the need to prove one’s scholast…
+
+## Excerpt 45
+- id: 99d49fca9e37d3b17e38371f
+- qdrant_id: 90673128-6372-5a8e-9300-2ee6f4499d97
+- source: Packer, Joseph_Stoneman, Ethan - A Feeling of Wrongness_ Pessimistic Rhetoric on the Fringes of Popular Culture (2018, The Pennsylvania State University Press) - libgen.li.pdf
+- chunk_index: 183
+- importance: 0.7626
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Nietzsche on, 102, 188n18 as optimistic, 102–3 in Rick and Morty, 101–2, 104–5 Steiner on, 186n56 Thacker on, 102 transhumanism about, 138 as anchoring, 138 as anti-authoritarian, 151 Christianity, parallels to endoxa, 150 heaven and hell, 151–53, 163 resurrection, 143 salvation, 143–44, 150 as doomed, 140 eschatology of, 151–52 fiction, influence on, 194n59 Friedersdorf on, 151–52 as gnostic, 191n14 as haunted, 152 ideological requirements, lack of, 151 and “I Have No Mouth, but I Must Scream,” 157–58, 163 Kurzweil on, 138–39, 153 optimism of, 138, 141–42, 150, 163 Pearce on, 142 pessimism, advantages over, 162–63 versus pessimism esotericism of, 153 extinction, 141 humanity, indifference towards, 141 salvation, 143–44 suffering, 142–44 target audiences, 162–63 in popular culture, 139 proponents of, 139 and religion, 139–40 rhetorical problems of, 151–53 and Roko’s Basilisk, 163
+
+## Excerpt 46
+- id: 4f8e3cdf23bdd13d099ca93a
+- qdrant_id: 9a906462-2aa3-5fbf-9acf-3a5ad1cb2301
+- source: (Critical Conversations in Horror Studies) Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text-Lehigh University Press_ Rowman & Littlefield (2020).pdf
+- chunk_index: 53
+- importance: 0.7704
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+way, the rhetorical Neoplatonic distanciations Weil makes between crea- turely being and God are particular to her use of apophatic logic. Our brief analysis of the horror/terror of mysticism will be more fully ex- plored in coming chapters. But for now, let if suffice to say that the mystical potency of apophatic logic lies not in what it recuperates from the human being’s experience of divine union but precisely in what it cannot do, which is express the experience of this union in positive terms, thereby revealing a veritable limit to human thought. THE MYSTICISM OF HORROR The limit or failure of thought to positively conceive of the divine that is expressed in apophatic mysticism correlates to a similar form of thought- failure exhibited in genre horror. Just as apophatic mysticism problema- tizes anthropocentric views of Reality, genre horror, specifically the early twentieth-centur…
+
+## Excerpt 47
+- id: cbca4cdda5f01e9f840ef6e9
+- qdrant_id: 125331bd-a08c-56aa-900b-87499d00e593
+- source: [Continuum literary studies] Gomel, Elana - Postmodern science fiction and temporal imagination (2010, Bloomsbury Academic_Continuum) - libgen.li.pdf
+- chunk_index: 650
+- importance: 0.7644
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+mythology’ (404). Opposed to it is what he calls the ideology of technolibera- tion, a mixture of sociobiology, anarchism and biotechnology that promises to deliver humanity from the clutches of irrational fears and self-destructive desires. One of the followers of this scientifi c religion explains that metaphysical and historical angst is a mere disease of the immature mind: For a year or so . . . I really believed it: Here I am, staring into the abyss with Nietzsche. Here I am, on the brink of insanity, entropy, meaninglessness, the Enlightenment’s unspeakable godless rational damnation. One wrong step, and I’ll go spiraling down . . . But I didn’t go spiraling down. Because there is no abyss. There is no yawning chasm waiting to swallow us up, when we learn that there is no god, that We’re animals like any other animal, that the universe has no purpose, that our souls are made of the same stuff as water and sand . . . (278)
+
+## Excerpt 48
+- id: 8c083a41119b95d0d4195f7c
+- qdrant_id: bfa1f5b3-c993-5343-9c3b-aee14cab2d81
+- source: Marie-Eve Morin - Continental Realism and Its Discontents (2017, Edinburgh University Press) [10.1515_9781474421157] - libgen.li.pdf
+- chunk_index: 436
+- importance: 0.7989
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+(Winchester: Zero Books, 2011) and Cosmic Pessimism (Univocal Publishing, 2015); David Peak, The Spectacle of the Void (USA: Schism, 2014). 4. Thacker, In the Dust, p. 17. 5. Dienstag, Pessimism, p. 33. 6. Thomas Ligotti, The Conspiracy against the Human Race (New York: Hippocampus Press, 2010), p. 221. 7. Thacker, In the Dust, p. 5. 8. See also Eugene Thacker, Starry Speculative Corpse (Winchester: Zero Books, 2015); Tentacles Longer Than Night (Winchester: Zero Books, 2015). 9. Dienstag, Pessimism, p. 5. 10. Ibid. p. 9. 11. For Dienstag’s subtle and detailed account of his aligning of pessimism with moder- nity, see Pessimism, pp. 9–19. 12. Dienstag, Pessimism, p. 5. 13. Ibid. p. 5. 14. Ibid. p. 5. 15. Levi Bryant, Nick Srnicek and Graham Harman (eds), The Speculative Turn: Continental Materialism and Realism (Melbourne: re.press, 2011), p. 3. See also Peter Gratton, Speculative Realism: Problems and Prospects (London: Bloomsbury, 2014).
+
+## Excerpt 49
+- id: dc42e68593cc1544f0a03f04
+- qdrant_id: 3bf3dcc9-d660-51c1-bfcb-db062d61aeb5
+- source: Herbert Marcuse - Eros and Civilization (Routledge Classics)-Routledge (2023).pdf
+- chunk_index: 100
+- importance: 0.7707
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+if not quite, constructive. The new ideology is especially palliative of conflict in its promise of a better world that is to rise from the debris to which the present order must first be reduced. In this Utopia, he and his fellows will be good and kind—for them will be no more injustice, and so forth. If his is one of the more radical groups, the activity of more remote memory in the synthesis of decisions and choice may be suppressed almost completely, and the activity of prospective revery channelled rigidly in the dogmatic pattern. In this case, except for his dealings with his fellow radicals, the man may act as if he had acquired the psychopathic type of personality discussed in the third lecture. He shows no durable grasp of his own reality or that of others, and his
+
+## Excerpt 50
+- id: 2a8186534b10f2fa0612438c
+- qdrant_id: e06a8e57-1639-5196-9e37-b7b12486b854
+- source: Marie-Eve Morin - Continental Realism and Its Discontents-Edinburgh University Press (2017).pdf
+- chunk_index: 380
+- importance: 0.7679
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+central to the development of modern philosophy and, as I will show, to the re-emergence of realism within continental philosophy.3 In particular, thinkers such as Joshua Foa Dienstag and Eugene Thacker argue that pes- simism is a philosophical stance that, for Thacker, challenges the limits of philosophy and, for Dienstag, offers a persuasive counter-tradition to mainstream political theory. In addition, the growing interest in the work of H. P. Lovecraft and object-oriented ontology, alongside the rise of black metal theory, bleak theory, the dark enlightenment and eliminative nihilism, not to mention accelerationism, suggests that there is a certain, darker tradition in contemporary theory, one that arises alongside the re-emergence of realism in contemporary thought. It is this connection between realism and pessimism that I develop in this chapter. More pre- cisely, buildi…
+
+## Excerpt 51
+- id: 998d412ae424fb245ab564b9
+- qdrant_id: 01d61658-4093-5451-a6e7-e82773e51523
+- source: Aaron Zwintscher - Noise Thinks the Anthropocene_ An Experiment in Noise Poetics (2019, Punctum Books) - libgen.li.pdf
+- chunk_index: 349
+- importance: 0.7569
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+153 LIST OF REFERENCES Thacker, Eugene. Cosmic Pessimism. Minneapolis: Univocal, 2015. nnnnnn An Ideal For Living. Schism Press2, 2014. nnnnnn In the Dust of This Planet: Horror of Philosophy, Vol. 1. Winchester: Zero Books, 2011. nnnnnn Starry Speculative Corpse: Horror of Philosophy, Vol. 2. Winchester: Zero Books, 2015. nnnnnn Tentacles Longer Than Night: Horror of Philosophy, Volume 3. Winchester: Zero Books, 2015. Thompson, Hunter S. Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream. New York: Vintage Books, 1998. Toop, David. Sinister Resonance: The Mediumship of the Lis- tener. New York: Continuum, 2010. Trigg, Dylan. The Thing: A Phenomenology of Horror. Winches- ter: Zero Books, 2014. Tugen, Rasu-Yong, Baroness De Tristeombre: Songs from the Black Moon. New York: gnOme books, 2014. Ulmer, Gregory L. Avatar Emergency. Anderson: Parlor Press, 2012. nnnnnn Electracy: Gregory L. Ulmer’s Textshop Experiments.
+
+## Excerpt 52
+- id: fd7beff52de1705ce52bc9b2
+- qdrant_id: f1a2a960-3b85-5c0d-9433-5fe00334ee6c
+- source: Jerome J. J. McGann - The Romantic Ideology_ A Critical Investigation (1985, University of Chicago Press) - libgen.li.pdf
+- chunk_index: 257
+- importance: 0.7669
+- seed_hits: maurice-blanchot-the-writing-of-the-disaster-space-of-literature
+
+creates and destroys, gets and spends. We are not permitted to remember 1793 and the turmoil of the French Revolution, neither its 1793 hopes nor—what is more to the point for Wordsworth—the subsequent ruin of those hopes. Wordsworth displaces all that into a spiritual economy where disaster is self-consciously transformed into the threat of disaster ("//"this/ Be but a vain belief," 50-51; my italics), and where that threat, fading into a further range of self-conscious anticipation, suddenly becomes a focus not of fear but of hope. For the mind has triumphed over its times. Thus the poem concludes in what appears to be an immense gain, but what is in reality the deepest and most piteous loss. Between 1793 and 1798 Wordsworth lost the world merely to gain his own immortal soul. The greatness of this great poem lies in the clarity and candor with which it dramatizes not merely this event, but the structure of this event. This part of my argument can be briefly concluded. The
+
+## Excerpt 53
+- id: 5742cedcc7f950dacb2aa7b5
+- qdrant_id: a1c9e13d-0d44-5fb5-9e71-1ff6851e44e0
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li (2).pdf
+- chunk_index: 208
+- importance: 0.7657
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Chapter 2 56 which is reasoned within discourse and yet unlived (the Kantian antimo- nies)” (112). Rather than to favor a binary concept of life, Thacker names the strange affinity between the thinking of the world as unthinkable and the living of a life that is unlivable. Thacker thereby curates a concept of the horror of “a life-after-life,” a nouminous life that “elicits a noumenal horror that is the horror of a life that indifferently lives on” (112). Recall- ing this discussion by Thacker, Ligotti’s notion of “beings born undead” comes to mind and is suggestive of a life that indifferently lives on: “We are aberrations—beings born undead, neither one thing or another, or two things at once . . . uncanny things that have nothing to do with the rest of creation, horrors that poison the world by sowing our madness everywhere we go, glutting daylight and darkness with incorporeal ob- scenities” (Conspiracy 222). The short vignette-like pieces we have been
+
+## Excerpt 54
+- id: 9dfa37ddfea13f9a3a21c1a3
+- qdrant_id: 9b727cc9-2761-522e-88c8-ea10b9bc45b3
+- source: Thomas Ligotti_ Ray Brassier - The Conspiracy Against the Human Race_ A Contrivance of Horror (2011, Hippocampus Press) - libgen.li.pdf
+- chunk_index: 12
+- importance: 0.7658
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+INTRODUCTION: OF PESSIMISM AND PARADOX In his study The Nature of Evil (1931)1 Radoslav A. Tsanoff cites a terse reflection set down by the German philosopher Julius Bahnsen in 18471 when he was seventeen years old. "Man is a self-conscious Nothing," wrote Bahnsen. Whether one considers these words to be juvenile or precocious, they belong to an an­ cient tradition of scorn for our species and its aspirations. All the same, the reigning sentiments on the human venture nor­ mally fall between qualified approval and loud-mouthed brag­ gadocio. As a rule, anyone desirous of an audience, or even a place in society, might profit from the following motto: "If you can't say something positive about humanity, then say some­ thing equivocal." Returning to Bahnsen, he grew up to become a philosopher who not only had nothing either positive or equivocal to say about humanity, but who al…
+
+## Excerpt 55
+- id: 553791612342da7d4031e1d3
+- qdrant_id: cf72e29b-a5e5-5903-b24e-83e6fb235361
+- source: Thomas Ligotti - The Conspiracy Against the Human Race_ A Contrivance of Horror-Hippocampus Press (2010).pdf
+- chunk_index: 168
+- importance: 0.7626
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+himself with the thrills of “cosmic horror.” On the other side is a famous utterance by the seventeenth-century scientist and Christian philosopher Blaise Pascal concerning his sense of being “engulfed in the infinite immensity of spaces whereof I know nothing, and which know nothing of me; I am terrified. The eternal silence of these infinite spaces fills me with dread” (Pensées, 1670). A man of tender sensibilities, Lovecraft was almost certainly filled with a similar dread, the difference between him and Pascal being that he also beheld the dreadfulness of his place in the universe with fascination. (See the discussion of Rudolph Otto in the section “Creating Horror.”) This is not an unnatural response to what most would consider a discomfiting situation, if they ever consider it in the first place and are not happy with revealed truths right off the rack. 18. To this sh…
+
+## Excerpt 56
+- id: 663a9d0545ce8cc8ee3aad80
+- qdrant_id: 5cd8ce04-d6a6-534b-9ebc-ec30d0f55ff8
+- source: Mark Schmitt - Spectres of Pessimism_ A Cultural Logic of the Worst (2023, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 114
+- importance: 0.8194
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+on the future after the pessimist intellect has done away with all false illu­ sions? It might be tempting to resort to a cosmic-pessimist perspective and wonder what E. M. Cioran, Thomas Ligotti or Eugene Thacker might 2 FROM PESSIMISM OF THEORY TO RADICAL UTOPIANISM: GRAMSCI…
+
+## Excerpt 57
+- id: 6ad8f08369e61ec6dd0454d4
+- qdrant_id: a4c48ec0-cdda-5551-98a6-bcf87cc8ec60
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li (1).pdf
+- chunk_index: 550
+- importance: 0.7823
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+coming to realize, as if out of nowhere, that being oneself is the root cause of horror in the world. Hence, the critical reception of his work can point to an ethical encounter, even though he may have found one futile. Put yet another way, the lack of ethics in Cioran can be negatively indexed as a pessimal ethical move on his part, which lays the ground (pessum “downward, to the ground,” from PIE ped-yos)50 for a form of pessimo- mystical social anarchism, a world of no ones who commune by their nothingness. His readers thus find themselves complicit in an adroit Cioranian par- adox: that this practice of auto-negation, selflessness via pessimism, might bear out in a relinquishment of suffering. The question returns: why read the old curmudgeon Cioran? The courage of the pessimist is to intuitively recognize that there is no hope and to know that the only kind of world to be desired is one inhabited by those who exist by the abun-
+
+## Excerpt 58
+- id: 82e73b7aaf57c2d2fb6338bd
+- qdrant_id: 2159f870-71eb-5fe2-be15-24f2c506b68f
+- source: (Deutsche Zeitschrift für Philosophie _ Sonderbände_ 48) Bence Józsua Kun - The Dynamic of Play and Horror in Adorno's Philosophy-De Gruyter (2023).pdf
+- chunk_index: 568
+- importance: 0.7773
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+his self-conception as a being with ontological primacy over inanimate objects.⁶⁷⁰ In this respect, Adorno’s idea of a higher-order experience is comparable with Eu- gene Thacker’s thought experiment of a world-without-us.⁶⁷¹ Thacker’s empty world depicts the dynamic processes of existence without an intellect to apprehend them. Specifically, he attempts to imagine what the phenomenal realm would ‘look like’ with the disappearance of humanity. While he admits that the resulting account is il- lusory insofar as the correlation between mind and object cannot be logically circum- vented, he hopes to induce an experience of the thinker’s vulnerability in face of an uncaring, unsympathetic welter of nonhuman matter. Like Adorno, he relies on affects to destabilise anthropocentric taxonomies rooted in the constituting agent’s con- cerns.⁶⁷² In both Thacker’s and Adorno’s formulation, the subje…
+
+## Excerpt 59
+- id: 33cb2b32b79a81c058b7b7d9
+- qdrant_id: 3473d69d-238f-5c59-91dd-f1433baa0e0e
+- source: Dwight Eddins - The Gnostic Pynchon (1990, Indiana University Press) - libgen.li.pdf
+- chunk_index: 579
+- importance: 0.7653
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+that transcends their peculiar hopes of final transcendence. No Return, no damning wrath of God, no dramatic moment of cosmic reckoning- only the drifting wastes of definitive preterition. It is a vision that portrays, however, despite its courage and honesty, the apocalypse of existential gnosticism; and thus reminds us, in its mechanistic reductiveness and its calculated despair, that Pynchon does not locate a desirable alternative to the demiurgic inspiriting of nature in a nihilistic dispiriting. In one of the novel's most hauntingly mystical passages, Pynchon gives
+
+## Excerpt 60
+- id: 0681b62d3c9c4b02ec2b293b
+- qdrant_id: 5dfbec4e-84a4-5539-8b1d-53dd06297c4d
+- source: Julia T. Meszaros - Selfless Love and Human Flourishing in Paul Tillich and Iris Murdoch (Oxford Theology and Religion Monographs) (2016, Oxford University Press) - libgen.li.pdf
+- chunk_index: 145
+- importance: 0.7652
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+should be suppressed, and which lies at the origin of human cultural creativity. He considers this relevant to nothing less than the transcendence of existential estrangement, and hence to acquiring the fullness of being. However, if Tillich considers it paramount for theology to absorb key aspects of this modern optimism, he equally holds that modern thought is coherent only where theology is brought to bear on it. Tillich insists that, in 67 Tillich, ST I, 200. 68 Tillich, ST I, 200. 69 Tom Kleffmann, Nietzsches Begriff des Lebens und die evangelische Theologie (Tübingen: Mohr Siebeck, 2003), 474. 70 Tillich, ST III, 29. Cf. Friedrich Nietzsche, Thus Spoke Zarathustra, trans. Adrian Del Caro (Cambridge: CUP, 2006), 80. 71 Tillich, ST III, 12. 72 Kleffmann, Nietzsches Begriff des Lebens, 459. 82 Selﬂess Love and Human Flourishing
+
+## Excerpt 61
+- id: d957312c14be27eac5e0452a
+- qdrant_id: bbe6a234-5967-5dbb-a64c-9fd3756b9a8d
+- source: Michael Lackey - Biofiction_ An Introduction (2021, Routledge) - libgen.li.pdf
+- chunk_index: 341
+- importance: 0.7656
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+times. Within this framework, the material world, subject to endless ﬂux, is nothing in itself, while the spiritual other world contains ultimate meaning and value. After Copernicus, humans started to despair of knowledge about the spiritual world, and since the material world of perpetual change is nothing on its own, humans gradually adopted a nihilistic way of thinking about knowledge and the world. For Nietzsche, this development had speciﬁc implications for historio- graphy. After taking note of the steadily declining certainties in post- Copernican ways of knowing, Nietzsche wonders how the radical ques- tioning of overarching knowledge systems speciﬁcally impacts the study of history: does modern historiography perhaps display an attitude more assured of life and ideals? Its noblest claim nowadays is that it is a mirror; it rejects all teleology; it no longer wishes to “prove” any…
+
+## Excerpt 62
+- id: e7cc4be86e9d2a264708b092
+- qdrant_id: 867cea0a-13bc-5b80-bddd-8a4e20a1bde5
+- source: William E. Connolly - Facing the Planetary_ Entangled Humanism and the Politics of Swarming (2017, Duke University Press) [10.1515_9780822373254] - libgen.li.pdf
+- chunk_index: 33
+- importance: 0.7556
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+local cronyisms, international organ­izations, and frontier mentalities. Some adventurers I ­will consult already rec­ord and pursue such countermovements. What follows is a series of attempts to face the planetary. Not only to face down denialism about climate change but also to define and ­counter the “pas- sive nihilism” that readily falls into place ­after ­people reject denialism. By pas- sive nihilism I mean, roughly, formal ac­cep­tance of the fact of rapid climate change accompanied by a residual, nagging sense that the world ­ought not to be or­ga­nized so that capitalism is a destructive geologic force. The “­ought not to be” represents the lingering effects of theological and secular doctrines against the idea of culture shaping nature in such a massive way. ­These doc- trines may have been expunged on the refined registers of thought, but their remainders persist in ways that make a difference. Passive nihilism folds into
+
+## Excerpt 63
+- id: 9bf192ae12347040da6f70b4
+- qdrant_id: 599c9a4f-fe3a-5ba8-926a-f6d4aeafd3c9
+- source: Oliver Bennett - Cultural Pessimism_ Narratives of Decline in the Postmodern World (2022, Edinburgh University Press) [10.1515_9781474464345] - libgen.li.pdf
+- chunk_index: 7
+- importance: 0.7596
+- seed_hits: mark-fisher-capitalist-realism-depression-hauntology
+
+of progress, despite]. B. Bury's well-known attempt to celebrate it, had been condemned by W. R. Inge, the Dean of St Paul's, as a 'pernicious superstition'; and by Austin Freeman who, in Social Decay and Regeneration, suggested that the West was regressing at an accel- erating rate due to the degenerative effects of industrialism on both the environment and the human psyche.6 Sigmund Freud's view of history was equally pessimistic. Indeed, his entire system of ideas was shot through with pessimism, from his account of the individual ego, attempting to steer its precarious course through the irreconcilable demands of the 'pleasure princi- ple' and the 'reality principle' to the vision of civilisation itself turned neurotic by the repressions required to ensure its survival. His version of cultural decline, set out in Civilization and Its Discontents (1929), was not so much of …
+
+## Excerpt 64
+- id: 5b9c09fa364f8cae505d9122
+- qdrant_id: 73c502cd-fbe4-52ed-8e5e-15c7e6d36869
+- source: Keith McDonald, Wayne Johnson - Contemporary Gothic and Horror Film_ Transnational Perspectives (2021, Anthem Press) - libgen.li-1.pdf
+- chunk_index: 472
+- importance: 0.7568
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+we blow the dust off our hubristic arrogance, and scratch the veneer off our supposed civilization and rational order. As Thacker states, ‘we are increasingly more and more aware of the world in which we live as a non-​human world, a world outside of us’ (2). A fitting summation of cosmic horror: God as God, man as God, man as nothing.
+
+## Excerpt 65
+- id: e098a74cc698cc6438a112bf
+- qdrant_id: 33a2e114-39fb-590d-8e0a-802023c1153f
+- source: Aaron Zwintscher - Noise Thinks the Anthropocene_ An Experiment in Noise Poetics (2019, Punctum Books) - libgen.li.pdf
+- chunk_index: 56
+- importance: 0.7587
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+in his work, the seemingly stable boundaries of nature/culture, noise/silence, foreground/background, subject/environment. 29 Ibid., 108. 30 Ibid., 124. 31 Eugene Thacker, In The Dust of This Planet: Horror of Philosophy, Vol. 1 (Hants: Zero Books, 2011), 1. 32 Timothy Morton, Dark Ecology: For a Logic of Future Coexistence (New York: Columbia University Press, 2016), 159. 33 Michel Serres, Genesis, trans. Geneviève James and James Nielson (Ann Arbor: University of Michigan Press, 1995), 59.
+
+## Excerpt 66
+- id: 8d339fa4b3b738f674355ca6
+- qdrant_id: d337cec6-d9fd-55d3-b758-15ab13789c8f
+- source: [Perspectives in continental philosophy] Jean-Luc Nancy, Franson Manjali - Philosophical chronicles (2008, Fordham University Press) - libgen.li.pdf
+- chunk_index: 107
+- importance: 0.7723
+- seed_hits: mark-fisher-capitalist-realism-depression-hauntology
+
+We are obsessed with death, war, science, absence, emptiness, solitude, excess, and inﬁnity, and it is a bad obsession, for in it a morbid vertigo seems to be combined with the impossibility of inscribing them in an economy, that is to say, also in an ecol- ogy, and, in general, in an oikos, in a dwelling, in a habitation, and within a familiarity (which is some- thing other than familiality). The evidence for this impasse is precisely the fact that the word ‘‘economy’’ means to us nothing more than the ‘‘icy waters of selﬁsh calculation’’ [Marx, Capital], whereas the word ecology ﬂoats on the same waters devoid of compass and concept. That is why, on every side, we rail against nihil- ism, against negativism, against all forms of retreat, suspension, ﬁnitude, or impossibility, judged wrongly or rightly—and most often wrongly and confusedly—to be either morbid or suicidal. In their place, we ask for afﬁrmation or value, decision and resolve, and from this perspective a symmetrical
+
+## Excerpt 67
+- id: 13f6c3c9a3cedea2e0c4eb56
+- qdrant_id: 3f29d672-aa9a-5d22-a021-1abb4f9d7543
+- source: Mark Fisher - Flatline Constructs_ Gothic Materialism and Cybernetic Theory-Fiction - libgen.li.pdf
+- chunk_index: 4
+- importance: 0.7670
+- seed_hits: mark-fisher-capitalist-realism-depression-hauntology
+
+for cyberpunk theory-fi ction. The chronological prophecy from 19991 to 2000 is either entirely a fabrication suspect to illusions of ends or an underlined portrayal of the ongoing climatological yet air-conditioned disaster in progress both hiding the conceit that contemporary (of Fisher’s time and ours) culture is a ruinous disaster, vacuously invaluable. Optimistic postulates to the contrary are relapsed simulations of Minervian owls, serpentine coils, twittering birds, redemptive angels facing forward. Fisher never printed Flatline Constructs; it remained dispossessed from any material form. But, it lied archived and formatted for anyone’s immediate search, side by side with the many web 1.0 radical informational hubs as it still 1. November 1999: Anarchists in Seattle spread over crowning downtown accomplishments of Empire and globalism, broadcast live from the select Seat…
+
+## Excerpt 68
+- id: 5728d6dae96d480d5381742e
+- qdrant_id: e8802b29-303d-5fa5-a33b-d8b4eec53ec3
+- source: Arthur Schopenhauer - On the Suffering of the World (2020, Watkins Media) - libgen.li.pdf
+- chunk_index: 2
+- importance: 0.7729
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+Contents INTRODUCTION A PHILOSOPHY IN RUINS, AN UNQUIET VOID BY EUGENE THACKER A NOTE ON THIS EDITION 1. ON THE VANITY AND SUFFERING OF LIFE 2. ADDITIONAL REMARKS ON THE DOCTRINE OF THE VANITY OF EXISTENCE 3. ADDITIONAL REMARKS ON THE DOCTRINE OF THE SUFFERING OF THE WORLD 4. ON DEATH AND ITS RELATION TO THE INDESTRUCTIBILITY OF OUR INNER NATURE 5. ON THE DOCTRINE OF THE INDESTRUCTIBILITY OF OUR TRUE NATURE BY DEATH 6. ON THE DOCTRINE OF THE DENIAL OF THE WILL-TO-LIVE 7. ADDITIONAL REMARKS ON THE DOCTRINE OF THE AFFIRMATION AND DENIAL OF THE WILL-TO-LIVE 8. ON SUICIDE CHRONOLOGY — LIFE OF SCHOPENHAUER FURTHER READING Portrait photograph of Arthur Schopenhauer, 1859
+
+## Excerpt 69
+- id: d75069f4b5379a0e673dd190
+- qdrant_id: 453e2455-4a73-5ad2-9750-0c51cdb01529
+- source: [Interventions] Francois Debrix - Global Powers of Horror_ Security, Politics, and the Body in Pieces (2017, Routledge) - libgen.li.pdf
+- chunk_index: 590
+- importance: 0.7558
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+David Peak suggests, a “post-communicative plane of thought” where human language substituting itself for thought and serving as the condition of possibility for thought would be pushed aside. This would be “thinking without language,” as Peak further puts it, and the “contradictory filters of inarticulate lucidity and articulate confusion” would become conditions of communication in this “world-without-us.” See Peak, The Spectacle of the Void , p. 15. 137 Thacker, In the Dust of this Planet , p. 46. 138 Ibid., p. 48. In a sequel to his In the Dust of this Planet , Thacker connects the task of demontology, or the rethinking of the world as unthinkable and away from human- centric thought and language, to a series of historical figures, philosophers, and contem- porary thinkers. One key demontological line of thought is provided by Georges Bataille’s writings, here not so much his writings on acephalous man (Acéphale, as we
+
+## Excerpt 70
+- id: f452b93a36ac9be752facab2
+- qdrant_id: 69b393e5-5557-5490-9afd-b39bfdf907f8
+- source: (Palgrave Gothic) Gina Wisker - Contemporary Women’s Ghost Stories_ Spectres, Revenants, Ghostly Returns-Palgrave Macmillan (2022).pdf
+- chunk_index: 87
+- importance: 0.7708
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+statement that ‘the Anthropocene threatens to become for humanity a one-way trip to an uncertain future in a new, but very different, state of the Earth System’ (Steffen et al., 2011, p. 757). Eugene Thacker takes this a little further into the realm of horror when commenting on the end of philosophy. G. WISKER
+
+## Excerpt 71
+- id: a47aa120d8a22f776b05ff94
+- qdrant_id: 5d61c8fa-9bde-55ef-b93a-b800ffd23669
+- source: Speculative Realism An Introduction (Graham Harman) (Z-Library).pdf
+- chunk_index: 68
+- importance: 0.7653
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+appearances, a model that fits nicely with the deep cosmic pessimism of Nihil Unbound’s final pages. The mission of philosophy, Brassier holds, “consists in expediting science’s demolition of the manifest image by kicking away whatever pseudo-transcendental props are being used to shore it up or otherwise inhibit the corrosive potency of science’s metaphysical subtractions” (26). For this reason Churchland, who is often portrayed by his enemies as a grim scientistic liquidator of everything that makes human life worth living, is depicted by Brassier as a humanist sell-out to those merely functional aspects of knowledge that enable the evolution and survival of our species. Nonetheless, Brassier praises both Churchland and Daniel Dennett (b. 1942) for “having driven an irrecusable wedge between our phenomenological self-conception and the material processes through which that conception i…
+
+## Excerpt 72
+- id: 09da478b8be2cde15d9a214a
+- qdrant_id: 76b7baf4-2dbd-5b87-a5b4-942df34f8040
+- source: The Continental Aesthetics Reader (Cazeaux, Clive) (Z-Library).pdf
+- chunk_index: 221
+- importance: 0.7620
+- seed_hits: mark-fisher-capitalist-realism-depression-hauntology
+
+opposes what Lindbergh’s wife called the wave of the future, that is, the critical construction of being. This is not merely outlawed by a corrupt public opinion, but the prevailing absurdity affects its very substance. The might of what is, constraining the mind to follow its example, is so overwhelming that even the unassimilated expression of protest assumes in face of it a home- spun, aimless, inexperienced quality reminiscent of the provincialism that once so prophetically suspected modernity of backwardness. Matching the psychological regression of individuals who exist without a self, is a regression of the objective spirit, in which obtuseness, primitivism and the bargain-sale set up what historically has long since decayed as the newest historical power, and consign to the day before yesterday everything that does not zealously join the march of regression. This quid pro quo of progress and reaction makes orientation in contemporary art almost as difficult
+
+## Excerpt 73
+- id: 6f472f06fdb73da24cc92bb8
+- qdrant_id: 2e5d510c-b7af-5947-83b9-52368772022a
+- source: JEAN CLAUDE MICHEA - Realm of Lesser Evil_ An Essay on Liberal Civilization-POLITY (2009).pdf
+- chunk_index: 429
+- importance: 0.7560
+- seed_hits: mark-fisher-capitalist-realism-depression-hauntology
+
+iour. It would be a great mistake for the champions of humanity to underestimate this new reality, and it is impera­ tive for them to be aware, on the contrary, that the race is already under way, and in this race time is now working against them. There is certainly not yet anything inexorable about the universal triumph of capitalism, but it has become eminently plausible. This means, as a consequence, that the disappearance of humanity (in the sense that Fukuyama and his masters actively use the phrase), along with the parallel destruction of nature, now constitute genuine working hypotheses, and no longer just distracting scenarios of Hollywood-style science fiction.14 Many readers will undoubtedly find it deeply demobilizing to end a critique of liberalism with such forecasts of gloom 14Jared Diamond's book Collapse (London: Allen Lane, 2005 ) offers a passionate approach to the problem raised by the suicidal
+
+## Excerpt 74
+- id: 4b3269ec98df1a0f95ca8e7f
+- qdrant_id: 1e25594f-6537-5e23-964a-ec05d9b57de0
+- source: Ashley Woodward - Lyotard and the Inhuman Condition_ Reflections on Nihilism, Information and Art (2016, Edinburgh University Press) [10.1515_9780748697250] - libgen.li.pdf
+- chunk_index: 96
+- importance: 0.7539
+- seed_hits: eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+we not accept such an apologetics; to do so is to justify the existence of evil, and to risk perpetuating it. (Jencks in fact presents this apolo- getics in banal bad taste, appealing to his readers not to let nature’s ‘undeniable nasty part’ distract us from the beauty to be heard in the sounds of birds and dolphins (1996: 76).) Ironically, perhaps, Jencks’s dangerously blithe presentation of a new metanarrative helps us to understand the signiﬁ cance and force of Lyotard’s critical engagement with the post-metanarrative of the fable of solar catastrophe. 5. Second, a story similar to Lyotard’s fable is evident in some forms of transhumanism. Although Lyotard never indicates precisely where he derived the ideas presented in the fable, one possibility is that he picked them up while working in California in the 1980s (he held posts at the University of California, Irvine and Sa…
+
+## Excerpt 75
+- id: 4a16e7f01f40f6e0be17b0ec
+- qdrant_id: 086c042c-81a1-5f65-8cd1-de12bb824613
+- source: [Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li (2).pdf
+- chunk_index: 478
+- importance: 0.7826
+- seed_hits: duras-minimalism-absence-presence-the-malady-of-death
+
+er, is grounded in his fidelity to the notion that existence is a bile enter- prise replete with no possibility for repair, offering a “no saying to the worst, and a further no-saying to the possibility of any other world, in here or out there” (Thacker, “Cosmic Pessimism” 68). For readers, this implicit paradox of the worst holds as its negative index the possibility for a sorrow experienced in an ultimately pessimal mode of self-knowledge in which even death itself, in other words, death as an escape from life, is a disappointment. Death’s disappointment is its non-possibility for escape, but due to death’s de-actualization as nothing- ness it necessitates itself as everything. To think of death, then, is to cultivate a sorrow reared for a mystical meditation on death. Again, as with Georges Bataille in chapter 3, Marguerite Porete’s words from The Mirror of Simple Souls, that “the best I can tell you is that if you under-
+
+## Excerpt 76
+- id: 2acb24d6cfe47d9d44c9bb15
+- qdrant_id: f5e01074-1a66-5961-8982-32f3317bdda8
+- source: Heather Love - Feeling Backward_ Loss and the Politics of Queer History (2007, Harvard University Press) - libgen.li.pdf
+- chunk_index: 521
+- importance: 0.7548
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+during this process. Rather, the nontherapeutic approach to trauma that she describes suggests a wild utopianism-a hopefulness in despair­ that is reminiscent of the politics of despair Sylvia Townsend Warner describes in Summer Will Show. For her examples, Cvetkovich turns to artists and activists whose work is bound up with the everyday experi­ ence of feeling bad. Cvetkovich is involved with an academic and activist organization, the Public Feelings Project, that has attempted to create a political move­ ment that takes seriously such apparently useless feelings. The Chicago­ based "feeltank" associated with the group organizes an annual depres­ sion march. The protesters march in bathrobes and slippers, carrying signs that say, "Depressed? It might be political," and passing out fake prescriptions for Prozac. The point of an event like this is not only that the political landscape is bad but also that it makes you feel bad, and that
+
+## Excerpt 77
+- id: ec0039859079d508bf6caa29
+- qdrant_id: 344924f6-ea8d-56b1-9b77-b9d01ea6f091
+- source: Timothy Barker - Against Transmission_ Media Philosophy and the Engineering of Time (2018, Bloomsbury Academic) [10.5040_9781474293129] - libgen.li.pdf
+- chunk_index: 163
+- importance: 0.7789
+- seed_hits: vilém-flusser-technical-image-apparatus
+
+of its consequences for life amongst technical media. Taking an approach that owes a great deal to Heidegger, Flusser argues that the particles of the electronic environment, the fragments of the world, rather than offering a free ﬂ owing, decentralized space, are radically ﬁ ltered by technical media in such a way that produces images that are projected back on to the world and used to make sense of the world. The notion of an image is important to Flusser not simply as a surface or a representation of an idea. The technical image, a concept that may be Flusser’s major contribution to media philosophy, is instead formulated as an ‘image that means ideas’ ( Jongen 2011 : 208); it is a way of thinking through
+
+## Excerpt 78
+- id: 7fdbd5a0824c99449f2328eb
+- qdrant_id: 57c0c359-2e53-5fa9-ada7-f6b748d9a80b
+- source: [Blackwell philosophy and popculture series] Graham, Jacob_ Sparrow, Tom - True detective and philosophy _ a deeper kind of darkness (2017) - libgen.li.pdf
+- chunk_index: 89
+- importance: 0.7428
+- seed_hits: lauren-berlant-cruel-optimism-affect
+
+vive them. Worse still than an optimistic weathercaster would be a forecaster who actually believed their knowledge of meteorology meant they could control what happens. To pessimists, optimists have the illusion that they have mastery over their lives. We keep believing that we have the power to make our lives better, even in the face of all our failures to do so. No tech- nology, morality, or foresight protects us from death and change, and even the shiniest new toy will eventually rust (as Cohle’s name indicates). But the optimist can, in effect, multiply the damage we all will suffer by adding illusions on top of the situation. When these illusions are pierced, it adds the pain of disappointment to the more mundane pains that time inflicts by itself. So, to the pes- simist, optimism is not just blind but, to a point, dangerous. In True Detective, this optimism is embodied in Rust’s p…
+
+## Excerpt 79
+- id: 7683b29106cef089586a16ed
+- qdrant_id: 9021a381-048e-59f6-8bfa-95f90e3c7513
+- source: Mark Schmitt - Spectres of Pessimism_ A Cultural Logic of the Worst (2023, Palgrave Macmillan) - libgen.li.pdf
+- chunk_index: 205
+- importance: 0.8083
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism, eugene-thacker-in-the-dust-of-this-planet-negative-theology
+
+70 5. Edwards 2019, p. 39; Fredric Jameson, Archaeologies of the Future. The Desire Called Utopia and Other Science Fictions (London: Verso, 2005), p. xvi. 6. Edwards, 2019, p. 42. 7. Mathias Thaler, “Bleak Dreams, Not Nightmares: Critical Dystopias and the Necessity of Melancholic Hope”, Constellations 26, no. 4 (December 2019): 607–622. 8. Eugene Thacker, Cosmic Pessimism (Minneapolis: Univocal, 2015), p. 3. 9. Thacker, 2015, pp. 3–4. 10. John Storey, Radical Utopianism and Cultural Studies: On Refusing to Be Realistic (Abingdon: Routledge, 2019), p. 7. 11. Thacker, 2015, p. 9. 12. Storey, 2019, p. 7. 13. R. Radhakrishnan, “The Epistemology of Pessimism”, The Comparatist, no. 43 (2019): 41–67, p. 42; Eugene Thacker, Starry Speculative Corpse: Horror of Philosophy 2 (Winchester: Zero Books, 2015b), p. 138; see also the introduction in this book. 14. Thacker, 2018, p. 61. 15. Joshua Foa Dienstag, Pessimism: Philosophy, Ethic, Spirit (New Jersey:
+
+## Excerpt 80
+- id: f0dc475f30977476a2a06d02
+- qdrant_id: c27261b7-f2b9-5c46-b6bc-6b9e13930b97
+- source: Eugene Thacker - Cosmic Pessimism-Univocal Publishing (2015).pdf
+- chunk_index: 0
+- importance: 0.8049
+- seed_hits: eugene-thacker-horror-of-philosophy-cosmic-pessimism
+
+pharmakon V Eugene Thacker Original Artwork by Keith Tilford COSMIC PESSIMISM Cosmic Pessimism by Eugene Thacker First Edition Minneapolis © 2015, Univocal Publishing Published by Univocal 123 North 3rd Street, #202 Minneapolis, MN 55401 Artwork: acrylic on duralar. All images copyright Keith Tilford. Designed & Printed by Jason Wagner Distributed by the University of Minnesota Press ISBN 9781937561864 Library of Congress Control Number 2015940595 ~ * ~ There is no philosophy of pessimism, only the reverse. ~ * ~ Cosmic Pessimism

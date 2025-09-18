@@ -1,0 +1,1210 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "paul-b-preciado-testo-junkie-pharmacopornographic-regime",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "f8bc039281bfa0fc8fd6c18b",
+      "qdrant_id": "375c67f6-4167-5741-991e-db3786eef579",
+      "text": "around oppressive pathways of healthcare. The xenofeminist manifesto touches upon the link between medical technologies and free and open source platforms in a different con- text – namely, healthcare for trans* people in the twenty-first century. Paul B. Preciado is amongst those who have discussed the bypassing of gatekeepers within trans* communities. His ground-breaking book Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era",
+      "source": "(Theory Redux) Helen Hester - Xenofeminism-Polity (2018).pdf",
+      "chunk_index": 165,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.74810755,
+      "importance": 0.7819024920463562,
+      "final_score": 0.7481077313423157
+    },
+    {
+      "id": "5bf9000dba087b843a297d0b",
+      "qdrant_id": "d5c771b0-ec3f-56b0-b5e5-1ef170a97d60",
+      "text": "48 Testo Junkie is part theoretical manifesto and part autobiographical tour de force, combining historical accounts of sexual prosthetics and gender-­ forming technologies with personal experimentation in the use of black-­ market testosterone gel. “This book is not a memoir”, opens Preciado, it is “a testosterone-based, voluntary intoxication protocol, which concerns the body and affects of BP.6 A body-essay. Fiction, actually.”7 The text opens with the death of Preciado’s friend GD (the novelist Guillaume Dustan), and subsequent sections are written as a grief-stricken second-­ person address to GD. The book alternates between academic polemics and autobiographical accounts of the author’s sexual experiences—in par- ticular, his affair with VD (Virginie Despentes, the director of French film Baise-moi). It is through his relationship with both VD and GD that Preciado enacts wh…",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li (1).pdf",
+      "chunk_index": 170,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.73920774,
+      "importance": 0.7660313248634338,
+      "final_score": 0.7392076849937439
+    },
+    {
+      "id": "4fced9ead73d0487cbd7ab1a",
+      "qdrant_id": "f3b928fc-fe93-5e5c-b43b-4525dbd60563",
+      "text": "Rivas, J., ‘Intoxication and Toxicity in a “Pharmacopornographic Era”: Beatriz Preciado’s Testo Junkie’, in E. Brennan and R. Williams (eds.), Literature and Intoxication: Writing, Politics and the Experience of Excess (Basingstoke: Palgrave, 2014), pp. 147–59. Bibliography 217",
+      "source": "[Cambridge Studies in Twenty-First-Century Literature and Culture] Jennifer Cooke - Contemporary Feminist Life-Writing_ The New Audacity (2020, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 145,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.7338109,
+      "importance": 0.7709899544715881,
+      "final_score": 0.7338109016418457
+    },
+    {
+      "id": "f175e13129cfe83013998cf5",
+      "qdrant_id": "1e91b059-479d-5db8-af08-577541cefcfa",
+      "text": "Chapter 8 The pharmacopornographic pandemic On ‘Learning from the Virus’ by Paul Preciado (2020) When he heard that the ﬁrst marketed vaccine in late 2020 for COVID-19 was produced by big-pharma giant Pﬁzer, who also produced the Viagra brand of sildenaﬁl in 1988, the coincidence would hardly have produced a bat of the eyelid in surprise from trans activist and philosopher Paul B. Preciado. Already, in the middle of that annus horribilis of disease, Preciado had been making the case that the global pandemic had created conditions for the consolidation, and the speeding up of the application of what he had already for a decade or longer been nominating as the pharmacopornographic regime. Variations of the case featured in several essays by Preciado in 2020, published in El Pais and Art Forum and elsewhere, and arguably the most powerfully concise form is to be found in ‘Learning from the Virus’.1 Explications of the pharmacopornographic regime often take oﬀfrom a",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 264,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.7277037,
+      "importance": 0.7564419507980347,
+      "final_score": 0.7277036905288696
+    },
+    {
+      "id": "10ffd3340f7feba06a43384d",
+      "qdrant_id": "1d869ed3-5378-5d63-a28c-e13a8445f42a",
+      "text": "Preciado has characterized this process as “high concentrations of sex-­capital.”105 Preciado iden- tifies a postindustrial “pharmacopornographic regime” that governs our sexual subjectivity and directs us to act in the interest of pharmaceutical and pornographic corporations. A good example, studied by several researchers, is the connection between the publishing of Playboy magazine (and other highly sexualized media products) and the rise of postwar consumer capitalism.106 In other",
+      "source": "Dana Kaplan, Eva Illouz - What is Sexual Capital_ (2022, Polity Press) - libgen.li (1).pdf",
+      "chunk_index": 170,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.7219322,
+      "importance": 0.7562154531478882,
+      "final_score": 0.7219321131706238
+    },
+    {
+      "id": "57ecaf64155cd05a6057c290",
+      "qdrant_id": "48e9a819-b6d5-55a2-88bf-3c473da5077d",
+      "text": "treatment. This represents a new means of resist- ing those institutions that have historically fought to restabilize the disciplinary grid of gender in the face of biotechnical innovations that might unsettle it. By taking testosterone in an unsanctioned fashion, Preciado uses technical intervention within and upon the body as a means of con- testing the pharmacopornographic regime that constitutes him. He expresses this quite",
+      "source": "[Theory Redux] Helen Hester - Xenofeminism (2018, Polity) - libgen.li (1).pdf",
+      "chunk_index": 171,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.71983516,
+      "importance": 0.7563300728797913,
+      "final_score": 0.7198351621627808
+    },
+    {
+      "id": "899b1a8d21c71e9555fbcfaa",
+      "qdrant_id": "a0f36854-5b69-50dc-9cd1-e42a9c100199",
+      "text": "goals and satisfaction via widespread transmission of pornography in media and the availability and dissemination of pharmaceutical products – in eﬀect, sexual micro-prosthetics – like Viagra and the contraceptive pill. As Preciado puts it: In the domain of sexuality, the pharmacological modiﬁcation of con- sciousness and behaviour, the mass consumption of antidepressants and anxiolytics, and the globalisation of the contraceptive pill, as well as anti- retroviral therapies, preventative AIDS therapies and Viagra are some of the indicators of biotechnical management, which in turn synergises with new modes of semio-technical management that have arisen with the surveillance state and the global expansion of the networks into every facet of life. I use the term pornographic because the management techni- ques function no longer through the repression and prohibition of sexu- ality but through the incitement of consumption and the constant",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 267,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.7189955,
+      "importance": 0.757585883140564,
+      "final_score": 0.7189955115318298
+    },
+    {
+      "id": "8a240c62558c98d53d9ab46c",
+      "qdrant_id": "4321e244-5042-5b98-b7e6-899fda9296f0",
+      "text": "162 notes to pp. 79–87 and Women’s Bodies (Cambridge, MA: MIT Press, 2012), 103. 14 K. Davis, The Making of Our Bodies, Ourselves: How Feminism Travels Across Borders (Durham, NC: Duke University Press, 2007), 121. 15 Ibid. 16 Kaplan, The Story of Jane, ix–x. 17 Ibid., 130. 18 Ibid. 19 Ibid., xi. 20 Murphy, Seizing the Means, 160. 21 P. B. Preciado, Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era, trans. B. Benderson (New York: Feminist Press, 2013), 55. 22 J. Rivas, ‘Intoxication and Toxicity in a Pharmacopornographic Era: Beatriz Preciado’s Testo Junkie’, paper presented to Intoxication conference, Paris, 28 June 2013. The Harry Benjamin International Gender Dysphoria Association was the predecessor of the World Professional Association for Transgender Health. 23 R. Lane, ‘Paradigm and Power Shifts in the Gender Clinic’, in L. Manderson (ed.), Technologies of Sexuality, Identity, and Sexual Health (Abingdon:",
+      "source": "[Theory Redux] Helen Hester - Xenofeminism (2018, Polity) - libgen.li (1).pdf",
+      "chunk_index": 313,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6995678,
+      "importance": 0.7551156878471375,
+      "final_score": 0.6995679140090942
+    },
+    {
+      "id": "38361eb384e58aeb86270775",
+      "qdrant_id": "b78ead02-c07f-5f4f-b858-2f22dc8bb30a",
+      "text": "trials’ of the pharmacological treatment of excessive sexual behaviour, yet nonetheless outlined drug treatment, including dosages of the heavy-duty medications cyproterone acetate (CPA), a steroid, and medroxyprogesterone acetate (MPA), a progesterone derivative – both characterized elsewhere as having ‘a substantial number of severe side effects’.162 As recently as 2014, Carnes thought that ‘Pharmacologic treatment can be helpful.’ He and his co-authors referred to the use of medications commonly employed for bipolar disorder, attention deficit hyperactivity disorder, chemical addiction, compulsive gambling and Internet addiction disorder. They also noted that ‘Sex addiction patients may require prosexual drugs to enhance",
+      "source": "Barry Reay_ Nina Attwood_ Claire Gooder - Sex Addiction_ A Critical History (2015, Polity) - libgen.li.pdf",
+      "chunk_index": 498,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.69902337,
+      "importance": 0.7365249395370483,
+      "final_score": 0.6990233659744263
+    },
+    {
+      "id": "9994c2d6f8b57151e028327e",
+      "qdrant_id": "0e46c426-4f5f-555e-8c1f-b7a577d4079f",
+      "text": "xenofeminist technologies 86 describes his self-experimentation with Testogel – a synthetic androgen administered through the skin. As he remarks, whilst some people choose to use the drug ‘as part of a protocol to change sex’, others are ‘self-medicating without trying to change their gender legally or going through any psychiatric follow-up’.21 Preciado positions himself within this latter camp, taking testoster- one outside of the narrowly defined territories of its institutionally sanctioned usage. He is not taking it with the permission of doctors in order to transition from ‘female’ to ‘male’; he is illicitly self-administering it, appropriating and repurposing specific molecules in an act of auto- experimentation without preconceived goals or ideal outcomes. The decision to not seek an official diagnosis is in part a refusal to submit to the policing gaze of medica…",
+      "source": "(Theory Redux) Helen Hester - Xenofeminism-Polity (2018).pdf",
+      "chunk_index": 166,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6952465,
+      "importance": 0.7387791275978088,
+      "final_score": 0.6952463984489441
+    },
+    {
+      "id": "90e28687a6b8ed8f2eed9d1b",
+      "qdrant_id": "cb750c73-0744-56f3-b393-1f6f9f93ab91",
+      "text": "differences between women and their circumstances within social struc- tures and geographical locations.7 Not every writer studied here would categorise their work as primarily an engagement with or expression of feminism. After reading a review which characterised her writing as feminist, Calloway admits, ‘I felt uneasy to be suddenly upheld as a “feminist writer”, which I had never thought of myself as and which seemed like a tremendous burden.’8 As 6 B. Preciado, Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era, trans. B. Benderson (New York: Feminist Press, 2013), p. 107. Since the publication of Testo Junkie, Preciado has transitioned and taken the name Paul, so I use ‘he’ throughout. Later imprints of Testo Junkie name Paul B. Preciado as the author. For all texts quoted from more than once in Contemporary Feminist Life-Writing, a full reference is provided for the initial quote in each chapter",
+      "source": "[Cambridge Studies in Twenty-First-Century Literature and Culture] Jennifer Cooke - Contemporary Feminist Life-Writing_ The New Audacity (2020, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6820314,
+      "importance": 0.7378869652748108,
+      "final_score": 0.6820316314697266
+    },
+    {
+      "id": "4d7410ed51697124ae0a14f5",
+      "qdrant_id": "9d2c395a-a47b-5f6b-bc1e-23287c8331c0",
+      "text": "Testo Junkie (2008) of a pharmacopornographic regime where our bodies are regulated by manipulations and control simultaneously by both big pharma- ceutical companies and the porn industry;3 Mark Fisher’s Capitalist Realism (2009) which sees society trapped in an endlessly oppressive capitalist system which condemns us to repetition, precarity in our lives and employments, and to no prospect of authenticity as individuals;4 and, more recently, Shoshana Zuboﬀ’s outlining of Surveillance Capitalism (2019), which details how the big media giants trap and control our lives for commercial gain through manip- ulation of our information trawled from social media.5 The general picture – and what all these visions and analyses have in common – is a pervasive depiction of the dystopian nature of a suﬀocating entrapment in the webs of faceless corporate manipulations. That is to say, a type of Foucauldian blue- print comes together through these various particular understandings and",
+      "source": "Johnny Rodger - Key Essays_ Mapping the Contemporary in Literature and Culture (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 113,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6818361,
+      "importance": 0.738441526889801,
+      "final_score": 0.6818361282348633
+    },
+    {
+      "id": "45b24b6dd5d8e11baaac055f",
+      "qdrant_id": "faeb4e37-12ff-57c4-8bc8-5ec27283e388",
+      "text": "Surveillance & Society, 2(2/3): 199–215. Långström, N. (2010) ‘The DSM Diagnostic Criteria for Exhibitionism, Voyeurism and Frotteurism’, Archives of Sexual Behavior, 39: 349–56. McDonald, J. and Bradford, W. (2000) ‘The Treatment of Sexual Deviation Using a Pharmacological Approach’, The Journal of Sex Research, 37: 248–57. Parsons, J.T., Bimbi, D.S. and Halkitis, P.N. (2001) ‘Sexual Compulsivity among Gay/Bisexual Male Escorts Who Advertise on the Internet’, Sexual Addiction & Compulsivity, 8: 101–12. Pryce, A. (2000) ‘Frequent Observation: Sexualities, self-surveillance, confession and the construction of the active patient’, Nursing Inquiry, 7: 103–11. Ricco, J. P. (2002) The Logic of the Lure, Chicago, IL: University of Chicago Press. Rocke, M. (1996) Forbidden Friendships: Homosexuality and male culture in Renaissance Florence, New York: Oxford University Press. Rubin, G. (1993) ‘Thinking Sex: Notes for a radical theory of the politics of sexuality’,",
+      "source": "Paul Johnson_ Derek Dalton - Policing Sex (2012, Routledge) - libgen.li.pdf",
+      "chunk_index": 279,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6781946,
+      "importance": 0.7312284111976624,
+      "final_score": 0.6781944036483765
+    },
+    {
+      "id": "3e82a7dcccb2f167a2af5d72",
+      "qdrant_id": "ae710b32-ca85-5d14-b4b0-86c7abbd2a9f",
+      "text": "Disord 1988; 7:75-88 57. Chatfield WR, Bowditch JDP, Forrest CA: Spontaneous pneumomediastinum complicating anorexia nervosa. Br Med J 1979; 1:200-201 58. Chattem Professional Services: Pamabrom and pyrilamine maleate. Two of the active ingre- dients in Premesyn PMS™. Booklet. Chatanooga, TN, Chattem, Inc, 1985 59. Chiodo J: The assessment of anorexia nervosa and bulimia. Prog Behav Modif 1985; 19:255-92 60. Chiodo J, Latimer PR: Hunger perceptions and satiety responses among normal-weight bu- limics and normals to a high-calorie, carbohydrate-rich food. Psychol Med 1986; 16:343-349 61. Chiodo J, Latimer PR: Vomiting as a learned weight-control technique in bulimia. J Behav Ther Exp Psychiat 1983; 14:131-135 62. Clark DC: Oral complications of anorexia nervosa and/or bulimia: With a review of the litera- ture. J Oral Med 1985; 40:134-138 63. Clark JE, Simon WA: Cardiac arrhythmias after …",
+      "source": "James. E. Mitchell - Bulimia Nervosa (1986, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 409,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.67811775,
+      "importance": 0.7268779277801514,
+      "final_score": 0.6781178712844849
+    },
+    {
+      "id": "d9b232fa21dc1eb5b05a9d19",
+      "qdrant_id": "b6e6bb26-ce40-5aba-8148-90568ef6dbd2",
+      "text": "me to sleep; but most importantly, I noticed that soon after the switch my suicidal notions dwindled then disappeared. Much evidence has accumulated recently that indicts Halcion (whose chemical name is triazolam) as a causative factor in producing suicidal obsession and other aberrations of thought in susceptible individuals. Because of such reactions Halcion has been categorically banned in the Netherlands, and it should be at least more carefully monitored here. I don’t recall Dr. Gold once questioning the overly hefty dose which he knew I was taking; he presumably had not read the warning data in the Physicians’ Desk Reference. While my own carelessness was at fault in ingesting such an overdose, I ascribe such carelessness to the bland assurance given me several years before, when I began to take Ativan at the behest of the breezy doctor who told me that I could, without harm, take …",
+      "source": "Darkness Visible _ A Memoir of Madness -- William Clark Styron -- 2008 -- Open Road Integrated Media, Inc_ -- 9781936317295 -- a8dda9ffc122de1110383c7d7653660a -- Anna’s Archive.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6733712,
+      "importance": 0.7310616374015808,
+      "final_score": 0.6733710765838623
+    },
+    {
+      "id": "428a75293d42cb0b31da4018",
+      "qdrant_id": "fc4c9b4b-02e9-5caa-9006-33966c51f683",
+      "text": "bodies, establishing a model of synthetic control that operates almost invis- ibly from within the body, at the molecular level, modifying directly the chemical composition of individuals. First, the event of the separation of the reproductive function from sexuality, enabled by the availability of the contraception pill, opened up the way for the scientific fabrication of femi- ninity. Through synthetic hormones, the pill executes a double operation that cuts menstruation to artificially restitute it. In other words, hormonal hyper sensibilization is chemically induced by a pharmaceutic transnational. This means for Preciado that “feminine” biological truth is neither a natu- ral circumstance nor an immutable reality, but manipulable by the pill: a kind of an ingestible Panopticon. Second, the pornographic image has been the most effective apparatus to transform representation i…",
+      "source": "[Critical Mexican Studies] Irmgard Emmelhainz - Toxic Loves, Impossible Futures_ Feminist Living as Resistance (2022, Vanderbilt University Press) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.668831,
+      "importance": 0.7538848519325256,
+      "final_score": 0.6688310503959656
+    },
+    {
+      "id": "6e90763774ac9be4f0f29ff8",
+      "qdrant_id": "fa0b94ff-e83e-51db-a553-9972902d3036",
+      "text": "If the drug companies were to become more focused on the treatment of sex addiction or hypersexuality, the outcome could be frightening. The short ‘Am I a Sex Addict?’ questionnaires in the quick-screening format – easily adaptable to self-testing – mimic the pharmaceutical company Pfizer's sponsored Prime-MD (Primary Care Evaluation of Mental Disorders), designed to detect what were then considered the common mental disorders – psychosomatic, depressive, anxiety, alcohol and eating – and marketed to physicians in the 1990s.179 Prime-MD's drug-company links were unambiguous. Critics have described it as ‘the Alaskan Pipeline for the pharmaceuticals, a method of gaining direct access to an immense new market’.180 Its later iterations, the GAD (Generalized Anxiety Disorder) and PHQ (Patient Health Questionnaire) Screeners, are similar points-based, rapid diagnoses comparable to various sex…",
+      "source": "Barry Reay_ Nina Attwood_ Claire Gooder - Sex Addiction_ A Critical History (2015, Polity) - libgen.li.pdf",
+      "chunk_index": 510,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6685792,
+      "importance": 0.7073729634284973,
+      "final_score": 0.6685791611671448
+    },
+    {
+      "id": "143990eae63e2d6b96533815",
+      "qdrant_id": "1ebba3ae-511a-5812-aed9-eb90526e4501",
+      "text": "med i cal prac tices in doc tors’ of fices and sanatorios.50 In this priv i leged en vi ron ment, only prej u dice or ig no rance can pre vent doc tors from pro vid ing timely pro phy lac tic ad- vice, early di agnosis, and appropriate treatment of STDs. Another en vironment is made up of the sana torios orga- nized and sup ported by the la bor un ions. The num ber and size of medical in stitutions of this type in creased steadily from 1946 through 1955 dur ing the pop ulist ad ministration of Juan Domingo Perón and his ac tivist wife, Evita. Some, like the one owned by the As sociation of Met al Workers in Buenos Ai res, were well-equipped and responded to the needs of the work ing class, sup plying in formation on STDs and pro viding early de tection and ad vanced treatment ser - vices. In oth ers, equip ment and ser vices had to adjust to lesser re sources. Nei ther in di vid ual la b…",
+      "source": "Francoeur, Robert T._Noonan, Raymond J - The Continuum Complete International Encyclopedia of Sexuality (2010_2003, Oxford University Press_Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 285,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.66754293,
+      "importance": 0.7232229113578796,
+      "final_score": 0.6675429940223694
+    },
+    {
+      "id": "69d2a87400c288e2acab270d",
+      "qdrant_id": "a5ab3ac6-8f39-5583-9b9a-9bbaaaa09bc3",
+      "text": "104\b GUERRERO and Rodríguez The first part of the interview had the purpose of identifying the partici­ pants’ first contact with medical /​ pharmacological /​ advertising discourses on sexual functioning. Not only media, but friends and relatives, all men, were important voices in the transmission of information about the drug, primarily Viagra. For The Cat, his first information on the non-​medical use of these sub­ stances was through a 21-​year-​old cousin who had been experimenting with them. Bandit Lover described a variety of encounters with this kind of infor­ mation. On the one hand, a friend told him that living in San Diego, a U.S. city near Mexicali, gave him the opportunity to see how Viagra was used in college parties, mainly to anticipate the inhibitory effect of erections as a result of con­ suming alcoholic beverages: Being there [his friend] went to parties with c…",
+      "source": "(At the Interface_Probing the Boundaries, 128) Barbara Braid, Hanan Muzaffar - Bodies in Flux_ Embodiments at the End of Anthropocentrism-Brill _ Rodopi (2019).pdf",
+      "chunk_index": 373,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.66685843,
+      "importance": 0.7209282517433167,
+      "final_score": 0.6668583154678345
+    },
+    {
+      "id": "fe890286264ebba572c83622",
+      "qdrant_id": "cd45c45a-39db-5361-a337-b0b55e012ea8",
+      "text": "called normal intercourse while still under observation. If the treatment is found to have no effect, the sex doctors ﬁ rst recom- mend chemical castration (ingestion of hormones)34 and then 32 It should be recalled that although Hans Jurgen Eysenck, who was one of the founders of behavioural therapy, was forced to ﬂ ee Nazi Germany, he was still inﬂ uenced by anti-egalitarian theories, as can be seen from his Inequality of Man (1973). The French translation was prefaced by the right-wing philosopher Alain de Benoist. 33 While the defenders of the animal kingdom condemn the suffering that other researchers inﬂ ict on rats. 34 The goal is to reduce the secretion of testosterone, which is the male sex hormone that acts upon sexual desire, by using drugs used to treat prostate cancer. The treatment does not reduce the paedophiles’ ‘sexual desires’ and causes pain in the joints; th…",
+      "source": "Elisabeth Roudinesco - Our Dark Side_ A History of Perversion (2009, Polity) - libgen.li.pdf",
+      "chunk_index": 459,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6666533,
+      "importance": 0.7230446934700012,
+      "final_score": 0.6666531562805176
+    },
+    {
+      "id": "ac79c7adbe414da896a1d472",
+      "qdrant_id": "8e88983e-3f95-5293-916b-8acd7df535b4",
+      "text": "(Milan: Raffaello Cortina, 2001), 265–77. 15 Francesco Ghelli, Viaggi nel regno dell’illogico: Letteratura e droga da De Quincey ai giorni nostri (Naples: Liguori, 2003), 8–11. 16 Ibid., 8. See Simonetta Piccone Stella, Droghe e tossicodipendenza (Bologna: Il Mulino, 1999), 13–19. a category created a posteriori by language, in which have been grouped a series of substances very different in composition, effects, history, origins, and administration.12 Thomas Szasz writes: . . . we had no problem with drugs until we quite literally talked ourselves into having one: we declared first this and then that drug “bad” and “dangerous”; gave them nasty names like “dope” and “narcotic”; and passed laws prohibiting their use. The result: our present “problems of drug abuse and drug addiction.”13 Legal persecution would seem, in fact, to be the heart of the question,14 but it would perhaps be an excess of relativism to think of drugs as a",
+      "source": "Stefano Ercolino_ Albert Sbragia - The Maximalist Novel_ From Thomas Pynchon’s Gravity’s Rainbow to Roberto Bolaño’s 2666-Bloomsbury Academic (2014).pdf",
+      "chunk_index": 463,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6660336,
+      "importance": 0.7252147197723389,
+      "final_score": 0.6660335063934326
+    },
+    {
+      "id": "dd9db490bb2d609efd89c68a",
+      "qdrant_id": "96c20071-d8b2-50b5-97b0-195ef45d4ce7",
+      "text": "Delay, Études de psychologie médicale, 227. The citation pertains to narco-analysis. Fouks, Lainé, and Périvier, “Les inhibiteurs de la monoamine oxydase,” 150–1. Blanc, “La psychopharmacologie,” 716. Chemotherapy “increases greatly the number of patients who can be treated with psychotherapy” (Delay and Deniker, Méthodes chimiothéra- piques en psychiatrie, 422). Marchais, “Essai d’approche clinique des états dépressifs névrotiques,” 85. According to Paul Balvet, “Along with nursing, insulinotherapy brought forward a psychotherapeutic element … For nearly all French hospital psychiatrists, this was a revelation” (“Ébauche pour une histoire de la thérapeutique psychiatrique contemporaine,” 7). See also Roumieux, Artaud et l’asile. Blavet, “Ébauche pour une histoire de la thérapeutique psychiatrique contemporaine,” 9. Daumézon, “Modification de la symptomatologie des troubles mentaux.” Delay, Études de psychologie médicale, 297.",
+      "source": "The Weariness of the Self Diagnosing the History of Depression in the Contemporary Age (Alain Ehrenberg) (Z-Library).pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6654811,
+      "importance": 0.7256665229797363,
+      "final_score": 0.6654809713363647
+    },
+    {
+      "id": "ecc199ec6e85bf66b8438460",
+      "qdrant_id": "2fd26862-7c3d-589b-8e53-de8a3c898f08",
+      "text": "8 Introduction of that interest he introduced the digestive and stimulating properties of coca to the European scientific community. Further substantiated by his direct experience as a coca consumer, initially recorded in numerous entries of his personal journals, the essay On the Hygienic and Medicinal Properties of Coca and on Nervine Nourishment in General, published in 1859 on his return to Italy, was the first official scientific recognition of the action of erithroxylon on the human body and of its pharmacological applications. Awarded the Dall’Acqua prize for its pioneering value, Mantegazza’s study achieved sensational success both in Italy and abroad, and has remained a landmark in the history of cocaine. It is enough to open Sigmund Freud’s later writings on cocaine to appreciate the relevance of Mantegazza’s essay for subsequent psychop- harmacological investigations. Indeed, …",
+      "source": "Paolo Mantegazza_ Nicoletta Pireddu - Physiology of Love and Other Writings-University of Toronto Press (2008).pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6654794,
+      "importance": 0.722263514995575,
+      "final_score": 0.6654795408248901
+    },
+    {
+      "id": "0979a867e9c2b05d08f2daf1",
+      "qdrant_id": "e6fc365e-27a2-58c8-9a81-e109b7891cf3",
+      "text": "was significandy influenced by his intensive use of cocaine during the 18905, then it is likely. as Peter Swales (Swales 1983) hall suggested. that it was by providing Freud with insight into me quantitative aspects of the rising and falling of sexual libido, all wen as of general vital energy. Freud used cocaine both as a sexual stimulant and a medication for depression. But there were other examples of drug use and experimentation in the late nineteenth cenwry which could conceivably have been 'betrayed' by me dominance of psychoanalysis in the twentieth century. An entirely different approach to drugs, based on experience ofhallucinogens, was a feature ofthe landscape of French psychiatry at the fin tk mete. Whereas in Britain, studies on cannabis were restricted to the pages of medical and pharmacological journals, in France they appeared in respectable journals of philosophy and in periodicals devoted to hypnosis and psychotherapy, Bergson's work",
+      "source": "(Continuum Studies in Continental Philosophy) Christian Kerslake - Deleuze and the Unconscious-Continuum (2007).pdf",
+      "chunk_index": 739,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6652254,
+      "importance": 0.7255659699440002,
+      "final_score": 0.6652253866195679
+    },
+    {
+      "id": "990fa40dc8b108f26832b288",
+      "qdrant_id": "f5e7d65e-4dfc-5b4f-a495-16e97d54d0d0",
+      "text": "of an iat ro genic sex ual dys func tion. Be hav ioral sex ther apy tech niques to treat pre ma ture ejacu la tion are gen er ally highly suc cessful, but stud ies have shown that for those men who do not re spond to these in terventions, a relatively low dose of an SSRI med ication is usu ally ther apeutic. In - terestingly, a ma jority of these medicated men main tained good ejac ulatory con trol fol lowing a brief (2- to 3-month) use of the SSRI. For the oth ers, dis continuation of the med i- cation re sulted in a re turn of the pre mature-ejaculation symptoms. This find ing sug gests the pos sible presence in some men of high levels of performance anxiety, relation- ship problems, or a constitutional tendency towards diffi- culty with ejaculation control. [There have been en couraging find ings (Coleman 2002) with the use of a variety of psychoactive med ications in the 1274 Con ti…",
+      "source": "Francoeur, Robert T._Noonan, Raymond J - The Continuum Complete International Encyclopedia of Sexuality (2010_2003, Oxford University Press_Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 811,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.66419566,
+      "importance": 0.7184639573097229,
+      "final_score": 0.6641956567764282
+    },
+    {
+      "id": "3697736d52b819812e533a70",
+      "qdrant_id": "67869007-1a4c-595b-a480-2b2793f97ae9",
+      "text": "overdose of another. At what point, if any, does this transform into or become a desire for the copy itself? At the point, perhaps, of an epidemic. Benjamin identifies this point or movement as what happens when “making many reproductions . . . substitutes a plurality of copies for a unique existence.”5 This speaks to the very nature of an epidemic of drug abuse, especially when seen in relation to the patterns of drug manufacture and trafficking counterfeit pills are a part of; this speaks to the very nature of the mass market, of mass desire and pain, of the many qualities of many bodies in the same place and the qualities and shapes of the many desires of those bodies. Furthermore, the details of the manufacture of counterfeit pills provides a more pragmatic read- ing of Benjamin’s sentiment. Attempting to stay one step ahead of US law enforcement, as newer synthetic substances become identified and banned, overseas labs manufacture endless varia-",
+      "source": "United States_Dolphin-Krute, Maia - Opioids_ Addiction, Narrative, Freedom (2018_2019, Punctum Books) - libgen.li.pdf",
+      "chunk_index": 206,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6620146,
+      "importance": 0.7254779934883118,
+      "final_score": 0.6620147228240967
+    },
+    {
+      "id": "bd6dd9262a111acbe9f4fc72",
+      "qdrant_id": "a96960fb-cb33-522d-ad18-fc197c599a96",
+      "text": "America, 100, 8805–8810. Carmichael, M. S., Humbert, R., Dixen, J., Palmisano, G., Greenleaf, W., and David- son, J. M. (1987). Plasma oxytocin increases in the human sexual response. Journal of Clinical Endocrinology and Metabolism, 64 (1): 27–31. Carnes, P. (1983). Out of the Shadows: Understanding Sexual Addiction. Minneapolis, Minn.: CompCare. Carter, C. S., DeVries, A., Taymans, S. E., Roberts, R. L., Williams, J. R., and Getz, L. L. (1997). Peptides, steroids, and pair bonding. In C. S. Carter, I. I. Lederhendler, and B. Kirkpatrick (eds.), The Integrative Neurobiology of Afﬁliation, pp. 260–272. Annals of the New York Academy of Sciences, vol. 807. New York: New York Academy of Sciences. Clayton, A. H., McGarvey, E. D., Warnock, J., et al. (2000). Bupropion as an antidote to SSRI-induced sexual dysfunction. Poster presented at the New Clinical Drug Eval- uation Unit Program, Boca …",
+      "source": "James L. Kastely - The New Psychology of Love-Yale University Press (2006).pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.66164666,
+      "importance": 0.7169283032417297,
+      "final_score": 0.6616466045379639
+    },
+    {
+      "id": "b6d4946145a93f97443494c8",
+      "qdrant_id": "766a6368-e76a-5d44-ba43-9f2c1a2cf3d9",
+      "text": "50 loves breasts, and I love cocks”, writes Preciado, “but she’s what I’m look- ing for. And I’m what she’s looking for.”18 Testo Junkie develops a post-sentimental concept of love. In the Platonic tradition, metaphysical love is distinguished from and elevated above pleasant sensations or the satiation of desire. Preciado drags love away from the piety of metaphysical discourse. We cannot simply tell people how to love because we need to first know who is doing the loving. As bodies are modified by prostheses, so too is love modified, augmented, and extended: Love is always a cybernetics of addiction. Ending up with an addiction to someone, for someone, making someone the object of the addiction, or becoming addicted to a third substance for someone. To her, to me, to tes- tosterone. Testosterone and I. She and I. She or the testosterone. She = the testosterone. Producing or co…",
+      "source": "Timothy Laurie, Hannah Stark - The Theory of Love_ Ideals, Limits, Futures-Palgrave Pivot (2021).pdf",
+      "chunk_index": 178,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6610315,
+      "importance": 0.7209958434104919,
+      "final_score": 0.6610314846038818
+    },
+    {
+      "id": "c2f011f94a1843f03576cdc4",
+      "qdrant_id": "8cff2239-0035-5267-96f5-edfb4ab76ddb",
+      "text": "isfaction are implicitly prioritized, as illustrated by the positive news cov­ erage that one proposed version of a “female Viagra” received for allegedly being able to not only boost sex drive, but also help women lose weight (O’Donoghue, 2014). Give your sweetie a pill, and she will always be (a) horny and (b) skinny. It is, unfortunately, rare for media writers to criti­ cally examine this long-espoused “need” for a female desire-enhancing “little pink pill” that would provide the proper gendered match to the “little blue pill” (Viagra’s pop-culture nickname). Most journalists hold back criticism, lest they appear non-objective. Because of media’s generally tacit endorsement of the medicalization of female desire, critiques have been left to advocates and experts. For example, sex educator Emily Nagoski (2015) questions why the proposed “female Viagra” treats hypoactive sexua…",
+      "source": "Miglena M. Sternadori - Mediated Eros_ Sexual Scripts Within and Across Cultures-Peter Lang (2015).pdf",
+      "chunk_index": 140,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6579881,
+      "importance": 0.7142806649208069,
+      "final_score": 0.6579880714416504
+    },
+    {
+      "id": "ed5758df0eeed215030c4b8a",
+      "qdrant_id": "3156c1a3-0897-5e24-ae85-499238c1d416",
+      "text": "women for decades.31 In Prozac on the Couch: Prescribing Gender in the Era of Wonder Drugs, Jonathan Metzl studies advertisements for these kinds of drugs that have appeared in medical journals, magazines, and pamphlets over the past forty years and concludes that drug manufacturers are clearly targeting women as the primary consumers of these products.32 From the 1950s to the 1970s, millions of American housewives were pre-",
+      "source": "[University of Toronto Romance Series] Jennifer Willging - Telling Anxiety_ Anxious Narration in the Work of Marguerite Duras, Annie Ernaux, Nathalie Sarraute, and Anne Hébert (2007, University of Toronto Press) - .pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6579222,
+      "importance": 0.7170672416687012,
+      "final_score": 0.6579223275184631
+    },
+    {
+      "id": "0bcbc9ea9ebb41e35912f326",
+      "qdrant_id": "109a1de4-3ef4-5896-82bc-be2ba23d25d5",
+      "text": "methods prompted by cost and pa tient acceptance. Psycho - physiological meth ods and pharmacoDuplex scan ning are the most widely used meth ods; neuro urophysiological, hormonal, and in vasive meth ods are re stricted to spe cific in di ca tions. It is widely rec og nized to day that psy cho log i - cal in hibition can prevent the reaction on intracavernous vasoactive drugs, and that an erotic atmosphere en hances the re ac tion. Re gard ing treat ment, a pre lim i nary, cau tious conclusion might be: Dutch men seem to be rather re luctant to ac cept pros thesis as a so lution for erec tile fail ure; intra - cavernous in jections are ac ceptable for a larger group with a high dis continuation rate; vacuum devices are used, but here, too, discontinuation is high. There is no spe cific literature on arousal dysfunction in women, ex cept for a study on di abetes. Or gasm prob lems: In 1977…",
+      "source": "The Continuum Complete International Encyclopedia of Sexuality (Robert T. Francoeur, Raymond J. Noonan) (Z-Library).pdf",
+      "chunk_index": 600,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6570455,
+      "importance": 0.714465320110321,
+      "final_score": 0.6570452451705933
+    },
+    {
+      "id": "fe61f0451889d46b2d264564",
+      "qdrant_id": "b57370b0-bb3b-5057-87e8-6799d0c0d7a5",
+      "text": "first in line at the bookstore to snap it up. David Healy was an inspiration both for his research on the science behind SSRIs and for his dogged courage. Other resources include the following: Angell, M. (2009, January 15). Drug Companies and Doctors: A Story of Corruption. New York Review of Books. Applbaum, K. (2004a). The Marketing Era: From Professional Practice to Global Provisioning. Routledge. --------- . (2004b). How to Organize a Psychiatric Congress. Anthropological Quarterly, 77(2), 303-310. --------- . (2006). Pharmaceutical Marketing and the Invention of the Medical Consumer. PLoS Medicine, 3(4), 445. Berger, D., & Fukunishi, I. (1996). Psychiatric Drug Development in Japan. Science, 273(5273), 318. Healy, D. (2004a). Let Them Eat Prozac: The Unhealthy Relationship between the Pharmaceu­ tical Industry and Depression. New York University Press. Horwitz, A. V., & Wakefield, …",
+      "source": "Richard E. Miller_ Kurt Spellmeyer - The New Humanities Reader (2019, Cengage Learning) - libgen.li.pdf",
+      "chunk_index": 243,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6565895,
+      "importance": 0.7190719842910767,
+      "final_score": 0.6565894484519958
+    },
+    {
+      "id": "6df7114349ce5edfaa0fdcd1",
+      "qdrant_id": "697012c2-805b-5f7b-a85b-865a7f1dd145",
+      "text": "the seventeenth century, before this time potions of roots and plants were used to cured impotence, and virility was protected from attacks of witchcraft by spells (xi). In his historiographical study of impotence McLaren identified that sexual diseases and their cures were related to the prevailing notions of gender and sexuality of each era. In March of 1998 a major step in the transition in human sexuality began. The Food and Drug Administration of the United States (fda) approved the first drug for erectile dysfunction treatment: sildenafil citrate, popularly known by its brand name as Viagra. Initially it was designed to solve blood pressure problems, yet during clinical trials researchers immediately began to receive reports of its curious side effect. Shortly after its release, a growing interest in Sildenafil appeared in men who sought to increase their sexual performan…",
+      "source": "(At the Interface_Probing the Boundaries, 128) Barbara Braid, Hanan Muzaffar - Bodies in Flux_ Embodiments at the End of Anthropocentrism-Brill _ Rodopi (2019).pdf",
+      "chunk_index": 349,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6565728,
+      "importance": 0.7122572064399719,
+      "final_score": 0.6565727591514587
+    },
+    {
+      "id": "4453332f9f9cf195b1063be9",
+      "qdrant_id": "26cc2b12-994d-5c4b-ae1a-3e9166763cbe",
+      "text": "efficient molecules. See Marcel Legrain and Thérèse Lecomte, \"La consommation des psychotropes en France et dans quelques pays européens\" [The consumption of psychotropic drugs in France and in some other European countries], Bulletin de l'A- cadémie nationale de médecine i8i, no. 6 (1997): 1073-87. See",
+      "source": "Elisabeth Roudinesco, Rachel Bowlby - Why Psychoanalysis_ (European Perspectives_ A Series in Social Thought and Cultural Criticism) (2004, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 377,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.655354,
+      "importance": 0.7206758260726929,
+      "final_score": 0.6553539037704468
+    },
+    {
+      "id": "2a95b58f3eaf45c997b43546",
+      "qdrant_id": "6e52bb1f-5258-5fb6-9d0d-05d9fe9e79f2",
+      "text": "in part a refusal to submit to the policing gaze of medical and juridical authorities. As Joshua Rivas observes in his engagement with Testo Junkie: Before a transgender individual can generally be prescribed a course of hormone replacement ther- apy (and in France have its associated costs covered by social security), the trans-person must first meet certain minimum eligibility criteria set forth in the",
+      "source": "(Theory Redux) Helen Hester - Xenofeminism-Polity (2018).pdf",
+      "chunk_index": 167,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6552526,
+      "importance": 0.7056418657302856,
+      "final_score": 0.6552525758743286
+    },
+    {
+      "id": "f7a6bf5d0367090046985e0b",
+      "qdrant_id": "7575ec45-0cf6-5bbd-9342-4661f0d8f0c5",
+      "text": "nature of his referral, to formulate a long-term view of this man's treat- ment. There were no limitations on time regarding his treatment or length of admission. His future was intimately related to long-term treatment, and I was conscious throughout of the fact that, should there be any untoward developments in his illness and therefore in the therapy, I could rely on a full back-up system for further in-patient care on the unit. Another factor was Mr J P's capacity to be interested in and to maintain, to the best of his ability, his interest in being my patient. We met regularly over a three-year period. The best of his ability included the vicissitudes of his capacity to act out. A minor version of this was physical illness, clearly attributable to excessive smoking and which with minor short intermissions stayed excessively dangerous,",
+      "source": "(Psychoanalytic Ideas) Paul Williams - Psychosis (Madness)-Karnac Books (1999).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6545586,
+      "importance": 0.7183163166046143,
+      "final_score": 0.6545585989952087
+    },
+    {
+      "id": "256756f7413caaa08f440555",
+      "qdrant_id": "eccf8195-4143-5cb7-b4fd-f43935869c7a",
+      "text": "incident. This process ensures that the defendant / addict’s future citizenship is, from the moment upon entering a drug court, dependent on treatment and therefore on successful subscrip- tion to and attainment of medical models of addiction and what “recovery” looks like. When recovery, as figured in the practices of the majority of US drug courts, looks completely substance-free, material proximity produces citizenship and access to freedom. “According to a 2012 study, only about a third of all drug courts permit participants to start maintenance as the treatment component of their program, and many oppose it.”25 That is, treatment of opioid addiction with methadone or similar substances is not allowed for the vast majority of partici- pants, despite the fact that methadone maintenance medication has been proven, across multiple measurements, to be the most successful practice for treating an opioid addiction. And these",
+      "source": "United States_Dolphin-Krute, Maia - Opioids_ Addiction, Narrative, Freedom (2018_2019, Punctum Books) - libgen.li.pdf",
+      "chunk_index": 178,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.65307045,
+      "importance": 0.7059701681137085,
+      "final_score": 0.6530702710151672
+    },
+    {
+      "id": "2912be4f27bf63e370b3e351",
+      "qdrant_id": "8940892a-90ad-5da0-a429-e431e45aa9db",
+      "text": "working with such population. I decided to leave the ‘sex addiction’ clinic I was working for at the time. But my curiosity helping these clients battling with their sexual compulsivity only grew. By then, I was doing my thing, in my own consulting room, feeling like a rogue, because I was on my own working with my clients with good old-fashioned psychotherapy. I felt like a fraud. I felt alone in this. Along the way in my journey, I completed a di- ploma in eating disorders, and then I had a lightbulb moment. Treating the impulse control for binge eating could be adapted for treating sexual com- pulsivity. With the help of my clinical supervisor, I began to notice that there were other voices, those of sexologists, neuroscientists, scientific researchers",
+      "source": "Silva Neves - Compulsive Sexual Behaviours_ A Psycho-Sexual Treatment Guide for Clinicians (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.65291524,
+      "importance": 0.7157303690910339,
+      "final_score": 0.6529151201248169
+    },
+    {
+      "id": "4583502c959371061905e0b3",
+      "qdrant_id": "a0ef9a2e-cf99-5d41-8d74-a0b32bf674ee",
+      "text": "of fantasy, of desire, of bodies and their actions, and of pleasure. Pornogra- phy, at least in its photographic forms, preserves evidence of something that is otherwise transient and ephemeral. It enables intimacy to enter the archive, and it is valuable for that reason alone. Indeed, pornography offers evidence about a whole gamut of social issues and desires by showing us things that otherwise tend to remain imperceptible. Much of the confusion about por- nography’s value stems from the objection that its representations are not realistic (“my body doesn’t look like that”). But as the case of Priapus sug-",
+      "source": "Tim Dean, Steven Ruszczycky and David Squires (eds.) - Porn Archives (2014, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6526223,
+      "importance": 0.7297351956367493,
+      "final_score": 0.6526222825050354
+    },
+    {
+      "id": "a85cd15abaca5f7b143554d9",
+      "qdrant_id": "a287a5c6-7c74-546e-9c43-44ecb054bd99",
+      "text": "37 the 1930s and 1940s, extracts of the drug belladonna were used to sexualize the face, given that it produces extreme dilation of the pupils. Apparently, we tend to interpret a face with dilated eyes as beautiful and alluring. This drug is no longer sold as a cosmetic; it is used mainly by optometrists to facilitate eye examinations. But its cosmetic history explains the origin of its colloquial name, which in Italian means “beautiful woman.” As paintings such as the ones above illustrate, our perceptions of the face-­ in-­love overlap considerably with our perceptions of the face-in-lust. This may be the reason why, as Debbie Nathan has pointed out, the history of erotic representations overlaps considerably with the history of romantic ones.14 Ancient pictographs of spirits and sacred animals have been found along with those of phalluses and vessels on the same walls. Fertility rites were practiced",
+      "source": "[Semiotics and Popular Culture ] Marcel Danesi - The Semiotics of Love (2019, Palgrave Macmillan) [10.1007_978-3-030-18111-6] - libgen.li.pdf",
+      "chunk_index": 138,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6519332,
+      "importance": 0.7197535634040833,
+      "final_score": 0.6519331932067871
+    },
+    {
+      "id": "072ef7c2c8c1d34dc1eef2d5",
+      "qdrant_id": "db2110ea-e433-5441-a575-3ad7d74f8db0",
+      "text": "from DeGrandpre’s The Cult of Pharmacology (DeGrandpre 2006: 27) will be helpful. He explains: The idea that a drug has an essence that the user inevitably consumes along with the drug itself is part of a system of “pharmacologicalism.” Technically speaking, phar- macologicalism, like racism, is an ideological system rooted in a set of assumptions that, although false and exaggerated, govern a whole range of perceptions, under- standings, and actions. A key supposition of pharmacologicalism is that pharmaco- logical potentialities contained within a drug’s chemical structure determine drug outcomes in the body, the brain, and behavior. Accordingly, nonpharmacological factors play little role, whether in the realm of the mind or of the world of society and culture. In this highly reductionist system drugs have moral attributes that stem not from social and psychological forces but rather from the sphere of molecules. As",
+      "source": "The Routledge Handbook of Philosophy of Pain (Routledge -- Schmerz;Corns, Jennifer -- Routledge handbooks in philosophy, 1 [edition]_, New York, -- 9780367573423 -- bace7a1a85e408421b788ad12a3d6cd3 -- Anna’s Archiv.pdf",
+      "chunk_index": 186,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.65085256,
+      "importance": 0.7188927531242371,
+      "final_score": 0.6508527994155884
+    },
+    {
+      "id": "d59193c7d17c64d68e611f4b",
+      "qdrant_id": "b8b6e832-3d4d-53f5-9ac6-9fc46084373d",
+      "text": "strategies by phenomenologists such as Drew Leder, who sees the Carte- sian mechanistic model of the body as still a problematic episteme in Western medicine (which I will discuss shortly). Certainly since the advent of dualism in the Renaissance, it has been possible for the Western academy to teach objectification, to train the subject to imagine the object apart from oneself, to set the object “over there” as a field of study and to exert a topography on it. And this learning curve might develop slowly over time. Arguably, advances in medical science could not have taken place without this particular frame of mind, an attitude that works to limit the impact of the object on the subject. We can objectify if it is really essential to do so. And autopsy is one procedure demanding a high degree of objecti- fication if its epistemological goal is to be reached. As I mentioned above, the clinical history suggested the patient’s cause of death would most",
+      "source": "[SUNY series in postmodern culture] Klaver, Elizabeth - Sites of autopsy in contemporary culture (2005, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 103,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6506928,
+      "importance": 0.7836989164352417,
+      "final_score": 0.6506927609443665
+    },
+    {
+      "id": "ed9bfbaabd87c2624ddb7cdc",
+      "qdrant_id": "2176ba2e-4612-579d-a272-1e20bbe4d9e5",
+      "text": "226 I N D E X Bersani, Leo, 5–6; and Melanie Klein, 88, 182n4, 190n10 Beyond the Plea­sure Principle, 79, 83 Big Pharma, 97, 106, 117, 120, 129, 150, 154, 182n6 bile, 1, 5, 7, 16, 70. See also bitter bingeing, 59, 62–64. See also bulimia biological phantasy, 36–43, 172. See also Isaacs, Susan; Klein, Melanie biological unconscious, 23, 40–41, 44, 49, 55–58, 64, 70. See also Ferenczi, Sándor biology: feminist theory and, 3–5, 13, 29–35, 49–51, 58; as flat, 56–59, 61–62, 64–66, 70, 77, 81, 83, 173; as juridical, 34–35, 38, 43, 59, 172 Birke, Lynda, 3 bitter, 70, 75, 81, 85, 93, 178. See also bile black box warnings, 151, 198n3. See also Food and Drug Administration (fda) blood-­brain barrier, 101, 103–104, 117, 156 Bordo, Susan, 184n2 bowel, 1, 13, 52, 62, 76–78, ­101 brain-­derived neurotrophic factor (bdnf), 162 Breggin, Peter, and Ginger Breggin, 10, 98, 192n5 Brierley, Marjorie, 36–38 British Psycho-­Analytical Society. See controversial discussions",
+      "source": "(Next Wave_ New Directions in Women's Studies) Elizabeth A. Wilson - Gut Feminism-Duke University Press Books (2015).pdf",
+      "chunk_index": 145,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6503139,
+      "importance": 0.7139793038368225,
+      "final_score": 0.6503139138221741
+    },
+    {
+      "id": "44e3020d02890dd4baa9d89d",
+      "qdrant_id": "e5fea942-589c-54b0-a18b-544778d9ef16",
+      "text": "men, screened to eliminate “rape-prone” and “high-hostile” types. The experiments showed that in these average “good joes,” exposure to certain types of pornography produced signif- icant effects such as increased levels of aggression and hostility, increased callousness toward women, and increased self-reported likelihood to rape if they thought they would not get caught (Malamuth and Donnerstein 1984; Zillman 1984). • The escape of “Linda Lovelace,” whose real name was Linda Marchiano (née Boreman). In her autobiography Ordeal, the woman who starred in Deep Throat, then the world’s high- est-grossing pornographic film, told how she had in fact been intimidated, beaten, and bru- tally bullied into performing for pornography by her pimp/husband—sometimes at gunpoint (Lovelace 1980). For several years Marchiano tried to get someone to help her take her case to court, but no one in …",
+      "source": "[Routledge Handbooks in Philosophy] Lori Watson (editor), Clare Chambers (editor), Brian D Earp (edi - The Routledge Handbook of Philosophy of Sex and Sexuality (2022, Routledge) - libgen.li.pdf",
+      "chunk_index": 263,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6497055,
+      "importance": 0.7114475965499878,
+      "final_score": 0.6497056484222412
+    },
+    {
+      "id": "670f3c308cced885a7fef210",
+      "qdrant_id": "6850e52e-0041-5345-9c39-3e6421701ae2",
+      "text": "for promiscuous sexual opportunities than with basic sexual rights, are not covered by many insurance plans. Aaron Braun notes that, whereas an ear- lier generation of queer activists like ACT UP demanded more democratic access to early anti-AIDS drugs like AZT, many of those older activists oppose PrEP drugs for encouraging non-monogamous sex, thus allowing access to PrEP drugs to remain a distinct class privilege while also stig- matizing users as non-homonormative. Consequently, “working-class and low-income people, predominantly people of color, are excluded from a crucial sector of the pharmaceutical industry that directly serves LGBTQ folk. Meanwhile, public figures resort to sexual moralizing that seeks to dismiss new drugs and thus the needs of those most affected.”63 Sarah Schulman notes that such symptoms of the “gentrification of gay politics” Figure 6.3 The monster’…",
+      "source": "David Church - Post-Horror_ Art, Genre and Cultural Elevation-Edinburgh University Press (2021).pdf",
+      "chunk_index": 148,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6488997,
+      "importance": 0.7075194716453552,
+      "final_score": 0.6488996744155884
+    },
+    {
+      "id": "b7134f45c7a03ad86c3ea37c",
+      "qdrant_id": "65d345f9-0868-5c85-a995-6a0732dafd9b",
+      "text": "researchers, among oth ers, Eli Coleman, John Money, Ira Reiss, Eusebio Rubio, Luis Dragunsky, Jo seph LoPiccolo, Andres Flores Colombino, and Ruben Hernandez. Other sexological stud ies in Co lombia have been con - ducted by stu dents in their post graduate stud ies. These are gen er ally non-funded and usu ally re main un pub lished. Some of these stud ies have orig inated from the Uni versity of Bogotá (Bodner et al. 1999), Uni versity Si mon Bo livar of Barranquilla (González 1999b; González et al. 2000), and the Uni versity of Caldas in Manizales (Useche 1999). Since the Min is try of Ed u ca tion es tab lished the Na tional Project on Sex ual Ed ucation in 1993, there has been a sig - nificant in crease in the need for these studies. Private uni - versities have thus developed them. In terms of the fu ture, we hope that the small group of ded i cated and di verse Co lom bian pro fe…",
+      "source": "Francoeur, Robert T._Noonan, Raymond J - The Continuum Complete International Encyclopedia of Sexuality (2010_2003, Oxford University Press_Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 409,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6482321,
+      "importance": 0.7280654311180115,
+      "final_score": 0.6482321619987488
+    },
+    {
+      "id": "f8336910fd275e17a73f4dd0",
+      "qdrant_id": "c046380b-4352-5136-96cf-270e3dbae4d6",
+      "text": "( ( i_ .· ,,,Chapter·6 .·-,Does-Psychopharmacology Have a Future? 1 This was a recurrent theme on the websites and direct-to-consumer · ... · ·•· . advertisements for the SSRI class of drugs in the 2000s. Some may once have believed that the drugs would, in Peter Kramer's (1992) infamous phrase, make them feel 'better than well'. 2 There is, of course, a large and largely speculative literarure on 'enhance- ment' that ldo not discuss here. 3 I have discussed this history in detail elsewhere; in this chapter I will focus largely on the period from 2000 onwards. 4 Data .from the Health and Social. Care Information Centre, presented by the Council for Evidence-Based Psychiatry in their Briefing Note to the All Party Parliamentary Group for Prescribed Drug Dependence, in June 2015; at http:l/prescribeddrug.org/wp-content/uploads/2015/10/ Briefing-note-for-APPG-PDD.pdf. . 5 Iceland is a special case: with such a small population, the prescribing",
+      "source": "Nikolas S Rose - Our Psychiatric Future (2018, Polity Press) - libgen.li.pdf",
+      "chunk_index": 738,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6481755,
+      "importance": 0.7110422849655151,
+      "final_score": 0.6481754779815674
+    },
+    {
+      "id": "97a9a212535102e08eac0e57",
+      "qdrant_id": "81f6dfb6-a6a8-5eb2-b94b-07c163015757",
+      "text": "whom she interviewed for the book – ‘testified for Paula Jones and thinks that Bill Clinton's sex addiction moved public acknowledgement of sex addiction forward more than a decade’.40 There was no hesitation in Jerome D. Levin's The Clinton Syndrome: The President and the Self-Destructive Nature of Sexual Addiction (1998), a study by a psychotherapeutic expert in alcoholism and substance abuse. Clinton's background as a child of addiction predisposed him biologically and socially to an addiction of his own. I will demonstrate that his sexual proclivities over a lifetime were expansive and developed the strength and persistence of a habit. Finally, I will illustrate that there were specific stresses in the president's life shortly before his alleged involvement with Monica Lewinsky that made him highly vulnerable to acting out once again his sexually addictive behavior.41 Clinton's sexua…",
+      "source": "Barry Reay_ Nina Attwood_ Claire Gooder - Sex Addiction_ A Critical History (2015, Polity) - libgen.li.pdf",
+      "chunk_index": 335,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.647705,
+      "importance": 0.7079988121986389,
+      "final_score": 0.6477051377296448
+    },
+    {
+      "id": "00e8ffa8b86a4405a7600638",
+      "qdrant_id": "f9e3323c-68d9-5c59-b1c9-75472ce5dc7e",
+      "text": "of a deliberate stance”. Nobility was not innate for mods: rather, it was something to be attained, through a ruthless de-naturalisation of the body via decoration and chemical alteration. The mods were in every sense hooked on speed, and the black American music they gulped down with their bennies and coffees was consumed in the same spirit and for the same reasons: as an accelerator, an intensifier, an artificial source of ecstasy. That is, as a chemical rush into Now, NOT as some timeless expression of pride and dignity. In the desire (my official position on this now btw is that “libido” should be used in place of “desire”)-pleasure relation, there is a third, occluded term: sensuality. The hippies’ sloppy, ill-fitting clothes, unkempt appearance and fuzzed-out psychedelic fascist drug talk displayed a disdain for sensuality",
+      "source": "Mark Fisher, Darren Ambrose (editor) - K-punk_ The Collected and Unpublished Writings of Mark Fisher-Repeater (2018).pdf",
+      "chunk_index": 117,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6476636,
+      "importance": 0.7600328922271729,
+      "final_score": 0.6476635932922363
+    },
+    {
+      "id": "8615d341b519274aae5f9865",
+      "qdrant_id": "a0b8a821-656d-5d31-867d-732a8d99514a",
+      "text": "PHARMACOTHERAPY OF BULIMIA NERVOSA 87 trial of the long-acting orally active drug naltrexone in outpatients with bulimia nervosa (unpublished data). The study used a crossover design with a 50 mg dosage of naltrexone at bedtime. Subjects were initially put through a single-blind placebo phase to eliminate early placebo responders. Those who failed to improve significantly during the initial phase were then randomized to either the active drug or placebo and, fol- lowing three weeks of therapy, crossed over to the other treatment. The results failed to demonstrate a statistical superiority for naltrexone com- pared to placebo on any of the important variables examined, although nu- merically the outcome favored naltrexone. A crossover study using 120 mg per day in 10 subjects found similar results.201 How do we reconcile the results of these last two studies with the work of Jonas and Go…",
+      "source": "James. E. Mitchell - Bulimia Nervosa (1986, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 240,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64704865,
+      "importance": 0.701448380947113,
+      "final_score": 0.6470485925674438
+    },
+    {
+      "id": "21b72b80f99116c4937dabc3",
+      "qdrant_id": "c6b3386f-610f-53c9-9a66-c855c8524cd8",
+      "text": "later ads further manipulate women’s anxiety about appearance by implying that “High achieving women can be ravaged by executive stress” (202). Faludi argues that the beauty industry responded to poorer profits in the early 1980s by convincing women that they were ailing patients—suffering from professional stress and declining good looks. In response, the industry put an array of strategies into place in order to treat these patients: beauty became medicalized, with potions, skin injections, chemical treatments, and the rise of a plastic surgery industry that became more fully medicalized, with liposuction performed by physicians, an increase in hospital departments of cosmetic surgery, and medically prescribed and supervised liquid diet pro- grams (203). Faludi contends that women have sometimes become quite ill from carcinogens and immunopathics (in the form, for instance, of silicone breast implants), and that many have come to associate frailty and infirmity",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6462797,
+      "importance": 0.7164828181266785,
+      "final_score": 0.6462797522544861
+    },
+    {
+      "id": "c3a9ff9e58ea9cb04a926c5b",
+      "qdrant_id": "c22da05e-84cf-5eca-a13d-b6e453265ece",
+      "text": "Illustrations Figures 1.1 Two photographs of a woman suffering from anorexia (1888–​1918) Iconographie photographique de la Salpêtrière. [Journal] Wellcome Library: London. 25 1.2 Four photographs of a woman showing anorexia nervosa (1892) Iconographie photographique de la Salpêtrière. [Journal] Wellcome Library: London. 27 5.1 Pharmacy in Ensenada Downtown. 95 5.2 Viagraman mannequin under a “Got Viagra?” sign. 96 5.3 An automobile traveling the streets carrying the phrase “Viagramovil”. 97 5.4 “Cobra (type of snake) venom. Enhance your sexual potency.” 98 5.5 A charro with an erection (left) and an anthropomorphic Viagra blue pill (right) (Courtesy of Mary Solio, www.theworldisabook.com). 99 5.6 “Coconuts a la Viagra. Orange juice per liter. Saturdays and Sundays.” 100 Table 5.1 The participants of the study. 103",
+      "source": "(At the Interface_Probing the Boundaries, 128) Barbara Braid, Hanan Muzaffar - Bodies in Flux_ Embodiments at the End of Anthropocentrism-Brill _ Rodopi (2019).pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6462298,
+      "importance": 0.711200475692749,
+      "final_score": 0.6462298035621643
+    },
+    {
+      "id": "f52193ef54a86307905296b5",
+      "qdrant_id": "6b3d98fb-8b3c-5d0c-8215-d1d5f96bf9b2",
+      "text": "arguing that they should be distributed in large quantities like other prescriptions; rather, the solution would be more clinics, more doctors, in more locations. Why is this not already the case? Why, really, is it that evidence-based medicine, prized in practi- cally every other field of medical practice, is not the standard for addiction treatment? This has been a systemic elimination of medical maintenance treatment and related practices, generally considered as a model of harm reduction rather than only law enforcement or treatment: “In the mid-2000s, merely using the phrase harm reduction disqualified U.S. researchers from receiv- ing federal funding . . . project officers at the National Institute on Drug Abuse [under George W. Bush] routinely advised research- ers to remove the words condom, needle exchange, sex worker and homosexual from the titles and abstracts of their grant proposals.”31 These practices are an example of the way “the War",
+      "source": "United States_Dolphin-Krute, Maia - Opioids_ Addiction, Narrative, Freedom (2018_2019, Punctum Books) - libgen.li.pdf",
+      "chunk_index": 184,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6455554,
+      "importance": 0.6971254944801331,
+      "final_score": 0.645555317401886
+    },
+    {
+      "id": "fbff81c6413dfcc72c3547a7",
+      "qdrant_id": "59523d0a-920a-52a8-9f1c-0d97d2fc06bf",
+      "text": "Higher Understanding of Sex medicine’s superstrange, and above all perversely antispiritual, attitude toward sex. An attitude designed to bring sexual love under the control of medicine at all costs, in this case by “treating” it with drugs. Perhaps the weirdest medicated goof of all began in the early 1960s when the powerful antipsychotic drug, thioridizine, notably prescribed in the treatment of schizophrenia under the brand names Thorazine and Mellaril, was recommended in the medical literature and prescribed by doctors in the treatment of rapid ejaculation. The reason was that one of its gross side effects is “dry” and presumably retrograde ejaculation, wherein the man’s semen flows into his bladder rather than being nor¬ mally, visibly ejaculated. It was not until 1976 that it was shown in a singularly honest study by Dr. J. Kotin and his colleagues, who actually trie…",
+      "source": "Louis William Meldman - Mystical Sex_ Love, Ecstasy And The Mystical Experience (1997, Element Books) - libgen.li.pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6452081,
+      "importance": 0.7101642489433289,
+      "final_score": 0.6452080011367798
+    },
+    {
+      "id": "681358d0dce3a592d07dd18b",
+      "qdrant_id": "89d1d893-dd88-54b6-802f-a8c4ca226071",
+      "text": "relevant studies or conversing with other researchers and clinicians, as I am stymied in my desire to bring my personal experience to bear on these scholarly, and oft en quite sterile and abstract discussions. In January 2014, I decided to start pre- exposure prophylaxis (Pr EP ) for HIV : that is, I am HIV -negative and each day I am taking an antiretroviral medication called Truvada (tenofovir- emtracitibine) as protection from HIV in addition to and sometimes instead of condoms. Daily use of Truvada has shown 70–99 percent protection from HIV , which is markedly better than condoms (Grant et al. 2014). Nonetheless, Pr EP for HIV prevention engendered controversy even before it was approved in the US in 2012. I, too, was initially skeptical of its practicality, based on my real- world experience as a gay man. I was concerned that adherence would be diﬃ cult and that…",
+      "source": "(Encounters_ Experience and Anthropological Knowledge) Richard Joseph Martin_ Dieter Haller (editors) - Sex_ Ethnographic Encounters-Bloomsbury Academic (2019).pdf",
+      "chunk_index": 123,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6451677,
+      "importance": 0.6981460452079773,
+      "final_score": 0.6451677083969116
+    },
+    {
+      "id": "9786cc48ee6d17c2ec12b032",
+      "qdrant_id": "e8055674-ae79-530f-89b7-ee217a50f110",
+      "text": "deployments of psychoanalysis that promise to disrupt the “commodified homonormative, heteronormative, and cis-gender continuums of the pre- sent.” Cole reinforces his argument with a reading of the foreclosure of psychoanalysis in Paul B. Preciado’s “postqueer” manifesto, Testo Junkie. As Stephen Heath stated, cinema, especially after the psychoanalyzing of cinema by the Slovenian Lacanian School, is not merely “the vehicle of an exposition” but “a matter of experience.”35 The Lacanian medita- tion on optics in particular, and the centrality of the image and apparatus in Lacan’s psychoanalysis in general, have both drawn on cinema and proved enormously influential for film theory. Metz turned to Lacan for an account of the “other mirror, the cinema screen,”36 and cinema, in turn, has been widely used in discussions of imago, image, and iden- tity, or image and identification in psychoanalysis. The chapter by Todd",
+      "source": "[After Series] Ankhi Mukherjee, ed. - After Lacan_ Literature, Theory, and Psychoanalysis in the Twenty-First Century (2018, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64486086,
+      "importance": 0.7375555634498596,
+      "final_score": 0.6448608636856079
+    },
+    {
+      "id": "66daae406670ce662017daa3",
+      "qdrant_id": "783dbf09-6c49-507d-a6fe-f7c3d2f31a64",
+      "text": "& Co.: New York, 1847), 50-5, some ellipses omitted. Philip C. Van Buskirk, a nine- teenth-century American seaman, evidently kept a similar diary record of his semi- nal emissions. From January 1852 (when he resolved to discontinue masturbation) until the end of 1858, according to B. R. Burg, he kept a scrupulous record of his sem- inal losses, itemizing ‘all expenditure of semen by date and by immediate cause, recording whether they were involuntary, induced by a partner, or caused by solitary masturbation’ (Burg, An American Seafarer in the Age of Sail: The Erotic Diaries of Philip C. Van Buskirk, 1851-1870 (New Haven: Yale University Press, 1994), 30). Extract 64 VERNON A. ROSARIO: Masturbation and Degeneracy iis 2. Claude Francois Lallemand, De pertes séminales involontaires, 3 vols. (Paris: Bechet Jeune, 1836-42), i. 435. See Dora Weiner, ‘Le Droit de \"homme 4 la santé: Une belle idée devant lI’ Assem-",
+      "source": "Sexuality (Robert A. Nye) (Z-Library).pdf",
+      "chunk_index": 163,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64460075,
+      "importance": 0.7039876580238342,
+      "final_score": 0.6446008682250977
+    },
+    {
+      "id": "8f894119746499717de59495",
+      "qdrant_id": "84c995af-3d9d-5e2b-beab-103a0b59b7b7",
+      "text": "Ouvriere, 1976), p. 109. 22. Scrive Freres, Note sur la situation des ouvriers de l'tftablissement de tissage mecanique, 1851, Recherches, no. 25 (November 1976): p. 114. 2l1. Joseph Billig, Les Camps de concentration dans l'tfconomie du Reich hitlbien (Paris: PUF, 1973), pp. 263-64. Chapter 11. Drugs, Ethical Choice or Moral Consensus 1. Antoine Lazarus, \"Tous Prevenus,\" in L'Esprit des Drogues, Autrement, April 1989, pp. 94-95. 2. Marie Andree Bertrand, \"L'immoralite de la prohibition,\" Psychotropes, vol. 5, nos. 1-2 (1989): 17. o r­ ::> o >- 0: o UJ I r-",
+      "source": "Isabelle Stengers - Power and Invention_ Situating Science (Theory Out of Bounds Series , Vo 10) (1997) - libgen.li (1).pdf",
+      "chunk_index": 171,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6442505,
+      "importance": 0.7114604115486145,
+      "final_score": 0.6442505121231079
+    },
+    {
+      "id": "b9036c1e42eca719cae65070",
+      "qdrant_id": "7ae4e914-e4de-5b4a-9e17-b482fffc3443",
+      "text": "Serum,' or Scopolamine, in the Interrogation of Criminal Suspects,\" Hygeia 10 (1932): 337 -40; W. F. Lorenz, \"Criminal Confessions Under Narcosis,\" WisconsinMedicalJournal 31 (1932): 245 - 50; Alfred o. Ludwig, \"Clinical Features and Diagnosis of Malingering in Military Personnel,\" ~r Medicine 5 (1944): 378-82; and Don 1>. Morris, \"Intravenous Barbiturates: An Aid in the Diagnosis and Treatment of Conversion Hysteria and Malin- gering,\" Military Surgeon 96 (1945): 509-13. 34. See for example J. F. Wilde, \"Narco-Analysis in the Treatment of War Neuroses,\" British MedicalJournal2 (1942): 6. 206",
+      "source": "Ruth Leys - Trauma_ A Genealogy (2010, University of Chicago Press) [10.7208_9780226477541] - libgen.li.pdf",
+      "chunk_index": 153,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.644107,
+      "importance": 0.7072939276695251,
+      "final_score": 0.6441069841384888
+    },
+    {
+      "id": "43845a9eca7ef255465a1cae",
+      "qdrant_id": "ee09dad7-fad0-5d01-93bf-4eb2b4b196fe",
+      "text": "Peterson, Ralph, 43 Pfiffner, Joseph, 33 Phenomenology, 5, 36, 78 Pilocarpine reaction test, 21 Pincus, Harold, 93, 97 Pituitary, 8, 19, 29, 34, 36, 47, 54, 64, 103, 104 7, 109, 110, 115, 130 adenoma/tumor, 26, 34, 149 in psychiatric illness, 7, 9, 10, 13, 22, 25, 26, 27, 38, 40, 48, 121, 122, 125 Porter, Curt C., 40 Posternak, Michael, 114 Prange, Arthur, 54, 109 10, 113 17, 119, 137 Prednisolone, 41 Prednisone, 41, 45 Price, Dorothy, 104 5 Procyclidine, 14 Prolactin, 65, 111 Propanone, 128 Psychiatric illness, 4, 5, 6, 37, 40, 76, 113, 141 classification of, 76 80, 120, 139, 140, 143, 147, 148, 151 convulsive treatment of, 24 endocrine aspects, 9, 21, 26, 32, 37 Psychoendocrinology, 110 13 Psychoneuroendocrinology, 3, 20, 21, 35, 37, 84 Psychoneurosis, 27, 142 Psychopharmacology, 85 Psychosis, 19, 23, 63, 73, 82, 133, 143. See also Depression, psychotic in Cushing’s disease, 26, 128, 132 steroid treatment of, 33, 35, 38, 40 Psychotherapy, 82, 141",
+      "source": "Endocrine Psychiatry _ Solving the Riddle of Melancholia -- by Edward Shorter, Max Fink -- 1, PS, 2010 -- Oxford University Press, USA -- 9780199737468 -- 80a8550328320f03cd96dfab329b147b -- Anna’s Archive.pdf",
+      "chunk_index": 146,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6437848,
+      "importance": 0.7030931115150452,
+      "final_score": 0.6437848806381226
+    },
+    {
+      "id": "30f68e6c6ccd6977901e86eb",
+      "qdrant_id": "942b0cab-90b9-5810-a670-b11dc9d6bf20",
+      "text": "distribution (blogs, websites) or more traditional publishing practices (books, journals). For this reason, this volume puts academic research on these topics side by side with insiders’ points of view, including a number of personal accounts and reflections by key names in the field of alternative pornographies: Barbara DeGenevieve, Mia Engberg (interviewed by Muriel Andrin), Shine Louise Houston, Erika Lust, Sergio Messina, and WARBEAR (aka Francesco Macarone Palmieri). This project would not have been possible without the support of many friends and colleagues. The editors wish to thank: Lisa Andergassen, Feona Attwood, Alessando Bordina, Alberto Brodesco, Jan Distelmeyer, Gloria Lauri-Lucente, Elena Marcheschi, Sara Martin, Anika Meier, Laura Odello, Serena Pezzini, Leonardo Quaresima and all the research group at the University of Udine-DAMS Gorizia, Audacia Ray, Elisa Shea, Courtney Trouble. Special thanks also to Luca Taddio, Francesca Adamo, Ermanno",
+      "source": "Porn After Porn Contemporary Alternative Pornographies (Enrico Biasin  Giovanna Maina  Federico Zecca) (Z-Library).pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6437311,
+      "importance": 0.7203198671340942,
+      "final_score": 0.6437309980392456
+    },
+    {
+      "id": "4a9b735428da121c86f65a5e",
+      "qdrant_id": "f0ae5361-cdfc-553e-947c-118c83bf2260",
+      "text": "sacred substance, offers a means of desubjectification, and this is perhaps the aspect most relevant to Perlongher’s critical thinking: overcoming the objectifying rational and colonial categories of western thought and its phallic, anthropologic biases. The leaving of the self and escape from societal pressures are key to political action in the sense that they blast away the pillars upholding the capitalist system. His abandonment of the orgy in favour of transcendent ecstasy as a vehicle to escape the self was contemporary with (even slightly prior to) his illness. In 1989, at a research centre in Paris, where he spent nine months doing a PhD in sociology at the Sorbonne, he was diagnosed with AIDS. In 1987, he’d published the book O que é Aids? [The ghost of AIDS], which he later criticized as a work written from a healthy perspective. In it, he denounced the control of the body that AIDS in particular implied as a form of taming the nomadic sexual practices",
+      "source": "[Critical South] Néstor Perlongher - Plebeian Prose (2019, Polity) - libgen.li.pdf",
+      "chunk_index": 33,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6435897,
+      "importance": 0.7248961329460144,
+      "final_score": 0.643589437007904
+    },
+    {
+      "id": "0920c719f4f9ebaeb752205e",
+      "qdrant_id": "a54f721f-1dab-5f37-a2d1-234a71c05202",
+      "text": "an adult, the place remains linked to her not only through memory, but also through illnesses that she believes were ultimately caused by the hazards to which she was exposed. Everything connects in her body. Although she and her body were already compromised by genetics, fam- ily psychology, and environmental poisons, as a teenager Antonetta added the extra burden of massive quantities of drugs, especially heroin and LSD. Her old diaries reveal that she used heroin and other drugs daily for more than a year. Was she self-medicating? Perhaps. But she was also taking chances, hanging out with reckless boys, working for dealers, brushing as close as she could to death without being taken. Reflecting on a particularly terrifying diary entry written while tripping on LSD, her fifteenth trip in three weeks, Antonetta con- siders the intersection of the body, brain, and biography: In …",
+      "source": "Ann Jurecic - Illness as Narrative (Composition, Literacy, and Culture)-University of Pittsburgh Press (2012).pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.643095,
+      "importance": 0.743248462677002,
+      "final_score": 0.6430950164794922
+    },
+    {
+      "id": "e3666be71305da9b18a6543e",
+      "qdrant_id": "0af404da-2da4-5f2c-a3af-78ee8611a520",
+      "text": "Jones, Ernest, 79, 121–122, 184n3, 185n5 King, Lawrence, 90–93 King v. McInerney, 90–91 Kipnis, Laura, 25–27, 31 Kirby, Vicki, 13, 59, 66, 145, 181n2 Kirsch, Irving, 125, 127–128, 130, 141–145 Klein, Melanie, 23, 35–41, 57, 71, 77–78, 83, 172, 183n3, 188n3, 189n6, 189n8, 194n9; Abraham and, 182n7; Bersani and, 182n4, 190n10; Butler and, 88; Ferenczi and, 184n4; Sedgwick and, 177. See also hate; phantasy Kramer, Peter, 15, 115–116, 194n12 Kristeva, Julia, 190n13 Lactobacillus rhamnosus, 169, 172–173 Lamarck, 185n5 Landecker, Hannah, 2, 113–115 Laplanche, Jean, and Jean-­Bertrand Pontalis, 109, 181n1, 193n8 Lasagna, Louis, 125, 137 Leader, Darian, 21–22, 44, 97 Likierman, Meira, 182n3, 183n8, 183n10 Litvak, Joseph, 32, 42 liver, 1, 16, 31, 40, 43, 57, 99–106, 112–113, 117, 156–157 Love, Heather, 177 Luvox, 101–102. See also selective sero­ tonin reuptake inhibitors (ssris) materializations, 53, 55–59, 66, 106, 172. See also Ferenczi, Sándor melancholia. See depression",
+      "source": "[Next Wave_ New Directions in Women's Studies] Elizabeth A. Wilson - Gut Feminism (2015, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 152,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64266,
+      "importance": 0.7040894627571106,
+      "final_score": 0.6426602602005005
+    },
+    {
+      "id": "50e5d6c82f23d57ccc513be5",
+      "qdrant_id": "240836ba-b398-5884-9f1d-9b10ef3c5894",
+      "text": "ingly recognized, in particular with the generalization of Social Security, it is nor­ mal that, in return, society can impose certain limits on the way people use their own bodies, especially when it is a question of substances whose extreme harmfulness has been unanimously denounced by specialists.\" However, if the social costs are invoked, the technical question of these costs and the different methods of managing them is not raised. The ex­ perts were not asked about the different ways of reducing them. They were not asked if legal prohibition was the best way. They were only asked to testify to the \"extreme harmfulness\" of the incriminated substances, and, we are told, the special­ ists were unanimous on this subject. Regarding AIDS, doctors were assembled, but also historians, sociologists, epidemiologists, and psychologists-in short, all those who represent the social body as it is affected by the problem and as it might be af­",
+      "source": "Isabelle Stengers - Power and Invention_ Situating Science (Theory Out of Bounds Series , Vo 10) (1997) - libgen.li (1).pdf",
+      "chunk_index": 152,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6422895,
+      "importance": 0.7127141356468201,
+      "final_score": 0.6422896981239319
+    },
+    {
+      "id": "efdcef9cbef8a75d7715357f",
+      "qdrant_id": "ff557cdc-068e-5665-b324-9d4b7532790c",
+      "text": "depressed.60 Atypical Substances of Abuse As discussed briefly in chapter 1 and in the discussion of medical compli- cations, women with bulimia nervosa have a high risk of abusing several classes of compounds not usually considered drugs of abuse.309 These in- clude laxatives, diuretics, diet pills, and the over-the-counter emetic com- pound ipecac. In a previously reported survey of 275 bulimic women seen in our clinic,300 60.6% had used laxatives for weight control, 50.2% had",
+      "source": "James. E. Mitchell - Bulimia Nervosa (1986, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 132,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6421898,
+      "importance": 0.6990875005722046,
+      "final_score": 0.6421896815299988
+    },
+    {
+      "id": "9f1aa612be3207a8a80b49a9",
+      "qdrant_id": "2f71b04b-1f65-5bac-a7c2-9cc50a5bf0a2",
+      "text": "partners having asymmetrical desires and expectations around sex.54 Nota- bly, there is a politics and money-generating factor at work in these diagno- ses, especially with the US Food and Drug Administration (FDA) approval of the drug Flibanserin/Addyi for the treatment of HSDD/FSIAD in 2015, which despite unimpressive clinical trials can now be prescribed to cisgender women as a Viagra equivalent for stimulating sexual desire. Health scientific and medical scientific research on asexuality has a check- ered relationship with asexuality, much as with other sexual orientations. With the “truth-based” quality often granted to scientific and medical knowledge,",
+      "source": "(Abnormativities_ Queer_Gender_Embodiment) Ela Przybylo - Asexual Erotics_ Intimate Readings of Compulsory Sexuality-The Ohio State University Press (2019).pdf",
+      "chunk_index": 62,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6417752,
+      "importance": 0.7041643857955933,
+      "final_score": 0.6417751312255859
+    },
+    {
+      "id": "32014b62dfa70f151df26b0f",
+      "qdrant_id": "41c92851-811b-52d8-9d7d-5e59819cf77a",
+      "text": "report. Seven informants were recruited, five of them with at least one episode of any kind of sexual-​enhancement medication use in their sexual history. The other two men with no history of substance experimentation saw the posters and contacted by email to express their interest to participate in the study. Of the seven men who were contacted, only 4 managed to finally be in­ terviewed. The remaining 3 failed to attend the interview due to different",
+      "source": "(At the Interface_Probing the Boundaries, 128) Barbara Braid, Hanan Muzaffar - Bodies in Flux_ Embodiments at the End of Anthropocentrism-Brill _ Rodopi (2019) (1).pdf",
+      "chunk_index": 370,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.64128196,
+      "importance": 0.6985661387443542,
+      "final_score": 0.6412818431854248
+    },
+    {
+      "id": "89f9e1bb60ca622b9f5d0ed9",
+      "qdrant_id": "c438c9a3-be38-5b77-bcdd-3eab1283892e",
+      "text": "xiv Introduction guilty only of robbery or counterfeiting. While not all administered tox- ins, most are in some way connected with drugs. Th e heroine of the ﬁ rst serialized poison woman story in 1878 — singing street minstrel Omatsu, whose fresh face temporarily gained her reprieve from a meager living as a prostitute after the removal of class boundaries that had kept her in the poverty of an outcast class — is eventually ravaged by boils that no medi- cine can cure. Drugs are rendered useless against the illness of a woman of low origins who had grown accustomed to a middle - class lifestyle. Demon Oden allegedly prostituted for drug money. Th e medicine she procured for her leprosy - ridden husband kept him teetering on the verge of death until he was mysteriously administered a fatal dose. Night Storm Okinu of the same generation fell in love with a neighboring doctor cu…",
+      "source": "Christine L. Marran - Poison Woman_ Figuring Female Transgression in Modern Japanese Culture (2007, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 13,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6412794,
+      "importance": 0.7019414901733398,
+      "final_score": 0.6412793397903442
+    },
+    {
+      "id": "3ed12beec246d650eccd9df8",
+      "qdrant_id": "aa3dcbe1-4db0-505b-bd93-3621a81d5c24",
+      "text": "Proper treatment, pharmacologic and/or psychotherapeutic, can go a long way in improving quality of life for those coping with mental illness. Unfortunately, psychotropic medication used to mend the struggles of the mind can at times worsen sexual function- ing. Compounding this reality, adverse effects of drug treatment often goes unrecognized by prescribers and a paucity of data exists in the literature (Montejo et al., 2018). Psycho- therapeutic approaches have their own misgivings, as many clinicians disregard sexual health or the relational climate. All hope is not lost, as poor outcomes can often be avoided",
+      "source": "Katherine M. Hertlein_ Gerald R. Weeks_ Nancy Gambescia - Systemic Sex Therapy-Routledge (2020).pdf",
+      "chunk_index": 146,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6406223,
+      "importance": 0.7034187912940979,
+      "final_score": 0.6406223773956299
+    },
+    {
+      "id": "f92bf81b3fe51f215032cbc2",
+      "qdrant_id": "7a34c00b-0dd6-56e2-a182-ac28cbadd83c",
+      "text": "therapy models, history of Lybrido and Lybridos, 93 Mac, Juno, 152 MacKinnon, Catherine, 110–11, 193n4 male hypoactive sexual desire disorder (MHSDD), 84, 87–89, 121 Mamo, Laura, 93, 132 Markowitz, Sally, 12–13 Marsden, Dennis, 151n1, 169 Marx, Karl, 153 masculinization of sex, 137–39, 162 masochistic desire, 34, 78, 125, 191–92. See also parasexuality, submission, and BDSM Masters, William, 38–45, 73, 96, 116 masturbation, 127–29 McClelland, Sara, 108n1 McRuer, Robert, 19, 102, 144, 232–233 McWhorter, Ladelle, 12 medicalization: alternative wellness and neo- liberal self-medicalization, 178–79; Big Pharma and anti-pharmaceuticalization, 66, 93–94, 116–17; feminists against, 52–53, 116; history of, 18–19; pathologiz- ing-healing dialectic, 137–39. See also pharmaceuticals men and women, construction of differences between. See sexual difference Men Are from Mars, Women Are from …",
+      "source": "[Abnormativities_ Queer_Gender_Embodiment] Alyson K. Spurgas - Diagnosing Desire_ Biopolitics and Femininity into the Twenty-First Century (2020, Ohio State University Press) - libgen.li.pdf",
+      "chunk_index": 181,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.6406033,
+      "importance": 0.7050198316574097,
+      "final_score": 0.6406033635139465
+    },
+    {
+      "id": "d9c42086d5c42eb7af3ff384",
+      "qdrant_id": "40c273bb-c730-5d53-ba32-24260bf5dda1",
+      "text": "Pattatucci, A., 329, 341 Patterson, C., 329, 341 penis, 13, 24, 33, 62–64, 66–67, 71–72, 95, 101–102, 112–113, 116, 118, 132, 178, 180, 218, 291, 294, 304, 336–337, 339 Penley, C., 315, 320 Perrier, F., 246 Perry, B. D., 145–146 Perry, K., 237–238 perverse femininity, 71–74 Pfäfﬂin, F., 333, 341 phallus, 65, 71, 73, 79, 93–94, 110, 112–120, 122–124, 182, 218–222, 228–229, 237, 243, 246, 249, 290, 292, 302–308, 337 Picasso, P., 166, 173–177, 179 Pine, F., 113, 125 Pinkerton, S. D., 308, 316 piss see: urine Plaza, M., 244, 260 Pollard, R. A., 145–146 Pontalis, J. B., 130, 145, 213, 215, 300, 302, 311–312, 320 primitivism, 173 Prosser, J., 338, 342 queer theory, 154, 159, 261–264, 266–272, 274, 276, 279, 281, 285–290, 294, 301, 307, 309–310 Rank, O., 141–142, 146 Réage, P., 68, 78 Reich, W., 128–131, 133–142, 144–146, 285 Rey-Flaud, H., 12, 17 Rice, G., 330, 342 Rich, A., 270, 321 Rich, B. …",
+      "source": "Perversion Psychoanalytic PerspectivesPerspectives on Psychoanalysis (Dany Nobus  Lisa Downing (editors)) (Z-Library).pdf",
+      "chunk_index": 165,
+      "page": null,
+      "seed_hits": [
+        "irigaray-two-lips-sexual-difference-fluids"
+      ],
+      "raw_score": 0.68064064,
+      "importance": 0.7372248768806458,
+      "final_score": 0.6328089237213135
+    },
+    {
+      "id": "5418698f0c36b205b1a03bf3",
+      "qdrant_id": "3847f281-b58c-5ddd-a66b-064a11dc4749",
+      "text": "clinics, schools, and workplaces across the United States. This has occurred, he notes, despite that there is little evidence supporting the value of the practice in terms of the recognition or management of depression. Svolos explores this topic from a number of critical perspectives. He questions not only the aligned roles of the Medical-Industrial Complex and large pharmaceutical companies but also the broader psycho-economic discourse of worker productivity which has seen, as he puts it, “an extension of the Taylorist doctrine into the minds of workers”. As part of a succinct historical overview of various antecedents of depression screening, Svolos singles out Mental Health America, an organization that, despite its mis­ sion of promoting mental health, remains essentially a mental hygiene movement. The Lacanian dimension to Svolos’ critique becomes apparent when he reminds…",
+      "source": "Lacan on Depression and Melancholia -- Edited by Derek Hook and Stijn Vanheule -- Taylor & Francis (Unlimited), [N_p_], 2022 -- Routledge, Taylor & -- 9781000826715 -- f436cdc5c697a608b0107726ec57f913 -- Anna’s Arc.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.6862636,
+      "importance": 0.7421652674674988,
+      "final_score": 0.6248259544372559
+    },
+    {
+      "id": "499ea930992ca055502dd79a",
+      "qdrant_id": "86eed212-707d-583b-82b1-e7cc908c730a",
+      "text": "that the sequences seen thus far were urination. Because the BBFC consequently cut all similar examples of liquid being expelled from female genitals during sexual activity, or in combination with other proscribed activities, it was supposed that the BBFC denied the existence of, and discriminated against, female ejaculation. In 2009 a sex work called Women Love Porn was submitted to the BBFC. It was, in almost all respects, a conventional and straightforward ‘R18’ submission, except for one sequence in which ﬂuid is expelled from a woman’s genitals immediately fol- lowing oral sex, followed by a closer shot of more liquid being expelled from the same woman’s genitals. In line with the BBFC’s understanding of the interpretation of the OPA, a cut was written to remove the sequence in question. The distributor of Women Love Porn challenged the cut, arguing the sequence portrayed female ejaculation rather than urination, and should not therefore be considered obscene. The distributor",
+      "source": "Paul Johnson_ Derek Dalton - Policing Sex (2012, Routledge) - libgen.li.pdf",
+      "chunk_index": 376,
+      "page": null,
+      "seed_hits": [
+        "irigaray-two-lips-sexual-difference-fluids"
+      ],
+      "raw_score": 0.6803155,
+      "importance": 0.7350293397903442,
+      "final_score": 0.6243717670440674
+    },
+    {
+      "id": "950dfeca676ddc584fd2763e",
+      "qdrant_id": "dedd2470-f9ea-5fa6-a106-fb03584d33b6",
+      "text": "purview of her written work; I, for example, was familiar only with Speculum and This Sex Which Is Not One. Prior to and during our meetings, Luce prevailed upon us to read her work more broadly, explaining that we came dangerously close to misrepresenting her if we did not do so. In May, I intellectually under- stood and agreed with her point. Six months later, I have had the pleasure of more fully engaging with the texts discussed in this essay and, although I remain committed to and profoundly moved by the crystalline fury of her first two seminal texts, I can say with certainty that they do not adequately represent the full theoretical importance of Luce Irigaray. I chose to examine the concept of virginity for this essay because it best illumi- nates the progression in my own thinking since my trip to Nottingham. Virginity was on my mind during my fieldwork at the vulvar clinic, since all of the patients",
+      "source": "Irigaray, Luce_Green, Mary - Luce Irigaray_ teaching-Continuum (2008).pdf",
+      "chunk_index": 91,
+      "page": null,
+      "seed_hits": [
+        "luce-irigaray-this-sex-which-is-not-one-speculum"
+      ],
+      "raw_score": 0.73315257,
+      "importance": 0.7774192094802856,
+      "final_score": 0.6242790222167969
+    },
+    {
+      "id": "0b8c3afd41f6360a03d1e4d8",
+      "qdrant_id": "f715b931-85b0-5eb1-8e94-798ebc0f6485",
+      "text": "his time in the service, a kind of “f8 and be there” sensibility. He liked the work I was doing and gave me a key to the school darkroom, which meant I could go in anytime and print—and I did. Ken Jandel took a chance on a newbie like me and in his ex- marine corpsman style “trained” me into medical photography. God bless him—he had a way with surgeons like I’m sure he had a way with certain master sergeants. Gus Gustafson, the unofficial mayor of St. Paul and the eternal optimist, was the Norman Vincent Peale of photography; whenever I was down about the business, he would say “ah, no problem,” and whenever I had a question about what I would charge for some work he would say “just bill ’em.” Gus out and about was always a good sign. The other eternal optimist was Jim Czarniecki. Interested in what I was up to, he always had new ideas, and he was like that with many artists…",
+      "source": "Faust, Chris_ Faust, Chris_ Rothfuss, Joan - Nocturnes (2007, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.5992912,
+      "importance": 0.6890652775764465,
+      "final_score": 0.614830732345581
+    },
+    {
+      "id": "43a703aa4a01a1023b331a43",
+      "qdrant_id": "3b8bdba3-9beb-50d8-9313-6525df311eee",
+      "text": ",1 , 1·t of lOII\\lrainh that gmnn tl'< hllm< i<'ll<'l' ,tncl othl't mod<·rn ,uh t•fltun•s. Tht r.tl!•gorit·., of :'\\,\\tun· .111d Socit•t} '>tand .11 ib mot tis oril{ill.tl onwlot{ical donl<tin., in \"hkh <·xpl.lllcttion lll.t} legitim.ttd} gmund itM·If: l'lw nwclnn C:un~tinuiou , \\\\hie h. lil..t· tlH· Enf.{lish on<', i~ tlllwrittcll. do·afll} , 1·p.trau·., aturc from Sot it't} and f(>rbicb tht·it intermingling; and it like\\\\ i.-.1• , ,1hm., on· t\\\\o di ~ tiut t ~~·t., of prartin·-,, wh.n Lttoul t all-, ··purification'' and \"nwdi.llioll,\" whirh 11otlting may bridgl'. 111 lu broad ~trok t·~. nwdiaticm i~ th<' ron,trurti' t' work of' practice. a producti\\l: proces~ that docs uot discriminaw ,111ong thc material~ th.u may t'llllT into its t'Xjl<'t imt·ut,, it~ projn·t ~. it' tri al~. .uul \"hich pnTede~ tlw rawgori1.ation of atutT and Socil'ty. That catcgorization i~ (('tllll'll a purification, which rl'fc:r~ bmadly lO the \\\\Of'k of distiiJatiun, rft-aning",
+      "source": "[Nomikoi_ Critical Legal Thinkers] Kyle McGee - Bruno Latour_ The Normativity of Networks (2013, Routledge) - libgen.li.pdf",
+      "chunk_index": 225,
+      "page": null,
+      "seed_hits": [
+        "agamben-profanations-potentiality"
+      ],
+      "raw_score": 0.6684912,
+      "importance": 0.7297563552856445,
+      "final_score": 0.6096428632736206
+    },
+    {
+      "id": "1dfd79cbc57b5fe749485239",
+      "qdrant_id": "db397678-c7fc-55f1-80cc-c64951d793f6",
+      "text": "of identification, enriches his cultural memory, shares his prospectings. The perfecting of today's cameras liberates the user from worries about the exposure time, about focus, about aperture, about development. Tasks whose acquisition by the apprentice painter in the studio demanded huge experience (destroy bad habits, instruct the eye. the hand, the body, the mind, raise them to a new height) are programmed into the camera thanks to its refined optical, chemical, mechanical and electronic abilities. The amateur still has the choice of settings and subject. There too. he is guided by habits and connotations, but he can get free of them and seek out the unknown. Which he does. Rather than a tiresome recognition-process, amateur photography has become over the decades an instrument for prospecting and discovering, 120 REPRESENTATION, PRESENTATION, UNPRESENTABLE almost for ethnological enquiry. The old political function splits up, the ethnologist is a painter of little ethnic groups,",
+      "source": "Jean-FranCois Lyotard, Geoffrey Bennington, Rachel Bowlby - The Inhuman_ Reflections on Time (1992, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 346,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.68323195,
+      "importance": 0.7451044321060181,
+      "final_score": 0.5977377891540527
+    },
+    {
+      "id": "838537298e52e86887f46cb2",
+      "qdrant_id": "17dc99a0-f1a2-568b-9686-8a085c6f0f49",
+      "text": "Mohr, Dominic Pettman, McKenzie Wark, Josh Gunn, Alyssa Byrkit, James Ward Byrkit, and Spike Jonze for their help with images, facts, and general encouragement. Thanks to Howard Rheingold, Erik Davis, and Shane Mauss for answering my drug questions. Thanks to Godflesh, Jawbox, Deafheaven, Wolves in the Throne Room, Celtic Frost, and Stalaggh for inspiration. Michael Grasso deserves special mention for helping exten- sively during the editing process. Thanks also to Tariq Goddard, Josh Turner, and Johnny Bull at Repeater Books.",
+      "source": "Roy Christopher - Escape Philosophy. Journeys Beyond the Human Body-punctum books (2022).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.5832644,
+      "importance": 0.6788923740386963,
+      "final_score": 0.5967972278594971
+    },
+    {
+      "id": "78a21646405e5127576dcde6",
+      "qdrant_id": "b9a1805d-4ddd-57c4-a05d-2d96aceef60b",
+      "text": "C O N C L U S I O N 81 In one segment of Ron Athey's 1994 performance Excerpts from Four Scenes in a Harsh Life (at Patrick's Cabaret in Minneapolis), Darryl Carlton lay with his back to Athey.35 Wearing surgical gloves and using a scalpel, Athey carved a pattern into his African American co-performer's back. Intermittently throughout the process, which was based on an African tribal scarification ritual, Athey placed a fresh paper towel over the incision he was making, slapped the towel, pressed on it to cause the blood from Carlton's back to seep through, and thereby created blood prints. Other perform- ers then hung the prints on a clothesline that stretched over the heads of the viewers.36 In another segment of the performance, Athey pierced his own arm with hypodermic needles (which did not cause bleeding) and inserted needles into his scalp (which did, but the blood was not used f…",
+      "source": "O'Dell, Kathy - Contract with the skin _ masochism, performance art, and the 1970's (1998, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 330,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6300994,
+      "importance": 0.7012704610824585,
+      "final_score": 0.557212769985199
+    }
+  ]
+}

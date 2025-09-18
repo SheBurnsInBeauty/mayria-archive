@@ -1,0 +1,1217 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "elizabeth-grosz-volatile-bodies-corporeal-feminism",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "1eb67fa20d04a80f130b1b2a",
+      "qdrant_id": "0f0eff80-132f-5a85-bac3-5de6fb5c5fa6",
+      "text": "and psychoanalytic theories in order to propose the framework for a feminist politics of the body.77 Grosz detects a certain ideological suspicion of and theoretical aversion to the body within current feminism, which can be partly attributed to the biologism and essentialism of feminist theories in the 1970s and early 1980s. She argues instead for a theorization of the body that accounts for both its social and its psychic formation, for both the inscription of its external surface and the production of its internal, psychical operations. The body is, therefore, central in the formation of individual identity and is the site of the subject’s desires and fantasies, actions and behaviour. Once one rejects the perception of the body as a biologically determined and pre-cultural given and moves towards the conception of ‘embodied’ subjects, the way is opened for feminist interventions withi…",
+      "source": "Lynda Nead - The Female Nude (1992) - libgen.li.pdf",
+      "chunk_index": 287,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.81825083,
+      "importance": 0.835854709148407,
+      "final_score": 0.8182507157325745
+    },
+    {
+      "id": "6e6d0e1988f7d73f103f15ef",
+      "qdrant_id": "8e567b4e-b754-5b1c-88e9-7bb75b38b32f",
+      "text": "colour, have argued that ﬁghting globalisation, in other words an antiglobalisation movement, needs to be a cen- tral project of all of feminist theory, not just the respon- sibility of Third World/Two-Thirds World women, who have already been engaged in this struggle for years. Grosz, Elizabeth: white Australian feminist philosopher teaching in the US, specialising in philosophy of the body, space and becoming. Grosz is a leading theorist in em- bodiment. What makes her contribution to this area unique is the perspectives from which she approaches embodiment – space, time, biology. In her book Volatile Bodies: Toward a Corporeal Feminism (1994b) she puts the body at the centre of her analysis instead of using it instrumentally to help understand subjectivity. For Grosz the body is subjectivity. Grosz argues that bodies are ‘not inert; they function interactively and productively. They",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf",
+      "chunk_index": 147,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7998761,
+      "importance": 0.817402184009552,
+      "final_score": 0.7998760938644409
+    },
+    {
+      "id": "176e103d6b74b3bf67ec6dd5",
+      "qdrant_id": "5d29bdc1-942d-5cec-9194-30282056f106",
+      "text": "Feminist philosophers like Butler, Elisabeth Grosz, and Braidotti brought 71 Elizabeth Grosz, Volatile Bodies: Toward a Corporeal Feminism (Bloomington, IN: Indiana University Press, 1994), 155. 72 Diana Fuss, Essentially Speaking: Feminism, Nature, and Difference (New York: Routledge, 1989), 4.",
+      "source": "Zoë Roth - Formal Matters_ Embodied Experience in Modern Literature (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.79755515,
+      "importance": 0.8195731043815613,
+      "final_score": 0.7975550293922424
+    },
+    {
+      "id": "29db71d08fef7362d43d4e6b",
+      "qdrant_id": "e688a217-00f7-5838-8e50-e689179c49db",
+      "text": "Space, Time and Perversion marks a ground-breaking moment in the debate surrounding bodies and “body politics”. Elizabeth Grosz both celebrates and resituates the body in the space between feminism and philosophy, feminism and cultural analysis, feminism and critical thought. Exploring architecture, philosophy and, in a controversial way, queer theory, Elizabeth Grosz shows how these knowledges have stripped bodies of their specificity, their corporeality, and the vestigial traces of their production as bodies. She investigates the work of Michel Foucault, Teresa de Lauretis, Gilles Deleuze, Judith Butler and Alphonso Lingis, examining the ways in which the functioning of bodies transforms understandings of space and time, knowledge and desire. Elizabeth Grosz is Professor of Critical and Cultural Theory and teaches feminist theory, French philosophy and literary theory at Monash University. She is the author of Volatile Bodies (winner of",
+      "source": "Space, time, and perversion_ the politics of bodies -- Grosz, Elizabeth -- 1995 -- St Leonards, N_S_W__ Allen & Unwin -- 9781863739535 -- fc1bd003df0f35c118467fc56c225ce1 -- Anna’s Archive.pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.79738235,
+      "importance": 0.8167722225189209,
+      "final_score": 0.7973819375038147
+    },
+    {
+      "id": "d6ae1c0b40673ebd0b191380",
+      "qdrant_id": "56d747ce-40f6-5397-adfe-dcc9b022714b",
+      "text": "as being split over and over again in a rainbow of yet uncoded and ever so beautiful possibilities. (158) Echoing Irigaray, Braidotti notes that without recognition of differences, with only the celebration of sameness, there can be no wonder, no new- ness. It is only in the recognition of both the proliferation of differences and the embodied, material, sexually marked experience of subjectivity that significant change— political, social, metaphysical, philosophical can occur. Elizabeth Grosz and the Volatility of Embodiment In her work Volatile Bodies: Toward a Corporeal Feminism, Elizabeth Grosz (1994), like Braidotti, attempts a refiguring of subjectivity that posits the body as a central location of identity and agency. To place the body at the heart of subjectivity is to change our conceptions not only of subjectiv-",
+      "source": "Ann J. Cahill - Rethinking Rape (2001, Cornell University) - libgen.li.pdf",
+      "chunk_index": 113,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.79481125,
+      "importance": 0.820609986782074,
+      "final_score": 0.7948112487792969
+    },
+    {
+      "id": "b0053bc1549768e7dc9b0a0a",
+      "qdrant_id": "6375cd1a-3a09-5713-8002-deb131fe57f5",
+      "text": "Introduction 13 ence between concepts, images, institutions, and discourse are indistin- guishable from the perspective of desiring production. Bodies are what desire produces. Grosz's thought of volatile bodies, including but not privileging the human body, is an argument for a differantial relation- ship of nature and technology, body and machine, the virtual and the real. Rather than being in an oppositional or dialectical relationship, nature and technology, body and machine, the virtual and the real are interimplicated; culture is nature deferred, as is technology. Unlike But- ler, Grosz does not treat the body in terms of a radicalized social con- struction. Rather, for Grosz, bodies are given, in the Derridean sense, in specific modalities of materiality, and it is as such that they are en- gaged with cultural inscription devices such as racism, sexism, hetero- sexism, and ethnocentrism, with varying political effects.",
+      "source": "Clough, Patricia Ticineto - Autoaffection_ unconscious thought in the age of teletechnology (2000, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7791608,
+      "importance": 0.8075388669967651,
+      "final_score": 0.7791606187820435
+    },
+    {
+      "id": "34eed68a74d1e3ef034dae67",
+      "qdrant_id": "ef72cd10-15b3-5f7a-9771-0562b307afaf",
+      "text": "social role. It was also necessary because dominant (masculine) ways of thinking assumed that the body was separate from, and irrelevant to, the activities of the reason. It thus issued a challenge to men to write about their bodies. (For an overview of the body art emergence, see Shepherd and Wallis 2004; see also, for example, Jones 1998 and Schneider 1997. For a male response to feminism see, for example, Ihde 2002.) The feminist engagement made the body into a key topic, politically and theoretically. But no coherent position or set of values followed. In her overview of this feminist work Elizabeth Grosz identifies three different positions. ‘Egalitarian feminism’ tends to see the woman’s body as a limita- tion on her ‘capacity for equality’ while also giving her ‘special insight’. ‘Social constructionism’ makes a distinction between biology and the way it is represented, having as its project the insistence that ‘different cultural",
+      "source": "Simon Shepherd - Theatre, Body and Pleasure (2005, Routledge) - libgen.li.pdf",
+      "chunk_index": 13,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.776183,
+      "importance": 0.804539144039154,
+      "final_score": 0.776183009147644
+    },
+    {
+      "id": "9478fb5d6a42467b5bbab0e8",
+      "qdrant_id": "ca8b149e-a984-5da2-8726-4097e51986e9",
+      "text": "suggested that art could be viewed as a prosthetic, as an extension of the body that acts both as an erotic visual lure and as a shield against intimacy with an ‘other’. This view accords with Deleuze and Guattari’s notion of the body and with Elizabeth Grosz’s recommendation of their theory to feminists. As Grosz explained Their (Deleuze and Guattari’s) notion of the body as a discontinuous, nontotalizable series of processes, organs, ﬂows, energies, corporeal substances and incorporeal events, speeds and durations, may be of great value to feminists attempting to reconceive bodies outside the binary oppositions imposed on the body by the mind/body, nature/ culture, subject/object and interior/exterior oppositions. (Grosz 1994: 164) Grosz explained further that Following Spinoza, the body is regarded as neither a locus for a consciousness nor an organically determined entity; it is understood more in terms of what it can do, the things it can perform, the link-",
+      "source": "Helen McDonald - Erotic Ambiguities_ The Female Nude in Art-Routledge (2000).pdf",
+      "chunk_index": 109,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7723993,
+      "importance": 0.8142164349555969,
+      "final_score": 0.7723994255065918
+    },
+    {
+      "id": "ac749040bd69f983ef1447fa",
+      "qdrant_id": "512037a4-fe68-587b-bc42-778cefda2288",
+      "text": "affected. Relations therefore are the virtual links that a body can form with other bodies. A body here indicates merely a dosage and an assemblage of forces, a portion of spatio-temporally framed affects: it is a multiple phe nomenon. Grosz (1995a) expands feminist anti-humanism into the analysis of sex and sexuality, with reference to Deleuze and Guattari. She thus reads heterosexuality as a compulsory and dominant instance of power, and forces like misogyny and homophobia in terms of Molar or Majority formations that deny, diminish and humiliate a body’s potential to express its intensity, or level and degree of desire. This allows Grosz to argue that homophobia can be described as the negative, reactive force that separates a body from ‘what it can do’, from a level of activity and potentia that is considered excessive or transgressive. Coding lesbianism as the path of bec…",
+      "source": "Rosi Braidotti - Metamorphoses - libgen.li-1.pdf",
+      "chunk_index": 131,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7674778,
+      "importance": 0.8071357011795044,
+      "final_score": 0.7674779891967773
+    },
+    {
+      "id": "3a430f9ad4c9c0c574f2fe48",
+      "qdrant_id": "a8777d3b-e038-5783-a1e7-77bec2c35f06",
+      "text": "women to occupy the place of men’s other. (1994b, 76) Not only does Grosz establish a rationale for the move from psychoan- alytic lack to Deleuzian production, but it is also possible to detect the move towards affect in her use of Deleuze. Her attention to desire as a movement, to something that causes bodies to move or ‘to do’, sets the scene for later work that concentrates more specifically on this move- ment, this becoming. Elspeth Probyn, for example, draws on Grosz’s work to think more specifically about what desire does, how desire ‘moves us at different times and in different ways to engage’ (1996, 151). In her figuration of ‘becoming-horse’, for instance, she considers desire as movement in an attempt to construct a queer use of desire. Instead of conceiving desire as pointing towards one object (person, place or thing), and therefore falling into the negative polemics of lack, Probyn wants to consider the movement inherent to desire. Like Grosz, she turns to Deleuze, more",
+      "source": "Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf",
+      "chunk_index": 98,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7641151,
+      "importance": 0.8116206526756287,
+      "final_score": 0.764115035533905
+    },
+    {
+      "id": "3dcf4aa00f9d9ac609e2054e",
+      "qdrant_id": "b4cdffd6-9ede-5543-8fec-1d77c607574a",
+      "text": "as Butler or Liz Grosz the commitment to feminism is fully consonant with an analysis that lends itself to a fuller understanding of corporeality in whatever form it might take. The arguments traced out by postmodernist feminists are at times highly abstract, but as the work has moved further away from its often matter­ indifferent theoretical sources it is less likely to lose sight of the body as a lived entity, or of the notion that 'language and materiality are fully embedded in each other' (Butler 1993: 69), as Butler herself puts it. That move away from a purely textual analysis is even more evident in the feminist take-up of the phenomenology of Merleau-Ponty (1962), in which the being-in-the-world of the subject is intricately and irreducibly bound up with the constitution and extension of the body. It is a model in which the Cartesian mind/body split has no place. In the phenomenological tradition, the structure of the self is",
+      "source": "Feminist Theory and the Body _ A Reader -- Janet Price and Margrit Shildrick (eds_) -- Edinburgh University Press, New York, 1999 -- Routledge -- 9780415925655 -- 1ae20c7019eb076d1763ba7b614616e3 -- Anna’s Arch (1).pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism",
+        "judith-butler-gender-performativity-gender-trouble-bodies"
+      ],
+      "raw_score": 0.7805847,
+      "importance": 0.820235550403595,
+      "final_score": 0.7584573030471802
+    },
+    {
+      "id": "3df0bf1644c6b5e89552324a",
+      "qdrant_id": "bb788139-99a7-5f98-bfc1-4351eadc3b50",
+      "text": "must listen to the inflections of her voice before being able to embody his. Mais, pour me veoir contente a mon desir, Vouldrois je bien faire un tel deplaisir A Apollo, et aussi a ses Muses, De les laisser privees, et confuses D'un, qui les peult toutes servir a gr6, Et faire honneur a leur hault choeur sacre? In this text, then, woman becomes central to poetic creation through the sublimation of the erotic and the regendering of desire into a ritual of cultural production. In essence, the woman who has been sentenced to write by the scevian example now ironically sentences herself to immortality by facilitating the establishment of a structure of exchange that undermines the totalizing effect of individual mastery. At the moment of apparent retreat, du Guillet attributes to herself the power to endow Apollo with deity while at the same time permitting Sceve to find the path to spiritua…",
+      "source": "(Cambridge Studies in French 33) Lawrence D. Kritzman - The Rhetoric of Sexuality and the Literature of the French Renaissance-Cambridge University Press (1991).pdf",
+      "chunk_index": 80,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival",
+        "hélène-cixous-book-of-promethea-love-as-world-creation"
+      ],
+      "raw_score": 0.75575066,
+      "importance": 0.7996228337287903,
+      "final_score": 0.7557505369186401
+    },
+    {
+      "id": "20f1f24227e8ef9f8276de77",
+      "qdrant_id": "54606f2f-902f-5f47-88ea-5d3d4d6dd624",
+      "text": "ELIZABETH GROSZ is a professor of women’s and gender studies at Rutgers University. She is the author of The Nick of Time: Politics, Evolution, and the Untimely; Architecture from the Outside: Essays on Virtual and Real Space; Space, Time, and Perversion: Essays on the Politics of Bodies; and Volatile Bodies: Toward a Corporeal Feminism. Library of Congress Cataloging-in- Publication Data Grosz, E. A. (Elizabeth A.) Time travels : feminism, nature, power / Elizabeth Grosz. p. cm. — (Next wave) Includes bibliographical references and index. isbn 0-8223-3553-0 (alk. paper) — isbn 0-8223-3566-2 (pbk. : alk. paper) 1. Time. 2. Feminism. I. Title. II.Series. bd638.g745 2005 115—dc22 2005000323",
+      "source": "Elizabeth Grosz (editor)_ Inderpal Grewal (editor)_ Caren Kaplan (editor)_ Robyn Wiegman (editor) - Time Travels_ Feminism, Nature, Power-Duke University Press (2005).pdf",
+      "chunk_index": 174,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7538047,
+      "importance": 0.782677948474884,
+      "final_score": 0.7538045644760132
+    },
+    {
+      "id": "e744123b1ae8dcffe0c73c54",
+      "qdrant_id": "f830d722-71db-576c-88ae-41d44f01ee6c",
+      "text": "overlapping discourses which measure the truth, health or nature of bodies through the skin. It is one of the tasks of this book to account for the cultural function of this skin fetishism. In so far as we frame this book around the social and cultural production of the skin, we follow the work of Elizabeth Grosz, Rosi Braidotti and Judith Butler. In Grosz’s Volatile Bodies, the challenge to mind/body dualism also challenges the surface/depth model of subjectivity (1994: 218). For Grosz, following from Gilles Deleuze and Felix Guattari (1992), embodiment involves the intensity of desires and ﬂows which themselves produce the eﬀect of ‘depth’ or interiority. In Rosi Braidotti’s work, also in dialogue with Deleuze and Guattari, the body is under- stood in terms of folding: ‘it is a folding-in of external inﬂuences and a simul- taneous unfolding outwards of aﬀects’ (2000: 159). For Judith Butler, taking a diﬀerent route through Foucault and Lacan, the ‘materialisation’ of the body is",
+      "source": "Thinking Through the Skin (Sara Ahmed, Jackie Stacey) (Z-Library).pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74964213,
+      "importance": 0.8046666383743286,
+      "final_score": 0.7496421337127686
+    },
+    {
+      "id": "af8efc3342e849d1005867bc",
+      "qdrant_id": "76b09a90-7fb6-5061-aa6c-d9c8999c941e",
+      "text": "gaged with cultural inscription devices such as racism, sexism, hetero- sexism, and ethnocentrism, with varying political effects. In this sense Grosz's treatment of bodies makes explicit the dynamism of matter that in Butler's treatment of bodies remains implicit. For Grosz, all bodies are virtualities of this dynamism; they are images in process, lines of flight to the future. This dynamism, which Cheah has referred to as the subindividual, finite forces of mattering, is for Grosz the de- siring of postpersonal thought. Her work on bodies turns into the thought of bodies as desiring production, bodies as machinic assem- blages, bodies as the movement of forces. For example, her treatment of architecture suggests a shift from the structural to the mobile, to the speed of flows of singularities into and through bodies, where desire is the movement. Grosz's work, in my mapping of it, sugg…",
+      "source": "Clough, Patricia Ticineto - Autoaffection_ unconscious thought in the age of teletechnology (2000, University of Minnesota Press) - libgen.li (1).pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74944377,
+      "importance": 0.7891073822975159,
+      "final_score": 0.7494437098503113
+    },
+    {
+      "id": "9743961bfabdc8c4b05176ca",
+      "qdrant_id": "cff5a709-dca5-5d83-a371-3815c75009ec",
+      "text": "excessive or transgressive. Coding lesbianism as the path of becoming, Grosz emphasizes the challenge it throws to the status quo. Essence being nothing more than the sedimentation of repeated habits, the repetition of the famil iar sexual gestures is socially encouraged over experimentation and risk. In contrast to this, Grosz points to gay and lesbian sexualities as expressions of becoming-minoritarian, which show great promise for the project of dis locating the humanistic subjects. She however avoids lesbian essentialism by stressing that what matters for the politics of sexual radicals is not merely to claim counter-identities, albeit identities they taught us to despise. What matters is how one lives and renders one’s straightness as queer, one’s lesbi anism as queer. It is the processual becoming that matters here. Far more committed to re-figuring queer sexuality than to philosophical nomadism,",
+      "source": "Rosi Braidotti - Metamorphoses - libgen.li.pdf",
+      "chunk_index": 132,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7481569,
+      "importance": 0.7877532243728638,
+      "final_score": 0.7481568455696106
+    },
+    {
+      "id": "1b910851d2313363438b9731",
+      "qdrant_id": "fba89604-4204-5e52-9b19-0a1325b72a7c",
+      "text": "as ‘abstract sex’. Parisi’s work illustrates a shift in terms of thinking about desire—a move towards thinking about the ways in which advances in contemporary science and in media/information technologies change our conceptions of sex and our relation to it. Finally, I want to suggest that we can understand the proliferation of desire in new media technologies in terms of Deleuzian assemblages to consider machinic productions of desire. In Volatile Bodies (1994), Elizabeth Grosz points out that ‘while psychoanalysis relies on a notion of desire as lack, an absence that strives to be filled through the attainment of an impossible object, desire can instead be seen as what produces, what connects, what makes machinic alliances. Instead of aligning desire with fantasy and opposing it to the real, instead of seeing it as a yearning, desire in an actualization, a series of practices, bringing things together or separating them, making machines, making reality’ (1994a, 165).",
+      "source": "Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf",
+      "chunk_index": 560,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7451493,
+      "importance": 0.7925108671188354,
+      "final_score": 0.7451493144035339
+    },
+    {
+      "id": "6cdedbe506f756f7bc2c5251",
+      "qdrant_id": "1beb0052-6212-5197-95ca-46e3fe6a3b6f",
+      "text": "Cultural Criticism, Baltimore, 1978, 43. 24 Theresa de Lauretis, Technologies of Gender: Essays on Theory, Film, and Fiction, Bloomington, 1987, 2. 25 Kenneth Clark, The Nude: A Study of Ideal Art, London, 1956, 64. 26 Elizabeth Grosz, Volatile Bodies: Toward a Corporeal Feminism, Bloomington, IN, 1994, 98. S E X I N G T H E C A N VA S 30",
+      "source": "Dana Arnold (ed.) - Art History_ Contemporary Perspectives on Method (2010, Wiley-Blackwell) [10.1002_9781444324716] - libgen.li.pdf",
+      "chunk_index": 137,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74484956,
+      "importance": 0.7797934412956238,
+      "final_score": 0.7448495626449585
+    },
+    {
+      "id": "71e547e304953be452e9ab85",
+      "qdrant_id": "96dc415d-372c-5feb-a8bd-cef08addfb2f",
+      "text": "of the Gothic, and the Modern. In fact, the interest of “Street Haunting” in otherness and transgression of boundaries results in a text that is simultane- ously modernist and Gothic. Woolf ampliﬁes the mirrored relation of these seemingly distinct genres, which both seek to disrupt convention and cer- tainty, transgress boundaries, confront the hauntings of the past, accommo- date the fragmentation of the self, and celebrate the new. NOTES 1. Elizabeth Grosz has pointed out that representations of the body politic presume “an organized cohesive, integrated body, regulated by reason” as the ideal inhabitant of the well-ordered modern city. Grosz argues that when this rational order breaks down, what is produced instead is “a body depleted, abandoned, and derelict insofar as it is cast out- side those nets” (Space 107). 2. Woolf ’s writings examine the shift in the twentieth century away …",
+      "source": "Ruth Bienstock Anolik - Demons of the Body and Mind_ Essays on Disability in Gothic Literature (2010).pdf",
+      "chunk_index": 125,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7439486,
+      "importance": 0.783625602722168,
+      "final_score": 0.7439485788345337
+    },
+    {
+      "id": "c2ce4c8039f22134152ed863",
+      "qdrant_id": "474b5ccb-f45d-5bae-9591-49cfb2e601ed",
+      "text": "phallogocentrism; his deconstructive reading practice, which focuses on the excluded and its constitutive role; his commitment to reading as a political act, that is, his emphasis on the necessary relationship between the theoretical and the practical; the confronting way in which his work forces feminism to recognise its position as potentially constricted by its relativity to the power structure it challenges; and, his replacement of the traditional philosophical and psychoanalytic representation of Woman as lack with Woman as excess and undecidability, as that which challenges metaphysical logic of self-identity and presence.6 Alongside Grosz, Spivak takes her place as another key feminist open to the possibilities of deconstruction, while at the same time recognising the femi- nist limitations of Derrida’s thought. As elaborated above, in ‘Love Me, Love my Ombre, Elle’, she…",
+      "source": "Sarah Dillon - Deconstruction, Feminism, Film (2022, Edinburgh University Press) [10.1515_9781474434201] - libgen.li.pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7430488,
+      "importance": 0.7860344052314758,
+      "final_score": 0.7430486679077148
+    },
+    {
+      "id": "8b534e7b239fd3b443ebda38",
+      "qdrant_id": "0d2c9330-86b5-579a-90fa-6809ab7f1771",
+      "text": "The project of post-structuralist feminists of difference is a radical and far-ranging one, for they seek to rewrite the very grounds of representation in order to create a more ethical (feminine) culture.3 In this respect, in Je, Tu, Nous: Towards a Culture of Difference (1993c) Irigaray has called for the radical transformation of a wide range of disciplines and knowledge in order to undo the violence associated with a phallocentric repression of the (femi- nine) body. Likewise, in Volatile Bodies: Towards a Corporeal Feminism (1994), Grosz has argued that phallocentric representa- tional systems are disembodied: Western concepts of space and time, for example, are argued to be isomorphic reflections of a disembodied masculinity – her goal is to enflesh such systems so that they represent a more fluid corporeality. All in all, it is about challenging the denial of the body within Weste…",
+      "source": "Abigail Bray - Helene Cixous_ Writing and Sexual Differences (Transitions) (2004) - libgen.li.pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7420734,
+      "importance": 0.7872337698936462,
+      "final_score": 0.7420735359191895
+    },
+    {
+      "id": "8032480f8f409eed7c362972",
+      "qdrant_id": "103be84c-ccee-5dfc-8611-72533f22deb9",
+      "text": "says, ‘It is not adequate to simply dismiss the category of nature outright, to completely retranscribe it without residue into the cultural: this in itself is the monist, or logocentric, gesture par excellence.’ The dialectic has to be strategi- cally preserved: ‘In the face of social constructionism, the body’s tangibility, its matter, its (quasi) nature may be invoked; but in opposition to essentialism, biologism, and naturalism, it is the body as cultural product that must be stressed’ (1994: 21, 23–4). Grosz’s language here emerges out of political debates about sexuality and gender in the mid–1980s. Crudely put, an essentialist position would suggest that, say, a woman is more nurturing and inclined to peace than a man because of her female nature; a social constructionist would say that she had learnt these values historically through her positioning, for example, in family and labour market. The urgency of the political debates of that period",
+      "source": "Simon Shepherd - Theatre, Body and Pleasure (2005, Routledge) - libgen.li.pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7418114,
+      "importance": 0.7837960124015808,
+      "final_score": 0.7418113350868225
+    },
+    {
+      "id": "fb22f3c6663b2fc5311f6ce4",
+      "qdrant_id": "616d745b-33d7-5a1f-a1cc-ee0de759ef95",
+      "text": "exempliﬁ ed by the ideas of Butler and Grosz, I explore the involvement of feminine energies – symbolized in Jungian terms as Eros/Luna – in the lived practices of art and economy. Expanding on Kerslake’s (2007, p. 69) claim that Deleuze ‘was, at least one point in his career, a Jungian’, I will explore these connections with a special emphasis on Deleuze and Guattari’s under- standing of a molecular feminine energy, also using Grosz’s work to analyze the connections between sexual difference, aesthetics, and political change. I make a case for considering an archetypal feminine energy as a force that is different from, but related to, the actual bodies of women. The ener- gies of sexual difference, including those considered ‘feminine’, are affective forces that ﬂ ow across and through all bodies, inﬂ uencing not just aesthetic, but political sensibilities. Viewed in this manner, it becomes clear that such",
+      "source": "(Research in Analytical Psychology and Jungian Studies) Barbara Jenkins - Eros and Economy_ Jung, Deleuze, Sexual Difference-Routledge (2016).pdf",
+      "chunk_index": 93,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7412797,
+      "importance": 0.8015962839126587,
+      "final_score": 0.7412796020507812
+    },
+    {
+      "id": "3b54e0a77de95e16f9c38f26",
+      "qdrant_id": "d53d9e21-6353-5de9-8a4c-af294b7ec8d1",
+      "text": "of the same university for her lively graduate seminars in feminist theory. I was fortunate to be one of the early researchers to benefit from one-on- one tutorials with Professor Komori Y-oichi, whose generosity with for- eign students has since become legendary. I am grateful to him for the ses- sions that resulted in my first readings of many of the texts discussed here, and for the example of his commitment to the politics of close reading. My deepest debt of gratitude is to two feminist mentors. Elizabeth Grosz was my senior colleague in the Department of Comparative Literature at SUNY Buffalo. She offered the graduate seminar on Irigaray that trans- formed my thinking about sexual difference and psychoanalysis, and gave me the confidence to strike out in a new and, for my personal feminism, much more meaningful direction. I cannot thank her enough for the force of her thinking and the sustenance of her support. Elizabeth Weed was",
+      "source": "Margherita Long - This Perversion Called Love_ Reading Tanizaki, Feminist Theory, and Freud (2009, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74098057,
+      "importance": 0.7813662886619568,
+      "final_score": 0.7409805059432983
+    },
+    {
+      "id": "a76ec787ec148b1923c2e836",
+      "qdrant_id": "93fbf258-9c8c-5502-aad6-b47bd91ff8ec",
+      "text": "Elizabeth Grosz Feminism, Materialism, and Freedom Concepts of autonomy, agency, and freedom - the cen- tral terms by which subjectivity has been understood in the twentieth century and beyond- have been central to feminist politics since its theoretical reeruption in the writings of Simone de Beauvoir. While these concepts are continually evoked in feminist theory, however, they have been rarely defined, explained, or analyzed. Instead they have functioned as a kind of mantra of liberation, a given ideal, not only for a politics directed purely to feminist questions but to any politics directed to class, race, or na- tional and ethnic struggles. I propose in this essay to pro- vide an opening up of these terms that are so commonly used to define subjectivity or identity, a problematization oftheir common usage in feminist and other political dis- courses, and their recasting in the term…",
+      "source": "Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 439,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74036276,
+      "importance": 0.777477502822876,
+      "final_score": 0.7403627038002014
+    },
+    {
+      "id": "0d928f178b16ca26e50bef30",
+      "qdrant_id": "681ad367-60fd-5735-a8ea-a052faa4f9e1",
+      "text": "stomach, “an” eye, “a” mouth: the indefinite article does not lack anything; it is not indeterminate or undifferentiated, but expresses the pure determination of intensity, intensive difference’ (Deleuze and Guattari 2004: 182). Through such impersonal regions we may locate the intensities and vibrations that Grosz recognises as the creative assemblages of forces discussed in Chapter 3. As I noted there, Grosz sees these forces as affecting bodies for pleasure without higher purpose. No aim, no goal, but the vibration of being itself. A becoming-­woman of orgasm. Conclusion Between them, Anti-­Oedipus and A Thousand Plateaus establish ways of criticising and analysing capitalism in terms of its de-­ and recoding of flows and as an apparatus of capture. A temporally itinerant movement through territory in primitive societies is cap- tured and binds worker to land in a despotic …",
+      "source": "[Plateaus - New Directions in Deleuze Studies] Frida Beckman - Between Desire and Pleasure_ A Deleuzian Theory of Sexuality (2013, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 647,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7400038,
+      "importance": 0.7876679301261902,
+      "final_score": 0.7400039434432983
+    },
+    {
+      "id": "4fe8d1fac720538bd183c828",
+      "qdrant_id": "a20f9954-691b-523c-a49c-5f76c6dc96a4",
+      "text": "so doing—in demonstrating within horror film feminist concepts such as Moira Gatens’s imaginary body, Elizabeth Grosz’s volatile body, and Rosi Braidotti’s monstrous body, all ideas drawn from the “schizoid” philosophy of Gilles Deleuze and Felix Guattari—this book aims to radicalize how difference is conceived in both feminism and film analysis. If this book",
+      "source": "Sunny Hawkins - Deleuze and the Gynesis of Horror_ From Monstrous Births to the Birth of the Monster (2020, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7364668,
+      "importance": 0.7792453169822693,
+      "final_score": 0.7364668846130371
+    },
+    {
+      "id": "897c8a1fca1f57392aa20f0c",
+      "qdrant_id": "a07857f5-e65d-527c-a17e-de15df9ccf34",
+      "text": "N.Y.: Cornell University Press, 1993); Elizabeth Grosz, Volatile Bodies: Toward a Cor- poreal Feminism (Bloomington: Indiana University Press, 1994); Naomi Schor and Elizabeth Weed, eds., The Essential Difference (Bloomington: Indiana University Press, 1994). 3. Works in this tradition include Marilyn Frye, The Politics of Reality: Essays in Feminist Theory (Freedom, Calif.: Crossing, 1983); Sara Ruddick, Maternal Thinking: Towards a Politics of Peace (Boston: Beacon, 1989); Sandra Harding, Whose Science? Whose Knowledge? (Ithaca, N.Y.: Cornell University Press, 1991). 4. Andrea Nye, Words of Power: A Feminist Reading of the History of Logic (New York: Routledge, 1990). 5. Including Karen Warren, “Critical Thinking and Feminism,” Informal Logic 10, no. (Winter 1988); Trudy Govier, “When Logic Meets Politics: Testimony, Distrust, and Rhetorical Disadvantage,” Informal Logic 15, no. 2 (Spr…",
+      "source": "Rachel Joffe Falmagne (editor), Marjorie Hass (editor) - Representing Reason_ Feminist Theory and Formal Logic (2002, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7357395,
+      "importance": 0.7791480422019958,
+      "final_score": 0.7357394099235535
+    },
+    {
+      "id": "eae29a8b3aec3ef9868eef5c",
+      "qdrant_id": "7df0a813-3355-5406-b228-b023e6e0dd60",
+      "text": "expecting to find his wife’s body. Like the phantom limb sufferer, the protagonist does not feel the body, but “the ‘place’ where that body belongs” (Krasner 2004, 226). Here, “[l]iterary portrayals of grief that emphasise embodiment present the bereaved with compromised bodies, [… failing] to adjust to the physical postures and environments their losses have left to them” (Krasner 2004, 226). Krasner’s article is helpful in foregrounding a more general view of how an environmentally imposed loss can affect physical existence. However, while Krasner focuses on the loss of loved ones, I do not explicitly discuss grief. I am concerned with the splits between fragmentation and wholeness, and the mind and body, which Elizabeth Grosz discusses in Volatile Bodies: Toward a Corporeal Feminism (1994). Grosz weaves the phantom limb example into a discussion of how the body incorporate…",
+      "source": "Monika Loewy - Phantom Limbs and Body Integrity Identity Disorder_ Literary and Psychoanalytic Reflections-Routledge (2019).pdf",
+      "chunk_index": 134,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.73402137,
+      "importance": 0.7898064851760864,
+      "final_score": 0.7340212464332581
+    },
+    {
+      "id": "a3466df7505bff3fe91fea45",
+      "qdrant_id": "9e7560a6-7dd5-58ed-a369-41d7fde5f904",
+      "text": "McWhorter, Val Plumwood, Susan Squier, Lynda Birke, Mette Bryld, Nina Lykke, Gloria Anzaldúa, and others. We hope that this collec- tion will encourage readers to forge their own connections between the essays included here and the work of other feminist scholars who insist upon the meaning, force, and value of materiality. The essays in the ﬁrst part of the book, “Material Theory,” outline the broad parameters of the issues confronting material feminisms. Elizabeth Grosz takes on an issue that has been taboo in feminist ac- counts of science—Darwin’s evolutionary theory—and argues that it can be useful to feminism. Grosz argues that feminists need a complex and subtle account of what biology is and how biology facilitates and makes possible cultural existence. To achieve this goal, she asserts, feminists should incorporate the most inﬂuential biological theory of the nineteent…",
+      "source": "Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7339158,
+      "importance": 0.781251072883606,
+      "final_score": 0.7339158058166504
+    },
+    {
+      "id": "bf5894e2d9865d725b4e596e",
+      "qdrant_id": "aaddad24-e4d7-5505-bd20-a29c8e3723ca",
+      "text": "the false dilemma of having to choose between a romanticized valori- zation of bodies and natures or an anti-essentialist ﬂight from the grounds of our being. As a particularly vivid example of trans-corporeal space, toxic bodies insist that environmentalism, human health, and social justice cannot be severed, since they are all continually emergent from zones of intra-activity (in Barad’s terms) that are as biological as they are political, as material as they are social. Alaimo promotes trans-corporeal feminisms that encourage us to imagine ourselves in constant interchange with the “environment” and, paradoxically, per- haps, to imagine an “epistemological space” that allows for both the unpredictable becomings of other creatures and the limits of human knowledge. Catriona Mortimer-Sandilands begins her essay, “Landscape, Memory, and Forgetting: Thinking through (My Mother’…",
+      "source": "Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf",
+      "chunk_index": 48,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.73340225,
+      "importance": 0.7798492908477783,
+      "final_score": 0.7334020733833313
+    },
+    {
+      "id": "a92e8d66ae9fb7b6060b98b7",
+      "qdrant_id": "a37bd68a-b7db-56bb-99af-6096340f0bf5",
+      "text": "Victoria: The Moving Image. Gordon, S. 2004. Breaking the Waves and the negativity of Melanie Klein: Rethinking the female spectator. Screen, 45(3), 206–225. Grosz, E. 1989. Sexual Subversions: Three French Feminists. St. Leonards, New South Wales: Allen and Unwin. Grosz, E. 1990. Jacques Lacan: A Feminist Introduction. London: Routledge. Grosz, E. 1994. Volatile Bodies: Towards a Corporeal Feminism. Bloomington, IN: Indiana University Press.",
+      "source": "[Film Philosophy at the Margins] McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics (2014, Ashgate Pub Co) - libgen.li.pdf",
+      "chunk_index": 607,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.733305,
+      "importance": 0.7769787907600403,
+      "final_score": 0.7333049178123474
+    },
+    {
+      "id": "fa2a4ce41d6a2e25d172f8bc",
+      "qdrant_id": "9515c78a-3a46-51b0-8a98-640a6daba872",
+      "text": "and reposition a concept of gender for theorizing social structure. I begin 6. Elizabeth A. Grosz, Volatile Bodies: Toward a Corporeal Feminism (Bloomington, Ind.: Indiana University Press, 1994), 236−48. 7. Sonia Kruks, Retrieving Experience: Subjectivity and Recognition in Feminist Poli- tics (Ithaca, N.Y.: Cornell University Press, 2001).",
+      "source": "On Female Body Experience Throwing Like a Girl and Other Essays (Iris Marion Young) (Z-Library).pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.73215413,
+      "importance": 0.775921642780304,
+      "final_score": 0.732154130935669
+    },
+    {
+      "id": "75e61ab61fe97deb112162b7",
+      "qdrant_id": "8042fb36-cfac-5fe5-b3d1-51eecd22f8ad",
+      "text": "30 Jeanette Winterson’s Narratives of Desire on gender, sexuality and identity. Her texts refashion normative material into alternative situations through sensuous and sensual language, revealing the fluid and diverse pleasures of the body and its parts. Grosz addresses very adroitly the oppositions and contradictions that are, literally, embodied: The body is a most peculiar ‘thing’, for it is never quite reducible to being merely a thing; nor does it ever quite manage to rise above the status of thing. Thus it is both a thing and a nonthing, an object, but an object which somehow contains or coexists with an interiority, an object able to take itself and others as subjects, a unique kind of object not reducible to other objects. Human bodies, indeed all animate bodies, stretch and extend the notion of physicality that dominates the physical sciences, for animate bodies are ob…",
+      "source": "Shareena Z. Hamzah-Osbourne - Jeanette Winterson’s Narratives of Desire_ Rethinking Fetishism (2021, Bloomsbury Academic) [10.5040_9781350178069] - libgen.li (1).pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.73193544,
+      "importance": 0.7814712524414062,
+      "final_score": 0.7319352626800537
+    },
+    {
+      "id": "4009f67685a6d27f75025583",
+      "qdrant_id": "65b28408-acc8-5d03-9c80-d5cecfd2e02a",
+      "text": "foundational to the way in which Empire developed. In drawing on Foucault’s concept of “biopolitics” she is able assess why the “microsites” of intimate spaces intersect with the macropolitics of imperial power. Stoler’s work high- lights the intersection of gender, class and race in colonial cultures and she documents “the racial politics of colonial rule” in French Indochina and the Dutch East Indies. Stoler is of course not the only feminist analyst to have investigated colonial cultures, looking at the intersection of gender and ethnic- ity. The work of Levine (2004, 2004a), Wilson (2004) and Bush (1990) also offer important contributions to this debate which I consider in Chapter 4. As Wilson (2004: 20) shows: In garrisons, forts, and factories, plantation societies and urban centres, the utilization of enslaved indigenous, subaltern, and “respectable” wom- en’s bodies, the …",
+      "source": "[Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf",
+      "chunk_index": 576,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.72964877,
+      "importance": 0.7778709530830383,
+      "final_score": 0.7296487092971802
+    },
+    {
+      "id": "df3a267192cfe49824a7b7b5",
+      "qdrant_id": "7d07771b-e241-5867-af3d-fc695a7bd139",
+      "text": "tion to the postmodern. Deleuze is neither dismissed as one more sign of a postmodern malaise of dehumanisation. Nor is Deleuze celebrated as the harbinger of post-human cyber-liberation. Braidotti charts the conflicting possibilities for the future enabled by what her essay explores as the ‘teratological’ imaginary. Elizabeth Grosz, whose work on Deleuze and the body has already transformed feminism, now uses Deleuze to address the question of transformation itself. For Grosz, the issue presented by Deleuze has moved from the specificity of bodies and desires, to the movement of the virtual. Grosz’s argument is not a straight- forward uncovering of a project or deep meaning in Deleuze’s texts. Rather, Grosz weaves her own reading of Bergson back through Deleuze’s use of Bergson to ask whether there might be a politics of the future. Given the ostensible demise of the emancipationist his…",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and feminist theory (2000, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74598765,
+      "importance": 0.7953303456306458,
+      "final_score": 0.7288863062858582
+    },
+    {
+      "id": "df60ebcbf3973e3f22ebbd68",
+      "qdrant_id": "97afa6c5-4c47-5d23-a84f-62798249d31b",
+      "text": "and literate properties of the O because I do not want to seem as though I'm uncritically embracing a return to oral language and aligning it with feminine or feminist expression. Like Elizabeth Grosz who, in her book Volatile Bodies, worries that her arguments risk \"alarming some feminists\" who fear that associations of women and body may only enforce patriarchal beliefs, I, too, am concerned that my associations of feminist critical writing and a reverberating, sounding language run similar risks. Exploring these connections should not become either uncritically celebrated or critically taboo forms of inquiry. I am well aware of the dangers of aligning feminist writing with a specific language traditionoral or literate, gynocentric, maternal, or simply \"feminine.\" But I take these risks because I am also aware of the dangers of shying away from certain subjects because of what they mig…",
+      "source": "[SUNY Series in Feminist Criticism and Theory] Ruth Salvaggio - The Sounds of Feminist Theory (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7285253,
+      "importance": 0.7709863781929016,
+      "final_score": 0.7285251617431641
+    },
+    {
+      "id": "32752312e59266536060dc35",
+      "qdrant_id": "0256cdf3-1219-5ab7-8bfa-7fdf89f42b02",
+      "text": "this crisis resonate throughout feminist theory, its keen ear and taut eardrum, its intellectual commitment to unruly sounds. Coda When I first began to ponder connections between sonorous language and feminist critical thought, the body emerged as a kind of linchpin, linking the two discourses through their mutual reliance on somatic articulation. At that time, some years ago, feminist critics tended to agree on what constituted the female body. How things have changed. In her essay on a \"Politics of Location,\" Adrienne Rich called for a \"moratorium on saying 'the body,'\" and urged instead an attention to particular bodies and lived experience (215). But were even these particular bodies firm, unchangeable substances? Elizabeth Grosz shifts the inquiry further by questioning the generalized association of women and body, arguing that specific bodies are \"volatile\" and continually inscri…",
+      "source": "[SUNY Series in Feminist Criticism and Theory] Ruth Salvaggio - The Sounds of Feminist Theory (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 294,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.72742105,
+      "importance": 0.7699593901634216,
+      "final_score": 0.7274209856987
+    },
+    {
+      "id": "19bbdfb498f4ef52bfe84d46",
+      "qdrant_id": "f7f87ac6-c960-5cf3-bb38-4358ae9d0bc6",
+      "text": "in The Reproduction of Mothering (Berkeley, CA: University of California Press, 1978), Catherine MacKinnon in ‘Feminism, Marxism, Method and the State: An Agenda for Theory’, in Signs 7 (1982), pp. 515–44, and Gilligan in In a Different Voice. 11 For a critique of this feature of essentialism, see Elizabeth Spelman, Inessential Woman: Problems of Exclusion in Feminist Thought (London: The Women’s Press, 1988). 12 On bodies as socio-cultural and hence diverse, see Moira Gatens, Imaginary Bodies, esp. ch. 5; Elizabeth Grosz, Volatile Bodies: Toward a Corporeal Feminism (Bloomington: Indiana University Press, 1994), x–xi.",
+      "source": "Stone, Alison - Luce Irigaray and the Philosophy of Sexual Difference (2006, Cambridge University Press) [10.1017_cbo9780511617287] - libgen.li.pdf",
+      "chunk_index": 108,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7273853,
+      "importance": 0.7740457653999329,
+      "final_score": 0.727385401725769
+    },
+    {
+      "id": "5c016c7fcfb867c17fc517e1",
+      "qdrant_id": "7604d4f4-7092-5997-9de6-383d319d93f7",
+      "text": "such as abuse, violence or prostitution – reproduces traditional images of femininity that position women outside of the labour market and inside the reproductive and pri- vate sphere. To rephrase this, in the words of the art critic Griselda Pollock – who has studied the image of fallen women in mod- ernist paintings – such traditional representa- tion has bound women to the sphere of the ‘familial, heterosexual domesticity’ (Pollock, 1988: 78). In her work on film and sexuality Annette Kuhn (1985) suggests that, far from being attributes that ‘naturally’ characterize vic- tims, body, sexuality, passivity, private sphere and reproductive labour are all codes forming a chain of signifiers that come together to create a specific meaning in rep- resentation. These signifiers are not attached to the female body randomly and are at the very core of Western science and knowledge that assume that a male subject is constructed in opposition to his ‘Other’. This model rests",
+      "source": "Johnstone, Hazel_ Evans, Mary_ Madhok, Sumi_ Hemmings, Clare_ Pl - The SAGE handbook of feminist theory (2014, SAGE Publications Inc) - libgen.li.pdf",
+      "chunk_index": 253,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.72709805,
+      "importance": 0.7863616347312927,
+      "final_score": 0.7270980477333069
+    },
+    {
+      "id": "75a22a6d10d50a204fdd8096",
+      "qdrant_id": "0571d3c1-4dfa-5558-8894-820afdeb7e07",
+      "text": "Introduction | 3 because of who they are” (7). And sexuality, whether gay or straight, is hardly the only liability of the female body; as Simone de Beauvoir suggests, the very ability to give birth—whether to a socially legitimate or a shameful child—makes the female body an uncanny threshold between life and death that provokes discomforting feel­ ings of mortality. Menstruation and birth are also productive functions—produc­ tive of uncontained flows and contaminating tissues—and they therefore register the female body as an uncontrolled site of excess and bared secrets, as Elizabeth Grosz has shown in Volatile Bodies. The body itself is therefore a starting point in under­ standing why the primal affect of shame has been assigned to femininity, and the chapters in this book begin with the question of the body in order to seek an answer to the long-proven yet heretofore baffling finding by researchers that women are more shame-prone than men.",
+      "source": "Erica L. Johnson (editor), Patricia Moran (editor) - The Female Face of Shame (2013, Indiana University Press) - libgen.li.pdf",
+      "chunk_index": 20,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7266049,
+      "importance": 0.775001585483551,
+      "final_score": 0.726604700088501
+    },
+    {
+      "id": "a62f897ecc8d148f7673a59a",
+      "qdrant_id": "ddebb831-df88-5a2a-8e18-76fca5591800",
+      "text": "of misogynistic connotations’ (Schor 1986: 371). She identifies the contin- ued use of the term ‘fetishism’ as ‘an instance of “paleonymy,” the use of an old word for a new concept’ and asserts that ‘a new word adequate to the notion of female fetishism’ needs to be forged (Schor 1986: 371). Schor does not offer such a neologism in the essay, nor in her book Reading in Detail: Aesthetics and the Feminine (1987). What she does do in the latter, however, is provide a fascinating history of the genderedness of the detail in Western aesthetics, the way in which ‘the patriarchal paradigm – with its divisions of masculine/feminine, general/particular, mass/detail – has held the detail in thrall’ (Schor 1987: blurb). Schor’s assertion is that the prominence of attention to the detail – evident of course in Derrida’s work, as well as in that of Roland Barthes, Michel Foucault and Jürge…",
+      "source": "Sarah Dillon - Deconstruction, Feminism, Film (2022, Edinburgh University Press) [10.1515_9781474434201] - libgen.li.pdf",
+      "chunk_index": 527,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.72514474,
+      "importance": 0.7831725478172302,
+      "final_score": 0.725144624710083
+    },
+    {
+      "id": "380debb110dcc45196a9637f",
+      "qdrant_id": "e6091006-816e-5f66-a9d9-e6d4ec019cb7",
+      "text": "her view of the body as potentially transformable is important. All too often, the body in feminist theorising becomes transformable only on the surface. To suggest that the biological body is transformable is very different from saying that it is determining. In that sense, Firestone’s work was not biologistic. Moreover, recent theoretical works tend to ignore the contributions of feminists writing earlier. Elizabeth Grosz’s influential Volatile Bodies (1994), for example, makes no reference at all to earlier feminist work on the body - for example, that of Adrienne Rich (1976). Rich’s work is often interpreted as being biologically determinist, as she asks women to reconsider their relationships to their bodies, to female biology. Women are alienated from our bodies, Rich suggests (in similar vein to Spelman’s ‘somatophobia’): T know no woman ... for whom her body is not a…",
+      "source": "Lynda Birke - Feminism and the Biological Body - libgen.li.pdf",
+      "chunk_index": 113,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7248434,
+      "importance": 0.7702895998954773,
+      "final_score": 0.7248435020446777
+    },
+    {
+      "id": "3e26faf2caa68e9fd97f08ae",
+      "qdrant_id": "606f9a3f-455e-58f0-8b80-91c4bc70c712",
+      "text": "bodies to the demands of expected activity and modesty. Most admira- bly, Beauvoir presents the postmenopausal woman as a solid person, rather than the ghost of a woman that popular culture tends to portray. There remain elements of Beauvoir’s reﬂections on women’s bodily ex- perience and its implications for freedom that are open to criticism. For example, her reﬂections on menstruation vacillate between arguing that the sense of discomfort and devaluation that many women experience about menstruation has its source entirely in social relations, on the one hand, and claiming that women’s nature as reproducers chains them to species being in a way to which we must simply resign ourselves. The thoroughness of her treatment of these experiences, which she describes",
+      "source": "On Female Body Experience Throwing Like a Girl and Other Essays (Iris Marion Young) (Z-Library).pdf",
+      "chunk_index": 377,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7236873,
+      "importance": 0.7748676538467407,
+      "final_score": 0.7236873507499695
+    },
+    {
+      "id": "a97ec8150f6cba8302e63fca",
+      "qdrant_id": "ca1238c5-6599-5d42-892d-86bfc72b1eec",
+      "text": "Feminist theory and nature 69 It is not that Grosz denies that qualitative change and unpredictable eruptions presuppose order. Firmly grounded as she is in Darwin’s dialectic of evolution, she states that ‘[i]t is [the] relative stability and orderliness, predictability, that is the very foundation or condition for a life of invention and novelty’ (2011: 30). Yet, when it comes to the normative underpinnings of her discourse, invention is always privileged, such that stability and predictability tend to be reduced to their role as foundation of novelty and change. Revelatory of Grosz’s Nietzschean legacy, it is the unruly as such that is gloriﬁ ed here, while the politically more pertinent question of to what extent human beings can gain some control over their destinies is wholly left out. This is similar to the way that the theoretical logic of Butlerian poststructuralism entails an implicit celebration of transgression as",
+      "source": ", - The Contradictions of Love (Towards a feminist-realist ontology of sociosexuality) __ (2014, Routledge) [10.4324_9781315851464] - libgen.li.pdf",
+      "chunk_index": 300,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7217339,
+      "importance": 0.7680396437644958,
+      "final_score": 0.721733808517456
+    },
+    {
+      "id": "5f9a5806407ca1b819b00451",
+      "qdrant_id": "4aa96038-9571-59d5-a805-5c8ea373e81c",
+      "text": "Despite their different contexts, there was overlap between the theory and practice of nonauthoritarian movements and feminism. Feminism spoke of shifting the border between the personal and public spheres, of the ten- dency of consumer society to infiltrate every aspect of life, of its deperson- alizing effects, of the voracity of a system that erases the individual as desire and that leads to the “passivity of the masses.” Even though they were often misidentified as “ethically sensitive ques- tions,” matters usually regarded as “nonpolitical,” to which these movements brought attention—the body, sexuality, maternity, health, birth, family rela- tionships, and so on—were repositioned at the heart of politics. After a centuries- old exile, the body now took its revenge: personal life invaded the public scene; it both absorbed and was absorbed by public life. Today, the body is sub…",
+      "source": "[SUNY Series in Contemporary Italian Philosophy] Lea Melandri - Love and Violence_ The Vexatious Factors of Civilization (2019, Suny Press) - libgen.li.pdf",
+      "chunk_index": 383,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7213375,
+      "importance": 0.7699635624885559,
+      "final_score": 0.7213375568389893
+    },
+    {
+      "id": "2d441f645d604e6659652659",
+      "qdrant_id": "220cc99e-8f40-5af1-9546-bc13c61aadfc",
+      "text": "of a possible “true” consciousness about sex and gender relations within a singular, repressive patriarchy to an understanding of sexuality as a con- struction,the product of differing discourses that are themselves diffuse sites and enactments of power. Sometime between the late s and the early s, then, an important shift happened, a shift from explaining women’s subordination in terms of a single constraining system—whether we call it capitalism,patriarchy,biology, or even language—to focusing on the discursive, material, and cultural dif- ferences that make up the being or becoming of women.This shift from sys- temic approaches to the passionate and sometimes agonized proliferation of difference(s) was largely the consequence of two discourses,critiques by fem- inists of color and by poststructuralists, that began to be voiced in feminist work from the early s onwards.Though the end effect of these two dis-",
+      "source": "[Gender and Culture] Elisabeth Bronfen_ Misha Kavka (eds.) - Feminist Consequences_ Theory for the New Century (2001, Columbia University Press) - libgen.li (1).pdf",
+      "chunk_index": 24,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.72205323,
+      "importance": 0.7765044569969177,
+      "final_score": 0.7204855680465698
+    },
+    {
+      "id": "db1a51bfc0b74138b7010757",
+      "qdrant_id": "f9ecf733-e7d0-5ce4-892e-c73fe1c940c9",
+      "text": "to the case she analyzes, that “two-handedness” was constructed as nor- mal and “one-handedness” as deviant through media labeling of the desire for hand-amputation as mentally disordered and through the refusal of doctors to remove a transplanted hand that was no longer wanted (and that both of these were material-semiotic processes). Queer feminist sci- ence studies also assumes that resistance to regimes of normality and deviance occurs through material-semiotic processes, such as when Michelle Murphy argues that women’s health activists challenged ideas about normal and deviant cervixes by meticulously recording data about their own cervixes every day for months and then using this data to argue that there is not any one model of cervical health. Queer feminist sciences studies scholarship offers powerful examples of how to critique the nor- malizing and pathologizing tendencies of Western biomedicine and sci-",
+      "source": "[Feminist Technosciences] Cyd Cipolla_ Kristina Gupta_ David A. Rubin_ Angela Willey - Queer Feminist Science Studies_ A Reader (2017, University of Washington Press) - libgen.li.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7200819,
+      "importance": 0.7739840149879456,
+      "final_score": 0.7200819849967957
+    },
+    {
+      "id": "8e727a6edaa3cbf77b2593cc",
+      "qdrant_id": "10b47e13-b603-537d-aa3b-ba232c09cb86",
+      "text": "and assigned as a subject’, and that he would prefer the idea of ‘becoming-woman’ whereby these molar women would seemingly disperse into imperceptible atoms, there followed a good deal of controversy.33 This began with Luce Irigaray’s reproach to the Deleuzian emphasis on the machinic and the consequent loss of the organic self. This was a type of male response to female bodily form that ‘has long been familiar to women’.34 Elizabeth Grosz echoed this sentiment. By invoking ‘the notion of “becoming-woman” in place of a concept of “being women”’, she writes, ‘Deleuze and Guattari participate in the subordination, or possibly even the obliteration, of women’s struggles for autonomy, identity, and self-determination, an erasure of a certain, very concrete and real set of political struggles . . .’.35 Admittedly, Deleuze was generous enough to say that he would categorically all…",
+      "source": "[Transversals] John Mullarkey - Post-Continental Philosophy_ An Outline (2006, Continuum) [10.5040_9781472547330] - libgen.li.pdf",
+      "chunk_index": 97,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.72007775,
+      "importance": 0.7720463275909424,
+      "final_score": 0.7200778722763062
+    },
+    {
+      "id": "74e003b25f446e6d3b4f1b59",
+      "qdrant_id": "978f0505-11bc-5dfc-bd4f-8ed1638452a7",
+      "text": "Contents An Introduction to OOF 1 Katherine Behar 1. A Feminist Object 39 Irina Aristarkhova 2. All Objects Are Deviant: Feminism and Ecological Intimacy 65 Timothy Morton 3. Allure and Abjection: The Possible Potential of Severed Qualities 83 Frenchy Lunning 4. The World Is Flat and Other Super Weird Ideas 107 Elizabeth A. Povinelli 5. Facing Necrophilia, or “Botox Ethics” 123 Katherine Behar 6. OOPS: Object- Oriented Psychopathia Sexualis 145 Adam Zaretsky 7. Queering Endocrine Disruption 183 Anne Pollock 8. Political Feminist Positioning in Neoliberal Global Capitalism 201 Marina Gržinić 9. In the Cards: From Hearing “Things” to Human Capital 225 Karen Gregory 10. Both a Cyborg and a Goddess: Deep Managerial Time and Informatic Governance 247 R. Joshua Scannell Acknowledgments 275 Contributors 279 This page intentionally left blank This page intentionally left blank",
+      "source": "[Posthumanities] Katherine Behar (editor) - Object-Oriented Feminism (2016, Univ Of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7198653,
+      "importance": 0.7754399180412292,
+      "final_score": 0.719865083694458
+    },
+    {
+      "id": "d61497982790f11c0fd8aad0",
+      "qdrant_id": "5e5ea655-0b34-5ff2-b5d2-ca3c5719676b",
+      "text": "hagio moto’s nuclear manga and the promise of eco-feminist desire 15 Elizabeth Grosz has argued that feminists them- selves come close to adopting such a premise when we rely exclusively on theories of cultural constructivism to understand how gender and culture evolve over time. In an essay called “The Nature of Culture,” Grosz offers a sympathetic account of cultural constructivism’s post-​1968 resistance to prevailing naturalisms that justi- fied divisions of labor, sex, and race by attribut- ing them to the laws of nature. But Grosz points out that we lose important political and concep- tual resources if we recognize only culture as productive and generative, and accept the con- servative view of nature as invariable, universal, or predictive. If feminists want to understand all the ways culture can change, and if we want better to effect that change, Grosz says we need to…",
+      "source": "[Mechademia] Lunning, Frenchy - Mechademia 9_ Origins (2014, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7196297,
+      "importance": 0.7670918107032776,
+      "final_score": 0.7196295857429504
+    },
+    {
+      "id": "2e524cf624e0413705e6423e",
+      "qdrant_id": "fbe1d304-7382-5ad1-a7fe-ecfa16cc60ee",
+      "text": "Robert Hurley (Harmondsworth: Penguin [1976], 1990), p. 95. 13 See Elizabeth Grosz, Volatile Bodies: Towards a Corporeal Feminism (Bloomington, IN: Indiana University Press, 1994). 14 Andrew Smith, Victorian Demons: Medicine, Masculinity and the Gothic at the Fin-de-Siècle (Manchester: Manchester University Press, 2004), p. 178. 15 David Punter, ‘Introduction’, in David Punter (ed.), A Companion to the Gothic (Oxford: Blackwell, 2000), p. xii. 16 Richard Selzer, Confessions of a Knife: Meditations on the Art of Surgery (London: Triad/Granada, 1982), p. 9. 17 Quoted by Xavier Aldana Reyes, Body Gothic: Corporeal Transgression in Contemporary Literature and Horror Film (Cardiff: University of Wales Press, 2014), p. 50. 18 Reyes, Body Gothic, p. 50. 19 See Steven Connor, The Book of Skin (London: Reaktion, 2004), pp. 42–7. 20 See Marie Mulvey-Roberts, ‘The After-lives of the Bride of Frankenstein: Mary Shelley and Shelley Jackson’, in Maria Purves (ed.), Women and",
+      "source": "Marie Mulvey-Roberts - Dangerous Bodies_ Historicising the Gothic Corporeal (2016, Manchester University Press) - libgen.li.pdf",
+      "chunk_index": 55,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7187298,
+      "importance": 0.7670173048973083,
+      "final_score": 0.7187297344207764
+    },
+    {
+      "id": "5aa177752b17857bfc51b25a",
+      "qdrant_id": "90f5aca9-1568-5e11-a8f6-48710070ca10",
+      "text": "and rather prescriptive feminist identity. In this context, texts were judged according to whether or not they represented the preferred aspects of feminist identity. With this in mind it is possible to argue that for Moi and Clements (and many others) the value of Cixous’s work hinges on whether or not she has represented empowering images of femi- nist identity, or offered useful strategies for the formation of a femi- nist identity. Moi argues that there is a libertarian individualism running throughout her work which fails to take into account the complex political realities women face. Commenting on Verena Andermatt Conley’s (rather florid) description of Cixous’s lecturers at the University of Paris at Vincennes, at which Cixous wore an ermine coat, Moi writes: ‘Ermine as emancipation: it is odd that the women of the Third World have been so ludicrously slow to take up Cixous’s sar…",
+      "source": "Abigail Bray - Helene Cixous_ Writing and Sexual Differences (Transitions) (2004) - libgen.li.pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.71778655,
+      "importance": 0.7709845304489136,
+      "final_score": 0.7177865505218506
+    },
+    {
+      "id": "878397315641fe78075ac133",
+      "qdrant_id": "77c7c420-af52-5977-91c9-9dfa8e961b11",
+      "text": "17 (Fall–Winter 1988–1989): 89–97; Jane Marcus, “The Asylums of Antaeus: Women, War, and Madness—Is there a Feminist Fetishism?” in The New Historicism, ed. Harold Veeser (New York: Routledge, 1989), 132–151; Patricia Yaeger, “The ‘Language of Blood’: Toward a Maternal Sublime,” Genre 25 (Spring 1992): 5–24; Elizabeth Grosz, “Lesbian Fetishism?” in her Space Time, and Perversion: Essays on the Politics of Bodies (New York: Routledge, 1995), 141–154. 128. Ian, Remembering, 176–177. 129. Sigmund Freud, The Interpretation of Dreams, trans. and ed. James Strachey (New York: Avon Books, 1965), 436. 130. On primal phantasies, see Jean Laplanche and Jean-Bertrand Pontalis, “Fantasy and the Origins of Sexuality,” in Formations of Fantasy, ed. Victor Burgin, James Donald, and Cora Kaplan (New York: Methuen, 1986), 5–34. For a study of Jungian archetypes in relation to the birth trauma, se…",
+      "source": "Vaheed Ramazani (auth.) - Writing in Pain_ Literature, History, and the Culture of Denial (2007, Palgrave Macmillan) [10.1057_9780230607231] - libgen.li.pdf",
+      "chunk_index": 607,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.71765697,
+      "importance": 0.766666829586029,
+      "final_score": 0.7176568508148193
+    },
+    {
+      "id": "710f08bb2ca57858c157224e",
+      "qdrant_id": "bae6f6c1-363e-5a8f-ad26-c7959c2f4ceb",
+      "text": "able to transform the violence, including street harassment, rape, domestic violence, objectification, and degradation, endemic to patriarchal societies. These women also shared with me the literature that had moved their discus- sions about the contradictions between nonviolence and women’s liberation. This allowed me to gather a collection of common articles, essays, flyers, newsletters, manifestos, pamphlets, conference reports, and training manuals addressing questions at the intersection of feminist and nonviolent responses to violence as a fundamental human problem that uniquely affects women’s lives. While the conversation on feminism, violence, and nonviolence does not end with this volume, the conversations that developed during this era pro- duced distinctive theoretical insights on the convergence of these movements. This documentary reader surveys how feminists engaged with nonvi- olence through a systems-­analytic understanding of the origins, dynamics,",
+      "source": "Selina Gallo-Cruz (editor) - Feminism, Violence and Nonviolence_ An Anthology-Edinburgh University Press (2024).pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7175938,
+      "importance": 0.7728120684623718,
+      "final_score": 0.717593789100647
+    },
+    {
+      "id": "3ef4f4a63af24b4bea222702",
+      "qdrant_id": "74f5b23d-dfb3-5ddb-bf95-fd5186a26c39",
+      "text": "originated. In this world, the feminine appears as a symbolic other who voluntarily subjects herself to eroticism: opened outward, limitless, she is an other that has in turn interiorized the other as she exteriorizes herself. In that way, female value and pleasure are reduced to functions of male desire and internalization of the masculine gaze. When women assume this structure of valorization, our autonomy is restricted: she is relegated to desiring being desired, and this is a form of coercion and the basis of the perpetuation of heteropatriarchy. Shay Welch has conceptualized this condition inherent to the regime of sexual difference as “existential eroti- cism.” This regime remits women to sexual slavery, anchoring their beings on an aesthetic of seduction, the stylization of desire, and a choreography of pleasure. Again and again it is necessary to stress that this regime…",
+      "source": "[Critical Mexican Studies] Irmgard Emmelhainz - Toxic Loves, Impossible Futures_ Feminist Living as Resistance (2022, Vanderbilt University Press) - libgen.li.pdf",
+      "chunk_index": 347,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival",
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.71731293,
+      "importance": 0.7708346247673035,
+      "final_score": 0.7173128724098206
+    },
+    {
+      "id": "652ee6e1a4168097315068ea",
+      "qdrant_id": "21c3cc82-44c6-5aba-9195-4ceb3ae716ed",
+      "text": "than a question of systemic injustice. The next two chapters look at how mesmerism, spiritual medium- ship, and the occult imagined a world of departed souls that inﬂu- enced the here and now, particularly in the ways men and women idealized passivity and quietude as hallmarks of citizenship. In chap- ter , ‘‘medical’’ research into animal magnetism, hypnotists’ confes- sions, and erotic novels about clairvoyance portray the young female medium as cold and corpselike, her spirit trance a state of delicious repose that deﬁes all attempts at arousal. The medium who imitates death is politically erotic, bearing a privacy invulnerable to the bur- dens of the past and clamors of the present. Chapter further ex- plores this occult public sphere where morbidly sentimental interests in ghosts and spirit rapping overshadowed and interiorized the his-",
+      "source": "(New Americanists) Russ Castronovo - Necro Citizenship_ Death, Eroticism, and the Public Sphere in the Nineteenth-Century United States (New Americanists)-Duke University Press Books (2001).pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.71725506,
+      "importance": 0.7900730967521667,
+      "final_score": 0.7172548174858093
+    },
+    {
+      "id": "679c4e8352a45eca5d1f3c24",
+      "qdrant_id": "43e24955-3420-552c-806b-f5e378761c6b",
+      "text": "and recreated more openly and with an attentive awareness to the possibilities of the fluid and the multiple. Normality/abnormality, fantasy/reality, sanity/ insanity, beauty/obscenity, agency/dispossession and of course pleasure/ pain – all are thrown into disarray by the corporeal pleasures and desiring drives of the female masochistic subject and her encounters with others and with the sociocultural sphere. In their place arises a move toward processes of signification (and asignification) which are open and always aware of the ethical encounter with alterity in its plural and shifting forms. Bataille states that the things that we ‘know’ become ‘dead objects’ (1988: 4) and that ‘we reach ecstasy by a contestation of knowledge’ (1988: 12). The desires, pleasures and unpleasures with which the female masochist engages are, as this book has offered, frequently as fraught with a…",
+      "source": "[Film Philosophy at the Margins] McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics (2014, Ashgate Pub Co) - libgen.li.pdf",
+      "chunk_index": 587,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7167537,
+      "importance": 0.784109890460968,
+      "final_score": 0.7167537212371826
+    },
+    {
+      "id": "5118f694aeae293e5445a309",
+      "qdrant_id": "130e2dd8-c313-5cf2-8e3e-0ec855c20667",
+      "text": "project. Jane Gallop, recalling her own initial heady encounter with femi- nism in the early ’s, exposes the changing meaning of sexual harassment from its origins in a ’s feminism that celebrated sexual liberation and con- demned sexual discrimination, to its alignment with discrimination issues and antisex rhetoric in the ’s. Rey Chow addresses the increasing aware- ness in work of the ’s and ’s of the problematic conﬂation between the two meanings of representation—aesthetic and political—when it comes to representing the bodies of women as racial or sexual “others.”And Beatrice Hanssen traces the recent history of debates around feminist theory, both between poststructuralist and Frankfurt School theorists and between “the- ory” and “praxis” itself. If, in broad terms, this ﬁrst section traces histories of feminist thinking in terms of psychoanalysis,sexuality,representatio…",
+      "source": "[Gender and Culture] Elisabeth Bronfen_ Misha Kavka (eds.) - Feminist Consequences_ Theory for the New Century (2001, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7163769,
+      "importance": 0.7715996503829956,
+      "final_score": 0.7163769602775574
+    },
+    {
+      "id": "2042373dcd42b3862dedd050",
+      "qdrant_id": "6c991b8c-07b9-533c-ab55-b5741cbabd96",
+      "text": "demonstrated by the rapid rise of the #MeToo movement. Despite its short- comings, the digital revolution has ushered in Fourth-Wave Feminism, speaking to the local and global and encouraging inclusion and intersectionality alongside global collective action. Kristeva singles out the role of women, which she sees as having a crucial sensory dimension and the power to inform revolt in new ways. The immense responsibility of women in regard to the survival of the spe- cies—how to preserve the freedom of our bodies while at the same time ensuring the conditions for better lives for our children?—goes hand in hand with this rehabilitation of the sensory. (Kristeva, 2002a, p. 5) Kristeva primarily cites the literature, and I would add, art and ﬁlm, as oﬀering small—but nonetheless important—forms of intimate revolt. ‘But are other, higher forms really more convincing?’ (2002a, p. 4) she asks.…",
+      "source": "Return of the Monstrous-Feminine (Barbara Creed) (Z-Library).pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.6946486,
+      "importance": 0.7796286344528198,
+      "final_score": 0.7143566608428955
+    },
+    {
+      "id": "3ec0f65e7be77e97d7905f18",
+      "qdrant_id": "c2c4377f-5f3b-5d74-a202-79fbc310d634",
+      "text": "to unpaid reproductive labor in the era of structural adjustment. In ‘‘Always on Display: A√ective Production in the Modeling Industry,’’ Elizabeth Wissinger focuses on the work of fashion models. Arguing that understanding the body in terms of a√ective capacities proves a more e√ective model for researching postmodern bodies, Wissinger traces links between the growth of imaging technologies, the growth of the modeling industry, and increased investment in the means of modulating a√ective ﬂow between bodies. Wissinger points to the socialization of a√ect or a√ective capacity in late-twentieth-century capitalism as a way to think beyond the subjectivist bent of traditional critiques of con- sumer culture. Melissa Ditmore’s ‘‘In Calcutta, Sex Workers Organize’’ takes up labor in an a√ective economy in order to understand prostitution as sex work and to argue that abuses connected to prostitution and tra≈cking, which policy",
+      "source": "Patricia Ticineto Clough_ Jean O'Malley Halley - The affective turn _ theorizing the social (2007, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 108,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.71821517,
+      "importance": 0.7735954523086548,
+      "final_score": 0.707856297492981
+    },
+    {
+      "id": "783123f3e3c404e70565b82d",
+      "qdrant_id": "da0c197a-edb5-5044-8803-f5e963c569de",
+      "text": "being mediated by nonhuman affective agencies.” Speitz, like others in this volume, links the materiality of affect to aesthetics and in so doing reminds us how mundane everyday facts like air, oxygen, and respiration are actually profoundly weird and, to use her word again, sublime. Yet here this type of material sublimity carries over to the textual and the aesthetic as well since “human words and marks share space with the nonhuman page and once uttered aloud, they take shape in not-exclusively human sounds, sounds made manifest by contingent collaborations of earth, air, verse, and versifier.” By rethinking aesthetics in the light of such nonhuman agencies, the romantic sublime thus becomes, in Speitz’s hands, more than anthropocentric terror—boundless ecology and ontology. Her essay, then, has powerful ethical implications. Indeed, her study of romantic aerography and acoustics underscores how “romantic affect and aesthetics can dampen",
+      "source": "Romanticism and Speculative Realism (Chris Washington Anne C. McCarthy) (Z-Library).pdf",
+      "chunk_index": 48,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7254191,
+      "importance": 0.7771068215370178,
+      "final_score": 0.7009972333908081
+    },
+    {
+      "id": "018ba74462ccd9b74c099d38",
+      "qdrant_id": "bb5e0786-1a57-5e68-b44b-a4831867dd18",
+      "text": "undergoes as a result of the constant pressure exerted upon her to enact his masochistic fantasies and to embody the idealized vision of the female torturess produced by the male. Her own pleasures and desires are denied over and over and her sense of self begins to crumble. Upon casting Leopold and his whips from her room, she describes her elation at escaping the proscribed narratives that have been imposed upon her: ‘Free! Delivered from the torment of ten years! Finally, to belong to myself again! Never again to don a fur, never again to hold a whip’ (1990: 107). That her experiences were published not under her own name but under that of the literary figure whose shadow constantly darkened her life is further indicative of the cultural inability to imagine female pleasure as alternative or exterior to the male. Although it appears in such a case that the oppositional logi…",
+      "source": "(Film Philosophy at the Margins) McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 128,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.66741955,
+      "importance": 0.7709862589836121,
+      "final_score": 0.6993420124053955
+    },
+    {
+      "id": "0797b0ee3597f6fa1caba33a",
+      "qdrant_id": "707a09b5-3ad3-5a82-92e2-c2b353d86352",
+      "text": "are rather hopelessly driven by dominant patriarchal forces to objectify them- selves in order to both gratify male desire and to swell the coffers of the industry. Their assessments are reminiscent of the Frankfurt School Marxism that Marcuse voices in One Dimensional Man, where he acknowledges the suc- cessful corporate and governmental inculcation of false consciousness that has anesthetized mass culture, and doubts that critical consciousness will ever make much difference. ABJECTION, AGENCY, AND IDENTIFICATION Significantly, Morgan’s focus on Foucault ’s conception of power as a central motive force in Western intellectual and political history resonates not only with her view of the aesthetic surgical industry, but also with that of Kathy Davis, who voices significant dissent in her 1995 Reshaping the Female Body from critics such as Faludi and Wolf, who rely on top-down models of oppression for their analyses. Davis argues that a single-minded focus on",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7288519,
+      "importance": 0.7789404392242432,
+      "final_score": 0.6992460489273071
+    },
+    {
+      "id": "46f25558d38cfb1d08423418",
+      "qdrant_id": "ef8aa4b6-038d-5cf4-a41b-eda80a16d767",
+      "text": "theoretical materialisms inaugurated by feminist scholars of technosci- ence, including Karen Barad, Donna Haraway, Rosi Braidotti, N. Katherine Hayles, Elizabeth Grosz, and others, offer timely critical perspectives about how our contemporary sciences and technologies create us even as we cre- ate them. We have seen that experiential, material art practices are excep- tional among the feminist new materialisms in that they draw attention to our interactions with science and technology as lived experiences in real space. Rather than working primarily with words, artists like Rist, Picci- nini, and Mori work with materials and through bodies; their installations allow us to experience and inhabit embodied technointerfaces ﬁrsthand. We have also seen how these post- 1990 artists mine the inheritance of a range of feminist media art practices and critical spectatorship theories from …",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 347,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7852434,
+      "importance": 0.8159911036491394,
+      "final_score": 0.697541356086731
+    },
+    {
+      "id": "1b8e97f139f9d7c063c94ea8",
+      "qdrant_id": "01d198b8-1a06-5668-8ce7-6f4694ed916a",
+      "text": "I turn now to the work of some contemporary women artists and photographers, who, like Solomon, have begun to change the inherited gaze of female beauty. In an interview about her show at the Horodner Romley Gallery (), Mira Schor talks about the history behind a series of paintings in which she used punctuation marks to visualize the boundaries between public and private experience.11 In one she wrote out P U B (L) I C to evoke the pubic/public boundary so prominent in the Anita Hill/Clarence Thomas affair. “That led,” Schor explains, to painting incarnated punctuation marks: cunts, breasts, and penises framed by quote marks; red commas and semicolons set into pubic hair, embedded in ﬂesh. Gender positions, no matter how gory their physicality,are put into question by the quotation marks.Markers of printed language are sexualized, and text, which had been so dominant over visuality in fem- inist theory and art in the s,is presented for its visual seduc-",
+      "source": "Nancy K. Miller - But Enough About Me_ Why We Read Other People's Lives (2002, Columbia University Press) [10.7312_mill12522] - libgen.li.pdf",
+      "chunk_index": 243,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6349257,
+      "importance": 0.75636225938797,
+      "final_score": 0.6969099044799805
+    },
+    {
+      "id": "c5a8d69886f226114e234c4e",
+      "qdrant_id": "6dc67493-515a-50e1-9d9c-c87abd670243",
+      "text": "translation projects. Finally, I organized several group discussions with members of the collective concerning the history of the book’s transformation within and outside the United States.19 The second phase of the inquiry involved an in-depth analysis of OBOS as a feminist epistemological project—that is, a project that is involved in generating feminist knowledge and knowledge practices. It began with a confrontation between the epistemological assump- tions of OBOS and postmodern feminist body theory (in particu- lar, the work of Donna Haraway, Judith Butler, Elizabeth Grosz, Joan Scott, and Susan Bordo), as well as alternative biological, phenome- nological, and materialist critiques of this theory.20 I show how OBOS can contribute to some of the most central discussions in feminist body theory by providing an embodied, situated, critical feminist politics of knowledge. T…",
+      "source": "Kathy Davis (editor)_ Inderpal Grewal (editor)_ Caren Kaplan (ed - The Making of Our Bodies, Ourselves_ How Feminism Travels across Borders (2007, Duke University Press) [10.1515_9780822390251] - libgen.li.pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.72084725,
+      "importance": 0.7764440774917603,
+      "final_score": 0.6965929269790649
+    },
+    {
+      "id": "dd5525680a29a4d9be6904f0",
+      "qdrant_id": "619aa5df-0feb-573b-9bf4-337f442926a1",
+      "text": "tant implications for the rest of her oeuvre. This chapter will also include a discussion of the range of critical writing about Cixous that is currently available (a number of critical monographs on Cixous are available in English; among the many shorter pieces on her writing there have been important and insightful contri- butions by Mireille Calle-Gruber and Jacques Derrida). These chapters ‘on’ Cixous will be followed by a chapter ‘with’ Cixous ^ a previously unpublished interview with He¤ le' ne Cixous conducted in Paris in June 2002 (Chapter 6, ‘Cixous live’). In this interview Cixous discusses her in£uences and inspirations, her thoughts on the nature of writing and her belief in the need for an ethical rela- tionshipwiththe world.The interviewalso illuminatesand expands 16 He¤ le' ne Cixous: Live Theory",
+      "source": "[Live Theory] Ian Blyth_ Susan Sellers - Hélène Cixous_ Live Theory (2004, Continuum) [10.5040_9781472545640] - libgen.li.pdf",
+      "chunk_index": 49,
+      "page": null,
+      "seed_hits": [
+        "hélène-cixous-book-of-promethea-love-as-world-creation"
+      ],
+      "raw_score": 0.7474045,
+      "importance": 0.7870480418205261,
+      "final_score": 0.6939141154289246
+    },
+    {
+      "id": "3c02a6e4e8625eb07266681b",
+      "qdrant_id": "1e503124-20e8-5160-a378-110daa364e7b",
+      "text": "been written by her culture, but who, in turn, is shown to be capable of rewriting it. Pen does not simply lament the fact that no social discourse has as yet attached the word “hood” to “lesbian,” using instead the “ism” that sounds “like a digestive disease” (114); she goes further, creating a textual web of interconnections that sexualizes the word “hood” and promotes a novel discourse on lesbianhood, an identity that is embodied privately, shared communally, and recog- nized publically. Pen raises an image of the folds covering the clitoris, “not a hood to take off, but to push back” (257); the image echoes the Olga Broumas poem that serves as the novel’s epigraph by conveying the special significance of social invisibility and silence for lesbians. From its opening page, Hood foregrounds how silence and invisibil- ity might be placed in the service of imagining an open fut…",
+      "source": "Tammy Clewell (auth.) - Mourning, Modernism, Postmodernism (2009, Palgrave Macmillan) [10.1057_9780230274259] - libgen.li.pdf",
+      "chunk_index": 492,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.7005023,
+      "importance": 0.7607303857803345,
+      "final_score": 0.6926313042640686
+    },
+    {
+      "id": "54050f841ec85a5eb031a09b",
+      "qdrant_id": "3e0f5130-ecb9-5741-a040-438298f83fa2",
+      "text": "queen persona hardens the surface of the female body while, at the same time, signifying an impenetrable, even passionless, female interiority. In the ﬂexile, diy zine format, which, like the Internet, aﬀords rich oppor- tunities for self-representation, goth women produce their own resistant discourses. Althea Morin’s zine, tongue of the serpent, provides an interesting Introduction 23",
+      "source": "Lauren M. E. Goodlad and Michael Bibby (eds.) - Goth_ Undead Subculture (2007, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 77,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.68907726,
+      "importance": 0.7516518831253052,
+      "final_score": 0.6924046277999878
+    },
+    {
+      "id": "cfbb0350af177953dbc3afb2",
+      "qdrant_id": "0353430a-7656-5307-8575-2c0c9f722314",
+      "text": "of writing,” affirms the female writer-protagonist of Lispector’s posthumous novel Urn sopro de vida (1978; A Breath of Life, 53). In the texts I choose for analysis, I find many manifestations of violence articulated with gender and nar- rative. There is, first, a mimetic violence: the representation of dominating or aggressive interactions between men and women, often set in the family or placed within larger systems of social and even racial oppression. In her refusal to see women simply as innocent victims, Lispector runs counter to a major ten- dency in feminist thought that Jessica Benjamin also opposes: the construction of ‘‘the problem of domination as a drama of female vulnerability victimized by male aggression” (Benjamin 1988, 9). Lispector observes not only the sufferings of women under patriarchy, but also their sometimes devious access to an aggres- sive power; in larger te…",
+      "source": "Passionate fictions_ gender, narrative, and violence in -- Peixoto, Marta -- [Online-Ausg_]_, Minneapolis, 1994 -- Minneapolis_ University of -- 9780816621583 -- 9b6aafc318d197b4d53c797bee78cfb7 -- Anna’s Archive.pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "clarice-lispector-the-passion-according-to-g-h-cockroach-becoming"
+      ],
+      "raw_score": 0.6978619,
+      "importance": 0.7584400773048401,
+      "final_score": 0.6906471848487854
+    },
+    {
+      "id": "d45bf8b3919acf9f75b85dd3",
+      "qdrant_id": "39a521ce-8f2c-55b1-92d6-10898a622267",
+      "text": "Row, 1978). Grosz, Elizabeth, Volatile Bodies: Toward a Corporeal Feminism (Bloomington: Indiana University Press, 1994). Haraway, Donna, \"A Manifesto for Cyborgs: Science, Technology and Social- ist Feminism in the 1980s,\" in Elizabeth Weed (ed.), Coming to Terms: Feminism, Theory, Politics (New York: Routledge, 1989). Cambridge Books Online © Cambridge University Press, 2009",
+      "source": "[Cambridge Studies in Nineteenth-Century Literature and Culture] Pamela K. Gilbert - Disease, Desire, and the Body in Victorian Women's Popular Novels (2005, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 156,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74996436,
+      "importance": 0.8011694550514221,
+      "final_score": 0.6880122423171997
+    },
+    {
+      "id": "cdafd8a7e23663722f60bc92",
+      "qdrant_id": "71b5a452-f42b-5d2a-94cb-193a5be5538d",
+      "text": "external territorial threats, equating the unsettling challenge posed by her Native, lesbian lover to global threats to the Canadian nation-state. Again, as noted in the introduction, the female body serves as a figure for the land and indigenous peoples caught in imperial and colonial struggles. Like Watson’s Native revenant, the old lady who wanders between two worlds, Nora poses a threat both to the patriarchal order and to the Canadian nation-state. This dual threat is conveyed by her unusual eyes and is registered when Beth first sees Nora: “Each of her eyes was a dif- ferent color, one blue and one green. She was a half-breed, then” (15). Later, Beth muses that Nora “was Indian enough to be an outcast in town and white enough be an outcast on the reserve” (97). In addition to marking her unsettled and unsettling status as part Native, part white, Nora’s differently coloured eyes also mark her as a lesbian, what Native",
+      "source": "Marlene Goldman - DisPossession_ Haunting in Canadian Fiction (2012, McGill-Queen's University Press) - libgen.li.pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.605417,
+      "importance": 0.7444887161254883,
+      "final_score": 0.6825562715530396
+    },
+    {
+      "id": "822f3349a6e24de641f5914e",
+      "qdrant_id": "693823ff-ea42-5867-99f1-b02c5549b988",
+      "text": "of “the biopolitics of postmodern bodies” in terms of immune system discourse; the privileging of “partial perspective” as a way of revealing the “situated knowledges” of feminism in science; and her deeply insightful observations on sociobiology and human engineering in the contemporary epoch. Breaking beyond the discursive limits of received theoretical analysis, Haraway actu- ally sees—she brings into presence—the partial, the interrupted, the spliced, the remixed that populate the future of biopolitics. And how could she not do this? As a feminist who writes very much in the tradition of women writers everywhere who have been",
+      "source": "[Posthumanities] Arthur Kroker - Body Drift_ Butler, Hayles, Haraway (2012, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 362,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7644767,
+      "importance": 0.7996207475662231,
+      "final_score": 0.6801710724830627
+    },
+    {
+      "id": "45d85279b339b563f6ad371e",
+      "qdrant_id": "f982d814-50b2-52fb-b9ba-6ea35f3c7619",
+      "text": "Contents Preface xi Acknowledgments xvii Introduction 1 Part I. Freaks, Sacred Subjectivity, and Public Spheres 1. Sexual Magic and Funky Black Freaks in Nineteenth-Century Black Literature 33 2. In Search of Our Mama’s Porn: Genealogies of Black Women’s Sexual Guerrilla Tactics 59 3. “Make Ya Holler You’ve Had Enough”: Neutralizing Masculine Privilege with BDSM and Sex Work 88 4. Marvelous Stank Matter: The End of Monogamy, the Marriage Crisis, and Ethical Slutting 122 part ii. superfreaks and sites of memory 5. Sexuality as a Site of Memory and the Metaphysical Dilemma of Being a Colored Girl 149 6. From the Freaks of Freaknik to the Freaks of Magic City: Black Women, Androgyny, Dance, and Profane Sites of Memory 176 7. Black Trans Narratives, Sex Work, and the Illusive Flesh 205 Conclusion: Funk Studies—The B-Side 235 Notes 237 Bibliography 251 Index 267",
+      "source": "[New Black studies series.] Horton-Stallings, LaMonda - Funk the erotic _ transaesthetics and black sexual cultures (2015, University of Illinois Press) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.6980756,
+      "importance": 0.7523664832115173,
+      "final_score": 0.6738429665565491
+    },
+    {
+      "id": "428a75293d42cb0b31da4018",
+      "qdrant_id": "fc4c9b4b-02e9-5caa-9006-33966c51f683",
+      "text": "bodies, establishing a model of synthetic control that operates almost invis- ibly from within the body, at the molecular level, modifying directly the chemical composition of individuals. First, the event of the separation of the reproductive function from sexuality, enabled by the availability of the contraception pill, opened up the way for the scientific fabrication of femi- ninity. Through synthetic hormones, the pill executes a double operation that cuts menstruation to artificially restitute it. In other words, hormonal hyper sensibilization is chemically induced by a pharmaceutic transnational. This means for Preciado that “feminine” biological truth is neither a natu- ral circumstance nor an immutable reality, but manipulable by the pill: a kind of an ingestible Panopticon. Second, the pornographic image has been the most effective apparatus to transform representation i…",
+      "source": "[Critical Mexican Studies] Irmgard Emmelhainz - Toxic Loves, Impossible Futures_ Feminist Living as Resistance (2022, Vanderbilt University Press) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "paul-b-preciado-testo-junkie-pharmacopornographic-regime"
+      ],
+      "raw_score": 0.668831,
+      "importance": 0.7538848519325256,
+      "final_score": 0.6688310503959656
+    },
+    {
+      "id": "88e1d7b13c68516f4d2fe234",
+      "qdrant_id": "cde9a97b-1a58-57fd-be12-6723e3ecdb07",
+      "text": "similar connotations of controlled violence. Anderson and Höch have both created scrapbooks of material from magazines, newspapers and fine art as part of their working process. They have similarly ambiva- lent responses to such images both celebrating and critiquing them. Lavin suggests that Höch’s photomontages employ ‘pleasure in the aes- thetic aspects of media photographs mixed with an angry critique of certain social stereotypes’ (ibid.: 124). Anderson has a similarly ambiva- lent relationship with her material. Her often expressed obsession with choreographing patterns means she has always been fascinated by the kind of symmetry and unison that Berkeley’s work exemplifies. Her choreographic approach in Yippeee!!!, however, has more in common with Höch’s practice of appropriating and fragmenting imagery. Höch assembles body parts from different sources to construct new ima…",
+      "source": "Valerie A. Briginshaw, Ramsay Burt (auth.) - Writing Dancing Together (2009, Palgrave Macmillan) [10.1057_9780230235335] - libgen.li.pdf",
+      "chunk_index": 128,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.64541316,
+      "importance": 0.7583690881729126,
+      "final_score": 0.6479917764663696
+    },
+    {
+      "id": "ecc41ffa412cebc62e46b9a9",
+      "qdrant_id": "14b2ec1f-5efe-5fa9-8e8a-04dfa02efaf2",
+      "text": "Times Magazine (ﬁg. .).This self-portrait of a strikingly beauti- ful woman, Matuschka, artist, photographer, and model, presents another—and equally disturbing—way both to challenge the acceptable limits of female self-representation and to expose the effects of breast cancer surgery. It was also selected to launch the New York Times th Anniversary issue’s narrative of the nineties, a decade in which women became highly visible advocates for breast cancer awareness. The glamor and drama of the image “drew worldwide attention and won the photographer numerous awards” ();14 it helped draw attention to the politics of treatment. Matuschka’s breast was removed after she developed cancer in . In JoAnne Motichka (the artist known as Matuschka) successfully sued her doctor “for past and future pain and suffer- ing.”The jury granted her $.million, conﬁrming her claim that the doctor had misread her pathology report and performed an",
+      "source": "Nancy K. Miller - But Enough About Me_ Why We Read Other People's Lives (2002, Columbia University Press) [10.7312_mill12522] - libgen.li.pdf",
+      "chunk_index": 258,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6451295,
+      "importance": 0.7272640466690063,
+      "final_score": 0.6451295614242554
+    },
+    {
+      "id": "cf0ab9eaf21c7253e84400d6",
+      "qdrant_id": "d071c321-fb58-5020-9cb6-7c79335d2019",
+      "text": "body. My tongue will lick from the inside out.” She tells us these things in raucous slang and with the wanton gestures of a cabaret performer. She is making the turns in her story goofy. She takes off the hospital gown; under it she is wearing another hospital gown, decorated with ribbons and red net petticoats, French cancan knickers. She undoes the top ribbons and slowly lowers the gown to reveal her flat chest with no nipples. “I got the first of my scars and lost my hair. I lost my left breast. The right one went as well. My ovaries are next on the list. This is how I forgot how to be a woman.” She does a provocative dance in the red net petticoats, wig, cosmetics with Patrick Swayze portraying Johnny Castle in Dirty Dancing, possessed with the force to hold him in life.2 She leaves, then returns, now no longer in costume, sits with us to lis- ten to us. To a question, she…",
+      "source": "Alphonso Lingis - Irrevocable_ A Philosophy of Mortality-University of Chicago Press (2018).pdf",
+      "chunk_index": 84,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.63807774,
+      "importance": 0.7469241619110107,
+      "final_score": 0.6380775570869446
+    },
+    {
+      "id": "084b9e1081b513eb54a9566a",
+      "qdrant_id": "8be8a0bd-1056-5e47-a16a-336037e51e06",
+      "text": "Tenga) of Plant Horror: Approaches to the Monstrous Vegetal in Fiction and Film (Palgrave, 2016) and (with Matthew Wynn Sivils) of The Ecogothic in Nineteenth- Century American Literature (Routledge, 2017). She has also edited a collection on The Walking Dead and coedited (with Elizabeth Erwin) a second. She has recently published numerous articles on folk horror and is working on an edited collection on the topic. She writes regularly for a website she cofounded, Horror Homeroom. is Professor of Political Aesthetics at Birkbeck, University of London. Her books include various studies and translations of Walter Benjamin, as well as Hollywood Flatlands: Animation, Critical Theory and the Avant Garde (Verso, 2002), Synthetic Worlds: Nature, Art and the Chemical Industry (Reaktion, 2005), Derelicts: Thought Worms from the Wreckage (Unkant, 2014), Liquid Crystals: The Science and Art of a Fluid Form (Reaktion, 2016), and two projects on milk",
+      "source": "The Cambridge Companion to American Horror (Stephen Shapiro, Mark Storey) (Z-Library).pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.63156366,
+      "importance": 0.7606189846992493,
+      "final_score": 0.6315636038780212
+    }
+  ]
+}

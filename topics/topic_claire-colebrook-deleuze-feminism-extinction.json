@@ -1,0 +1,1221 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "claire-colebrook-deleuze-feminism-extinction",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "4c7746926a69f52c63a5ee0c",
+      "qdrant_id": "21090af9-6c36-57a3-b2b1-e782545e3986",
+      "text": "book in which this scene appears.) 23 Parisi’s book was published at perhaps the high watermark of Deleuzian techno-optimism, and one wonders if she would be quite so optimistic, fifteen years later, when Silicon Valley in particular – and “neo-liber- alism” more generally – has foreclosed much of the progressive and/or transgressive potential of the new technologies (as inventoried so effectively in Jonathan Crary’s 24/7, for instance). 24 A fellow Deleuzian, Claire Colebrook, is not so celebratory when it comes to describing this new emergence of post-human erotics, although she shares a strong interest in getting beyond the stubbornly persistent virus of patriarchy, and the stable gender distinction on which it depends. Her essay “Difference, Time and Organic Extinction” is an especially astute discussion of “sexuality” as something we should consider more ecological than psychological, or even merely physi- ological. “At the level of thought and life,” Colebrook",
+      "source": "Dominic Pettman - Peak Libido_ Sex, Ecology, and the Collapse of Desire (2020, Polity Press) - libgen.li (1).pdf",
+      "chunk_index": 395,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.79373294,
+      "importance": 0.8191112279891968,
+      "final_score": 0.7937328815460205
+    },
+    {
+      "id": "fbb99c960a20fa1b104601f2",
+      "qdrant_id": "838c3590-6ff8-578a-9300-740287d8a062",
+      "text": "Returning from culture and media theories to continental philosophy (but with an Australian feminist twist), Claire Colebrook interprets three gestures in “Disaster Feminism,” which she relates to Braidotti’s work and which she proceeds to discuss and respond to: the refusal of clarity, the refusal of the present, and the refusal of despair. Through her exploration, Colebrook develops three possible responses to disaster aligned with Braidotti’s three refusals and follows Braidotti’s notion that “one needs to think of disaster and catastrophe in a frame that is broader and less humanly myopic” (this volume, p. 77). Patricia MacCormack continues the discussion of Braidotti’s Deleuzian feminism in “Pro-Proteus: The Transpositional Teratology of Rosi Braidotti,” albeit through a radically different route. Connecting the posthuman to teratology and the monstrous, MacCormack positio…",
+      "source": "Bolette Blaagaard (editor) - The Subject of Rosi Braidotti_ Politics and Concepts (2014, Bloomsbury Academic) [10.5040_9781472594426] - libgen.li.pdf",
+      "chunk_index": 91,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.78442764,
+      "importance": 0.8180699348449707,
+      "final_score": 0.7844276428222656
+    },
+    {
+      "id": "9343472763dd756cc353b5bc",
+      "qdrant_id": "067db9d1-230c-5107-9b46-506d8effc5b6",
+      "text": "University in the Netherlands. She has published extensively in feminist philosophy, epistemology, poststructuralism and psychoanalysis. Her books include Patterns of Dissonance (Polity Press, 1991); Nomadic Subjects: Embodiment and Sexual Difference in Contemporary Feminist Theory (Columbia University Press, 1994); Metamorphoses: Towards a Materialist Theory of Becoming (Polity Press, 2002). She has co-edited the following: Women, the Enviromment, and Sustainable Development. Towards a Theoretical Synthesis (with E. Charkiewicz, S. Hausler and S. Wieringa) (Zed Books, 1994); Between Monsters, Goddesses and Cyborgs (with Nina Lykke) (Zed Books, 1996); Thinking Differently. A European Women’s Studies Reader (with Gabriele Grifﬁn) (Zed Books, 2002); and numerous essays and chapters in various texts. Her latest book is: Transpositions on Nomadic Ethics (Polity Press, forthcoming). Claire Colebrook is Professor of Literary Theory at the University of",
+      "source": "[Deleuze Connections] Constantin V. Boundas - Deleuze and Philosophy (2006, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 151,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7826604,
+      "importance": 0.8075692057609558,
+      "final_score": 0.7826604247093201
+    },
+    {
+      "id": "05bfe1ce5af02de612efc180",
+      "qdrant_id": "57d14d8f-824c-500c-883f-393958cfda39",
+      "text": "of a loss of identity to the feminist movement, then Irigaray seems to present the other extreme risk, essentialism. It is this ostensible opposition between non-identity and essence that Olkowski pulls apart, for both Deleuze and Irigaray attempt to think beyond these sorts of dualisms. An encounter between the two might give feminist CLAIRE COLEBROOK 14",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and feminist theory (2000, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 51,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.77553445,
+      "importance": 0.8025761842727661,
+      "final_score": 0.775534451007843
+    },
+    {
+      "id": "c300143454ac1fd516b78e2f",
+      "qdrant_id": "80c48028-cf03-5969-9067-a423349f6861",
+      "text": "in several of the essays as examples of different ways in which feminist theory has already been thinking the Anthropocene. Among the pieces collected in this volume, fellow author Claire Colebrook’s recent books on extinction speak most helpfully. Povinelli",
+      "source": "Anthropocene Feminism (21st Century Studies) (Richard Grusin, Stacy Alaimo, Rosi Braidotti etc.) (Z-Library).pdf",
+      "chunk_index": 23,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7691769,
+      "importance": 0.798820972442627,
+      "final_score": 0.7691771388053894
+    },
+    {
+      "id": "f37ac829346cc35b736ce976",
+      "qdrant_id": "2049dc62-6959-5ecd-bf35-2fcfdb7ecbc4",
+      "text": "feminists should incorporate the most inﬂuential biological theory of the nineteenth century—Darwin’s theory of evolution. Grosz identi- ﬁes aspects of Darwin’s thought that can be used to develop a feminist approach to biology. Her argument oﬀers a kind of template for how the “new” feminist critiques of science should operate. Nothing is out- of-bounds; all possibilities are considered. And most importantly, the materiality of the subject of science is paramount. The subject of Claire Colebrook’s essay is what she calls the “new vitalism.” Although she rejects the conservative vitalism of thinkers such as Bergson, Colebrook asserts that a radical feminist materialism must be grounded in a redeﬁned vitalism. Colebrook discusses the work of Elizabeth Grosz along with that of Marx, Hegel, Bergson, Material Feminisms",
+      "source": "Stacy Alaimo and Susan Hekman _ (eds) - Material Feminisms (2008, Indiana University Press) - libgen.li.pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7649092,
+      "importance": 0.8016782402992249,
+      "final_score": 0.7649092674255371
+    },
+    {
+      "id": "23996cd055761d4d1b8aba14",
+      "qdrant_id": "f4b7f868-5f46-59c8-88dc-ee9453ba9359",
+      "text": "Contents Introduction 1 Claire Colebrook Chapter I Becoming-Woman Now Verena Andermatt Conley 18 Chapter 2 Becoming-Woman: Deleuze, Schreber and Molecular Identification Jerry Aline Flieger 38 Chapter 3 The Woman In Process: Deleuze, Kristeva and Feminism Catherine Driscoll 64 Chapter 4 Body, Knowledge and Becoming-Woman: Morpho-logic in Deleuze and Irigaray Dorothea Olkowski 86 Chapter 5 Is Sexual Difference a Problem? Claire Colebrook 110 Chapter 6 Towards a Feminist Philosophy of Mind Eleanor Kaufman 128 Chapter 7 Deleuze and Feminisms: Involuntary Regulators and Affective Inhibitors Nicole Shukin 144 Chapter 8 Teratologies Rosi Braidotti Contents Chapter 9 Goodbye America (The Bride is Walking ... ) Camilla Benolirao Griggers Chapter 10 Deleuze's Bergson: Duration, the Virtual and a Politics of the Future 156 173 Elizabeth Grosz 214 Notes on Contributors 235 Works Cited 237 Index 245 vi",
+      "source": "Ian Buchanan_ Claire Colebrook - Deleuze and Feminist Theory (2022, Edinburgh University Press) [10.1515_9781474400527] - libgen.li.pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.76460797,
+      "importance": 0.8025560975074768,
+      "final_score": 0.764607846736908
+    },
+    {
+      "id": "4286be8c90dc470ed804f40b",
+      "qdrant_id": "aa3e719d-ba33-5c1a-8b07-0b3648858872",
+      "text": "volumes on Continental philosophy and feminism. Adam Bryx is a graduate student in English at Lakehead University. He has co-translated, with Gary Genosko, interviews and articles by Jean Baudrillard and Paul Virilio. Claire Colebrook is Professor of Literary Theory at the University of Edinburgh. She is the author of New Literary Histories (1997), Ethics and Representation (1999), Gilles Deleuze (2002), Understanding Deleuze (2003), Irony: The New Critical Idiom (2003), Irony in the Work of Philosophy (2003) and Gender (2003). She is also the editor (with Ian Buchanan) of Deleuze and Feminist Theory (1999). Felicity J. Colman teaches contemporary theories of commodity cul­ tures, avant-garde, experimental, and feminist practices of visual and screen culture in the Cinema Program at the University of Melbourne. Tom Conley is ProtCssor of Romance J ,anEuages in the Department of Romance I ,anèlIa èlɅS, H arvard Universit y. l ie is the author of The SelF­",
+      "source": "Adrian Parr (editor) - The Deleuze Dictionary (2005, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 180,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7634466,
+      "importance": 0.7954476475715637,
+      "final_score": 0.763446569442749
+    },
+    {
+      "id": "516e389515e69bd8c8872c85",
+      "qdrant_id": "33659c8a-ace4-5461-90ae-bde066f66090",
+      "text": "10 claire colebrook identity that emerges from the history of the family, or is “woman” a figure of Western modernity, comprehensible only with the formation of sexual subjects, or do we think of woman not as occurring within the history of humanity but as constituted in a sexual contract that enabled what we are now referring to as the human of the Anthropocene? Now, more than ever, feminism is presented with the question of point of view: there has always been a composed “who” or “we”—­which makes any question or discipline possible. In the case of the Anthropocene, we might ask, who is this Anthropos who dates himself at the point of the Industrial Revolution or some other mark of his own making? Does this man of the Anthropocene know what he is saying when he makes a claim for “we” humans: who is he when he talks this way? Does this man of the Anthropos realize what was required to ask the questions he",
+      "source": "(21st Century Studies) Richard Grusin (ed.) - Anthropocene Feminism-University of Minnesota Press (2017).pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7558823,
+      "importance": 0.7881908416748047,
+      "final_score": 0.7558822631835938
+    },
+    {
+      "id": "aa6c9c4a91b677ac118e6b59",
+      "qdrant_id": "b2671d34-90d7-57b7-a313-6fa1d847f52a",
+      "text": "Deleuzian, feminist, cinematic and an affective theorisation of desire. Therefore, if we take movement, we can theorise the way it affects the audience, particularly, with regards to this chapter, how this functions in terms of melancholia and repetition. In her reading of Deleuze and cinema, Colebrook argues that ‘Cinema frees affect or the power of images from a world of coherent bodies differing only in degree, and opens up divergent lines of movement to differences in kind ... For Deleuze this has political ramifications, for it helps to explain how we as bodies— respond and desire forms (such as Fascism) even when they would not be in our interest’ (2002, 39–40, author’s italics). Colebrook offers the example of political rallies, where the music, speeches and colours draw demonstrators in both in terms of what we can see and hear, but also what we feel; as Colebrook suggests: ‘our bodies respond positively to these pre-personal “investments”’ (2002, 40). Part of what we respond",
+      "source": "Kristyn Gorton (auth.) - Theorising Desire_ From Freud to Feminism to Film (2008, Palgrave Macmillan UK) [10.1007_978-0-230-58224-8] - libgen.li.pdf",
+      "chunk_index": 528,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7557231,
+      "importance": 0.8117913603782654,
+      "final_score": 0.7557230591773987
+    },
+    {
+      "id": "9307bd1ce797513ae4d278a1",
+      "qdrant_id": "6fd4d65c-9af9-5e93-8e90-563d2caf8e6c",
+      "text": "which bring Deleuze’s thought to bear on an area contemporary debate ultimately ask us to rethink Deleuze in light of the conclusions drawn there. Claire Colebrook’s essay opens the collection. It represents a kind of before and after of Deleuze. The essay begins with a survey of concepts of embodiment from Husserl and Sartre through Grosz and Butler to autopoietic theories of embodied life. But, extending Deleuze and Guattari’s claim that the experience of death is the essence of life, Colebrook argues that these theories of embodiment, and autopoietic theory in particular, cannot account for unbounded and disembodied life. How can we think viral life, evil and the inhuman – forms of life which ‘make their way through the world without a thought of sustain- ability’? How can we think a life that is ‘blindly active’ and mutational and, assuming that we can think it, what would…",
+      "source": "[Deleuze Connections] Laura Guillaume (ed.), Joe Hughes (ed.) - Deleuze and the Body (2011, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 11,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.75369745,
+      "importance": 0.7919918894767761,
+      "final_score": 0.753697395324707
+    },
+    {
+      "id": "29c086a14a85e5e9916894dd",
+      "qdrant_id": "9cfa93b1-a9d4-5435-a6eb-226b684740cc",
+      "text": "CLAIRE COLEBROOK as though egalitarianism in general would entail the liberation of women. Following liberal feminism came a recognition that the liberal ideal of equality would only render women equal to men. Accordingly, radical or difference feminism emerged with attention to women's specific identities. But the problem with this 'second- wave' feminism was its assumption that women's identity existed and was knowable. In due course, then, feminism entered a third- wave, or a deconstructive, phase: one in which women's identity was affirmed at the same time as it was recognised that such an identity was constituted rather than given, and multiple rather than simple (Moi 1985; Braidotti 1991). And it is in this third-wave, or poststructuralist, phase, that feminism encounters the work of Gilles Deleuze. However, this standard way of thinking about feminism's history presents the picture of a series of ambivalent daughters directing",
+      "source": "Ian Buchanan_ Claire Colebrook - Deleuze and Feminist Theory (2022, Edinburgh University Press) [10.1515_9781474400527] - libgen.li.pdf",
+      "chunk_index": 33,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7519208,
+      "importance": 0.7831992506980896,
+      "final_score": 0.7519208192825317
+    },
+    {
+      "id": "d2392af1c4406ea758f32265",
+      "qdrant_id": "dff814ff-9bff-52f1-879a-21d8b90a1561",
+      "text": "for whom this strata becomes definitive of the human.” To demonstrate how “we have always been post-­Anthropocene,” Colebrook offers two counterfactual examples of global human development in relation to questions of gender and sexuality. The aim of these counterfactuals is to ask what might have been different if humans had not been exceptional in disturbing the natural order of the planet. She concludes that the “dream” of a “good Anthropocene” through geoengineering, “a pure ecology in which everything serves to maximize everything else, and in which there is no cost,” could “be possible only by way of countless injustices,” including prominently those against women. The dream of a good Anthropocene, Colebrook maintains, enacts a logic “that marks all that has stood for humanism, posthumanism, a certain dream of history and of utopian sexual difference,” thus demonstrating that the “event of the Anthropocene is exceptional—­but not by being extrinsic",
+      "source": "(21st Century Studies) Richard Grusin (ed.) - Anthropocene Feminism-University of Minnesota Press (2017).pdf",
+      "chunk_index": 25,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7460265,
+      "importance": 0.7851583361625671,
+      "final_score": 0.7460263967514038
+    },
+    {
+      "id": "0891157b1559a0c5500660cb",
+      "qdrant_id": "f3b6954e-6da7-5dd7-947c-72e9c8151a53",
+      "text": "emerges from feminist readings of his work. This book will place particular emphasis on the way in which feminist philosophy has engaged with his work on representation, difference and the body. No serious attempt at a Deleuzian approach to feminism and spectatorship can afford to ignore this important deployment of the philosopher’s work. Just as psychoanalytic feminist film theorists drew not only on the work of Sigmund Freud and Jacques Lacan, but also on feminist philosophers and critics such as Julia Kristeva, Luce Irigaray, Juliett Mitchell and Jacqueline Rose, Deleuze and Film: A Feminist Introduc- tion draws on important feminist appropriations of Deleuze’s work by contem- porary feminist thinkers such as Elizabeth Grosz, Claire Colebrook, Dorothea Olkowski, Rosi Braidotti and, in particular, Moira Gatens, who have mobilized Deleuze’s work on difference and the body in o…",
+      "source": "Teresa Rizzo - Deleuze and Film_ A Feminist Introduction (2012, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.744902,
+      "importance": 0.7977211475372314,
+      "final_score": 0.7449021339416504
+    },
+    {
+      "id": "ccd201091ad3f5d1f08da2d5",
+      "qdrant_id": "208fc9a7-8636-569f-ab45-ab2595bd5caa",
+      "text": "lar lives, to the interdependence of human freedoms, and to the ways in which concrete situations of oppression, born of large-scale structures, institutions, and dominant discourses, may impinge on, or even suppress, the human potentiality for freedom. Thus Beauvoir has increasingly be- come a resource within feminist theory, especially for those who seek to defend feminism from the reductive excesses that often accompany the poststructuralist ‘‘death of the subject’’ without thereby reverting to forms of biological essentialism. As Toril Moi has recently put it, ‘‘to ﬁnd a third way for feminist theory, one that steers a course between the Scylla of traditional essentialism and biologism and the Charybdis of idealist obses-",
+      "source": "Diana Coole (editor)_ Samantha Frost (editor)_ Jane Bennett (editor)_ Pheng Cheah (editor)_ Melissa A. Orlie (editor)_ Elizabeth Grosz (editor) - New Materialisms_ Ontology, Agency, and Politics-Duke .pdf",
+      "chunk_index": 151,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7412162,
+      "importance": 0.7883729338645935,
+      "final_score": 0.7412163019180298
+    },
+    {
+      "id": "1af5f7e38635675f4ff6d302",
+      "qdrant_id": "7fb92672-bf85-59de-ab4b-9fddb656721d",
+      "text": "questions of writing, woman, becoming, identity and style formed a philosophical and creative plane at the time Deleuze was writing. In this regard, then, the use of becoming-woman in the Deleuzean corpus would be less an act of appropriation, as it was first taken CLAIRE COLEBROOK 12",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and feminist theory (2000, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.74018157,
+      "importance": 0.7812536358833313,
+      "final_score": 0.740181565284729
+    },
+    {
+      "id": "ff94e867c5700eeacd2fb442",
+      "qdrant_id": "d6b51284-6bba-5d9d-b84c-0d7daeb8da4d",
+      "text": "the text. It takes the place of the old ‘‘goods’’ philosophers pursued and was, beginning in the late 1980s, imported into some versions of feminist theory as a new ‘‘ought,’’ in service to which the feminist political project tended to be dis- placed. I felt compelled to write a book on the notion of the sublime, not because it has been systematically taken up as an explicit rallying point by feminist thinkers of what is somewhat problematically called the postmodern tradition; it hasn’t. It is, however, the aesthetic experience of terror/exhilaration that emerges unnamed in important theoretical texts to provide the silent justiﬁcation for doing away with practically everything else. And it is, I think, a way of naming and describing what it feels like to live dependent on a world we are in the process of destroying; the terror comes from the destruction, and the exhilaration from our power to destroy. I will argue that the experience of the sublime can and does take different",
+      "source": "Bonnie Mann - Women's Liberation and the Sublime_ Feminism, Postmodernism, Environment (Studies in Feminist Philosophy) (2006, Oxford University Press, USA) - libgen.li.pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.73593533,
+      "importance": 0.7828938364982605,
+      "final_score": 0.7359352707862854
+    },
+    {
+      "id": "5239d8dd25ff6c1a2834544a",
+      "qdrant_id": "2be3e864-9a14-5da2-b1ff-b554a14dcfd5",
+      "text": "instead on other ideas from studies of evolution, which represent environ­ ments as themselves composed of interacting organisms who change all the time, thus changing ‘niches'. Organisms and their surroundings co-adapt, she insists, rather than one adapting to the other as conven­ tional neo-Darwinism would have it. Such themes - opposition to reductionism, and a concomitant concern to infer different accounts from available evidence (in less reduction- istic frameworks) - run through most feminist work on biology. Such work insists on looking at nature, at biology, as much more complex and as less passive than they are often seen - both within popular scientific narratives and within the social sciences. A central point of this work - and one I want to emphasise strongly - is that what we draw from the study of biology need not always be determinist; ‘biology' need not (…",
+      "source": "Lynda Birke - Feminism and the Biological Body - libgen.li.pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7353166,
+      "importance": 0.7820736169815063,
+      "final_score": 0.7353164553642273
+    },
+    {
+      "id": "70b7bc688c975e57518d9077",
+      "qdrant_id": "c2c60e73-8d12-570d-99bd-d7eedeb144c0",
+      "text": "20 claire colebrook 8. Naomi Oreskes and Erik M. Conway, The Collapse of Western Civilization: A View from the Future (New York: Columbia University Press, 2014). 9. On sex as an effect of gender, see Judith Butler, Gender Trouble (London: Routledge, 1990); Moira Gatens, “A Critique of the Sex/Gender Distinction,” in A Reader in Feminist Knowledge, ed. Sneja Gunew (London: Routledge, 1991); and Teresa de Lauretis, Technologies of Gender: Essays on Theory, Film, and Fiction (Bloomington: Indiana University Press, 1987). 10. Alain Badiou, Being and Event, trans. Oliver Feltham (London: Con- tinuum, 2007). 11. Jane Bennett, Vibrant Matter: A Political Ecology of Things (Durham, N.C.: Duke University Press, 2010). 12. Gilles Deleuze, Difference and Repetition, trans. Paul Patton (New York: Columbia University Press, 1994); Giorgio Agamben, The Open: Man and Animal (Stanford, Calif.: Stanford University Press, 2004).",
+      "source": "(21st Century Studies) Richard Grusin (ed.) - Anthropocene Feminism-University of Minnesota Press (2017).pdf",
+      "chunk_index": 116,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7322862,
+      "importance": 0.7774707078933716,
+      "final_score": 0.7322862148284912
+    },
+    {
+      "id": "55473ef646912c1c119734ee",
+      "qdrant_id": "40e85586-0c2c-5069-9d7d-423ded32ffe2",
+      "text": "ated with (a mostly Deleuzian) neomaterialist or neovitalist feminism which has been sensitive to the nonhuman, the in- organic and the vibrancy of matter. This would include theo- rists such as Stengers,90 Elizabeth Grosz,91 Rosi Braidotti,92 Ma- nuel de Landa,93 Myra Hird,94 and Claire Colebrook.95 It would also hold Jane Bennett’s Vibrant Matter: A Political Ecology of 89 Harman, Circus Philosophicus, 1. 90 Isabelle Stengers, Cosmopolitics 1, trans. Robert Bononno (Minneapolis: University of Minnesota Press, 2010). 91 Elizabeth Grosz, Chaos, Territory, Art: Deleuze and the Framing of the Earth (New York: Columbia University Press, 2008). 92 Rosi Braidotti, Transpositions: On Nomadic Ethics (Cambridge: Polity, 2006). 93 Manuel DeLanda, Philosophy and Simulation: The Emergence of Synthetic Reason (London: Continuum, 2011). For a queering of DeLanda’s work, see Jeff Lord’…",
+      "source": "After the Speculative Turn Realism, Philosophy, and Feminism (Katerina Kolozova, Eileen A. Joy) (Z-Library).pdf",
+      "chunk_index": 115,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism",
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.762794,
+      "importance": 0.8021637797355652,
+      "final_score": 0.7302653789520264
+    },
+    {
+      "id": "75082e5271dfa07889326d8c",
+      "qdrant_id": "46b113af-1894-5ca1-aa28-c1c4b9c250b6",
+      "text": "Butler. Her research focuses on politics in the long eighteenth century as well as related topics such as gender, radicalism, and religion. Claire Colebrook is Edwin Erle Sparks Professor of English, Philosophy and Women’s and Gender Studies at Penn State University. She has written Downloaded from manchesterhive © Copyright protected It is illegal to copy or distribute this document",
+      "source": "Chris Bundock_ Elizabeth Effinger (editors) - William Blake's Gothic imagination_ Bodies of horror (2018, Manchester University Press) [10.7765_9781526121950] - libgen.li (2).pdf",
+      "chunk_index": 13,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7302519,
+      "importance": 0.7686074376106262,
+      "final_score": 0.7302517294883728
+    },
+    {
+      "id": "dd339e21c4e1dd0e7f96c8d2",
+      "qdrant_id": "181fda22-4834-51a0-9bed-1ba4105d6715",
+      "text": "84 claire colebrook structural harassment and sexual predation at their core. The media did very well out of #MeToo, and the market has done very well by producing human resource firms and corporate education to man- age sexism and sexual harassment. It’s complicated. Deconstruction is often associated with institutional privilege and a certain ethical bankruptcy, questioning — as it insistently does — the borders between good and evil, violence and justice, and self and other. In many ways, though, that is just the point: deconstruction is about contamination, culpability and — also therefore — about sex. It is sex, after all, that at once requires the bounded skin and ownness that make one’s body one’s own, while also — at least meta­ phorically — generating a loss of self, an abandonment or dissolu- tion. The penetrable body is also impenetrable, even if there is a long his…",
+      "source": "Jean-Luc Nancy_ Irving Goh - The Deconstruction of Sex (2021, Duke University Press) [10.1515_9781478021643] - libgen.li.pdf",
+      "chunk_index": 241,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.729229,
+      "importance": 0.7665184140205383,
+      "final_score": 0.7292288541793823
+    },
+    {
+      "id": "92edce96892d4fe81b15318b",
+      "qdrant_id": "abb0b31d-03c2-5a87-b538-b11be2cef267",
+      "text": "of Darwin, to make her point, Wilson turns to neurology. A feminist analysis of neuropsychology, she claims, will enable those studying feminist psychology to rethink the nature of feminist psychology and the politics of feminist intervention in general (1998: 67). In order to accomplish this, Wilson turns to what might seem a curious theoretical source: Derridean deconstruction. Wilson uses Derrida to examine psychology as a science under erasure, a science radically at odds with the binaries that seek to control it (1998: 88). But despite this significantly different strategy, Wilson ends up occupying the same theoretical space as Grosz. She concludes that the feminist emphasis on gender has meant that the possibility of thinking biology as “other than an excluded, distant, and foundational use has been foreclosed in the majority of feminist projects” (1998: 54). Several of the theorists discussed above make reference",
+      "source": "Susan Hekman - The Feminine Subject (2014, Polity) - libgen.li.pdf",
+      "chunk_index": 114,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.72895145,
+      "importance": 0.7781211137771606,
+      "final_score": 0.7289512753486633
+    },
+    {
+      "id": "df3a267192cfe49824a7b7b5",
+      "qdrant_id": "7d07771b-e241-5867-af3d-fc695a7bd139",
+      "text": "tion to the postmodern. Deleuze is neither dismissed as one more sign of a postmodern malaise of dehumanisation. Nor is Deleuze celebrated as the harbinger of post-human cyber-liberation. Braidotti charts the conflicting possibilities for the future enabled by what her essay explores as the ‘teratological’ imaginary. Elizabeth Grosz, whose work on Deleuze and the body has already transformed feminism, now uses Deleuze to address the question of transformation itself. For Grosz, the issue presented by Deleuze has moved from the specificity of bodies and desires, to the movement of the virtual. Grosz’s argument is not a straight- forward uncovering of a project or deep meaning in Deleuze’s texts. Rather, Grosz weaves her own reading of Bergson back through Deleuze’s use of Bergson to ask whether there might be a politics of the future. Given the ostensible demise of the emancipationist his…",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and feminist theory (2000, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.74598765,
+      "importance": 0.7953303456306458,
+      "final_score": 0.7288863062858582
+    },
+    {
+      "id": "3e3e4a6999736d57d3ec6e51",
+      "qdrant_id": "eb281e09-9c24-5d77-bf7d-e1940ab2976c",
+      "text": "contents Acknowledgments vii Introduction 1 part i. life: human and inhuman becomings 1. The Inhuman in the Humanities: Darwin and the Ends of Man 11 2. Deleuze, Bergson, and the Concept of Life 26 3. Bergson, Deleuze, and Di√erence 40 part ii. disturbing differences: a new kind of feminism 4. Feminism, Materialism, and Freedom 59 5. The Future of Feminist Theory: Dreams for New Knowledges 74 6. Di√erences Disturbing Identity: Deleuze and Feminism 88 7. Irigaray and the Ontology of Sexual Di√erence 99 part iii. animals, sex, and art 8. Darwin and the Split between Natural and Sexual Selection 115 9. Sexual Di√erence as Sexual Selection: Irigarayan Reﬂections on Darwin 143 10. Art and the Animal 169 11. Living Art and the Art of Life: Women’s Painting from the Western Desert 187 Notes 203 Bibliography 245 Index 255",
+      "source": "Elizabeth Grosz - Becoming Undone_ Darwinian Reflections on Life, Politics, and Art-Duke University Press (2011).pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7286033,
+      "importance": 0.7831838130950928,
+      "final_score": 0.7286033034324646
+    },
+    {
+      "id": "998b7dd20b564171fffe3409",
+      "qdrant_id": "b6ab624e-0222-529e-a498-59884bb297b5",
+      "text": "Monstrocene « 337 » 81. Colebrook, 206. 82. Claire Colebrook, Sex after Life: Essays in Extinction (Ann Arbor, Mich.: Open Humanities Press, 2014), 2:17; Claire Colebrook, “Anti-­ catastrophic Time,” New Formations 92 (2017): 103. 83. Chakrabarty, “Climate,” 208. 84. Colebrook, “Anti-­catastrophic Time,” 103. 85. Colebrook, 108. 86. Colebrook, 103. 87. Cohen et al., Twilight of the Anthropocene Idols, 84. 88. Colebrook, Death of the PostHuman, 55. 89. Cohen et al., Twilight of the Anthropocene Idols, 123, 113. 90. Cohen et al., 120. 91. Cohen et al., 118. 92. Cohen et al., 120. 93. Jacques Lacan, Four Fundamental Concepts of Psychoanalysis, trans. Alan Sheridan (Harmondsworth, U.K.: Penguin, 1977), 26. 94. Colebrook, Death of the PostHuman, 11, 21, 11. 95. Colebrook, Sex after Life, 148. 96. Colebrook, “Anti-­catastrophic Time,” 112. 97. Colebrook, Dea…",
+      "source": "Justin D. Edwards_ Rune Graulund_ Johan Höglund - Dark Scenes from Damaged Earth_ The Gothic Anthropocene-University of Minnesota Press (2022) (1).pdf",
+      "chunk_index": 152,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7284119,
+      "importance": 0.7651294469833374,
+      "final_score": 0.7284119129180908
+    },
+    {
+      "id": "616a3207ba47c3951da67351",
+      "qdrant_id": "3aeeab43-d229-54da-8df0-9475301d3cf0",
+      "text": "Introduction: Emerging Models of Materiality in Feminist Theory 11 Judith Butler, Michel Foucault, and Gilles Deleuze, analyzing the philosophical and political reverberations of their conceptions of mat- ter. Each analysis yields important insights into the redeﬁnition of matter. Regarding Marx, Colebrook argues that the Marxist concept of dialectical materialism counters the depoliticizing of history by em- phasizing bodily needs. Her rereading of feminist critiques of matter leads her to reform matter as “positive diﬀerence.” Her bold formula- tions take the matter of corporeality seriously by refusing to posit the substance of the body as a mere blank slate for cultural constructions. Indeed, Colebrook emphasizes the extent to which matter can itself alter those systems. She concludes with an image of feminist art criti- cism and a feminist politics that “frees matter from th…",
+      "source": "Material Feminisms (Stacy Alaimo and Susan Hekman (eds)) (Z-Library).pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.72807866,
+      "importance": 0.7893843054771423,
+      "final_score": 0.7280786037445068
+    },
+    {
+      "id": "075430ac5e385e27e4411c6a",
+      "qdrant_id": "ad5975e9-4cf0-5404-8c1a-e99f90b4fbf0",
+      "text": "differing. The fact that Deleuze, like Foucault, hardly engages with women’s liberation prompts Braidotti to ask whether “Deleuze becomes normative by omission.” “When this ‘becoming woman’ is disembodied to the extent that it bears no connection to the struggles, the experience, the discursivity of real-life women, what good is it for feminist practice?” (Braidotti 1991i, pp. 120–1; cf. Grosz 1993, p. 179). With the benefit of hindsight, the question is, of course, whether this early negative critique was potentially a little premature on the part of feminists, who, in throwing the baby away with the bathwater, lost the opportunity to develop a Deleuzean feminism. However, early on, and elsewhere in Patterns of Dissonance itself, Braidotti actually engages the Deleuzean feminist project and claims that Deleuze’s philosophy of becoming shifts the Hegelianism deemed responsible …",
+      "source": "Bolette Blaagaard (editor) - The Subject of Rosi Braidotti_ Politics and Concepts (2014, Bloomsbury Academic) [10.5040_9781472594426] - libgen.li.pdf",
+      "chunk_index": 71,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.72719055,
+      "importance": 0.7811825275421143,
+      "final_score": 0.7271907329559326
+    },
+    {
+      "id": "6161381f556c21a3ee0408cf",
+      "qdrant_id": "8538e252-7712-52d9-a338-df3434fbe3a9",
+      "text": "destructive skepticism. At a certain point, it seemed that feminists were talking past one another, quarreling about something that was in any case an accomplished fact and hardly the result of anyone’s deliberate choice. The view that the collapse of women as a uniﬁed category was the fault of “poststructuralist” feminist theorists and to a lesser extent “women of color” struck me as an attempt to kill the message by killing the messen- ger. It also seemed like a troubling displacement of feminist politics itself. If we no longer speak unthinkingly of women as a group with com- mon interests based on a common identity, surely that is not attributable solely nor even primarily to the considerable critical energies of third- wave thinkers like Judith Butler, Chantal Mouffe, or Joan Scott. The eco- nomic and social developments of late capitalism (for example, the breakup of the labor movement, globalization, and the homework econ-",
+      "source": "Linda M. G. Zerilli - Feminism and the Abyss of Freedom-University of Chicago Press (2020).pdf",
+      "chunk_index": 10,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7270938,
+      "importance": 0.7710089683532715,
+      "final_score": 0.7270939350128174
+    },
+    {
+      "id": "a6fbb58f2b16a168f6d9fe4b",
+      "qdrant_id": "fb5e2782-c4eb-5d57-a37a-a70f4545a5a3",
+      "text": "thought a new way of proceeding, such that neither the subject nor becoming would govern a feminist programme. Rather, Deleuze and Irigaray might be read in order to effect new ways of asking feminist questions: questions beyond determinations of identity, essentialism, emancipation and representation. This possibility of new questions and new problems is also explored by Claire Colebrook. It might seem that feminists would have to decide how to think sexual difference, whether to ‘use’ Irigaray, Derrida or Deleuze. Framing the question in this way suggests that there is some truth to sexual difference and we only need to find the right theory. What Deleuze offers, though, is a different way of thinking questions. Sexual difference is not an issue within theories. The question of sexual difference challenged just the way in which theory has been undertaken. It’s not a question of finding…",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and Feminist Theory (2000, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 52,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7258204,
+      "importance": 0.7718753814697266,
+      "final_score": 0.7258206605911255
+    },
+    {
+      "id": "278d8ddbdc2cddaf19ea19be",
+      "qdrant_id": "a09e4466-ec26-543b-8cbd-db13daff3386",
+      "text": "ance are unthinkable without the impact of feminism, even though many of these activities may take place on the margin or even outside the movement proper. (Huyssen 1986: 220) Feminist perspectives have brought about a major shift in our ways of thinking about culture, knowledge, and art and also about the way in which the political impinges upon and infuses all of our thinking and acting, both public and private. Yet there has been considerable resistance to any identiﬁcation of the postmodern with the feminist. There has been an understandable suspicion of the deconstructing and undermining impulse of post- modernism at a historic moment when construction and support seem more important agendas for women. Yet, as the work of Christa Wolf, Angela Carter, Susan Daitch, Audrey Thomas, and Maxine Hong Kingston shows, ‘de-doxiﬁcation’ is as inherently a part of feminist as it is of postmode…",
+      "source": "Linda Hutcheon - The politics of postmodernism (2002, Routledge) - libgen.li.pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.72581446,
+      "importance": 0.7746698260307312,
+      "final_score": 0.7258145809173584
+    },
+    {
+      "id": "45200831517df9c0e1401004",
+      "qdrant_id": "e233fa29-282c-573d-a1c8-6dbd07eef409",
+      "text": "CLAIRE COLEBROOK alarming perversity of interpretation than the use of Woolf’s high Bloomsbury stream of consciousness and the women’s movement to indicate non-identity and radical becoming. What is Deleuze doing when writers like Spinoza and Leibniz can come to typify the antithesis of system philosophy? And what happens to the girl and the women’s movement when they are displaced in terms of a universal becoming? We might argue that this strategy is typical of a masculine can- nibalisation of thought, and that women’s non-identity and writing have always been used to shore up a male identity that refuses to acknowledge any genuine otherness. But it is this risk of contagion and contamination that has characterised the odd and unfaithful position of feminism from the outset. Feminism has never been the pure and innocent other of a guilty and evil patriarchy. It has always been obliged …",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and Feminist Theory (2000, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 10,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7252773,
+      "importance": 0.7659470438957214,
+      "final_score": 0.7252771854400635
+    },
+    {
+      "id": "e990e8d35cc67c9f29742121",
+      "qdrant_id": "0cfc93b5-5cb6-5cea-b5d1-041a48fcf416",
+      "text": "Deleuze and Feminist Theory Deleuze and Feminist Theory edited by IAN BUCHANAN and CLAIRE COLEBROOK EDINBURGH University Press © The Contributors, 2000 Edinburgh University Press Ltd 22 George Square, Edinburgh Reprinted 2001 Transferred to digital print 2005 Typeset in ITC-New Baskerville by Pioneer Associates, Perthshire Printed and bound in Great Britain by CPI Antony Rowe, Eastbourne A CIP record for this book is available from the British Library ISBN 0 7486 l120 7 (paperback) The right of the contributors to be identified as authors of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988.",
+      "source": "Ian Buchanan_ Claire Colebrook - Deleuze and Feminist Theory (2022, Edinburgh University Press) [10.1515_9781474400527] - libgen.li.pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7250829,
+      "importance": 0.7704212069511414,
+      "final_score": 0.7250827550888062
+    },
+    {
+      "id": "e9bed6b213f91fce65e72ddd",
+      "qdrant_id": "021e9b19-2ec9-5c8b-b9af-551b1006ca35",
+      "text": "Might the disappearance of man allow ‘A new light, new (modes) of enunciation, a new power, new forms of subjectification?’ (ibid.: 191). However, even as I write these words, as I use Deleuze and Foucault to glimpse beyond man, I hear the strongly voiced objections from some feminists. Perhaps the loudest of these is the one that says, ‘But there are only men in Foucault, there are no women’. Not out of duty, but out of respect for the apparatus that has given me voice, I hope to show here some of the creative possibilities that Foucault may hold out to feminist theory. This is also to remember that over the years there have been many ‘women in Foucault’. We can be inspired by their critiques and appropriations of Foucault. It is, of course, hardly news that there is precious little feminism in Foucault, or that the alliance between Foucault and feminism has been a rather fraught one. …",
+      "source": "Sexing the Self Gendered Positions in Cultural Studies (Elspeth Probyn) (Z-Library).pdf",
+      "chunk_index": 444,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7242574,
+      "importance": 0.7713851928710938,
+      "final_score": 0.7242575287818909
+    },
+    {
+      "id": "bd30aa3f960238dd77ab5402",
+      "qdrant_id": "138976a2-a0e6-53f5-9246-1c91852efd9c",
+      "text": "and dependent. There is a clear critique of humancentrism and of the extent and intensity of the exploitations of non-human creatures, particularly domesticates. In emphasising the limits of autonomy and in emphasising the needs of thinking, feeling and suffering creatures, there is much of the embodied creature in Donaldson and Kymlica, certainly as compared to Latour, but is there enough? Feminist politics of species It is no accident that Donaldson and Kymlica draw on feminism in making the case for historically constituted, geographically specific species relations and in undermining the case for species separatism and autonomy. Feminism was engaged with issues of human relations with non-human animals from the early second wave (Adams, 1976). A key strand of writing focused on an ‘ethic of care’ in relation to non-human species, and an important theme in early writings is that differential gender socialisation and the gendered division of labour encourage or",
+      "source": "[Interventions] Erika Cudworth, Stephen Hobden - The Emancipatory Project of Posthumanism (2018, Routledge) - libgen.li.pdf",
+      "chunk_index": 447,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.72424865,
+      "importance": 0.7756887674331665,
+      "final_score": 0.7242487072944641
+    },
+    {
+      "id": "3146b70e1af7cf0c38f913d3",
+      "qdrant_id": "8256fac4-4911-5201-be7f-b6066e2d939a",
+      "text": "a part of masculine ideology. As she notes, the notion of inclusion, both in theory and political practice, opens up realms of experience to theoretical discussion that not only undermine the liberal model of the individual, but raise questions about the notions of sexual diﬀerence that the feminist critique of liberalism assumes, and thus about the sexual binary, and ultimately about the notion of diﬀerence itself. If we question, or deconstruct, the very basis of our distinctive form of critique, is this deconstruction tantamount to a kind of political quietism? This is a question that is raised by Judith Butler’s rhetorical analyses of gender diﬀerence talk discussed by Colebrook, and Butler’s famous slogan “everyone is in drag.” Thomas Docherty discusses this problem in terms of the infusion of ideas from literary criticism into social theory, especially in the form of Jacques Derrid…",
+      "source": "(Routledge International Handbooks) Gerard Delanty, Stephen P. Turner - Routledge International Handbook of Contemporary Social and Political Theory-Routledge (2011).pdf",
+      "chunk_index": 123,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.72383165,
+      "importance": 0.801754355430603,
+      "final_score": 0.7238315343856812
+    },
+    {
+      "id": "6c1499b40e0b915b4687231a",
+      "qdrant_id": "eef627a6-9335-5d9c-be5e-e4bedc31e26a",
+      "text": "for including Feminism, Foucault and Embodied Subjectivity in his series on Con- temporary Continental Philosophy. Much of the research for this book was done in the Foucault archives in Paris during the summers of 1997, 1998, and 2000.This research was supported by Jack B. Critchfield faculty research grants awarded by Rollins College. Research for chapter six, also supported by a Critchfield grant, was done in Northwestern Uni- versity’s special collection on women,“Femina.” I acknowledge with thanks the cu- rator of Special Collections at Northwestern University Library, R. Russell Maylone, for allowing me access to the Femina collection. My research in Paris de- pended on the expertise and generosity of a number of individuals. I am very grate- ful to Madame Isabelle Seruzier, Bibliothécaire, and Father Michel Albaric, op., Directeur, of the Bibliothèque du Saulchoir for allowing me …",
+      "source": "[SUNY Series in Contemporary Continental Philosophy] Margaret A. McLaren - Feminism, Foucault, and Embodied Subjectivity (2002, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7232188,
+      "importance": 0.7762400507926941,
+      "final_score": 0.7232186198234558
+    },
+    {
+      "id": "3b741b6cd3b16aed85949ac6",
+      "qdrant_id": "1ecc4360-cf0c-5e64-b45c-2038a852b07c",
+      "text": "opens this volume. As already noted, Haraway’s “Manifesto for Cyborgs” provides one of the earliest influential formulations of the inseparabil- ity of humans and nonhumans in the figure of the cyborg, which she deploys as a means of critiquing mid-­1980s variations of naturalizing feminism and Marxism. Her important writing on companion species works to similar purposes, and her very recent coinage, “Chthulucene,” appears in Jill Schneiderman’s mapping of the Anthropocene naming controversy. Butler and Grosz figure in Lynne Huffer’s essay as repre- sentatives of the persistence of a shared concept of life or vitality in denaturalizing and renaturalizing feminism, respectively. The work of both of these feminist/queer theorists, along with Karen Barad, appear in several of the essays as examples of different ways in which feminist theory has already been thinking the Anthropoce…",
+      "source": "Anthropocene Feminism (21st Century Studies) (Richard Grusin, Stacy Alaimo, Rosi Braidotti etc.) (Z-Library).pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.824677,
+      "importance": 0.8431462645530701,
+      "final_score": 0.722676157951355
+    },
+    {
+      "id": "594f02928136b431b9e1fc7e",
+      "qdrant_id": "19afba44-995e-5e74-a80a-f814b24d58a9",
+      "text": "was in keeping with her communist and anti-colonialist engagement. She was a fervent opponent of the authoritarian French president de Gaulle, and the ‘May 68’ movement, with its anti-establishment position, its refusal of hierarchies and its anarchic spontaneity, matched her philosophy. Th is period inaugurated her work as a fi lmmaker. Her fi lm Détruire dit-elle (1969) was directly inspired by the May 1968 events and made her known outside of France. As the title suggests, her aim was to break down Western power structures, social hierarchies and narrative conventions. It also shows that for Duras, it is only out of the destruction of the old world that a new communist, egalitarian society will rise. Until then, Duras had been perceived as a marginal left -wing writer, but throughout the 1970s her image changed, and she began to be seen as a feminist writer. She supported the MLF (Mouvement de",
+      "source": "Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li.pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.722288,
+      "importance": 0.7716703414916992,
+      "final_score": 0.7222881317138672
+    },
+    {
+      "id": "09c46f324934c1aa428f3f99",
+      "qdrant_id": "b9cf28f4-92fe-5f61-aadf-f69d27ebc963",
+      "text": "was once imagined, but never realized. Her symbolic reanimation thus problematizes ‘enlightenment’ theories of feminist progress by suggesting that the seeds of women’s future empowerment lie in the past as much as in the present. As we go on to argue in the chapters that follow, these ghostly visitations reveal the vexed and volatile relationship between feminism and popular culture. If media speculation about the ‘death of feminism’ has given rise to a body of popular texts that seek to define and diagnose the condition of postfeminism, then this book seizes on a selection of these texts in order to investigate the implied ‘afterlife’ of feminism, querying the extent to which contemporary culture is haunted by the ghosts of an undead feminism. Through reference to a suggestive vocabulary of haunting that we identify in feminist polemical writing and popular culture alike, …",
+      "source": "Rebecca Munford, Melanie Waters - Feminism and Popular Culture_ Investigating the Postfeminist Mystique-Rutgers University Press (2014).pdf",
+      "chunk_index": 48,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7214494,
+      "importance": 0.772692859172821,
+      "final_score": 0.7214494943618774
+    },
+    {
+      "id": "a45fd44222c978e4eabd56a2",
+      "qdrant_id": "3ca8b96e-7755-56aa-a9ce-b27aa63762c6",
+      "text": "xxii Preface Battling to the End. On both counts, a recent observation by Julia Kristeva is most suggestive: Taking a retrospective measure of feminism and expressing fears that “we may have reached the point of no return” for a human com- munity leaning toward destruction, Kristeva writes, I am convinced that aft er all the more or less reasonable and promising projects and slogans the feminist movement has promulgated over the past decades, the arrival of women at the forefront of the social and ethi- cal scene has had the result of revalorizing the sensory experience. . . . Th e immense responsibility of women in regard to the survival of the species . . . goes hand in hand with this rehabilitation of the sensory.39 I take as my guidepost in this work Kristeva’s assertion that close attention to sensory experience is among the most lasting legacies of feminism and one that of…",
+      "source": "[Studies in Violence, Mimesis and Culture] Reineke, Martha J - Intimate domain _ desire, trauma, and mimetic theory (2014, Michigan State University Press) - libgen.li.pdf",
+      "chunk_index": 53,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.72120494,
+      "importance": 0.7767155766487122,
+      "final_score": 0.7212049961090088
+    },
+    {
+      "id": "2a27eb8cfe67726101342f71",
+      "qdrant_id": "9de42e3f-8732-5a42-8771-01cb5e31cd3b",
+      "text": "according to a syntactical vision. As Sarah Franklin has observed, when the discourse shifts from gene to cell, more ecological properties are discerned, and then deployed, in the manipulation of conception (Franklin 2004, unpublished paper). So does technology effortlessly enmesh matter in rhetoric, and subject in substance, subjecting it also to a commodifying homogeneity. The effects of this synthesis remain a challenge to feminist thinking. FROM KIND TO BRAND The theory that seeks to capture the value production inherent in rep- resentation needs to leave open the space of difference, or in the tech- nical terms of deconstruction (whose work this is) the spacing of différance. And a grasp of the material nature of this production must let go of preexistent normativities, for it is only in surrendering the valencies al- ready invested in signs that new values can be seen for themselves. But to let go of valency is also to surrender political and ethical",
+      "source": "(SUNY Series in Gender Theory) Robyn Ferrell - Copula_ Sexual Technologies, Reproductive Powers-State University of New York Press (2006).pdf",
+      "chunk_index": 512,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.72090185,
+      "importance": 0.782383382320404,
+      "final_score": 0.7209018468856812
+    },
+    {
+      "id": "53cdaf975c83b441ee2331c2",
+      "qdrant_id": "b34b8b19-20a4-590b-b00b-1cc9cf3f07db",
+      "text": "the most forceful recent feminist attempt to come to terms with postmodernism whilst resisting the implications and the Uncertainty of its 'strong' versions. Indeed, she has explicitly argued that strong postmodernism threatens the entire identity of feminism as a politics and tries to discredit the emancipatory ideals which have guided it in the past. Whilst recommending a contextualist theory of knowledge or understanding, she nevertheless insists on the need to sustain a commitment to Enlightenment models of rationality as a regulative principle guiding our enquiries and beliefs. She argues for the need also to continue to envisage the possibility of Utopia (and therefore progress) as an inspiration for political practice and has put forward a persuasive case that social critics cannot afford to abandon the philosophical ideal of 'objectivity', for we need to able to detach ourselves …",
+      "source": "Stevi Jackson, Jackie Jones - Contemporary Feminist Theories (1998, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 156,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.72019374,
+      "importance": 0.7783316373825073,
+      "final_score": 0.7201937437057495
+    },
+    {
+      "id": "4142cbdd693d0f4aaed85b6b",
+      "qdrant_id": "31e45324-d78c-5681-b00a-236da0ed647e",
+      "text": "Only recently and reluctantly have feminists taken a positive turn in the direction of Gilles Deleuze’s philosophy. Where the texts of Jacques Derrida and Jacques Lacan have been a mainstay of feminist theories of subjectivity for several decades, welcoming receptions of Deleuze’s philosophy have been few and far apart. The reasons for this fact may be attributed to geography: Derrida and Paul de Man were the subject of intense scrutiny in the development of the ‘Yale School’ of deconstruction in the 1970s that located the ori- gins of sexual difference in enunciation. As utterers of inherited idioms, they argued, we quickly discover that language tends to mold our identity before we have anything to say about it. Only by working into an actively performative relation with language do we, as ‘subjects’, begin to alter its formative effects. The Yale School gained renown as a site where F…",
+      "source": "Ian Buchanan, Claire Colebrook - Deleuze and Feminist Theory (2000, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 62,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.71957475,
+      "importance": 0.7739090323448181,
+      "final_score": 0.7195747494697571
+    },
+    {
+      "id": "7a154e3c2fbff767b360f537",
+      "qdrant_id": "40545c13-3ac3-54dd-93c8-04a6bad63d20",
+      "text": "ence, the very constraining conditions that the second wave strove to the- matize and transform. If feminism can no longer be deﬁned as a coherent project, if it can no longer be considered to be about or for a singular collective of “women,” if not even “postfeminism” has a common meaning or constituency, then we need to look elsewhere for the ties that bind its practitioners into collectives, strategic alliances, debates, and ﬂat-out arguments. Calling this collection Feminist Consequences suggests that all we have to make us a “we,”to allow us to insert ourselves into a relation to feminism, is an investment in the his- tory and resonances of such insertions themselves. Feminism is not, how- ever, the object of a singular history but, rather, a term under which people have in different times and places invested in a more general struggle for social justice and in so doing have participated in and produced multiple his-",
+      "source": "[Gender and Culture] Elisabeth Bronfen_ Misha Kavka (eds.) - Feminist Consequences_ Theory for the New Century (2001, Columbia University Press) - libgen.li (1).pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7192023,
+      "importance": 0.7693494558334351,
+      "final_score": 0.7192023992538452
+    },
+    {
+      "id": "f878ab1f23a9951205e9032c",
+      "qdrant_id": "ea53efd8-8220-5a43-b470-46ebbf177dd0",
+      "text": "sait pas réduire à un récit opportun de « redécouvertes » et à un féminisme marchand, mais faisait place à la complexité et à la contradiction à travers des croisements salutaires avec les débats décoloniaux ou écologiques. Ce sont des histoires diiciles à écrire parce qu’elles prennent le contrepied d’une tendance récente qui a érigé de nouvelles icônes féminines pour remplacer celles issues d’une tradition canonique, sans rien changer aux règles de cette tradition. En novembre der- nier, un collectif féministe queer à Berlin revisitait l’histoire du premier séminaire international du ilm de femmes de Claudia von Alemann et Helke Sander à cinquante ans de distance. Leur festival s’intitulait « Feminist Elsewheres » et leur pro- grammation faisait dialoguer les œuvres de l’édition de 1973 avec des ilms actuels, accusant parfois les écarts idéologiques. Quelles histoires féministes un geste de programmation, aussi bien qu’un travail académique ou une œuvre de création,",
+      "source": "Cahiers_du_Cin_ma_-_Juillet_2024 (1).pdf",
+      "chunk_index": 168,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7189075,
+      "importance": 0.7704378962516785,
+      "final_score": 0.7189074158668518
+    },
+    {
+      "id": "cc63561f62b72ba0d481e90c",
+      "qdrant_id": "7d4f18b5-9710-52be-8013-1d8e9f7bdfd3",
+      "text": "lects together certain issues and approaches that we think will have conse- quences for future feminist histories. The historical trajectory outlined by the collection is of necessity a loose one.The ﬁrst section,“Whatever Happened to Feminism?,”is meant neither to lament the disappearance of a “proper” feminism nor to reproach the transformations that such a feminism has undergone but, rather, to indicate the need to think contemporary feminism in terms of the consequences of its distant as well as more recent history.Thus, Juliet Mitchell retraces the encounter between psychoanalysis and feminism in Britain and the United States from the postwar period to poststructuralism, asking whether psy- choanalysis has in effect syphoned off the political thrust of the feminist project. Jane Gallop, recalling her own initial heady encounter with femi- nism in the early ’s, exposes the changing…",
+      "source": "[Gender and Culture] Elisabeth Bronfen_ Misha Kavka (eds.) - Feminist Consequences_ Theory for the New Century (2001, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.71879226,
+      "importance": 0.7696850299835205,
+      "final_score": 0.7187922596931458
+    },
+    {
+      "id": "705615f8f516dff68d44b2a0",
+      "qdrant_id": "e0f6eba8-159b-5555-8451-16898c4fe2dc",
+      "text": "'Western' sense, the end of man is at stake. It is no accident that woman disintegrates into women in our time. Perhaps socialist feminists were not substantially guilty of producing essentialist theory that suppressed women's particularity and contradictory interests. I think we have been, at least through unreflective participation in the logics, languages, and practices of white humanism and through searching for a single ground of domination to secure our revolutionary voice.",
+      "source": "Haraway Donna - A Cyborg Manifesto - libgen.li.pdf",
+      "chunk_index": 60,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7180844,
+      "importance": 0.7617953419685364,
+      "final_score": 0.718084454536438
+    },
+    {
+      "id": "cf455a2a20b11a9be73e9c72",
+      "qdrant_id": "e939cccd-e17f-5eaf-9708-bc5c007193a3",
+      "text": "from the standpoint of the citizen. They were eventful, though hardly encouraging, years for supporters of egali- tarian causes. One feature of this collection that may appear faintly ominous is that the writing on feminism belongs to the ﬁrst half of the period covered, as though sexual politics had proved to be a worthy topic for philosophical attention in the 1980s and 90s but not subsequently. A quick—and so far as it goes, true— explanation of that point would be to say that most of my feminist effort in the later years was channelled into the work published in 2011 as Iris Murdoch, Gender and Philosophy. But this is not the full story. In retrospect, it can also be said that ‘1968’ (the iconic year) and its aftermath—forming a continuum, in the English-speaking world, with some of the spikier manifestations of resistance to the neo-liberal economic project inaugurated in the 70s—cr…",
+      "source": "Sabina Lovibond_ - Essays on Ethics and Feminism-OUP Premium (2015).pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7179222,
+      "importance": 0.7663139700889587,
+      "final_score": 0.7179222106933594
+    },
+    {
+      "id": "dbe875e4be53d323816ec93c",
+      "qdrant_id": "7a3e6e39-a3f6-55fa-bec7-81c54607b587",
+      "text": "(p. xv). If this feminism here says to psychoanalysis, ‘I cannot live without you’, or (to the rest of feminism), ‘Without it, we will die’, then just as forcefully, those on the other side proclaim that it is precisely psychoanalysis that is or would be ‘fatal’ to feminism. Elizabeth Wilson declares: ‘In the Freudian or more fatally in the Lacanian account, the organization of difference not only does but must occur around the dominant symbol of the Phallus’ (‘Psycho- analysis: psychic law and order’, in Feminist Review (ed.), op. cit., p. 179). For a different exploration of the ‘marriage’ of psychoanalysis and feminism, see Jane Gallop’s chapter in Brennan, op. cit., n. 8. 26 Or just a little perhaps: see further the Edinburgh Review, vol. 1 (January 1803), pp. 486–93. The article’s running head, ‘Mad. Necker, Reflexions sur le Divorce, referring to the new edition of the book in question, is indicative of the writer’s attitude to the question",
+      "source": "Rachel Bowlby - Still Crazy After All These Years _ Women, Writing and Psychoanalysis (1992) - libgen.li.pdf",
+      "chunk_index": 497,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7178632,
+      "importance": 0.7644694447517395,
+      "final_score": 0.7178632020950317
+    },
+    {
+      "id": "ada3aff93bbfd36a5402ab71",
+      "qdrant_id": "efd65edb-da03-5832-841d-d6d1a4e9beb1",
+      "text": "the deconstruction and death of the subject has dismantled the ‘self’, how can women assert their rights, political and other? What is more, deconstruction would seem to have already led philosophy towards a ‘feminine future’ in its concern with différance, dissemination, passivity, receptivity, vulnerability, alterity and so on. However, Collin argues, this link between the post- metaphysical ‘end of the subject’ and the feminine is in fact deeply problematic. In the first place it is highly selective, retaining only certain aspects of the so-called ‘feminine’; and second, the apparent reversal of values is not in reality relevant to the positions of actual men and 3",
+      "source": "Christina Howells - French Women Philosophers _ A Contemporary Reader (2004, Taylor & Francis Group) - libgen.li.pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7175448,
+      "importance": 0.7673050165176392,
+      "final_score": 0.7175447940826416
+    },
+    {
+      "id": "3e55b935a005aafb7dc951c8",
+      "qdrant_id": "a34973f3-53da-5133-a1e8-f84a6b2d6558",
+      "text": "and immigrant women’s labor specifically in the “informatics of domination” to her studies of primates, cyborgs, and women, where the question of terrorism is always pronounced, from biological terrorism directed against animals to violence directed against all those who are effectively disavowed, excluded, and disappeared by regimes of power. Equally, themes of computation and disembodi- ment—the specter of posthuman identity—are explored in all her writings, from her reflections on informatics directly to critical analysis of the doubled identity of the photographic gaze. With this difference, though, perhaps mindful of the necessarily therapeutic",
+      "source": "[Posthumanities] Arthur Kroker - Body Drift_ Butler, Hayles, Haraway (2012, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 405,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7720764,
+      "importance": 0.8112748861312866,
+      "final_score": 0.7173564434051514
+    },
+    {
+      "id": "2ee949cf43f64fd5cd9f752d",
+      "qdrant_id": "c83258a5-bcff-5f90-a5dc-be7bebdaae00",
+      "text": "Once predicated on rescuing humanity from imminent extinction, the narrative closures (with miniscule cracks) of the series now move beyond humanist considerations: a feminandroid and feminalien gaze upon the Earth at the end of Alien Resurrection. A beautiful globe, female figures looking and looking good: lines of flight and lines of sight – movements, projections and identifications enabled by code and vision machines shedding all but the semblance of nature, species, gender. The flight of the heroine, her fears, her desires, her fantasies and anxieties, takes off elsewhere: other identificatory possibilities and configurations (post-, trans-, hyper-) generate other prospects and projections. The logic of a particular version of the “post” – post-human and post feminist – seems fully realized in Alien Resurrection: the categories of human and gender appear obsolete, along with all the…",
+      "source": "Benjamin A. Brabon, Stephanie Genz - Postfeminist Gothic_ Critical Interventions in Contemporary Culture (2007) - libgen.li-1.pdf",
+      "chunk_index": 148,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7168314,
+      "importance": 0.7720835208892822,
+      "final_score": 0.7168312072753906
+    },
+    {
+      "id": "0b8dd32d09db9ab052b33da8",
+      "qdrant_id": "6a7a6760-2afb-5f8e-bb55-9353030fa0b0",
+      "text": "the height of second wave feminism, in which she employs Marxist feminism and reworks Simone de Beauvoir’s ex- planations of woman’s subordinate position. Firestone argues that it is not the means of production that op- press women, but the means of reproduction that do so. In other words, women, by their very biology as repro- ducers, are oppressed. This oppression leads to what she calls ‘sex class’. Thus, instead of pointing to the social construction of the family, Firestone points to the bio- logical construction of the family. She says ‘the natural reproductive difference between the sexes led directly to the ﬁrst division of labour at the origins of class, as well as furnishing the paradigm for caste (discrimination based on biological characteristics)’ (9). Sex class set up the con- ditions for all types of oppression. To end their subordination women must seize the means of reproduction. They therefore must take over and employ reproductive technologies, and use these",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7158756,
+      "importance": 0.7673591375350952,
+      "final_score": 0.7158755660057068
+    },
+    {
+      "id": "39db204d1c1f13d7a340e260",
+      "qdrant_id": "131a07bd-fa2f-51a4-bf06-01b34b76bc70",
+      "text": "among other natural debris in an almost recursive recycling, but Cliff’s hunting mother burns herself in an act of retaliation: ‘Mother who goes forth emitting flames from her eyes. Nose. Mouth. Ears. Vulva. Anus. She bites the evildoers that they become full of sores. She burns the canefields’ (Cliff 1987, 163–4). The gothic fire imagery, haunting and torment of humans by a spirit is noticeably sexual and gendered; yet, it furthermore alludes to a symbiosis with the land as an act of decolonial resistance. Harriet and Clare experience a sort of catharsis in the biosocial space they seek to reappropriate that helps them deal with the oppressive conditions their ancestors have been a part of and from which they now face liberation as queer individuals. Clare and Harriet both strive for liberation from a restrictive colonial environ- ment, a liberation found only in ruinate with each other. What is also remarkable",
+      "source": "Rebecca Duncan - The Edinburgh Companion to Globalgothic (2023, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 169,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7155968,
+      "importance": 0.7657972574234009,
+      "final_score": 0.7155966758728027
+    },
+    {
+      "id": "99cf2657ac409fc1214f885d",
+      "qdrant_id": "af30e940-ffc7-5a8f-b372-9dfc98c38519",
+      "text": "that Beauvoir is dead, feminism is finally free to move into the twenty-first century. In Beauvoir studies, then;' 1980 signals the start of a decade of Anglo- American feminism. But Beauvoir proves controversial for British and American feminists as well. Some feminists take up a hostile or dis¬ appointed position (Leighton, Mary Evans), some verge on the adulatory (Ascher, Patterson), whereas others produce some of the most judicious readings of her work to be found anywhere (Okely, Fallaize, Lundgren- Gothlin). Only one writer, Jane Heath, has tried to rescue Beauvoir for poststructuralist feminism. When men write on Beauvoir in the 1980s, it tends to be because they too are interested in feminism (Zephir, Hatcher).7 Although it is difficult to overestimate the importance of Beauvoir’s feminist work, it may look as if critics writing after 1980 have neglected other aspect…",
+      "source": "Toril Moi - Simone de Beauvoir _ the making of an intellectual woman (1994, Blackwell) - libgen.li.pdf",
+      "chunk_index": 119,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7150648,
+      "importance": 0.7583308815956116,
+      "final_score": 0.7150649428367615
+    },
+    {
+      "id": "f35d06e6242d14b98fa5b495",
+      "qdrant_id": "beab3f59-9666-5264-814b-d22326a0a4e8",
+      "text": "These thoughts and questions led me back to the thought of Hannah Arendt, who had nothing to say about feminism, but a lot to say about the loss of traditional categories of thought for making sense of political reality—the very sort of loss, it seemed to me, represented by the crisis of the category of women, a loss bemoaned by second-wave feminists and often scripted as a theft for which third wavers were made responsible. In Arendt’s view, the break in tradition, already begun with the scientiﬁc rev- olution in the seventeenth century, culminated with the political catas- trophes of the twentieth. It is not only pointless but dangerous to try to recover categories of thought that no longer resonate within our current political and historical context, Arendt held. Unfortunately, as she also recognized, just because a tradition has come to an end, traditional con- cepts have not lost their power over us. On the contrary, they can become",
+      "source": "Linda M. G. Zerilli - Feminism and the Abyss of Freedom-University of Chicago Press (2020).pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7147795,
+      "importance": 0.7604568600654602,
+      "final_score": 0.7147794365882874
+    },
+    {
+      "id": "269255d5ea6f46cdba5bd573",
+      "qdrant_id": "85607c08-63e3-5869-9195-3207394593f6",
+      "text": "politics, Bolotin’s article has since come to signify a key moment in media speculations about the death of feminism – what Camille Nurka describes as ‘postfeminism’s proclamation of [feminism’s] time of death’ (183). Echoing Friedan’s questioning of women’s retreat to the home in the 1950s and 1960s, Angela McRobbie in The Aftermath of Feminism (2009) asks ‘Why do young women recoil in horror at the very idea of the feminist? To count as a girl today appears to require this kind of ritualistic denunciation, which in turn suggests that one strategy in the disempowering of feminism includes it being historicised and generationalised and thus easily rendered out of date’ (16). These ‘historicising’",
+      "source": "Rebecca Munford, Melanie Waters - Feminism and Popular Culture_ Investigating the Postfeminist Mystique-Rutgers University Press (2014).pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7146192,
+      "importance": 0.7605408430099487,
+      "final_score": 0.7146191596984863
+    },
+    {
+      "id": "2a4d7ff6b9dba20b3e716da3",
+      "qdrant_id": "7d3300ca-3b6c-5ae9-b153-44c26ecb4c89",
+      "text": "and women are not all that far from Aristotle’s megalopsychoi. They are the ones worthy of the event, the actors and dancers – the mimes of the counter-actualisation. We are in a position now to draw the elements for a Deleuzian ethics together. The dehumanisation and depersonalisation of the tran- scendental ﬁeld for the sake of singularities and events deconstructs the 18 Deleuze and Philosophy",
+      "source": "Edited by Constantin V. Boundas - Deleuze and philosophy (2006, edinburgh university press ) - libgen.li.pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7144102,
+      "importance": 0.7745596766471863,
+      "final_score": 0.7144102454185486
+    },
+    {
+      "id": "b90f1fb254805f8354079354",
+      "qdrant_id": "937385da-6f48-5dd5-a223-ce587972530c",
+      "text": "the 1990s in Britain, and shows how New Right policies in the 1980s had decimated working-class housing estates, leaving a trail of unemployment, reduced social services, and urban areas abandoned by politicians and police. But in discussing the gangs of male rioters, Campbell posits a 'lawless masculinity', which wages war on its own community. It is at this point t~at Campbell falls into essentialism - ironically, since feminism has done so much to deconstruct essentialist concepts in many disciplines. 'Lawless masculinity' simply exists sui generis: destructive, aggressive, wreaking havoc on its own communities. This is her conclusion in the final chapter: 'Crime and coercion are sustained by men. Solidarity and self-help are sustained by women. It is as stark as that'.4 This prospect stretches out into the next century as an eternal blight on society. The end of her book…",
+      "source": "Roger Horrocks - Male Myths and Icons_ Masculinity in Popular Culture (1995, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.713456,
+      "importance": 0.7569776177406311,
+      "final_score": 0.7134559750556946
+    },
+    {
+      "id": "354a692f904028d64aad9791",
+      "qdrant_id": "d5032aa1-0eba-5a2c-995d-d9b6a3880796",
+      "text": "as different areas of focus, even while maintaining the same themes and concerns. The fact that poets and novelists continue to work with ideas long after they have passed out of fashion in academia suggests that the ideas are in fact not outmoded, that criticism does not exhaust their potential or interest, but that criticism is a precondition, not the final word, but an early word. Second-wave feminism saw an immense amount of thought put into the question of identity and what it meant/means to be a woman; indeed, feminism has yet to meet the standard of providing support and advocacy for all women, as too many feminists continue to reject transsexual and transgender people, for example. Both the concepts of mother-daughter relationships and mirrors challenge traditional boundaries understood or assumed to exist between self and other, subject and object, and the valorization…",
+      "source": "Professor Veronica L Schanoes - Fairy Tales, Myth, and Psychoanalytic Theory_ Feminism and Retelling the Tale-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 628,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction",
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.7348479,
+      "importance": 0.7819427251815796,
+      "final_score": 0.7134023308753967
+    },
+    {
+      "id": "2a5f993b6499d199189fc703",
+      "qdrant_id": "0ee0e14f-6b4a-5423-8eab-d33890e42a89",
+      "text": "Contents Introduction. Anthropocene Feminism: An Experiment in Collaborative Theorizing vii Richard Grusin 1. We Have Always Been Post-­Anthropocene: The Anthropocene Counterfactual 1 Claire Colebrook 2. Four Theses on Posthuman Feminism 21 Rosi Braidotti 3. The Three Figures of Geontology 49 Elizabeth A. Povinelli 4. Foucault’s Fossils: Life Itself and the Return to Nature in Feminist Philosophy 65 Lynne Huffer 5. Your Shell on Acid: Material Immersion, Anthropocene Dissolves 89 Stacy Alaimo 6. The Arctic Wastes 121 Myra J. Hird and Alexander Zahara 7. Gender Abolition and Ecotone War 147 Joshua Clover and Juliana Spahr 8. The Anthropocene Controversy 169 Jill S. Schneiderman 9. Natalie Jeremijenko’s New Experimentalism 197 Dehlia Hannah in Conversation with Natalie Jeremijenko Acknowledgments 221 Contributors 223 Index 227",
+      "source": "Anthropocene Feminism (21st Century Studies) (Richard Grusin, Stacy Alaimo, Rosi Braidotti etc.) (Z-Library).pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7132075,
+      "importance": 0.7797910571098328,
+      "final_score": 0.713207483291626
+    },
+    {
+      "id": "d2ee453d6b71fc089639a40c",
+      "qdrant_id": "3107959e-13cf-56a1-93a9-3a488ae6c189",
+      "text": "in danger of contributing to a climate of pessimism and fragmentation in an era dominated by the spectre of the `end of history' and the alleged triumph of capitalist consumer culture. Certainly those most influenced by Foucault have on occasion mounted an assault on the whole idea of a progressive politics rooted in shared identities (such those based on sexuality, gender, class, race) which leaves one wondering if there is any basis on which a collective challenge to the status quo might be mounted. This can perhaps be illustrated by examining one of Foucault's central arguments ± that concerning the nature of `reverse' discourses. Following Foucault, it can be argued that as soon as we fight back by formulating `reverse' discourses ± for example, a feminist discourse which challenges assumptions about the inferiority of women to men, or a lesbian and gay discourse which challenges the medical definition of same-sex attraction as a perversion ± we engage with the dominant",
+      "source": "Richard Dunphy - Sexual Politics (2001, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.71301067,
+      "importance": 0.7650993466377258,
+      "final_score": 0.7130106687545776
+    },
+    {
+      "id": "decd5074db60b0fbc57560eb",
+      "qdrant_id": "9e8b5db6-e718-5c9e-b38e-77475272d444",
+      "text": "who have utilised Derridean deconstructive methods. She is famous for her theory of performativity and for her political thoughts on precariousness and grievability, enabling nuanced explorations of gender and love, especially for marginalised identities. In Gender Trouble (1990; second edition 1999 with a new preface), Butler applies insights from Foucault and Derrida to argue that, contrary to popular thinking, biological assumptions about sex are not “given,” but constructed and naturalised, just as much as cultural gender roles, in ac- cordance with the needs of a society to regulate itself in discursive ways. Butler did not share the enthusiasm of différance feminists about access to multiplici- ties of meaning prior to discursive signification. She realised that these multi- plicities would amount to a constitutive “outside” to social-discursive con- structions that she, fol…",
+      "source": "[Value Inquiry Book _ Social Philosophy, Band 358] Deirdre C. Byrne (editor), Marianne Schleicher (editor) - Entanglements and Weavings_ Diffractive Approaches to Gender and Love (2020, Brill _ Rodopi) - libgen.l.pdf",
+      "chunk_index": 33,
+      "page": null,
+      "seed_hits": [
+        "judith-butler-gender-performativity-gender-trouble-bodies"
+      ],
+      "raw_score": 0.81533575,
+      "importance": 0.8326938152313232,
+      "final_score": 0.7085291147232056
+    },
+    {
+      "id": "e53c632818cc8537b7fcbade",
+      "qdrant_id": "d1c5cfbb-59d9-5677-91fc-1ee49b986672",
+      "text": "great artist is androgynous, he certainly did not mean that such a mind has any special empathy with woman’ (7–8). Such valorisations of femininity disguise the fact that it is not femininity but femaleness that has been persistently downgraded in the production of knowledge and in our culture at large. Not only do transgender and queer – their supposed anti-normativity dependent in part upon seeing feminism and woman as normative – dispose of feminism all too easily as a quasi-biological, ‘old world’ belief system. Battersby’s analysis isolates the degree of anti-feminism Judith Butler locates in queer theory (‘Interview’ par. 6). Body The preceding discussion of sex relies upon and contributes to the stability of concepts that must be suspended. As Elizabeth Grosz, Moira Gatens, Rosalyn Diprose and Butler approach in various lexicons, sex is the primary product of the ‘intextuating’ …",
+      "source": "Stacy Gillis, Gillian Howie, Rebecca Munford - Third Wave Feminism_ A Critical Exploration (2004) - libgen.li.pdf",
+      "chunk_index": 126,
+      "page": null,
+      "seed_hits": [
+        "judith-butler-gender-performativity-gender-trouble-bodies"
+      ],
+      "raw_score": 0.7778255,
+      "importance": 0.8100066781044006,
+      "final_score": 0.703788161277771
+    },
+    {
+      "id": "018ba74462ccd9b74c099d38",
+      "qdrant_id": "bb5e0786-1a57-5e68-b44b-a4831867dd18",
+      "text": "undergoes as a result of the constant pressure exerted upon her to enact his masochistic fantasies and to embody the idealized vision of the female torturess produced by the male. Her own pleasures and desires are denied over and over and her sense of self begins to crumble. Upon casting Leopold and his whips from her room, she describes her elation at escaping the proscribed narratives that have been imposed upon her: ‘Free! Delivered from the torment of ten years! Finally, to belong to myself again! Never again to don a fur, never again to hold a whip’ (1990: 107). That her experiences were published not under her own name but under that of the literary figure whose shadow constantly darkened her life is further indicative of the cultural inability to imagine female pleasure as alternative or exterior to the male. Although it appears in such a case that the oppositional logi…",
+      "source": "(Film Philosophy at the Margins) McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 128,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.66741955,
+      "importance": 0.7709862589836121,
+      "final_score": 0.6993420124053955
+    },
+    {
+      "id": "0797b0ee3597f6fa1caba33a",
+      "qdrant_id": "707a09b5-3ad3-5a82-92e2-c2b353d86352",
+      "text": "are rather hopelessly driven by dominant patriarchal forces to objectify them- selves in order to both gratify male desire and to swell the coffers of the industry. Their assessments are reminiscent of the Frankfurt School Marxism that Marcuse voices in One Dimensional Man, where he acknowledges the suc- cessful corporate and governmental inculcation of false consciousness that has anesthetized mass culture, and doubts that critical consciousness will ever make much difference. ABJECTION, AGENCY, AND IDENTIFICATION Significantly, Morgan’s focus on Foucault ’s conception of power as a central motive force in Western intellectual and political history resonates not only with her view of the aesthetic surgical industry, but also with that of Kathy Davis, who voices significant dissent in her 1995 Reshaping the Female Body from critics such as Faludi and Wolf, who rely on top-down models of oppression for their analyses. Davis argues that a single-minded focus on",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism"
+      ],
+      "raw_score": 0.7288519,
+      "importance": 0.7789404392242432,
+      "final_score": 0.6992460489273071
+    },
+    {
+      "id": "3010160dde96ecce360e7504",
+      "qdrant_id": "c4bd143e-991f-5ffa-a5c1-ddbb47b33791",
+      "text": "including Deleuze and Guattari. The utopia once foreseen has turned to dust. As a result, we are left with a veritable remodelling of the unconscious with retrofit molar identities and shrink-wrapped capitalist subjectivities, and our time is now more cynical about any realistic change. Critics will ask: what are the prospects for revolutionary machinic desire and for molecular revolution when the proletarian class is no more? Our answer is that even in the politically bleak years of Guattari and indeed for us, the ecosophically prescient writings of Guattari intimate at the perpetual emergence of new modes of valourization in everyday life – friendship, sexual identity, the transformation of work, a new sense of solidarity, a new ethico-aesthetic paradigm and new forms of resistance. We hear the refrain again and again, that capitalism produces subjectivity the same way it prod…",
+      "source": "[Schizoanalytic Applications] Joff P. N. Bradley_ Alex Taek-Gwang Lee_ N. Y. Manoj - Deleuze, Guattari and the Schizoanalysis of Postmedia (2023, Bloomsbury Academic) [10.5040_9781350180536] - libgen.li (1).pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "deleuze-guattari-rhizome-assemblage-desire"
+      ],
+      "raw_score": 0.7951948,
+      "importance": 0.8210848569869995,
+      "final_score": 0.6968544125556946
+    },
+    {
+      "id": "6e9b04ce07dcae4e195ad426",
+      "qdrant_id": "fd52a64e-f6b7-5b80-ace2-5fc8a69082c1",
+      "text": "loss, the end of the world. Beauvoir worked through the panic, a fear of death that had gripped her for most of her life, fell in love again, radically changed her life, and became more rather than less engaged in public life. But despite her success in keeping this ter- ror at bay by hard work, writing, politics (and love), I think it’s worth noting the obvious (and selﬁshly, to my mind, comforting) fact that even Simone de Beauvoir was not exempt from the cru- elty of the mirror scene that staggers so many women in middle age,in their ﬁfties.Still,I don’t want to make too much of this self- portrait of a woman distraught about her looks since it will all add up rather differently in subsequent chapters of her life and autobi- ography. “The ﬁrst thing that strikes me,” she writes in the next volume, All Said and Done,“when I look back at the ten years that have passed since I ﬁnished Force of Circumstance is that I do not feel",
+      "source": "Nancy K. Miller - But Enough About Me_ Why We Read Other People's Lives (2002, Columbia University Press) [10.7312_mill12522] - libgen.li.pdf",
+      "chunk_index": 275,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.6745877,
+      "importance": 0.7529298663139343,
+      "final_score": 0.6949727535247803
+    },
+    {
+      "id": "c05f6244ae3de11be53c75d0",
+      "qdrant_id": "14e6c2ea-3e2c-5635-83d9-9e038ab0bca2",
+      "text": "relevant to Fern’s life and its radical underpinnings. Being a nomad involves living a life on the move, a refusal to be tied down or deﬁned by set deﬁnitions. The nomad desires to discover new things, to grow and set forth on ‘a creative line of ﬂight’. The female protagonist who undergoes this journey can be understood in terms of Deleuze’s nomadic subject in that she is a marginal and marginalised ﬁgure. Rosi Braidotti sees the nomad as embarking on a journey that has the potential to lead to change ‘that destabilizes all identities’. Such destabilisation is central to the journey of the female protagonist of Feminist New Wave Cinema. In other words, the nomadic subject signiﬁes the potential becoming, the opening out—the transformative power of all the exploited, marginalized, 80 The Monstrous-Feminine Forgets Her Manners",
+      "source": "Return of the Monstrous-Feminine (Barbara Creed) (Z-Library).pdf",
+      "chunk_index": 333,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7721102,
+      "importance": 0.8047592639923096,
+      "final_score": 0.6882424354553223
+    },
+    {
+      "id": "0f3e574f520107e8348e3e93",
+      "qdrant_id": "60fbd16b-9c7d-5c89-976f-4317409d5aa5",
+      "text": "8 Introduction renewed broad-​based feminist activism, and the rise of hard-​right populism across the West. I attempt to draw out the conditions of enunciative possi­ bility for a writer such as Acker, not so much in an individual biographical sense (the influence of her biography on her writing, as in Chris Kraus’s fine study, After Kathy Acker), but in a cultural, political, and historical sense. Suitably enough for a writer who played with autobiographical and writerly mythologies throughout her work, indeed, a writer of autofiction avant la lettre, Acker is a cipher for exploring the conditions of possibility for and outcomes of the nexus of avant-​garde, punk, and feminist textual revolt. Reading and writing Acker as a punk feminist Acker’s project is uncompromising, risky, and, for some critics, a failure (Redding, Indiana). Acker has recently been the subject of a critic…",
+      "source": "[Interdisciplinary Research in Gender] Henderson, Margarer - Kathy Acker_ Punk Writer (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6362453,
+      "importance": 0.7409668564796448,
+      "final_score": 0.687595009803772
+    },
+    {
+      "id": "c9440de7ab8b4dd12cdb80f6",
+      "qdrant_id": "2632de63-fa53-58d4-bb6e-b2708241500d",
+      "text": "on the meaning of feminism and its artistic expression. O’Connor criticized Cyrus’s artistic choices and furthermore cautioned her not to be exploited by record industry executives. O’Connor stressed the point that the decision to perform nearly naked in order to promote one’s music does not lead to empowerment, but rather objectifies the female body and may lead to quite contrary results. This was no less complex as O’Connor’s advice to Cyrus could be seen as perpetuating a traditional model of feminist generations or waves in the sense that an established feminist artist like O’Connor problematizes contemporary conceptions of feminist expression as demonstrated by Cyrus. The pairing of empowerment and the use of eroticized imagery has a long history in feminist discourse, and continues to be both problematic and unresolved, as the case of ‘Wrecking Ball’ video exemplifies. The chapters in the second section of this book address these issues",
+      "source": "Daniel Cookney_ Michael Goddard - Music_Video_ Histories, Aesthetics, Media (2017, Bloomsbury Academic) [10.5040_9781501313943] - libgen.li.pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.67760503,
+      "importance": 0.7483527064323425,
+      "final_score": 0.6868956685066223
+    },
+    {
+      "id": "263049fcb50a552d827cdb9a",
+      "qdrant_id": "f331af92-d557-5752-8839-6f34021cccad",
+      "text": "operations of her subjugation, they also attempt to problematize them. Tiqqun repeats, reproduces, and remixes girl culture with a critical agenda – to deconstruct the same affective, emotional, and ideological valences that support neoliberalism’s proliferation. At the same time, the Young-Girl constantly interrupts Tiqqun, both within the text and through the criticisms brought to bear on it. These interruptions create openings for exploring the signiﬁcance of this theory beyond the framework set by its authors. (Kennedy, 2015, p. 176) Without disavowing or exonerating otaku culture of its disturbing element of fetishization, it is possible to suggest that it also makes possible a critique of the very nature of sexuality. In his 2009 book, The Anime Machine, Thomas Lamarre discusses an anime entitled Chobits, which is about the relation between a 19-year- old boy, Motosuwa Hideki, and …",
+      "source": "[Reference] Stefan Herbrechter, Ivan Callus, Manuela Rossini, Marija Grech, - Palgrave Handbook Of Critical Posthumanism (2022, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 196,
+      "page": null,
+      "seed_hits": [
+        "stacy-alaimo-trans-corporeality-material-feminism"
+      ],
+      "raw_score": 0.709612,
+      "importance": 0.7652842402458191,
+      "final_score": 0.6833633184432983
+    },
+    {
+      "id": "f8e4072c7b6319216bd7eba2",
+      "qdrant_id": "172ded81-427c-51d7-b37d-d5b9f3b745d4",
+      "text": "as a ‘follower’ of the late Derrida. Malabou puts forward ways of thinking about the process of deconstruction that have helped to reconceptualize Derrida’s very own project. If one were permitted to identify a single vector of this reworking, it would have to be her attempt to radicalize the very idea of différance – and to come up with what is now called a hyper- deconstruction. In her four books to date, she indeed offers a way of rethinking the abyss of deconstruction, not in an attempt to surpass it or get rid of it for that would be impossible, but in a way that does not leave us in an endless free-fall and yet continues the work of de(con)struction of Western metaphysics. Malabou’s main question is perhaps this one: Why did Derrida continually address the issue of the radically other, of that which has absolutely no ground? This crucial question resets in motion the deconstructive…",
+      "source": "[Renewing Philosophy] Jean-Paul Martinon - On Futurity_ Malabou, Nancy and Derrida (2007, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "catherine-malabou-plasticity-the-new-wounded"
+      ],
+      "raw_score": 0.71523064,
+      "importance": 0.7674458026885986,
+      "final_score": 0.6803758144378662
+    },
+    {
+      "id": "90488f1b0f29152ea4a1b0a0",
+      "qdrant_id": "da73d491-07a9-58db-91a9-2c4fe070e4cb",
+      "text": "and inward-​looking heroine of The Burning Bombing of America, marking the changed ideological and political landscape in which Acker now works. These characters are examples of the unrespectable forms of femininity typi­ fying punk culture (O’Brien 189), and the ‘bad girls’ celebrated by sections of the women’s movement in its critique of conventional femininity and morality. As we will see in Chapter 4, Acker’s punk embrace of ‘bad girls’ heralds the role that excessive and pathological femininities will play in her aesthetics—​in tone, plot, and characters. Complementing these scoundrels is a distinctive female narratorial voice that will typify Acker’s career. Acker replaces the psychedelic consciousness of her earlier work with a distinctively punk form, idiom, and tone: the voice of the punk girl, who provides a literary and feminist version of the punk scream’s articula…",
+      "source": "[Interdisciplinary Research in Gender] Henderson, Margarer - Kathy Acker_ Punk Writer (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 122,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6530547,
+      "importance": 0.7302312254905701,
+      "final_score": 0.668340802192688
+    },
+    {
+      "id": "7d27972594093361053b3131",
+      "qdrant_id": "8ad14f4d-42cd-5837-b586-6f084233be33",
+      "text": "1970s. The mass of writings has increased at a geometrical propor- tion, but the social effects have inversely shrunk according to the same ratio. The writings may be productively read as a symptom of the lois of liberation announced twenty years ago. 'Am 1 writing? Am 1 burning? Or am 1 pretending?' Cixous asks herself and the readers or listeners.4 She certainly is writing, probably not pre- tending, but is she burning? Or rather, where is she burning? With the 'Laugh of the Medusa', and 'Sorties', no matter how essentialised in the eyes of sorne those texts might have been, the urgency of undoing a self, of going toward the other as other had a strong affective charge. It was helped by the temporary con- vergence of a redefinition of writing and the woman's cause. Her recent texts talk about burning and, especially, about alignment with poetry to the point of fetishisation. …",
+      "source": "Verena Andermatt Conley - Hélène Cixous_ Writing the Feminine (1991, University of Nebraska Press) - libgen.li.pdf",
+      "chunk_index": 429,
+      "page": null,
+      "seed_hits": [
+        "cixous-laugh-of-the-medusa-writing-the-body-white-ink"
+      ],
+      "raw_score": 0.6714498,
+      "importance": 0.7469094395637512,
+      "final_score": 0.6645901799201965
+    },
+    {
+      "id": "817f139393d6482c5d75daa2",
+      "qdrant_id": "37f6f5ae-a3a5-536f-8b04-45a4b5b62107",
+      "text": "of all other viewers. While the process of inscription by which Kate writes herself into Western culture does indeed disarrange the structures of patriarchy, her self-assertion remains haunted by the problem of solipsism. A recurrent motif in the novel is that of trees “writing a strange calligraphy against the whiteness” (233). This image is an emblem for both writing and painting, evoking on the one hand the blank pages Kate covers with her typed memories, and, on the other, her painting, a large canvas, stretched and painted white, either a surpassingly minimalist work, or the ground- work for a new painting. Kate’s dismantling of tradition creates new space—and by implication the utopian no space of pure potentiality, as though the traces—words, brushstrokes—of extant works might be erased: Still, on the morning after [the snow] fell, the trees were writing a strange calligraphy against the whiteness. For that matter the sky was white, too, and the dunes were hidden,",
+      "source": "Jeremy Green - Late Postmodernism_ American Fiction at the Millennium (2005) - libgen.li (1).pdf",
+      "chunk_index": 150,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.62391084,
+      "importance": 0.7425828576087952,
+      "final_score": 0.6640384793281555
+    },
+    {
+      "id": "a1a11ec1214de711bf4d0ee5",
+      "qdrant_id": "6beedd1d-343b-57c3-a42e-7d13817c338e",
+      "text": "exceeds the role allotted to her by scripture. She is the voice of com- mon sense and compassion, charting a middle way between, on the one hand, sceptics who denounce Jesus as a charlatan and, on the other, enthusiasts who worship him as the Messiah. As I noted above, much of the radical content of these novels was old news by the 1930s. Over half a century had passed since the publication in French of Renan’s Life of Jesus (1863) and the need to separate the historical Christ from the Christ of faith had been regularly asserted over the intervening period. Indeed when Lord Alfred Douglas tried to bring a prosecution against Moore for “blasphemous libel” in The Brook Kerith ( 1916 ), he received short shrift from a liberal-minded judge: “it had been held over and over again that to assert in a book that Christ was a man and not divine was not necessarily blasphemy” (“The Brook Kerith,” 1916). Borden was involved in a lawsuit of her own against the Catholic Herald",
+      "source": "Elizabeth Anderson, Andrew Radford, Heather Walton (eds.) - Modernist Women Writers and Spirituality_ A Piercing Darkness (2016, Palgrave Macmillan) [10.1057_978-1-137-53036-3] - libgen.li.pdf",
+      "chunk_index": 106,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.5954893,
+      "importance": 0.7270146012306213,
+      "final_score": 0.662447452545166
+    },
+    {
+      "id": "1455295339139e12041261a3",
+      "qdrant_id": "f5a5c7f0-b35e-5307-9418-d10dcb31caeb",
+      "text": "relationships and the common ground they share in patriar- chal domination come from the privileged perspective offered by Rich’s lesbian existence. Rich writes of her personal rage in the politicised terms of radical lesbian feminism, which reach out to the community of women and other victims of patriarchal violence. References and Selected Further Reading Altieri, Charles, 1984. Self and Sensibility in Contemporary American Poetry, Cambridge: Cambridge University Press. Annas, Pamela, 1982. ‘A Poetry of Survival: Unnaming and Renaming in the Poetry of Audre Lorde, Pat Parker, Sylvia Plath, and Adrienne Rich’, Colby Library Quarterly, vol. 18, no. 1 (March), pp. 9–25. Barry, Kathleen, 1979. Female Sexual Slavery, Englewood Cliffs, NJ: Prentice-Hall. Carruthers, Mary J., 1983. ‘The Re-Vision of the Muse: Adrienne Rich, Audre Lorde, Judy Grahn, Olga Broumas’, The Hudson Review, vol. 36, no. 2 (Summer), pp. 293–322. Cooper, Jane Roberta, ed., 1984. Reading Adrienne Rich:",
+      "source": "Deborah L. Madsen - Feminist Theory and Literary Practice (2000, Pluto Press) - libgen.li.pdf",
+      "chunk_index": 123,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.7201147,
+      "importance": 0.7632884383201599,
+      "final_score": 0.6537099480628967
+    },
+    {
+      "id": "1ea9bdbc72513daf61514b94",
+      "qdrant_id": "8785e5bc-b9c2-5bdf-8840-9850c0e6cd79",
+      "text": "liberalism and the Demise of the Literary.” ¹⁴ On the left, Thatcher’s there is no alternative became, through the paraphrasing of a slightly different Fredric Jameson quote, it’s easier to imagine the end of the world than the end of capitalism. Mark Fisher took up this shibboleth and its implications for contemporary experience in Capitalist Realism (2009). Leigh Claire La Berge and Alison Shonkwiler extended Fisher’s project to contemporary ﬁction, nonﬁction, television, and ﬁlm in Reading Capitalist Realism (2014). In search of escapes from neoliberalism’s foreclosure of any future other than its own, novelists, poets, and scholars have turned to speculative modes. See Aimee Bahng’s Migrant Futures, a book that “might be considered a ‘starter archive’ of attempts to imagine if not the end of capitalism, then an alternative to it, by way of those who may ﬁnd themselves mired in capita…",
+      "source": "Dan Sinykin - American literature and the long downturn _ neoliberal apocalypse (2020) - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7136096,
+      "importance": 0.7666778564453125,
+      "final_score": 0.6490997076034546
+    }
+  ]
+}

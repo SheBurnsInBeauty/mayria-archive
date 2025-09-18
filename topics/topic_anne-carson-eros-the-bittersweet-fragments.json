@@ -1,0 +1,1211 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "anne-carson-eros-the-bittersweet-fragments",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "e83740b8e7114a0442e14e93",
+      "qdrant_id": "7d9d5c0e-2f7b-56ce-945a-b913cbfb8b32",
+      "text": "them, rendering them habitable without removing their awful power. This is true both of the forbidden forest itself, with its ruined abbey turned safe haven, as well as for the sublimity topos of Savoy, the alpine wonders of which Adeline seeks for her eventual home by the novel’s end. That the kind of jaded, weary knowledge that Burke warns of should not come with repeated trial is signaled by Adeline’s repeated reflection on her vulnerability to deception and her willingness to preserve this vulnerability. Radcliffe’s narrator draws a connection between the aesthetic sublime and what I have come to think of as the ethical sublime. Even quite early in The Romance of the Forest, the narrator makes such a link explicit: “When from these objects [the romantic glades that opened into the forest] she turned her regard upon Monsieur and Madame La Motte, to whose tender attentions sh…",
+      "source": "Stephanie Insley Hershinow - Born Yesterday _ Inexperience and the Early Realist Novel (2019, Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 399,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts",
+        "hélène-cixous-book-of-promethea-love-as-world-creation"
+      ],
+      "raw_score": 0.7370775,
+      "importance": 0.7793794870376587,
+      "final_score": 0.7370773553848267
+    },
+    {
+      "id": "a3d8e2c742da07deb85f0ff8",
+      "qdrant_id": "1acc331f-04c7-5d09-b025-25bab20e46eb",
+      "text": "Psychoanalysis (1978), trans. Alan Sheridan (New York: Norton, 1998), 83. 15. Carson, Eros the Bittersweet, 17. 16. Ibid., 69, 85. 17. Carson, Grief Lessons, 8–9. 18. Anne Carson, Wonderwater: Alice Offshore (Göttingen, Germany: Steidl Verlag, 2004), 143. 19. Carson, Decreation, 24, 26. 20. Carson, Economy of the Unlost, 58–9. 21. Carson, Eros the Bittersweet, 30. 22. Anne Carson, “Variations on the Right to Remain Silent,” A Public Space 7 (2008): http://www.apublicspace.org/back_issues/issue_7/. 23. Anne Carson, Men in the Off Hours (New York: Vintage-Random, 2001), 166. 24. Carson, Decreation, 149. 25. Carson, Men, 166. 26. Carson, “Variations.” 27. Anne Carson, Nox (New York: New Directions, 2010). 28. Anne Carson, “Economy, Its Fragrance,” Threepenny Review 69 (Spring 1997): 15. 29. Carson, “Variations.”",
+      "source": "Anne Carson Ecstatic Lyre (coll.) (Z-Library).pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.7144666,
+      "importance": 0.7562429308891296,
+      "final_score": 0.7144666910171509
+    },
+    {
+      "id": "b5470fc31772a89a9589c978",
+      "qdrant_id": "6c422881-3c63-5f43-8b46-dacbf9db1db6",
+      "text": "Woolf, Virginia, 36-39, 66 Zeno, 81, 89, 166, 168 Zeus, 31, 100 250 Library of Congress Cataloging-in-Publication Data Carson, Anne, 1950- Eros the bittersweet. “Published for the Center for Hellenic Studies.” Bibliography: p. Includes indexes. 1. Eros (Greek god) 2. Love. I. Center for Hellenic Studies (Washington, D.C.) II. Title. BL820.C65C37 1986 880′.9′354 85-43371 ISBN 0-691-06681-7 (alk. paper) ISBN 0-691-01449-3 (pbk.) Anne Carson is Assistant Professor of Classics at Princeton University. 251",
+      "source": "(Princeton legacy library) Carson, Anne - Eros the bittersweet _ an essay-Princeton University Press (1986).pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.7123488,
+      "importance": 0.7507300972938538,
+      "final_score": 0.7123488187789917
+    },
+    {
+      "id": "d56afe640537a0f6b0a4c6fd",
+      "qdrant_id": "1b4d4c9f-93b3-59c9-a6dc-86c95f898d46",
+      "text": "Theology Library CLAREMONT SCHOOL OF THEOLOGY Claremont, CA Copyright © 1986 by Princeton University Press Copyright © 1988 by Anne Carson First Dalkey Archive edition, 1998 Second printing, 2000 Third printing, 2003 Fourth printing, 2005 Fifth printing, 2009 Sixth printing, 2014 All rights reserved Library of Congress Cataloging-in-Publication Data Carson, Anne 1950- Eros the bittersweet / by Anne Carson. — 1st Dalkey Archive ed. p. cm. Originally published: Princeton, N.J. : Princeton Universtiy Press, c1986. ISBN 1-56478-188-7 (alk. paper) 1. Eros (Greek deity) 2.Love I. Title BL820.C65C37 1998 880.9°3543-dc21 97-51954 This publication is partially supported by grants from the Lannan Foundation; the National Endow- ment for the Arts, a federal agency; the Illinois Arts Council, a state agency; and by the University of Illinois at Urbana-Champaign Vv NATI…",
+      "source": "[Canadian Literature] Anne Carson - Eros the Bittersweet (1998, Dalkey Archive Press) - libgen.li.pdf",
+      "chunk_index": 2,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.7110611,
+      "importance": 0.7523378133773804,
+      "final_score": 0.7110610604286194
+    },
+    {
+      "id": "5bd1ce78fbc9ad5a9a41b869",
+      "qdrant_id": "19ec2ff8-55a7-5f09-8a55-5eefafdd83fc",
+      "text": "imaging,” as Inger sings, and clearly we’re meant to understand that she’s making a crucial distinction, that the world as imagined by a woman might be completely different. (387–8) Indeed, the ending of the novel valorizes revision over replication as well. Helle has died, killed by the habit she shared with the narrator Fran, the habit that killed Angela Carter as well: smoking. She leaves her unfinished opera to Fran to complete, and in an effort to find out what and how Helle would have finished the piece, Fran attempts to piece together the different tales of Helle’s life. The novel interweaves this tentative biography with Fran’s memories of her relationships with Helle and with Sam, the husband of Helle’s niece—but Fran finds herself creatively blocked, in large part because of the awe in which she holds Helle. She is not able to finish the opera until she throws off her…",
+      "source": "Professor Veronica L Schanoes - Fairy Tales, Myth, and Psychoanalytic Theory_ Feminism and Retelling the Tale-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 335,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6369374,
+      "importance": 0.7591427564620972,
+      "final_score": 0.7110365629196167
+    },
+    {
+      "id": "4d150ef75fc9729401b19aac",
+      "qdrant_id": "0f2f5754-f8a1-5368-919d-bacf89e27f34",
+      "text": "PHILOSOPHY / LITERARY CRITICISM / CLASSICS SELECTED BY THE MODERN LIBRARY AS ONE OF THE 100 BEST NONFICTION BOOKS OF ALL TIME “Anne Carson is a rare talent—brilliant and full of wit, passionate and also deeply moving.” MICHAEL ONDAATIJE A book about romantic love, Eros is ANNE CARSON’s exploration of the concept of “eros” in both classical philoso- phy and literature. Beginning with, “Tt was Sappho who first called eros ‘bittersweet’? No one who has been in love disputes her,’ Carson examines her subject from numerous points of view, creating a lyrical meditation in the tradition of William Carlos Williams's Spring and All and William H. Gass’s On Being Blue. Epigrammatic, witty, ironic, and endlessly interesting, Eros is an utterly original book. Anne Carson is the author of Glass, Irony and God; Autobiog- raphy of Red; The Beauty of the Husband; Men in the Off Hours; …",
+      "source": "[Canadian Literature] Anne Carson - Eros the Bittersweet (1998, Dalkey Archive Press) - libgen.li (1).pdf",
+      "chunk_index": 106,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.709488,
+      "importance": 0.7444695234298706,
+      "final_score": 0.7094881534576416
+    },
+    {
+      "id": "f047c51b923b0d2df3de9c39",
+      "qdrant_id": "74c83744-98f3-5e98-919f-0d1759a53766",
+      "text": "brought about his gradual awareness not only of how much he enjoyed the sadistic nature of his treatment of Miss F. and her tolerance of it. He also recognized that even if she was trying to manipulate him, his feeling so much in control of their relationship gave him a sense of excitement. A new theme then emerged in the treatment: namely, Mr. L/s fantasy that if he really wanted to marry again and have children of his own, it would be the beginning of old age and death; only a playboy existence of carefree sex and lack of responsibility guaranteed eternal youth. Now his adolescent way of presenting himself in the session (an excessively and almost inappropriately juvenile style of dress and manners) became the subject of analytic exploration; it emerged as a protective effort to avoid the sense of doom connected with the idea of adulthood. As revealed in a series of loosely connected dreams, the fantasy gradually crystallized in",
+      "source": "Otto Kernberg - Love Relations_ Normality And Pathology (1998, Yale University Press) - libgen.li.pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "clarice-lispector-the-passion-according-to-g-h-cockroach-becoming"
+      ],
+      "raw_score": 0.7054515,
+      "importance": 0.7595664262771606,
+      "final_score": 0.705451488494873
+    },
+    {
+      "id": "ccb48e09aceefefb5b746101",
+      "qdrant_id": "9d6d8e9d-2956-5ff4-a8d3-17f7e310a1cc",
+      "text": "134 NOTES 21. Ibid., 131. 22. Carson, Eros the Bittersweet, 16. 23. Ibid, 17. 24. Carson, Autobiography of Red (New York: Knopf, 1999), 105. 25. Carson, ‘‘The Gender of Sound,’’ in Glass, Irony and God, 130. 26. Carson, Eros the Bittersweet, 4. 27. Carson, ibid., 169. 28. Carson, Autobiography of Red, 43. 29. Carson, Plainwater: Essays and Poetry (New York: Vintage, 1995), 223. 30. Carson, ‘‘Dirt and Desire,’’ 130. 31. Carson, Plainwater, 222. 32. Carson, Eros the Bittersweet, 20. 33. Ibid., 21. 34. Ibid., xi. 35. Carson, ‘‘Introduction,’’ in Plainwater, 29. 36. Carson, Eros the Bittersweet, 171. 37. Ibid., 52. 38. Carson, ‘‘Beauty Prefers an Edge,’’ in Poets & Writers, 32. 39. Ibid., 33. 40. Carson, Plainwater, 33. 41. Carson, The Beauty of the Husband: A Fictional Essay in 29 Tangos (New York: Alfred A. Knopf, 2001), 9. Hereafter the title of this collection will be abbreviated as BH, and page numbers will be cited parenthetically in the text.",
+      "source": "Bishop, Elizabeth_Carson, Anne_Glück, Louise_Niedecker, Lorine_Upton, Lee - Defensive measures_ the poetry of Niedecker, Bishop, Glück, and Carson-Bucknell Univ. Press (2005).pdf",
+      "chunk_index": 390,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.70519346,
+      "importance": 0.748336136341095,
+      "final_score": 0.7051935195922852
+    },
+    {
+      "id": "d6d065cce844f2d6ce3df540",
+      "qdrant_id": "29f09fdf-fe1b-5756-b440-c3d5a0e3e27d",
+      "text": "ALSO BY ANNE CARSON Eros the Bittersweet Glass, Irony and God Short Talks Plainwater: Essays and Poetry Autobiography ifRed: A Novel in verse Economy oj the Un lost: Reading Simonides ojKeos with Paul Celan Men in the OffHours The Beauty ojthe Husband: A Fictional Essay in 29 Tangos ifNot, Winter: Fragments ifSappho Deereation: Poetry, Essays, Opera GriefLessons: Four Plays by Euripides AnORESTEIA AGAMEMNON BY AISKHYLOS ELEKTRA BY SOPHOKLES ORESTES BY EURIPIDES AnORESTEIA Translated by ANNE CARSON FABER AND FABER, INC. An affiliate ifFarrar, Straus aIld Giroux NEW YORK",
+      "source": "Aeschylus, Sophocles, Euripides, Anne Carson - An Oresteia_ Agamemnon by Aiskhylos_ Elektra by Sophokles_ Orestes by Euripides-Faber & Faber (2010).pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.7044695,
+      "importance": 0.747392475605011,
+      "final_score": 0.7044694423675537
+    },
+    {
+      "id": "81787ff7a25dba0a776f5a83",
+      "qdrant_id": "701f8e76-2dba-5554-a623-7573a3d0adbe",
+      "text": "Part II. Love 4 169 . Sappho, “Fragment 31,” quoted in Carson, Eros the Bittersweet, 12–13. . Carson, Eros the Bittersweet, 16. . Sappho, “Fragment 94,” in If Not, Winter, 185. . Susan Sontag, As Consciousness Is Harnessed to Flesh: Journals and Notebooks, 1964–1980, ed. David Rieﬀ (New York: Farrar Straus and Giroux, 2012), 268, bracketed insertion in the original. . Toni Morrison, Beloved (New York: Penguin Books, 1987), 213. . Rose, Love’s Work, 73. . Sappho, “Fragment 130,” in If Not, Winter, 265. . Hannah Arendt, Love and Saint Augustine, ed. Joanna Vecchiarelli Scott and Judith Chelius Stark (Chicago: University of Chicago Press, 1996), 9, 19. . Carson, Eros the Bittersweet, xi. . Héloise, “Letter II,” in The Love Letters of Abelard and Héloise (London: Dent, 1901), 39, 40, http://www.sacred-texts.com/chr/aah/index.htm. . Héloise, “Letter V,” in Lo…",
+      "source": "Diane Enns - Love in the Dark_ Philosophy by Another Name-Columbia University Press (2017).pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.69867426,
+      "importance": 0.7493893504142761,
+      "final_score": 0.6986740827560425
+    },
+    {
+      "id": "f7eb89ecf4463f64faba8bcf",
+      "qdrant_id": "8450f239-4769-5b48-a543-c56fbe6da722",
+      "text": "EROS THE BITTERSWEET 2 Published for the Center for Hellenic Studies 3 Anne Carson EROS THE BITTERSWEET An Essay PRINCETON UNIVERSITY PRESS 4 Copyright © 1986 by Princeton University Press Published by Princeton University Press, 41 William Street, Princeton, New Jersey 08540 In the United Kingdom: Princeton University Press, Guildford, Surrey All Rights Reserved Library of Congress Cataloging in Publication Data will be found on the last printed page of this book First Princeton Paperback printing, 1988 Publication of this book has been aided by a grant from The Andrew W. Mellon Foundation This book has been composed in Linotron Sabon and Weiss Clothbound editions of Princeton University Press books are printed on acid-free paper, and binding materials are chosen for strength and durability Printed in the United States of America by Princeton University Press Princeton, New Jersey DE…",
+      "source": "(Princeton legacy library) Carson, Anne - Eros the bittersweet _ an essay-Princeton University Press (1986).pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6947098,
+      "importance": 0.736756443977356,
+      "final_score": 0.6947097778320312
+    },
+    {
+      "id": "7afea670b2a6b9a863ddb988",
+      "qdrant_id": "af9213b1-2e47-5034-99fb-9030f389ad83",
+      "text": "sopher’s wife (or sister, or mother in some cases). The sexual imagery is quite deliberate; she has in mind a kind of ‘amorous exchange’ in which sexual difference would be enacted in language, and she attempts to suggest this textually, to a certain extent, by mingling her own voice with the voice/text of the philosopher. This can be seen in its purest, unmixed form, in Speculum, where one of the sections (‘Une Mere de glace’), consists entirely of extracts from Plotinus, judiciously selected. (Irigaray is here only present in the selection of extracts.) Irigaray states specifically at the end of Speculum that: Precise references in the form of notes or punctuation indi¬ cating quotation have often been omitted. Because in relation to",
+      "source": "[Blackwell Readers] Margaret Whitford (editor), Luce Irigaray - The Irigaray Readerr_ Luce Irigaray (1991, Wiley-Blackwell) - libgen.li.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "luce-irigaray-this-sex-which-is-not-one-speculum"
+      ],
+      "raw_score": 0.6920684,
+      "importance": 0.7739871740341187,
+      "final_score": 0.6920684576034546
+    },
+    {
+      "id": "73f5270b3727a89684d17e33",
+      "qdrant_id": "15706b2f-afd3-5038-aa9f-db1d7f187b34",
+      "text": "Seillans and from Vezelay. I have also copied, by hand on two fragments of orange paper, the text by Georges Dumas on Pleasure and Pain, which so impressed him. And his notes, the foreword (nine manuscript sheets), and the first meticulously corrected proofs. And also a letter from Henri Parisot, which filled him with joy, accompanying the color photograph of Balthus’ The Guitar Lesson (it was around the time of the Methode de Meditation). It was on the 24th of July, 1959, that Bataille decided upon the title of this book: The Tears of Eros (“Pauvert will love it,” he added, not without malice). On the same date, he asked me in re¬ gard to the New Dictionary of Sexology to make sure to include articles on Gilles de Rais, Erzsebet Bathory, the Sacred, Transgression, Fashion, Nudity, Jean Genet, Pierre Klossowski ... his favor¬ ite voices. The idea of The Tears of Eros never left him, and he planned it down to the most minute detail,",
+      "source": "Georges Bataille - Tears of Eros-City Lights Books (1989).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "georges-bataille-eroticism-expenditure-general-economy"
+      ],
+      "raw_score": 0.6880235,
+      "importance": 0.74625164270401,
+      "final_score": 0.6880235075950623
+    },
+    {
+      "id": "c4724a3295a6bcc9dd5275ac",
+      "qdrant_id": "936676b4-1554-5302-98d8-778707e43719",
+      "text": "Press. Carson , Anne . 1986 . Eros the Bittersweet . Princeton: Princeton University Press. ——— . 2002 . If Not, Winter . New York: Alfred A. Knopf Cobb , William . 1993 . The Symposium and the Phaedrus . Trans. with introduction and commentaries. Albany: State University of New York Press. Cummings , Philip . 1976 . “Eros as Procreation in Beauty.” Apeiron 10 (2): 23–28. Cummins , Joseph . 1981 . “‘Eros,’ ‘Epithumia,’ and ‘Philia’ in Plato.” Apeiron 15 (1): 10–18. De Vries , G. J . 1969 . A Commentary on the Phaedrus of Plato . Amsterdam: Hakkert. Demos , Marian . 1997 . “Stesichorus’ Palinode in the ‘Phaedrus’.” Classical World 90 (4): 235–249. Dodds , E. R . 1959 . Plato Gorgias . Revised text with introduction and commen- tary. Oxford: Oxford University Press. Dorter , Kenneth . 2006 . The Transformation of Plato’s “Republic.” Lanham: …",
+      "source": "(Recovering Political Philosophy) David Levy (auth.) - Eros and Socratic Political Philosophy-Palgrave Macmillan US (2013).pdf",
+      "chunk_index": 155,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6875124,
+      "importance": 0.7422819137573242,
+      "final_score": 0.6875123381614685
+    },
+    {
+      "id": "27f56f615c8e9a1efdb2785f",
+      "qdrant_id": "21ff0ff0-33b1-5b3c-bcd0-1d6e67229c0e",
+      "text": "juxtaposed with a “misty, indefinite” film of distance dreaming, in the same way as what the exactitude of the photograph’s physical surface that it heightens, is only a temporal hallucination. In many places of her description, like Wang Qiyao’s tableau vivant in the contest and this scene, present is revealed only retrospectively through the mist of distant time, so that future loss casts a shadow on the most festive scene and is displaced in the narrative into the characters’ inexplicable psychology of anticipatory loss and mourn- ing. In this light, the wedding of Eros and mourning reflects the time scheme of the novel of nostalgia—the fusion of past, present, and future that by turning death from figure to fact and festival into mourning in its retrospective narrative, creates the timeless aura of nostalgia. The transformation from loss to timelessness is parallel to the photograph’s welding of the momentary shot that",
+      "source": "Hong Zeng (auth.) - The Semiotics of Exile in Literature (2010, Palgrave Macmillan) [10.1057_9780230113114] - libgen.li.pdf",
+      "chunk_index": 68,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63607997,
+      "importance": 0.7636434435844421,
+      "final_score": 0.6852811574935913
+    },
+    {
+      "id": "71502503c7ded6125f63e5a6",
+      "qdrant_id": "7a6e423f-fbcf-5cc2-b597-ab263e834676",
+      "text": "ANNE CARSON THE BITTERSWEET CLAREMONT SCHOOL OF THEOLOGY LIBRARY Dedicated in honor of Elnora Kelley Tayag May 2005 Graduate M.A.R. Ly) 1325 North College Avenue Claremont, CA 91711 praise for EROS THE BITTERSWEET “What we learn from Eros the Bittersweet while being spun alive by its brilliance is that its author is a philosopher of much cunning and an agile reader, a scholar with a mind as fresh as a spring meadow, no dust anywhere on her.’ GUY DAVENPORT “Highly recommended.” CHOICE “There is a fine beauty to the work, and it deserves reading.” LIBRARY JOURNAL eS \\ j P y ee ew . rr er aes if ae he ae om Ph my SIC sr ir ee \" des rn BA, ES we ahs g i } * t, ; , rim pits 5 nerves vient : a? i Sa: a ge, eNO CR ee a tea ae ae J AEOwWES? Ces Bae ee Sek OF Ye sci ee 2 a ar rs ~ i i : ) -— hed pee en, noe os Me …",
+      "source": "[Canadian Literature] Anne Carson - Eros the Bittersweet (1998, Dalkey Archive Press) - libgen.li.pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6851821,
+      "importance": 0.7292890548706055,
+      "final_score": 0.6851819753646851
+    },
+    {
+      "id": "cb408c647ee9f78e6bdffa1c",
+      "qdrant_id": "5727503e-3710-56df-8f16-eb069e1cf69b",
+      "text": "v Contents Preface ix 1 Th e Catastrophe of the Wedding Night 1 2 Divorce, a ‘Judaic Poison’ 8 3 Th e Nuptial Utopia 15 4 From Forbidden Love to Obligatory Love 21 5 Th e Pathologies of the Ideal 28 6 Honey and Hemlock 35 7 Th e Round of Disappointed Lovers 40 8 Towards Separation in a State of Euphoria? 44 contents vi 9 A Ministry of Broken Hearts? 50 10 An Agony Amidst Glory 57 11 Th e Liberating Tradition 62 12 Restoring Reason to Sentiment 68 13 Together, Separated 75 14 Th e Defeat of Prometheus 79 Th e Sweetness of Life 85",
+      "source": "Pascal Bruckner - Has Marriage for Love Failed_ (2013, Polity Press) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.635092,
+      "importance": 0.7396538853645325,
+      "final_score": 0.6851654052734375
+    },
+    {
+      "id": "89f1ec936c01a94d6cdb6b81",
+      "qdrant_id": "5c296282-5f7b-563c-a782-41d473bd5625",
+      "text": "(Chicago: University of Chicago Press, 2007), 1. . Ibid., 3. . Ibid., 10, 222. . Luce Irigaray writes that woman’s sexual organ “represents the horror of nothing to see” (This Sex Which Is Not One, trans. Catherine Porter with Carolyn Burke [Ithaca: Cornell University Press, 1977], 26). PART II. LOVE . Gillian Rose, Love’s Work: A Reckoning with Life (New York: New York Review of Books, 1995), 105–106. . Hélène Cixous, “Tancredi Continues,” in “Coming to Writing” and Oth- er Essays, ed. Deborah Jenson, trans. Sarah Cornell, Deborah Jenson, Ann Liddle, and Susan Sellers (Cambridge, Mass.: Harvard University Press, 1991), 79. . See Sappho, “Fragments 38, 47, 48, and 130,” in If Not, Winter: Fragments of Sappho, trans. Anne Carson (New York: Vintage, 2003), 77, 99, 101, 265. . Sappho, “Fragment 105a,” quoted in Anne Carson, Eros the Bittersweet (London: Dalkey Archiv…",
+      "source": "Diane Enns - Love in the dark_ philosophy by another name (2016, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 85,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.68384886,
+      "importance": 0.7417991757392883,
+      "final_score": 0.6838489770889282
+    },
+    {
+      "id": "9dea8e96f23a44cd2108e848",
+      "qdrant_id": "9b6e856d-cf06-5e9c-b877-0f1b623c88d9",
+      "text": "In Finnegans Wake, Shem's riddle of love, obscene and sublime, refers to the tradition of Eros the bittersweet: \"and offering the prize of a bit- tersweet crab, a little present from the past\" [FW 170.07). Eros reap- pears in Joyce's biblical echo of the feminine, from Eve, the first mother, to Isolde, the Wake's incarnation of the desirable daughter: \"she sail eurn bitter bed by thirt sweet of her face!\" [FW 291.06). Eros turns bread into bed, and the sweat of the brow into sweetness. Hard work, childbirth, and death await the daughters of Eve after the ex- pulsion from paradise. Joyce's sentence recalls the mother's death in Ulysses, her revenant, and the mystery of love. The Extremes of Eros In \"The Individual as Object of Love in Plato,\" Gregory Vlastos ex- plores some of the questions that are raised by Plato's accounts of love. 1 In the appendix, \"Sex in Platonic Love,\" Vlastos hig…",
+      "source": "Beryl Schlossman - Objects of Desire_ The Madonnas of Modernism (2019, Cornell University Press) [10.7591_9781501738951] - libgen.li.pdf",
+      "chunk_index": 92,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6476753,
+      "importance": 0.7371264696121216,
+      "final_score": 0.68193119764328
+    },
+    {
+      "id": "718f0026397be11743d17c32",
+      "qdrant_id": "9ffa98da-3b2b-5538-9b98-f7e6cc690a32",
+      "text": "liberal-egalitarian humanism” (p. 280). PARADOX That eros bodies forth an irresolvable ambivalence is the conclusion reached by the poet and classicist Anne Carson in her book on the topic: “Whether apprehended as a dilemma of sensation, action, or value, eros prints as the",
+      "source": "Erotikon_ essays on Eros, ancient and modern -- Bartsch, Shadi, 1966-; Bartscherer, Thomas -- 2005 -- Chicago_ University of Chicago Press -- 9780226038391 -- b4eec96ccbdf6fe516646df17b705cc9 -- Anna’s Archive.pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.67972237,
+      "importance": 0.7296624183654785,
+      "final_score": 0.6797225475311279
+    },
+    {
+      "id": "caaa28edcfc7bcc47b809b08",
+      "qdrant_id": "fda299b0-85a0-5aff-bb9b-c3c2bb487c34",
+      "text": "CONTENTS List of Illustrations xi Foreword xiii Preface xvii Note on Translations xix List of Abbreviations xxi TRAGIC PRELUDE The Yoke of Eros 3 PART ONE: THE TOPICS OF EROS 11 CHAPTER I The Eros of the Melic Poets 13 1. The Actions of Bittersweet Eros 14 2. Physiologies of Erotic Desire 19 3. Strategies of Love 23 4. A Variety of Passions 29 5. Metaphors for the Assuaging of Desire 33 6. The Erotic Charms of Poetry 36 CHAPTER II The Eros of Epic Poetry 39 1. Scenes of Mutual Love 39 2. Scenes of Seduction 43 3. Beguiling Words 46 PART TWO: THE SYMBOLIC PRACTICES OF EROS 49 CHAPTER III The Pragmatic Effects of Love Poetry 51 1. The Erotic Functions of Melic Poetry 52 2. The Loves of Alexandrian Writers 56 CHAPTER IV The Pragmatics of Erotic Iconography 65 1. Figurative Representations of Love 65 2. The Functions of Erotic Images 72",
+      "source": "Claude Calame_ Janet Lloyd - The Poetics of Eros in Ancient Greece-Princeton University Press (2013).pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6790909,
+      "importance": 0.7641299366950989,
+      "final_score": 0.6790907382965088
+    },
+    {
+      "id": "8486623cc67e5b20a5c42df1",
+      "qdrant_id": "53f00739-8048-5374-ada8-5fb0f9747983",
+      "text": "ix 1 \u0007Introduction: “Erotic ‘Victorians’: Women, Neo-Victorian Fiction, and Creative Eros”\b 1 The Novel “Reforming” Woman’s World\b 5 Eros, the “Phantasm,” and Platonic Love in Byatt’s Possession\b 6 Creative Eros\b 15 2 \u0007“The Female Artist’s Erotic Gaze in Neo-­Victorian Fiction”\b 23 The Gaze\b 25 Victorian Photography\b 27 Pre-Raphaelite Women Artists and Julia Margaret Cameron\b 29 Afterimage: Re-imagining the Pre-Raphaelite Vision\b 35 “Breaking the Sequence; Breaking the Sentence”: Re-envisioning Ophelia and Seizing Sappho\b 38 Visionary Luminescence in Sixty Lights\b 42 3 \u0007Eros and the Woman Writer: Conversing with the Spirits of Elizabeth Barrett Browning, Charlotte Brontë, and E. Nesbit\b 53 Aurora Leigh and the “Woman Question”\b 55 Marriage, Mothering, Writing, and Overcoming Male Influence\b 58 The Monstrous Feminine\b 72 Sexual Eros and Creativity\b 77 The Lesbian continuum\b 82 Contents",
+      "source": "Kathleen Renk - Women Writing the Neo-Victorian Novel_ Erotic _Victorians_-Springer International Publishing_Palgrave Macmillan (2020).pdf",
+      "chunk_index": 6,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64757854,
+      "importance": 0.73532634973526,
+      "final_score": 0.674767255783081
+    },
+    {
+      "id": "9e0a858d1d0a5144fb5ca85c",
+      "qdrant_id": "9f6922f0-d71b-5577-b647-92e5e01e4398",
+      "text": "Press, 1980–91). References in the text appear as CPW with volume, canto, and line number, except for references to Hebrew Melodies, which appear with volume and page number, and Don Juan, which list volume, canto, and stanza. 3. Plato, Plato:The Symposium, trans. and ed. Alexander Nehamas and Paul Woodruff (Indianapolis: Hackett Publishing Company, 1989), xiii. 4. Anne Carson, Eros the Bittersweet:An Essay (Princeton, N.J.: Princeton University Press, 1986), 32. 5. Carson, Eros the Bittersweet,32. 6. Plato, Symposium, xxii. 7. Wayland Young, Eros Denied: Sex in Western Society (New York: Grove Press, 1964), 254. 8. Young, Eros Denied, 254. 9. Peter Wagner, Eros Revived: Erotica of the Enlightenment in England and America (London: Secker and Warburg, 1988), 213. 10. Young, Eros Denied, 274. 11. J. A. Simpson and E. S. C. Weiner, eds., The Oxford English Dictionary, 2d ed, vol. 3 (Oxford…",
+      "source": "Jonathan David Gross - Byron_ The Erotic Liberal (2000, Rowman & Littlefield Publishers) - libgen.li (1).pdf",
+      "chunk_index": 58,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.67297244,
+      "importance": 0.7315756678581238,
+      "final_score": 0.6729724407196045
+    },
+    {
+      "id": "c0341426bbe160f25b58b962",
+      "qdrant_id": "32af2e62-2d41-55f9-ba22-fe92c38de9dd",
+      "text": "and the mind moves.’’34 The poem accumulates, disperses. The ‘‘pollen’’ of feeling cannot settle. ‘‘I will do anything to avoid boredom,’’ Carson writes in the ﬁrst prose poem of Short Talks, incorporated into Plainwater.35 In a sense, her poems act out that avoidance repeatedly. The shapes her thinking takes are numerous: reversals, questions, oppositions, logical revaluing. But it is eros that makes disappearance felt. In these poems the departing lover animates a distance, and erotic acts tend to be sudden intrusions on the page. The most avid sex partner is lonely in the moment of sexual congress or ﬁnds him or herself attached to a phantom. Even the completed act is begun or interrupted by a fantasy of betrayal. The loved other ultimately seems an exemplar of the elusive fabulations of poetry itself, of a radical instability that only magniﬁes rather than dampens erotic feeling. The images and sequences of her poems seem purpose-",
+      "source": "Bishop, Elizabeth_Carson, Anne_Glück, Louise_Niedecker, Lorine_Upton, Lee - Defensive measures_ the poetry of Niedecker, Bishop, Glück, and Carson-Bucknell Univ. Press (2005).pdf",
+      "chunk_index": 331,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6691358,
+      "importance": 0.732966423034668,
+      "final_score": 0.6691359877586365
+    },
+    {
+      "id": "d61dc2bd3928a9fb429f1176",
+      "qdrant_id": "5de28fc5-a780-5514-90d0-c4f71fe3a00f",
+      "text": "ALSO BT ANNE CARSON Men in the Off Hours Economy of the Unlost Autobiography of Red Plainwater: Essays and Poetry Glass, Irony and God Eros the Bittersweet: An Essay more Bad reasons for her sorrow, as appears In the famed memoirs of a thousand years Written by Crafticant JOHN KEATS, The Jealousies: A Faery Tale, by Lucy Vaughan Lloyd of China Walk, Lambeth, lines 84-87",
+      "source": "Anne Carson - The Beauty of the Husband.pdf",
+      "chunk_index": 0,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6666525,
+      "importance": 0.7183727025985718,
+      "final_score": 0.6666524410247803
+    },
+    {
+      "id": "1f415a1ed47f16b395b27665",
+      "qdrant_id": "95281107-3bd9-5e13-9806-9811626310f1",
+      "text": "It is, perhaps, worth noting, although not particularly necessary to say, that the producer of several of Hitchcock’s early films, including his first avowed “Hitchcockian” film The Lodger (1927) was Ivor Montagu, the translator into English of Eisenstein’s book Film Form. The connection between Eisenstein and Hitchcock, therefore, is quite direct. “Pure cinema” is montage, and montage is dialectical. Eros, too, is dia­ lectical. In her book Eros the Bittersweet: An Essay, Anne Carson takes her title and her concept of eros from a fragment of Sappho, “Eros once again limb-loosener whirls me/sweetbitter, impossible to fight off, creature steal­ ing up.” As Carson explains, “our standard English rendering ‘bittersweet’ inverts the actual terms of Sappho’s compound glukupikron.”11 Carson raises the question, “Should that concern us?” It might if the description of eros was meant ch…",
+      "source": "[Routledge Research in Aesthetics] Richard Gilmore - Hitchcock as Philosopher of the Erotic (2024, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6595582,
+      "importance": 0.7188396453857422,
+      "final_score": 0.6595582962036133
+    },
+    {
+      "id": "de726cd5da2530b3d48bd192",
+      "qdrant_id": "34108465-609d-5b53-88ab-d786eaf8121b",
+      "text": "Eros, 7, 102, 209-1 1; art and, 80, 221; The Assumption and, 87; bittersweet- ness of, 124; the Christian and, 187, 195; Diotima and, 8, 93-94, 218; Don Juan and, 104-7; Emma Bovary and, 84; Ficino and, 4; fiction and, 144; Flaubert and, 138-39; Gerty Mac- Dowell and, 173; Holderlin and, 39- 40; Joyce and, 214-16; modernism and, 9 1; myth and, 97; \"Nightpiece\" and, 172; poetry and, 38; Portrait and, 47, 48; psychoanalysis and, 46, 207; Renaissance representations of, 197; repression and, 208; Sappho and, 199- 203; Sappho on, 67, 119, 187, 217; Socrates and, 29-32; Symposium and, 5, 27-28, 134; writing and, 37, 123. ,, See also Amor eroticism, the erotic, 37, 51, 143; Christ and, 145; the Christian and, 187; death and, 100, 108, ni; Freud on, 208; history and, 17 1 ; the inassouvis- sable and, 76; the love letter and, 146; the Madonna and, 155; memory and, 6 1; poetics and, 140; sex and, …",
+      "source": "Beryl Schlossman - Objects of Desire_ The Madonnas of Modernism (2019, Cornell University Press) [10.7591_9781501738951] - libgen.li.pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6553545,
+      "importance": 0.721901535987854,
+      "final_score": 0.6553546190261841
+    },
+    {
+      "id": "5508abe87540c4617b6525d0",
+      "qdrant_id": "8fbaf3f9-f8c1-52c4-a138-4370bae39b92",
+      "text": "posed the initial 4,000 verses around 1235, and lean de Meun added about 17,000 verses-more than four times the original-around 1265. The fragment composed by Guillaume de Lorris stands squarely in the courtly love tradition. Here the poet, in a dream, is admitted into a walled garden where he finds a magic fountain in which a rosebush is reflected. He longs to pick one rose but the thorns around it prevent his doing so, even as he is wounded by arrows from the God of Love, whose commands he agrees to obey. The remainder of this part of the poem recounts the poet's unsuc- cessful efforts to pluck the rose. The longer part of the Romanceby Jean de Meun also describes a dream. But here allegorical characters give long didactic speeches, providing a social satire on a variety of themes, including those pertaining to women. Love is an anxious and tormented state, the poem explains, women are greedy and ma- nipulative, marriage is miserable, beautiful women are lustful, ugly ones cease",
+      "source": "(The Other Voice in Early Modern Europe) Henricus Cornelius Agrippa, Albert Rabil Jr. - Declamation on the Nobility and Preeminence of the Female Sex -University Of Chicago Press (1996).pdf",
+      "chunk_index": 27,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.65469015,
+      "importance": 0.7570894360542297,
+      "final_score": 0.6546902060508728
+    },
+    {
+      "id": "8218728924861cdf6e4f0e74",
+      "qdrant_id": "5e8a3938-e210-54ee-937a-2da3e97441d0",
+      "text": "there is a dichotomy of moral qualities; and resulting from that dicho­ tomy, the establishing of hatred for physical life, and therefore particu­ larly for its occasion, the female in capacity of erotic attraction, conception and parturition. For Beckett and for Hughes, the beginning of the trail of Eros and Psyche is found in an attitude of mind which is prepared to ask where the fearful, envious, judgemental relation of male to female originates, given that love, not hatred, inspired the myth of Eros. Hughes' account is specially significant because it expounds Being as singular in essence, and in devolution sexualised. It combines ± not fortuitously ± the matter of Being in itself (ontology) with the gendered- ness of Being's myths by which incarnate beings strive to understand themselves. It is special in relation to Beckett because where Shakespeare imaged the contention of a Reformation Puritanism against the Goddess",
+      "source": "Paul Davies - Beckett and Eros_ Death of Humanism (2000, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.65347147,
+      "importance": 0.7415169477462769,
+      "final_score": 0.653471827507019
+    },
+    {
+      "id": "05f5303cb39e28b4a8df99af",
+      "qdrant_id": "fe1e96f4-5c8a-533b-86af-8e3145b11fea",
+      "text": "precision as well as memorable alliteration.) The third stanza, more dif- ﬁcult than the preceding two, transforms the idealized woman-ﬁgure into a work of art: she becomes “statue-like.” Further transformations change the woman’s name from Helen to Psyche (the soul, or the god- dess of the soul) and “native land” to “Holy-Land.” The woman’s in- spiring inﬂuence has been fully internalized by the poet. Beauty, an abstraction that lives in the imagination beyond the death of any partic- ular mortal, becomes an ideal that ushers the poet not to the actual clas- sical world itself, long since gone, but rather into the “Holy-Land” of artistic creation. The classical ideal of beauty can thus be reborn in the poet’s own work. In contrast with Poe’s inwardly focused vision, Emerson’s “Each and All” (1847) takes a holistic view of beautiful objects in relation to their context. The opening of the poem (lines 1–12) explores the unexpected",
+      "source": "Allan Burns - Thematic Guide to American Poetry_-Greenwood (2002).pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6529739,
+      "importance": 0.7651399374008179,
+      "final_score": 0.6529737710952759
+    },
+    {
+      "id": "60b51c9c2644c45e7100744c",
+      "qdrant_id": "c5703158-b18d-547a-a625-fbfc76887420",
+      "text": "chronological facts of the rites, which yield to their tacit etiology, the myth. The movement is cinematic: scenes loom before us and dissolve. The chiastic structure takes us on an abrupt, disorienting journey from the bedchamber of Aphrodite's palace to the forest and back again in only very rough chronologi- cal order. I stress the cinematic effect of reader as viewer; the poem is driven by images and their emotional correlatives in an almost symbolistic way. Our unidentified narrator overwhelmingly assimilates the viewpoint of the bereaved goddess-lover, contemplating the bleeding body of Adonis with both grief and sensory gratification. Thus the poem turns the viewer into mourner and desirer together; that is, tropes eros and pathos narratologically. It is the first poem I know of to create such a view on a dead lover. Aside from later echoes in treatments of the myth of Adonis (by Proper- tius and Ovid, for example, and in later European poetry), I identify two main",
+      "source": "Dr. Basil Dufallo, Dr. Peggy McCracken - Dead Lovers_ Erotic Bonds and the Study of Premodern Europe (2007, University of Michigan Press) - libgen.li.pdf",
+      "chunk_index": 153,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.65258616,
+      "importance": 0.7729290723800659,
+      "final_score": 0.6525861024856567
+    },
+    {
+      "id": "2045bbd198543d82432b3d51",
+      "qdrant_id": "b253825b-eb89-53f4-b705-37f7fa242f01",
+      "text": "that it calls inner life into play.”5 Inner life is what makes eros both irresistible and dangerous. Its danger and its dark side ­were evident long before Bataille collected and celebrated examples of what he called the tears of eros. Cupid’s arrows can turn lethal as lovers’ quarrels slide recklessly ­toward vio­lence. ­Every neighborhood seems to ­house its convicted sex offenders. Eros is not only not identical with love but also regularly shatters settled romantic rela- tions with spontaneous flings and disastrous betrayals. It persists as heart- break in love’s absence. From classical lyric to modern tragedy, eros disrupts and torments the inner life that it calls into play. It rips apart marriages and plunges alliances into disarray, justifying the frequent references to love as an addiction, torment, plague, and disease. Anne Carson, classicist, phi­los­o­pher, and gifte…",
+      "source": "David B. Morris - Eros and Illness-Harvard University Preess (2017).pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6525837,
+      "importance": 0.7165154218673706,
+      "final_score": 0.6525837182998657
+    },
+    {
+      "id": "46cf1d1350ef6f1c92229993",
+      "qdrant_id": "118a2d51-8edc-5c91-9641-712cd2546c4b",
+      "text": "world today. The author offers a strong reading of my own thesis that “love is a Two scene”—a dual perspective—and, by virtue of this fact, represents a kind of basic political matrix. The chapter concludes with love’s transformative power: “Eros manifests itself as the revolutionary yearning for an entirely different way of loving and another kind of society. Thereby, it maintains fidelity to what is yet to come.” The final chapter affirms that love is necessary for thought to exist at all. “To be able to think, one must first have been a friend, a lover.” So concludes an encomium of love joined to a radical critique of a world that refuses it: to be dead to love is to be dead to thought. Though slim, this book is rich and rewarding—as sub­ lime in its praise of alterity as it is unsparing in its critique of the modern subject’s “depressive narcissism,” exhaustion, and individualism. Needless to say, it provokes further",
+      "source": "(Untimely Meditations) Byung-Chul Han, Erik Butler, Alain Badiou - The Agony of Eros-The MIT Press (2017).pdf",
+      "chunk_index": 11,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6515374,
+      "importance": 0.7616368532180786,
+      "final_score": 0.6515374779701233
+    },
+    {
+      "id": "2f3d7cc74f4a3d604f7420be",
+      "qdrant_id": "4cda84b0-524b-53e7-93a6-e2bccc008de1",
+      "text": "tery: Edenville and Nighttown\" explores Anglo-Irish returns to \"Eros the Bittersweet\" by way of Catholic doctrine, specifically, original sin and the virginity that Stephen Dedalus claims for himself. Through Joyce's echoes of Yeats, Stephen's impasse in love illustrates the oxy- moron of Sappho's \"Eros the bittersweet.\" A duality of love is rooted in this oxymoron: like the strange twists of mastery and passion in Platonic love, Yeats's evocation recalls Sappho's epithet. Part Two, \"The Two Loves,\" examines the early modernist configu- ration of love. In \"'Che vuoi?' Desire and the Seductions of Art,\" the 5 See Rainer Nagele, Echoes of Translation (Baltimore: Johns Hopkins University Press, 1997). In Stanze: La Parola e il fantasma nella cultura occidentale (Torino: Ei- naudi, 1977, 1993), Giorgio Agamben explores the knots of language and fantasy, phi- losophy and poetry. Part 1 of Sta…",
+      "source": "Beryl Schlossman - Objects of Desire_ The Madonnas of Modernism (2019, Cornell University Press) [10.7591_9781501738951] - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6514518,
+      "importance": 0.7192419171333313,
+      "final_score": 0.6514520049095154
+    },
+    {
+      "id": "556681c1065289584cf27252",
+      "qdrant_id": "7f4d9f85-3ece-59b0-a141-b5d0058935b2",
+      "text": "Page 74 → BRUCE BEASLEY Who Can a Monster Blame for Being Red? Three Fragments on the Academic and the “Other” in Autobiography of Red The reticent volcano keeps His never slumbering plan— Confided are his projects pink To no precarious man. —EMILY DICKINSON, EPIGRAPH FOR “AUTOBIOGRAPHY OF RED: A ROMANCE” 1. Clearing Up the Question of the Relationship between Carson’s Geryoneis and Stesichoros’s Either Carson derived the “Red Meat: Fragments of Stesichoros” from the extant fragments of Stesichoros’s Geryoneis or she did not. If she did not, Carson overwrites Stesichoros’s fragments with her own, and in thinking we are studying Stesichoros we study Carson, and we as readers are either blinded or enlightened, or if not, not. Almost nothing in Carson’s “Red Meat: Fragments of Stesichoros” resembles English versions of the Geryoneis fragments by Diane Rayor (1991), David Campbe…",
+      "source": "Anne Carson Ecstatic Lyre (coll.) (Z-Library).pdf",
+      "chunk_index": 198,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6504143,
+      "importance": 0.706168532371521,
+      "final_score": 0.6504144072532654
+    },
+    {
+      "id": "cddbe638012168ed008de570",
+      "qdrant_id": "e21f2c46-ba6a-5b57-900c-0970996fbc75",
+      "text": "whole which, though less novel, is more sustaining. Adumbrated in these few lines is a feeling of having been tricked out of such a primor- dial vision, and there arises a reaction of anger to the loss. Anger in the form of indignation at the loss overshadows any possible mourning for what has been foreclosed. If phenomenology and eros have not been more often discussed, it is likely that their affinity is so close that it seems difficult to disclose anything fresh by starting from their relation. A phenomenology of eros moves rather quickly toward transcendance as eros is discovered to be as transcend ant as Heraclitean fire, of which all creation represents in its diverse manifestations \"measures of fire.\" But since it should be evident that I have not settled for speechlessness, nor intend to abandon reflection for mantic utterance, how to proceed? We reflect on an exemplary instance of the problem of the truth of",
+      "source": "Enzo Paci (auth.), F. J. Smith, Erling Eng (eds.) - Facets of Eros_ Phenomenological Essays (1972, Springer) [10.1007_978-94-010-2387-0] - libgen.li.pdf",
+      "chunk_index": 313,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6502804,
+      "importance": 0.7666046619415283,
+      "final_score": 0.6502804160118103
+    },
+    {
+      "id": "004468ab5678664221095ae0",
+      "qdrant_id": "61c7ee38-cbe2-5b30-9354-330f0d47d643",
+      "text": "to the continuing relationship than that pain. Though he refers to \"marriage,\" what he says applies not only to dances in separation between spouses but also dances with life's companions, parents and children, siblings, other family pairings, and friends: We shall still ache. But we are not at all—if we understand our- selves—seeking the aches for their own sake. The less of them the better, so long as the marriage is preserved. And the more joy there can be in the marriage between dead and living, the better. Finally, Lewis comes to a profound insight about how our most intense grief and longing actually block our paths to lasting love: Passionate grief does not link us with the dead but cuts us off from them. This becomes clearer and clearer. It is just at those moments when I feel least sorrow . . . that H. rushes upon my mind in her full reality, her otherness. Not, as in my worst m…",
+      "source": "Thomas Attig - The Heart of Grief_ Death and the Search for Lasting Love (2000) - libgen.li.pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.650089,
+      "importance": 0.7683245539665222,
+      "final_score": 0.6500891447067261
+    },
+    {
+      "id": "6167982a84a084f153d14cfb",
+      "qdrant_id": "f363bb31-11b1-5efd-bf23-bdbd373f2110",
+      "text": "must be terrifically seductive and sexually frigid at once) reaches its heights when, despite anesthesia, Psyche begins to feel so much pleasure that she disobeys the god's orders and shines her lamp on him. She learns that the deity is only a \"man,\" indeed manhood of the basest order. The revelation is dramatic. The Eros with whom Psyche has coupled does not appear to her as a lovely, desirable \"Greek god.\" Monstrous both by excess and reduction, he is gigantic male genitalia. Psyche will elaborate on this point for her visitors' edification and debunk the nature of the deity once and for all. She tells the visitors that it was true that the god so desired her that he brought her, a mortal, to his godly abode. He forbade her, just as the story goes, ever to look on his countenance. And she loved him beyond all yearning. But everyone has neglected, Psyche charges, to say exactly why Eros…",
+      "source": "Jewell, Keala - Monsters in the Italian Literary Imagination (2001, Wayne State University Press) - libgen.li.pdf",
+      "chunk_index": 105,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64998657,
+      "importance": 0.7696936726570129,
+      "final_score": 0.6499865651130676
+    },
+    {
+      "id": "bafecba69aa1023752b711ed",
+      "qdrant_id": "efac2c15-ae84-53f3-8dbe-b99ea4ce7f80",
+      "text": "I N D E X 341 Eros: as action, 147–152; addiction and, 290–291; allegiance to, 289–290; as altered state of being, 4–5, 298–301; Asklepios and, 64; Bauby and, 125–126; at the bedside, 27–33; bittersweetness of, 298–299; Broyard and, 53–56; as classical god, 1–3; dance and, 127–128; danger of, 79–80; death and ­dying and, 128–129, 133–134; duality of, 49–50; ethics and, 177–183; healing role for, 68, 71; illness and, 1, 7; inner life and, 6–7; irreducibility of, 3–4; loss and, 268–276; Modigliani’s nudes and, 136–137, 139, 145–146, 148–152, 161; molecular vision and, 85–86; not-­knowing and, 274–275; pain and, 167, 177–183; plea­sure and, 74; as poison and antidote, 36; politics of, 152–156; as primal force, 3–4; probabili- ties and, 195; sensuous appearances and, 268–269; sexual activity and, 5–6; vio­lence and, 261–265; Woolf, illness and, 72, 73–75. See also Desir…",
+      "source": "David B. Morris - Eros and Illness-Harvard University Preess (2017).pdf",
+      "chunk_index": 128,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6492764,
+      "importance": 0.7120931148529053,
+      "final_score": 0.6492764949798584
+    },
+    {
+      "id": "7fec75e1d870c581f5b07e39",
+      "qdrant_id": "42492659-8213-549e-a014-ea79cc2d0a7e",
+      "text": "14 Specialized studies of love poetry do of course offer insights of a more general nature as well, often quite explicitly. I would single out in particular Anne Carson’s brilliant Eros the Bittersweet, which focuses on archaic and classical Greek literature but also proposes broader theories of the relation between writing and erotic desire. 15 I take the term “family resemblances” from Ludwig Wittgenstein, who uses it to denote characteristics that all recognizably belong to a concept and collectively deﬁne it, yet no one of which is absolutely requisite to that concept; see Ludwig Wittgenstein, Philo- sophical Investigations, trans. G. E. M. Anscombe (New York: Macmillan, 1953), 32 (§67). 6 The Art of Love Poetry",
+      "source": "Erik Gray - The Art of Love Poetry (2018, Oxford University Press) - libgen.li (1).pdf",
+      "chunk_index": 37,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6490032,
+      "importance": 0.7244650721549988,
+      "final_score": 0.649003267288208
+    },
+    {
+      "id": "53a77d31de751451847a894c",
+      "qdrant_id": "8f2ba633-13c1-55d5-aa0c-65df5ff6f2aa",
+      "text": "10 Two studies indebted to Dover but outside the stream of thought he initiated achieve a better balance: A. Carson, Eros the Bittersweet (see occasional subsequent references); and C. Calame, The Poetics of Eros in Ancient Greece (see especially pp. 13–23, 51, 65; cf. p. 72). Calame includes a brief treatment of the relevance of eros for Greek political institutions (pp. 91–109). He goes too far, however, in assimilating the dominant/submissive dichotomy almost entirely to the inversions of educative initiation rites (p. 55, note 5; p. 100, note 18; pp. 107–8; cf. pp. 198–9), and he becomes oversubtle in attempting to explain away the same dichotomy in comic invective (pp. 134–41). Calame’s preference for a more benign view of eros (pp. 27–38) seems to wish away the more violent aspect of hierarchy stressed by Dover and Foucault (The Use of Pleasure) a view that then became orthodox (cf…",
+      "source": "Paul W. Ludwig - Eros and Polis_ Desire and Community in Greek Political Theory (2002, Cambridge University Press) - libgen.li.pdf",
+      "chunk_index": 50,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64858377,
+      "importance": 0.7436009049415588,
+      "final_score": 0.6485836505889893
+    },
+    {
+      "id": "046c53f398c9ade62c92c063",
+      "qdrant_id": "083006ea-8712-54d0-a6d5-a435d5fcad6c",
+      "text": "itself grounded by the sight of life on earth. What makes the object of the poet’s gaze, described as “Nature’s naked loveliness,” so compel- ling, for Shelley and for our purposes here, is the way in which these three words conjoin eros and the environment before stripping it bare (275). Yet male poetic genius does not exist in isolation. A whole flurry of human and creaturely things – “raging hounds” and their “prey,” in keeping with the Actaeon myth and the hunter’s punishment for seeing a naked ­Diana – follows closely on the poet’s heels once he has touched down in what he calls the “world’s wilderness” (277). I will return to this figuration of a denuded and romanticized nature in Chapter 3 where",
+      "source": "(Routledge Studies in World Literatures and the Environment 4) Colin Carman - The Radical Ecology of the Shelleys_ Eros and Environment-Routledge (2018).pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64843833,
+      "importance": 0.7585185170173645,
+      "final_score": 0.6484383344650269
+    },
+    {
+      "id": "63b79e7a128105b65def89dd",
+      "qdrant_id": "e1c7eb24-e3b5-5b59-975a-2672be488f3c",
+      "text": "chot. What complicates this task is that the fragmentary work seems at times to exhibit the narrative expansiveness of the epic or novel, while at other times it exempliﬁes the lyrical brevity of the aphorism or frag- ment. Here one has only to consider the radically different senses in which Blake’s The Marriage of Heaven and Hell and Songs of Innocence and of Experience, Wordsworth and Coleridge’s Lyrical Ballads; Novalis’, Schleiermacher’s, and the Schlegels’ contributions to the Athenäum, and Coleridge’s Biographia Literaria, Wordsworth’s Prelude, Byron’s Childe Harold’s Pilgrimage and Don Juan, Percy Shelley’s Prometheus Unbound and The Triumph of Life, Mary Shelley’s Frankenstein, or, indeed, Keats’ two Hyperion poems can be said to be fragmentary works. Or consider, for example, the differing senses of the fragmentary embodied in Joyce’s Ulysses or Finnegans Wake, on the one hand,…",
+      "source": "Christopher A. Strathman - Romantic Poetry and the Fragmentary Imperative_ Schlegel, Byron, Joyce, Blanchot-State University of New York Press (2006).pdf",
+      "chunk_index": 103,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64806914,
+      "importance": 0.7346540093421936,
+      "final_score": 0.6480692625045776
+    },
+    {
+      "id": "e717ff7fccf9248a8841f70a",
+      "qdrant_id": "b1bf00c9-09f3-598b-97d5-0fe725c5da6d",
+      "text": "references to love as an addiction, torment, plague, and disease. Anne Carson, classicist, phi­los­o­pher, and gifted con­temporary writer, explains that ancient Greek lyric poets simply assumed as a ­matter of self-­evident fact that eros is “hostile in intention and detrimental in ­effect.” “Along- side melting,” she remarks, adding up the classical epithets attributed to",
+      "source": "David B. Morris - Eros and Illness-Harvard University Preess (2017).pdf",
+      "chunk_index": 19,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64387894,
+      "importance": 0.705356240272522,
+      "final_score": 0.6438789367675781
+    },
+    {
+      "id": "b52f4bb17e68ab86786521fc",
+      "qdrant_id": "bc7433e6-7079-54ae-a5dc-cb2a05e91c23",
+      "text": "love's fulfillment, were childish fancies. His difficulties with Fanny Brawne, the complications of his life as he tried to reconcile the claims of his passion for Fanny with the demands made upon him by his art, his financial and economic woes which kept him from marriage and the fulfillment of his erotic dreams - all of these troubles combined, forcing him to see squarely and realistically the inadequacies of Eros. Thus, the argument runs, La Belle Dame presents love, or the symbolic figure of love, the beautiful lady of the meads, as a cruel destroyer. Keats, in the space of roughly two months, the time between St. Agnes and La Belle Dame, changes from a passionate celebrant of love's victory to a cynical observer of love's destruc- tive effects. This attitude toward love is to prevail throughout the rest of Keats' brief creative life, and reaches its climax in Lamia. Both of these later poems reveal a more \"mature\" Keats, a poet",
+      "source": "(Studies in English Literature_ 45) Gerald Enscoe - Eros and the romantics_ Sexual love as a theme in Coleridge, Shelley and Keats-De Gruyter Mouton (1967).pdf",
+      "chunk_index": 360,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64330196,
+      "importance": 0.7151387929916382,
+      "final_score": 0.6433020830154419
+    },
+    {
+      "id": "b19fc90679a5e943c9d5a721",
+      "qdrant_id": "e2e16b20-bfda-52c8-b710-60aec64baeee",
+      "text": "to the world around them in queerish ways that provide the human species with a path forward. More a force than a figure, eros should be familiar to most readers as the Greek god of sexual desire. Among nineteenth-century readers in England, “Eros” was more familiar under his Roman cognate, Cupid (son of Venus), personified by John Keats as the “winged boy” (21). No one will be surprised to learn that the ­Shelleys, who stood at the center of the second-generation English Ro- mantic movement (alongside Keats), were worshippers of nature. They were also daring adventurers of erotic life both in and out of the family structure as well as on and off the page. The salacious nature of Percy and Mary’s romantic and sexual relationships, which involved extra- marital and even strongly queer relations, scarcely matters, but it will be touched upon. This book investigates the ways in wh…",
+      "source": "(Routledge Studies in World Literatures and the Environment 4) Colin Carman - The Radical Ecology of the Shelleys_ Eros and Environment-Routledge (2018).pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64325583,
+      "importance": 0.7356081604957581,
+      "final_score": 0.6432558298110962
+    },
+    {
+      "id": "c943d3dce2980db1ab5d8cb5",
+      "qdrant_id": "1feff2be-f354-520a-a87a-753f3e0544f3",
+      "text": "Two lovely berries molded on one stem; So, with two seeming bodies, but one heart. (3.2.203–12) Helena concludes this passionate appeal with the question, ‘And will you rent our ancient love asunder…?’ (3.2.215), a motif repeated by Celia, who complains, ‘Rosalind lacks then the love/Which teacheth thee that thou and I am one./Shall we be sund’red?’ (1.3.94–6). That these texts formulate the divorce of female unity in such similar terms substantiates James Holstun’s contention that female homoerotic desire was figured in seventeenth-century poetry primarily in an elegiac mode (Holstun 1987). Likewise, in Fletcher and Shakespeare’s The Two Noble Kinsmen, Emilia’s love for her childhood friend Flavina is rendered elegiacally, even as the love of Theseus and Pirithous is allowed expression up to the eve of Theseus’ marriage to Hippolyta (1.3.55–92). Presented as always already in the past, …",
+      "source": "S. Zimmerman - Erotic Politics _ The Dynamics of Desire on the English Renaissance Stage (1992) - libgen.li.pdf",
+      "chunk_index": 573,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6428923,
+      "importance": 0.7428402304649353,
+      "final_score": 0.6428922414779663
+    },
+    {
+      "id": "146e2962595cd8c28569f5d1",
+      "qdrant_id": "043235ed-768b-5fb5-b528-9f24e17b33f3",
+      "text": "explains the visceral emotions that attend the invasion of her body by eros as she watches a man talking to a woman she loves: “cold sweat holds me and shaking/grips me all, greener than grass/I am and dead—or almost/I seem to me.”4 Eros is a physical assault. In this poem and others by Archilochus and Anacreon, eros also denotes want, lack, desire for that which is missing—both the absent lover and the qualities he or she possesses. Surprised by eros, the lover strives to attain self­ completion. “Reaching for an object that proves to be outside and beyond himself, the lover is provoked to notice that self and its limits,” Anne Carson writes.5 Byron's poetry exemplifies this theme, in short lyrics such as “The First Kiss of Love,” which describes love as overpowering; in “There's Not a Joy the World Can Give,” which represents love as sweet­",
+      "source": "Jonathan David Gross - Byron_ The Erotic Liberal (2000, Rowman & Littlefield Publishers) - libgen.li (1).pdf",
+      "chunk_index": 19,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6424342,
+      "importance": 0.7218447327613831,
+      "final_score": 0.6424342393875122
+    },
+    {
+      "id": "6bced0f3e6ff39519d2d93c8",
+      "qdrant_id": "86ae96fa-cf2d-5f79-a21c-5b0d7505ed02",
+      "text": "the republic as prologue 23 three, in fact, can be essentially characterized by what they love (581a–c). Thus their respective desires for rule are incomprehensible without reference to these objects of eros. The intrapsychic politics that the tripartite model repre- sents so well arise at least in part from apolitical desires. And if each of the parts is erotic, so is the soul as a whole, and perhaps especially when justice (i.e., healthy harmony) has been established within it. The signiﬁcance of eros emerges most clearly when we consider the two largest-souled ﬁgures of the dialogue, the two who embody more eros than anyone else—that is, the phi- losopher and the tyrant. Eros is disparaged throughout the Republic. From book 1, where it emerges on the telling of Cephalus but with the invoked authority of Sophocles as ‘‘a sort of frenzied and savage master’’ (328c), through book 9, where it is said to characterize the tyrant and to be a tyrant itself (573b–579d), eros is primarily",
+      "source": "Laurence D. Cooper - Eros in Plato, Rousseau, and Nietzsche_ The Politics of Infinity-Penn State University Press (2008).pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6422447,
+      "importance": 0.7483354806900024,
+      "final_score": 0.6422446966171265
+    },
+    {
+      "id": "8aa0de9653c93968048ae166",
+      "qdrant_id": "cdd5831b-a9f1-52e8-9dba-377032ae27de",
+      "text": "1 6 C O M P O U N D E D O F M A N Y S I M P L E S agreed to call melancholy, and it will be convenient for us to call it elegiac. IV It has been impossible to represent this elegiac mood properly without revealing how its treatment of the death theme shades into the other classic melancholy themes of complaint of life and retirement, and how a gentle melan- choly has already associated itself with the nature poetry whose most distinguished early poet is Thomson. Profes- sor Reed devotes a whole chapter to the development of the close relationship between melancholy and descrip- tion. Not that all nature descriptions were melancholy, of course, but that a descriptive poem of any length almost inevitably contained passages of pensive wanderings in the moonlight or moral reflections on mortality such as the lines quoted above from \"Grongar Hill\"; and that on the other hand any poem, long or short, expressing a pensive",
+      "source": "Eleanor M. Sickels - The Gloomy Egoist_ Moods and Themes of Melancholy from Gray to Keats-Columbia University Press (2019)-2.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6419394,
+      "importance": 0.7485343813896179,
+      "final_score": 0.6419392824172974
+    },
+    {
+      "id": "352425259bbc5eb205474d68",
+      "qdrant_id": "e3039fae-03eb-593f-834f-8264baafb006",
+      "text": "bears a specular relation to the earlier Ashurst whose story started with a lame football knee—thus represents something like the relation between ego and superego, a specular narcis- sism riddled by guilt and dissatisfaction. It is on the figurative level that the ironization, or \"analy- sis,\" of Ashurst's position is made possible for the reader: the pattern of loss and displacement represented by the relation be- tween \"Megan David\" (\"star of David\" in Hebrew)28 and \"Stella\" (\"star\" in Latin); between the apple blossoms of Me- gan's tree and the \"apple-blossom coloring\" of his wife's cheeks; between the \"golden apples\" for which Ashurst vainly longs and the \"silver wedding-day\" he must settle with. The loss and displacement of desire, linked to an impossible love of the past, a male rival, and a lost apple tree; the discovery through the encounter at a crossroads; and the literary all…",
+      "source": "Cathy Caruth - Empirical Truths and Critical Fictions_ Locke, Wordsworth, Kant, Freud (2009).pdf",
+      "chunk_index": 357,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6417585,
+      "importance": 0.752435028553009,
+      "final_score": 0.6417586207389832
+    },
+    {
+      "id": "4348a6d560c8aa49c5666788",
+      "qdrant_id": "e8105011-edfa-50ef-abd7-d1c80b3ee03c",
+      "text": "25 . I discuss fragment 2.18B below; 2.18A (the lines about keeping silent when you suspect the beloved of infi delity) was mentioned in Chapter 1 . Th ough Heyworth 2007b , 184–5 suggests they are discrete fragments, there have been several articles arguing for the unity of these various fragments (see Williams 1980 , Nethercut 1980 , and Hubbard 1986 ). Th e interest in jealousy may be further grounds for taking these fragments as belonging to a single elegy. 26 . See Fear 2000 , 228–9 and Keith 2008 , 109–10.",
+      "source": "Ruth Rothaus Caston - The Elegiac Passion_ Jealousy in Roman Love Elegy (Emotions of the Past)-Oxford University Press (2012).pdf",
+      "chunk_index": 330,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.64112914,
+      "importance": 0.7293432950973511,
+      "final_score": 0.6411291360855103
+    },
+    {
+      "id": "e12a55ea7346d7bd0a417013",
+      "qdrant_id": "b8aee1c6-9669-5548-b4a9-e772ad30ffc4",
+      "text": "arship protects the story of romantic triangulation from closure. Surely the scoundrels whom the lovers seek in her poems are de- termined to be scoundrels, if seductive ones at that. We can be cer- tain of the fact. But the imperatives behind the betrayed partner’s compulsions are mysterious. Where Louise Glu¨ck’s speaker will at- tempt to bat away sensual demands and to ﬁnd fault with the be- loved in the ﬂesh, or to ascend to a realm of dream, imagination, or myth when confronted with intractable and imperfect ﬂesh, in Carson the lovers’ case is complicated by mixed desires. It is not the imagination itself which is the beloved for Carson but some- thing that we might refer to as the soul. Yet that the soul would choose such a ﬂimsy and deceiving vehicle to inhabit as the beloved who appears in these poems is yet another conundrum. The poems may seem like obsessive retellings of a failure in love and separation. We have met these characters before; they are familiar",
+      "source": "Bishop, Elizabeth_Carson, Anne_Glück, Louise_Niedecker, Lorine_Upton, Lee - Defensive measures_ the poetry of Niedecker, Bishop, Glück, and Carson-Bucknell Univ. Press (2005).pdf",
+      "chunk_index": 327,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6410524,
+      "importance": 0.7366854548454285,
+      "final_score": 0.6410527229309082
+    },
+    {
+      "id": "564e47ff46afa606dc9d4990",
+      "qdrant_id": "9822df56-19d8-5c4e-9c73-ea0859f0c42f",
+      "text": "8 Introduction﻿ to the first again, and with every repetition, as in a Hegelian dialectic, an Aufhebung, a synthesis that generates something new, transcendent, more. The first dialectic that Carson associates with Sappho’s “bittersweet” is the dialectic of pleasure and pain. “Eros seemed to Sappho at once an experience of pleasure and pain.”12 The “sweet” and the “bitter” of “bit­ tersweet,” then, are metaphors, metaphors for “pleasure” and “pain.” Metaphors themselves are dialectical, an affirmation of an identity via the completely different: “Juliet is the sun.” Metaphors, themselves, seem to be, and in general, erotic. They attract, fascinate, generate endless interpre­ tation: Juliet warms us; Juliet brings the light; Juliet makes things on me grow. Metaphors are also, as it were, as Eisenstein might put it: montage! I love the combination of “limb-loosener” with “whirls me…",
+      "source": "[Routledge Research in Aesthetics] Richard Gilmore - Hitchcock as Philosopher of the Erotic (2024, Routledge) - libgen.li (1).pdf",
+      "chunk_index": 34,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63991416,
+      "importance": 0.7117986679077148,
+      "final_score": 0.6399142742156982
+    },
+    {
+      "id": "4971b8d0ccfbbc864e1a4061",
+      "qdrant_id": "f13ca763-ea05-5614-a48f-1208ffee4bb3",
+      "text": "17. John Michell, The View Over Atlantis (N.Y.: Ballantine Books, 1972), p.194 18. Ibid., p.159. 19. Tompkins, op.cit., p.206. 20. Ibid., p.212. 21. Ibid. 22. Ibid., p.32. 23. Richard Roberts, On Being Accused of Treason and Other Poems, 1967. EROS: Chapter 6 1. Esther M. Harding, Womenʹs Mysteries (N.Y.: Harper & Row, 1971), pp.29‐30. 2. Irene Claremont de Castillejo, Knowing Woman: A Feminine Psychology (N.Y.: Harper & Row, 1974), p.82. 3. Ibid., p.173. 4. John Rawson, Tantra (N.Y.: Avon, 1973), pp.25‐26. 5. Ibid., p.l6. 6. Ibid., p.27. 7. Ibid., p.l5. 8. Ibid., p.l8. 9. Ibid. 10. Ann Belford Ulanov, Receiving Woman (Philadelphia: The Westminster Press, 1981), pp.15‐17.",
+      "source": "Richard Roberts - From Eden to Eros_ Origins of the Put Down of Women-Vernal Equinox Press (1985).pdf",
+      "chunk_index": 670,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63966393,
+      "importance": 0.7261500358581543,
+      "final_score": 0.6396639347076416
+    },
+    {
+      "id": "f93eddb36fd8b66d5f5dfce9",
+      "qdrant_id": "7b43da2b-6e69-54fa-92ef-d936c5dae208",
+      "text": "I began to cry, and I found her sprawled at the foot of the bed, naked, on the ﬂoor. She had on a sheet that had been laid over her. And then I said, “Hortensia mine! I told you so many times, when you were alive, not to trust him, for he would kill you.”1 Hortensia and Federico had planned to marry come next Easter; she had been saving her earnings, pooled with his, toward a nest egg for a family. A jealous fellow lover, chagrined at losing her, killed her. To read this tale of broken love and failed redemption is both very sad and oddly sweet. It lures the inner writer. Distance, famously, has pathos; persons far away and long ago stir us because they seem to let us conquer space and time. Folk long gone, if we can see them well, at once defy mortality and re- mind us of its ﬁnality. They are so lively but also so very dead and gone. And when they lived as far back as 1550, they tease …",
+      "source": "Thomas V. Cohen - Love and Death in Renaissance Italy-University of Chicago Press (2010).pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63949287,
+      "importance": 0.7419081330299377,
+      "final_score": 0.6394928097724915
+    },
+    {
+      "id": "f942b37e987bc6966822ef85",
+      "qdrant_id": "4676c4e5-18c3-5dba-9dce-c6017332261b",
+      "text": "kindly contrasting of the confined lives of women with the exertions which men face in their careers; soon she and Harville are engaged in the deepest analysis of human feelings, each claiming for their sex strength and endur- ance in affection upon the analogy of the bodily frames of men and women, and by the verdict of literature, until the impossibility of proof confronts them. It is when Harville tries to describe the love of a sailor for his wife and family ashore—speaking ‘only of such men as have hearts!’ as he presses his own with emotion—that Anne is driven by the logic of debate and of her love for Wentworth to concede the point and to make, while composure lasts, an assertion of love undying: ‘Oh!’ cried Anne eagerly, ‘I hope I do justice to all that is felt by you, and those who resemble you. God forbid that I should undervalue the warm and faithful feelings of any …",
+      "source": "Harold Bloom - Jane Austen (Bloom's Modern Critical Views) (2009).pdf",
+      "chunk_index": 151,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63834953,
+      "importance": 0.7464314699172974,
+      "final_score": 0.6383497714996338
+    },
+    {
+      "id": "80ee1b13fc33babac966b85f",
+      "qdrant_id": "53a67145-5579-577e-b4cb-ea258b56b136",
+      "text": "state) that attempt to circumscribe the subject. At the same time, Yasbincek makes clear that fragmentation can be the result of trauma and violence (rather than a political strategy or choice). A fragment placed towards the middle of the novel, describes a shocking violence that leaves survivors disabled by loss and trauma. The passage begins by describing the use, by Serbians, of one hundred and forty United Nations hostages as human barricades. It link these events with an unnamed person driven mad by these “vicious entertainments” (2000: 134). In this context, when the narrator says “I am fragmented and each day signals a new shattering”, it is clear that the structures of signification for this subject, liv, have been broken by the traumatic events of the past. In that aftermath of this violence, the narrator clings “to the idea of life as one clings to the promises on t…",
+      "source": "Jennifer Wawrzinek - Ambiguous Subjects_ Dissolution and Metamorphosis in the Postmodern Sublime. (Genus_ Gender in Modern Culture) (2009) - libgen.li (1).pdf",
+      "chunk_index": 241,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.638271,
+      "importance": 0.7469833493232727,
+      "final_score": 0.6382707953453064
+    },
+    {
+      "id": "21a1a8cd4394589f37935c4b",
+      "qdrant_id": "5ce5f277-0cd2-5cf3-ae1c-d82d1c469b4e",
+      "text": "passion and the generosity of the lover’s gesture. In a period we may quite appropriately refer to as his “middle period,”51 Plato penned his most lyrical and most memorable dialogues: Republic, Symposium, Phaedrus, and Phaedo. The topics vary (ranging from justice and the ideal city, to passionate desire and beauty, to the quest for effective and truthful writing, and the immortality of the soul), but all four dialogues pay close attention to mortality and immortality, the weird linkage between pleas­ ure and pain, to the vague longing the human soul feels for a realm beyond the realm of flux and change. Not content to desire, the human soul desires forever. Not content to possess for one day, the human soul desires to possess for all its days. And that simply is not possible. We can see the central Socratic point more clearly now: It is actually the fact of finitude that make…",
+      "source": "Sarah LaChance Adams, Caroline R. Lundquist, Christopher M. Davi - New Philosophies of Sex and Love_ Thinking Through Desire (2017, Rowman & Littlefield) - libgen.li.pdf",
+      "chunk_index": 96,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63789487,
+      "importance": 0.7111715078353882,
+      "final_score": 0.6378948092460632
+    },
+    {
+      "id": "e4685774bbaf84f153036d2c",
+      "qdrant_id": "0919a815-aecd-57fc-9380-327540c2dd67",
+      "text": "Flea,” 19; “Th e Good Morrow,” 38, 181–82n18; “Holy Sonnets,” 2; ideology of love, 7, 27, 42–43, 160; on sovereignty of lovers, 31, 49–51; “Th e Sun Rising,” 43; theories of eros, 170; “A Valediction: For- bidding Mourning,” 37; view of human nature, 41, 51, 52; view of the self, 180n6 Dowden, Edward, 22 Dryden, John, 19 Dubrow, Heather, 80 ecstasy, 47–48 “Ecstasy, Th e” (Donne), 5; approach to diff erence, 42–43, 45, 46–47; bystander’s introduction, 183nn53–54; conception of love, 23, 24, 29, 31, 35–36, 37, 42, 44–45, 47, 49–50, 54–55; critical reading of, 29, 31, 35, 41, 50, 51–52; disjunctions of, 22, 23, 29, 35, 41, 51; ecstatic experience of, 54; exploration of human nature in, 51–52; form of, 30–31; gender politics, 42; inconsistency of, 30; language of, 29, 49, 52–53; lovers’ eyes in, 20, 37, 38–39, 40–41, 182n31; lovers’ souls in, 47, 49–51; lovers’ withdrawal from the world, 37–38; opening of, 35–36; philosophi- cal dimension of, 54; presentation of",
+      "source": "James Kuzner - The Form of Love_ Poetry’s Quarrel with Philosophy (2021, Fordham University Press) [10.1515_9780823294534] - libgen.li (1).pdf",
+      "chunk_index": 156,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6369531,
+      "importance": 0.7172933220863342,
+      "final_score": 0.6369531750679016
+    },
+    {
+      "id": "92e7d7930fac80a9351d1e5a",
+      "qdrant_id": "06de58fb-e9f4-5f6b-ad1e-0a5901d06763",
+      "text": "118 KEATS AND THE TRIUMPH OF EROS action has been leading. Until now, Endymion's only contact with the goddess has been in the form of a somewhat ambiguous vision: ambiguous because Endymion was not certain whether the en- counter had been real or dream. But now the goddess comes to him in person; the physical contact with her convinces Endymion of what he had previously only suspected; that the dream was real. Stretching his indolent arms, he took, O Bliss! A naked waist: 'Fair Cupid, whence is this?' A well known voice sigh'd, 'Sweetest, here am I!' At which soft ravishment, with doting cry They trembled to each other. (II, 712-716) Long time in silence did their anxious fears Question that thus it was; long time they lay Fondling and kissing every doubt away; Long time ere soft caressing sobs began To mellow into words, and then there ran Two bubbling springs of talk from their sweet lips. (II, 733-738)",
+      "source": "(Studies in English Literature_ 45) Gerald Enscoe - Eros and the romantics_ Sexual love as a theme in Coleridge, Shelley and Keats-De Gruyter Mouton (1967).pdf",
+      "chunk_index": 319,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6367961,
+      "importance": 0.7377989888191223,
+      "final_score": 0.6367961168289185
+    },
+    {
+      "id": "d5e8e226ac8270c235905ed3",
+      "qdrant_id": "eead4aad-17bf-53e8-bdd5-362f75fef0d1",
+      "text": "the ritual of Eros is insufficient by itself to undo love’s deforma- tion by slavery. That ritual comes to represent, in this sense, less an actualization of community in the present than the figure for a yet-to-be-realized, future convocation. Two points follow directly from this proleptic repositioning of Eros. First, the repositioning means that, in 1873, a pallid echo of Erotic affirmation and a qualified opening onto futurity are the closest one can come to working through the traumas of slavery. Paul D’s professions of love for Sethe in the penultimate chapter may mark his repentance for telling her earlier (when she describes what happened to Beloved) that she has “two feet, not four” (194); he may promise a future relatively cleansed and unhaunted by the past when he tells her, “me and you, we got more yesterday than anybody. We need some kind of tomorrow” (322); and…",
+      "source": "Michelle Balaev (eds.) - Contemporary Approaches in Literary Trauma Theory (2014, Palgrave Macmillan) [10.1057_9781137365941] - libgen.li.pdf",
+      "chunk_index": 305,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6365635,
+      "importance": 0.7425516843795776,
+      "final_score": 0.6365635395050049
+    },
+    {
+      "id": "fde38da253c494b84f27b3ec",
+      "qdrant_id": "78397c38-d739-5087-b246-2ea7e6656685",
+      "text": "even entitled to, forbidden fruit or something beyond our reach.3 Then a conclusion of profound moment can be inferred: the superhu- man power connected with desire focuses on a lack, an absence that may leave us wanting and regretting in a deeply felt void, Socrates concedes. That is a logical effect of its nature. Eros was described by the adjective “sweet-bitter” (glukupikron) in one of woman lyricist Sappho’s ancient fragments, because its sweetness is made out of absence, and was accordingly also designated “mythmaker”, or “a weaver of fiction”, mythoplokos. The very word eros denotes “want”, “lack”, a “desire for what is missing”. Then the irrational dilemma within eros, which troubled lovers as much as philosophers, reads as follows, according to Anne Carson in her essay Eros the Bittersweet: “The lover wants what he does not have. It is by definition impossible for him …",
+      "source": "Anders Cullhed_ Carin Franzén_ Anders Hallengren_ Mats Malm_ Anders Cullhed_ Carin Franzen - Pangs of Love and Longing _ Configurations of Desire in Premodern Literature-Cambridge Scholars Publishing  (1).pdf",
+      "chunk_index": 98,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63639367,
+      "importance": 0.7079846262931824,
+      "final_score": 0.6363937854766846
+    },
+    {
+      "id": "369075c663b85a82b00b80b9",
+      "qdrant_id": "f51cd57f-daf6-53d6-b2a2-3180c84331cf",
+      "text": "tries to withdraw from the organisation. At the same time, however, his dissatisfied wife Jane, seeking an explanation for some disturbingly violent dreams she is experiencing, joins a small group in the village of St Anne's, consisting of a few eccentric humans and a tame bear, Mr Bultitude, who are led by the Director, Ransom. Jane discovers that her dreams are in fact true stories revealing the Institute's evil plans. In a final conflict, the Arthurian magician Merlin emerges from Bragdon Wood to join Ransom's group and the planetary gods, who destroy the Institute and all its works. The story ends with a great coming together in love – Venus is literally over St Anne's – and Ransom taking his leave of the earth. All these stories clearly operate within the conventions of romantic fantasy. The heroes and heroines are involved in great adventures, often quests, in which they",
+      "source": "Clive Bloom - Creepers_ British Horror and Fantasy in the Twentieth Century (Pluto Press (UK)) - libgen.li.pdf",
+      "chunk_index": 411,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6357226,
+      "importance": 0.7313989996910095,
+      "final_score": 0.6357226967811584
+    },
+    {
+      "id": "f965e09fe00fd70829e26071",
+      "qdrant_id": "2fe9e2b1-f301-5222-a447-1de721e6340e",
+      "text": "nationality (her Americans in particular are a confused mix of pseudocollo- quial gee!s and restless energy with resolutely British shalls and class con- cern), and of subjectivity itself (determined always in relation to an other who is fundamentally like herself). It is this conservative tendency that lies at the heart of the novel’s con- cern for “cracking up” and that drives the anxiety expressed in Anna’s dream about the fragments. Beginning with her repudiation of Frontiers of War, which seemed (and seems) once to have told a coherent and compelling story about what subsequently became the disparate aspects of her existence— politics, art, sex, community, nation—Anna records in the notebooks her progressive failure to maintain ever smaller domains organized according to her existing principles. When these fail, she is left not just with the chaotic remnants of a macroscale system that she does not understand but also with",
+      "source": "Wilkens, Matthew - Revolution_ The Event in Postwar Fiction (2016, Johns Hopkins University Press) - libgen.li.pdf",
+      "chunk_index": 446,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.6354392,
+      "importance": 0.7463237643241882,
+      "final_score": 0.635439395904541
+    },
+    {
+      "id": "816d25855c65138c757365c6",
+      "qdrant_id": "063bf647-6cf9-5187-9a60-b789c68a69b7",
+      "text": "my tears. Go, my book, and in my name greet the loved places: I will tread them at least with what foot I may . 10 Throughout book 2 of the Tristia, Ovid’s argument involves several issues of representation. He urges Augustus to distinguish between 7. Mikhail M. Bakhtin, The Dialogic Imagination: Four Essays, ed. Michael Holquist, trans. Holquist and Caryl Emerson (Austin: Univ. of Texas Press, 1981), pp. 412—22. 8. Roland Barthes, A Lover’s Discourse: Fragments, trans. Richard Howard (New York: Hill and Wang, 1978), pp. 211-12. Unfortunately, the title Howard uses mis- leadingly emphasizes the lover as a character rather than the fragmentary nature of the discourse. A better translation might be Fragments of an Amorous Discourse, which is more in keeping with Barthes’s theoretical project. 9. Helmut Rahn, “Ovid’s elegische Epistel,” Antike und Abendland 7 (1958), 105— 20. I am grateful to Betty Rose Nagle for drawing my attention both to this article and",
+      "source": "Linda Kauffman - Discourses of Desire_ Gender, Genre, and Epistolary Fictions (2019, Cornell University Press) [10.7591_9781501743931] - libgen.li.pdf",
+      "chunk_index": 60,
+      "page": null,
+      "seed_hits": [
+        "roland-barthes-lover-s-discourse-punctum-camera-lucida"
+      ],
+      "raw_score": 0.7393875,
+      "importance": 0.7827404737472534,
+      "final_score": 0.6348249316215515
+    },
+    {
+      "id": "fa7d48d7d3c0c18db1a91313",
+      "qdrant_id": "89bc761b-9515-55be-8683-e5500eb7a347",
+      "text": "To Anne Marie This page intentionally left blank Contents \u0001 Preface xi Note on Citations, Transliterations, and Translations xiii 1. Eros, Wisdom, and Silence in Plato 1 2. Modern Views of Plato’s Silence 40 3. Mystic Philosophy in the Seventh Letter 113 4. Symposium: Titanic Eros 182 5. Symposium: Prophetic Eros 300 6. Symposium: Dionysian Eros 370 7. Phaedrus: Democratic Tyrannical Eros 411 8. Phaedrus: Musical Eros 460 9. Phaedrus: The Rhetoric of Eros 518 10. Eros, Wisdom, and Silence in the Socratic Art 540 Bibliography 549 Index of Personal Names 559 Index of Subjects 567 ix This page intentionally left blank",
+      "source": "(The Eric Voegelin Institute Series in Political Philosophy) James M. Rhodes - Eros, Wisdom, and Silence_ Plato's Erotic Dialogues-University of Missouri Press (2003) (1).pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.63473845,
+      "importance": 0.7108370661735535,
+      "final_score": 0.6347385048866272
+    },
+    {
+      "id": "09cee904f07be6b6b4ff5aaa",
+      "qdrant_id": "0243c628-bb8f-5dd8-86d0-08d784642983",
+      "text": "of the fact that the woman exists within a loveless domain, isolated and stag- nant, with no possibility of company. This goddess of spring appears out of place among the winter landscape and infertile pastures, which surround the cabin, appearing almost mocking, as it perhaps heightens the old woman’s feelings of sterility. The juxtaposition of fertility and sterility serves to illustrate the realms of being and non-being, refl ecting the woman’s state of existence. Her position of prolonged existence is not honourable, and she does not feel elevated at the prospect of continued isolation, as ‘Down on her knees especially she fi nds it hard not to remain so forever’ (ibid.). The spiritual attrition from which she suf- fers, manifests itself through her inability to coerce her physical being to move, as her mental fatigue is corresponding to her physical exhaustion. And so she r…",
+      "source": "[Continuum Literary Studies] Kathryn White - Beckett and Decay (2009, Continuum) [10.5040_9781472542946] - libgen.li.pdf",
+      "chunk_index": 296,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.61302376,
+      "importance": 0.7615060210227966,
+      "final_score": 0.6267684102058411
+    },
+    {
+      "id": "b69dc46caa1b0e3ccd06f37e",
+      "qdrant_id": "1f9cad3c-ed16-575c-94fa-994e153b01e9",
+      "text": "followed the persuasive force of the patriarchal word with the received ideas and images without further distance or objectivation; meaning was, then, ideologically grounded in agreement between the poet and those values and norms. This attempt runs parallel to the quest for a viable integration, for although Rich had read a good number of women poets (Sappho, Ann Bradstreet, Christina Rosetti, Emily Dickinson, Elinor Wylie, Edna St. Vin­ cent Millay, H.D., Marianne Moore), they had inspired no special claim. Rich herself explains that \"even in reading these women I was looking in them for the same things I had found in the poetry of men, because I wanted women poets to be equals for men, and to be equal was still confused with sounding the same\" (1971 in Rich 1979b:39). It is important to stress that Snapshots prologues a new trajectory. Rich begins not only to include alien texts and provide clues to the reader, but also to reverse meanings and make",
+      "source": "[Critical theory 2] Rich, Adrienne Cecile_ Díaz-Diocaretz, Myriam - Translating poetic discourse _ questions on feminist strategies in Adrienne Rich (1985, John Benjamins Publishing Company) - libgen.li.pdf",
+      "chunk_index": 271,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.6842853,
+      "importance": 0.7509819269180298,
+      "final_score": 0.6258335113525391
+    },
+    {
+      "id": "fd4ff0a9e81b7d43d59bc7f2",
+      "qdrant_id": "0bd9298a-f645-5f73-b78a-ebfa3ded99af",
+      "text": "with her. At the end of the play there is a ﬁnal scene where Portia and Nerissa tease Bassanio and Gratiano about the rings the men had received from their beloveds, rings they had turned over to the “men” who solved the court case with Shylock (those “men” being Portia and Nerissa in disguise). This ﬁnal playing around with rings also explores the strange logic of mercantilist unfair conversions. Of course, the women acquired the rings under false pretences, in other words, by not revealing that those seeking the rings knew their true value. Portia and Nerissa promise to only lie with the men who had taken these rings from Bassanio and Gratiano. From our 20th-century viewpoint we would probably say that the ﬁnal banter is based on playfully confusing mere rings with the love that binds these couples. But that confusion is at the core of the entire play: the same problem lies at the hear…",
+      "source": "Michael Tratner - Love and Money_ A Literary History of Desires (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 136,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6023483,
+      "importance": 0.7527406215667725,
+      "final_score": 0.6230121850967407
+    },
+    {
+      "id": "6f0af721478f2d81de3ea54b",
+      "qdrant_id": "0b571143-db4a-5b98-8037-95bbebc4be58",
+      "text": "176 –202, published by Duke University Press. Some of the ideas in chapters 3, 4, and 5 are found in “Le Paradoxe de la féminité naturelle: Marie- Angélique, Sophie, et Nell” in Sexualité, mariage, et famille au XVIIIe siècle, ed. Olga Cragg and Rosena Davison (Québec: Presses de l’Université Laval, 1998), 159–72, and “Experimental Childrearing After Rousseau: Maria Edge- worth, Practical Education, and Belinda,” Irish Journal of Feminist Studies 2, no. 2 (December 1997): 35–56. a c k n o w l e d g m e n t s \u0003 x i i i \u0004",
+      "source": "The Wild Girl, Natural Man, and the Monster_ Dangerous -- Julia V_ Douthwaite, Julia Douthwaite Viglione -- 2010 -- The University of Chicago Press -- 9780226160566 -- a3617aa8e9e4fe53ddcb5c96e4f4ef28 -- Anna’s Arc.pdf",
+      "chunk_index": 16,
+      "page": null,
+      "seed_hits": [
+        "maggie-nelson-bluets-blue-as-methodology"
+      ],
+      "raw_score": 0.6481515,
+      "importance": 0.745460569858551,
+      "final_score": 0.6104344725608826
+    },
+    {
+      "id": "7d68a9698ae2ff34e22384ec",
+      "qdrant_id": "489e3c3b-43e8-5b40-adfd-16ef3b2b4771",
+      "text": "that he can only marry a Catholic woman, because love is easier where there is community of ideas. Love and religion reinforce each other. Maud cannot even consider conversion, even if Jean-Louis suggests it; her family practiced irreligion as a religion, and even if she claims to be indifferent toward religion, she hates the hypocrisy connected with much of it, and which she believes she senses in Jean-Louis himself. A further reason for her antipathy is that her marriage broke apart, because both she and her husband had lovers, his being a young Catholic woman, whom she hated with all her heart, even if the sincerity of her love was undeniable. With unerring female instinct, she furthermore feels that Jean-Louis is in love with a woman who is Catholic herself. Vidal, on the other hand, although an atheist, who states that he enjoyed his best sexual experiences in short non-committal encounters during conferences, remains attracted by",
+      "source": "Vittorio Hösle - Eric Rohmer_ Filmmaker and Philosopher-Bloomsbury Academic (2016).pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.5936426,
+      "importance": 0.7343519330024719,
+      "final_score": 0.6058038473129272
+    },
+    {
+      "id": "889abff28d1a2f07730a2c84",
+      "qdrant_id": "6df89c97-4f80-5c41-b6b5-866adba3c76a",
+      "text": "INTRODUCTION xix Although ten of Lispector's fourteen books of fiction are currently available in English, criticism of her work in English is still scarce. In addition to a rapidly growing number of articles, there are two books: Earl Fitz's Clarice Lispector (1985), an overview of her complete fiction, and Helene Cixous's transcripts of her seminars on several of Lispector's texts entitled Reading with Clarice Lispec- tor (1990). I will consider representative moments of Lispector's fiction in the following chapters, which are intended primarily as readings of certain texts, a task that is not superfluous in the case of a complex writer whose interpretation is far from exhausted. I hope as well that the paradigms I propose will prove applicable to other of Lispector's works and suggestive in the study of other women writers. My impetus for writing this book derives in part from my…",
+      "source": "Marta Peixoto - Passionate Fictions_ Gender, Narrative, and Violence in Clarice Lispector (1994).pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "clarice-lispector-the-passion-according-to-g-h-cockroach-becoming"
+      ],
+      "raw_score": 0.6978681,
+      "importance": 0.7545190453529358,
+      "final_score": 0.5954743027687073
+    },
+    {
+      "id": "56453dff13c066dc102b87f9",
+      "qdrant_id": "450dc0bd-78e6-5f94-8a4f-f7d2457929f6",
+      "text": "43 Adam Phillips, In Writing: Essays on Literature (Harmondsworth: Penguin, 2017), 264. 44 Cixous, ‘ “A Kind of Magic” ’, 163, my emphasis. 45 Cixous and Jeannet, Encounters, 122. 46 Cixous, ‘ “A Kind of Magic” ’, 166. 47 Hélène Cixous, Death Shall Be Dethroned: Los, A Chapter, the Journal, trans. Beverley Bie Brahic (Cambridge: Polity, 2016), 32. 48 Hélène Cixous, ‘The Laugh of the Medusa’, trans. Keith Cohen and Paula Cohen, Signs, 1:4 (1976), 875–93; here, 882. The French runs ‘le rythme qui te rit’: see ‘Le Rire de la Méduse’ (originally published in French in 1975), in Le Rire de la Méduse et autres ironies (Paris: Galilée, 2010), 35–68; here, 49. 49 Cixous, ‘The Laugh of the Medusa’, 888; ‘Le Rire de la Méduse’, 59. I discuss the prob- lematic rendering of ‘écriture féminine’ as ‘women’s writing’, rather than ‘feminine writing’, in more detail in ‘Cixous cuts: from the axe to giving birth’, below. 50 Cixous and Jeannet, Encounters, 142.",
+      "source": "Royle, Nicholas - Hélène Cixous_ Dreamer, realist, analyst, writing (2020, Manchester University Press) [10.7765_9781526140678] - libgen.li.pdf",
+      "chunk_index": 87,
+      "page": null,
+      "seed_hits": [
+        "cixous-laugh-of-the-medusa-writing-the-body-white-ink"
+      ],
+      "raw_score": 0.64030516,
+      "importance": 0.7342288494110107,
+      "final_score": 0.5644618272781372
+    },
+    {
+      "id": "1946a0d5843d65ea214596be",
+      "qdrant_id": "cb710fbb-e4f5-57d1-8270-91c66c074679",
+      "text": "Courtesy of Tim Curtis (Page xvi) 10. Courtesy of Peggy Reavey (Page 25) 11. Courtesy of Peggy Reavey (Page 28) 12. Courtesy of Tandem Press (Page 58) 13. Courtesy of Peggy Reavey (Page 224) 14. Courtesy of Catherine Coulson (Page 433) 15. Courtesy of Matt Marshall (Page 504) 16. Courtesy of Matt Marshall (Page 599) v i A C K N O W L E D G M E N T S",
+      "source": "David Lynch Beautiful Dark (Greg Olson) (Z-Library).pdf",
+      "chunk_index": 8,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6275727,
+      "importance": 0.6990033388137817,
+      "final_score": 0.5527558326721191
+    },
+    {
+      "id": "894f3b000a4b8b1d62e16999",
+      "qdrant_id": "98f9b238-d2c7-5787-ae6a-5fad00782b43",
+      "text": "Malady’ images. Annie Leibovitz and Vanity Fair for the Demi Moore Vanity Fair cover, August 1991. McGill University Archives for the My Fur Lady poster. Susan McKenna and Elizabeth Hynes for ‘Instructions of the Body’, ‘The Re- integration of Self’ and ‘Book of Skin’. Louise Roxanne Pembroke for her ‘Professional Thought Disorder’ series of illustrations. A shorter version of Renata Salecl’s chapter ‘Cut in the body: from clitoridectomy to body art’ appeared in New Formations, 1998, 35: 28–42. Every eﬀort has been made to contact copyright holders for their permission to reprint material in this book. The publishers would be grateful to hear from any copyright holder who is not here acknowledged and will undertake to rectify any errors or omissions in future editions of this book.",
+      "source": "Thinking Through the Skin (Sara Ahmed, Jackie Stacey) (Z-Library).pdf",
+      "chunk_index": 27,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6685562,
+      "importance": 0.732353150844574,
+      "final_score": 0.5522502064704895
+    },
+    {
+      "id": "a8143b4d4cd6871d2e8b7688",
+      "qdrant_id": "a44ba9db-008b-5452-8b89-a7495be6cd60",
+      "text": "Page 30 → BRIAN TEARE Reading Carson Reading Brontë RE The Soul’s Difficult Sexual Destiny From Eros the Bittersweet (1986) to Nox (2010), Anne Carson’s body of work insists upon reading as formative of selfhood and thus fundamental to being human, integral to everything from erotic love to mourning. Indeed, reading overtly or implicitly plots many of Carson’s most compelling texts, those in which her protagonists pursue reading as alternative to heroic actions. In the same way she contrasts Herakles’s extroverted epic hero with Geryon’s introverted lyric hero in The Autobiography of Red, Carson in Eros the Bittersweet contrasts oral and literate cultures, and claims the shift from the former to the latter radically changed Greek poets and their sense of self: As an individual reads and writes he gradually learns to close or inhibit the input of his senses, to inhibit or control t…",
+      "source": "Anne Carson Ecstatic Lyre (coll.) (Z-Library).pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "anne-carson-eros-the-bittersweet-fragments"
+      ],
+      "raw_score": 0.7101449,
+      "importance": 0.7477211952209473,
+      "final_score": 0.5500199794769287
+    },
+    {
+      "id": "68b9632c9fc1ec3b335f4438",
+      "qdrant_id": "ba4c346a-3351-57d6-b1ac-5a4cb88fd88c",
+      "text": "Fellow at the Cornell University Society for the Humanities. Lauren Berlant is George M. Pullman Professor of English at the University of Chicago. She is author of a national sentimentality trilogy that spans the U.S. nineteenth century to the present: The Anatomy of National Fantasy: Hawthorne, Utopia, and Everyday Life (1991); The Female Complaint: The Unfinished Business of Sentimentality in American Culture (2008); and The Queen of America Goes to Washington City: Essays on Sex and Citizenship (1997). She is also editor of four volumes focusing on affect and emotion: Intimacy (2000); Venus Inferred, with Laura Letinsky (2001); Our Monica, Ourselves: The Clinton Affair and the National Interest with Lisa Duggan (2001); and Compassion: The Culture and Politics of an Emotion (2004). Additionally, as co-editor of Critical Inquiry, she has edited a two- volume special issue on the concept of the case, On the Case. Her current project, Cruel Optimism, focuses on political depression.",
+      "source": "political-emotions-2010.pdf",
+      "chunk_index": 13,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.6983105,
+      "importance": 0.7401368618011475,
+      "final_score": 0.5418338179588318
+    },
+    {
+      "id": "45ce6c19c5bc44726cc28620",
+      "qdrant_id": "29b7ce10-ec00-518c-a276-6d45f616bbb8",
+      "text": "381 I n the years following the discovery of the tomb of Seti I, large sections of the deco- rations were removed from the walls. Hundreds of fragments are now in the collec- tions of museums across the world. Others were left in and around the tomb, some removed by the ‘excavators’ and others from general damage; there are indications that the ﬁrst ceiling in the sarcophagus room had collapsed. In recent years, over 8,000 fragments have been found inside the tomb itself or in the rubble deposited outside it. The work has been done by a team from the University of Basel under the direction of Susanne Bickel and Florence Mauric-Baberio. The recording of all of these fragments is a fundamental part of the collaborative effort by the Theban Necropolis Preservation Initiative to document the complete tomb in its current condition, including all the fragments in museum collections and all those that are currently stored in the nearby",
+      "source": "Adam Lowe_ Elizabeth Mitchell_ Nicolas Béliard - The Aura in the Age of Digital Materiality_ Rethinking Preservation in the Shadow of an Uncertain Future (2020, Silvana Editoriale) - libgen.li.pdf",
+      "chunk_index": 227,
+      "page": null,
+      "seed_hits": [
+        "media-archaeology-kittler-apparatus-inscription"
+      ],
+      "raw_score": 0.6697974,
+      "importance": 0.7216722965240479,
+      "final_score": 0.5361875295639038
+    },
+    {
+      "id": "d8faefad26e6f12b2480e1ea",
+      "qdrant_id": "01e8ce67-5cc4-502c-a1f2-1caf508ec0b7",
+      "text": "Patricia MacCormack 78 9 Reading Rosi Braidotti: Returning to Transpositions Clare Hemmings 87 Interlude 10 Patterns of (Dis)appearance Natascha Unkart 95 11 Encountering the Nomadic Subject with a Smile Piet van de Kar 101 Part 2 The Politics of the Academic 12 On Generation(s) Luisa Passerini 107 13 \u0007Rosi Braidotti and the Affirmation of European Women’s Studies: Points of No Return Aino-Maija Hiltunen, Annamaria Tagliavini and Berteke Waaldijk 116",
+      "source": "Bolette Blaagaard (editor) - The Subject of Rosi Braidotti_ Politics and Concepts (2014, Bloomsbury Academic) [10.5040_9781472594426] - libgen.li.pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7560363,
+      "importance": 0.785068929195404,
+      "final_score": 0.5342437624931335
+    }
+  ]
+}

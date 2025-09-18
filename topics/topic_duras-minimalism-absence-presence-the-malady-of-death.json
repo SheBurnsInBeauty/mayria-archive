@@ -1,0 +1,1215 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "duras-minimalism-absence-presence-the-malady-of-death",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "ce04c0d70c10d97336a55698",
+      "qdrant_id": "8b225bec-cc26-50cc-b7a5-f8d08da8bfee",
+      "text": "of being decentred and dissolved. As such, it is both self- aﬃrmative and self-destructive, and each in terms of the other. If we have passed symbolically through death yet are still breathing, death has been pressed into the service of eternal life. The sublime thus involves a rhythm of death and resurrec- tion, as we suﬀer a radical loss of identity only to have that selfhood more richly restored to us. These fearful powers blot us out into a kind of nothingness; yet like God this is a fertile rather than barren void, since to suﬀer the loss of all our dis- tinguishing features is to be granted an epiphany of pure self- hood. Feeling crushed and oppressed thus turns at its nadir into its opposite. A vulnerable object becomes an inﬁnite subject. By identifying ourselves with the boundlessness of the sublime, we cease to be anything in particular, but thereby become potentially everything. In this dazzling emptiness, all and",
+      "source": "Terry Eagleton - Holy terror-Oxford University Press, USA (2005).pdf",
+      "chunk_index": 136,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.77163494,
+      "importance": 0.8026726245880127,
+      "final_score": 0.7716349959373474
+    },
+    {
+      "id": "b6ca02e939cee05d29424e56",
+      "qdrant_id": "685dc25e-4c6a-58f2-87df-179b397d31e4",
+      "text": "is absent. As Thomas Carlyle noted in Sartor Resartus, the capacity of death to turn people into things while bringing inanimate objects to life, works with particular poignancy on garments and shoes, whose creases, folds and stains trace the physical contours of absence. In such cases the garment, more evocatively than other ‘material hauntings’, seems to gesture towards the topos of the boundary and the ﬁ gure of chiasmus, interstitial crossings of subject and object, animate and inanimate, life and death (Carlyle 1869; Stallybrass and Jones 2001). In part, it seems, it is this materiality-effect at the interface that makes",
+      "source": "R. S. Koppen - Virginia Woolf, Fashion, and Literary Modernity (2009, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7669114,
+      "importance": 0.8050903081893921,
+      "final_score": 0.7669114470481873
+    },
+    {
+      "id": "3d12aa3748a45f2ef4f3a2f9",
+      "qdrant_id": "ca861b44-5f50-56b0-a799-541fbc126a4b",
+      "text": "own absence in their own speech. Th e lending of a face to death thus “defaces” the living, a meta phor that ﬁ rst turns the living into monuments and second erases their epitaphs. In the ﬁ nal paragraph of his essay, de Man concludes that “Death is a displaced name for a linguistic predicament” (RR, 81). Is death a name at all? De Man presumably means death not as an ambiguous medical moment, but as a pattern of convictions about the relationship of what precedes the medical moment and what follows it. If the linguistic predica- ment is the impossibility of sustaining binarisms (Wordsworth in the essay seems in futile pursuit of them), then “death,” conceived as the antithesis of life, gives birth to an illusion of the grossest binarism of them all. We insist on death’s absolute distinction in order to endorse all the binarisms that we crave, but cannot achieve, in language, which is to say in life, which",
+      "source": "Limon, John - Death's following _ mediocrity, dirtiness, adulthood, literature (2012, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.76176673,
+      "importance": 0.7898297905921936,
+      "final_score": 0.761766791343689
+    },
+    {
+      "id": "94f88bc84f4a8187a8cadb38",
+      "qdrant_id": "80206cb0-c43a-561b-a5de-324dbf6f0383",
+      "text": "minuscule hiatus, un e´cart inﬁme,19 is still what requires thinking. This minuscule hiatus, which is death itself, la place du mort,20 deﬁnes life- ism. Yet, as we shall see, the only way into the nonplace that deﬁnes life-ism lies in the completion of immanence. Indeed, the guiding question throughout the book that follows is: What are the implica- tions of completing immanence? Introduction 3",
+      "source": "Leonard Lawlor - The Implications of Immanence_ Toward a New Concept of Life (2022, Fordham University Press) [10.1515_9780823293001] - libgen.li.pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.76128304,
+      "importance": 0.7948394417762756,
+      "final_score": 0.7612830996513367
+    },
+    {
+      "id": "bf1f8c7aacc155b4392d9b76",
+      "qdrant_id": "7b5cd593-bb6a-5fae-9404-48194fd2c98d",
+      "text": "and banality of the dying of the body—as is the title’s “magical thinking,” a holding open of the possibility of the departed’s return; later, the catastrophe commutes its sentence. Grief gives way. In the daily rhythm of daily doings, many months later, Didion describes the return of clearer eyes, a dispersing shadow. “That I was only now beginning the process of mourning did not occur to me,” she reports. “Until now I had been able only to grieve, not mourn. Grief was passive. Grief happened. Mourning, the act of dealing with grief, required attention.”58 The narrative progress detailed here is familiar: from darkness to the light; from the fogging pain of riddled confusion to the active deployment of attention. Although Didion retains a teleology of loss in which mourning as working-­ through temporally supplants the knee-­weakened confusion of immediate grief, her earlier i…",
+      "source": "Eugenie Brinkema - The Forms of the Affects (2014, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 118,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.75800717,
+      "importance": 0.7934027910232544,
+      "final_score": 0.758007287979126
+    },
+    {
+      "id": "f1e6ffed00bf43df027d9abe",
+      "qdrant_id": "94407d56-4c20-538f-bd26-b4656101212b",
+      "text": "Death is now a permanent, invisible yet watchful and closely watched presence in every human undertaking, deeply felt, twenty- four hours a day and seven days a week. The memory of death is an integral part of any of life’s functions. It is accorded high, perhaps the foremost authority whenever a choice is to be made in a life made of choices. Once the terrifying worry of ultimate, yet distant death had been split into day in, day out worry about spying out in time and ﬁ ghting back against (or better still warding off) the innu- merable and ubiquitous singular and close-at-hand causes of death, and as alarms about newly discovered but heretofore unknown pathogenic substances and regimes follow one another in rapid succession, every act and every setting of action, includ- ing acts and settings thus far believed to be innocuous and harmless or not thought of at all as ‘death relevant’, become suspected of causing irreparable harm and bearing terminal",
+      "source": "Zygmunt Bauman - Liquid Fear (2006, Polity) - libgen.li.pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.75766313,
+      "importance": 0.7922238707542419,
+      "final_score": 0.7576631307601929
+    },
+    {
+      "id": "e5009a81b5c1197e2e7a2189",
+      "qdrant_id": "4623c850-d202-5017-89bd-7a8cc92b47a4",
+      "text": "lessness of the allegorical ﬁgure of Death derives from the fact that no single shape could encompass the myriad horrors that Death brings, horrors that include, perversely, the prolongation of a miserable life. Physiological Death does not so much lack form as it possesses an inﬁnite multitude of forms for the imposition of suffering and decay on mortal ﬂesh. Adam is stunned not just at the physical suffering but also at the aesthetic degradation of humanity: Introduction 19",
+      "source": "Elizabeth Jane Bellamy, Patrick Cheney, Michael Schoenfeldt (eds - Imagining Death in Spenser and Milton (2003, Palgrave Macmillan) [10.1057_9780230522664] - libgen.li.pdf",
+      "chunk_index": 82,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7556366,
+      "importance": 0.7947738766670227,
+      "final_score": 0.7556366324424744
+    },
+    {
+      "id": "4321e0c025d7fbb860245451",
+      "qdrant_id": "f72ad1c8-8519-56cb-9c29-8237bcf0049c",
+      "text": "on many of Blanchot’s arguments on Marx and his thinking on absence and presence when he suggests that spectrality ‘will have been covered over (“filling in a void”, as Blanchot says, there where the void “ought rather to be increasingly emptied out”)’ (2006, 36). Drawing heavily on Blanchot’s work Derrida again puts forward the sense of hauntology and the spectre connoting a plurality of meanings once the void from which the spectre returns is emptied out. Blanchot presents the idea that death is not the end of life or existence but is instead the beginning of it. He looks upon death as something that is to be welcomed and comments that ‘death works with us in the world… and it is within each of us as our most human qual­ ity’ (1995, 337). Death is not something to be feared because in death one attains a sense of self, a voice, an influence which has a presence in the absenc…",
+      "source": "(Routledge Studies in Irish Literature) Ian Hickey - Haunted Heaney_ Spectres and the Poetry-Routledge (2021).pdf",
+      "chunk_index": 109,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.75441587,
+      "importance": 0.7974761724472046,
+      "final_score": 0.7544158697128296
+    },
+    {
+      "id": "eeeb11b10e91ff8149499e52",
+      "qdrant_id": "a1415399-06cb-5938-8aec-dd6970d2c2fa",
+      "text": "necessitated its hiddenness. These semblances that attached to death precluded the possibility that the primary meaning of death would reveal itself.16 As we will see below, Heidegger’s phenomenological analysis of everyday experience reveals death as something fundamentally hidden from experience. The image that suggests itself is of a palaeon- tologist who painstakingly removes layer upon layer of sediment ﬁnally to uncover what lies buried underneath. In this case, however, the sediment that has accrued is the layers of practice and common ways of speaking about death that conceal more than they reveal. Heidegger burrows through the accretions of common practice to ﬁnd a death that not only must be embraced, but is, in fact, constitu- tive of who we are. In his conceptual analysis of death Heidegger presents the reader of Being and Time with a phalanx of distinctions designed carefull…",
+      "source": "Brent Adkins - Death and Desire in Hegel, Heidegger and Deleuze-Edinburgh University Press (2007).pdf",
+      "chunk_index": 90,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7521342,
+      "importance": 0.7897759079933167,
+      "final_score": 0.7521343231201172
+    },
+    {
+      "id": "a2e2966f11af2efc7ac7705a",
+      "qdrant_id": "48d3c062-38d0-5364-9c62-a6f603b3251f",
+      "text": "entirely absent except for a single instant, and yet both are certainties. Each happens to everyone. But while we may count on life and death (and possibly taxes), both life and death share an inconceivability and invisibility. Life is too prevalent to be noticeable at all—it is more present to us than our breath or pulse—while death escapes our sight no matter how closely we watch for it. Just as we remain dis- tanced from the moment of death even when we stand right beside it, so too do we remain distanced from the moment of life as it is endlessly repeated within us. How, then, might we understand Esther’s unique experience of Starry Night? How may we understand the simultaneous evocation of life and death within our experience of a sublime image? And how might we understand our experience of the sublime in terms of existence and inexistence? Recognizing an Absence in the Image’s Presence Leslie tells of walking into a gallery and seeing a large black and white canvas",
+      "source": "Erika Goble - Visual Phenomenology_ Encountering the Sublime Through Images (Phenomenology of Practice) (2016, Routledge) - libgen.li.pdf",
+      "chunk_index": 465,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7507451,
+      "importance": 0.7895997166633606,
+      "final_score": 0.7507451176643372
+    },
+    {
+      "id": "715b8d07cf3a773e9954d97e",
+      "qdrant_id": "9a4f927d-9e31-5bb6-b03a-9bc4b48a70d6",
+      "text": "consists of shifting attention (and worry!) from death itself, as a universal and inescapable event, to the speciﬁ c ‘causes’ of death, which are to be neutralized or resisted. And the third consists of a daily ‘metaphorical rehearsal’ of death in its gruesome truth of the ‘absolute’, ‘ultimate’, ‘irreparable’ and ‘irreversible’ end – so that such an ‘end’, as in the case of ‘retro’ fads and fashions, can come to be viewed as considerably less than absolute; as revocable and reversible, just one more banal event among so many others. I am not suggesting that any of these strategies, or even all of them applied together, are fully effective (they can’t be, they are but subterfuges and palliatives after all), or that they are free from undesirable, and sometimes quite noxious, side-effects. But they",
+      "source": "Zygmunt Bauman - Liquid Fear (2006, Polity) - libgen.li.pdf",
+      "chunk_index": 155,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.75039124,
+      "importance": 0.7837889194488525,
+      "final_score": 0.7503913044929504
+    },
+    {
+      "id": "cf81ee1a45bdf211f93ec465",
+      "qdrant_id": "6d15f82f-ba72-5f22-867c-69ea142e0ae2",
+      "text": "desire to be gone, therefore, again manifests itself in this text. The concept of stillness is again explored here, as the opening lines describe a night in which nothing appears to move and where sounds are few. Everything appears to be in decline, as even the nightbirds no longer pass by. The opening of ‘Sounds’ anticipates the general tone of the text, and we recognize that this work con- veys the possibility that it is ‘almost’ devoid of life. However, similar to the fact that total stillness cannot be attained in Still, the total absence of sound cannot be achieved here, due to the fact that the protagonist still lives. It is for this reason that he longs to be ‘dreamt away’ to a place where sounds are no longer heard. As Pilling says, by abolishing sound the protagonist ‘will be able to con- vince himself that he has effectively ceased to exist’ (1978: 151). It is interesti…",
+      "source": "[Continuum Literary Studies] Kathryn White - Beckett and Decay (2009, Continuum) [10.5040_9781472542946] - libgen.li.pdf",
+      "chunk_index": 569,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7492639,
+      "importance": 0.7908406257629395,
+      "final_score": 0.7492640018463135
+    },
+    {
+      "id": "35f6f873c14fc9b440581b38",
+      "qdrant_id": "f2e86dc4-7df8-569c-8312-2a55f6e9c29b",
+      "text": "T H E M A G I C M O U N T A I N 97 of these powerful centralities—the body, disease, love, death—is reduc- ible to the instantiations they represent. The individual deaths on the Mountain are recorded, but the sovereignty of death remains untouched by its exempliﬁcations. In this way, the transcendental is introduced into the life, disease, and death of the individuals who are caught up in the movement of existence—its current of illness, decline, and very occa- sional recovery. “Horizon,” in its phenomenological force, shows itself as the clue—Husserl would say “the transcendental clue”—to the mean- ing of the substance of The Magic Mountain: the essence of time. Time undergoes phenomenological reduction on the mountain: it is brack- eted not only from the chronology of the ﬂat-land but also from death itself. Oddly enough, it is talk about death which is as unwelcome on the Mountain as it is on the ﬂat-land. One does not talk about death at ta-",
+      "source": "Maurice Natanson - The Erotic Bird_ Phenomenology in Literature-Princeton University Press (2021).pdf",
+      "chunk_index": 383,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.74911284,
+      "importance": 0.7942825555801392,
+      "final_score": 0.7491129636764526
+    },
+    {
+      "id": "e17763bdbfea0c5eff9e6b87",
+      "qdrant_id": "ddbbc699-00a0-589e-9e71-54997e858e9b",
+      "text": "bodies, or the commonplace representations of the dead reincarnated by metempsychosis, have never kept the true, immutable domain of death from remaining that of a chilling fear. All things considered, death only opposes the happy fecundity of practice with the pullulation of error - beyond a silence that gives us over to the worst. How can one withhold value from efficacious activity, reserving it for that which overwhelms us, for that which makes our powerlessness manifest? The agreement seems unanimous, but the opposition is perhaps poorly situated. In efficacious activity man becomes the equivalent of a tool, which produces; he is like the thing the tool is, being itself a product. The implication of these facts is quite clear: the tool's meaning is given by the future, in what the tool will produce, in the future utilization of the product; like the tool, he who serves -…",
+      "source": "Georges Bataille_ Fred Botting and Scott Wilson (Editors) - The Bataille Reader (Blackwell Readers) (1997, Wiley-Blackwell) - libgen.li (1).pdf",
+      "chunk_index": 183,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.74886125,
+      "importance": 0.7889925837516785,
+      "final_score": 0.7488613128662109
+    },
+    {
+      "id": "a9a817789ad262070b7de0f2",
+      "qdrant_id": "7e1c3c6a-2cc8-5934-94c1-b1526f009606",
+      "text": "Here we leave the limited problem of art. This presentiment of fate in death subsists, as paganism subsists. To be sure, one need only give oneself a constituted duration to remove from death the power to interrupt. Death is then sublated. To situate it in time is precisely to go beyond it, to already ﬁnd oneself on the other side of the abyss, to have it behind oneself. Death qua nothingness is the death of the other, death for the survivor. The time of dying itself cannot give itself the other shore. What is unique and poignant in this instant is due to the fact that it cannot pass. In dying, the horizon of the future is given, but the future as a promise of a new present is refused; one is in the interval, forever an interval. The characters of certain tales by Edgar Allen Poe must have found themselves in this empty interval. A threat appears to them in the approach of such …",
+      "source": "Cazeaux, Clive - The Continental Aesthetics Reader (2017, Taylor and Francis) - libgen.li (2).pdf",
+      "chunk_index": 203,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.74855494,
+      "importance": 0.7844017744064331,
+      "final_score": 0.7485549449920654
+    },
+    {
+      "id": "6943f1e4e453c0619e7abe1a",
+      "qdrant_id": "17870a94-d14a-5aa8-a4c3-df08fbcc1901",
+      "text": "has fashioned about death, representing it as remote or as unreal, a sleep or a transition, break up, and one is faced with death itself. What does one see when one faces death? Death will wipe away all there is to see in the landscape about one, in the ir­ reversible extinction of one’s individual existence. One sees the indeterminate and interminable abyss, nothingness itself. One feels it ready to gape open under every path that looks unstable, under every tool in one’s hand that one senses may malfunction or break up. What feels this imminence of the abyss is the anxiety that throbs in the very core of what one is. Yet as death closes in, courage can arise from some unknown depth of oneself. Courage is a force that can hold one resolute and lucid as death itself approaches. Courage and trust have this in common: they are not at­ titudes with regard to images and representa…",
+      "source": "[Theory out of Bounds, 25] Alphonso Lingis - Trust (2004, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 14,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7484573,
+      "importance": 0.783998429775238,
+      "final_score": 0.7484574317932129
+    },
+    {
+      "id": "f9cb4b367d20f4f996578a5a",
+      "qdrant_id": "197ed6a9-0ab4-5d17-b1ed-99880cc6344b",
+      "text": "constitutes a central problem in his work. As Duzer hints, even in his death Deleuze morally distanced himself from a vitalism that would uphold the sanctity of life at all costs. The ‘life’ Deleuze speaks of is expressed in stranger, more hidden varieties: it has as much, if not more, in common with the ‘life of music’86 whose forms Xenakis dissected; the life of colour as explored in Matisse-thought87 (or, indeed, the ‘exemplary life of the soil’ of Dubuffet’s textur- ologies, or ‘one of Pollock’s lines’);88 the life of knowledge as evoked in Malfatti’s Mathesis;89 or the vitalism-structuralism of Rosny’s structures of beauty or his evocation of the ‘life 85. A. Badiou, Briefings on Existence: A Short Treatise on Transitory Ontology, trans. N. Madarasz, NY: SUNY Press, 2006, 64. 86. Haswell & Hecker, present volume, 114. 87. Alliez, present volume, 212. 88. Dialogues II (Pre…",
+      "source": "Robin James Mackay - Collapse_ Philosophical Research and Development. Unknown Deleuze and Speculative Realism 3 (2007, Urbanomic) - libgen.li.pdf",
+      "chunk_index": 82,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7481577,
+      "importance": 0.7935996055603027,
+      "final_score": 0.7481576204299927
+    },
+    {
+      "id": "8dd29fe7b03f129e41bc80e5",
+      "qdrant_id": "a6f8c7c8-3ade-5fd5-8af1-3148115b3c53",
+      "text": "Contents Acknowledgements vii Introduction: Like a Painful Wound 1 Part I Melancholia Chapter 1 Death, Incorporated 17 2 Projections of Death 38 3 Lieutenant of the Nothing 54 Part II Mourning 4 Death Introjected 75 5 Family Values and Culture Wars 88 6 To Hold Fast What is Dead 106 Part III Beatitude 7 Paralogisms of Desire 125 8 The Investments of Desire 146 9 A Mortuary Axiomatic 170 Conclusion: The Free Think of Death Least 197 Bibliography 209 Index 217",
+      "source": "Brent Adkins - Death and Desire in Hegel, Heidegger and Deleuze (2007, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7479794,
+      "importance": 0.7869833707809448,
+      "final_score": 0.7479794025421143
+    },
+    {
+      "id": "582cd835227470e85b0d08d8",
+      "qdrant_id": "05f80fc1-0cd9-5665-aa2d-7af3357d09e2",
+      "text": "enacting it. Moreover, since he did not tell his wife, the above sentence suggests that a lack of communication is connected to the amputation. This again illustrates, in relation to Blanchot’s theory, a clear connection between a lack of expression and a physical absence, specifically, a partial bodily death. Blanchot believes that death involves a possibility and impossibility: individuals understand death because they experience the loss of another, and are also unable to understand it, because it cannot be consciously apprehended. This can be related to Peter’s desire for a partial “death”. Blanchot is also interested in how the human relationship with death involves a desire to grasp the impossible. The man that Peter encounters online exemplifies this notion, as he tells Peter that he has frozen and saved his ten amputated toes. Although he does not want to die, the man n…",
+      "source": "Monika Loewy - Phantom Limbs and Body Integrity Identity Disorder_ Literary and Psychoanalytic Reflections-Routledge (2019).pdf",
+      "chunk_index": 200,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7477623,
+      "importance": 0.7929885983467102,
+      "final_score": 0.7477622628211975
+    },
+    {
+      "id": "09a41c9aac765c1fa58c84ec",
+      "qdrant_id": "404d3e48-ac26-589b-bfd8-69a2b5f1d32d",
+      "text": "INTRODUCTION xxv Max’s attempts to annul the Other’s presence in his life and to retain his sense of self. Max’s symptoms of not climaxing, constipation, and perpetual thinking made more sense when they were connected to Max’s own “elimination” and his desire to simultaneously retain his sense of self and to hold back or stave off death. A focus on the existential given of death anxiety (never to be underestimated) is fleshed out in relation to the obsessional mode or form of the neurotic’s question, particularly as it manifested in Max’s symptoms, dreams, ego identifications, and our therapeutic relationship. Why was Max’s existence so inextricably tied to death? Within his family, we uncover a “symbolic debt” in the form of a death of which no one spoke; the repressed in the form of a family secret returns in Max’s being. I encouraged Max to narrate the constellation that p…",
+      "source": "Yael Baldwin - Let’s keep talking _ Lacanian tales of love, sex, and other catastrophes (0, Karnac) - libgen.li.pdf",
+      "chunk_index": 47,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7462321,
+      "importance": 0.7879246473312378,
+      "final_score": 0.7462321519851685
+    },
+    {
+      "id": "05d1d8694aae196b7f71de69",
+      "qdrant_id": "0217e697-51cf-5ae1-b27e-586488dbeaae",
+      "text": "of conflict; it is the questioning energy of the problematic: For death cannot be reduced to negation, neither to the negative of opposition nor to the negative of limitation. It is neither the limitation imposed by matter upon mortal life, nor the opposition between matter and immortal life, which furnishes death with its prototype. Death is rather, the last form of the problematic, the source of problems and questions, the sign of their persistence over and above every response. (Deleuze 1968, 112) With the death instinct, Deleuze realises his project of the dissolution of the self. Death has, for him, following Maurice Blanchot, two aspects. Firstly, it is the disappearance of the person, the reduction to zero of the difference which stands for a distinct person. This reduction is objectively represented as a return to inanimate matter. But, secondly, death is a state of free differences that are no longer subordinated to the form of the ego, the subject, or the",
+      "source": "[Figures of the Unconscious] Leen De Bolle - Deleuze and Psychoanalysis_ Philosophical Essays on Deleuze’s Debate with Psychoanalysis (2010, Leuven University Press) - libgen.li.pdf",
+      "chunk_index": 541,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7457424,
+      "importance": 0.7821640372276306,
+      "final_score": 0.7457425594329834
+    },
+    {
+      "id": "cbebe9f3558b7ee222f51080",
+      "qdrant_id": "3dfa8ca1-b699-577f-a93a-3192fac50039",
+      "text": "We understand death as the possibility of Dasein as crucial for learn- ing. We might refer to this learning as the moments of “little deaths” in education, which can be brought forward by an experience of, or reflec- tion on, what it means to be oneself or a distinct self. The moments of little deaths, highlight the vulnerability of the learning subject. What we mean by vulnerability is not the possibility of actualization of death, but the becoming aware of the self that seemingly has already been out of grasp, that is withdrawn. Vulnerability relates to the unity and auton- omy of the subject. The “little deaths” of education refer to a first step of death: coming aware of the non-consciousness of one’s self—the opaqueness or disappearing of one’s self into that self. Let us take Fichte’s imperative to think of yourself. We argue in this thought of oneself, there are certain th…",
+      "source": "10.1007@978-3-030-19933-3.pdf",
+      "chunk_index": 268,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.74540424,
+      "importance": 0.7840238809585571,
+      "final_score": 0.7454042434692383
+    },
+    {
+      "id": "0d346aa74e678b8696a878cb",
+      "qdrant_id": "b11b024d-9d58-5484-a4eb-c5a0960f5b2d",
+      "text": "of disability acts to distract the reader from some other inhumanly danger- ous deviation. Yet, it is crucially important to keep sight of textual depictions of disability as representing very real human disability, and not merely as metaphor. As Michael Davidson puts it: “there are cases in which a prosthe- sis is still a prosthesis” (120); that is, in some cases “disability is not a metaphor” for something else but a reﬂection of “a lived reality” (120). In fact, the crit- ical displacement of the disabled or diseased body reﬂects the invisibility of disability in “polite” society. Seeing the non-normative body as representing itself renders that body visable and accessible to the kind of analysis that appears in the essays in this collection. Invisible and Visible As I have worked on this collection, I have been inspired by the scholar- ship of the writers who have contributed to this…",
+      "source": "Ruth Bienstock Anolik - Demons of the Body and Mind_ Essays on Disability in Gothic Literature (2010).pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7068948,
+      "importance": 0.7920653820037842,
+      "final_score": 0.7450056076049805
+    },
+    {
+      "id": "8785d450a3f264fbbb30ba16",
+      "qdrant_id": "e8b2ec6d-efa8-53f8-8a1e-5a37dcff4100",
+      "text": "the conﬂict between life and death.≤ Pushing the limits of the climactic vanishing point of human possibility, embracing the potential of disap- pearance for the experience of becoming, self-starvation represents the most extreme domain of what Michel Foucault called subjectivation and what Martin Heidegger called Dasein, through a radical and paradoxical em- brace of mortality.≥ Hovering at the very brink of disappearance—we might say, aimed at the death of the subject∂—self-starvation conceptually and methodologically obtains its signiﬁcance as cultural practice not sim- ply in gesturing toward absence, but in viscerally and a√ectively summon- ing us to bear witness to the long, slow wasting away of human ﬂesh. In this book I explore the political economy of self-starvation in several speciﬁc cases, staging a critical intervention around what I am calling the politics of morbidity. Alt…",
+      "source": "Patrick Anderson (editor)_ Judith Halberstam (editor)_ Lisa Lowe (editor) - So Much Wasted_ Hunger, Performance, and the Morbidity of Resistance-Duke University Press (2010).pdf",
+      "chunk_index": 23,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7448838,
+      "importance": 0.7869269847869873,
+      "final_score": 0.7448839545249939
+    },
+    {
+      "id": "ff6d99e783fdbd0fef602230",
+      "qdrant_id": "a3a6f6c9-51fc-5af6-b477-6b10ec2160bb",
+      "text": "of terror, insistent that any intelligible ontology as such mobilises non-belonging (or nothing) through the agency of a chain of putrefactory ratios or problematic intimacies with the dead. Aristotle assimilates the bond between soul and body with the bond between corpse and living victim, wherein only the differential layer of blackening or nigredo can properly be called ‘life’. Yet in Negarestani’s argument, even this chemistry of horror is only a preface to a deeper bond with the void which Aristotle seeks to dissimulate. The final twist in Negarestani’s investigation, in which the glorification of negativity or the subtractive mobilization of non-belonging (Badiou, Zizek, et al.) is revealed as an implicit and unconditional affirmation of the radically exterior, adds new and macabre detail to his previous Collapse essays on absolute exteriority and ‘affordance’: surviv…",
+      "source": "Robin Mackay (editor) - Collapse_ Philosophical Research and Development. Concept Horror. 4-Urbanomic (2008).pdf",
+      "chunk_index": 24,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.744745,
+      "importance": 0.7889737486839294,
+      "final_score": 0.744745135307312
+    },
+    {
+      "id": "3e6c522522cdc88d594f1fb5",
+      "qdrant_id": "41496918-ffd0-5c72-be51-000fe133fb2f",
+      "text": "approach. He seeks to return to the concrete experience of death and impos- sibility. This does not open a new form of possibility, but confronts us with a radical ontic impasse. Death is the dead end of existence and it does not give rise to a transcendental renewal of oneself in a more authentic mode of being. In focusing on the ontic sense of death, Maldiney gives a curious twist to the whole ontic-ontological framework. More precisely, he goes beyond the sharp distinctions between the transcendental and the empirical, the ontologi- cal and the ontic, the possible and the actual, etc.—all of which are bound",
+      "source": "(Continental Philosophy and the History of Thought) Elodie Boublil - Reframing Twentieth-Century French Philosophy_ The Roots of Desire-Lexington Books (2023).pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7437488,
+      "importance": 0.7864698171615601,
+      "final_score": 0.743748664855957
+    },
+    {
+      "id": "4071640363ef89a53066ea9d",
+      "qdrant_id": "b10297a3-1b4e-5f7d-be99-6588d8e3b436",
+      "text": "Bibliography . Wrathall (eds.), A Companion to nd Existentialism. Oxford: Wiley- 0. Descartes’ Error: Emotion, Reason, rain. New York: Quill. . The Feeling of What Happens: nd the Making of Consciousness. The Happiness Industry: How the Big Business Sold Us Well-Being. vinas: An Introduction. Cambridge: Meditations on First Philosophy. e: Cambridge University Press. The Year of Magical Thinking. state. Bibliography . Robbins (eds.), The Cambridge Situated Cognition. Cambridge: ity Press, pp. 437-53. Understanding Grief. London: (2009). Embodied grief: Bereaved of their suffering body. OMEGA: and Dying, 59, 253-69. Tab og sorg: En grundbog for pro- agen: Hans Reitzels Forlag. 004). Production of Presence: What Convey. Stanford, CA: Stanford ey, J. (2001). Death, Memory and Oxford: Berg. Personal Being. Oxford: Basil",
+      "source": "Svend Brinkmann - Grief. The Price of Love (2020, Polity Press) - libgen.li (1).pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7436054,
+      "importance": 0.7853156924247742,
+      "final_score": 0.7436055541038513
+    },
+    {
+      "id": "400d475ee692ed510d921a7b",
+      "qdrant_id": "577c4daf-f524-5b0f-9a6e-bd3006d33a0e",
+      "text": "spectrum of painful emotions as noted above, the ﬁ rst author’s essential deﬁ nition refers to both the unconscious anxiety about and the conscious realization of the fact that our lives are terminal, that we face separation from loved ones, and ﬁ nd ourselves conjuring up painful imaginings of inﬁ nite nothingness or nonexperience, a mental state that when faced directly is truly intolerable (R. Firestone, 1994b, 1997a) (Note 1). In describing his experience of death anxiety, one client wrote that, “The concept that my life is terminable is too awful. How could it be that life ends when it feels so permanent? I know it can’t really end; there must be a way out. How can death stalk on such a sunny day? Death should be reserved for the nighttime or at the very least for a cloudy or rainy day. Is there no respite? I thought of Orpheus and Eurydice and their desperate struggle to…",
+      "source": "Dr. Robert Firestone PhD, Dr. Joyce Catlett PhD - Beyond Death Anxiety_ Achieving Life-Affirming Death Awareness (2009, Springer Publishing Company) - libgen.li.pdf",
+      "chunk_index": 75,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7435025,
+      "importance": 0.7765012383460999,
+      "final_score": 0.7435026168823242
+    },
+    {
+      "id": "130b6eb3bc7fb2b7dee014b5",
+      "qdrant_id": "37207dcf-063b-5fbb-b714-6f06256545ec",
+      "text": "within a more or less brief period of time during which we are continually at risk of annihilation. It is this recognition, operating as a structural element in our creation of meaning, that Sartre neglects. In his ideas about death, as in much of his philosophy, he sets up a highly problematic dualism between life and death, freedom and facticity, conscious- ness and body, man and nature. In doing so, he misrepresents the ways in which these contraries interpenetrate throughout ordinary experience. This shortcoming appears most clearly in Sartre's remarks to Simone de Beauvoir about his own imminent death: \"It seems to me natural. Natural as opposed to my life as a whole, which has been cultural. It is after all the return to nature and the assertion that I was a part of nature.\"' Moving as these words may be, they nevertheless reveal a great confusion. Sartre wants to say…",
+      "source": "Irving Singer - Meaning in Life, Volume 1_ The Creation of Value (Irving Singer Library) (2009) - libgen.li.pdf",
+      "chunk_index": 167,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7432629,
+      "importance": 0.7856308221817017,
+      "final_score": 0.7432629466056824
+    },
+    {
+      "id": "48b5293e86f637ceeb8234a2",
+      "qdrant_id": "907c6e9f-9225-5a5f-9e14-6f08b4d2dfcf",
+      "text": "odds. The ego remains split between a love that keeps the loved one alive and the knowledge of an incontestable absence. This rift between the living pres- ence of the other in the ego and its real absence is a cleavage so unbearable that we often want to reduce it not by moderating the love but by denying the absence while rebelling against the reality of the lack and refusing to accept the definitive death of the loved one. Such a rebellion against fate, such a denial of the loss is sometimes so tenacious that the mourner borders on madness. The refusal to admit the irre- mediable character of the loss or, what amounts to the same thing, to admit the incontestable character of the absence in reality, borders on madness but tempers pain. When these moments of rebellion ease, pain reappears as vividly as before. Faced with the sudden death of a loved one it frequently happens that the mo…",
+      "source": "(Psychoanalysis and Culture) Juan-David Nasio, David Pettigrew, Francois Raffoul - The Book of Love and Pain_ Thinking at the Limit With Freud and Lacan -State University of New York Press (2004).pdf",
+      "chunk_index": 79,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7432169,
+      "importance": 0.7819397449493408,
+      "final_score": 0.7432172298431396
+    },
+    {
+      "id": "f2e86a10d8600e77130e0661",
+      "qdrant_id": "fea79fee-113f-532b-95e8-cf47a45a8d6a",
+      "text": "fications existantes de la mort (religieuses, métaphysiques, phi- losophiques), de celles qui nous parlent de la mort dans la vie, du champ où ses figures se déploient, en conflit constant avec celle-ci — à travers les riches expressions de sa diversité : phy- sique et psychique. Le travail du négatif nous fera assister au développement de ses possibilités d’accomplissement : il varie en effet ses expres- sions en se faisant, selon les circonstances, passage, défilé, figure, moment d’une transformation qui ne trouvera son sens et sa portée qu'après coup, temps ou moment d’un processus, ou au contraire : obstruction, figement, blocage, illusion d’arrêter le parcours comme pour tenter de s'approprier par anticipation, une fin hors de portée de l’objet. Toute l’action de l'analyse vise dès lors à rendre à la structure psychique sa liberté de mouve- ment, laissant l’analysant m…",
+      "source": "Le travail du négatif (REPRISE) -- Green, André -- Reprise -- 16, Reprise (Éditions de Minuit), Paris, France, -- Éditions de Minuit; Minuit -- 9782707321633 -- ae92e4d0860376343fee019698a4897a -- Anna’s Archive.pdf",
+      "chunk_index": 60,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7424172,
+      "importance": 0.78484708070755,
+      "final_score": 0.7424172759056091
+    },
+    {
+      "id": "f3de251ba9c2f3d885aaec63",
+      "qdrant_id": "8277600e-a903-59a0-999b-6bacff9b79ff",
+      "text": "Directions for Decomposition Ennui shows us an eternity which is not the transcendence of time, but its wreck; it is the infinity of souls that have rotted for lack of superstitions, a banal absolute where nothing any longer keeps things from turning in circles, in search of their own Fall. Life creates itself in delirium and is undone in ennui. (The man suffering from a characterized sickness is not entitled to complain: he has an occupation. The great sufferers are never bored: disease fils them, the way remorse feeds the great criminals. For any intense suffering produces a simulacrum of plenitude and proposes a terrible reality to consciousness, which it cannot elude; while suffering without substance in that temporal mourning of ennui affords consciousness nothing that forces it to fruitful action. How to cure an unlocalized and supremely impalpable disease which infec…",
+      "source": "Cioran E M - short history of decay-penguin books (2010).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.74193096,
+      "importance": 0.7753518223762512,
+      "final_score": 0.7419308423995972
+    },
+    {
+      "id": "e11926ed7981f4c6f8760fc5",
+      "qdrant_id": "d08e28be-e749-5cc3-8aec-2e4e8aae0cc8",
+      "text": "duplicity. To live is to live on: survival is not merely an extension of a univocal conception of life. The slippage of time and difference disturbs any moment of self-presence from the outset. Life is always in motion. In relating to itself, it never simply coincides with itself. The trace always lives on in the absence of its origin, the sign is always read in the wake of the death of its author (even when, in an empirical sense, its author is very much alive). Life drifts, mortally wounded. This is more than an interesting intellectual conundrum or piece of speculative ingenuity, however. It is also the realization that life is a negotiation, an interpretation of traces, and that here lies the possibility of affirmation. The complicity between death and life is not necessarily a morbid alliance. As Derrida remarks, ‘I would not want to encourage an interpretation that situates surviving on the side of death and",
+      "source": "[Intensities_ Contemporary Continental Philosophy of Religion] Katharine Sarah Moody & Steven Shakespeare - Intensities_ Philosophy, Religion and the Affirmation of Life (2012, Ashgate Publishing) - libgen.li.pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7414409,
+      "importance": 0.7820613980293274,
+      "final_score": 0.7414410710334778
+    },
+    {
+      "id": "879e24b8659deaff9f48bba5",
+      "qdrant_id": "186eff11-4c06-5b87-8ac6-0cf5dfc02fdc",
+      "text": "the undertaker noticed a varicose vein in her right leg twitching. Signs of breathing and sounds of snoring followed. Mrs Banks, who would have been placed in a sealed mortuary tray in another hour, came back to life. Unlike her namesake, the nymph pursued by Apollo, Daphne Banks wasn’t granted everlasting life. Unlike Thomas `a Kempis, the ﬁfteenth- century monk whose cofﬁn was said to show evidence of scratch marks on the inside, she wasn’t buried alive either. With our current interest in boundaries, we tend to think of the one between life and death as there to be crossed, or breached, or transcended. These metaphors have the luster of transgression; they mask our helplessness, vulnerability, and lack of agency in the face of death. Over time, we have improved our instruments for determining",
+      "source": "Janet Gezari - Last things _ Emily Brontë's poems (2007, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 335,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.74071467,
+      "importance": 0.7851617336273193,
+      "final_score": 0.7407146096229553
+    },
+    {
+      "id": "7b5e6e54ae0120b94b81d63d",
+      "qdrant_id": "ad319366-7384-59d0-adb7-661bafc7f4c6",
+      "text": "an individual occurrence it will come in the form of the physi- cal extinction of the body, but as event, in the sense of the awareness of ﬁ nitude, of the interrupted ﬂ ow of my being- there, death has already taken place. We are all synchronized with death – death is the same thing as the time of our living, in so far as we all live on borrowed time. The time of death as event is the impersonal continuous present of Aion, per- petual becoming, not only the linear and individualized Chronos. The temporality of death is time itself, by which I mean the totality of time. Some of these ideas may seem counter-intuitive to the secular critical theorists. I want to insist, however, on the necessity of re-thinking posthuman life beyond the old boundaries of death. We may do well to remember here the importance of the tactic of de-familiarization, which I out- lined in the previous ch…",
+      "source": "Braidotti - The posthuman (2013_2012, Polity Press) - libgen.li.pdf",
+      "chunk_index": 108,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73968023,
+      "importance": 0.7828511595726013,
+      "final_score": 0.7396803498268127
+    },
+    {
+      "id": "208f13ecf5bcf43267fc8355",
+      "qdrant_id": "84f53d27-b752-530b-ad49-9ac180c4524e",
+      "text": "Merleau-Ponty, and Levinas (Albany, NY: SUNY Press, 2002), esp. 69, 55. 6. L. Guenther, Solitary Conﬁnement: Social Death and Its Afterlives (Minneapolis: Minnesota University Press, 2013), 29. 7. Guenther, Solitary Conﬁnement, xi, xii. 8. Guenther, Solitary Conﬁnement, 60. Also see Fanon, Black Skin White Masks. REFERENCES Al-Saji, A. “A Phenomenology of Hesitation: Interrupting Racializing Habits of Seeing.” In Emily Lee (ed.), Living Alterities: Phenomenology, Embodiment, and Race, pp. 133–172. Albany, NY: SUNY Press, 2014. Diprose, R. Corporeal Generosity: On Giving with Nietzsche, Merleau-Ponty, and Levinas. Albany, NY: SUNY Press, 2002.",
+      "source": "Luna Dolezal, Danielle Petherbridge - Body_Self_Other_ The Phenomenology of Social Encounters-SUNY Press (2017).pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7395288,
+      "importance": 0.8000912070274353,
+      "final_score": 0.7395286560058594
+    },
+    {
+      "id": "84085dddfd8505ddbd30cfd9",
+      "qdrant_id": "e20663cf-6e5f-56d4-86ac-6dd4f638f440",
+      "text": "12 Part I The Subjective Impact of Death Awareness and Its Denial fantasies do subdue conscious fear, but conscious feelings of security do not dispel unconscious tremors. Underneath these fantasies, dread and terror impel rigid adherence to whatever fantasy system provides sub- jective feelings of safety and salvation” (p. 245). Faced with this inescapable dilemma, how can an individual live a constructive life? The answer is to appreciate the mystery of life and death without false resolution by transcending vanity and illusions of omniscience and accepting vulnerability without shame. The truth is that we can give value to our lives and that of our fellows in spite of acknowledging our ﬁ nite existence in the world. We can live without sacriﬁ cing our integrity and without resorting to deadening painkillers, dishonest manipulations, and a myriad of other psychological defens…",
+      "source": "Dr. Robert Firestone PhD, Dr. Joyce Catlett PhD - Beyond Death Anxiety_ Achieving Life-Affirming Death Awareness (2009, Springer Publishing Company) - libgen.li.pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73935306,
+      "importance": 0.7798876166343689,
+      "final_score": 0.739353358745575
+    },
+    {
+      "id": "c552cc43ede76c98bbb869cf",
+      "qdrant_id": "541a5668-b631-50f8-8f16-450a84a5055e",
+      "text": "Chappell, N. L. (1975). Awareness of death in the disengagement theory: A conceptualization and an empirical investigation. Omega: Journal of Death & Dying, 6(4), 325–343. Chochinov, H. M., Tataryn, D., Clinch, J. J., & Dudgeon, D. (1999). Will to live in the terminally ill. The Lancet, 354, 816–819. Corr, C. A. (1993). Coping with dying: Lessons that we should and should not learn from the work of Elisabeth Kübler-Ross. Death Studies, 17(1), 69–83. Davidson, R. J., Kabat-Zinn, J., Schumacher, J., Rosenkranz, M., Muller, D., Santorelli, S. F., Urbanoswki, F., Harrington, A., Bonus, K., & Sheridan, J. F. (2003). Alterations in brain and immune function produced by mindfulness meditation. Psychosomatic Medicine, 54(4), 564–570. Eysenck, M. W., Payne S., & Santos, R. (2006). Anxiety and depression: Past, present, and future events. Cognition & Emotion, 20(2), 274–294. Fortunato, V. J., & Furey, J. T. (2011). The theory of mindtime: The relationships between future, past, and",
+      "source": "Travis Langley, Lynn Zubernis - Supernatural Psychology_ Roads Less Traveled (2017, Sterling) - libgen.li.pdf",
+      "chunk_index": 123,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7393186,
+      "importance": 0.7762783765792847,
+      "final_score": 0.7393185496330261
+    },
+    {
+      "id": "9f868f23424faa020c6d66cc",
+      "qdrant_id": "24a7925e-6c70-57d8-8079-358e465739c6",
+      "text": "irritations that fail to reliably appear. In these instances, we encounter less than fortunate local manifestations or death. Here death can take one of two forms. On the one hand, death can take the form of a substance continuing to exist but becoming incapable of producing certain local manifestations such as movement, affect, and cognition. On the other hand, death can take the form of absolute death, where entropy completely sets in and the substance is utterly destroyed such that it is no longer able to enlist other objects in maintaining its own organization and the other objects of which the entity was once composed now go their separate ways autonomously, enjoying their existence elsewhere. The first death generally leads to the second eventually. The risk of selectivity and constraint can be seen with particular clarity with respect to the issue of climate change. At …",
+      "source": "Levi R. Bryant - The Democracy of Objects - libgen.li.pdf",
+      "chunk_index": 729,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7384691,
+      "importance": 0.7754718065261841,
+      "final_score": 0.7384692430496216
+    },
+    {
+      "id": "6cc7839ddca227ccc7100b61",
+      "qdrant_id": "a84346d8-1ddf-5a42-a272-7173dc9cf93d",
+      "text": "conditions and to break down boundaries and hierarchies. In fusing the political with the apolitical, memes as constitutive of this necro-aesthetics draw from death to celebrate the profane, extrapolating ‘sense from sense’ (Rancière 2009) while co-locating emergent rituals with the iconic dead. Necro-aesthetics and immortality through the digital The initial reaction of overwhelming grief to Alan Kurdi’s death images dis- sipated over the year into ambivalence, prompting his father to lament that despite his son’s tragic death very little had changed for vulnerable refugees (Ensor 2016). Amnesty International attested to the fact that thousands continue to die in the Mediterranean and Aegean seas in the years after Alan Kurdi’s wretched demise and even though a dead child should have created a turning point for change, his death had been in vain (Ensor 2016). The dissipation of pity and the inaction following the event in the long",
+      "source": "Yasmin Ibrahim - Digital Icons_ Memes, Martyrs and Avatars - libgen.li.pdf",
+      "chunk_index": 433,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73838305,
+      "importance": 0.7765209078788757,
+      "final_score": 0.7383832335472107
+    },
+    {
+      "id": "b799e33cacbb377aece813e7",
+      "qdrant_id": "0b9c6c80-9956-55b7-960d-7406484709a3",
+      "text": "Most of us have probably seen our own death but haven't known how to make the material surface. Maybe when we die, the first thing we'll say is, `I know this feeling. I was here before'. (DeLillo, White Noise, p. 151) But where? 26. See Self, My Idea of Fun; but also, for example, Banville: On the hospital steps I stopped. A high gold autumn evening was sinking over the rooftops. Forever after I would think of the city like that, like a waste of magnificent wreckage, going down. My hands shook, stuffed into these unaccustomed pockets. Such space, such distance. I was dizzy. (Mefisto, p. 139) 27. See, e.g., Freud's interesting deployment of mineralogical metaphor in Introductory Lectures on Psycho-Analysis, in Standard Edition, XVI, 390. 28. An imagery not, however, to be regarded as purely anthropocentric, for cities too, as well as other more expectant locales, have their own desires: I…",
+      "source": "David Punter (auth.) - Gothic Pathologies_ The Text, the Body and the Law (1998, Palgrave Macmillan) [10.1057_9780230377981] - libgen.li (1).pdf",
+      "chunk_index": 156,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7383547,
+      "importance": 0.784080982208252,
+      "final_score": 0.7383548021316528
+    },
+    {
+      "id": "397fb2ba64985ae866b7aa91",
+      "qdrant_id": "6742fcd0-1e63-5ded-99c2-4b7cd893932d",
+      "text": "has always worked after the fact, attempting to understand how death came about based on the signs left on the corpse. Since the acceptance of human dissection in Western culture, autopsy has aimed at the correla- tion of lesions in the cadaver with symptoms in the live patient, the cate- gorization of disease, and the development of treatments for the future. At this particular moment, we’re trying to catch up to AIDS, not to men- tion cancer, diabetes, Alzheimer’s, and many more ailments. That the body must have this performative function of its own—this doing in the world—is supported by the obvious point that illnesses not yet present- ing themselves are of no concern. Of course, one could protest that diseases like AIDS, cancer, and perhaps even diabetes and Alzheimer’s culturally construct the lived body by virtue of lifestyle effects, a sort of perlocutionary force of social imper- atives. I would suggest instead that the symptoms of lifestyle-related ill-",
+      "source": "[SUNY series in postmodern culture] Klaver, Elizabeth - Sites of autopsy in contemporary culture (2005, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 211,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73833716,
+      "importance": 0.7797716856002808,
+      "final_score": 0.7383370995521545
+    },
+    {
+      "id": "2e79e55a3e6eba1a50ded213",
+      "qdrant_id": "1b064cfa-5e49-5efc-8aca-60f9ca1eb7d5",
+      "text": "40 Dread of Death is ﬁ nite, and so the list of tasks still to be performed can be sooner or later fully run through and exhausted. It was hoped that even the grandest and most overwhelming of tasks, seemingly beyond human power to resolve since impossible to tackle in its entirety and to confront point-blank, could be dissected into a multitude of speciﬁ c and individually soluble mini-tasks, and thereafter removed from the agenda – just as an empty shelf is disposed of once the whole of its contents have been gutted. It is not easy to demonstrate the futility of such a hope, since the long series of successful campaigns might effectively hide from view the unwin- nability of the war in whose name all those campaigns were launched and carried through. What is hidden from view when deconstruction is applied to the issue of death is the hard and intractable fact of the biologi- cally determined mortality of human beings. One hears seldom,",
+      "source": "Zygmunt Bauman - Liquid Fear (2006, Polity) - libgen.li.pdf",
+      "chunk_index": 124,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7382768,
+      "importance": 0.7732009291648865,
+      "final_score": 0.7382767200469971
+    },
+    {
+      "id": "dbc31cc45628edac3d93ee08",
+      "qdrant_id": "11d19d14-700f-5f94-950f-fa436fe25966",
+      "text": "to waste away alone in the Judean desert, but not before having his eyes burned out in order to save others from discovering their own meaninglessness. Equipped with this fairly depressing tale about the repercussions of paying attention to our mortality, I can now say more about how life’s meaning seems to evaporate in the face of death. Dying means the perma- nent loss of some things that are heavily involved in the formation and retention of meaning, such as our conscious experience, memories, and agency. Now, it might be somewhat inaccurate to describe this as a loss, assuming the dead do not actually exist anymore and there is, thus, no one left who can be said to have lost anything.12 In order to side-step this problem, and also avoid becoming entangled in the closely related and long-standing philosophical dispute about whether or not death some- how harms the one who dies,13 it is probably better to say that death",
+      "source": "[Routledge Studies in Contemporary Philosophy] Adam Buben - Existentialism and the Desirability of Immortality (2022, Routledge) - libgen.li.pdf",
+      "chunk_index": 53,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73799837,
+      "importance": 0.7715597748756409,
+      "final_score": 0.737998366355896
+    },
+    {
+      "id": "4cb463926f0f65130b08e702",
+      "qdrant_id": "e477b94f-cdd2-5d8b-b9a4-7d9d34f8d4ae",
+      "text": "which, if anything, devalues or dilutes the dream of eternal life; and this through exorcizing the horror of death. This effect is achieved through two seemingly opposite, yet in fact supplementary and converging strategies. One is the strategy of hiding the death of those close to oneself from sight and chasing it away from the memory: putting the terminally ill into the care of the professionals; conﬁning the old to geriatric ghettos long before they are entrusted to the graveyard, that prototype of all ghettos; shufﬂing funerals away from public places; toning down the public display of mourning and grief; psychologizing away the torments of bereavement as therapy cases and personality problems. On the other hand, though – as Georges Balandier has reminded us recently, death se banalise par la prolifération des images; elle s’y insinue, surgit, puis s’efface. Autrefois, la mort donnée…",
+      "source": "Zygmunt Bauman - Postmodernity and Its Discontents (1997, Polity Press) - libgen.li.pdf",
+      "chunk_index": 149,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7376648,
+      "importance": 0.7811812162399292,
+      "final_score": 0.7376648187637329
+    },
+    {
+      "id": "48352341a435d9f0d4ed2e91",
+      "qdrant_id": "6173ef6c-a330-5363-be8c-a92b2d0a9c79",
+      "text": "their ability to put death in its place and to move beyond it. This conﬁdence was the target of much of Derrida’s early career, in which he assailed both the privileging of speech over writing and that of presence over absence. My interest here is not in weighing the consequences of Derrida’s arguments, but only in pointing out that precisely this conﬁdence in the ability of lan­ guage to overcome ﬁnitude animated much of the literature of death and",
+      "source": "D. Vance Smith - Arts of Dying_ Literature and Finitude in Medieval England (2020, University of Chicago Press) - libgen.li (1).pdf",
+      "chunk_index": 99,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7372247,
+      "importance": 0.7792205214500427,
+      "final_score": 0.7372246384620667
+    },
+    {
+      "id": "e9cb788c0d4f7c6ad74f7f59",
+      "qdrant_id": "286b626a-86e9-522c-adef-746048fb190c",
+      "text": "[53]; the wise men of India), which focuses on reaching oneness with the universe and the loss of self rather than on a union with a deity. Bourget finds that the primary motivating factor behind the desire for mysticism is its function as a way to imagine oneself im- mortal in the midst of a modern world that denies the existence of a God. Modern man flees the specter of death that positivist atheism offers: “[the modern individual] a respiré l’odeur de mort qui flotte sur l’immense steppe, et il a éprouvé un frisson d’horreur” (Bourget 54; has inhaled the smell of death that floats on the immense steppe, and he has felt a shudder of horror).17 Death permeates one’s daily life in that ennui saturates one’s every action: one feels “la mort in- time dans le mouvement machinal” (54; the private death in the me- chanical movement) of dressing, working, eating, and sleeping day in and day ou…",
+      "source": "[North Carolina studies in the Romance languages and literatures] Nancy LaGreca - Erotic mysticism _ subversion and transcendence in Latin American Modernista prose (2016, University of North Carolina Press) - libg.pdf",
+      "chunk_index": 102,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73702073,
+      "importance": 0.7769902348518372,
+      "final_score": 0.7370207905769348
+    },
+    {
+      "id": "99e39d9983edd1edd73d2102",
+      "qdrant_id": "24523020-b7ea-5ace-a52e-c47ef2a6eb05",
+      "text": "about a haziness in me, but it was slight. I had refused, but there was no reason. He didn’t have an ear into which I could have given him an answer. 1 knew the nature of his distress, the horror of the non-place, extremity, that corridor between the desired being and the realization that being doesn’t exist, between the end of life and death, intolerable corridor, without walls, without presence, overwhelming, invisible, where immortality lies dying. One word too many and I’d kill him. I led him to believe that he could have lived. I was not unaware of the imperfection of my silence. Because of all that, or more precisely because there was such suffering around me, I was veiled in mourning: 1 felt the somewhat aggravat­ ing softness of a fabric of animal origin, a silk no doubt like a transparent gray shantung, a little veil sometimes stiffened into a visor. I entered with …",
+      "source": "The Third Body (Helene Cixous) (Z-Library).pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7369598,
+      "importance": 0.7745645642280579,
+      "final_score": 0.7369598746299744
+    },
+    {
+      "id": "ed3d1405d7253d1e54b005a6",
+      "qdrant_id": "dce7caf8-526d-5a84-a541-0d65df9420e5",
+      "text": "instrumentalist, and intrinsic ﬁnal. In each category we have searched for a harm associated with death that is ﬁt to play the role death plays in our moral theorizing and emotional lives. We found none. We are not exactly in a position to say, with the strongest form of Epicureanism, that death has no harm whatsoever associated with it. But the harms we have found are mundane, unconcerning in contexts that do not involve death. Perhaps they prevent us from saying that death is nothing to us. But if they are all that’s bad about dying, we should ﬁnd death’s shadow considerably lightened. Acknowledgments Thanks are due to the following for helpful comments and conversations: Jimmy Goodrich, Michael Rabenberg, Ewan Kingston, Ryan Darr, the editors of this volume: Sara Bernstein and Tyron Goldschmidt, and audiences at the Princeton University Center for Human Values and the Princeton Values Forum. References Albert, David Z. (2000). Time and Chance (Cambridge, MA: Harvard University",
+      "source": "Sara Bernstein (editor), Tyron Goldschmidt (editor) - Non-Being_ New Essays on the Metaphysics of Nonexistence-Oxford University Press (2021).pdf",
+      "chunk_index": 173,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7364656,
+      "importance": 0.7759099006652832,
+      "final_score": 0.7364656925201416
+    },
+    {
+      "id": "7a35af036c1010133b09971f",
+      "qdrant_id": "53bd1508-0616-551d-a12f-7c4a41da0e14",
+      "text": "of the narratives. Th is chapter will show how particular visual fi lm techniques can involve spectators and lead them to experience the sensorial world of a female subject. In the fi nal chapter, ‘Soundscape: Sonic Aesthetics and the Feminine’, I will examine the role and complexity of sound and how it instils a particular experience in Duras’ audiences. Chion’s theories on sound and theories on the feminine will be linked and discussed. Th e conclusion will highlight the characteristics of Duras’ sensorial world and will consider the legacy of the fi lmmaking of Duras, whose work has infl uenced and continues to inspire fi lmmakers, video artists, painters and writers. Note 1 (My translation) ‘Je ne suis pas encore à la hauteur de ce que j’ai trouvé au cinéma. Je serai morte quand on aura trouvé pourquoi c’est tellement fort. Tant que je fais du cinéma, tant que je vis je dois l’ignorer, je l’ignore.’",
+      "source": "Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li (1).pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "michel-serres-the-five-senses-noise-parasite"
+      ],
+      "raw_score": 0.73636836,
+      "importance": 0.7942187190055847,
+      "final_score": 0.7363682389259338
+    },
+    {
+      "id": "77fca2985b79bd6dd123b0ec",
+      "qdrant_id": "baa3732e-8f83-5f09-8411-9c0a9c33c788",
+      "text": "deprived of lived subjectivity. In this sense, Henry notes, Biran’s account of affectivity and other passive phenomena is “strangely” like the account of Descartes in his treatise on the passions: they depend on (are brought about by) something that lies beyond the sphere of immanent subjectivity, namely, on mere extension. Henry’s own remedy is to view both passivity and activity as grounded in a deeper foundation of corporeal subjectivity, a more fundamental “power” (1965, 225) that is alive not just when one moves effortfully but also when one is passively influenced. Henry speaks here of a “latent tension” experi- enced in the body, which is the “essence” of feeling and affectivity, as well as of active motor effort; this tension is “the proper interior quivering of knowing” (le propre frémissement intérieur du savoir), where this know- ing is “a life, not a dead knowing” (1…",
+      "source": "Giovanna Colombetti - The Feeling Body_ Affective Science Meets the Enactive Mind-The MIT Press (2013).pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7359688,
+      "importance": 0.8001642823219299,
+      "final_score": 0.7359689474105835
+    },
+    {
+      "id": "ff1a391d2bf843d3ff16086c",
+      "qdrant_id": "843c73d0-0e39-5674-aaed-2acdc7395c03",
+      "text": "Directions for Decomposition in which we rival the gods, in which our fevers triumph over our fears, we should have to remain at so high a temperature that it would finish us off in a few days. But our illuminations are instant­ aneous; falls are our rule. Life is what decomposes at every moment; it is a monotonous loss of light, an insipid dissolution in the dark­ ness, without scepters, without halos . . . ) Turning a Cold Shoulder to Time Yesterday, today, tomorrow - these are servants' categories. For the idle man, sumptuously settled in the Inconsolable, and whom every moment torments, past, present, and future are merely variable appearances of one and the same disease, identical in its substance, inexorable in its insinuation, and monotonous in its persistence. And this disease is coextensive with Being - it is Being. I was, I am, or I shall he - a question of grammar…",
+      "source": "Cioran E M - short history of decay-penguin books (2010).pdf",
+      "chunk_index": 163,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73565435,
+      "importance": 0.7718744874000549,
+      "final_score": 0.7356544733047485
+    },
+    {
+      "id": "28fc9e55e3724f02ac348305",
+      "qdrant_id": "ba300ebd-c081-50c9-8d61-18f2fec13c9a",
+      "text": "as we are isolated in life; the presence of company only serves to augment our solitude. The lack of humanity portrayed within this image of death, prompts one to perceive the physical form as worthless, illustrating that in death, we are all as one: an assemblage of physical matter destined to perish. The bed, where the millions are placed, is divided into lots. This horticul- tural image reduces the human form in status, presenting it as nothing more than a part of nature, in which its degeneration will condemn it to the earth, and its physical matter will provide the dust that will intern the next individ- ual. These lots, similar to the coffi n, have ‘Just room for the average sized body’ (ibid.). If the individual is larger he/she has to curl up and assume the foetal position. Beckett again presents death as a deliverance, and a birth into a new state of being as, ironically…",
+      "source": "[Continuum Literary Studies] Kathryn White - Beckett and Decay (2009, Continuum) [10.5040_9781472542946] - libgen.li.pdf",
+      "chunk_index": 217,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7355109,
+      "importance": 0.7761852741241455,
+      "final_score": 0.735511064529419
+    },
+    {
+      "id": "0ec0fefc71113b500620629d",
+      "qdrant_id": "d52051de-a7e1-5cae-9a58-93542c771722",
+      "text": "who have recognized that they are already nothing now…”14 If, from the perspective of the world as Representation (the world pictured by us and for us), our main existential concern is with mortality and the fear of death, when one shifts perspectives to the world as Will (blind, impersonal, indifferent, willing for no reason), a different concern emerges: death actually becomes a panacea, a return after my death to the “nothingness” before my birth. The concern now is with life, with having to live, with being impelled to live on. As conscious, reflective human beings (which for Schopenhauer is already assuming a lot), we live in the rift between the fear of death and dread of life. We become aware of our capacity to understand at the same time as we are aware of the fundamental limits of that capacity, a void without positive content in the heart of thinking. I’m succumbing to the allu…",
+      "source": "Arthur Schopenhauer - On the Suffering of the World (2020, Watkins Media) - libgen.li.pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7349297,
+      "importance": 0.773029625415802,
+      "final_score": 0.734930157661438
+    },
+    {
+      "id": "ea3fe0f63ddd2725a822604f",
+      "qdrant_id": "9c7566a9-36fb-59f9-b29b-78598334e6ec",
+      "text": "and death helps to keep ‘the melancholic away from suicidal self-destruction.’23 The mechanism of this protection is sublimation, according to Kristeva: ‘By representing that unsymbolized as a maternal object, a source of sorrow and nostalgia, but of ritual representation as well, the melancholy imagination sublimates it and gives itself a protection against collapsing into a-symbolism.’24 Jonte-Pace concludes: Maternal absence, matricide, and castration (absence as female), are negated in the religious promise of presence through eternal life and paternal love (presence as male). The psychoanalytic theories examined here have disclosed a complex weaving of life and death, male and female, presence and absence, in a process that leads to the internalization of the image of woman as death.25 Furthering Jonte-Pace’s thought, I will argue that for Cavell and Kristeva the desire fo…",
+      "source": "Ludger H. Viefhues-Bailey - Beyond the Philosopher's Fear (Intersections_ Continental and Analytic Philosophy) (2007) - libgen.li.pdf",
+      "chunk_index": 641,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.734514,
+      "importance": 0.7801269888877869,
+      "final_score": 0.7345141172409058
+    },
+    {
+      "id": "be5989ef0a017d5ad3f73255",
+      "qdrant_id": "d651981a-1fdf-585a-a815-714d2c0dd951",
+      "text": "no longer exist.\"2 The death with which we are instead con- fronted is always the death of others, and in particular of those who are close to us. The foremost experience is, for us, the experience of mourning. But the death of the other also hurts us because it awakens in us the latent conscious- ness of our own mortality that constitutes the hidden face of our existence. For the human becomes aware of itself as human only through anxiety in the face of death, which is what is brought back to life by the death of the other. We thus have access to our humanity only through an awareness of our own mortality and through our experience of anxiety. Death is an object of horror for everyone, and it seems that we are able to confront it in thought only insofar as we are able to relativize it. There is apparently no possible human existence without this struggle against death, and in this regard, we can view the whole of humanity's cultural",
+      "source": "[Perspectives in Continental Philosophy] Françoise Dastur - How Are We to Confront Death__ An Introduction to Philosophy (2012, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 42,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73431224,
+      "importance": 0.775200605392456,
+      "final_score": 0.7343122363090515
+    },
+    {
+      "id": "de80ef8543e835fc394a07a2",
+      "qdrant_id": "6c8db1ea-fb42-5a37-86a8-8f19c39fd94d",
+      "text": "ventional image of the world dematerialises itself, under the cover of its minute and scrupulous renewal, and materialises what can only be eyed up [être maté]: a donation of presence-matter contravening established forms so that the classic aesthetic subject (with its coded certitudes, its mastery) feels itself threatened through and through by being touched by nullity. The form is that by which the ﬁ gure exists, the matter that by which it insists. And this insistence is, at the same time, my private concern, my business, but also a demand which intimidates me intimately. I will give, in conclusion, a very short ﬁ lmic example of an analysis according to anaesthesic matter. John Cassavetes’ Faces (1968) is celebrated in the history of cinema for its big shots exacerbating the grain of the skin of the body; an operation intensiﬁ ed in various ways by the Éclair NPR, Kodak 4x16mm ﬁ lm, and powerful lighting by quartz lamps. One can do a ﬁ gural reading of this ﬁ lm",
+      "source": "Jones, Graham_Lyotard, Jean-François_Woodward, Ashley - Acinemas_ Lyotard's Philosophy of Film (2018_2017, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 116,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73400706,
+      "importance": 0.8029640316963196,
+      "final_score": 0.7340071201324463
+    },
+    {
+      "id": "a58391bd62b49aaad2726efb",
+      "qdrant_id": "ee2f62a1-370a-5882-9e93-ef4ee2f38faf",
+      "text": "The demand that life be intensified provokes a kind o f discour­ agement, with well-documented psychological and social effects. That, however, is beyond the scope o f our investigation. We want to know how and why it is that the more intensely we are, the less so we end up being.We know how to recognise the symptoms o f collapse, but the logic behind it is still hazy. Up until now we were content to note that the different ways o f living intensely and the various ruses used to maintain the intensities o f life end up contradict­ ing each other. But this approach now comes up short. It cannot account for how an individual who relies exclusively on variation, acceleration, or primaverism still collapses in the end. A person in search o f nothing but progress, and who regrets nothing, will nevertheless feel a sort o f resistance within himself, the early stages o f a fatal depl…",
+      "source": "[Speculative Realism] Tristan Garcia - The Life Intense_ A Modern Obsession (2018, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 375,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7337808,
+      "importance": 0.7751540541648865,
+      "final_score": 0.7337809205055237
+    },
+    {
+      "id": "ac03cd49e715e746eb5e18cf",
+      "qdrant_id": "228bb9ed-728d-5b46-96ae-e27403b835ac",
+      "text": "too; thus, he must confess; “I found myself lonelier in my native land than I had been on foreign soil” (94). Distressed and displeased, René withdraws from society and lives in the suburb of the city, “I could spend hour after hour in meditation” (95); but as this reclusive life soon becomes intolerable to him, he decides to move to the countryside: “I was furiously driven by an excess of life” (96). René is now in a state of extreme euphoria, he suffers from an excess of vitality; at times he has “the power to create worlds” (98), at times his condition appears to him as it might appear to the majority: “Alas! I was alone, alone in the world!” (98). Now he is in a state of calm, then he is in confusion. A sociological investigation would conclude that René’s malaise is directly related to his solitude and the bottomless emptiness of his existence: “[a]fter his fruitless journeys, René retreats into a closed world of solipsism, refuses",
+      "source": "Alberto Castelli - Love, Beauty or Morality-Springer (2024).pdf",
+      "chunk_index": 382,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73329586,
+      "importance": 0.7782081961631775,
+      "final_score": 0.7332960367202759
+    },
+    {
+      "id": "e6d4a78c2a3f3aec2c852096",
+      "qdrant_id": "483438e2-0b4f-5129-beec-e07e1616ab14",
+      "text": "C h a p t e r T w o 38 the ongoing state called survival. To document this funneling of a world into a life, the texts engage catastrophic episodes whose becoming-­event draws on the experience of other devastations. The clutter of materials we find there points to the lost anchoring thing or things—a person, a world, and confidence in the persistence of a healthy life. The authors’ pursuit of a shape for the clutter does not deny its disorganization in search of better working genres for endurance, relationality, and world-remagnetizing but becomes a practice of living on, of life itself. Dumm’s theoretical book gathers up solitude’s affective history by way of ordinary language philosophy, trauma narrative, and the story of living with the dying of his wife. His aim is not to teach how to flourish in loneliness—but how not to. Citing Emerson, Dumm writes, “I grieve that grief can teach me nothing” (2008, 151–52).",
+      "source": "[Theory Q] Lauren Berlant, Lee Edelman - Sex, or the Unbearable (2013, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 138,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7331332,
+      "importance": 0.7717211246490479,
+      "final_score": 0.7331331968307495
+    },
+    {
+      "id": "921ddebe9803d65ad81ea7ac",
+      "qdrant_id": "def2a04a-1ad3-551f-bd93-48a57ea8b7b6",
+      "text": "worry about the people we care for. All too often, we approach death with the self-indulgent thought that my death is a bad thing because it deprives the universe of me. I picture the world without me, like Sartre’s characters in No Exit. I see them talk about me, laugh about me, pity me. I watch someone date and marry my wife, raise my children, refute my books. Or worse, I see that they ignore me. This is not grand meta- physics or fundamental ontology, but petty selfishness wrapped up in enigma. What I call “morbid solipsism” is an approach to death solely in terms of the self. But what spirituality is all about, and what takes the sting out of death, is looking at death in a larger, non-self-centered context and in particular the so- cial dimension of death. Our lives are not only tied to but defined in terms of other people. Our exit is thereby defined as well. To appreciate the imp…",
+      "source": "Robert C. Solomon - Spirituality for the Skeptic_ The Thoughtful Love of Life (2006) - libgen.li.pdf",
+      "chunk_index": 487,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73278546,
+      "importance": 0.7693255543708801,
+      "final_score": 0.7327853441238403
+    },
+    {
+      "id": "322ad1aeecda15f67aa86bf9",
+      "qdrant_id": "14523660-24f3-5aa0-9178-c0737d031bff",
+      "text": "Nussbaum’s second point—that over time the loved one matters less to us—may identify a good reason for the diminution of grief. Yet even if it does, this does not seem to me to be reason enough. For example, although it is true that my mother matters less to me today than she did a decade ago—to echo Nussbaum, she was a central part of my life, but she no longer is—my love did not disappear as quickly and as thoroughly as my grief. My grief started diminishing very shortly after her death and its diminution was rapid and pretty much complete. Yet I love her more and longer than is reﬂected in my grief. It is the discrepancy between the duration of grief and the extent to which the loved one matters to us that gives rise to the puzzle of accommodation—even if we acknowledge that over time the dead do, in fact, come to matter less. (The point seems quite disanalogous for anger, because injustice does not come to matter",
+      "source": "Berislav Marui_ - On the Temporality of Emotions _ An Essay on Grief, Anger, and Love-Oxford University Press (2022).pdf",
+      "chunk_index": 246,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73266935,
+      "importance": 0.7672719359397888,
+      "final_score": 0.732669472694397
+    },
+    {
+      "id": "0939aa5db420ef6f89e2cc5d",
+      "qdrant_id": "b1a06dc2-60d8-50fa-a6d5-bc912f75d8df",
+      "text": "An Immediate Recoiling Approach ______________________________________________________________ 136 into the same nothingness that deconstructs all forms of human existence. The nihilistic emptiness of life is in this way a primary concern of man’s: every experience that heightens our sense of continuity with nature, which threatens to overwhelm us with both desire and suffering, unites the self- possession of mankind with a formidable awareness of death. Contrary to the objections detailed below, I will defend the view that we are able to affirm this awareness without succumbing to its pure immediacy. There is a balanced approach to otherness to be found in the writings of Terry Eagleton, Richard Kearney, John Stuhr, and several other contemporary thinkers. This approach embraces the middle way to death, the progressive way, as the one to pursue for ethical reasons; but the…",
+      "source": "Michele Huppert (Ed.) - Where Fear Lurks - libgen.li.pdf",
+      "chunk_index": 433,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73255706,
+      "importance": 0.775753915309906,
+      "final_score": 0.7325572967529297
+    },
+    {
+      "id": "51ae97b724704018b7783e94",
+      "qdrant_id": "751f0f41-7112-5fff-a07e-7936ca5ebc2e",
+      "text": "forms will subsequently crumble . The horror of the abysmal (wounded) woman would appear, and loss of identity would fol­ low, a loss that can only signify death. Woman thus lives in death, and as the vampire that she is, she causes the subject to become anaemic. But her function as death does not exhaust her being. There is always that which exceeds death . Woman does not die from death, other than as a subject . In fact, she remains unmarked by this functioning in her sub-sistence underlying all discursivity, which for lrigaray gives her an ontological status as matiere premiere: Out of the storehouse of matter all forms are born. She brings them into the world, she \"produces\" . From between her lips comes every new figure: a warm glowing heat comes out of that self-embrace and becomes \"visible\" . But once, one single time, and one instant only: beauty. Afterward , or, by default and repetition, there are veils. Unless there be a divine reality.51",
+      "source": "Ellen Mortensen - The Feminine and Nihilism_ Luce Irigaray with Nietzsche and Heidegger (1995, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 321,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73236406,
+      "importance": 0.778579831123352,
+      "final_score": 0.7323641180992126
+    },
+    {
+      "id": "e575014afab106418031cb79",
+      "qdrant_id": "50cf7ff9-b81f-5859-ad5b-fd7fdc93655d",
+      "text": "(It’s in only one’s sixties, I think, that it becomes possible to see the anxiety about appearance that often haunts one’s ﬁfties as a way of displacing—or postponing—the crisis of mortality.Far easier to obsess about the signs of aging—the cosmetics of time’s passage— than reﬂect upon death. Recently, my most intimate friend, my contemporary, and the one with whom for many years my life unfolded in an always complicated dialogue, died at age ﬁfty-eight of a cerebral hemorrhage.We liked to tape our important conver- sations and called ourselves “les parleuses” in honor of Marguerite Duras’s book by that name. Looking at her life from the decade of my sixties, it now seems to me that dying in one’s ﬁfties is dying young. I open this parenthesis still in shock, in grief, and at the very beginning of the memory work that will help me try to make sense of this—her—story, that will help surround the loss with words. But on the edge of the gap I can already tell that the mir-",
+      "source": "Nancy K. Miller - But Enough About Me_ Why We Read Other People's Lives (2002, Columbia University Press) [10.7312_mill12522] - libgen.li.pdf",
+      "chunk_index": 290,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7321851,
+      "importance": 0.772827684879303,
+      "final_score": 0.7321852445602417
+    },
+    {
+      "id": "52e3ac0d8646f14ac0a6beb2",
+      "qdrant_id": "8c4bcd36-5d0b-5963-bb7d-57e02b2a11e0",
+      "text": "deaths. Conversely, our consciousness of passing time forces us to acknowledge this actuality. With advances in technology, rapid transportation by air, instan- taneous communications by telephone and internet our sense of time and the demands of time have accelerated. We yearn for the childhood experience of timelessness. That sense of timelessness is destroyed when the infant begins to separate from the mother. To become aware of separation and reunion, it is necessary to appreci- ate that there is an interval of time between these two events. Sepa- ration indicates that the period of the relationship has come to an end. It reminds us that time is marching on towards that final sepa- ration which is death. Thus there is unconsciously a link between separation, time sense and the existential awareness of death. The old French proverb: “Partir c’est mourir un peu”, to separate is to die a little, is true at a number of levels. Separation carries within it",
+      "source": "Alan B. Eppel - Sweet Sorrow_ Love, Loss and Attachment In Human Life-Routledge (2009).pdf",
+      "chunk_index": 268,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7319931,
+      "importance": 0.7777733206748962,
+      "final_score": 0.7319929599761963
+    },
+    {
+      "id": "be2ac0072f98c91c0a0d5f6f",
+      "qdrant_id": "6fd8c009-78d3-5090-b9c1-de110ef7ee20",
+      "text": "Preface xi order. In respect of death, one could say, it names one thing (‘I am the spectator/survivor of someone else’s death, therefore I can tell myself there is no death for me’) and means something else (‘someone else is dead, therefore I know there is death’). In short, representations as symptoms articulate unconscious knowledge and unconscious desires in a displaced, recoded and translated manner. The seminal presupposition underlying this book can be formulated in the following way. Narrative and visual representations of death, drawing their material from a common cultural image repertoire, can be read as symptoms of our culture. Furthermore, because the feminine body is culturally constructed as the superlative site of alterity, culture uses art to dream the deaths of beautiful women. Over representations of the dead feminine body, culture can repress and articul…",
+      "source": "Elisabeth Bronfen - Over her dead body_ Death, femininity and the aesthetic (2017, Manchester University Press) [10.7765_9781526125637] - libgen.li.pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73195463,
+      "importance": 0.7890345454216003,
+      "final_score": 0.7319546937942505
+    },
+    {
+      "id": "cb4eb4d1e6c2dee0a67bb280",
+      "qdrant_id": "7944d0a7-3712-5aaa-8986-82abbb4f2794",
+      "text": "26 The Literature of Melancholia in the words of Peter Sacks, ‘an unbroken pattern, such as one may oppose to the extreme discontinuity of death’ (23). This is, precisely, why the cycle of the seasons traditionally offers consolatory ﬁgures for bereavement. But here, such consolations are obscured by the awareness of belatedness and by deﬁant hesitation. Coming ‘with forced ﬁngers’, the poetic mourner acts untimely and unwillingly; his behaviour is ‘rude’ because it is itself the con- sequence of some ‘rude’ force. Before the deceased is even mentioned, the relentless power of his death is palpable: it demands conventional actions which the mourner would have wanted to avoid, as it provokes him into adopting ‘yet once more’ an elegiac language, a given repertoire of nat- ural tropes – laurels, myrtles, ivy, berries, leaves – which seems all but exhausted. As a matter of fact, for Milton’s generation in the seventeenth century",
+      "source": "Martin Middeke, Christina Wald (eds.) - The Literature of Melancholia_ Early Modern to Postmodern (2011, Palgrave Macmillan) [10.1057_9780230336988] - libgen.li.pdf",
+      "chunk_index": 110,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7310307,
+      "importance": 0.7709057927131653,
+      "final_score": 0.7310307025909424
+    },
+    {
+      "id": "2e95dd220a004db04fce30eb",
+      "qdrant_id": "03b5bfc5-7710-59d6-921c-233195b868ca",
+      "text": "with rationally. Many people do not know, for example, that pain in dying is not inevitable. Other typical fears are of being separated from loved ones, from home, from work; fear of being a burden, losing control, being dependent, and leaving things undone. Voicing fear helps lessen it, and pinpointing fear helps a caregiver know how to respond. (54) Sections titled “Take Control Now,” “Designing the Care You Want,” and “Filing, Storing, Safekeeping” continue to proffer the model of a failing body whose abjection is subjugated by reason, determination, and orderliness. Those who do not die well in this era of custom deaths, then, have only them- selves to blame. It is no surprise that managerial behaviors are prompted by the expe- rience of abjection; technologies for taking categorical approaches to chaotic processes constitute, in themselves, an aesthetics that defines popular Western culture. The urgency to manage aging, disease, and disability is now especially",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 352,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7310109,
+      "importance": 0.7740364670753479,
+      "final_score": 0.7310110330581665
+    },
+    {
+      "id": "a8859d16ce81c4a84eee4d92",
+      "qdrant_id": "816b087b-ee09-5a38-8f09-db6289fe4486",
+      "text": "thing that is both retained and repeatable. This is the minimal condition re- quired for it to “be” at all, the minimal condition of its persisting such that it does not immediately pass way in temporal flow, insofar as it is futurally exposed. Originarily retained and repeated, this difficult- to- think structure is that of an iterative mark or trace. The key question we began with was how exactly this thought entails a relation to death and how this relation is to be understood. “Freud and the Scene of Writing” now allows us to see that it is to be understood in terms of a kind of interruption, or excess, at work in the trace, and thus at work within the very structure of the living. To see this, let us return to Derrida’s claim that it is “the irreducibility of the ‘effect of deferral’ ” that constitutes Freud’s major discovery. Stated succinctly, Derrida’s insight is that t…",
+      "source": "Robert Trumbull - From Life to Survival_ Derrida, Freud, and the Future of Deconstruction (2022, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 103,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7308893,
+      "importance": 0.7785674333572388,
+      "final_score": 0.7308895587921143
+    },
+    {
+      "id": "5e29fb84626e4da31b97d09d",
+      "qdrant_id": "8662f618-44b6-5283-bcdd-682f61d78e06",
+      "text": "fear of death will only intensify: as in Shakespeare’s The wrinkles which thy glass will truly show Of mouthèd graves will give thee memory3 Still, there’s something of a taboo or an unnameability about the gradual erosion of whatever we tentatively feel we once had by way of beauty, a silence which, unsurprisingly, persists irrespective of the enor- mous new industries of repair and regeneration. This anxiety over the eclipse of your looks is exhaustivelycatered to (and, in the process, mag- niﬁed) yet is itself a dread scarcely mentioned. A culture so tolerant and encouraging of public vanity remains strikingly silent on the question of the fear underlying it. Instead, how beauty’s ordinary loss is silently spoken is the point at which the consolations of illusion meet and for- tify the illusions of consolation. If their encounter produces a blankness \u0003 * ‘‘What I Want Back Is What I Was’’",
+      "source": "Denise Riley - Impersonal Passion_ Language as Affect (2005, Duke University Press Books) - libgen.li.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.73085296,
+      "importance": 0.7737828493118286,
+      "final_score": 0.7308530807495117
+    },
+    {
+      "id": "9c905ea7a7808063d39b9b9c",
+      "qdrant_id": "39f300fb-f849-5f90-bef6-574a20b13d37",
+      "text": "10 Negative, the Minnesota slowcore band Low’s 12th album, the chapter considers the sonic radicalism of the record in the context of its historical moment. I argue that the record’s profound use of distortion and noise epitomizes the musicians’ attempt to capture and respond to the intensify- ing pollution of the social sphere by the incessant chatter of social media, the ubiquity of false information, and the deafening blare of polarized politics. The chapter discusses the album’s relation to noise aesthetics in general and to philosopher Michel Serres’s notion of the parasite in par- ticular, presenting the central argument that Low with Double Negative harnesses an acoustics of opacity as a device through which to rethink the meaning of mediality and communication for the contemporary moment. In the book’s Afterword, I summarize the vital insights concerning opacity as a concept in art, criticism, and theory. Opacity as an Aesthetic",
+      "source": "Asbjørn Skarsvåg Grønstad - Rethinking Art and Visual Culture_ The Poetics of Opacity (2020, Palgrave Macmillan) [10.1007_978-3-030-46176-8] - libgen.li.pdf",
+      "chunk_index": 45,
+      "page": null,
+      "seed_hits": [
+        "michel-serres-the-five-senses-noise-parasite"
+      ],
+      "raw_score": 0.72476035,
+      "importance": 0.7708722949028015,
+      "final_score": 0.7247604727745056
+    },
+    {
+      "id": "8ffed372d9d8e60d2bb05d6d",
+      "qdrant_id": "7f811f34-64ab-5c62-9f29-800f395a4f96",
+      "text": "work' of city love-making; the damages of contemporary American capitalism: 'the machine is gradual, it takes a little of you at a time, it leaves the shell. It was all right as long as they stuck to dead things, the dead can defend themselves, to be half-dead is worse. They did it to each other also, without knowing'. But the dead father is threatening rather than reassuring: all reconciliations with such elemental forces, the powers of the gods in the landscape or in the self, are provisional. 'I laugh, and a noise comes out like something being killed: a mouse, a bird?' There is some further complexity. If the uncanniness of this -passage from Surfacing can be understood in quite conventional terms as a symptom of readjustment, or the lack of it, we are still under the aegis of the traditional, positivist Freud: nothing is quite by chance, everything signifies; even accid…",
+      "source": "Allan Gardner Lloyd-Smith (auth.) - Uncanny American Fiction_ Medusa’s Face-Palgrave Macmillan UK (1989).pdf",
+      "chunk_index": 563,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory",
+        "duras-minimalism-absence-presence-the-malady-of-death",
+        "mark-fisher-capitalist-realism-depression-hauntology"
+      ],
+      "raw_score": 0.7539324,
+      "importance": 0.7972862124443054,
+      "final_score": 0.7136859893798828
+    },
+    {
+      "id": "c27523555fea6eb3f9b29e20",
+      "qdrant_id": "ef757fa2-8d97-5a0e-8525-a15e394c7a48",
+      "text": "of our predicament as linguistic beings” (19). Notwithstanding his sense that the positive role of melancholia has been overstated, Forter acknowl- edges the possibility that a moment of impacted melancholy (such as might be readily associated with the unspeakable) may make up a nec- essary moment of mourning, a possibility that Forter documents most specifically with reference to Alexander and Margarete Mitscherlich, The Inability to Mourn (1967) (Forter 2011: 17). 11. My recourse to semiotics, then, might be seen as potentially adding another layer to the still emergent interdisciplinarity of trauma stud- ies, as exemplified most tellingly, perhaps, by the recent articulation of psychoanalysis and neurobiology around the idea of trauma in the work of Catherine Malabou (2012). 12. In brief, semiotics is distinguished from semiology by the triadic model of the sign insisted upon…",
+      "source": "Michelle Balaev (eds.) - Contemporary Approaches in Literary Trauma Theory (2014, Palgrave Macmillan) [10.1057_9781137365941] - libgen.li.pdf",
+      "chunk_index": 145,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death",
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.74148536,
+      "importance": 0.7883140444755554,
+      "final_score": 0.7108009457588196
+    },
+    {
+      "id": "f0e2013e7d71325a70bf3175",
+      "qdrant_id": "2ac6d11a-7b2a-5e61-882c-49fe3d46b99c",
+      "text": "Footnotes.(London:.Fäbör & F.··.ber. 20ου), and'.· \" i89-236. .. ■p ■ 69 Cheryl Strayed,: :! Tleroin/U, ■; ii iD eW it I: Henry, ■ Sormv’s ■Cüïnpmÿ:·;'-Wnteiss-on \"Less land.··;6ό'ί/,:;·(Β0ΐΐ0ή:·':· Beacon Press, 2< ;o 1 ), pp. l i d s;. p. 72 Emile.·Durlcli eira, Eiementary 'Forms of Religioni Lift : (1912) (Oxford:. Oxford -University-Press, 20OT). p. 72 Geoffrey Garer, Death, Grief and Mourning (New York: Doubleday, 1965).. p. 72 Luc Capdevila and. Danièle VoîdrnânVAttw Morts:\"ks ■ -sociétés occidentales face aux-tués : de la. gmrrê .(Payot: '.Paris, ... 2002). 'p; .73. ‘Set mourning back’, see H. S. Schiff, TheBeréavM Parent (New York: Crown,· 1977). ; : p. 73-4 AIDS, seev:.Gad KilonZö and Nöräi.iHögäny . ■ ‘Traditional African· Mourning Practices are Abridged in Response to AI D S Epidemic; Implications for Mental. Health’, Tram adtufalP sychiatry ,:■'■$ 6 (1999), pp. 2…",
+      "source": "The new black _ mourning, melancholia, and depression -- Darian Leader -- Paperback, 2009 -- Graywolf Press -- 9780141021225 -- ee768fe6edf67e34c77952922216426d -- Anna’s Archive.pdf",
+      "chunk_index": 89,
+      "page": null,
+      "seed_hits": [
+        "achille-mbembe-necropolitics-postcolony"
+      ],
+      "raw_score": 0.689957,
+      "importance": 0.7710245251655579,
+      "final_score": 0.6899571418762207
+    },
+    {
+      "id": "475cc921266636ff273ae2fd",
+      "qdrant_id": "36ae8385-af35-5bb3-9ff0-32b86dfb8659",
+      "text": "thought that we will become indifferent to the dead. Anticipating the diminution of grief is thus anticipating a failure of love. To see this, contrast the Proustian thought with cases in which anticipating a change in feeling strikes us as welcome or—as I’d like to put it—as a return to reason. For example, I might, while on holiday, experience a crush on someone, all the while knowing that this is due to the experience of freedom on holiday or the fantasy of an unknown relationship. In anticipating a rapid diminution of the crush upon my return home, I will therefore look forward to such a change in feeling as a return to reason; I will regard it as the passing of an enchantment that temporarily blinds me to who truly matters to me. Or, to give another example, after a transatlantic ﬂight, I might experience a gloomy feeling of detachment from the place I live. However, I know that this is due to jet lag, and I anticipate the passage of the gloominess as a way of",
+      "source": "Berislav Marui_ - On the Temporality of Emotions _ An Essay on Grief, Anger, and Love-Oxford University Press (2022).pdf",
+      "chunk_index": 38,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death",
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.74244213,
+      "importance": 0.7857343554496765,
+      "final_score": 0.6865000128746033
+    },
+    {
+      "id": "bb5fabc1d8402db924c174da",
+      "qdrant_id": "4854b958-751a-511e-a9b6-8d5c45df907a",
+      "text": "I am interested in developing the importance, for Guattari, of the thought of Viktor von Weizsacker's theorization of pathic vitality. I am in this regard following a trail opened by Peter Pal Pelbart in recognizing that the pathic dimension is a mode of lived experimentation intimately connected with the self-found­ ing and self-moving Guattarian subject living \"more on the modalities of 'existensifying' than on ontic determinations.\"1 Through this insight Pelbart introduces a fundamental distinction for von Weizsacker between pathic and ontic determinations and 1. Peter Pal Palbert, 'The Deterritorialized Unconscious,\" in The Guattari f3:ffect, eds. E. Alliez and A. Goffey (London: Continuum, 2011), p. 75. 119",
+      "source": "(Univocal) Félix Guattari, Gary Genosko, Jay Hetrick - Machinic Eros_ Writings on Japan-Univocal Publishing (2015).pdf",
+      "chunk_index": 275,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death",
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.7458124,
+      "importance": 0.7904065251350403,
+      "final_score": 0.6864707469940186
+    },
+    {
+      "id": "4a16e7f01f40f6e0be17b0ec",
+      "qdrant_id": "086c042c-81a1-5f65-8cd1-de12bb824613",
+      "text": "er, is grounded in his fidelity to the notion that existence is a bile enter- prise replete with no possibility for repair, offering a “no saying to the worst, and a further no-saying to the possibility of any other world, in here or out there” (Thacker, “Cosmic Pessimism” 68). For readers, this implicit paradox of the worst holds as its negative index the possibility for a sorrow experienced in an ultimately pessimal mode of self-knowledge in which even death itself, in other words, death as an escape from life, is a disappointment. Death’s disappointment is its non-possibility for escape, but due to death’s de-actualization as nothing- ness it necessitates itself as everything. To think of death, then, is to cultivate a sorrow reared for a mystical meditation on death. Again, as with Georges Bataille in chapter 3, Marguerite Porete’s words from The Mirror of Simple Souls, that “the best I can tell you is that if you under-",
+      "source": "[Critical Conversations in Horror Studies] Brad Baumgartner - Weird Mysticism_ Philosophical Horror and the Mystical Text (2020, Lehigh University Press_ Rowman & Littlefield) - libgen.li (2).pdf",
+      "chunk_index": 478,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7369918,
+      "importance": 0.7825849652290344,
+      "final_score": 0.6792606711387634
+    },
+    {
+      "id": "5f5fb0faf8aa384aa491cdf0",
+      "qdrant_id": "01873798-ce29-5547-b57b-4677a5e3b9a4",
+      "text": "Preliminary Expectoration 27 yet about myself, that is, my mortality. If I knew it, I could not sacriﬁ ce my innocence of it. I call this syndrome, in “Alas a Dirty Th ird” and “Th omas Bernhard’s Rant,” dirtiness: Th e paradigm is the ﬁ gure in the joke or logical exemplum who has a smear of dirt on his forehead that he cannot see— when the dirt had been visible, in the garden or ﬁ eld, it was not yet dirty— though a master teacher, a magister mortis, a living or dead adult can teach him how to infer its existence. In each case a child comes to an adult to learn death indirectly as some- thing external (though adhesive) and alien and eventual rather than immanent and imminent; thus dirtiness and adulthood are the mutually sullying doctrines of the present entropic, un- believing sermon. Death appears, on this understanding, not as an individual immediate reality as in authentic Heidegger nor as the condition of brotherhood across otherness but as an",
+      "source": "Limon, John - Death's following _ mediocrity, dirtiness, adulthood, literature (2012, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 75,
+      "page": null,
+      "seed_hits": [
+        "duras-minimalism-absence-presence-the-malady-of-death"
+      ],
+      "raw_score": 0.7330954,
+      "importance": 0.7773256897926331,
+      "final_score": 0.673872172832489
+    },
+    {
+      "id": "8eac3058660caa2a79d719cd",
+      "qdrant_id": "9051e8b5-8462-54e4-9f3d-dc68afd6e9d5",
+      "text": "During the past three decades, intellectual life in Europe has registered an intense, subterranean feeling of bereavement and emptiness. The prefix 'post' has become a much used syllable: postmodern, postindustrial, postcolonial, post-Enlightenment, poststructural and so on. The repeated use of this word expresses",
+      "source": "Dennis Smith - Zygmunt Bauman_ prophet of postmodernity (1999, Polity Press) - libgen.li (1).pdf",
+      "chunk_index": 46,
+      "page": null,
+      "seed_hits": [
+        "achille-mbembe-necropolitics-postcolony"
+      ],
+      "raw_score": 0.6698791,
+      "importance": 0.7736561894416809,
+      "final_score": 0.6698790788650513
+    }
+  ]
+}

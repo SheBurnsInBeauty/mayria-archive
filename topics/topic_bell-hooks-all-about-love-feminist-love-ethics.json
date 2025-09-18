@@ -1,0 +1,1212 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "bell-hooks-all-about-love-feminist-love-ethics",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "c58b6d0ff9d6f43fffb47cbe",
+      "qdrant_id": "d1cbbb6c-f90c-5b89-93c1-583b6365fb89",
+      "text": "men must learn to receive and give love instead of basing their love on sexual per- formance. For women, she argues that self-love is necessary if women are to establish relationships that are not toxic and based on antiquated gender roles. This self-love includes a search for self-determination that includes both their relationship with others and a personal self-fulﬁlment. Thus, for hooks, as for many other feminist scholars (K. R. Allen & Walker, 1992; Bryson, 2014; Gordon et al., 1996; Lynch, 2014), there must be a consensual redeﬁnition of the ethical and political dimension of caregiving within relationships as work with value valuable that cannot be reduced to just a woman’s ‘role’ or ‘duty’. This dimension of redeﬁning care-giving, self-determination, monogamy, marriage and heteronormativity is a concern of all three research questions of this project, as this is a continuous pro…",
+      "source": "[Routledge Advances in Film Studies] Benjamín de la Pava Vélez - Love in Contemporary Cinema_ Audiences and Representations of Romance (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7729697,
+      "importance": 0.7946253418922424,
+      "final_score": 0.772969663143158
+    },
+    {
+      "id": "3892cfda699bd1d8b5a380bd",
+      "qdrant_id": "3e2b47a9-a079-567c-8b9a-27b43a7e117a",
+      "text": "objects for love, and correspondingly, love enables us to make connections between radically different places and objects. This is because love is an orientation to thinking and doing, rather than being a particular subset of activities observable as love. The basis of this approach to love, for influ- ential black feminist scholar bell hooks, is resistance to domination. In All About Love, hooks follows psychologist M. Scott Peck in defining love as “the will to extend one’s self for the purpose of nurturing one’s own or another’s spiritual growth”.6 Reflecting on issues around sexism and rac- ism within progressive social movements, hooks argues that “[without] an ethic of love shaping the direction of our political vision and our radical aspirations, we are often seduced, in one way or the other, into continued allegiance to systems of domination”.7 Can we provide hospitality to strangers, or make ourselves vulnerable in unfamiliar spaces, without first",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li.pdf",
+      "chunk_index": 28,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7710686,
+      "importance": 0.7950284481048584,
+      "final_score": 0.7710687518119812
+    },
+    {
+      "id": "b828df59573a786092a699a6",
+      "qdrant_id": "1f6dcd00-3592-5540-aab4-f4ca65f6aed5",
+      "text": "freedom, experience, community, and value, upon which these alternatives rest. Finally, as bell hooks, Katie Cannon, Michele Wallace, Patncia Hill Collins, and Zillah R. Eisenstein14 point out, most postmodern and feminist ethical reflections ignore the specific challenges to ethics emerging from de­ mocratic struggles against racial and sexist oppression.15 According to bell hooks, “Racism allows white women to construct feminist theory and praxis in such a way that it is far removed from anything resembling radical strug­ gle.” 16 By ignoring the question of race and racism, feminist ethics runs the risk of being “far removed” from radical intervention despite all the claims to the contrary. By addressing these exclusions in contemporary debates, my theory of the feminist ethics of dissensus displaces ethical reflection onto territories hardly recognized by traditional moralit…",
+      "source": "Ewa Płonowska Ziarek - An Ethics of Dissensus_ Postmodernity, Feminism, and the Politics of Radical Democracy (2001, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 18,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7652804,
+      "importance": 0.7972507476806641,
+      "final_score": 0.7652804851531982
+    },
+    {
+      "id": "4286be8c90dc470ed804f40b",
+      "qdrant_id": "aa3e719d-ba33-5c1a-8b07-0b3648858872",
+      "text": "volumes on Continental philosophy and feminism. Adam Bryx is a graduate student in English at Lakehead University. He has co-translated, with Gary Genosko, interviews and articles by Jean Baudrillard and Paul Virilio. Claire Colebrook is Professor of Literary Theory at the University of Edinburgh. She is the author of New Literary Histories (1997), Ethics and Representation (1999), Gilles Deleuze (2002), Understanding Deleuze (2003), Irony: The New Critical Idiom (2003), Irony in the Work of Philosophy (2003) and Gender (2003). She is also the editor (with Ian Buchanan) of Deleuze and Feminist Theory (1999). Felicity J. Colman teaches contemporary theories of commodity cul­ tures, avant-garde, experimental, and feminist practices of visual and screen culture in the Cinema Program at the University of Melbourne. Tom Conley is ProtCssor of Romance J ,anEuages in the Department of Romance I ,anèlIa èlɅS, H arvard Universit y. l ie is the author of The SelF­",
+      "source": "Adrian Parr (editor) - The Deleuze Dictionary (2005, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 180,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.7634466,
+      "importance": 0.7954476475715637,
+      "final_score": 0.763446569442749
+    },
+    {
+      "id": "5ed3bd91c962fad8c0efe187",
+      "qdrant_id": "392910ba-1985-589f-8ae6-ab4ecc7e427b",
+      "text": "of life within which love is defined, practiced, or problematized across lines of race, class, gender, and sexuality, singling out the different roles that love plays, or must play, in communities of color, for women, and among impoverished people and those at the margins of society. The chapter considers stratifications of love from various feminist, Black radical, and communal points of view. And, unlike most academic studies of love, we do not ignore the extensive body of work by bell hooks on the subject of love. Further enhancing our analysis of race and racism, we engage with Cornel West and Tommy J. Curry, and we consider marginalities of class and gender with the help of the foremost scholar of love today, Eva Illouz (who is here subjected to sustained criticism for her lopsided fixation on the romantic",
+      "source": "Richard Gilman-Opalsky - The Communism of Love_An Inquiry into the Poverty of Exchange Value-AK Press.pdf",
+      "chunk_index": 21,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7623466,
+      "importance": 0.7934789061546326,
+      "final_score": 0.7623463869094849
+    },
+    {
+      "id": "9d599e3ef0e3616467d9fdae",
+      "qdrant_id": "9cceba1d-7c77-5def-9d08-a86803487fa4",
+      "text": "overview). The feminist tendency to reduce love to ‘an ideological delusion; an idealized image of (inhibited) sexual desire; or a symbolic or discursive element performing disciplinary power’ (Jónasdóttir, 2014: 19) precluded analyses of love itself, of what it is about love that makes it a vehicle of oppression. It also forestalled a theoretical acknowledgment of love’s liberating potential. Diagnosing the history of feminist perspectives on love, bell hooks argues that it was a mistake that second wave feminists tended to see love itself as the problem. ‘We were to do away with love and put in its place a concern with gaining rights and power’, she remembers. This inhibited the development of a more complex feminist theo- rization of love, inasmuch as ‘[r]ather than rethinking love and insisting on its importance and value, feminist discourse on love simply stopped’ (2000b: 102). One inﬂ uential contemporary feminist theorist who does engage theoretically with",
+      "source": ", - The Contradictions of Love (Towards a feminist-realist ontology of sociosexuality) __ (2014, Routledge) [10.4324_9781315851464] - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.75677395,
+      "importance": 0.7872728705406189,
+      "final_score": 0.7567740082740784
+    },
+    {
+      "id": "b33cf3b1833ef5f85c98acfc",
+      "qdrant_id": "ce5457d8-4e26-5b21-bf6f-e657170930e5",
+      "text": "To Jasia, Carol, and Rita, whoseßiendship, wisdom, and amazing intelligence were the inspiration for this project. Contents Acknowledgments ix Introduction ι 1. Toward an Experimental Ethos of Becoming; From Docile Bodies to Ethical Agency 15 2. Ethical Responsibility, Eros, and the Politics of Race and Rights 47 3. Toward an Ethics of Dissensus: Lyotard’s Agonistic Politics and the Pursuit of Justice 83 4. The Libidinal Economy of Power, Democracy, and the Ethics of Psychoanalysis 117 5. Labor of the Negative: The Impossible Ethics of Sexual Difference and the Politics of Radical Democracy 151 6. Postmodern Blackness/Visionary Feminism: Paradigms of Subjectivity, Community, and Ethics in bell hooks’s Work 183 Afterword 217 Notes 225 Index 277",
+      "source": "Ewa Płonowska Ziarek - An Ethics of Dissensus_ Postmodernity, Feminism, and the Politics of Radical Democracy (2001, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 2,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.75495446,
+      "importance": 0.7934908270835876,
+      "final_score": 0.75495445728302
+    },
+    {
+      "id": "d5be7d257d417d2db630d0a0",
+      "qdrant_id": "00f8df43-be7f-59f9-9cf6-2d9d6c3200ec",
+      "text": "n o te s t o p a g es 3 7 1– 3 7 4 \u0003 4 6 3 9. Beverly Wildung Harrison, Justice in the Making: Feminist Social Ethics, ed. Elizabeth Bounds, Tracy West, et al. (Louisville, Ky.: Westminster John Knox Press, 2004), 115. 10. Audre Lorde, Sister / Outsider: Essays and Speeches (Freedom, Calif.: Cross- ing Press, 1984), 59. 11. Audre Lorde, Uses of the Erotic: The Erotic as Power (New York: Crossing, 1981); Susan Grifﬁn, Pornography and Silence: Culture’s Revenge Against Nature (New York: Harper, 1981). 12. Grifﬁn, Pornography and Silence, 260. 13. Herbert Marcuse, Eros and Civilization: A Philosophical Inquiry Into Freud (Boston: Beacon, 1955). He footnotes without comment Nygren’s then re- cently published Agape and Eros (70, 126). 14. Nancy, Inoperative Community, 83. 15. For an exegesis of the politics of love in Mt. 5.45, see Mario Costa, Catherine Keller, and Anna Mercedes, with a resp…",
+      "source": "[Transdisciplinary theological colloquia] Burrus, Virginia_Keller, Catherine - Toward a Theology of Eros_ Transfiguring Passion at the Limits of Discipline (2006, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 159,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.7498438,
+      "importance": 0.784042239189148,
+      "final_score": 0.7498440742492676
+    },
+    {
+      "id": "24c4ea8cb0c0cd7b37dccee9",
+      "qdrant_id": "e62d49dd-0ddb-5c48-8692-9dc1f85bc45a",
+      "text": "romantic love is the hegemonic ideology of love – thus understanding ideology and hegemony from the point of Antonio Gramsci’s work. This ideology contains a gendered and class division of roles that has been constructed to privilege men’s position subordinating and sub-valuing women, their emotions, care-giving, roles and demands. At the same time, the concept recognises the utopian, positive dimension that the pursuit of such romantic love holds for many women (and men). A feminist conceptualisation of love understands the ambivalence, potentially diver- gent, fragmentary and intersectional experience of this hegemonic romantic love and the counter-hegemonies that feminist and queer theories have pushed forward, the- oretically and practically. At the same time, a feminist concept of love seeks to widen its acceptable forms, personal and social undertakings beyond hetero-marital, coupl…",
+      "source": "[Routledge Advances in Film Studies] Benjamín de la Pava Vélez - Love in Contemporary Cinema_ Audiences and Representations of Romance (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 202,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7497147,
+      "importance": 0.7821060419082642,
+      "final_score": 0.749714732170105
+    },
+    {
+      "id": "1fb1b5ffa61c352664ff6859",
+      "qdrant_id": "291c29bc-53f7-5012-b802-04ada9f5a3b4",
+      "text": "revolutionary, and to give her sexual kindness is just that; but she has been giving sexual kindness for as long as there have been Mistresses, and for as long as there has been literature. She is the revolutionary. bell hooks tells us that to embrace a ‘love ethic’, and all that it can do for us, we have to be courageous: ‘our fear may not go away, but it will not stand in the way’.11 Loving a revolutionary like the Mistress, especially within these times when we still fear her, will always bring about fear and prejudices inside us. I still hear those whispers rising from within myself. But these whispers need not scare us; rather, they can push us towards love – of her, of ourselves. The Mistress often lives a ‘daring’ sexual life, and is viewed always through her sexuality. Sexual kindness as an ethical foundation reminds us to bring kindness to the questions that involve …",
+      "source": "Victoria Brooks - Mistress Ethics_ On the Virtues of Sexual Kindness (2022, Bloomsbury Academic) - libgen.li (1).pdf",
+      "chunk_index": 86,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7478384,
+      "importance": 0.7750157713890076,
+      "final_score": 0.7478383779525757
+    },
+    {
+      "id": "cf5c8d91f312a5dc19b3f855",
+      "qdrant_id": "6a7fc802-c419-5fe4-b4f8-d9e7ef77fb07",
+      "text": "44 “one of the first revolutionary acts of visionary feminism must be to restore maleness and masculinity as an ethical biological category” (2004b, 114). There is much to admire in hooks’ and others’ efforts to reclaim mas­ culinity; many of the things they identify as constitutive of a better kind of masculinity are indeed virtuous human qualities. In the later chapters of this book, I try to follow their lead in locating feminist masculinity between hegemonic patriarchal masculinity on one side and feminist rejections of masculinity on the other. But as written, these accounts of feminist mascu­ linity are crucially incomplete; key theoretical and practical questions remain unanswered. Can feminist masculinity offer us a meaningful alter­ native to feminist androgyny while recognizing and respecting the diver­ sity of men’s, women’s, and non-binary people’s experiences and identities? What makes love, justice, empathy, courage, or other virtuous qualities",
+      "source": "Ben Almassi - Nontoxic_ Masculinity, Allyship, and Feminist Philosophy (2022, Palgrave Macmillan) - libgen.li (1).pdf",
+      "chunk_index": 143,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7444384,
+      "importance": 0.782882034778595,
+      "final_score": 0.7444382905960083
+    },
+    {
+      "id": "cb3304e15d16fd74714a0e7f",
+      "qdrant_id": "b0e4462c-beee-586e-bc05-6d5f6c09ca56",
+      "text": "17 The anarchy of love their black feminist project as evolving from ‘a healthy love for ourselves, our sisters, and our community which allows us to continue our struggle and work’.37 This emergence of love as a radical ethic and political methodology for black feminism in the 1970s served to lay the groundwork for coalition building in and across the movements of the time. Likewise, a central theme of the work of feminist theorist bell hooks has been the construction of an activist approach to social transformation that recognises the intersections between gender, race and class –​ which again imagines love as a powerful transformative political ethic. hooks is convinced that the realisation of such a love ethic can happen only as we relinquish our obsession with power and domination, and makes the argument that ‘domination cannot exist in any social situation where a love ethic prevails’.38 Adopting a similarly expansive vision, Chela Sandoval’s Methodology",
+      "source": "(Contemporary Anarchist Studies) Matt York - Love and Revolution_ A Politics for the Deep Commons-Manchester University Press (2023).pdf",
+      "chunk_index": 82,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7406348,
+      "importance": 0.7662414908409119,
+      "final_score": 0.740634560585022
+    },
+    {
+      "id": "92f2dfd5e36b0e20022f86f5",
+      "qdrant_id": "d2921683-72c2-565a-9c1c-5a53b92498ac",
+      "text": "women. The Black liberation movement required that Black women put their race before their gender viewing feminist Black women as a threat to Black liberation. In her subsequent books hooks continues her critical analy- sis of the complexity of race, class and gender intersect- ing with popular culture, aesthetics, spirituality and re- lationships. Her 2000 book Feminism Is for Everybody: Passionate Politics (2000) provides an overview of major themes and issues in feminist theory. In this text hooks provides a deﬁnition of feminism, a deﬁnition that she initially developed in her 1984 book Feminist Theory: From Margin to Center, hooks states that feminism ‘is a movement to end sexism, sexist exploitation and oppres- sion’ (1). She claims she likes this deﬁnition because it doesn’t point to men as the problem, but points to patri- archy as the problem (1). Among hooks’ other books are Teaching to Transgress (1994), All About Love: New Vi-",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf",
+      "chunk_index": 168,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7308302,
+      "importance": 0.7742247581481934,
+      "final_score": 0.7308303117752075
+    },
+    {
+      "id": "7017540cecccf578fbf5d3d6",
+      "qdrant_id": "5eeb977a-59a2-5cab-9e59-2332d56c5941",
+      "text": "19 e truth we do not tell is that men are longing for love. is is the longing feminist thinkers must dare to examine, explore, and talk about. ose rare visionary feminist seers, who are now no longer all female, are no longer afraid to openly address issues of men, masculinity, and love. Women have been joined by men with open minds and big hearts, men who love, men who know how hard it is for males to practice the art of loving in patriarchal culture. In part, I began to write books about love because of the constant ﬁghting between my ex-boyfriend Anthony and myself. We were (and at the time of this writing still are) each other’s primary bond. We came together hoping to create love and found ourselves creating conﬂict. We decided to break up, but even that did not bring an end to the conﬂict. e issues we fought about most had to do with the practice of love. Like so many men who know that the women in their lives want to hear them",
+      "source": "Bell Hooks - The Will to Change_ Men, Masculinity, and Love (2004, Washington Square Press) - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7307689,
+      "importance": 0.7688742876052856,
+      "final_score": 0.7307690382003784
+    },
+    {
+      "id": "8050f21731bf919837b0c0ea",
+      "qdrant_id": "78a05917-4640-5118-be1c-7f5e33e5dd74",
+      "text": "For PPN This page intentionally left blank Contents Acknowledgements ix Introduction 1 Part I: The Morality of Love 1. When the Kissing Had to Stop: Passion in the Thought of Mary Wollstonecraft 13 2. John Stuart Mill and Harriet Taylor on Women and Marriage 29 3. The Practical and the Pathological 43 4. Time and Chance: Kantian Ethics and Feminist Philosophy 55 5. Marital Faithfulness 69 Part II: The Politics of Love 6. To Have and to Hold: Liberalism and the Marriage Contract 83 7. Different Voices, Still Lives: Problems in the Ethics of Care 99 8. Tragedy, Moral Conﬂict and Liberalism 115 9. Out of the Doll’s House: Reﬂections on Autonomy and Political Philosophy 127 10. Strangers in Paradise: the Unhappy Marriage of Feminism and Conservatism 141 11. The Importance of Love in Rawls’s Theory of Justice 159 Notes 183 Index 195 vii This page intentionally left blank",
+      "source": "Susan Mendus - Feminism and Emotion_ Readings in Moral and Political Philosophy (2001) - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.72865665,
+      "importance": 0.7658223509788513,
+      "final_score": 0.7286567687988281
+    },
+    {
+      "id": "8bdf65b936c846254f63b217",
+      "qdrant_id": "011a3552-991a-58af-a87e-a8011fff8173",
+      "text": "proposes that we ought to understand love as a verb, rather than a noun. She suggests that by understanding just how much work is needed for love to work and how it can be found in more than the expected places (nuclear family and partner), it is possible to go further from the narcissistic, sex- and desire-driven version of love towards one where service with and for others is valued by all parties. For hooks, this means that Celluloid love 29",
+      "source": "[Routledge Advances in Film Studies] Benjamín de la Pava Vélez - Love in Contemporary Cinema_ Audiences and Representations of Romance (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 134,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.727792,
+      "importance": 0.7683363556861877,
+      "final_score": 0.7277921438217163
+    },
+    {
+      "id": "32dca7a50ee77b7b66948dfb",
+      "qdrant_id": "7a8e0465-8de9-5936-abbf-5affc34ffc52",
+      "text": "beyond the false choice between collective action and individual pleasures, we attempt to circumvent the moral schemas that position love either as a supreme metaphysical virtue or as a weak panacea for the ills of capitalist societies. “[It’s] the binary of normative/transgressive that’s unsustain- able”, writes Maggie Nelson, “along with the demand that anyone live a life that’s all one thing”.4 We begin by addressing love as a social problem within critical theory. On one hand, love reproduces the existing social order by consolidating and naturalising our attachments to the status quo, and this has been a concern for feminist commentaries on sexual politics. As Kate Millett famously argued in 1970, “romantic love affords a means of emotional manipulation which the male is free to exploit … [and] obscures the reali- ties of female status and the burden of economic dependency”…",
+      "source": "Timothy Laurie, Hannah Stark - The Theory of Love_ Ideals, Limits, Futures-Palgrave Pivot (2021).pdf",
+      "chunk_index": 13,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.72681,
+      "importance": 0.7664790153503418,
+      "final_score": 0.7268100380897522
+    },
+    {
+      "id": "fbbc87b097ce8c1a72d1a86f",
+      "qdrant_id": "38e738a1-6fa2-567d-98d1-5ab488ce3671",
+      "text": "a literature developed in the philosophy of love addressing conceptual and metaphysical questions, such as the diﬀerence between diﬀerent kinds of love, whether love is an emotion or a way of valuing, and whether we have reasons to love. But even in the short time since, cultural and theoretical frameworks have shifted substantially, and new problems and ideas have come to seem salient while others have come to seem less so. The rise of feminism and queer culture, skepticism about categories like “normal,” and new social and political attitudes have sparked changes in which topics are important and how those topics ought to be framed and understood. Taking ser- iously the idea of sex as a matter of personal choice means that the 2 Introduction",
+      "source": "Patricia Marino _b - Philosophy of Sex and Love _ An Opinionated Introduction (2019, Routledge) - libgen.li.pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.72601676,
+      "importance": 0.7741642594337463,
+      "final_score": 0.7260169982910156
+    },
+    {
+      "id": "0bfb9e656458287ed1e73fe9",
+      "qdrant_id": "d82a368d-ceb3-5670-abad-7434544f4dcf",
+      "text": "Heterosexual romantic love is one of the best sites to take stock of such an ambivalent perspective on modernity because the last four decades have witnessed a radicalization of freedom and equality within the romantic bond as well as a radical split between sexuality and emotionality. Heterosexual romantic love contains the two most important cultural revolutions of the twentieth century: the individualization of lifestyles and the intensifi cation of emotional life projects; and the economization of social relationships, the pervasiveness of economic models to shape the self and its very emotions.14 Sex and sexuality became disentangled from moral norms, and incorporated in individualized lifestyles and life projects, while the capitalist cultural grammar has massively penetrated the realm of heterosexual romantic relationships. For example, when (heterosexual) love became the constitu…",
+      "source": "Eva-Illouz-Why-Love-Hurts_-A-Sociological-Explanation-_2013_-Polity-Press_-libgen.li.pdf",
+      "chunk_index": 40,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7227013,
+      "importance": 0.7610637545585632,
+      "final_score": 0.7227014303207397
+    },
+    {
+      "id": "f7bc9d476800eea5f9a9528c",
+      "qdrant_id": "f016083d-4a24-5f8e-8e23-6e5ca06b03ef",
+      "text": "Spinoza’s Ethics, Amelie Rorty argues that passive love “generates a desire to control” and thereby becomes entangled with a variety of affects coun- ter to love: “Since passive love is ambivalent, mingled with hate and envy, disdain, and fear, the behaviour that expresses it will be erratic, each moment undermining the next”.1 In contrast to passive love, active love emerges from adequate ideas about the causes that act upon us. In the examples above, we can learn about biology or learn about social power relations, and emancipate ourselves from these passive forms by recognis- ing that these desires do not originate within us and do not express our freedom. In thus forming adequate knowledge of ourselves, we can choose to love as a practise of giving to others as an affirmation of our common interests, without the expectation of reward or reciprocity.2 As we dis- cussed in Cha…",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li (1).pdf",
+      "chunk_index": 213,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7226897,
+      "importance": 0.7657281160354614,
+      "final_score": 0.7226898074150085
+    },
+    {
+      "id": "86bf6b3d385008090b874ffc",
+      "qdrant_id": "9a5def43-503f-5ce9-a7f7-70880ca70913",
+      "text": "interests, without the expectation of reward or reciprocity.2 As we dis- cussed in Chap. 2, bell hooks also argues for an ideal model of love as an affirmation of freedom that excludes the will to power because the latter",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li (1).pdf",
+      "chunk_index": 214,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.72230184,
+      "importance": 0.7496442794799805,
+      "final_score": 0.7223020195960999
+    },
+    {
+      "id": "3e5e7964fa3f48bb28fd8a35",
+      "qdrant_id": "af94ede2-d430-574b-9268-5c10330e5ee4",
+      "text": "or fail to recognize and explicitly unpack its communist content. Sociological studies of love, such as the many works of Eva Illouz (1997, 2007, 2012) and Ulrich Beck and Elisabeth Beck-Gernsheim (2004), focus too much on the concept of love as a romantic, sexual, and mainly monogamous relationship. This is even true—somewhat surprisingly—in the works of Alain Badiou (2012) and Srećko Horvat (2016), both of whom are connected to Marxian theory. Badiou denies any political philosophy of love, and while Horvat does not, he is focused mainly on dating and on romantic and sexual relationships. Other theorists of love who are directly interested in transromantic and political concepts of love, mainly bell hooks (2000, 2001, 2002, 2004), Zygmunt Bauman (2017), and Dominic Pettman (2006), refuse to seriously consider the irreducible communism of love, the question around which this book is the…",
+      "source": "Richard Gilman-Opalsky - The Communism of Love_An Inquiry into the Poverty of Exchange Value-AK Press.pdf",
+      "chunk_index": 27,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7222885,
+      "importance": 0.7665855288505554,
+      "final_score": 0.7222885489463806
+    },
+    {
+      "id": "2d38f9ae4bbf175971ea539e",
+      "qdrant_id": "6030b471-0d5b-5044-ab1d-88076498c838",
+      "text": "of both the feminine and love in political and ethical theory. Levinas’s work opens up new possibilities for expanding our understanding of love and its signiﬁcance not only for personal life but also for public exchanges and relations. ETHICS AND LOVE IN THE FACE-TO-FACE RELATION Ethics may be read as an elaboration of the centrality of love in the inter- human relation. The face-to-face relation – the relation to the other – demands that we take responsibility for the other, care for the other, and prioritise the other’s needs. While this demand, inherent within the encounter with the other, can be ignored – so that for example we can refuse to provide for the other, even murder the other – nevertheless human sociality rests on recognising the demand for care, generosity and selﬂess love, conveyed in the face-to-face encounter. In Totality and Inﬁnity, Levinas argues that the ethical r…",
+      "source": "Linnell Secomb - Philosophy and Love_ From Plato to Popular Culture (2007, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 226,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics",
+        "emmanuel-levinas-face-of-the-other-ethics"
+      ],
+      "raw_score": 0.7748577,
+      "importance": 0.8082215189933777,
+      "final_score": 0.7222403287887573
+    },
+    {
+      "id": "03fd07602892771a48a3e09b",
+      "qdrant_id": "8cbd6c72-9ee2-5592-b458-4fd988f17435",
+      "text": "has not remained the same. In the Western tradition, love is not inherently moral, in fact it does violate the demands of morality bestowed upon society by faith or by ethical attitude. Love has no rules. It has been an act of recognition, an unconditional commitment to the cause of intimacy, procreation, and sexual gratiﬁcation. More often than not, it has been an act of desperation. Desire dies when it is fulﬁlled, love, on the other hand, is never fulﬁlled. Thus, Éléonore de Lespinasse ends one of her letters with a dramatic line: “I love you as one should love, to excess, to madness, with transport and despair” (106). Modernity is dressed, or disguised with gender equality, pluralism, tolerance, liberty of conscience, and inalienable rights. Indeed, modernity has also opened the Pandora’s box of possibilities. The universe has been unlocked and we have lost the gods. Consequently, things are tragic not because they are ruled by pitiless gods and",
+      "source": "Alberto Castelli - Love, Beauty or Morality-Springer (2024).pdf",
+      "chunk_index": 774,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7216454,
+      "importance": 0.7672920823097229,
+      "final_score": 0.7216454744338989
+    },
+    {
+      "id": "a5360597ecbefef7e04bc221",
+      "qdrant_id": "b313f313-9bea-537a-b966-634f34e20738",
+      "text": "Introduction 13 to that ubiquitous mirror of contemporary souls, mainstream cinema, to see the ways such ideologies are rarely applied to discourses on love. In offering a critique of the patriarchal and masculine character of these very notions of auto- nomy, independence and individuality, second-wave feminism has undoubtedly paved the way for a rethinking of women’s relations to these symbolic, secular attributes of power. Nonetheless, mainstream cinema tells a story that suggests that, when it comes to love, the self-sacriﬁcial imperative of the normative Christian logos continues to be an operating principle, especially as it concerns women. Returning brieﬂy to Girard on sacriﬁce: he distinguishes between the practices of religion and theology because he aims to ﬁnd a notion of love, in his case a Christian notion, that is not essentially sacriﬁcial. In a 1993 interview in the Journal of Religion and Literature (1993: 25) Girard responded to a question that arose from",
+      "source": "[Manchester Studies in Religion, Culture and Gender] Sal Renshaw - The subject of love_ Hélène Cixous and the feminine divine (2013, Manchester University Press) [10.7765_9781847793393] - libgen.li (1).pdf",
+      "chunk_index": 59,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7214613,
+      "importance": 0.7659900784492493,
+      "final_score": 0.7214611172676086
+    },
+    {
+      "id": "d7e17126a1d5780b04c47689",
+      "qdrant_id": "7e1ce02b-71b9-5bef-b4e6-fe46d3bba429",
+      "text": "20 Intro · reading of Marxist alienation, offer a framework toward the promotion of a radical ethics of giving.76 Drawing inspiration from a much broader corpus of feminist writings that call for a radical ethics of care and, spe- cifically, the affirmation of love as a revolutionary concept, I premise that love, understood as a productive act of giving, offers the potential, and the promise, to transcend alienation. In doing so, love offers a path forward to transform a society subsumed to the dictates of capital into an emanci- pated society conditioned by socially just relations of production, distribu- tion, and consumption. Ultimately, to overcome the deadening qualities of capitalism requires efforts that liberate humanity from the structural and social relations of exploitation and alienation that negate the possibil- ity for living a meaningful, flourishing life. Only in this way is it possible to achieve a society centered upon beloved relations and productive love.",
+      "source": "James A. Tyner - The Alienated Subject_ On the Capacity to Hurt-University of Minnesota Press (2022).pdf",
+      "chunk_index": 74,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7210462,
+      "importance": 0.7600317597389221,
+      "final_score": 0.7210462689399719
+    },
+    {
+      "id": "f1c6c01fa9a1d26d75425d7f",
+      "qdrant_id": "f674a013-fb14-5fb1-bf0c-295387419c87",
+      "text": "confl icting pressures to which love has been submitted. This intertwining of the emotional and the economic is thus one of the threads through which I offer to reinterpret love in modernity, showing how choice, rationality, interest, competition, have transformed the modes of meeting, seeking, courting a partner, ways of consulting and making decisions about one’s sentiments. Another bias of this book is that it addresses the condition of love more markedly from the standpoint of women than of men, and more especially from the standpoint of those women who opt largely for marriage, reproduction, and middle-class lifestyles. As I hope to show here, it is the combination of these aspirations and their location in a free market of sexual encounters which creates new forms of emotional domination of women by men. This means then that although this book is relevant to many women, it is obvio…",
+      "source": "Eva-Illouz-Why-Love-Hurts_-A-Sociological-Explanation-_2013_-Polity-Press_-libgen.li.pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.720701,
+      "importance": 0.7700996994972229,
+      "final_score": 0.7207011580467224
+    },
+    {
+      "id": "e06a976accc22aa464fc23d4",
+      "qdrant_id": "8934f1b4-0113-5e4d-98be-c551f04f08e2",
+      "text": "Men in love: The work of repressing reality 143 pleasant parts of a woman is also a suppression of her irreducible subjectivity, which is the creative source of the power the man is out for. Male emancipation In her book The will to change: men, masculinity, and love , US feminist theorist bell hooks states that ‘[p]atriarchy is the single most life-threatening social disease assaulting the male body and spirit in our nation’ (2004: 17). While acknowledging men’s responsibility for oppressing women, hooks argues that on a deeper level men lose out as much as women from living in a society which, in her view, prevents the possibility of love between women and men. Although this notion is not uncommon among lay people, it tends to be cautioned against by feminist theorists. This is not surprising, since it appears paradoxical that men are damaged by a system that privileges them. Also, those who do subscribe to the",
+      "source": ", - The Contradictions of Love (Towards a feminist-realist ontology of sociosexuality) __ (2014, Routledge) [10.4324_9781315851464] - libgen.li.pdf",
+      "chunk_index": 619,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7204029,
+      "importance": 0.7560989856719971,
+      "final_score": 0.7204029560089111
+    },
+    {
+      "id": "56c9cdaf84f406f498ebf573",
+      "qdrant_id": "995ca917-f104-5ced-b49a-912c1b2241e1",
+      "text": "Minnesota Press. Hoagland, Sarah (1989) Lesbian Ethics. Amherst, MA: Institute for Lesbian Studies. Hoagland, Sarah (1994) ‘Lesbian Ethics’, in Mary Mahowald (ed.), Philosophy of Women. New York: Hackett, pp. 451–64. hooks, bell (1981) Ain’t I a Woman? Black Women and Feminism. Boston: South End Press. hooks, bell (1984) Feminist Theory: From Margin to Centre. Boston: South End Press. hooks, bell (1992) Black Looks: Race and Representation. Boston: South End Press. hooks, bell (1994) Teaching to Transgress. New York: Routledge. hooks, bell (2000) Feminism Is for Everybody: Passionate Politics. Boston: South End Press. hooks, bell (2001) All About Love: New Visions. New York: William Morrow. hooks, bell (2004) The Will to Change: Men, Masculinity, and Love. New York: Atria Books. Irigaray, Luce (1985b) The Speculum of the Other Woman. Ithaca, NY: Cornell University Press. Irigaray, Luce, (1985a) This Sex Which Is Not One. Ithaca, NY: Cornell University Press.",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf",
+      "chunk_index": 425,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.72026026,
+      "importance": 0.7614997029304504,
+      "final_score": 0.7202600836753845
+    },
+    {
+      "id": "3087359028f2c076d948656b",
+      "qdrant_id": "63d3876b-75c3-5a43-9a72-4a5a283c29c3",
+      "text": "INTRODUCTION 5 In their attack on male love as selfish and domineering, the radical feminists get support from unexpected quarters: Nietzsche, for example. As Irving Singer puts it, \"Far from being selfless and sacrificial, sexual love is for him the best illustration of self- interest and the universal will to power. . . . Nietzsche calls atten- tion to the relentless quest for domination that motivates the lover's need to possess.\"4 Way before Nietzsche it is fascinating to see that the same complaints about love or the deficiencies of men as lovers voiced by feminists and indeed women in general appear in Plato's Phaedrus, where Lysias complains that the lover is selfish and exploitative, jealous and faithless, hurtful and unreli- able. Because he is in a state of temporary madness, he might always leave when he recovers; in the meantime he wants to reduce the beloved to a state of d…",
+      "source": "Women, Love, and Power Literary and Psychoanalytic Perspectives (Elaine Hoffman Baruch) (Z-Library).pdf",
+      "chunk_index": 19,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7199855,
+      "importance": 0.7669251561164856,
+      "final_score": 0.7199854254722595
+    },
+    {
+      "id": "c04a227f6674908805725e69",
+      "qdrant_id": "7cb67f3b-2f35-57e7-a4c8-7394bcaa7aa8",
+      "text": "25 28. See hooks’ commentary on Martin Luther King, Jr. in Outlaw Culture, pp. 290–292. 29. hooks, All About Love, p. 221. 30. Ibid., p. 4. 31. See Rorty, Amelie. “Spinoza on the Pathos of Idolatrous Love and the Hilarity of True Love.” In Feminist Interpretations of Benedict Spinoza, edited by Moira Gatens, 65–85. University Park, Pennsylvania: The Pennsylvania State University Press, 2009. 32. Mills, Charles W. ““Ideal Theory” as Ideology.” Hypatia 20, no. 3 (2005): 165–84. 33. Hardt, Michael, and Antonio Negri. Multitude: War and Democracy in the Age of Empire. New York: Penguin Books, 2004, p. 351. 34. Ibid. 35. Ibid. 36. Cobble, Dorothy Sue. “More Intimate Unions.” In Intimate Labors: Cultures, Technologies, and the Politics of Care, edited by Rhacel Salazar Parreñas and Eileen Bori, 280–95. Stanford: Stanford University Press, 2010. 37. Hochschild, Arlie Russell.…",
+      "source": "Timothy Laurie, Hannah Stark - The Theory of Love_ Ideals, Limits, Futures-Palgrave Pivot (2021).pdf",
+      "chunk_index": 94,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71968114,
+      "importance": 0.7563813328742981,
+      "final_score": 0.7196810245513916
+    },
+    {
+      "id": "d48febe64119ed857b25eea8",
+      "qdrant_id": "52a6a637-ee02-59a4-a97d-ed3a218d7d0a",
+      "text": "less significant in relationships. But with the decline of patriarchy, there has been an increase in “the cultural prominence of love” with a more symmetrical pattern of gender relationships based around egalitarianism. Illouz’s point is that because feminism tends to equate love with patriarchal control, they fail to acknowledge the fact that women can draw on love to subvert patriarchy. The social and cultural dynamics of gender relations are embedded in the institution of marriage that Illouz (2012: 14) maintains “mixes institutional and emotional logics.” She analyses a variety of sources for assessing the state of contemporary love and romance as follows: My data are varied and include 70 interviews with people living in three large urban centres in Europe, the U.S., and Israel; a wide variety of web-based support groups, nineteenth—century and contemporary nov- els; a larg…",
+      "source": "[Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf",
+      "chunk_index": 484,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71911895,
+      "importance": 0.764648973941803,
+      "final_score": 0.7191189527511597
+    },
+    {
+      "id": "4e09b5b330fa978c0f87868c",
+      "qdrant_id": "9c3df123-552a-52f7-9886-616ae454047c",
+      "text": "privileged the notion of a generous, other-regarding love as the foundation of ethical relations between self and other, notwithstanding the attendant difﬁcul- ties that have also accompanied the practice of this ethic. These difﬁculties will be addressed in more detail in Chapters 1 and 2, but particularly in Chapter 2, where I will be considering the recent work of a number of feminist theologians who extend and develop the earlier insights of Valerie Saiving concerning the orthodox emphasis on the sacriﬁcial aspect of agapic love. In bringing a gender analysis to bear on their reﬂections on divine love, many feminist theologians, as previously noted, have opted to abandon the concept of agape, believing it to be irredeemably patriarchal and incapable of signifying the mutual love of equals. In balancing their feminist and theological commitments, many have turned to the notions of mut…",
+      "source": "(Manchester Studies in Religion, Culture and Gender Ser.) Sal Renshaw - The Subject of Love _ Hélène Cixous and the Feminine Divine-Manchester University Press (2009).pdf",
+      "chunk_index": 70,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71871096,
+      "importance": 0.7680371999740601,
+      "final_score": 0.7187110781669617
+    },
+    {
+      "id": "f58993e443fbe8520d50818c",
+      "qdrant_id": "22f88df3-bb03-5a03-b3cf-78e603284d82",
+      "text": "13 The anarchy of love feminist perspectives on love; the anti-​colonial revolutionaries of the twen­ tieth century; the civil rights activists of the 1960s; and in recent years the number of anarchist and autonomist political philosophers and social move­ ment theorists who have explored whether love can be utilised as a useful key concept for a new political theory of global revolution. In order to further narrow the focus of our enquiry, a close reading of the works of anarchist revolutionary Emma Goldman and autonomist theorist Michael Hardt3 will then be undertaken, and specifically their pursuit of such a love –​ drawing on, and making links with contemporary ideas of love as a political concept for radical social transformation in the twenty-​first century. Following an exploration of their ideas we will turn to emerging work in posthumanism which further extends political thought around love to include non-​humans",
+      "source": "(Contemporary Anarchist Studies) Matt York - Love and Revolution_ A Politics for the Deep Commons-Manchester University Press (2023).pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7182023,
+      "importance": 0.765745222568512,
+      "final_score": 0.7182021737098694
+    },
+    {
+      "id": "4b9aba13fde6044b3459353f",
+      "qdrant_id": "b9611ee7-83ba-547f-8a5e-eeec73ee65da",
+      "text": "doesn’t point to men as the problem, but points to patri- archy as the problem (1). Among hooks’ other books are Teaching to Transgress (1994), All About Love: New Vi- sions (2001), The Will to Change: Men, Masculinity, and Love (2004) and Black Looks: Race and Representation (1992). See Black feminist thought",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li.pdf",
+      "chunk_index": 169,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71802807,
+      "importance": 0.7624335885047913,
+      "final_score": 0.71802818775177
+    },
+    {
+      "id": "8375d1988af645515be01539",
+      "qdrant_id": "a3971b91-9507-5080-a438-fdfd355d50ff",
+      "text": "domination enables hooks to condemn not only capitalism, but also sexism, patriarchy, racism, and imperialism. hooks observes a problem with loving in accordance with exchange relations, for love cannot genuinely be given to another in exchange for something else. But in patriarchal society, “women being the gender in touch with caring emotions would give men love, and in return men, being in touch with power and aggression, would provide and protect.”372 A conscious trading of love and care for security and protection is a measurable exchange, one which fails to recognize that both sides need all of these things. She applies her critique of domination to patriarchy: “Love can never take root in a relationship based on domination and coercion. . . . [T]here can be no love when there is domination.”373 Domination, for hooks, indicates a “power over” relation, where the dominant power keep…",
+      "source": "Richard Gilman-Opalsky - The Communism of Love_An Inquiry into the Poverty of Exchange Value-AK Press.pdf",
+      "chunk_index": 136,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71797335,
+      "importance": 0.7535524964332581,
+      "final_score": 0.7179734110832214
+    },
+    {
+      "id": "f83b3355a6fa856be54b8c90",
+      "qdrant_id": "b2edbe41-b90f-5cfe-905e-e81f087345c8",
+      "text": "thus must disregard the vast amount of empirical evidence suggesting that love is no less primary than power, and that it is also a powerful and invisible mover of social relationships. In reducing women’s love (and desire to love) to patriarchy, feminist theory often fails to understand the reasons why love holds such a powerful sway on modern women as well as on men and fails to grasp the egalitarian strain contained in the ideology of love, and its capacity to subvert from within patriarchy. Patriarchy certainly plays 6 Introduction: The Misery of Love a central role in explaining the structure of relationships between the sexes and the uncanny fascination which heterosexuality still exerts on them, but it alone cannot explain the extraordinary grip of the love ideal on modern men and women. This book thus wants to outline a framework in order to identify the institutional causes for …",
+      "source": "Eva-Illouz-Why-Love-Hurts_-A-Sociological-Explanation-_2013_-Polity-Press_-libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7174965,
+      "importance": 0.7607983350753784,
+      "final_score": 0.7174963355064392
+    },
+    {
+      "id": "d2099ed9c2aa1dfe8356b83e",
+      "qdrant_id": "206280b0-1e08-587e-910d-a4aed07add15",
+      "text": "ethics as reluctant to “altogether rule out universal norms.”6 Similarly, feminist ethics is based on “the principle of equality,” and on individual rights and freedom, but it is equally committed to “the participation of all in human solidarity.”7 Christian feminists speciﬁ cally are con- cerned with the virtues of agape and self-sacriﬁ ce, but, committed to the equality and solidarity of all, they are critical of the fact that his- toric Christianity has exalted suffering and exhorted it more for women than for men. Thus it is important for Christian feminists to insist on equality, mutuality, and justice in relationships, even though they see love, sacriﬁ ce, and care as virtues for both women and men.8 In a second essay, Farley responds constructively to the challenge of deﬁ ning the meaning of just relationships by proposing a feminist read- ing of Kantian “respect for persons.” Her interest in this fundamen-",
+      "source": "Maura A. Ryan_ Frian F. Linnane - Just and True Love_ Feminism at the Frontiers of Theological Ethics_ Essays in Honor of Margaret Farley (2008, University of Notre Dame Press) - libgen.li.pdf",
+      "chunk_index": 76,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7172362,
+      "importance": 0.7571619153022766,
+      "final_score": 0.7172362804412842
+    },
+    {
+      "id": "53ac4568b570f6787b35e93e",
+      "qdrant_id": "f28d7f8d-4867-5665-91e5-e07fcf8bd5f2",
+      "text": "validated and sustained. Romantic joy and suffering is no longer considered in a cultural and symbolic framework that might lend it moral sense and dignity, but is instead held up as evidence of the self-defeating delusion of love, and as proof that people – especially women – should invest their emotions more strategically. Such has become the importance to us of freedom of choice in our personal lives that promise-making is no longer associated with a deepening of social ties and an enrichment of their meaning, and faithfulness is instead experienced as an obstacle to our rational autonomy and self-realisation. Feminist psychoanalysis has exposed this fetishising of reason and transcendence as a masculine",
+      "source": "Finn Bowring - Erotic Love in Sociology, Philosophy and Literature_ From Romanticism to Rationality (2019, Bloomsbury Academic) - libgen.li (1).pdf",
+      "chunk_index": 31,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7170788,
+      "importance": 0.7675109505653381,
+      "final_score": 0.7170787453651428
+    },
+    {
+      "id": "65a036ca5c0454da3af4fc06",
+      "qdrant_id": "b81da3e5-d2e5-5d72-b9ba-a9ea626986cb",
+      "text": "two reasons. It both disassociates these markers of success from women or gender non-binary people who might value and achieve them and under­ mines the manhood of those men blocked by homophobia, classism, rac­ ism, and other forms of oppression from attaining success so defined. An ideal of androgyny capable of grounding a visionary feminism in which all women and men are free to organize their lives and relationships entirely unconstrained by gender seems especially fitting for bell hooks’ emancipatory aspirations. She returns throughout her work to the need to grant boys “the same rights as girls” and for boys and men “every right that we desire for girls and women” (2000, 71, 2004b, 111). She locates the start of her own critical thinking on maleness in childhood, specifically in witnessing the distinctly gendered ways in which she and her brother were treated. “Although we were often confused, we knew one fact for B. ALMASSI",
+      "source": "Ben Almassi - Nontoxic_ Masculinity, Allyship, and Feminist Philosophy (2022, Palgrave Macmillan) - libgen.li (1).pdf",
+      "chunk_index": 172,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7158172,
+      "importance": 0.7600910067558289,
+      "final_score": 0.7158174514770508
+    },
+    {
+      "id": "4fe21d96b130f18142b63021",
+      "qdrant_id": "1700f7cf-69c3-59ed-9dc1-0fea8a72ec0d",
+      "text": "male sense of, on the one hand, the place of the maternal (womb) and, on the other hand, the place within a perfectly created universe. Recognition of this alienation can move us to a radical feminist conception of gender and infinitude. A radical feminist conception informs my own proposal to place yearning at the heart of feminist philosophy of religion. It attempts to capture what Ricoeur calls the infinitude of spiritual feelings (or what I have called the eschatological and symbolic order) beyond the idolatrous and exclusive desire for the absolute. Yearning constitutes a place where differences can meet in the desire to live well for and with others. As the African-American feminist bell hooks explains, under the heading Yearning ... I looked for common passions, sentiments shared by folks across race, class, gender, and sexual practice, I was struck by the depths of longing in many of us. ... The shared space and feeling of 'yearning' opens up the possibility of",
+      "source": "Eugene Thomas Long - Issues in Contemporary Philosophy of Religion (STUDIES IN PHILOSOPHY AND RELIGION Volume 23) (2001).pdf",
+      "chunk_index": 150,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7157695,
+      "importance": 0.766010582447052,
+      "final_score": 0.7157698273658752
+    },
+    {
+      "id": "dc5f99eff9a284307dd3a429",
+      "qdrant_id": "f3650c6b-6adc-5d86-b0e7-1152e6227aa2",
+      "text": "and injure certain bodies”.15 To practice love is to unsettle the epistemic hierarchies that authorise particular kinds of knowledge at the expense of others. Love therefore requires not only an extension of one’s own prac- tices of knowing but also a reorientation towards others as knowers. Domination may lead to the annihilation of love and the reproduction of epistemic hierarchies, but domination is rarely celebrated as a virtue in itself. hooks notes that the most socially acceptable expression of domina- tion in capitalist societies is the desire for accumulation and profit: “The will to sacrifice on behalf of another, always present when there is love, is annihilated by greed”.16 The concept of love as a corrective to self-interest and domination through avarice has become a touchstone for critical the- orists and philosophers concerned with the moral effects of capitalism. Popular moral paradigms of compassion, charity, and forgiveness each rely",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li.pdf",
+      "chunk_index": 33,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71513265,
+      "importance": 0.7611067295074463,
+      "final_score": 0.7151327729225159
+    },
+    {
+      "id": "ce0e02111f52bc376035ecc3",
+      "qdrant_id": "6e9abfcd-3239-5ca7-92bc-f8eff806fe46",
+      "text": "practice and feeds ‘the mutually-reinforcing poles of academic- élitism and anti- intellectualism’ (Sayer, 1984/1992 : 98). This has great relevance in the context of feminist accounts of heterosexual love, which too often fail to theoretically acknowledge and integrate the good reasons women have for loving men, even when it reproduces their subordination. In its tendency to reduce women’s love of men to a matter of patriarchal ideology (Jónasdóttir, 2014 ), feminism has failed to make sense of women’s lived reality, thereby, as hooks ( 2002 ) points out, alienating the majority of women from feminism. Instead of understanding power only as an effect of discourse or ideology or in the radical feminist terms of dominance and violence, Jónasdóttir anchors her account of oppressive power in a notion of the basic, creative power we have as sexual beings. She aligns with the view of the agency/structure relation endorsed",
+      "source": ", - The Contradictions of Love (Towards a feminist-realist ontology of sociosexuality) __ (2014, Routledge) [10.4324_9781315851464] - libgen.li.pdf",
+      "chunk_index": 238,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71448934,
+      "importance": 0.7668899893760681,
+      "final_score": 0.7144894599914551
+    },
+    {
+      "id": "ebc40357d15a9cbb3dc86c9c",
+      "qdrant_id": "8ea633fc-eb8c-5d73-acef-1e354a0e0e09",
+      "text": "of male and female being, refusing to privilege one over the other. e soul of feminist politics is the commitment to ending patriarchal domination of women and men, girls and boys. Love cannot exist in any relationship that is based on domination and coercion. Males cannot love themselves in patriarchal culture if their very self-deﬁnition relies on submission to patriarchal rules. When men embrace feminist thinking and practice, which emphasizes the value of mutual growth and self-actualization in all relationships, their emotional well-being will be enhanced. A genuine feminist politics always brings us from bondage to freedom, from lovelessness to loving. “Mutual partnership is the foundation of love. Feminist thought and action create the conditions under which mutuality can be nurtured.” A true comrade and advocate of feminist politics, John Stoltenberg has consistently urged men to develop an ethical sensibility that would enable",
+      "source": "Bell Hooks - The Will to Change_ Men, Masculinity, and Love (2004, Washington Square Press) - libgen.li.pdf",
+      "chunk_index": 297,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71421015,
+      "importance": 0.7580773234367371,
+      "final_score": 0.7142100930213928
+    },
+    {
+      "id": "ef389a8425e4a2ceb9134530",
+      "qdrant_id": "f50659b5-b24a-5081-be13-07d3ff59be9c",
+      "text": "of ethics, feminism has mounted a sustained critique of the supposed neutrality of universalism and a concomitant attention to gender, race, and class in their speciﬁcs, and a wariness with regard to favoring ab- straction at the expense of the particularities of embodiment, emotion, and affect. The ethics of care, introduced originally by Carol Gilligan’s work (1982), has proved especially inﬂuential in providing a seemingly solid foundation on which to build a feminist ethics that not only looks very different from its masculinist counterparts, but has empirically de- scriptive as well as normative components. Its appeal as an important component in the context of bioethics is hardly surprising. Aside from the developments pursued by avowed postmodernists, however, that ﬁrst conﬁdent challenge to the script of modernism hasn’t greatly disrupted Beyond the Body of Bioethics 15",
+      "source": "(Basic Bioethics) Margrit Shildrick, Roxanne Mykitiuk - Ethics of the Body_ Postconventional Challenges -The MIT Press (2005).pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71364987,
+      "importance": 0.7648463845252991,
+      "final_score": 0.7136499881744385
+    },
+    {
+      "id": "7d5dcf206a0a6cdee5b71224",
+      "qdrant_id": "7980430a-3fde-5589-91c5-f5db053859ae",
+      "text": "20. Margaret A. Farley, “How Shall We Love in a Postmodern World?” Annual of the Society of Christian Ethics 14 (1994): 7. 21. Ibid., 9. 22. Farley, “Feminism and Universal Morality,” 178. 23. Margaret A. Farley, “A Feminist Version of Respect for Persons,” in Curran, Farley, and McCormick, Feminist Ethics, 164–83. 24. Farley, “How Shall We Love in a Postmodern World?” 13–14. 25. Farley, “A Feminist Version of Respect for Persons,” 167. 26. Ibid.; emphasis added. 27. Ibid., 177. 28. Farley, “Feminism and Universal Morality,” 184. Although I have only touched on it here, the question of free choice has been a longstanding interest for Farley and is the subject of current work in progress. See Margaret A. Far- ley, “Freedom and Desire,” in The Papers of the Henry Luce III Fellows in Theol- ogy, vol. 3, ed. Matthew Zyniewicz (Atlanta: Scholars Press, 1998), 57–73. Introduction 15",
+      "source": "Maura A. Ryan_ Frian F. Linnane - Just and True Love_ Feminism at the Frontiers of Theological Ethics_ Essays in Honor of Margaret Farley (2008, University of Notre Dame Press) - libgen.li.pdf",
+      "chunk_index": 63,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7134483,
+      "importance": 0.7611072063446045,
+      "final_score": 0.7134484648704529
+    },
+    {
+      "id": "e9a8f0446167712ddd0ae9d3",
+      "qdrant_id": "9682eca8-04cf-5acd-8d4d-e82f1553056a",
+      "text": "(1995) or Eva Illouz's Consuming the Romantic Utopia (1997), we find love intertwined with capitalism - marketized, commodified, bought and sold. What are we to make of all this? How can we find a way through all this love talk, and what can we take from it to begin the task of thinking intimacy as democracy? What do we mean - to borrow a phrase from David Oswell (1998) - by 'true love in queer times'? In particular, we need to attend to the dominant scripting of love in terms of long-term monogamous heterosexual pairing - inscribed and legitimated in the institution of marriage (see also chapter 3). There is plenty of work, most notably by feminist scholars, which seeks to critique marriage as the bedrock of patri­ archal domination (e.g. O'Donovan, 1993); nevertheless, as we have already seen, marriage remains the centrepiece for models of romantic attachment, and the ta…",
+      "source": "David Bell, Jon Binnie - The Sexual Citizen_ Queer Politics and Beyond (2000) - libgen.li.pdf",
+      "chunk_index": 385,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7126322,
+      "importance": 0.7626755237579346,
+      "final_score": 0.7126323580741882
+    },
+    {
+      "id": "0221918cac28abc0d88331a2",
+      "qdrant_id": "83736baa-12d9-5cb7-b784-95d55a4cbd76",
+      "text": "To Thomas and Frederick, because some love is simple and obvious. Jami too, even though she doesn’t believe in the stuff vii 1 \u0007Introduction\b 1 Simon Cushing 2 \u0007Making Room for Love in Kantian Ethics\b 25 Ernesto V. Garcia 3 \u0007Iris Murdoch and the Epistemic Significance of Love\b 39 Cathy Mason 4 \u0007‘Love’ as a Practice: Looking at Real People\b 63 Lotte Spreeuwenberg 5 \u0007Love, Choice, and Taking Responsibility\b 87 Christopher Cowley 6 \u0007Not All’s Fair in Love and War: Toward Just Love Theory\b 101 Andrew Sneddon 7 \u0007Doubting Love\b 125 Larry A. Herzberg 8 \u0007Love and Free Agency\b 151 Ishtiyaque Haji Contents",
+      "source": "Simon Cushing (editor) - New Philosophical Essays on Love and Loving (2021, Palgrave Macmillan) - libgen.li (1).pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7125982,
+      "importance": 0.7609830498695374,
+      "final_score": 0.7125981450080872
+    },
+    {
+      "id": "bb8ab8f8fba316018487b030",
+      "qdrant_id": "28b87c1c-79ca-5bad-a3ac-beede392c1d3",
+      "text": "Feminism, for instance, appeals to enlightenment values, in its reason- able demands for social justice and gender equality. It would be hard for anyone to argue with such aims, except that enlightenment values deny a great part of human experience, much of which is irrational. Love, in par tic u lar, is never quite comfortable with reason. One neither approves nor disapproves of this disjunction. Ovid seems to have found it regret- table that the craziness of Venus and Cupid could be so threatening to social order and the lives of individuals. But there it is, and one way or another, we contrive to live with it. How do we manage? How do we bear it? These are difﬁ cult ques- tions to which these poems provide insight if not answers. x • tr anslator’s preface",
+      "source": "Ovid - Love Poems, Letters, and Remedies of Ovid-Harvard University Press.pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71176267,
+      "importance": 0.7617343068122864,
+      "final_score": 0.7117627859115601
+    },
+    {
+      "id": "bc8223dfc2bfd51f8e7b0bdc",
+      "qdrant_id": "ed925967-484e-586f-aa9c-4e2f16e209c5",
+      "text": "of happiness. At the same time, love is hemmed with imperatives and taboos that imbue it with numerous often-contradictory social meanings: “love is blind” versus “love is seeing clearly,” “all is fair in love and war” versus “love is kindness,” “if you love them, never let them go” versus “if you love them, set them free.” These different love-narratives create a complex set of normative constraints reflected in cultural attitudes toward love. These attitudes are embedded in the minds of individuals and guide their experi- ences and practices of love. These love-narratives specify the appropriate circumstances, objects, ways of feeling, expressing, and acting in love. Due to their widely accepted status and normative force, the resulting attitudes The Moral Psychology of Love (or How to Think About Love) Introduction Arina Pismenny and Berit Brogaard",
+      "source": "(Moral Psychology of the Emotions) Arina Pismenny (editor), Berit Brogaard (editor) - The Moral Psychology of Love-Rowman & Littlefield (2022).pdf",
+      "chunk_index": 12,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.710942,
+      "importance": 0.7615547776222229,
+      "final_score": 0.7109420895576477
+    },
+    {
+      "id": "0db595eeda31f89faebc1f6c",
+      "qdrant_id": "45546163-c4b6-5450-9bf0-49958dbdbf40",
+      "text": "Contents Introduction: Love is love is love 1 1 Eros in ancient Athens 15 Eros, erastes, eromenos 17 All things in moderation 20 Greek pederasty and the problematisation of pleasure 23 Philia, friendship and reciprocity 28 2 Platonic love 31 The Symposium: Phaedrus and Pausanias 32 Aristophanes 35 Socrates and Diotima 39 The ladder of love 41 What about me? 44 Love in Plato’s Phaedrus 49 Enter Alcibiades 52 The double flame 54 The anthropology of love 57 3 Courtly love 61 Tristan and Iseult 63 The cautery of desire 67 The religious origins of courtly love 69 Eros vs agapē 73 The feminism of love 76 The sanctity of the person 81 4 Affective individualism and the conjugal family 87 A family state of mind 88 Love before modernity 89 The sexual revolution 92 Women in early capitalism 95 Affective indivi…",
+      "source": "Finn Bowring - Erotic Love in Sociology, Philosophy and Literature_ From Romanticism to Rationality (2019, Bloomsbury Academic) - libgen.li (1).pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7108306,
+      "importance": 0.7625731229782104,
+      "final_score": 0.7108305096626282
+    },
+    {
+      "id": "8bf111ec91e131b2edb4068a",
+      "qdrant_id": "27efc321-d7a3-599b-a2af-b1ff92dd62fe",
+      "text": "pleasures. While love is on the one hand valorised it has also been dismissed as a delusion, a restriction of freedom, and a distraction from more urgent political agendas. Jean-Paul Sartre, for example, dismisses love as a form of escapism that avoids or distracts from the difﬁcult and painful reali- ties of life. For him it also involves an attempt to dominate the other and to limit her or his freedom and this inevitably ends in hatred and cruelty (Sartre 1995: 364–412). Following Freud, love is often perceived as delu- sional – it involves idealisation such that it is not the beloved who is adored but an ideal phantom. For Freud, all love is either narcissistic or anaclitic: it involves projections onto the other of either the self or of the founding love experienced with either the mother or father. What is loved is not the other but the image of the self or parent imposed upon the other (Ferrell 1996: 47–55). Feminist theorists have also been wary of love,",
+      "source": "Linnell Secomb - Philosophy and Love_ From Plato to Popular Culture-Edinburgh University Press (2007).pdf",
+      "chunk_index": 475,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.71073014,
+      "importance": 0.7625365853309631,
+      "final_score": 0.7107303738594055
+    },
+    {
+      "id": "ca45eaee2c86fa51a54ba8bc",
+      "qdrant_id": "d2b377b7-b796-5733-bc70-1af71055f748",
+      "text": "ploded, the romance of black women for black women was creating its own epistolary subcultures, along with emerging solidarities among other mi- nority groups: Jewish, Chicana, women with disabilities, and the like.4 As Audre Lorde put it in 1984, “We have to consciously study how to be tender with each other until it becomes a habit because what was native has been stolen from us, the love of Black women for each other” (Lorde, “Eye to Eye,” 175). The letters and letter literature I have assembled show that all these groups believed that love among women was essential to their libera- tion, an erotic form of class consciousness that went way beyond traditional calls for brotherhood in men’s class struggles. The letter was a textual look- ing glass through which women could pass to ﬁ nd themselves again in love with their own kind. We can understand much of feminist epistolary culture by looking at the",
+      "source": "Margaretta Jolly - In Love and Struggle_ Letters in Contemporary Feminism-Columbia University Press (2008).pdf",
+      "chunk_index": 39,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.71059763,
+      "importance": 0.7608216404914856,
+      "final_score": 0.7105976343154907
+    },
+    {
+      "id": "aab5c22b8dde9469169c74f3",
+      "qdrant_id": "46997653-6271-5e3a-b711-93cf4cf17d63",
+      "text": "the opposite direction, however, Cindy Patton (1999, p. 370) con­ fesses that she 'can't quite bring myself to formulate or advocate a new politics of love [L]ove is too dangerous a basis for social politics' in response to the AIDS crisis, since the new politics of love asserts a community-based ethic of care in place of the bond made by sex. What these calls to love all share, in their different ways, is an acknowledgement of the need to reformulate what love means - for Munt this entails love's deromanticization, while for Giddens our conception of intimacy must be rewritten away from the (similarly romantic) scripts of long-term monogamous heterosexuality (tak­ ing us towards 'confluent love' and 'pure relationships'). Being proscriptive about new modes of loving is clearly a difficult task, as evidenced by the often vague ways it is discussed by theorists. Perhaps this …",
+      "source": "David Bell, Jon Binnie - The Sexual Citizen_ Queer Politics and Beyond (2000) - libgen.li.pdf",
+      "chunk_index": 432,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7096408,
+      "importance": 0.7561101913452148,
+      "final_score": 0.7096407413482666
+    },
+    {
+      "id": "119d055395a0cbe49d78ebdd",
+      "qdrant_id": "54e177a8-0a0e-5ffb-806f-f8ef7bd14f84",
+      "text": "fer considerable evidence against such a view, there can be no deny- ing that courtly love conventions tended to discipline the behaviors of men and women pursuing sexual partnerships, often in ways that must have entailed considerable suffering. As practiced today, the con- ventions of romantic love are still strict and conﬁ ning. However, it is wrong to suppose that such restrictions have supported a patriarchal hegemony. Because the concept of desire-as-appetite was itself reduc- tionistic and stigmatizing in its effects, love offered, at least for some, an escape from these effects. Because many troubadour songs depict the beloved lady as cool and indifferent, Lacanian scholars reasoned, the women whom troubadours said they loved were actually not permitted to have desires. In trouba- dour lyric, and courtly love literature more broadly, men appeared to possess a monopoly of …",
+      "source": "William M. Reddy - The Making of Romantic Love_ Longing and Sexuality in Europe, South Asia, and Japan, 900-1200 CE (2012, University of Chicago Press) [10.7208_9780226706283] - libgen.li.pdf",
+      "chunk_index": 93,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival",
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70842576,
+      "importance": 0.7634854316711426,
+      "final_score": 0.7084259390830994
+    },
+    {
+      "id": "fc8e673e5bbbf61f240ceb62",
+      "qdrant_id": "5204f073-bf20-522d-a234-4cf42d6affcd",
+      "text": "knowledge of them and understand their meaning. Resisting specific parts of the technoculture, or seeking to renegotiate their relevance, requires that the lines between black-boxing and understanding are redrawn by the resisters. The examples within this and other chapters - and they can be multiplied many times - of third-world women's environmental struggles, and first-world women's campaigns over Genome and reproduction, show the capacity to go beyond black­ boxing, to enter the terrain of science and to construct new definitions of reality, infused with a feminist understanding of caring. Within these examples we see feminism bringing love to knowledge and power. It is love, as caring respect for both people and nature, that offers an ethic to reshape knowledge, and with it society.",
+      "source": "Hilary Rose - Love, Power and Knowledge_ Towards a Feminist Transformation of the Sciences (1994, Polity Press) - libgen.li (1).pdf",
+      "chunk_index": 156,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7081317,
+      "importance": 0.7792605757713318,
+      "final_score": 0.708131730556488
+    },
+    {
+      "id": "7a9678feea6fc9a1b043cda5",
+      "qdrant_id": "cea3f518-4163-5c65-8299-6941caa3510e",
+      "text": "enhancing the values of equality, mutuality and respect. Next, to pro- tect and maintain free, loving, and just sexual relationships implies and requires (2) justice in the social institutions in which sexual rela- tionships are formed, especially gender justice (for example, in mar- riage and family). Finally, the “preferential option for the poor” and solidarity with women worldwide implies that (3) some basic moral values are shared in different contexts, especially in regard to justice for women and justice in sexual relationships. PERSONAL FREEDOM The obvious reason for the prominence of autonomy and choice in the feminist agenda is the context of patriarchy that gave rise to feminism Feminist Theology and Sexual Ethics 23",
+      "source": "Maura A. Ryan_ Frian F. Linnane - Just and True Love_ Feminism at the Frontiers of Theological Ethics_ Essays in Honor of Margaret Farley (2008, University of Notre Dame Press) - libgen.li.pdf",
+      "chunk_index": 80,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7080973,
+      "importance": 0.7531255483627319,
+      "final_score": 0.7080972194671631
+    },
+    {
+      "id": "b730679d37e78efb32b00f0b",
+      "qdrant_id": "03e2857f-be89-55ad-97a4-6f0df307060c",
+      "text": "Catharine MacKinnon tried the first sexual harassment case and was re- 9. The most salient discussion of the trials I have encountered is, not surprisingly, bell hooks's \"The Feminist Challenge: Must Every Woman Be a Sister?\" (Zeta Magazine, December 1991). My own account here had already been written, but the importance of her essay must be noted. Hooks makes the wonderful, dead-on point that Hill herself is not (or was not then) a feminist and that that changes everything.",
+      "source": "Margaret Ferguson, Jennifer Wicke, Mary Poovey - Feminism and Postmodernism (A Boundary 2 Book) (1994) - libgen.li.pdf",
+      "chunk_index": 101,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70796764,
+      "importance": 0.7543875575065613,
+      "final_score": 0.7079675793647766
+    },
+    {
+      "id": "7fdd723f70ac9ef60bc21af5",
+      "qdrant_id": "5c8c5974-31b4-57c0-85b8-7deee5c126ac",
+      "text": "MISTRESS ETHICS 20 called marriage nor god’.47 The Mistress is compelled to be in touch with the erotic, since the sex she has is always wrong, constantly judged – so too is her body, for being outside of what is ethical in the conventional sense. The need for kindness, as well as its revolutionary power, expands exponentially in line with the frequency that a given body is in touch with the erotic. The erotic is not simply a sexual power but a general connective force, compelling us to do what is kind, but not necessarily what is easy. Unlike niceness, there is room within kindness to respond with fury, rage and passion. It can demand change and responses that are not easy. Kindness is, at its heart, a love ethic, which as bell hooks wrote in all about love, living such an ethic is fundamentally active and means to let that love guide, and become, behaviour.48 You can’t fake…",
+      "source": "Victoria Brooks - Mistress Ethics_ On the Virtues of Sexual Kindness (2022, Bloomsbury Academic) - libgen.li (1).pdf",
+      "chunk_index": 73,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70788026,
+      "importance": 0.7498877644538879,
+      "final_score": 0.7078801989555359
+    },
+    {
+      "id": "071f724b458f88c2df0c73ca",
+      "qdrant_id": "e1320fd7-d5ee-5aab-b2d2-20145f2ddcb1",
+      "text": "do to live well. Love receives pride of place among other emotions by being featured in the title of her essay collection on philosophy and literature and by inspiring some of her most moving rhetoric. But, for her, love derives its value from epistemology. Love itself is not Nussbaum’s goal. Love’s Knowledge is. Whether we do anything with that knowledge is another question. In Landy’s recent critique of Nussbaum, he points out that according to Nussbaum’s view of love as a motivating emotion for ethics (rather than a foundational condition as I am suggesting), “there is nothing whatsoever to prevent us from taking an intensive, vigorous, sustained, detailed, painstaking interest in the entanglements of other lives while remaining entirely remote from the moral fray.”18 Furthermore, Nussbaum’s language of “ethical engagement” and “agency” presumes a metaphysical separation be…",
+      "source": "Cassandra Falke - The Phenomenology of Love and Reading (2016, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 231,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70652103,
+      "importance": 0.7558139562606812,
+      "final_score": 0.7065208554267883
+    },
+    {
+      "id": "893bd918dfb74cc912de0700",
+      "qdrant_id": "df8d1e1b-a6cc-5ced-8532-94302bb695ee",
+      "text": "Habermas’s and Benhabib’s idealized communicative rationality. Acknow­ ledging the passionate and ambivalent dimensions of democratic politics, hooks links collective struggles against oppression not only to love and eth­ ical accountability but also to the necessary confrontation with the internal conflict, aggressivity, and the division of the subject. As this brief synopsis of my main arguments demonstrates, I do not pro­ pose a unified seamless ethical theory but, by presenting ethics as a contested terrain, I dramatize a certain unavoidable dispersal of the ethical into a plu­ rality of language games. Since the strength of my approach is not based on a single thread running through all the language games but, as Wittgenstein and Lyotard are fond of saying, on many threads intertwined with each other, the individual chapters can be read either as parts of the overall argu­ men…",
+      "source": "Ewa Płonowska Ziarek - An Ethics of Dissensus_ Postmodernity, Feminism, and the Politics of Radical Democracy (2001, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 54,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7057421,
+      "importance": 0.7612298130989075,
+      "final_score": 0.7057422399520874
+    },
+    {
+      "id": "d5662d0b42777d8c62da66a8",
+      "qdrant_id": "f41a8fa5-4fe6-5b64-8a5f-7954a5aa791a",
+      "text": "10 Introduction: The Misery of Love marked the new role of love for social mobility. But far from marking the demise of economic calculus, it in fact deepened it, as women and men would increasingly move up (and down) the social ladder through the social alchemy of love. Because love made the ﬁ t between marriage and strategies of economic and social reproduction less explicit and formal, the modern choice of a mate progressively included and mixed both emotional and economic aspirations. Love now incorporated and contained rational and strategic interests, merging the economic and emotional dispositions of actors into one single cultural matrix. One of the key cultural transformations accompanying modernity was thus the co-mingling of love with eco- nomic strategies of social mobility. This is also why this book con- tains a number of methodological biases: it addresses heterosexual love more markedly than homosexual love because the former con-",
+      "source": "Eva Illouz - Why Love Hurts_ A Sociological Explanation (2013, Polity Press) - libgen.li.pdf",
+      "chunk_index": 44,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70574003,
+      "importance": 0.7566962838172913,
+      "final_score": 0.7057399749755859
+    },
+    {
+      "id": "c23d7f000bd817de2ec7421e",
+      "qdrant_id": "c4bcd64b-3131-5e6a-af8f-2cc60450a6ab",
+      "text": "11 of love in the world. Ontological ruptures in the lifeworld of the subject cannot be shared with others without a substantive loss of meaning, and such theories can have an almost solipsistic resistance to the study of love as it is ordinarily understood or practised. In All About Love, by contrast, hooks emphasises the importance of purposeful love as foundational to our capacity to extend love outwards, and discusses a diversity of exem- plars for viable practices of love.28 However, hooks’ definitions of love are developed through moral reasoning, rather than causal explanation: To return to love, to know perfect love, we surrender the will to power. … We cannot know love if we remain unable to surrender our attachment to power, if any feeling of vulnerability strikes terror in our hearts.29 The will to power is borne of desiring attachments because attachment seeks to con…",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li (1).pdf",
+      "chunk_index": 43,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7054308,
+      "importance": 0.7479432225227356,
+      "final_score": 0.7054308652877808
+    },
+    {
+      "id": "cb102ae6aad5da3014c7f158",
+      "qdrant_id": "5345c950-6585-5337-a13f-44314a734994",
+      "text": "love.” The expression had long meant promiscuity, the cir- culation of bodies, easy lays. Now we have to understand it at a higher level as the oxymoron par excellence, the im- probable union of belonging and independence, a new sys- tem that affects us all, whatever our milieu, our opinions, our inclinations. How can love, which attaches, be compat- ible with freedom, which separates? The field of love is divided between two great discourses that pass through multiple channels: the discourse of la- ment and the discourse of subversion. For the former, the truth of love was lost somewhere between the troubadours and the Romantics; for the latter, it is still to come, when humanity, having rid itself of its bourgeois trappings, has broken its last chains. This gives rise to two contradictory projects: restoring and overthrowing. Erasing the accursed parenthesis of the sixties, rehabilitating the traditional fam- ily, repealing the rights accorded women, or, inversely, do-",
+      "source": "Pascal Bruckner, Steven Randall, Richard Golsan - The Paradox of Love (2012, Princeton University Press) - libgen.li.pdf",
+      "chunk_index": 10,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70531607,
+      "importance": 0.7580240964889526,
+      "final_score": 0.7053162455558777
+    },
+    {
+      "id": "75f91d74766edfd206fdae4b",
+      "qdrant_id": "5892b308-5415-5b48-abda-4aa3d91fdc24",
+      "text": "116 forever. It is also a love that presumes gender equality, a distinct change from the fantasies of romantic love that foster gender imbalance and fre­ quently sour into nightmares of sexual violence and domestic subjection (Giddens 1992, 62). As a love contingent upon mutual advantage, it is also adaptable to evolving views of what kinds of benefit and satisfaction love ought to deliver; as Fekete clarifies, twenty-first-century revisions of confluent love include reciprocal sexual satisfaction as a conditional factor (2022, 6). Most importantly, it is a love contingent upon the caring, atten­ tive and mutual fulfilment of each partner’s potential, enhancing the reparative quality of romantic love. Aspects of this confluent ideal are portrayed in Austen-vampire mash­ ups. For instance, bell hooks claims that a perfect love “gives us the cour­ age to face reality, to embrace our…",
+      "source": "[Palgrave Gothic] Eric Parisot - Jane Austen and Vampires_ Love, Sex and Immortality in the New Millennium (2024, Palgrave Macmillan) - libgen.li.pdf",
+      "chunk_index": 428,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7048633,
+      "importance": 0.7512108683586121,
+      "final_score": 0.7048633694648743
+    },
+    {
+      "id": "e595323c1cf44757cab9f57d",
+      "qdrant_id": "586ec082-e911-5f72-8544-22af9f0d3c87",
+      "text": "as women move towards greater equality. Yet Beauvoir’s insistence on the signiﬁcance of freedom, equality and mutual recognition in the love rela- tion constitutes an important challenge to existing theories and the basis for a critique of theories founded on self-sacriﬁce, boundless generosity, and unconditional bestowal of love. Simone de Beauvoir’s Desperate Housewives 41",
+      "source": "Linnell Secomb - Philosophy and Love_ From Plato to Popular Culture (2007, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 159,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.704675,
+      "importance": 0.7583827376365662,
+      "final_score": 0.7046750783920288
+    },
+    {
+      "id": "59765c14a5524bc52462ed02",
+      "qdrant_id": "06b3b100-0819-520c-92a9-45efc7a5ebdf",
+      "text": "hand, the danger is evident in the male aspiration to be infinite. On the other hand, there would seem to be a similar danger in the female aspiration to become divine. With an aspiration to be all there is a subject eclipses others. A critical embrace of bodies would reform this aspiration and our thinking. It should also challenge our physical, sensual and material relations with others. hooks's conception of yearning is compatible with the political intent of contemporary feminist philosophy to develop social epistemology. The core concern in feminist social epistemology is to see reality from alternative points of view, i.e. to refuse to allow inertia to blind us from the reality of other lives and so a larger social world than one's own. Moore and Ricoeur each account for the inevitable finitude of a person's point of view. Moreover, the tradition going back to Augustine exhibits two sorts of responses to this",
+      "source": "Eugene Thomas Long - Issues in Contemporary Philosophy of Religion (STUDIES IN PHILOSOPHY AND RELIGION Volume 23) (2001).pdf",
+      "chunk_index": 162,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70432734,
+      "importance": 0.756127119064331,
+      "final_score": 0.7043272852897644
+    },
+    {
+      "id": "dcf52708f40639d50a4959ee",
+      "qdrant_id": "73e7f682-d66d-52ef-9b1b-482a13f3a089",
+      "text": "choices in the right direction. However, it cannot help us in resolving personal love conflicts or help us to build a loving moral character. I then consider Frankena’s virtue ethics of love, borrowing the notion of an agentic aretaic judgment to “be loving”. I read this judgment through the lenses of a relational theory of lan­ guage and a phenomenological ethics. From Husserl’s phenomenological inter­ pretation of love and its values emerged a rich relational love ethics grounded in love-​values. Love-​values are deeply rooted in our egoic psyche; although conflicts might arise among them, they inspire an obligation in us to care for ourselves and the other. Indeed, it is in ourselves that we find the first other. Being loving is an agentic virtue that connects us to the deepest roots of our being and demands the imperative to care for others. This connection to love-​values is the self-​evident",
+      "source": "Susi Ferrarello - The Ethics of Love_ Emotional Dilemmas for a Relational Life (2022, Routledge) - libgen.li.pdf",
+      "chunk_index": 40,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.68473065,
+      "importance": 0.7561846375465393,
+      "final_score": 0.6847304701805115
+    },
+    {
+      "id": "2d7adc487dabeddfad931b4f",
+      "qdrant_id": "2e698b23-f48f-5528-b42e-b0eb5cb29ae1",
+      "text": "history (as Jean-François Lyotard calls them in The Postmodern Condition, 1979), is in fact the site of tantalizing and plural ethical alternatives to the uni- versalizing (straight, white, masculine, middle-class and hetero-patriarchal) discourses of modernism. A book-length work devoted to the thorny question of postmodern ethics is Zygmunt Bauman’s study of that name. By bringing currents of postmodern thought to bear on ethical philosophy, Bauman has contributed to the possibility of rethinking postmodernism in ethical terms, and vice versa. He argues that rather than abandoning all interest in ‘modern’ moral questions (human rights, social justice, balancing the needs of the individual and the collective), as a radical antihumanist thinker such as Alain Badiou would propose, a postmodern ethics may instead approach these very same questions in a new way. Postmodern ethics, according…",
+      "source": "Lisa Downing, Libby Saxton - Film and Ethics_ Foreclosed Encounters (2010, Routledge) - libgen.li.pdf",
+      "chunk_index": 553,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.6843331,
+      "importance": 0.7471035122871399,
+      "final_score": 0.6843329668045044
+    },
+    {
+      "id": "7f0c6dbfe6e4ce5def0f9c7c",
+      "qdrant_id": "52e7bc02-ec2d-5da5-80a4-9a94eaba31aa",
+      "text": "Introduction 19 the case histories of Kristeva's patients amply demonstrate the suffering caused by its absence (see 'The True-Real' and 'Freud and Love'). Indicating the need for further investigation of this specifically female access to love, Kristeva expresses her hope that it may lead to the discovery of an ethics based on a new psychoanalytic understanding of motherhood: a herethics of love ('Stabat Mater'). It is this herethical ethics she finds embodied in psychoanalytic practice: 'If the analyst doesn't love his patients he ought to give up trying to cure them' (Interview in Les Cahiers du GRIF, 32, 1985, p. 21). Sustained and produced by love, psychoanalytic practice is unthinkable without it. NOTES All translations from untranslated French texts are mine. Documentation in the text and in the notes has been limited to give only the amount needed to identify a work in the list of references.",
+      "source": "Julia Kristeva (author), Toril Moi (editor) - The Kristeva Reader (1986, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 71,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.70476043,
+      "importance": 0.7635465264320374,
+      "final_score": 0.6768136024475098
+    },
+    {
+      "id": "2ab799e19f6426ee3469f860",
+      "qdrant_id": "e8cc18b8-7d20-5afc-a2fe-d60dee0d5128",
+      "text": "thing’, Rosi Braidotti argues that the strategic politics of essentialism are now the politics of change. In this brilliant reversal of the terms structuring debates on essentialism, Braidotti suggests that the denial of any essential bond is a simultaneous assertion that women have nothing in common other than oppression. This chapter continues and elaborates on Braidotti’s longstanding concern with the ethics of feminism. Her sophisticated discussion of essentialism refers both to the history of metaphysics and the metaphysical nature of philosophy. It makes clear distinctions about the implications of sexual difference and essentialism in the political context, which is Braidotti’s concern, and their implications in the psychoanalytic context. These themes carry over to the next paper, where Margaret Whitford rereads Irigaray. In this major reinterpretation Whitford argues against the…",
+      "source": "Between Feminism and Psychoanalysis (Teresa Brennan) (Z-Library) (1).pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-affirmative-ethics-vitalist-materialism"
+      ],
+      "raw_score": 0.74600613,
+      "importance": 0.7933309674263,
+      "final_score": 0.6700479388237
+    },
+    {
+      "id": "f9431043dd13dfaa901043be",
+      "qdrant_id": "b65fdbe1-e0c6-540d-81a7-ab7b236c7711",
+      "text": "(Ilana Glazer, Bridget Everett, Leslie Jones), biting self-­referential stand-up (Margaret Cho, Tig Notaro, Maria Bamford), and defiant confessional lit­er­a­ ture (Lindy West, Roxane Gay, Gabourey Sidibe). Yet, at the same time, ­these ­women are predatorily harassed with ad hominem scorn and online death threats. Again, debates about ­whether grotesque bodily display is liberating or shaming are no longer adequate in a climate of permanent carnival and rampant transgressive discourse. Feminist scholarship on affect and emotion has repeatedly refused to con- sider laughter with the same degree of nuanced complexity offered to other ambiguous expressions of emotion. Instead, many of ­these works, such as Sara Ahmed’s Cultural Politics of Emotion and The Promise of Happiness, con- sider only the negative feelings: pain, hate, fear, disgust, shame—­with “love” as the ultimate horizon of collective affirmation. Ahmed glosses over laughter,",
+      "source": "Maggie Hennefeld_ Nicholas Sammond - Abjection Incorporated_ Mediating the Politics of Pleasure and Violence (2020, Duke University Press) - libgen.li.pdf",
+      "chunk_index": 36,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.7097422,
+      "importance": 0.7649293541908264,
+      "final_score": 0.6657755970954895
+    },
+    {
+      "id": "4f777e4ebdaf38ac481aabf2",
+      "qdrant_id": "b61d9326-15d5-510a-830d-ce3025ec2751",
+      "text": "the ‘human’ in the relationship is highly variable – different peoples inevitably live in difference spaces with different creatures. The attention to complex relationships emerging historically is an important element of ecological and feminist approaches. Donna Haraway (2003) emphasises our situation of ethical relating that arises from our co-evolution with certain spe­ cies. For Val Plumwood (2000), humans have always been part of co-constitutive relations with other species and domestication cannot be entirely read as some original state of ‘fall’. Karen Davis (1995) posits that feminist concern for domes­ ticate animals involves learning from them and appreciating their lifeways, not dismissing them as ‘inauthentic’. The abolitionist/separatist position articulates the problematic dualism of civilisation and wilderness in Plumwood’s view, or a gendered denigration of the ‘tame’ or domesticated (and thereby feminised) for",
+      "source": "[Interventions] Erika Cudworth, Stephen Hobden - The Emancipatory Project of Posthumanism (2018, Routledge) - libgen.li.pdf",
+      "chunk_index": 430,
+      "page": null,
+      "seed_hits": [
+        "claire-colebrook-deleuze-feminism-extinction"
+      ],
+      "raw_score": 0.71474874,
+      "importance": 0.7833563685417175,
+      "final_score": 0.6605420112609863
+    },
+    {
+      "id": "9f5f3d2937610d1083297939",
+      "qdrant_id": "8f089000-a18d-5308-a8e5-8bd01093bdd6",
+      "text": "Patriarchy • Visionary feminism Not all resistance to rejecting masculinity and embracing androgyny has come from those who are antagonistic to feminism. bell hooks is one visionary feminist who has warned against discarding manhood or mascu­ linity too quickly. In Feminism is for Everyone (2000), We Real Cool (2004a), and The Will to Change (2004b), she sees feminist masculinity as a loving alternative to patriarchal masculinity. “Undoubtedly,” hooks says, © The Author(s) 2022 B. Almassi, Nontoxic: Masculinity, Allyship, and Feminist Philosophy, https://doi.org/10.1007/978-3-031-13071-7_4",
+      "source": "Ben Almassi - Nontoxic_ Masculinity, Allyship, and Feminist Philosophy (2022, Palgrave Macmillan) - libgen.li (1).pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.72218466,
+      "importance": 0.7622734308242798,
+      "final_score": 0.6455433964729309
+    },
+    {
+      "id": "a184cd0b49ba74b9cc4183d4",
+      "qdrant_id": "7ef80abe-5e24-5eba-8961-e897d04a901e",
+      "text": "had a right to happiness. Frank would take her in his arms, fold her in his arms. He would save her. The repetitions here, which would be clumsy in the narrator’s discourse, are the reflex of the character’s desperation as she clings to the decision she finds she has made. The second moment of decision is also more physical than it is mental. Eveline is again immobile, again torn between alternatives. This time the painfulness of the dilemma compels her into prayer, as she wrestles with the question of her double, contradictory duties. But at the final moment, when the bell clangs (‘upon her heart’ – another Joycean masterstroke of economic phrasing) and Frank urges her to accompany him, Eveline feels that she is drowning, drawn by her lover into ‘all the seas of the world’, and her paraly- sis is like that of ‘a helpless animal’. Her face registers no emotion whatever. The par…",
+      "source": "Derek Attridge - Forms of Modernist Fiction_ Reading the Novel from James Joyce to Tom McCarthy (2023, Edinburgh University Press) [10.1515_9781399512473] - libgen.li.pdf",
+      "chunk_index": 122,
+      "page": null,
+      "seed_hits": [
+        "lauren-berlant-cruel-optimism-affect"
+      ],
+      "raw_score": 0.6858865,
+      "importance": 0.7573603391647339,
+      "final_score": 0.6446413993835449
+    },
+    {
+      "id": "028ce27ee1e4d8a2a146e8de",
+      "qdrant_id": "1dfe2580-f516-56a6-b2be-2369c5ef9f01",
+      "text": "To the many feminist killjoys out there doing your thing: THIS ONE IS FOR YOU. CONTENTS ix Acknowledgments 1 Introduction Bringing Feminist Theory Home 19 PART I BECOMING FEMINIST 21 1. Feminism Is Sensational 43 2. On Being Directed 65 3. Willfulness and Feminist Subjectivity 89 PART II DIVERSITY WORK 93 4. Trying to Transform 115 5. Being in Question 135 6. Brick Walls 161 PART III LIVING THE CONSEQUENCES 163 7. Fragile Connections 187 8. Feminist Snap 213 9. Lesbian Feminism 235 Conclusion 1 A Killjoy Survival Kit 251 Conclusion 2 A Killjoy Manifesto 269 Notes 281 References 291 Index",
+      "source": "Sara Ahmed - Living a Feminist Life-Duke University Press (2016).pdf",
+      "chunk_index": 2,
+      "page": null,
+      "seed_hits": [
+        "sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy"
+      ],
+      "raw_score": 0.74276185,
+      "importance": 0.7826828360557556,
+      "final_score": 0.6419026255607605
+    },
+    {
+      "id": "f6e25be7b7f1f89b8192680f",
+      "qdrant_id": "b6d4f757-8adf-54dd-b968-c4f079ba0e92",
+      "text": "and making old things matter in new ways. By presenting love as a foundation for both ethics and epistemology, hooks belongs to a tradition of black feminist theorising around love that Jennifer C. Nash calls “love-politics”. Drawing on Alice Walker, the Combahee River Collective, Patricia Williams, and others, Nash argues 2 HOW TO DO POLITICS WITH LOVE",
+      "source": "Timothy Laurie,Hannah Stark (auth.) - The Theory of Love_ Ideals, Limits, Futures (2021, Palgrave Macmillan) [10.1007_978-3-030-71555-7] - libgen.li.pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "bell-hooks-all-about-love-feminist-love-ethics"
+      ],
+      "raw_score": 0.7823101,
+      "importance": 0.8008841872215271,
+      "final_score": 0.6345092058181763
+    },
+    {
+      "id": "145b6425ca42f3813b9a914c",
+      "qdrant_id": "2fa471a2-30c8-540e-bede-0c7337e5f2e7",
+      "text": "And in the characteristically punk combination of “innovation and annihi­ lation” she gave these women their own form of punk negation (Muñoz 98). The significance of such a specifically feminine form of negation—​that the world is not as it seems for women—​is not to be underestimated. Arguably, women have not had a negation of their own until second wave feminism, and Acker, came along. Her feminist radicalism was an abrasive heterodoxy: marriage, motherhood, the family, work, literature, and men are at best stupid and conformist, at worst, catastrophes for the punk girl; desire is explosive, but largely tamed and contaminated. Acker exposed and refused to let go of woman as object of exchange in a contemporary libidinal economy; the deep psychic pain for women that results from this position; and the cultural apparatus’s role in reproducing this formation. She held to the po…",
+      "source": "[Interdisciplinary Research in Gender] Henderson, Margarer - Kathy Acker_ Punk Writer (2021, Routledge) - libgen.li.pdf",
+      "chunk_index": 147,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.63565385,
+      "importance": 0.7303112745285034,
+      "final_score": 0.6303327679634094
+    },
+    {
+      "id": "fa27ce4b9c70153402d67ad7",
+      "qdrant_id": "193b193d-3f4c-5511-b01c-957b661cb75a",
+      "text": "1 Introduction: encountering Irigaray Luce Irigaray is a formidable and passionate presence, both in person and in her writings. She has charted a unique course of enquiry into the contemporary situation of women. In so doing, Irigaray has not identified herself with any particular movement. Irigaray declines the term ‘feminism’. She does not accept ‘- isms’ of any variety, as she indicates that they constrict the free play of exploration. ‘Male-bashing’ is also not a word that can be used to discredit Irigaray’s commitment to change both the personal and social conditions that have restricted women. She believes that a new form of relations between man and women – an ethics of sexual difference – needs to be established. This ethics and its mode of mutual recognition will foster the emergence of a culture where love can flourish. Because of these ideas, Irigaray has been regarded as a Utopian. In",
+      "source": "(Manchester Studies in Religion, Culture and Gender) Morny Joy - Divine love_ Luce Irigaray, Women, Gender, and Religion-Manchester University Press (2013).pdf",
+      "chunk_index": 9,
+      "page": null,
+      "seed_hits": [
+        "luce-irigaray-this-sex-which-is-not-one-speculum"
+      ],
+      "raw_score": 0.6899321,
+      "importance": 0.7425378561019897,
+      "final_score": 0.6271711587905884
+    },
+    {
+      "id": "1326fc60553fef083c7990d8",
+      "qdrant_id": "1274f6ab-45ad-5edd-a386-651983682bdd",
+      "text": "and a pleasure to work with. Joseph Garver has edited with care and wisdom. I am sincerely grateful to them. Love and thanks go to my family: Lou, Florence, Cecily, Meg, Pete, Sarah, Christine. John Weston Smith is missed terribly. I like to think he would have enjoyed the book; I know it would be wittier and more stylish if he had written it. xvi Acknowledgements",
+      "source": "Melancholia _ The Western Malady -- Matthew Bell, 1964- -- 1, 2014 -- Cambridge University Press (Virtual Publishing) -- 9781107069961 -- c9b616e66d7f897e4fbfc164852a29f0 -- Anna’s Archive.pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "chris-kraus-i-love-dick-autotheory"
+      ],
+      "raw_score": 0.58913654,
+      "importance": 0.6663976907730103,
+      "final_score": 0.5632878541946411
+    }
+  ]
+}

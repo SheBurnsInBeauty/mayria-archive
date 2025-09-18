@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: "lispector-\xE1gua-viva-presence-stream-of-consciousness"
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: 3be77844d3867c5fb6f0b03d
+- qdrant_id: 102639bd-a98f-589f-b497-fbba65578259
+- source: Hélène Cixous - Reading with Clarice Lispector (1990, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 12
+- importance: 0.7878
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming, lispector-água-viva-presence-stream-of-consciousness
+
+viii D INTRODUCTION poetry that comes from the rapport of the body to the social world, ecriture fem- inine disrupts social practices in the ways it both discerns and literally rewrites them. For Cixous, in Agua viva Lispector insists on the effacement of the subject, which results in opening on a limitless perspective and undoing the frame of common or representable human experience. Lispector practices what Cixous has been looking for. It is the kind of affinity she feels, the kind of shock she receives at a first reading of Agua viva, that prompts her to take a long detour through much of Lispector's work, some of which is more thematically oriented and marked in its style by existentialism. Lispector's contact with the world is immediate: her language portrays the struggle that human beings engage in with their social milieus and with themselves. Yet the writing does not work through…
+
+## Excerpt 2
+- id: 28c11146dab4220682417dc9
+- qdrant_id: 12e8a4ee-eece-56c1-8924-f70d813d7c6d
+- source: [Nomikoi_ Critical Legal Thinkers] Kyle McGee - Bruno Latour_ The Normativity of Networks (2013, Routledge) - libgen.li.pdf
+- chunk_index: 69
+- importance: 0.7840
+- seed_hits: karen-barad-agential-realism-intra-action-entanglement
+
+p<t~~ium. aucl otlw1 impc-rrnant·nt, tc•rribl) fi·agilc and local being'>, Latour's anor-net\\Ork tiH'IH)' ltdpl'd UIISl'lllt• thl' ground 011 \\ hid1 ll'llturit''> 01' lllOtkrn thought n·.,tcd and, a'> wme uott·d at tlw tinw, to ''hit h nwdt-rn sric·mi.,t~ and tt·c hnolog-ists Mill appl'ail'd in .,,·eking fi.111cb and dis'>t·minating r!'searrh. This \v.l., .111 an of war, but not cllll' tlinTtt·d c~g.1in., t tlw prartin·l> of tl11· scil'nt i.,ts aud t•nginn·rs. The t<ll'gl'l wa., tl 11• f/il.lli'lltulop,)• that, uwrlooking thuM· mmcrial. t•mpiriC"al, cmb\Jclicd prat ticc·s, ct·nifil'd dw right tJf K.nowlrdgt· to conduct n11npri'I H·n~i\l· ~u rvt'i llann· UH'I' it~ ubjt·rt, ,Hun·. 'l'ht• ny, "u·rhno~cit·un' i~ ,, W,ll III.H hine," i~ <1 challenge lO I he imtitutioual capture of ltrhnOl>Cit'llCt', and L.nour\ .tim in lllttTing it \Vas IHH to dcbunl-. the science~ uut to "rest tlwm liom
+
+## Excerpt 3
+- id: bf56cd8943943c7ee591b207
+- qdrant_id: a8c95c4c-b264-5590-9a3d-81fae8ec5c91
+- source: Thich Nhat Hanh - The Sun My Heart (1988) - libgen.li.pdf
+- chunk_index: 15
+- importance: 0.7736
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+be able to guide it in ways we want it to go. We must not attempt to halt it. "Keep in mind that the river must flow and that we are going to follow it. We must be aware of ev- ery little stream that joins it. We must be aware of all the thoughts, feelings, and sensations that arise in us-of their birth, duration, and disappearance. Do you see? Now the resistance begins to disap- pear. The river of perceptions is still flowing, but no longer in darkness. It is now flowing in the sunlight of awareness. To keep this sun always shining inside of us, illuminating each rivulet, each pebble, each bend in the river, is the practice of meditation. To practice meditation is, first of all, to observe and to follow these details. "At the moment of awareness we feel we are in control, even though the river is still there, still
+
+## Excerpt 4
+- id: c50bc334066c7baf3a57fdc2
+- qdrant_id: 356c6f7f-eda1-5785-a05e-42c8394128dd
+- source: [Signs 1976-sum vol. 1 iss. 4] Hélène Cixous, Keith Cohen and Paula Cohen - The Laugh of the Medusa (1976) [10.2307_3173239] - libgen.li.pdf
+- chunk_index: 58
+- importance: 0.7823
+- seed_hits: audre-lorde-the-erotic-as-power-poetry-survival, clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+head/genitals and which is inscribed only within boundaries. Her libido is cosmic, just as her unconscious is worldwide. Her writing can only keep going, without ever inscribing or discerning contours, daring to make these vertiginous crossings of the other(s) ephemeral and passion- ate sojourns in him, her, them, whom she inhabits long enough to look at from the point closest to their unconscious from the moment they awaken, to love them at the point closest to their drives; and then further, impregnated through and through with these brief, identificatory embraces, she goes and passes into infinity. She alone dares and wishes to know from within, where she, the outcast, has never ceased to hear the resonance of fore-language. She lets the other lan- guage speak-the language of 1,000 tongues which knows neither en- closure nor death. To life she refuses nothing. Her language does not contain, it carries; it does not hold back, it makes possible. When id is
+
+## Excerpt 5
+- id: 2f48d7da58d7c23bf83133f8
+- qdrant_id: 50e4dbef-f91f-5f98-a8c9-099ef7c4d933
+- source: [SubStance vol. 23 iss. 1] Anna Klobucka - Issue 73 __ Hélène Cixous and the Hour of Clarice Lispector (1994) [10.2307_3684792] - libgen.li.pdf
+- chunk_index: 47
+- importance: 0.7812
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming, lispector-água-viva-presence-stream-of-consciousness
+
+his protagonist, he "had to give up sex and soccer" (22). Further, some of the narrator's comments are clear parodic references to earlier novels by Lispector and to their female narrators. Works like Agua viva and A paixfo segundo G.H. appear, for example, to be the object of the following self- parody: A acqio desta hist6ria teri como resultado minha transfigura?Ao em outrem e minha materializagqo enfim em objeto. Sim, e talvez alcance a flauta doce em que eu me enovelarei em macio cip6 (26). The action of this story will result in my transfiguration into an other and in my ultimate materialization into an object. Yes, and perhaps I'll even achieve the sweet flute music and become entwined in a soft creeper vine (20). Rodrigo S.M.'s expectations seem to model themselves here on the mystical quests undertaken by the narrators of Lispector's novels…
+
+## Excerpt 6
+- id: ef3cc26c72fc1b4c3ec0bb3a
+- qdrant_id: 27ea4b67-c875-5bde-a0fe-faeb7d08a83b
+- source: ((A Cultural Politics book)) Jean-Luc Nancy, Irving Goh - The Deconstruction of Sex-Duke University Press (2021).pdf
+- chunk_index: 225
+- importance: 0.7739
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming, lispector-água-viva-presence-stream-of-consciousness
+
+Água Viva, other than the very strikingly brilliant Passion according to G.H. (I do not know if there is any relevance to what you have said about the “heart,” but one shouldn’t forget that Lispector’s first novel is titled Near to the Wild Heart, which in a way cites James Joyce.) In any case, there is no doubt that Água Viva is a literary example that resonates well with what we have talked about so far. We have just touched on the “inter-­diction,” and one finds the nar­ rator in Água Viva saying, on the one hand, “I do not know prohi­ bition,” and on the other, “I am also taboo for myself, untouchable because forbidden,” all this while seeking to grasp the words that remain unsaid or unsayable.17 We have also raised the question of touch and its relation to penetration, and this question is equally at stake in Lispector’s text: the narrator attempts to touch the air when s…
+
+## Excerpt 7
+- id: 92cc3c76331266806d0e463a
+- qdrant_id: 6689adb7-4515-5b42-bc76-aaf5933984d5
+- source: (Studies in continental thought) Drew A. Hyland - Plato and the Question of Beauty-Indiana University Press (2008).pdf
+- chunk_index: 345
+- importance: 0.7949
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+glimpsing the beings. He emphasizes the di≈culty and partiality of our e√orts— as we are now, embodied—to recall or recollect those ‘‘original’’ experiences of the beings: For as has been said, every soul of a human being by virtue of its nature has seen the things that are, otherwise it could not have entered into this kind of living being; but it is not easy for every soul to recollect those things on the basis of the things of this world. Some barely saw the things there at the time, and others who fell to earth had the misfortune of being corrupted by some of their associations and have forgotten the sacred forms they saw before. Few are left who have a su≈cient memory of them, and they, when they see some likeness of these things, are as- tounded and delirious, although they do not understand the experience because their perception is so unclear. Thus there is not su≈cient light (ph…
+
+## Excerpt 8
+- id: 2438dc7fea71f49c3d55c101
+- qdrant_id: 54cfa2f3-1224-5258-92ef-90b15947b8bc
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 287
+- importance: 0.7787
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+the sensing of its cool, transparent surface, imagining how it would melt be- tween my fingers or on my tongue; then I “come to myself,” I am aware that I am looking at the ice cube and am aware of my fantasies of touch and taste, and, still in the reverberations of having been absorbed into these sensations and images, I experience that ice cube in its temporal, sensible Being as an extension of my flesh. When I reflect on my perception of the ice cube my perspective shifts and the ice cube becomes an “other” with respect to my act of perception. I am loosing that state of absorption into the hard, cool, melting surface of the cube. A hyperreflection is what allows me to trace the shift from absorption to self-awareness, to acknowledge the hiatus in that shift and to retain the rever- beration of the prior absorption that allows me to see the “two” states as being the articulation of one event. The recoiling of my body out of its absorption in
+
+## Excerpt 9
+- id: b9fbc11b080189ca5ab8319c
+- qdrant_id: c25eb2cd-fc58-5e1f-a3bf-c62887f13217
+- source: [Perspectives in Continental Philosophy] Richard Kearney - Poetics of Imagining_ Modern and Post-modern (1998, Fordham University Press) - libgen.li.pdf
+- chunk_index: 369
+- importance: 0.7779
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+antithetiques que presence et absense. Imaginer, c'est s'absenter, c'est s'enfoncer vers une vie nouvelle' (Eau, p. 10). The image is not a copy but the spontaneous inspiration of an 'au-deJa' which breaks the procrustean conformity of the real. See Preclaire, Poetique, pp. 89-100. 22 G. Bachelard, On Poetic Imagination and Reverie, ed Colette Gandin (New York: Bobbs Merrill, 1971), p. 23. Or again: 'On ne peut erudier que ce qu'on a d'abord reve: Ia science se forme plut<'>t sur une reverie que sur une experience' (quoted Preclaire, Poetique, p. 17); 'Nous verrons avec quelle facilite, avec que! nature!, le genie assemble Ja pensee a !'imagination; comment chez un genie l'imagination produit Ia pensee - Join que ce soit Ia pensee qui aiJJe chercher des oripeaux dans un magasin d'images' (Air, p. 25). 23 ibid, p. 34. 106 r I TilE POETICAL IMAGINATION 24 Eau, p. 23. 25 …
+
+## Excerpt 10
+- id: 116b9214d8639e66804172b8
+- qdrant_id: 016621f3-6bd5-5948-99b9-7078ca6a45d7
+- source: Jean-Louis Chretien - Hand to Hand_ Listening to the Work of Art (Perspectives in Continental Philosophy, 32) (2003) - libgen.li.pdf
+- chunk_index: 82
+- importance: 0.7653
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+close, from any angle. And yet, within what we do not manage truly to see at first, haven’t we heard something, something fragile and soft amongst so much agitation, like a murmur, or an invitation, or a song? It is the burble of the water that, from far away, rushes toward us until, in the left foreground, it is appeased and calm. It is so near that it is completely natural to hear it before seeing it, the gaze having first been caught up higher, farther away, any- where else. Nothing ever happens without water. Nothing speaks without some sort of fluidity. But the water flows, 10 HAND TO HAND
+
+## Excerpt 11
+- id: 64c0c6bed36c6eefeda8afca
+- qdrant_id: 4c06e761-c78e-5210-ae4d-03068c6803a5
+- source: Hélène Cixous - Reading with Clarice Lispector (1990, University of Minnesota Press) - libgen.li.pdf
+- chunk_index: 276
+- importance: 0.7601
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+Lispector writes Agua viva, she no longer has clean hands. That is the drama of writing, of thought, since at the same time it is its only possibility. There is no choice. Either one stays in nonintelligence that is a kind of hidden treasure, which does not give pleasure, or one goes toward intelligence but pays the price for having done so. There is no other way. Either one stays completely outside, or one approaches and while attaining it, one hurts and is hurt by it. 1980-81
+
+## Excerpt 12
+- id: 0f33020f174572b1c6905de2
+- qdrant_id: ca0da886-177d-5ac1-ab6a-a8eb3ffda8ea
+- source: Boundaries of Self and Reality Online. Implications of Digitally Constructed Realities (Jayne Gackenbach and Johnathan Bown (Eds.)) (Z-Library).pdf
+- chunk_index: 44
+- importance: 0.7821
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+White, and Akshya Boopalan of MacEwan University. These authors pro- vide an overview of the history and evolution of VR technologies, inter- preted through the scope of our quest for the Ultimate Display. Next, Michael Heim of Mount St. Mary’s College argues how VR technology can catalyze transcendent experiences through acts of lucid living and immer- sion. In his chapter, he describes an example of an immersion log and how this can add a spiritual dimension to VR technology. On the heels of the suggestion that a person can have a spiritual expe- rience from digital media, Joan Preston of Brock University introduces the critically important dimension of videogames: absorption. The chap- ter examines how transpersonal experiences can occur through the use of digital media, and what factors of games can amplify consciousness. The chapter that follows, by J.F. Pagel of the University of Colorado School of Medicine, shifts the scope on the question of consciousness to encompass
+
+## Excerpt 13
+- id: bfd53bd87a89bb2f85bd5dd3
+- qdrant_id: 7e73e05b-45da-5d9a-8725-be04897582ea
+- source: Castillo, David R - Baroque horrors _ roots of the fantastic in the age of curiosities (2010, University of Michigan Press) - libgen.li.pdf
+- chunk_index: 531
+- importance: 0.7831
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+providential history. Conversely, the reader may be caught up in the destabilizing vertigo pro- duced by the oscillation between a view that sustains his or her subjective po- sition vis-à-vis the idealized object (the engaño) and the irruption of a nor- mally hidden perspective that shows an oozing mess or, alternately, a sublime body ‹lled with spiritual grace (the desengaño). In true anamorphic fashion, once we have seen the stain in the picture, this blot becomes an inherent com- ponent of the scene, as a reminder of the arbitrariness of our interpretive choice. The structurally subversive edge of Desengaños might ultimately arise from this unsettling sense that no matter what point of view we could decide to embrace from within the multiplicity of choices offered by the nar- rative and highlighted in the conversational postscripts, the fact is that once we have experienced the verti…
+
+## Excerpt 14
+- id: 9ed29806c9453d189710c9f4
+- qdrant_id: 83d6efcc-2051-54a5-b0ec-666fc6072914
+- source: (Frontiers of theory) Masó, Joana_ Segarra, Marta_ Cixous, Hélène - Poetry in painting _ writings on contemporary arts and aesthetics-Edinburgh University Press (2012).pdf
+- chunk_index: 165
+- importance: 0.7590
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+See the Neverbeforeseen 45 A dozen times Clarice Lispector warns us: ‘I only work with lost and found (things)’. Hear me, she tells us. Listen to what I am saying, to each thing and all that I say. She says. Work with the lost and found (things), not even things, she says. Before being after being things or beings. Only achados e perdidos (Agua Viva, p. 193) she says here Only with the achados and perdidos words (masculine in Brazilian) And there, painting the silence of the portals; everything amplifi ed by a silence of things lost and found on earth/ de coisas perdidas e encontradas (Agua Viva) I sense a long road and dust right up to the arrival at the dwelling of the painting. Sinto uma longa estrada e poeira até chegar ao pouso do quadro (Agua Viva) Take into account, consider the white space (Agua Viva, p. 135) while waiting for the next moment Go for a breather: the no-p…
+
+## Excerpt 15
+- id: 696c6c3e660bdf3954fcd555
+- qdrant_id: 1bdf5274-066d-5460-aded-db430743d76e
+- source: (Continuum Studies in Continental Philosophy) Christian Kerslake - Deleuze and the Unconscious-Continuum (2007).pdf
+- chunk_index: 461
+- importance: 0.7716
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+suggests a hypothesis that certain nat.maI environments might be rich in symbolic 'potential'. Ifabsorption in reflectivejudgement tends to liberate the imagination from its subordination ooder the norms of empirical, determin- ingjudgement, the descent into the crystalline world of the grotto may" have provided the conditions for a fOooding moment in 'transcendental culture': the transition to a new a priori synthesis between the productive imagination and the symbol. The Hall of the Bulls at Lascaux is filled with concretions of minute calcite needles which produce exceptional optical effects, while the entrance to the Chamber of Felines is encrusted with mondmilch. 16 The Idea might have been concretely incarnated for the first time in stalagmite caverns like these. before the enraptured eyes ofshamans and priests lately descended from their sublime mountain sancruaries. In the opening pages of 1>i.fft:mu:e
+
+## Excerpt 16
+- id: b5e52aafc329344c1a8f850d
+- qdrant_id: db251f88-5396-5f2d-bd98-542b0eaa38df
+- source: Reading to Stay Alive_ Tolstoy, Hopkins and the Dilemma of -- Christopher Dowrick -- Anthem studies in bibliotherapy and well-being, London, 2022 -- 9781785278914 -- cade02bc61042a84f85758af7cccccb3 -- Anna’s Archi.pdf
+- chunk_index: 423
+- importance: 0.7831
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+impression of those parts of the room that lie behind the notebook. Co-mingled with these auditory and visual experiences are olfactory experiences of various kinds (I can smell something roasting in the kitchen); bodily sensations of various kinds (I am aware of my legs under the chair; I can feel my fingers on the table); and a range of cognitive and affective experiences. The bartender is talking to an old woman at the bar, and I have a vague sense of understanding what he’s saying. I am soon to embark on a lengthy trip, and a sense of anticipation colours my experiential state. Finally, I am enjoying conscious thoughts. I realise that the bar is about to close, and that I will be asked to leave if I stay for much longer.28 For Bayne, my self is a virtual centre of ‘phenomenal gravity’, ‘an object whose identity is given by the intentional structure of the phenomenal field’. I appropriate to myself those experiences I am aware of. I assume that
+
+## Excerpt 17
+- id: 80e510cc0c1c3c9211be3f56
+- qdrant_id: 3aef0df0-f9d9-5967-9550-21ad8c037d83
+- source: [Texas Pan American series] Lispector, Clarice_ Lispector, Clarice_ Fitz, Earl E - Sexuality and being in the poststructuralist universe of Clarice Lispector _ the différance of desire (2001, University of Texas P.pdf
+- chunk_index: 50
+- importance: 0.7883
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+and "control" and a sense of plurisignation and fragmentation, the loss of control and of unity. Or, to cast this tension in a slightly different context, Lispector's fictions show us how language, that most defini- tively human of our traits, structures our awareness of our existence at the same instant or moment (these also being key Lispectorian motifs) that it "deconstructs" it. The result of this type of structuring and "de- structuring," as we see replayed time and time again in Lispector's work, is a recognition of our deep human need to order things, to go in quest of a state of perfect communication (Logos, or Lispector's "state of grace") even as we fail to attain it. As Lacan might say, however, because such a desire is itself an evolving verbal construct deriving from the same conscious and unconscious language structures that engender our quest (which, similarly, is also a f…
+
+## Excerpt 18
+- id: e3f3c05829e4c720da0021fe
+- qdrant_id: 5c8d634f-8f4c-5bc2-b825-3e8050243b41
+- source: Hélène Cixous - Reading with Clarice Lispector (1990, University of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 251
+- importance: 0.7661
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+tone." She does not describe in the sense of circumscribing. I cannot circum- scribe the mirror, I have been it. This does not mean I have been mirror. It means I have lent my being to the inscription of mirror in the text. I gave myself to the mirror. I mirrored myself. She lets the words mirror themselves but without any- body to pronounce them. When she talks about the mirror, she talks about agua viva, about living water. A few paragraphs earlier, we read: "And he discovered the enormous, frozen spaces in himself, interrupted only by a block of ice here or there." There is a displacement toward something that freezes. We are between two types of matter, light and water, as the mirror is discovered at its natural or- igin, that is, the block of ice. The Beautiful Man The extraordinary passage on the beautiful man (52) begins precisely without touching him. First, there is what could b…
+
+## Excerpt 19
+- id: 084d5dc086c83eb6d0f14ed2
+- qdrant_id: 2ba25e21-46f8-5cb9-bcb5-36222384bd11
+- source: Ghosts, Landscapes and Social Memory (Martyn Hudson) (Z-Library).pdf
+- chunk_index: 123
+- importance: 0.7780
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+The question of the existence of this world, of the dead world, of the real being and of the dead revenant is bracketed. The ‘reality’ of the world is entirely ‘derealised’. For Hanold, Gradiva must be one of two things – ‘a hallucination or a mid-day ghost’ (Freud 1990a: 43). But then, in a moment of surprise a lizard darts at the approach of her distinctive tread. She must then be an actual, an existent: ‘So it was no hallucination, but something outside our dreamer’s mind. But could the reality of a rediviva startle a lizard’ (43). Hanold continues to maintain that she has actually come to life in this ‘mid-day hour of ghosts’ (43). Hanold speaks to the ghost and shockingly finds that she is actually a German, like him, of flesh and blood but with all of the qualities of the spectral Gradiva (44). Yet he continues to conflate the physical revenant with Gradiva: ‘A pretty butterfly had…
+
+## Excerpt 20
+- id: 368a34ebdb2b1cb82cace721
+- qdrant_id: 0834868f-50cc-57ef-9a9a-fca29f41e807
+- source: (Deleuze Connections) Frida Beckman - Deleuze and Sex-Edinburgh University Press (2011).pdf
+- chunk_index: 163
+- importance: 0.7789
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+cipitating a shift in his sensibility, allowing spaces for contemplation and observation whilst also emphasising the importance of inattention, of failure to schematise or recognise, and to feel those gaps in one’s experi- ence. This ability to observe and contemplate, to describe, to undergo, is the cracked abyss through which thought can emerge. Without it, what wonder and curiosity could there be about our world? After watching Tarkovsky’s Nostalgia the beauty of rain’s sound and fall became clear. Walking out of an exhibition on voodoo in Geneva, all seems animated and the red fi re hydrant seems to beckon me with open arms. Communication is not an intentional affair. It often operates below the level even of the fl esh, with ions, pheromones, ligands, words and spaces that affect us without our understanding them. Those multiple perspectives do not close off communication as though we are hermeti-
+
+## Excerpt 21
+- id: 436ddaf9e2e68e3f68887c3b
+- qdrant_id: 695d5b39-c97c-52b8-9b75-cfe89285bc21
+- source: (Series In Continental Thought (Book 41)) Dylan Trigg - The Memory of Place_ A Phenomenology of the Uncanny-Ohio University Press (2012).pdf
+- chunk_index: 20
+- importance: 0.7710
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+the existence of an occult world, hidden from the eye. Despite my attachment to this environment, which varies in its attributes and intensity, the same place has covertly remained indifferent to my presence. As such, developing its own history, the house has strayed from my own past, forging a void between my body and the place. It is becoming unnervingly clear: My relation with this place has dis- charged a germ in my body, such that how I comport myself could occur only here and now. And with this sedimentation, all that is different, fragmented, and absent is amplified through my nervous system. Indeed, inasmuch as I am my body, then, as an embodied subject with a history peculiar to this place, I have become the literal clearing ground for this difference. Only through the singularity of my own body is the anonymity of the environment articu- lated. Nor is the mode of articulation felt in the abstract. To be clear, the
+
+## Excerpt 22
+- id: e7cac4e300392549384b5768
+- qdrant_id: d06f4ed6-7e1d-5241-922b-ab7ce237dbf7
+- source: [North Carolina studies in the Romance languages and literatures] Nancy LaGreca - Erotic mysticism _ subversion and transcendence in Latin American Modernista prose (2016, University of North Carolina Press) - libg.pdf
+- chunk_index: 281
+- importance: 0.7678
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+myself in many parts, to be in everything, to emanate like a scent, to grow like the plants, to run like water, to vibrate like sound, to shine like the light, to integrate myself into all forms, to penetrate every atom, to descend to the bottom of nature, to be matter!”. (Flaubert qtd. in Díaz Dufoo 385)21 The infinite expanse of the erotic mystical experience gives expres- sion to an unending desire, the longing for a truth unbound: “corre- mos presurosos al lugar del misterio y salimos de allí más vacilantes, más adoloridos, con más sombras que antes de esta peregrinación en pos del eterno, perseguido ideal. [. . .] El anhelo persistente, el in- agotable deseo, la nostalgia de esta misteriosa dolencia, agita á esta generación de tristes” (we run hurriedly to the place of mystery and we leave there more indecisive, more sorrowful, with more shadows than before this pilgrimage in pursui…
+
+## Excerpt 23
+- id: 376081bcdd19e1741cd7de6f
+- qdrant_id: 41af7628-f7cc-5df8-97cd-fdda1c74a86f
+- source: Hélène Cixous - Reading with Clarice Lispector (1990, University of Minnesota Press) - libgen.li (2).pdf
+- chunk_index: 225
+- importance: 0.7522
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+She wants to undo walls of the soul and of the body. And then, there will be liberation. "And I am uncaged in the world." The same process can be found in Agua viva. It is always the same question. How does one go from the self to the world and through what transposition? She feels in the world, free and fine like a doe in the plain. It is absolutely biblical. "I dive and then I emerge." That is also the technique of Agua viva. I interrupt, I enter, and I exit, cut. "Distracting my tired thirst to rest in a goal." She has a paradoxical thirst. Generally, thirst feels like the ordinary thirst, a thirst that wants to be quenched. But Clarice's thirst needs to continue being quenched. It gets tired from being stopped. It is an infi- nite thirst, a thirst that needs to be satisfied. She needs strange questions. "Where have I already seen a moon high in the sky, white and silent?" It is against a kind of thirst but also an allusion to a primal scene. "I am fooling my-
+
+## Excerpt 24
+- id: 1500a6f9d5fbc4f0efee375f
+- qdrant_id: 9fd063c0-a036-555e-92d4-a58305f99d79
+- source: [Critical Voices in Art, Theory and Culture] John Ruskin, Walter Pater, Adrian Stokes - England and its Aesthetes_ Biography and Taste (1998, Routledge) - libgen.li.pdf
+- chunk_index: 304
+- importance: 0.7729
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+present circumstance. It is said that the drowning man sees his life outside him as he dies. Similarly, all of us have felt that we have seen an environment 'as it really is', only when under sentence to leave it, when it is no longer part of our concern, a house or a room no less than a view. The well-known place when we are leaving it, lies close to the eye. Previously our thoughts about it have been tinged with specific matters; previously, in comparison, there was a distance between us and the thing: previously the place had appeared neither as near nor as objective. When we first arrive, still more when we leave, those are times when we 'see' the place in which we live. Waiting for con- veyance to the station after ten years' stay, with nothing whatever to do except to wait, we see the room and we may feel upon us all that has happened there in terms of wainscot, wall, l…
+
+## Excerpt 25
+- id: ee62740f252f6b84232235e8
+- qdrant_id: 34d51646-120e-57c6-a5b4-d6f1df448d40
+- source: [Chiasma 22] Bishop, Michael_ Titus-Carmel, Gérard - The endless theory of days _ the art and poetry of Gérard Titus-Carmel (2007, Editions Rodopi BV) - libgen.li.pdf
+- chunk_index: 272
+- importance: 0.7723
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+intoxication: nous étions devenus vitesse et éclat également essoufflés et limpides de l’absolue légèreté de l’air de nos corps aussi de l’apaisement qui s’ensuivit une paix conquise le calme enfin dans un repli de pénombre (RE, 84)31 Life and death conjoined in the lightness of being, in the flicker of a memory soon seemingly swamped by resurgent fear, futility, self- denial. And yet – and this oscillation appears inevitable given the intensity of those lived paradoxes we have detailed – and yet, if “a leafing of lost / names has grown about our mouths / we [yet] remain” (RE, 89); if the “shore” of remaining and indwelling seems abandoned for “the abyss / we now recognise” (RE, 90), yet persists a sense that it is not a question of “[having] that but [moving] towards that / not [a question merely of] absence but [of] a path / a ceaseless dream unfurling its rings / in exhausting self-watchfulness” (RE, 89).
+
+## Excerpt 26
+- id: 224170c16b8634e933332522
+- qdrant_id: ad6706c0-4e5a-5506-b004-937d07c09d52
+- source: Isabel Jaén_ Julien Jacques Simon - Congnitive Literary Studies_ Current Themes and New Directions (2012, University of Texas Press) - libgen.li.pdf
+- chunk_index: 754
+- importance: 0.7659
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+the position of being "the pensive traveller." We have experienced such mo- ments, but may not have made much of them. The poem dramatizes the mo- ment, and invites us to participate in it fully. Once we are part of the poetic landscape, we can feei the spatial effect of the next lines. The stars are silentj - still they roll along, bmueasurably dista1ltj alld the mult, Built round by those Jl1hite clouds, ellor11lOUS c/ouds, Still déepellS its unfathoruable depth. (146) The perceptual movement outward is accompanied by a change of perspec- tive: the "vauit" is represented as a window into eternity. Vision becomes visionary experience. Imagination, aided by the poetic structure provided, enables the leap. Then, finally, we are returned to a moment of reflection on the experience we have just had: At length the Vision closesj and the ruind, Not undisturbed by the delight it feels,
+
+## Excerpt 27
+- id: dccf134a9c8cf017bd5cbff3
+- qdrant_id: 8c8ad464-0f92-5851-b14a-c5920cb299ae
+- source: Cahiers_du_Cin_ma_-_F_vrier_2024.pdf
+- chunk_index: 397
+- importance: 0.7638
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+salle se transforme peu à peu en jungle sonore. Le second mouvement est un travelling réalisé depuis l’habitacle d’une voiture. Lampadaires, phares et feux de signalisation dessinent d’étranges constel- lations dont la mobilité achève de brouiller nos repères. Brasilia, un mirage ? Pour ce premier long métrage, Ana Vaz dit avoir voulu revisiter le genre de l’éco- terreur. En s’attachant à des spécimens monstrueux ou des nuées prédatrices, ces ilms désignent en négatif le rêve d’une vie sans animaux autres que domestiques. Il fait nuit en Amérique entend bien, par le montage et la musique originale de Guilherme Vaz aux tonalités à la fois mar- tiales et fantastiques, suggérer la menace d’un envahissement. L’effet premier est toutefois plus équivoque : quel rapport entre les vastes perspectives autoroutières et les capybaras, paisibles rongeurs que le lointain tonnerre inc…
+
+## Excerpt 28
+- id: 1db9b35d69b802f49c600c05
+- qdrant_id: 1e2a6af3-c51b-5385-9c1f-64cdd7bf2485
+- source: Anthony Miccoli - Posthuman Suffering and the Technological Embrace (2010, Lexington Books) - libgen.li.pdf
+- chunk_index: 510
+- importance: 0.7652
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+agreement with his friend's assessment of the situation: "Being here is a kind of spiritual surrender. We see only what others see. The thousands who were here in the past, those who will come in the future. We've agreed to be part of a collective perception. This literally colors our vision. A religious experience in a way, like all tourism." DeLillo, White Noise, 12. 8. "Toyota Celica. . . . A long moment passed before I realized this was the name of an automobile. The truth only amazed me more. The utterance was beautiful and myste- rious, gold-shot with looming wonder. It was like the name of an ancient power in the sky, tablet-carved in cuneiform. It made me feel that something hovered. But how could this be? A simple brand name. An ordinary car. How could these near-nonsense words, murmured in a child's restless sleep, make me sense a meaning, a presence? She was
+
+## Excerpt 29
+- id: b612fa1c9b3ec336b2c4b50a
+- qdrant_id: 78f0d522-9ea4-5e3b-ba25-97cb4f9ef16e
+- source: Boundaries of Self and Reality Online. Implications of Digitally Constructed Realities (Jayne Gackenbach and Johnathan Bown (Eds.)) (Z-Library).pdf
+- chunk_index: 158
+- importance: 0.7724
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+Games, Dreams and Consciousness 209 When moving, we experience an envelope of flow: the invariant struc- tures specify the visuals or landscape lying ahead and the perspective ­structures specify where we may go in this landscape. As we move around our location, new vistas open in this flow, while, behind us, objects ­disappear. The center of the flow specifies the direction of locomotion making it anchored to the layout of the situation (Gibson, 1979). Thus we are embod- ied in the current optical array whether it is natural or mediated. Because we always see each vista from our own individual point of observation, it also specifies the location of the self within the immediate ecological envi- ronment. Hunt (2007) points out that the precise way that an individual experiences a particular array, with its open horizon ahead and flow past of surrounding feedback, implies a “hole” filled by the embodied self, and this
+
+## Excerpt 30
+- id: 3c8a01f6b91a95805d33f254
+- qdrant_id: eeb88c75-c6b0-5207-be3e-ac12ce8fe593
+- source: [Routledge Studies in Eighteenth-Century Cultures and Societies] Pamela E. Phillips - Enlightened Nightscapes_ Critical Essays on the Long Eighteenth-Century Night (2023, Routledge) - libgen.li.pdf
+- chunk_index: 131
+- importance: 0.7667
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+does not appear to represent reality or even the Enlightenment itself. It is Goya’s wake-up call. By representing the blurry boundary between sleep and wakefulness, the strong engagement with hypnagogia in the Caprichos points to humankind’s need to imagine intelligently and, at the same time, to its failure or inability to do so collectively. Graphic phan- tasmata or perceptual images that emerge from the border region of hyp- nagogia offer key glimpses of such hybridity. Without the freedom to
+
+## Excerpt 31
+- id: a95df4cb484507fa1f625e49
+- qdrant_id: b6c0e690-7337-5b32-8419-0a30a42af2c8
+- source: The Desire for Mutual Recognition _ Social Movements and the -- Peter Joseph Gabel -- 1, 2018 -- Routledge, an imprint of the Taylor & Francis Group -- 9781138095274 -- f484a32d2f5fd62e706f79209551c262 -- Anna’s Ar.pdf
+- chunk_index: 32
+- importance: 0.7789
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+Introduction 4 emergence of our collective being engenders a new, horizontal percep- tual experience in which our prior concepts “about” the world dissolve, replaced by the actual life-world itself. We suddenly experience ourselves as actually existing, the world fills out like a great balloon of horizontal presence and mutuality, and the spiritual radiance that had previously been contained through collective social withdrawal suddenly becomes visible, illuminated. Not to idealize the experience—we have a long way to go still before we can endure this enlivening and enlightening experience of social transformation without internal and social conflict because our very safety as social beings appears (from our fear-saturated condition- ing) to be as much at stake as our physical bodies are in the presence of a wild animal—but the experience is nevertheless fundamental in its gra…
+
+## Excerpt 32
+- id: 4b8b010408738e862f39d625
+- qdrant_id: 9081aa15-02a3-5839-9d07-3a2ba1637ab3
+- source: Waskul, Dennis_Waskul, Michele - Ghostly Encounters The Hauntings of Everyday Life-Temple University Press (2016).pdf
+- chunk_index: 15
+- importance: 0.7557
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+pale, milky-white wisp is rising almost to our ten-foot ceiling—much like the gentle smoke from a small campfire, only lightly illuminated like fog before daybreak. I blink and wipe my eyes, to no avail. The wisp not only remains, but I can now see it coming through the window, through the blind, and gathering like a small cloud in the northwest­ ern corner of the room. I am startled but not afraid. I am curious but prefer that it keep its distance. Mostly I am engrossed; I have never seen anything like this before (or since), and it fascinates me. My breathing becomes heavy and shallow and my skin tingles with a light electrical
+
+## Excerpt 33
+- id: 09d39b3d1c191a76c816fb72
+- qdrant_id: ac4e7da8-595e-5dd0-b3c2-72ddaad2a5aa
+- source: The Third Body (Helene Cixous) (Z-Library).pdf
+- chunk_index: 326
+- importance: 0.7615
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+between the mouth of the rivers and the horizon in order to show me something: the movement of its body was designed for me, aimed at me; I understood: I am the straight line. The waters, drying out behind it, were covered with dust, red lands (from that I deduced: white + black = red; in other words: day + night = blood). These sets summoned up, as an echo, the striking phrase: I imagined a result sprung from contradictory forces, which was red-life. Thinka, cutting through the water, changed to the color of blood before my eyes. It was red, dripping with black water and white water. The mouth in the center said: the Occident is the Orient. I didn’t care. On the other hand, what happened to the bird impressed me: once out of the water, its red body with the immensely thin red neck tingled, sending out sparks. As in a dream, I felt my own flesh tingle, sweat. My soul, having …
+
+## Excerpt 34
+- id: 9cd892b204428710e5309664
+- qdrant_id: a4191ae0-899c-556e-8621-3c7e3a00c0da
+- source: [Perspectives in Continental Philosophy] Richard Kearney - Poetics of Imagining_ Modern and Post-modern (1998, Fordham University Press) - libgen.li.pdf
+- chunk_index: 8
+- importance: 0.7811
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+presence is accurately conjured up in Kant's famous words about 'an art hidden in the depths of nature ... a blind hut indispensable faculty of the human soul without which we would have no knowledge whatsOever'. This formulation represents a telling transition between ancient and modern account-; of imagination. And hy way of introducing our present study it may be helpful to take a cursory glance at some key moments in the historical g-::nesis of su<.:h account<;. 1
+
+## Excerpt 35
+- id: d8a8855b73c0b719d515847d
+- qdrant_id: 7712f356-f2ac-5fcd-9721-b93c9a06cbf9
+- source: [Edinburgh Critical Studies in Romanticism] Richard C. Sha (editor), Joel Faflak (editor) - Romanticism and Consciousness, Revisited (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 46
+- importance: 0.7779
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+that acknowledge the impossibility of subjective mastery (21–49). To sublime suspension, we would add what Mihaly Csikszentmihalyi calls ‘flow,’ the experience of being so caught up in an activity that nothing else but it matters. It bears noting that though Prinz’s and Damasio’s models differ on the place of the self within consciousness, they both envision consciousness as porous. For Damasio, consciousness is about the self immersed in the surround through homeostasis; for Prinz, the ‘stream’ of sensory information, seemingly, is without filter. In this way, even self-consciousness is connected to its surround, and porousness becomes a form of relationality. So often in Romantic writing, by contrast, is an inner sanctum vio- lated as the human becomes nature’s inmate as well as friend, an alienat- ing (and alien) as well as sustaining matrix. Such disconnection defines the t…
+
+## Excerpt 36
+- id: e10766437bce4dad05168f56
+- qdrant_id: 25b433f9-5f1c-5ea7-a1d6-940562b666aa
+- source: Dana Arnold (ed.) - Art History_ Contemporary Perspectives on Method (2010, Wiley-Blackwell) [10.1002_9781444324716] - libgen.li.pdf
+- chunk_index: 227
+- importance: 0.8152
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+assembly of a totalizing perception that would reinforce the spectator’s ontological centrality and separateness – a solipsistic orientation. Precisely because the artwork impels movement through space, it physically locates the spectator within the same visual fabric that it occupies and structures. The disruption of the object calls to mind that which is disavowed from the transcendental perspective, namely, the situatedness of vision in the body, and the situatedness of the body in space. Although Serra’s work might seem to locate the viewer within the sculpture in the same way that Merleau-Ponty describes the subject as immersed in the world ﬂesh, however, Krauss’s analysis shows that the phenomenological experi- ence is determined by the way in which the artwork appears as an exterior surface that runs against the limits of the visual ﬁeld. Furthermore, in her later account of Serra…
+
+## Excerpt 37
+- id: f3126e68d98c2fb7c17d6d90
+- qdrant_id: 640ad67b-43ac-5f99-8219-7ffdf246b229
+- source: [Short Circuits Series] Rebecca Comay_ Frank Ruda - The Dash—The Other Side of Absolute Knowing (2018, The MIT Press) - libgen.li.pdf
+- chunk_index: 241
+- importance: 0.7633
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+back from the self-presentatj.on oí spirit marks at once the Ìatter's apogee and its bÌindspot. '' Self-conscÌousness in this way "enriches itselluntiÌ ... it has sucked into itself the entire structure of wÌrat is essentiaÌ to it"-a digestÌon (verdouen) (PH g8o8) whereby what is absorbed is already determined as spirit's own essence, and thus every bite effectively a seif-bite-an involution of and on the inside. But since such suction Ìras effaced the opposition between inside and outside, wÌrat appears from one angÌe as ingestion or contraction musl be riewed with equal cogency as àn e\cretion or expansion whereby spi rit "releases" itself toward a zone of untrammeied sensuous immediacy-time and space as "free contingent happening"-which it posits as a determinate negativity to be recuperated as its own other (PH S8oZ).' The "continuing existence" of the outside thus reinstates the sub…
+
+## Excerpt 38
+- id: c0aecac8db9eb4a45236d246
+- qdrant_id: 8ed89d10-13c5-53c6-a9f2-468a5cb12df5
+- source: Shierry Weber Nicholsen - The Love of Nature and the End of the World_ The Unspoken Dimensions of Environmental Concern (2001, The MIT Press) - libgen.li.pdf
+- chunk_index: 83
+- importance: 0.7819
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+indistinguishable; as if the plant were a part of my consciousness. I dared scarcely to breathe, held in a kind of ﬁne attention in which I could sense the very ﬂow of life in the cells. I was not perceiving the ﬂower but liv- ing it.28 The sense of oneness in the life, or livingness, that Raine experienced is pro- found. “Living form,” she called it, combining structure and movement: “a slow ﬂow or circulation of a vital current of liquid light of the utmost purity,” spiri- tual rather than material, “or of a ﬁner matter, or of matter itself perceived as spirit.” To this perception of livingness, all beings and all life forms are alive. Though the natural world knows death, it cannot be divided into living and nonliving. “Living form,” Raine discovers, does not distinguish animal from plant from mineral. A river is alive in this sense, as is a landscape: “Either everything is, in this sense, living, or nothing is.”29
+
+## Excerpt 39
+- id: 142a9e531d99da14fd4c211d
+- qdrant_id: d05818c8-9f2a-56dc-a4ec-68aed0b73fe5
+- source: Enzo Paci (auth.), F. J. Smith, Erling Eng (eds.) - Facets of Eros_ Phenomenological Essays (1972, Springer) [10.1007_978-94-010-2387-0] - libgen.li.pdf
+- chunk_index: 284
+- importance: 0.7668
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+my back. And as I explore these fringe perceptions I may even begin to note that there is a very faint feel of the air against my face which is usually a bit cooler than the feel of the rest of my body. And I may note that in some sense all these factors are present within the same period of time although I rarely pay attention to any or all of these features. There is a field of touch within which my specific touch atten- tion is focused upon only some small and highly selected aspect. But these field characteristics may also be discovered at a stroke, in a sudden field state. I plunge, as is my particular passion, into the trout brook in Vermont late in the evening. The almost icy water surrounds me - and I am acutely and instantaneously aware of that cold environ- ment which embraces me. A little later when I emerge, the relative warmth of the evening air gives me a feeling of exhilaration throughout my whole body. Still later as I sit before the outdoor fire I am also
+
+## Excerpt 40
+- id: 3323b0f380d4088326c9c531
+- qdrant_id: 50c4ba7c-276c-5325-add0-226f0640d460
+- source: Dani Cavallaro - Magic as Metaphor in Anime_ A Critical Study-McFarland (2009) (1).pdf
+- chunk_index: 75
+- importance: 0.7611
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+of what to look for within it, and the more there is found, the more the imag- ination suggests for further search” (Wright, p. 4). Furthermore, as Aldous Huxley emphasizes, the beguiling myth of unex- plored territory survives unscathed today insofar as “our mind still has its darkest Africas, its unmapped Borneos and Amazonian basins.... A man con- sists of ... an Old World of personal consciousness and, beyond a dividing sea, a series of New Worlds—the not too distant Virginias and Carolinas of the personal subconscious ... the Far West of the collective unconscious, with its ﬂora of symbols, its tribes of aboriginal archetypes; and, across another, vaster ocean, at the antipodes of everyday consciousness, the world of Vision- ary Experience.... Some people never consciously discover their antipodes. Others make an occasional landing” (Huxley, pp. 69–70). Along analogous lines, and wi…
+
+## Excerpt 41
+- id: d37b3315575efd4847c62646
+- qdrant_id: d5a00f30-007f-5031-82a5-c7fbc41bad95
+- source: (Series In Continental Thought (Book 41)) Dylan Trigg - The Memory of Place_ A Phenomenology of the Uncanny-Ohio University Press (2012).pdf
+- chunk_index: 150
+- importance: 0.7615
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+that corresponds with its own spectral disquiet. the haunting You love the night. From the jagged canvas of this dark space, an immense space unfolds. Infinite in its depth, the space stretches from the alcove in the childhood home to fossilised patches of water found on planets other than your own. You stand at the shore of this space, its immensity felt through the flesh. Often, the space appears vacant, a barren cosmos, already expired. At other times, the space murmurs with a shadowy presence, humming in the dark sky. Things gather within this presence, a half-dreamed memory, of which only glimmers are accessible to the conscious body. But the fragments are buried deep within the human body, their light extended far beyond the limits of the flesh. Guided by these corporeal morsels, you reach further out to this world, allowing the fog of memory to shape the world into a recogni- sable scene. Long before you are in touch with the world, the world is already
+
+## Excerpt 42
+- id: 5a7aa3dc39e48eb0665fe626
+- qdrant_id: 4a296deb-2377-57f0-a15a-a830771c33b0
+- source: Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li (2).pdf
+- chunk_index: 203
+- importance: 0.7596
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+(a master image), as she explains in Green Eyes (Duras 1990: 70), as it can signify the Seine, the Ganges or the Mekong. It functions as a mirroring eff ect and can refract the sea of Un barrage contre le Pacifi que, the Ganges of Nuit noire, Calcutt a or the Mekong of L’Amant. Duras mentioned its importance on numerous occasions in interviews. Th e presence of the water element has been read by critics as having the eff ect of facilitating the spectators’ regression towards an archaic maternal space, as the fi lm’s visual track puts us in a trance-like state,
+
+## Excerpt 43
+- id: b284e4b05d16c2b030efd579
+- qdrant_id: 4bf6d7f0-62b4-54e8-8281-3552b9674f9c
+- source: [Edition Politik_ 84] Amanda Machin - Bodies of Democracy_ Modes of Embodied Politics (2022, transcript Verlag) [10.1515_9783839449233] - libgen.li.pdf
+- chunk_index: 29
+- importance: 0.8273
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+As Iris Marion Young notices, Merleau-Ponty encourages us to re- flect differently upon our individual subjectivity, by locating it not in consciousness but in the body (2005: 8 and 35). But he also prods us to think differently about social co-existence and political activity (Coole 2007b: 16; Plot 2012; Whiteside 1988). For example, as I explore in Chap- ter Two, our inescapable embodied existence poses difficulties for po- litical deliberations in which participants are expected to interact and communicate unhindered or unaided by their bodies. The messages of interlocutors are conveyed with physical gestures and sounds, so that their meaning overspills their conscious intentions: language is never fully transparent (Coole 2005: 130; Adams 2001: 213).We encounter other
+
+## Excerpt 44
+- id: 19390fdc9b480a95606b3340
+- qdrant_id: b48583d1-d8ec-5e52-88b6-2d99a5c055de
+- source: On Melancholy & Depression (Uniform Edition of the Writings -- James Hillman -- 2024 -- Spring Publications, Incorporated -- 9780882140438 -- f2946c92ee3987e660d5b0ad9bafb931 -- Anna’s Archive.pdf
+- chunk_index: 265
+- importance: 0.7611
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+recently that we are beginning to admit that maybe animals have consciousness, that maybe trees have some sort of consciousness, or that there could be mood to the landscape. The Japanese, on the contrary, attribute a great deal of psychic life to places, to things, to trees, to rocks, to mountains, to streams. There are holy ones, and there are ones that are more valuable and less valuable. There are ones that are haunted or have demons, and ones that speak, and so on. For the Japanese, the discussion of their personal life and what they personally feel does not begin with an I. So much of our poetry is where I am, what I do, and I felt this and I felt that, and my father, my mother, and so on. Theirs is about the plum tree or something about the bamboo through the window with the snow coming down and the bending over of the bamboo. The intimate relationship between the poetics of the e…
+
+## Excerpt 45
+- id: 86e862b378e3bfdd86f78376
+- qdrant_id: 227978e0-6c1d-5231-8943-b122becea867
+- source: A. Licia Carlson_ Peter R. Costello - Phenomenology and the Arts-Lexington Books (2016).pdf
+- chunk_index: 101
+- importance: 0.7829
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+ities in the natural world. Thinking, in the case of Wally, or worshipping, in the case of the ritual participant, is not a matter of retreating into a private, inner space, but is a matter of being drawn outside oneself into a shared reality. In order to engage in phenomenonology—an account of the phenome- non—one must have access to the phenomenon. As an experiencer, one indeed has lived access to the phenomenon, and thus every experiencer, as such, is capable in principle of participating in this science. At the same time, the determinacies of one’s experience do not automatically exhaust the forms of possible experience, and it is thus incumbent upon the rigorous science of phenomenology to draw on the accumulated human resources embodied in the disciplines of history and psychology in order to determine the parame- ters of the very phenomenon that is to be described. When we in fact…
+
+## Excerpt 46
+- id: 5ed8d692811b42fd55f47549
+- qdrant_id: a6102e1c-c3da-5be3-813f-9a4a83383061
+- source: (Continuum Studies in Continental Philosophy) Christian Kerslake - Deleuze and the Unconscious-Continuum (2007).pdf
+- chunk_index: 690
+- importance: 0.7617
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+this somniacal gaze is imbued with virtUality rather !han actuality. Crowley goes on to compare the blind fascination of love with the magical arts of fasci- nation: 'You transform yourself, like ,zeus into swan or bull, like Lucius into an ass, like the Egyptian magi into an hawk. swallow or ibis, or like the Syrian into a dove, and by this means compel the desired otMect to your anus.' This blind~ ness of magical fascination defines magical divination itself. the attainment of visions through programmed, ritual intoxicalion. Delewe and Guattari insist that these becomings-animal are not imitations or identifications, because 'they are perfectly real' (ATP 2~). They qualify: 'But which reality is at issue here?' Their subsequent explanations are obscure, but some light emerges when they explicitly relate 'the principle according to which there is a reality specific to becoming' to 'the Bergsonian idea ofa coex~
+
+## Excerpt 47
+- id: 8f9a236550612cda5e8e3429
+- qdrant_id: cdcd48f2-d48b-5dca-8896-c003a0eaf7b0
+- source: Julie Gaillard_ Claire Nouvet_ Mark Stoholski (editors) - Traversals of Affect_ On Jean-François Lyotard-Bloomsbury Academic (2016).pdf
+- chunk_index: 41
+- importance: 0.7648
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+precedes speech”: 31 that of the non- diﬀ erentiation of the ego and objects, of the aleatory wandering of the psychic energies according to unconscious, primary processes. And, just as with the inarticulation of aﬀ ect, this silence is “impossible”: “there is simply no way to go to the other side of discourse. Only from within language can one get to and enter the ﬁ gure.” 32 In the course of this complex work, Lyotard traces the contours of the operations of the ﬁ gural within discourse according to an “energetic” perspective that he will develop within the “libidinal” writings, such as Libidinal Economy and the texts immediately preceding. Primary processes of condensation and displacement can distort, fold, transform the images and forms given to quotidian perception. Th ey transgress the contours and lines that make images recognizable. As Heidi Bickis shows in “Followi…
+
+## Excerpt 48
+- id: 896afc2b981d6fc92ecde01f
+- qdrant_id: fe009e50-6e6d-5767-84db-cb9387f092ee
+- source: [SUNY series in Contemporary Continental Philosophy] John Russon - Bearing Witness to Epiphany_ Persons, Things, and the Nature of Erotic Life (2009, SUNY Press) - libgen.li.pdf
+- chunk_index: 49
+- importance: 0.7828
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+incoherence). It is this significance that appears. Meaning is revealed to us in our sensing. This is the amazing character of ourselves—of our bodies: we are open to having significance revealed to us. We can be shown the forms of meaning. These sensed bodily propulsions—these rhythms—are the original and originative meanings, the appearings of reality within the context of which our world of living experience is elaborated. Our experience be- gins as these rhythms, these bodily propulsions, these patterns of flow and interruption, of stop and start, of concentration and discharge, of desire and fulfillment, of question and answer, of resonance and interconnec- tion, of integration and systematization, of disintegration and dissolution. The “units” or basic elements of experience are not disconnected atoms, but are little dramas that weave themselves together with and pull them- selves …
+
+## Excerpt 49
+- id: e7565d35e92d9457d4bb3f16
+- qdrant_id: 88db8d58-8e2c-5c97-a453-1e27f15f2d1a
+- source: Maurice Natanson - The Erotic Bird_ Phenomenology in Literature-Princeton University Press (2021).pdf
+- chunk_index: 80
+- importance: 0.7765
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+P H E N O M E N O L O G Y I N L I T E R A T U R E I 15 each of us but is taken for granted in its occurrence. It is hardly satisfying to suggest that if the current of existence is secret, there is a still larger secrecy having to do with everydayness. Yet this unappealing path must be pursued. If we can grasp the manner in which daily life is taken for granted, we can perhaps understand the way in which the current of existence ﬂows through our lives. Fortunately, there is a point of access to the taken-for-grantedness of everyday existence; it resides in what we take to be typical in our experience. Typically, in ordinary life, I am at the center of my perceptual uni- verse. That is to say that my body is at the “still point” of the ﬂux of comings and goings which take place in my ﬁeld of perception. I am where my body is. From that central focus I look out at the world around me. What is and what is not within reach depends on my bodily
+
+## Excerpt 50
+- id: 5e8a09d3460a3fd72d610fd8
+- qdrant_id: 2970d19b-1e31-5b33-90d9-596d457119d1
+- source: The Phenomenology of Sex, Love, and Intimacy (Susi Ferrarello) (Z-Library).pdf
+- chunk_index: 400
+- importance: 0.7688
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+ity. These nows represent a quasi-­temporal disposition of the phases in the flux of time. Moreover, each now, according to Schutz (1959, 57) is the expression of a reflexive intention that Mohanty names primordial self-­presence (Mohanty, 2008). When the I awakes in the moment in time it comes to presence through a primordial functioning that fulfills an immediate goal (2008, 61). There is a reflexive presence in the longit- udinal intention through which I come to existence; this presence expli- cates itself through the validation of my voluntary action (2008, 66). In this now I extend myself toward immediate contents that are going to fulfill the horizon of the now (2008, 63) that I retained as what was prompted to me through action—what Husserl called retention. It is from this retentive side that the transversal sense of intentionality stems. Schutz describes this form of…
+
+## Excerpt 51
+- id: 0b8ffbe9339d074a404c534a
+- qdrant_id: 9623d1c6-2412-5b63-9d80-aab767c45f12
+- source: Erika Goble - Visual Phenomenology_ Encountering the Sublime Through Images (Phenomenology of Practice)-Routledge (2016).pdf
+- chunk_index: 563
+- importance: 0.7611
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+having given us a tantalizing glimpse into something more, it remains elusive, even as its possibility is suggested at every turn, every sign, every lilac bush. Bachelard (1961/2012) writes that “a simple image is a revealer of the World” (p. 200). This may be most true with an image that evokes the sublime. After our encounter, we may begin to notice that which has always been present in our world but which we have never before noticed. Or we may see our world in a new and diﬀerent light. Perhaps, then, an unexpected consequence of experiencing the sublime is the development of an increased sensitivity towards and appreciation of the complexities of life as lived. Sublime Illumination We gaze petriﬁed at the hieroglyphs of the invisible, as they too stand motionless or only slowly change against the background of a nocturnal sky. We watch forces that slumbered within us, waiting stubbor…
+
+## Excerpt 52
+- id: fa9fe1a44e9b2f04b1b6e78f
+- qdrant_id: b0823ae4-02fc-5edd-b9c7-59ad9260e28b
+- source: [Technologies of Lived Abstraction] Eleni Ikoniadou - The Rhythmic Event_ Art, Media, and the Sonic (2014, The MIT Press) - libgen.li.pdf
+- chunk_index: 269
+- importance: 0.7807
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+images, and spaces, as these appear through the senses. Rhythmic or middle time resides in these discrepancies. Time, as it were, vibrates, beneath solid structures, specific peoples, and events. As it was sketched out in the Stimu- line example, calculable space was off limits. The only link with survival passed through [rhythmic] time. Stimuline becomes a portal whose tremors reveal the double truth of time: local and cosmic; felt yet largely unconscious; rhythmic but not audi- ble; dreamlike yet real. Participants/dreamers/travelers are able not only to access this new mode of time but also to endure its diversions, halluci- nations, and displacements that escape an aware subject. The vibrational artwork summons, expresses, and is animated by the not-taken-for-granted dimensions of experience, those fleeting moments one can barely perceive or express in language but which are …
+
+## Excerpt 53
+- id: 851ac4700412f6cebcb7026b
+- qdrant_id: 64f7372d-d40c-509f-8a22-66f363a15bc1
+- source: Avery F. Gordon - Ghostly Matters_ Haunting and the Sociological Imagination (2008, University Of Minnesota Press) - libgen.li (1).pdf
+- chunk_index: 128
+- importance: 0.7684
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+neck[s]," "small rats," "hill[s] of dead people" and "they never knew where or why she crouched, or whose was the underwater face she needed like that. Where the memory of the smile under her chin might have been and was not, a latch latched and lichen attached its apple- green bloom to the metal. What made her think her fingernails could open locks the rain rained on?" (B zio-iz, £74-75). Spectrality is . . . what makes the present waver (Jameson 1995: 85). The emphasis on the wavering present, on the propinquity of hard-to- touch, hard-to-see abstractions powerfully crisscrossing our concrete quotidian lives is key. The presence of the ghost informs us that the over and done with "extremity" of a domestic and international slavery has not entirely gone away, even if it seems to have passed into the register of history and symbol. Haunting the post-Civil War and by allegorical reference the post-civil rights era, the presence of a ghost who is herself
+
+## Excerpt 54
+- id: 4dea85333d189bd63cf3f358
+- qdrant_id: 50e626ec-e6cc-51fa-aa10-e23b5ab71b2b
+- source: [Comparative history of literatures in European languages 17] Esterhammer, Angela - Romantic poetry (2002, John. Benjamins Pub. Co) - libgen.li.pdf
+- chunk_index: 134
+- importance: 0.7611
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+described in attentive detail: no pool of thine, Though clear as lake in latest summer-eve, Did e’er reﬂect the stately virgin’s robe, The face, the form divine, the downcast look Contemplative! Behold! her open palm Presses her cheek and brow! her elbow rests On the bare branch of half-uprooted tree, That leans towards its mirror! (Coleridge [1912], 1: 371) So insistent is the mind’s mimetic projection that the lover cries out, ‘‘Behold!’’ As if it were not enough to delineate the very look and gesture of the image that is not there, he has the phantom image return his gaze and then teasingly cast ﬂowers into the water, dispelling her own non-existent presence: he now With steadfast gaze and unoﬀending eye, Worships the watery idol, dreaming hopes Delicious to the soul, but ﬂeeting, vain, E’en as that phantom-world on which he gazed, But not unheeded gazed: for see, ah! see, The sportive tyrant with her left hand plucks The heads of tall ﬂowers that behind her grow,
+
+## Excerpt 55
+- id: eec5d7dc840b68781ef293f1
+- qdrant_id: edd330f6-b951-5044-b07e-ad6c6370adff
+- source: Tarja Laine - Bodies in Pain_ Emotion and the Cinema of Darren Aronofsky (2015, Berghahn Books) - libgen.li.pdf
+- chunk_index: 307
+- importance: 0.7677
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+In her analysis of the film, Patricia Pisters (2010) has paid attention to its ‘neuroaesthetical’ elements, but perhaps The Fountain could more reward- ingly be understood in terms of neurotheology, as the film finally offers a spiri- tual experience, directly relayed to the spectator by its aesthetic system.5 This system reveals spiritual awe or oneness with the universe, for instance by the use of ‘divine light’, a salient aesthetic element in the film that emerges at the moment of approaching death. Thus, the juxtaposition of science and spiritu- ality in The Fountain may prompt one to ask whether mystical experiences are ‘genuine’, or merely neural phenomena that correspond with subjective spiri- tual events. This is also the central question in William James’s (1997) psycho- logical study into the variety of religious experience, first published in 1902. James makes a remarkab…
+
+## Excerpt 56
+- id: 3d2efeaac3de452b7f8ebf4a
+- qdrant_id: c8e7960b-7072-5b8b-916f-d6209b3da253
+- source: (At the interfaces probing the boundaries 38) Scott, Niall - Monsters and the monstrous _ myths and metaphors of enduring evil-Rodopi (2007).pdf
+- chunk_index: 78
+- importance: 0.7619
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+was, in effect, an entirely new vision of sewers, where the magical was overlaid onto the rational, in order to make the prosaic pleasing. However, in the particular space of the subterranean reservoir, where even if the sewage was not visible it was however present in the imagination, older associations emerged, or perhaps resurfaced - not unconsciously as might be suggested by the psychological model - but with the writers fully alert to the contradictory aspects of this experience and the pull of both fascination and fear. It was the unique character of this space that prompted a conflation of the rational, magical and monstrous - a point emphasised by the writers themselves, who knew this was an experience never to be repeated. Indeed, for the writer for the Daily Telegraph, the new vision paradoxically stimulated these older associations: in short, old and new were inseparably linked. As if to exemplify
+
+## Excerpt 57
+- id: fa3b0e5bdaddc9a80b821b33
+- qdrant_id: 0e8113f3-7baf-5a86-b383-1e27faad7216
+- source: [Continuum Literary Studies] Sarah Dillon - The Palimpsest_ Literature, Criticism, Theory (2007, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 134
+- importance: 0.7581
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+the sea appeared paved with innumerable faces, upturned to the heavens: faces, imploring, wrathful, despairing, surged upwards by thou- sands, by myriads, by generations, by centuries: – my agitation was inﬁnite, – my mind tossed – and surged with the ocean. (1998a, p. 72) Disappointingly, Spector merely concludes from this passage that ‘De Quincey’s mind has turned into moving water’ (p. 520): ‘all that survives of his identity is that he is able to say that on the surging waters are faces and that they are human’ (p. 520). Although Spector records a move in De Quincey from specular doubling to radical estrangement, he stops short of acknowledging De Quincey’s more dramatic move from specular- ity to spectrality, to the spectralization of the human subject. In this passage, the mirrored surface of the waters of the specular subject becomes undeniably haunted by the spectres of multiple human ﬁgures – both, it might be imagined, De Quincey’s former selves, and the others who haunt
+
+## Excerpt 58
+- id: 2b5c2a83b700130ea013ef21
+- qdrant_id: 265101ef-c6c8-5856-9a27-7c0553ec7bc0
+- source: Fredric Jameson - Postmodernism, or, The cultural logic of late capitalism -Duke University Press (1991).pdf
+- chunk_index: 193
+- importance: 0.7602
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+central column surrounded by a miniature lake, the whole positioned between the four symmetrical residential towers with their elevators, and surrounded by rising balconies capped by a kind of greenhouse roof at the sixth level. I am tempted to say that such space makes it impossible for us to use the language of volume or volumes any longer, since these are impossible to seize. Hanging streamers indeed suffuse this empty space in such a way as to distract systematically and deliberately from whatever form it might be supposed to have, while a constant busyness gives the feeling that emptiness is here absolutely packed, that it is an element within which you yourself are immersed, without any of that distance that formerly enabled the perception of perspective or volume. You are in this hyperspace up to your eyes and your body; and if it seemed before that that suppression of de…
+
+## Excerpt 59
+- id: 225f08de957a414869aeb2aa
+- qdrant_id: d05d971d-35c6-5161-9d45-5cb20854b7a3
+- source: Bruno Latour - On the Modern Cult of the Factish Gods (2010, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 116
+- importance: 0.7605
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+finding himself at the same time freed from the obligation of possessing an ego endowed with inner life and consciousness. As a participating observer, he watches others-who only pay him passing attention-as they interrogate aliens who are interested in him only by a fluke. Indeed, this is no longer about him. Perhaps he will be cured by it. But in order to understand this slippage, this sobering up, one would have to offer fetishes a dwelling place again; one would have to build a dovecote where divinities, like a flock of wood pigeons, could come back to roost, and coo to their heart's content. As the session progressed, I understood very quickly that it was not a matter of accepting the actors' "cultural rep- -- On the Cult of the Factish Gods 39 resentations," of entering into them with the condescending hypocrisy of psychologists and believing in the divinities on the pretext that the migrants believe in them (like the mentally disturbed patients in comic
+
+## Excerpt 60
+- id: 0edb1d00d51d9ad9fbd6e725
+- qdrant_id: b580300f-1c66-55af-bd9b-2a4c0c048ab7
+- source: [Critical Voices in Art, Theory and Culture] John Ruskin, Walter Pater, Adrian Stokes - England and its Aesthetes_ Biography and Taste (1998, Routledge) - libgen.li.pdf
+- chunk_index: 306
+- importance: 0.7678
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+moment throwing off the maximum water before the return of the wave. Through all the sensations of vastness and of superhuman force and rhythm which such a scene gives to the senses, surely we attend a parable of inner economy, of those forces within, seemingly foreign to us. We are looking on Nature, but at the same time we look on a clearer distribution of forces within ourselves, a clearer interaction, one more Homeric, more in style and therefore more disinterested than is the case. We would that inner conflict were thus windswept, that visitation of the deeper caverns of the mind were subject to such causes as those that govern tides. And indeed they are, though it would take each of us all our years to trace such tidal move- ments in emotion, such governance by the few essentials. In terms of strength and space and necessity and freedom, a mental no less than a physical…
+
+## Excerpt 61
+- id: 8358abf0991b461a35a60eef
+- qdrant_id: 4ba4c698-c0b3-54b1-98ec-bcb22ebd5773
+- source: [Technologies of Lived Abstraction] Eleni Ikoniadou - The Rhythmic Event_ Art, Media, and the Sonic (2014, The MIT Press) - libgen.li.pdf
+- chunk_index: 249
+- importance: 0.7643
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+connect you to the others as well as to the artists and to a machine that taps audible and imperceptible electronic sounds onto your skin. It looks like you are all sleeping, for you are not quite awake. At times, it feels as if you are swinging in the air; at other times, you feel weightless, as if float- ing in water. Your body, the size of the installation space, the atmosphere, climate, and brightness of the room—all feel like soft, plastic, constantly changing elements. One’s attention is focused deeply and intensely, but it is not directed toward any specific thing; there is a continual exchange between the drawing in of attention and its scattering across the body and surrounding space. No longer the body’s primary sense, visual perception retreats to the background, invalidated by the throbbing energy that engulfs the affected body. Sight, movement, and language are sub…
+
+## Excerpt 62
+- id: 9d4138f3581b78808ed8a187
+- qdrant_id: d528ec8b-621f-5078-a6c2-677d976c5bc4
+- source: Castillo, David R - Baroque horrors _ roots of the fantastic in the age of curiosities (2010, University of Michigan Press) - libgen.li.pdf
+- chunk_index: 417
+- importance: 0.7550
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+hay diferenciarlo de cuando vamos real y verdaderamente. Algunas experi- encias desto han hecho los señores inquisidores con algunas de nosotras que han tenido presas, y pienso que han hallado ser verdad lo que digo” (339–40) (One opinion is that these encounters take place only in our imagination, in which the devil plants all these fantastical images that we later relate when we recall the events. Others say that we truly experience them in body and soul; for my part, I believe that both versions are true, since we do not know whether we experience them in one way or the other, and all that we experi- ence in our imagination we feel with such intensity that it is impossible to dis- tinguish it from what is real and true. Our lords the inquisitors have gathered some evidence of this from some of us whom they have had in prison, and I believe that they have found what I say to be true). …
+
+## Excerpt 63
+- id: f1cd33e1fc9318f89e06b700
+- qdrant_id: 6c8cbc6a-b6ca-5bff-9b57-11807d73022c
+- source: Anna Powell - Deleuze and Horror Film-Edinburgh University Press (2006).pdf
+- chunk_index: 24
+- importance: 0.7943
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+our optic nerves and auditory membranes struggle to process confusing data. Our projected coherence is undermined as we slide into a molecular assemblage with the body of the ﬁlm. Formal properties, like the camera- shake and blurred image strikingly exempliﬁed by The Blair Witch Project, intensify this melding. The viewer’s sensory participation intensiﬁes by viral infection as the ﬁlm literally gets inside us and sets up home there. My Deleuzian perspective on horror ﬁlm stresses the visceral, sensory nature of viewing. Despite the immaterial nature of cinematic images, the viewer experiences corporeal responses as our senses stimulate the neuro- nal networks linked to organs like the heart (pace, pulse-rate), the genitals (warmth, tightness, moisture) and the lungs (depth and rapidity of breath- ing). This is a very diﬀerent process to aesthetic contemplation, or to the subject/object…
+
+## Excerpt 64
+- id: a152288060c194da70134663
+- qdrant_id: ad7a535d-8b0e-56c1-b1e2-4e11fca9477b
+- source: Tarja Laine - Feeling Cinema_ Emotional Dynamics in Film Studies (2011, Bloomsbury Academic) [10.5040_9781628928693] - libgen.li.pdf
+- chunk_index: 182
+- importance: 0.7615
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+photo, the image dissolves into a fl ashback of Ramón just about to dive into the sea. After this the sequence crosscuts between different tem- poral layers, Julia fl ipping through the photos, Ramón fl oating in the water with the whole of his past life passing before his eyes. Then it ends abruptly with Ramón being rescued and gasping for air. The organiza- tion of this sequence has several functions. First it establishes a parallel- ism, a spiritual connection even, between Julia and Ramón. As Julia is terminally ill, she can understand Ramón’s death wish from the inside. Secondly, it shows how inextricably Ramón’s past and present are inter- twined: the past events defi ne the present in a most dramatic way. This is how irrealis as an operational logic works: it both alienates indi- viduals from and simultaneously imprisons them in their own presence. Ramón is alienated from…
+
+## Excerpt 65
+- id: c6756ce715be7aea9dbc9d97
+- qdrant_id: 93cc8a00-325a-548f-932b-505f7f31e67b
+- source: [Routledge Studies in Religion] Darryl Caterine (editor), John W. Morehead (editor) - The Paranormal and Popular Culture_ A Postmodern Religious Landscape (2019, Routledge) - libgen.li.pdf
+- chunk_index: 89
+- importance: 0.7680
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+between these phenomena and thus (combined with his surprised reported thought) stakes a claim for the significance of the events. These two accounts show striking similarities in how rationality, agency, and surprise are oriented to and constructed. But there are comparable capacities and features in other accounts. The next extract details one of George’s experiences. Previously he reports a dream where he experiences a “significant” light, a “female goddess,” and some meaningful colors. George’s account is explicitly oriented to the difficulty he has talking about these experiences. This extract starts with George in his bathroom. . . . and I was standing in the bathroom and I was looking up at this light and I thought this is well I was looking at the back of my eyelids I thought oh the pr-colors I can see are pretty much the colors I can see when I was having the dream it was this golden color I thought what
+
+## Excerpt 66
+- id: ed6b90deb08785ebc008fee7
+- qdrant_id: 6e9991c9-2b3c-5e4c-87e1-3b571821a890
+- source: (Studies in Speculative Fiction) William F. Touponce - Ray Bradbury and the Poetics of Reverie-UMI Research Press (1984).pdf
+- chunk_index: 46
+- importance: 0.7865
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+actual life-world. Taking the perceptual and tactile imagined experience of Poe's "gum-like water" to say that I experience with joy a certain pleasure in kneading it would be the same thing, for the phenomenologist, as saying that the water' 'of- fers me a meaning" of a fantastic world. Thereis no need to reduce this phenom- ena to an underlying fantasy. That which shows itself to me is measured in terms of that which it is possible for me to say about it. A phenomena is thus identified with the sayable, hence the definition of phenomenology as the description of liv- ed experience, and the need for many words that tell of an experience which in itself is mute. Reverie is best treated as a realm of imaginative experience that is transposed to the cosmic level, which offers us a world. Bachelard in his early works sometimes refers to this layer of significance as the oneiric level of the text and I have followed his usage in this study in order to
+
+## Excerpt 67
+- id: cb46af09397a58101f9dc025
+- qdrant_id: b3c562f2-ee88-50fe-aa05-6df735493220
+- source: wolfreys2002.pdf
+- chunk_index: 340
+- importance: 0.7603
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+temporal disjointing, iterability, the movements of revenance and supplementarity. That ‘ﬂuidity’ and ‘oscillation’ as signs of the spectral take place is clear enough. I want to pause here, however, to consider another aspect of The Lifted Veil suggested by Terry Castle’s reading of the spectro-tropological work of phantasmagoria considered in the previous section of this chapter. Castle’s thesis, that there occur throughout the nineteenth century the effects of transport, of transference, and translation from the literal to the metaphorical as the signs of the ‘spectralization of the mental space’ belonging to an unstoppable internalization, is clearly at work in Eliot’s projection of phantom images onto the mind of Latimer. Indeed his ‘foresight’ brings into focus the power of language to make
+
+## Excerpt 68
+- id: f44df943a30a81b67c99cb11
+- qdrant_id: a7ca2a6c-2a83-52cb-ba30-e991dd18bfe2
+- source: Emily Sun (editor)_ Eyal Peretz (editor)_ Ulrich Baer (editor) - The Claims of Literature_ A Shoshana Felman Reader (2022, Fordham University Press) [10.1515_9780823292790] - libgen.li.pdf
+- chunk_index: 123
+- importance: 0.7530
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+emanating from beneath the surface of the lake, an assumed force which ever since Frazer’s Golden Bough has been associated with the fear — well documented by ethnologists — of seeing one’s own reﬂec- tion in water.23 It is a fear based on the assumption that reﬂections, like shadows, are not just metaphorical simulacra, but real and vulner- able metonymic parts of the person reﬂected. More than that, they were considered to be the person’s soul, which was in danger of being pulled below the surface of the water by evil spirits, causing the death of the reﬂected person. The presence of such a potentially dangerous undertow down toward the reﬂecting surface of the lake permeates the radiance of the golden late summer or early autumn day in Ho¨lder- lin’s poem. The gesture of ‘hanging down’ into the water thus endows the image of perfect beauty with a tendency toward a fatal outcome. Here again, as with Adonis and Narcissus, a short life and imminent
+
+## Excerpt 69
+- id: cca3997e9ad5657770804486
+- qdrant_id: 39fd3a0e-5dd5-52f7-a299-b6049e3267cd
+- source: Enzo Paci (auth.), F. J. Smith, Erling Eng (eds.) - Facets of Eros_ Phenomenological Essays-Springer Netherlands (1973).pdf
+- chunk_index: 348
+- importance: 0.7935
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+degrees into the penumbra of the obscene. This is a virtual tropism of photography and cinema alike, to the extent that their reliance on a naive positivistic notion of vision provides a basis for their attempt to "disclose" the truth of love in visible terms alone. From the peripety of such convulsive efforts at reconnaissance it may eventually return with an enhanced awareness of the importance of what cannot be simply shown for realizing presence to one another. From the cryptic suffering and violence of the obscene there is always a chance of re- turning with a clearer recognition of the eventual necessity of a lan- guage of gentleness and consideration. But this must call on the strength to abandon magical pretentions which have been seen through as specious. These are the magical obscene expressions earlier considered: anger, protest, regeneration, and madness. When empl…
+
+## Excerpt 70
+- id: 2b81e1a9fcb317fafe8becdf
+- qdrant_id: 186d5a32-ea43-586d-bc95-e29310a29a98
+- source: Catherine Malabou_ Carolyn Shread_ Clayton Crockett - Plasticity at the Dusk of Writing_ Dialectic, Destruction, Deconstruction-Columbia University Press (2009).pdf
+- chunk_index: 194
+- importance: 0.7706
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+becoming a carpet or a lamp. Th ese apparitions, the “dark background of exis- tence,” usually occur at dusk, in the twilight, aft er nightfall. Th ese analyses of dusk and its phantasmagoria are fundamental, for they allow us to defi ne the object of philosophy in a radically new manner: as an imaginary object. Th is imaginary “object” is Being itself, the powerfully halluci- natory eff ect of its phenomena. It is only possible to tear away from the horror of the “there is” through the hook- ing back of transcendence, the act and affi rmation of singular existence through which the existent is able to break with the permanent background or “hyposta- sis” of existing. For Levinas, the fantastic is entirely soluble in transcendence. Th e
+
+## Excerpt 71
+- id: a167fe2aab50f889dd3f5bd7
+- qdrant_id: e06b82f3-1d94-5084-a77d-ade72cd1a25b
+- source: Anne Whitehead - Trauma Fiction (2004, Edinburgh University Press) [10.1515_9780748666010] - libgen.li.pdf
+- chunk_index: 224
+- importance: 0.7538
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+If the sea mourns those whose grave is the ocean floor, then the water-logged ground of Biskupin acts as a metaphor for the accumula- tion or sedimentation of memory over time. The work of the archae- ologists reveals that the process of memory is a slow and patient uncovering of layers. Jakob suggests that imagining oneself into the past requires a comparable technique of immersion: `I spent hours in other worlds then surfaced dripping' (29). The layerings of memory are not confined to the old world; unexpectedly, the new world contains its own strata and sedimentations. Athos and Jakob immerse themselvesinthegeologicalpastofToronto,imaginingthesubtropical salt sea which was once there. For Ben, the processes of sedimentation are connected to the Humber River and the shards of crockery that are lodged in the river bed. These fragments testify to the recent cata- strophe of the flood, which is inextricably linked in Ben's imagination
+
+## Excerpt 72
+- id: 2d512e2df2f3741a272d1168
+- qdrant_id: ee4af3cf-b7c6-57a9-8d67-054bab3c6166
+- source: David Punter, Glennis Byron - The Gothic (Blackwell Guides to Literature) (2004) - libgen.li (1).pdf
+- chunk_index: 135
+- importance: 0.7685
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+oppressed by mingled and conﬂicting perfumes, reeking up from strange con- voluted censers, together with multitudinous ﬂaring and ﬂickering tongues of emerald and violet ﬁre. The rays of the newly risen sun poured in upon the whole, through windows formed each of a single pane of crimson-tinted glass. In such a world, it is impossible for narrators – or indeed other characters – to become or remain certain of what they are seeing, or sensing, or feeling. All senses are more or less numbed, and it is under these conditions that hal- lucinations ﬂourish – the hallucination, for example, which might or might not be the ﬁgure of Ligeia in ‘Ligeia’, or the ghostly forms that walk through an uncertain light in ‘The Fall of the House of Usher’ (1839). What can also happen in much Gothic ﬁction is that a condition of hal- lucination or trance – whether overtly caused by drugs or represented as …
+
+## Excerpt 73
+- id: 4bd3991e6d9f60e3022c38c4
+- qdrant_id: df497df3-5d79-5b2d-a8fe-10c19f5d37c6
+- source: [SubStance vol. 23 iss. 1] Anna Klobucka - Issue 73 __ Hélène Cixous and the Hour of Clarice Lispector (1994) [10.2307_3684792] - libgen.li.pdf
+- chunk_index: 48
+- importance: 0.7534
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+seem to model themselves here on the mystical quests undertaken by the narrators of Lispector's novels: G.H.'s book- length close encounter with otherness, as represented by a dead cockroach, or the intensely lyrical meditation of the nameless voice narrating Agua viva. The epiphanies of self-fulfilment, in which both novels climax, be- SubStance #73, 1994 This content downloaded from 165.123.34.86 on Thu, 22 Oct 2015 12:18:31 UTC All use subject to JSTOR Terms and Conditions
+
+## Excerpt 74
+- id: 1417f67f1a3b46fcdbead1b2
+- qdrant_id: 9961db04-bbc9-523e-83c2-4a412cbfa405
+- source: Michael Y. Bennett_ - The Routledge Companion to Absurdist Literature-Routledge (2024).pdf
+- chunk_index: 199
+- importance: 0.7503
+- seed_hits: clarice-lispector-the-passion-according-to-g-h-cockroach-becoming
+
+that leads to the metamorphosis of a human being into another species; in Cortázar’s particular case, a fish. Clarice Lispector achieves this mutation with astonishing accuracy, perhaps as a result of her own experience of having grown up with immigrant parents in a society where she had also retained a certain degree of exoticism as an outsider. Lispector once said that she was not influenced by the French existentialists, nor by the concept of Nausea as introduced by Sartre (Colasanti et al. 2008: 18). She stated: my nausea is truly felt because when I was a child, I couldn’t stand milk, and almost vomited it back up when I was forced to drink it (…) I mean, I know what nausea is, in my entire body, in my entire soul.18 She was not a Sartrean. The Obscene Bird of Night by José Donoso The early twentieth‑century novel in Latin America embarked on an experimental approach to avant…
+
+## Excerpt 75
+- id: 9e3cc78a1459d3057596fffd
+- qdrant_id: e976bb43-2eab-56e0-8b6b-f5ee9cbf4808
+- source: Manuel DeLanda - Intensive Science and Virtual Philosophy (2011, Bloomsbury Academic) - libgen.li-1.pdf
+- chunk_index: 6
+- importance: 0.7774
+- seed_hits: jasbir-puar-debility-capacity-assemblage
+
+deal of philosophical work must be performed to reconstruct it from the impoverished version given todirect experience. The different realist positions that have emerged differ precisely in what they postulate must be speculatively added to what is given to yield a richer picture of things and events. Given how recent this “speculative turn” is, the variety of proposals is a welcome antidote to the premature freezing of a single ontological solution to the problem. In the present text the necessary enrichment of the world-view is performed by adding to the properties that deﬁne an object’s identity, its tendencies and capacities. Whereas properties are always actual, tendencies and capacities can be real without being actual, if they are not currently manifested or exercised. Thus, the mind-independent identity of a given body of water can be established by determining its actual properties (its volume, purity of composition, temperature, speed
+
+## Excerpt 76
+- id: cbfcd56ea274eee022ddc385
+- qdrant_id: 57c76e45-eda7-5d63-9cba-9ddcbdc3b09f
+- source: technologies-of-the-gothic-in-literature-and-culture-2015.pdf
+- chunk_index: 66
+- importance: 0.7643
+- seed_hits: michel-serres-the-five-senses-noise-parasite
+
+Introduction 13 Überthing. Blake and Elferen’s formulation of Sonic Media And ­Spectal Loops (SMASL) describes a scenario wherein sonic natality mixes with uncanny technological extensions to stir apprehension and hesitation in the listener. An uncanny sensation arises out of the doubts regarding the origins and sources of the sound: advanced musical technology has the power to actualize echoes and reverberations, original bases and perceived endpoints. Spectral presences are thus engendered through the technologies of sound that blur borders and discombobulate the listening experience. Articulating a new analytical model, SMASL, Blake and Elferen pose a series of onto- logical, locational and perceptual questions about the emergence of spectral sounds, what they are and how we can theorize them. Gothic sound is also the subject of Kelly Gardner’s contribution, which refers to…
+
+## Excerpt 77
+- id: ff8017b70a1567ebed5ee70c
+- qdrant_id: 092dc544-b59b-5123-a17f-dd3ec74ff58a
+- source: ((A Cultural Politics book)) Jean-Luc Nancy, Irving Goh - The Deconstruction of Sex-Duke University Press (2021).pdf
+- chunk_index: 222
+- importance: 0.7620
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+In fact, I cannot respond better than to cite a passage from Cla- rice Lispector. At the beginning of her Água Viva, she speaks of her desire to capture the fugitive instant in which is found, she says, “the is of the thing.”15 That is going to be the preoccupation of the whole book. Now, just after that beginning, she goes on to say: “Only the act of love — the limpid star-­like abstraction of feeling — captures the unknown moment, the instant hard as crystal and vi- brating in the air.”16 I could go on quoting Lispector, but here, I only want to pause on the words “the limpid star-­like abstraction of feeling.” Simulta- neously, one is surprised by the terms here according to which jou- issance (“feeling”) is articulated, because an abstraction is hardly sensible, so it seems; and one feels quite sharply [vivement] how this expression, “limpid star-­like abstraction,” suggests…
+
+## Excerpt 78
+- id: 8a11a6bf1332bd71f14c7328
+- qdrant_id: 50c7ea95-6109-5136-964b-e8afa02317b5
+- source: ((A Cultural Politics book)) Jean-Luc Nancy, Irving Goh - The Deconstruction of Sex-Duke University Press (2021).pdf
+- chunk_index: 289
+- importance: 0.7497
+- seed_hits: lispector-água-viva-presence-stream-of-consciousness
+
+15 Lispector, Água Viva, 3. 16 Lispector, Água Viva, 4. 17 Lispector, Água Viva, 34, 68. 18 Lispector, Água Viva, 60, 75. 19 Lispector, Água Viva, 65, 76, 41, 59. 20 Lispector, Água Viva, 57. 21 Lispector, Água Viva, 4. 22 Lispector, Água Viva, 34, 4. 23 See the 2002 documentary film Derrida, directed by Kirby Dick and Amy Ziering. 24 Lispector, Água Viva, 29. 25 Miller, Tropic of Capricorn, 182 – 83. afterword. sex and the killjoy 1 Deleuze and Guattari, Anti-­Oedipus, 88. 2 Blake, Jerusalem; Irigaray, Ethics of Sexual Difference. 3 Gallop, Feminist Accused of Sexual Harassment. 4 Bersani, “Is the Rectum a Grave?,” 200.
+
+## Excerpt 79
+- id: 373cd77f4fc9d8ec18e7f6f7
+- qdrant_id: 4a8ecc1f-7a7a-5f86-9d4e-153844cebb43
+- source: [International Library of Sociology] Mike Michael - Reconnecting Culture, Technology and Nature_ From Society to Heterogeneity (2000, Routledge) - libgen.li.pdf
+- chunk_index: 647
+- importance: 0.7281
+- seed_hits: autotheory-maggie-nelson-the-argonauts
+
+on its walking boots and sets off along a trail. On the way, in one of the old coppiced woods through which the seeker-of-the-sublime must pass, it notices that the foliage is tainted, that some trees seem to be dying. The temperature is high for the time of year and, as it walks, its feet begin to swell and what were comfortable boots become uncomfortable. After a curtailed but nevertheless painful walk, it returns to its car, again frustrated. It cannot wait to put its feet up on the sofa. With luck it will catch the natural history programme on the wildlife of the Amazon rainforest. It doesn’t. This rather strained vignette marks a series of sub-relationalities. Certainly, MM can be common to the three co(a)gents. But the connections proceed not simply through MM. The initial worry of the couch potato and its transformation into a cason is partly prompted by sunshine. The sunshine entails a fragment of agency and identity from the seeker-of-the-sublime. The cason’s aggressive
+
+## Excerpt 80
+- id: a0f85e81ebd909ae1548fd78
+- qdrant_id: 1870ba3b-d824-5757-9d88-5d7c5fe07331
+- source: [Cambridge studies in Romanticism 55] Tim Milnes - Knowledge and Indifference in English Romantic Prose (2003, Cambridge University Press) - libgen.li.pdf
+- chunk_index: 12
+- importance: 0.6797
+- seed_hits: chris-kraus-i-love-dick-autotheory
+
+owe a huge debt of gratitude to Sara Lodge, Uttara Natarajan, Lesel Dawson, Jo Wong and Liz Barry. Special thanks are also due to Ken Lomax, Michael John Kooy, Murray Satov, Anne Vasey, Dyan Sterling, Andrew Palmer, Liz Brown, Jules Siedenburg, Criana Connal, Jessica Schafer and Alison Sale. To this list I cannot resist adding the name of Plecostomus, the friendliest, cleverest and laziest ﬁsh in the tank. viii

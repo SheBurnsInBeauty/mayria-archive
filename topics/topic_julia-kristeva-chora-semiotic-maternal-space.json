@@ -1,0 +1,1212 @@
+{
+  "meta": {
+    "generated_utc": "2025-09-18T12:11:03Z",
+    "model": "BAAI/bge-base-en-v1.5",
+    "collection": "visceral_synthesis_archive",
+    "vector_name": "<unnamed>",
+    "parameters": {
+      "per_query": 220,
+      "canon_total": 5000,
+      "topic_k": 80,
+      "mmr_lambda": 0.58,
+      "near_dup_cos": 0.96,
+      "topic_sim_threshold": 0.34,
+      "min_chars": 220,
+      "max_chars": 2000,
+      "max_per_source_total": 35,
+      "max_per_source_topic": 3,
+      "mode": "all-data",
+      "default_seed_weight": 1.0,
+      "mmr_relevance_alpha": 0.6,
+      "max_core_mb": 5.0
+    },
+    "seeds": [
+      "hauntology and cancelled futures (Mark Fisher, Derrida)",
+      "abjection Kristeva Powers of Horror",
+      "Irigaray two lips sexual difference fluids",
+      "Lispector Água Viva presence stream of consciousness",
+      "autotheory Maggie Nelson The Argonauts",
+      "Cixous Laugh of the Medusa writing the body white ink",
+      "Duras minimalism absence presence The Malady of Death",
+      "archive fever Derrida",
+      "Deleuze Guattari rhizome assemblage desire",
+      "Eugene Thacker horror of philosophy cosmic pessimism",
+      "Rosi Braidotti posthuman nomadic theory feminist new materialism",
+      "Judith Butler gender performativity Gender Trouble bodies",
+      "Sara Ahmed affect theory orientation phenomenology feminist killjoy",
+      "Donna Haraway cyborg feminism companion species situated knowledges",
+      "Roland Barthes lover's discourse punctum Camera Lucida",
+      "Susan Sontag On Photography Against Interpretation Illness as Metaphor",
+      "Walter Benjamin aura mechanical reproduction archive",
+      "Giorgio Agamben bare life state of exception homo sacer",
+      "Catherine Malabou plasticity the new wounded",
+      "Jean-Luc Nancy being singular plural",
+      "Maurice Merleau-Ponty phenomenology of perception the flesh",
+      "Emmanuel Levinas face of the other ethics",
+      "Michel Foucault discipline punishment biopower genealogy",
+      "Lauren Berlant cruel optimism affect",
+      "bell hooks all about love feminist love ethics",
+      "Audre Lorde the erotic as power poetry survival",
+      "Gayatri Spivak strategic essentialism subaltern can the subaltern speak",
+      "Elizabeth Grosz volatile bodies corporeal feminism",
+      "Karen Barad agential realism intra-action entanglement",
+      "Stacy Alaimo trans-corporeality material feminism",
+      "Jasbir Puar debility capacity assemblage",
+      "Elaine Scarry The Body in Pain representation",
+      "Michel Serres The Five Senses noise parasite",
+      "Laura Mulvey visual pleasure narrative cinema male gaze",
+      "Kathy Acker body writing cut-up",
+      "Chris Kraus I Love Dick autotheory",
+      "Maggie Nelson Bluets blue as methodology",
+      "Anne Carson Eros the Bittersweet fragments",
+      "Georges Bataille eroticism expenditure general economy",
+      "Maurice Blanchot The Writing of the Disaster space of literature",
+      "Hélène Cixous Book of Promethea love as world-creation",
+      "Julia Kristeva chora semiotic maternal space",
+      "Luce Irigaray This Sex Which Is Not One speculum",
+      "Clarice Lispector The Passion According to G.H. cockroach becoming",
+      "Mark Fisher capitalist realism depression hauntology",
+      "Rosi Braidotti affirmative ethics vitalist materialism",
+      "Eugene Thacker In the Dust of This Planet negative theology",
+      "Sontag Against Interpretation erotic of art",
+      "Barthes Mythologies semiotics punctum studium",
+      "Agamben Profanations potentiality",
+      "media archaeology Kittler apparatus inscription",
+      "Bernard Stiegler technics memory pharmacology",
+      "Vilém Flusser technical image apparatus",
+      "Achille Mbembe necropolitics postcolony",
+      "Paul B. Preciado Testo Junkie pharmacopornographic regime",
+      "Deleuze cinema time-image movement-image",
+      "Claire Colebrook Deleuze feminism extinction",
+      "Lacan mirror stage desire lack"
+    ],
+    "title": "julia-kristeva-chora-semiotic-maternal-space",
+    "counts": {
+      "excerpts": 80
+    }
+  },
+  "excerpts": [
+    {
+      "id": "62aaa67f55ad14afb1f3294a",
+      "qdrant_id": "472b0336-48be-5cc2-bc62-4ad43e144847",
+      "text": "(écriture féminine) takes place within this new, female symbolic order. Julia Kristeva also theorizes a space beyond language and connects it with the mother, but she does not claim any privileged link to it for women, nor does she argue for a particularly feminine language. Kristeva's work points to a destabilization of all identities, including the female. Still, she does adhere to the psychoanalytic framework that, metaphorically, makes of language a \"paternal\" order and labels the pre­linguistic stages \"maternal.\" Like Cixous, Kristeva uses a maternal metaphor to criticize Lacan's insistence on the loss of the mother upon entering the symbolic order. She argues that the mother is never completely lost (for both men and women), that the relationship with her returns continually and plays a necessary role in the symbolic order. Kristeva calls the maternal element within symbolic la…",
+      "source": "[SUNY series in contemporary continental philosophy] Christina Hendricks, Kelly Oliver - Language and Liberation_ Feminism, Philosophy, and Language (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 99,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8229716,
+      "importance": 0.8309256434440613,
+      "final_score": 0.8229716420173645
+    },
+    {
+      "id": "ca2699799fe9f99d960edd49",
+      "qdrant_id": "40299e50-f48f-5c9e-9367-ccfed03bf264",
+      "text": "added) The maternal body during gestation, and the maternal chora during the child's infancy are conceived by Kristeva as subject-less corpor­ eal spaces. They are not identities or roles for women (mother as womb, breast, partial objects rather than as subject). Yet they are the essential ingredients or elements required by the child's psychi­ cal movement from the imaginary to the symbolic. Kristeva suggests that the child must (retrospectively) fantasize these pre- imaginary spaces as //they were inhabited by a subject. This is her explanation of the child's recognition and acceptance of the mother's phallic status. This then is a maternity which women as such can never inhabit. It is a maternity, a space, an energy, which, in so far as it is semiotic, cannot be spoken, especially not by mothers. If the semiotic is represented as feminine and maternal, it is nevertheless un…",
+      "source": "Elizabeth Grosz - Jacques Lacan_ A Feminist Introduction-Routledge (1990).pdf",
+      "chunk_index": 159,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8198663,
+      "importance": 0.8336890339851379,
+      "final_score": 0.8198664784431458
+    },
+    {
+      "id": "38d30d9e1c55a596bf9999ba",
+      "qdrant_id": "fbdcb3b0-801d-5bc8-8b84-216b499ca2f0",
+      "text": "to the semiotic, a feature of language that exists beneath Symbolic logic and grammar. It draws its sustenance from the chora, a term meaning ‘receptacle’ or ‘enclosure’, which Kristeva borrows from Plato and identifies with the womb. The chora evokes an image of unity between mother and child, prior to the Mirror Stage and the Symbolic Order. It flows with pre-linguistic elements, like the pulsations of the primi- tive drives, and resurges wherever discourse collapses — a revolutionary force against the Name-of-the-Father. Kristeva celebrates the “homo- sexual’ union of mother and daughter in the chora, although she denies that ‘homosexual’ here means ‘homosexual’, disavowing the erotic aspect of that union. In The Acoustic Mirror, Silverman provides a critique of Kristeva’s ideas. Kristeva removes the mother as far as she can from the domi- nant social and linguistic orde…",
+      "source": "Feminist film theorists_ Laura Mulvey, Kaja Silverman, -- Chaudhuri, Shohini -- 2006 -- London ; New York_ Routledge -- 9780415324335 -- 7d4dcaa1e21de4deb206d8337eae0708 -- Anna’s Archive.pdf",
+      "chunk_index": 186,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.81686926,
+      "importance": 0.8263925313949585,
+      "final_score": 0.8168692588806152
+    },
+    {
+      "id": "ef6593bf5f3e2313c62c3e7c",
+      "qdrant_id": "a5705f80-695f-545d-945c-cae277ccb562",
+      "text": "For Kristeva the semiotic order is rooted in the space of the mother­child relationship, a maternal space she describes in Revolution in Poetic Language as the chora (Kristeva 1984a).26 The chora is ordered by the mother's authority over the child's drives,",
+      "source": "(SUNY series in contemporary continental philosophy) Christina Hendricks, Kelly Oliver - Language and Liberation_ Feminism, Philosophy, and Language -State University of New York Press (1999).pdf",
+      "chunk_index": 101,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.81543475,
+      "importance": 0.8125091195106506,
+      "final_score": 0.8154348731040955
+    },
+    {
+      "id": "eb8b7441e7c2417d06bce40d",
+      "qdrant_id": "ec9dabdb-efa6-5fd1-ba86-ef78353bb44b",
+      "text": "to voices, first of all the voice of the mother, who is perhaps inviting the baby to imitate her voice, and therefore to want to be born. Of course, this is something I made up; yet what I said about very early childhood has something true in it. I know very little about it; I know nothing more than an ordinary adult. But no particular competence is necessary to know that the first thing a pregnant woman does, once she has accepted that she is pregnant, is to think of her child [creatura]. So from the first moment of her relationship with the baby she creates a place of “thirdness,” as Pierce calls the mode of being of signs.11 I know only one theory of language that answers to my theorem that the matrix of life is for us also the matrix of the word. This is Julia Kristeva’s theory, which she explains in the first part of Revolution in Poetic Language. It is a rather complicat…",
+      "source": "(SUNY series in Contemporary Italian Philosophy) Luisa Muraro_ Timothy S. Murphy - The Symbolic Order of the Mother-SUNY Press (2018).pdf",
+      "chunk_index": 204,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8120706,
+      "importance": 0.8242844939231873,
+      "final_score": 0.8120704889297485
+    },
+    {
+      "id": "9fb2ef15873107c8e0174bca",
+      "qdrant_id": "9187b178-a9e4-5447-b36c-d7425e3f0042",
+      "text": "16 Contemporary Literary and Cultural Theory Julia Kristeva’s early work on ‘poetic language’ argued that the entrance of the subject into language was motivated by pleasure. Signification included two main components: (i) The Semiotic: This is associated with the mother, the body and the pre- linguistic, or what she calls the chora. This is the material, poetic dimension of language (see Chapter 2 for Kristeva’s chora). It is the foundation of language for Kristeva, and is what she terms the ‘genotext’. (ii) The Symbolic: This is the syntax, the grammar, the expressed linguistic acts. It is the language of communication as we know it, and is what Kristeva calls ‘phenotext’. Signification is a combination of these two elements. Kristeva located the mater­ nal (as seen in the theorizing of the semiotic) at the heart of language—a theoretical shift that was at once startling and innovative for it proposed a strong case for",
+      "source": "Nayar, Pramod K - Contemporary literary and cultural theory_ from structuralism to ecocriticism-Pearson India Education Services Pvt Ltd (2017).pdf",
+      "chunk_index": 76,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.81124496,
+      "importance": 0.8205599188804626,
+      "final_score": 0.8112450838088989
+    },
+    {
+      "id": "7efdf58af5aa574b453a7936",
+      "qdrant_id": "1c0db516-c278-5515-ba0c-d0642f01b945",
+      "text": "ideas. Kristeva removes the mother as far as she can from the domi- nant social and linguistic order so that she can define a place from which to challenge it but, in doing so, she unwittingly partakes in a wider ‘refusal to assign the female voice a viable place within the symbolic’ (Silverman 1988: 105). Her association of the semiotic and the mater- -nal with the pre-linguistic is, Silverman argues, ‘in no way threatening to sexual difference as it is presently constituted’ (Silverman 1988:102). Kristeva implies that the semiotic is a position that can be taken up irrespective of gender, thus appearing to resist reducing the feminine voice to a biological essence. However, all the writers she cites are male, including Joyce and Mallarmé. For Silverman this is an evitable outcome of Kristeva’s theory: ‘For Kristeva, to speak is thus necessar- ily to occupy a “male” position…",
+      "source": "Feminist film theorists_ Laura Mulvey, Kaja Silverman, -- Chaudhuri, Shohini -- 2006 -- London ; New York_ Routledge -- 9780415324335 -- 7d4dcaa1e21de4deb206d8337eae0708 -- Anna’s Archive.pdf",
+      "chunk_index": 187,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8092127,
+      "importance": 0.827782392501831,
+      "final_score": 0.8092128038406372
+    },
+    {
+      "id": "5864b6bb91340d05facb8ae1",
+      "qdrant_id": "97330dba-db9c-57a3-bb7d-e1f83f226693",
+      "text": "of her dissent from the post-structuralist maxim that there is nothing beyond the text (II ny a pas de hors texte). By semiotic Kristeva understands those 'representations of affects' - informed by the primary processes of unconscious displacement and condensation - which precede all verbal representations (Wortvorstellung). The symbolic, by contrast, comprises 'representations tributary to the system of language·. Kristeva identifies the semiotic with the affects of the maternal body, or chora, which resist the categorizations of identity, unity and position, and consequently cannot be defined in any determinate language system. She equates the symbolic process, on the other hand, with the paternal language of grammar, syntax and law. The subject of discourse is, for Kristeva (echoing Lacan), a 'split subject': a radical heteronomy belonging to both the semiouc cbora and the…",
+      "source": "[Perspectives in Continental Philosophy] Richard Kearney - Poetics of Imagining_ Modern and Post-modern (1998, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 635,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8060825,
+      "importance": 0.821734607219696,
+      "final_score": 0.8060826063156128
+    },
+    {
+      "id": "2dcb29c2316ceac9a4b62784",
+      "qdrant_id": "36d34ca2-49e1-5397-8314-08825e180d25",
+      "text": "the mother of the semiotic chora, posed by Kristeva, in that the latter is the pre-​ Oedipal mother who exists in relation to the family and the symbolic order. The concept of the parthenogenetic, archaic mother adds another dimension to the maternal figure and presents us with a new way of understanding how patriarchal ideology works to deny the ‘difference’ of woman in her cinematic representation.",
+      "source": "Barbara Creed - The Monstrous-Feminine (Popular Fictions Series) (2023, Routledge) - libgen.li.pdf",
+      "chunk_index": 114,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.80506176,
+      "importance": 0.8174172043800354,
+      "final_score": 0.805061936378479
+    },
+    {
+      "id": "cd8cb11cd4542b4587bb0e6d",
+      "qdrant_id": "c45c7d5a-5432-555f-9ae4-374028b34859",
+      "text": "with the maternal body as an infinite space. Specifically in Julia Kristeva’s work, chora specifies the presignifying traces which underlie and at times break through the order of signification. Hence the shared bodily space of mother and child resists representation, yet is experienced as desire, the uncanny or the mystical. The chora as maternal desire threatens to destabilize the finite unity and autonomous identity of the modern ‘man’. [PSA] COMPLEXITY THEORY The world is full of complex systems, from the internal structure of single-celled organisms to the working of the stock exchange. Complexity theory has attempted to define these ‘self-organizing’ systems, and then to find the general principles that underlie them, with the goal of producing a unified law of complexity. Although the search for a unified law betrays a deep-seated reductionist bias, there is also a counterbalancing holism in that the behaviour of",
+      "source": "The Routledge Companion to Postmodernism (Sim, Stuart) (Z-Library).pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8011321,
+      "importance": 0.8204952478408813,
+      "final_score": 0.8011319637298584
+    },
+    {
+      "id": "ddf3398e758613880d5106e4",
+      "qdrant_id": "b1215299-f8bd-5b7d-a58b-450646d96791",
+      "text": "argues this alterity has infrequently been acknowledged in dominant theories. She asserts that in tandem with the symbolic mode, we must also attend to the semiotic modality of signification, expressed through the concept of the semiotic chora. The semiotic is associated in her theory with nonverbal systems of meaning-making and interpretation such as music, kinesis and gesture, systems that are experienced more immediately, less ‘rationally’ and more viscerally. Although the subject and the processes of signification that constitute subjectivity and intersubjectivity arise from the movement or dynamic between the two modalities that Kristeva identifies, symbolic language has repeatedly been privileged over the semiotic chora. This has resulted in the undermining",
+      "source": "(Film Philosophy at the Margins) McPhee, Ruth - Female Masochism in Film_ Sexuality, Ethics and Aesthetics-Ashgate Pub Co (2014).pdf",
+      "chunk_index": 371,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8002616,
+      "importance": 0.8253787755966187,
+      "final_score": 0.800261914730072
+    },
+    {
+      "id": "c9790542934792b1d97bc4ef",
+      "qdrant_id": "2ec3c8a7-a836-5b73-ba32-102e8511be90",
+      "text": "she develops clear borders of his or her own personal identity. In this early psychic space, the infant experiences a wealth of drives (feelings, instincts, etc.) that could be extremely disorienting and destructive were it not for the infant’s relation with his or her mother’s body. An infant’s tactile relation with its mother’s body provides an orientation for the infant’s drives. Kristeva often uses the term chora in conjunction with the term semiotic: her phrase “the semiotic chora” reminds the reader that the chora is the space in which the meaning that is produced is semiotic: the echolalis, glossolalias, rhythms, and intonations of an infant who does not yet know how to use language to refer to objects, or of a psychotic who has lost the ability to use language in a properly meaningful way. The semiotic chora may also make itself felt in symbolic communication.",
+      "source": "[Routledge Critical Thinkers] Noelle McAfee - Julia Kristeva (2003, Routledge) - libgen.li.pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.8002602,
+      "importance": 0.8094894886016846,
+      "final_score": 0.8002604246139526
+    },
+    {
+      "id": "f41d62bca35677db4570f4e3",
+      "qdrant_id": "bde8a01e-7bd1-562d-8fb1-3c8f94a35058",
+      "text": "of a journey from the chaotic 'other' of the unconsdous to the symbolic order of language, which is dearly characterised as male- dominated. The work of Julia Kristeva leads us back, however, from a male-dominated symbolic to the mother, and to areas of her dominion and influence which have, Kristeva argues, been underestimated in (male) accounts of the construction and mainten- ance of human personality. Kristeva is best known for her concept of the semiotic, which she mobilises as a means of locating and inserting 'the feminine' back into the exdusively masculine post- Oedipal world described by Lacan. Kristeva fully accepts Lacan's account of the symbolic order by means of which sodal, sexual and linguistic relations are regulated by/in the name of the father. She suggests, however, that the symbolic is oppressive because it is exdusively masculine - that is, because it is limited, not just because it is limiting (in terms of the actual sodal and sexual",
+      "source": "(Insights) Brian Docherty (eds.) - American Horror Fiction_ From Brockden Brown to Stephen King-Palgrave Macmillan UK (1990).pdf",
+      "chunk_index": 476,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7986407,
+      "importance": 0.81717848777771,
+      "final_score": 0.7986407279968262
+    },
+    {
+      "id": "425dc4fa7114a2ba45e4ca63",
+      "qdrant_id": "1c7e249a-a3dd-5927-aa8f-c333369d116f",
+      "text": "as a way to undermine the distance of patriarchal expression and hegemony of the visual. Kristeva’s study of the archaic dimension of language in Revolution of Poetic Language (1984), which she calls ‘the semiotic’, is also relevant to this study of voices. Th e semiotic is linked to the bodily contact between mother and child before the paternal order of language comes to separate subject and mother and is given free play in works of art. According to Kristeva, the poetic dimension of language is disruptive of the symbolic patriarchal order and is associated with musicality and rhythm. In Duras’ fi lms, the semiotic dimension as a poetic and disruptive force is given primacy over the symbolic, likened by Kristeva to the law, structure, order and the masculine. Kristeva’s work had a strong infl uence on 1970s feminists, and her notions of ‘semiotic’ and ‘symbolic’ had an impact on the arts of the time. Duras’ comments on language in the interviews Woman",
+      "source": "Michelle Royer - The Cinema of Marguerite Duras_ Multisensoriality and Female Subjectivity (2022, Edinburgh University Press) [10.1515_9781474427869] - libgen.li.pdf",
+      "chunk_index": 258,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.79797375,
+      "importance": 0.8156226277351379,
+      "final_score": 0.7979739904403687
+    },
+    {
+      "id": "6052f9954cc48d2b3b77406e",
+      "qdrant_id": "7b7f4e13-bb3b-5aca-852c-586d16f66e2a",
+      "text": "In the second chapter I continue to develop Kristeva's claim that the logic of negation is already operating in the body before it is taken over by the Symbolic. I most explicitly describe the maternal function and its relation to sexual difference, and the maternal semiotic chora, which has become extremely controversial in feminist criticism. The maternal body itself is full of alterity and negation. And the prototype for symbolic negation is the experience of birth. I describe the child's abject relation to its mother as a relation to its own birth. In the third chapter I develop a reading of Kristeva's imaginary father in order to recuperate this concept for feminist theory. I argue that if we read the condensations and displacements in Kristeva's own texts, the imaginary father can be read as a screen for the mother's love. Here I relate her notion of the imaginary father to t…",
+      "source": "Kelly Oliver - Reading Kristeva-Indiana University Press (1993).pdf",
+      "chunk_index": 61,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.79421663,
+      "importance": 0.8180029988288879,
+      "final_score": 0.794216513633728
+    },
+    {
+      "id": "8e908cfdaa9d34813b8771eb",
+      "qdrant_id": "f8654872-0ace-5cb1-9ff1-9662e96f644e",
+      "text": "themes: time and space. Mikhail Bakhtin’s notion of the chronotope (time– space) is the intrinsic connectedness of temporal and spatial relationships that are artistically expressed in literature (Bakhtin 1986: 84). The concept is particularly appropriate for the analysis of cinema, a medium that is rooted in its temporal and spatial representations; Gilles Deleuze sets out in Cinema 1: The Movement-Image and Cinema 2: The Time-Image how cinema is like no other art form in its relations to the experience of time and space (1986, 1989). Bakhtin argues that time and space are inseparable, the intersection of the two creating the integral whole as ‘space becomes charged and responsive to the movements of time, plot and history’ (1986: 85). In order to discuss the time, plot and history of the two adaptations, I also employ the concepts syuzhet (the plot) and fabula (story) (Bordwe…",
+      "source": "Alison Peirse, Daniel Martin - Korean Horror Cinema (2013, Edinburgh University Press) - libgen.li (1).pdf",
+      "chunk_index": 129,
+      "page": null,
+      "seed_hits": [
+        "deleuze-cinema-time-image-movement-image"
+      ],
+      "raw_score": 0.7935352,
+      "importance": 0.8152487277984619,
+      "final_score": 0.7935351133346558
+    },
+    {
+      "id": "23e928c063f4ab22266be3ee",
+      "qdrant_id": "7ab41189-6d99-5728-97d8-a38408328f87",
+      "text": "does. Julia Kristeva, in her work Revolution in Poetic Language, describes this original bodily state of the child-in-situation as the “semiotic chora”: Discrete quantities of energy move through the body of the subject who is not yet constituted as such and, in the course of his development, they are arranged according to the various con- straints imposed on this body . . . by family and social structures. [This is] an essentially mobile and extremely provisional articula- tion constituted by movements and their ephemeral states. . . . We differentiate this uncertain and indeterminate articulation from a disposition that already depends on representation . . . . Neither model nor copy, the chora precedes and underlies figuration and thus specularization, and is analogous only to vocal or kinetic rhythm. (25–26, emphases in original) For the child, experience is the wealth of wondrous c…",
+      "source": "[SUNY series in Contemporary Continental Philosophy] John Russon - Bearing Witness to Epiphany_ Persons, Things, and the Nature of Erotic Life (2009, SUNY Press) - libgen.li.pdf",
+      "chunk_index": 180,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.79313004,
+      "importance": 0.8124047517776489,
+      "final_score": 0.7931299805641174
+    },
+    {
+      "id": "1cc4d44f8695f1d7f4b8c198",
+      "qdrant_id": "111ce57f-6fe7-55d4-a139-cf9735518a19",
+      "text": "Bearing in mind Plato’s reduction of the chora, or place of the mother, to nothing, we might be able to see how it is that Kristeva’s work is revolu- tionary. She is interested in the variety of ways in which semiosis and chora have been forgotten or repressed in and through a symbolic language that we might say is aligned with the Platonic view of the chora. The symbolic order, as it has taken shape in global culture, is an acculturated language that often simply acts as, sees itself as, a substitution for bodily instincts. The semiotic relationship to the mother, which had a less external relationship to the world—constituted as it was largely by the child’s drives and their private articulations—begins to be lost as the child enters the symbolic. And Kristeva proposes that much of the symbolic language in which we engage has the effect of establishing and maintaining us in a relationship with the not- Mother, who becomes the other, and we inhabit a world too radically external",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7927674,
+      "importance": 0.8134660124778748,
+      "final_score": 0.7927674055099487
+    },
+    {
+      "id": "d96c729be977a8cbe60f8703",
+      "qdrant_id": "793608e6-405b-5250-9481-f017681ce42d",
+      "text": "of one article is ‘Ce Sexe qui n’en est pas un’ (‘This sex which is not one sex’, i.e. which is multiple, but also ‘This sex which is not a sex at all’). The structure of her texts is repetitive, cumulative rather than linear, using double or multiple voices, often ending without full closure. Julia Kristeva, like Cixous and Irigaray, works from within an essentially Lacanian framework, but she is strongly opposed to the notion of écriture féminine. Nevertheless, she uses the term ‘the semiotic’ to refer to the pre-linguistic stage of development of the child; the semiotic is an area of rhythmic pulsions in active opposition to the symbolic, the stable system of language. The semiotic is described as anarchic and as an area of rhythm, colour and play in language. The semiotic breaks through into the symbolic from time to time; for example, in poetic writing. The semiotic is associated wi…",
+      "source": "(Interface) Sara Mills - Feminist Stylistics -Routledge (1995).pdf",
+      "chunk_index": 192,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78946674,
+      "importance": 0.8083316087722778,
+      "final_score": 0.7894669771194458
+    },
+    {
+      "id": "ef28ed5b7ec6bbcdd68d7d81",
+      "qdrant_id": "f3a572d3-0e9d-5559-b46d-2acb1d6b6654",
+      "text": "8 Introduction Beginning with Cixous's appeal for woman to write her body, intense controversy has developed both in France and in the United States con- cerning the project of feminine writing and its use to give expression to women's bodily and affective freedom. Only through some form of femi- nine writing, Cixous, Kristeva, and Irigaray claim, can we bring ourselves into symbolic systems that belong to us by choice and by right. Julia Kristeva affirms a link between the feminine and language by trans- forming Lacan's distinction between the symbolic and the imaginary into a distinction between the symbolic and the semiotic. Kristeva understands the symbolic as the aspect of language that represents and defines, and through which the subject constitutes objects. In the semiotic, the body's drives and affects, carried from the movement of maternal puissance, find their way into the mat…",
+      "source": "Jeffner Allen_ Iris Marion Young - The Thinking Muse_ Feminism and Modern French Philosophy (1989, Indiana University Press) - libgen.li.pdf",
+      "chunk_index": 33,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7888792,
+      "importance": 0.8152287006378174,
+      "final_score": 0.7888792157173157
+    },
+    {
+      "id": "9bd87def1afafcd760a90546",
+      "qdrant_id": "f39e44d9-c996-59f4-902e-3325b125a7ea",
+      "text": "INTRODUCTION 5 that anchors modernist literature in the psychic territory she calls abjection, enabling us to experience through ‘body and tongue’ the ‘moral, political and stylistic revulsion that brands our time’ (PH 23, 141). As a woman-philosopher, Kristeva has also been particularly keen on reclaiming the role of the body in the workings of poetic language, paying close attention to the rhythmic and sonorous intensities of bodily operations as they infiltrate the verbal function and to the pulse of sensation invading the unfolding of sense. Of equal importance is her rehabilitation of the significance of the maternal feminine not merely as a corporeal memory transferred through the semiotic modality of signification but also as part of the avant-garde psychic imaginary. This is a consistent thread in her work from La révolution du langage poétique and her theorization of t…",
+      "source": "(Understanding Philosophy, Understanding Modernism) Maria Margaroni (editor) - Understanding Kristeva, Understanding Modernism-Bloomsbury Academic (2022).pdf",
+      "chunk_index": 56,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7885883,
+      "importance": 0.8167305588722229,
+      "final_score": 0.7885884046554565
+    },
+    {
+      "id": "34dda86f8b45e03115aba03b",
+      "qdrant_id": "9f2223a0-5ce4-5c05-8f7a-7eefc80a7e03",
+      "text": "For Kristeva the early use of demonstratives points to a move from the space of semiotic and need to the space of Symbolic and desire. Along with the child's primal objectless laughter and the first use of place names to \"designate\" place as the place of the mother, the use of demonstratives to designate \"that\" as the body of the mother suggests that there is a semiotic disposition that chronologically and logically precedes the mirror stage. Once again Kristeva employs her double strategy for bringing the body back into the structure of language. She argues both that the logic of language is already operating within this semiotic disposition and that the semiotic disposition makes its way into language. Laughter is a presymbolic symbol of sorts, while place names and demonstratives are semiotic holdovers that make their way into language. In both cases the semiotic is associated w…",
+      "source": "Kelly Oliver - Reading Kristeva-Indiana University Press (1993).pdf",
+      "chunk_index": 142,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7859159,
+      "importance": 0.8078516125679016,
+      "final_score": 0.7859161496162415
+    },
+    {
+      "id": "50dbd04bf1779458b35e78eb",
+      "qdrant_id": "3cf98559-54e4-594c-811f-03ca8f7d74b1",
+      "text": "do with form than with content: ‘the semiotic chora is no more than the place where the subject is both generated and negated, the place where his unity succumbs before the process of charges and stases that produce him’ (p. 28). The chora, like the Freudian uncanny, is that which is hidden. So, for Kristeva, the subject is produced through a range of social structures which serve to highlight the subject’s initiation and inser- tion into the symbolic realm; the acquisition of language being the key here. Underlying this language there exists an unconscious, unspoken semiotic which is in turn controlled by energy charges in the drive of the chora. What we ﬁnd here is the suggestion that there is an inevitable lack of unity. The subject is constituted through a series of drives and encounters with the world over which he/she has no conscious control. This lack of unity in the Kristevian subject has echoes with the crea-",
+      "source": "Andrew Smith - Gothic Radicalism_ Literature, Philosophy and Psychoanalysis in the Nineteenth Century-Palgrave Macmillan (2000) (1).pdf",
+      "chunk_index": 179,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78433716,
+      "importance": 0.8095579743385315,
+      "final_score": 0.7843372225761414
+    },
+    {
+      "id": "06465ba86f89e12d7380a8ee",
+      "qdrant_id": "2e73a59e-67e0-5b01-83c1-d48fb3380bd0",
+      "text": "Julia Kristeva and Feminist Thought 26 the stages of language acquisition mirror the stages of the child’s psychic development. Thus, the terms ‘semiotic’ and ‘symbolic’ designate two different modalities of language; they also refer to two different psychic registers and they acquire gendered connota- tions, with the semiotic signifying the feminine/maternal and the symbolic representing the masculine/paternal.6 To stay with this developmental perspective, the semiotic desig- nates, broadly speaking, the pre-Oedipal psycho-sexual phase and a corresponding set of expressions available to the pre-Oedipal child. Characteristic of this stage is a symbiotic mother–child rela- tionship during which the child, dominated by bodily needs and as yet unable to control its drives, is sustained by the mother (RPL: 27). The child has not yet acquired formal language and com- municates instead…",
+      "source": "Birgit Schippers - Julia Kristeva and Feminist Thought (2011, Edinburgh University Press) [10.1515_9780748646067] - libgen.li.pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7838966,
+      "importance": 0.8024976849555969,
+      "final_score": 0.7838966846466064
+    },
+    {
+      "id": "69926b85cdd477109ee42a24",
+      "qdrant_id": "4938b5b1-3ebf-5add-9ee6-f63daa578927",
+      "text": "10. Judith Butler argues that what Kristeva discovers as a natural prediscursive maternal subversion is in fact an effect of culture rather than its \"secret cause.\" From that she concludes that by placing the source of subversion outside culture, Kristeva forecloses the possibility of the effective subversion as a cultural practice (Butler 1990, 90–93). As I try to demonstrate, Kristeva quite self­consciously starts her analysis from the effects of disruptions already within the culture and accounts for them not as mere accidents befalling the symbolic but as necessary consequences of the process of signification. 11. See, for instance, Rose (1986, 154): \"It seems to me that the concept of the semiotic, especially in those formulations which identify it with the mother and place it beyond language, is the least useful aspect of Kristeva's work.\" The irony is that of course Rose is ri…",
+      "source": "[SUNY series in contemporary continental philosophy] Christina Hendricks, Kelly Oliver - Language and Liberation_ Feminism, Philosophy, and Language (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 161,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78348386,
+      "importance": 0.8089600801467896,
+      "final_score": 0.7834836840629578
+    },
+    {
+      "id": "01a202bd3cbd71209d58ea4b",
+      "qdrant_id": "38df9c90-be37-585e-936f-c5b2df79071b",
+      "text": "He found food for thought in Julia Kristeva’s work (‘L’initiative’, 190) which, whilst post-structuralist, retains a role for the felt body in the sense of self. For Kristeva, the subject is constantly in process between the Symbolic, or social language, and the Semiotic, or bodily feeling, both contributing equally to the making of meaning. She sees these two poles as masculine and feminine respectively: the Symbolic Law of the Father, on one side, and the Semiotic Chora, the felt maternal container, on the other (Révolution), and Doubrovsky uses this dichotomy to explore what he sees as a fundamental split in himself: an ‘insurmounta- ble bisexuality’ (‘L’initiative’, 193). Had Doubrovsky been writing 20 years later, he might have found helpful in understanding the self as real but not fixed some of the ideas in cognitive neuroscience that bear similarities to Kristeva’s work…",
+      "source": "(Palgrave Studies in Life Writing) Hywel Dix - Autofiction in English-Springer International Publishing_Palgrave Macmillan (2018).pdf",
+      "chunk_index": 135,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78290665,
+      "importance": 0.8133817315101624,
+      "final_score": 0.7829067707061768
+    },
+    {
+      "id": "b4df74390786a4d4947a3ead",
+      "qdrant_id": "1db25a16-7f9e-5458-b0d5-4589811443ff",
+      "text": "experience’ of motherhood remains overlooked.97 Kristeva explores the ﬁssures of this representation of motherhood in her essay. How to access the experience of maternal becoming? And what would it meant to represent this experience? Her essay about the experience of ‘maternity’ is famously written in two columns. One echoes Kristeva’s personal experiences of both natality and death during her pregnancy – the two jointly signifying the process of becoming. The parallel column reﬂects on how the symbolic system of Western Christianity assumed this core experience. This structure invites both a quick representation of Kristeva’s theory of language and an ironic comment on itself. At ﬁrst glance, the left-hand column written in at times rhythmic and poetic phrases seems to represent the semiotic in its deﬁance of clear syntax and in its evocative and personal (even intimate) invita…",
+      "source": "Ludger H. Viefhues-Bailey - Beyond the Philosopher's Fear (Intersections_ Continental and Analytic Philosophy) (2007) - libgen.li.pdf",
+      "chunk_index": 760,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7823976,
+      "importance": 0.8067659735679626,
+      "final_score": 0.7823977470397949
+    },
+    {
+      "id": "2395e6f0658dd98866667d6a",
+      "qdrant_id": "82214ea3-b303-50c6-87df-404f06f1858f",
+      "text": "of meaning emerges from material continuity not only once in the his- tory of a given sign system but rather repeatedly, in the language of every speaking subject. Although most speakers keep this moment of rupture re- pressed, certain kinds of speakers, notably poets and artists, put its disrup- tive power to work: “[V]iolence surg[es] up,” she says, “through the pho- netic, syntactic and logical orders to reach the symbolic order” (Revolution 83). Kristeva traces the origin of this “violence” to a psychical space called the “chora,” the home of a signifying disposition she calls “semiotic.” Modeled on communication between mother and infant, semiotic ar- ticulation is indeterminate and clumsy, like the sounds and rhythms of the oral and anal muscles with which the child first expresses itself. We have seen how Lacan maintains that the subject comes into being only by breaking with this mode of articulation. Kristeva’s innovation was to insist",
+      "source": "Margherita Long - This Perversion Called Love_ Reading Tanizaki, Feminist Theory, and Freud (2009, Stanford University Press) - libgen.li.pdf",
+      "chunk_index": 305,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78223383,
+      "importance": 0.8068432807922363,
+      "final_score": 0.7822337746620178
+    },
+    {
+      "id": "6656cc0fa6326da08d42f3c3",
+      "qdrant_id": "b322e770-cbc8-584e-96cd-692b2102ad44",
+      "text": "Beyond the Philosopher’s Fear 138 Kristeva seemingly accepts these gender stereotypes and their consequences for the issue of the silencing of women. Nevertheless, she probes more deeply into the maternal ground of our possession of language and development as selves. Without women, without the maternal body, there would be no language, no breathing, speaking, declaring. Without the connection to the maternal chora there is no meaning. Kristeva characterizes the chora as ‘an ancient, mobile, unstable receptacle, prior to the One, to the father, even to the syllable, metaphorically suggesting something nourishing and maternal.’30 We can read this as an observation that the chora is the space out of which imagination and creativity rise into language. Without connection to this maternal principle, without the semiotic dimension of language, words would be empty, devoid of meaning…",
+      "source": "Ludger H. Viefhues-Bailey - Beyond the Philosopher's Fear (Intersections_ Continental and Analytic Philosophy) (2007) - libgen.li.pdf",
+      "chunk_index": 653,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78149164,
+      "importance": 0.803130567073822,
+      "final_score": 0.781491756439209
+    },
+    {
+      "id": "c23d3f203ae4a50d4a7cea64",
+      "qdrant_id": "44bfb1ed-0835-5ce6-98f8-df0c1a127e72",
+      "text": "80 Gender Kristeva distinguishes this mystery from the technocratic “life with- out questions,” the totalitarianism that seeks destruction of life, and the zoos that would leave life in the realm of the naturally instrumental. Kristeva’s concept of the “semiotic” and of the “chora,” which she describes as “drives and their articulations,” allows her to formulate the association of ideas theoretically: the semiotic is distinguished from the realm of signifi cation with its propositions and judgements (1984:43). The image here exceeds an art historical or aesthetic philosophical meaning. It is the image that reaches back into the child, where the word is fi rst an aural image, and where that image is charged with aff ect as the part-object of the voice of its mother. The association of ideas, according to Kristeva, is a corporeal process. This is not a body separate from…",
+      "source": "Robyn Ferrell - Sacred Exchanges_ Images in Global Context-Columbia University Press (2012).pdf",
+      "chunk_index": 196,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7813672,
+      "importance": 0.8066495060920715,
+      "final_score": 0.781367301940918
+    },
+    {
+      "id": "9c2569b5730a238603a490bf",
+      "qdrant_id": "364fe58d-4f72-5298-98ff-67133844e6c2",
+      "text": "major strengths of Kristeva's work of this time. The second discernible period of Kristeva's trajectory is the 1970s. Here, particularly with the publication of La Révolution du langage poétique,15 Kristeva takes up the issue of the theory of the subject in relation to language - and especially poetic language. This is the period of the refinement of the concept of 'le sémiotique' designed to help articulate the realm of the pre-symbolic, or that dimension of language which constitutes the basis of poetic language. At this time, too, Kristeva's debt to psychoanalysis begins to become more evident with the 'feminine' coming to disrupt the Name-of-the-Father as the embodiment of the paternal function (of father/mother/child triad - see Chapter 2), and thus the Symbolic as the order of language and signification. As we shall see, the feminine element as 'chora' (a receptacle, a…",
+      "source": "[RLE_ Feminist Theory Vol. 19] John Lechte - Julia Kristeva (2012, Routledge) - libgen.li.pdf",
+      "chunk_index": 49,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7807509,
+      "importance": 0.8047216534614563,
+      "final_score": 0.7807509899139404
+    },
+    {
+      "id": "3583c45620869b8601e62d8f",
+      "qdrant_id": "e566ff8a-6012-5562-9c30-e0ba78c4fe0f",
+      "text": "kristeva, julia 397 as motion and process, expulsion or “rejec- tion” (rejet). In articulating an account of the “semiotic” and the “symbolic” as the two modalities of all processes of signiﬁcation, she draws on Freud’s distinction between pre- oedipal and oedipal sexual drives and Lacan’s concepts of “imaginary” and “symbolic.” Following Plato’s Timaeus, she deﬁnes the place of the presymbolic or “semiotic” (where the symbolic is understood as the condition of ordered, “rational” signiﬁcation) as the space of the maternal chora (enclosed space, womb, receptacle), which in turn corresponds to the “poetic” function of language. “The chora,” Kristeva writes, “as rupture and articulations (rhythm), precedes evidence, verisimilitude, spatiality and temporality.” It is also seen as the space of instinctual drives and of a “bodily” relationship to the rhythmic-intonational aspects of language. The “semiotic,” then, is represented as the transgressive, “feminine” materiality of signi-",
+      "source": "[Blackwell companions to philosophy 3] Stephen Davies, Kathleen Marie Higgins, Robert Hopkins, Robert S - A Companion to Aesthetics (2009, Wiley-Blackwell) - libgen.li.pdf",
+      "chunk_index": 251,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.78039265,
+      "importance": 0.8034634590148926,
+      "final_score": 0.7803927659988403
+    },
+    {
+      "id": "84cdd28aceac4f61fe61653c",
+      "qdrant_id": "c573d0e2-53a3-51b0-9dff-27bb09043772",
+      "text": "discovers here what she terms the 'semiotic', a process close to the maternal body, though not a female essence, and able to disrupt the symbolic order. As Kristeva suggests later in About Chinese Women (1977), patriarchal society 'protects itself from the jouissance that can drive it to madness or revolution: it keeps itself stable, permanent, eternal'.25 Cixous and Clement are also interested in these potentially unsettling forces, though their example of repressed desire is the body of the hysteric. For Cixous, Freud's patient, Dora, is both 'the typical woman' and 'a force capable of demolishing those structures'. For Clement, Dora offers 'challenging positions', 'challenging functions', but she 'doesn't change the structures'; on the contrary, the family regroups around the hysteric, containing her. Using Flaubert as her example, Clement maintains that the progressive an…",
+      "source": "[Longman Critical Readers] Mary Eagleton (Editor) - Feminist Literary Criticism (1991, Longman Group UK) - libgen.li.pdf",
+      "chunk_index": 68,
+      "page": null,
+      "seed_hits": [
+        "elizabeth-grosz-volatile-bodies-corporeal-feminism",
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7797419,
+      "importance": 0.8131570816040039,
+      "final_score": 0.7797417640686035
+    },
+    {
+      "id": "7b483ab501a5d818faa2e94f",
+      "qdrant_id": "42c4cf4a-e7f0-5f5f-aff7-fa9a7d7ae091",
+      "text": "state of being united with the mother; Kristeva, that creativity is a way of expressing the maternal semiotic realm, to which all subjects have access, within the symbolic. Kristeva suggests that the pre-linguistic realm (the semiotic), which is characterised by bodily rhythms and pulsions, appears to be superseded by the realm of law and language (the symbolic), but continues to exert pressure on it from within. This pressure is particularly evident in certain artistic forms, such as poetry, and mental states, such as psychosis. Klein and Kristeva differ in their views of the nature of gender, however; while Klein sees femininity as an innate drive, Kristeva sees it as a non-essential attribute, a position which changes as social circumstances change (Moi 1985: 163-7). As Nancy Fraser implies in the introduction to Revaluing French Feminism (Fraser and Bartky 1992), the publication of t…",
+      "source": "Stevi Jackson, Jackie Jones - Contemporary Feminist Theories (1998, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 152,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7794256,
+      "importance": 0.8072081208229065,
+      "final_score": 0.7794254422187805
+    },
+    {
+      "id": "dfb593913ab40eddb1fb5655",
+      "qdrant_id": "c766233e-4398-5883-a759-fec97385c229",
+      "text": "itself. The structures we live are known to us through their representation, which in effect then determine our being. Her move is to insert into sociological and economic analysis of social formations the role of the Symbolic: language. The crossing point of the two is the speaking subject. To understand her argument I must add one other building block. Julia Kristeva distinguishes between what she calls the unity—the organisation of a social ensemble and its meaning systems; and what she calls process, the resources in the body, the drives and fantasy, that precede and exceed the unity that tries to organise and define them. Thus we have a model of a fluid range of as yet undefined but predisposed and predisposing possibilities for meanings—she names this the semiotic—which a system of meaning tries to fix, precariously building an order—named the symbolic—on a radically heterogeneous …",
+      "source": "Griselda Pollock - Julia Kristeva 1966–96_ Aesthetics politics ethics (Parallax, Issue 8 July–September 1998) (1998) - libgen.li.pdf",
+      "chunk_index": 432,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.779114,
+      "importance": 0.8082593083381653,
+      "final_score": 0.7791141271591187
+    },
+    {
+      "id": "bdc01efc2f08b5662d383cff",
+      "qdrant_id": "2400e2a2-4f21-5f33-8cda-c7207928c038",
+      "text": "should acknowledge mobility, unity where there is contradiction. On the one hand, what we have been offered so far are systems of meaning depending on consciousness; on the other, she proposes to analyze a signifying process, which presupposes a split subject-hence two heterogeneous levels. To state this in different terms, the object of her investigations is no longer language (as in structuralism), or discourse (as phenomenology would have it), or even enunciation; rather, it is the dis- course of a split subject-and this again involves her in psychoanalysis. Allowing her to account for such splitting, Kristeva has posited two types of signifying processes to be analyzed within any production of meaning: a \"semiotic\" one and a \"sym bolic\" one. The semiotic process relates to the chora, a term meaning \"receptacle,\" which she borrowed from Plato, who describes it as \"an invisible and formless being which",
+      "source": "[European perspectives] Julia Kristeva - Desire in Language_ A Semiotic Approach to Literature and Art (1980, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 35,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.77884597,
+      "importance": 0.8079061508178711,
+      "final_score": 0.7788458466529846
+    },
+    {
+      "id": "d4475681a97effc4b898dda2",
+      "qdrant_id": "029e1d0d-a4ff-5dd6-a0c9-34833bb9b820",
+      "text": "masculine texts. She inscribes the mother’s body as sexual and desiring and perhaps most poignantly as one with language. By shifting her focus away from the maternal breast, as privileged topos of female sexuality, toward the ambiguous lips, Irigaray forces us to confront the possibility of a speaking mother who offers us words. From body to voice: labial logic I hope that by gathering together the voices of various women we have been able to hear something that we do not usually hear when we read their work in isolation. It seems to me that we can resist the temptation toward constructing our own phallic theoretical mothers by situating individual works within the context of a maternal genealogy. I suggest that Klein’s work serves as just this kind of context. Klein provides us with a discussion of the mother as pivotal to the acquisition of language. The possibility of symbolisation, …",
+      "source": "Michelle Boulous Walker - Philosophy and the Maternal Body_ Reading Silence-Routledge (1998).pdf",
+      "chunk_index": 137,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7785567,
+      "importance": 0.8102004528045654,
+      "final_score": 0.7785565853118896
+    },
+    {
+      "id": "fb72a5787a7a24766d4f7fed",
+      "qdrant_id": "87b9decc-069e-5701-ad37-de96e5cc0248",
+      "text": "corporeal level. It is at this level that, thanks to the encounter with a receptive other, the turbulences of sensations and proto-emotions become soothing rhythms, proto- ideas or sensible ideas at ﬁrst and, once words are added, concepts. In Bionian terms, the at-one-ment between mother and baby is a form of primordial abstraction and occurs ﬁrst in the dimension of the purely sensory and indistinct, and then in the affective space, which nonetheless is always a symbolic space if we take account that sociality is provided for the couple-system by the mother. It is exactly the intersubjective process of elevating towards conceptual thinking, but without ever detaching oneself from the thinking deposited in the body as procedural knowledge, that justiﬁes the deﬁnition adopted here of human beings as Sublime Subjects. This book explores these topics not only through the lens of the concep…",
+      "source": "[The New Library of Psychoanalysis ’Beyond the Couch’ Series] Giuseppe Civitarese - Sublime Subjects_ Aesthetic Experience and Intersubjectivity in Psychoanalysis (2017, Routledge) - libgen.li.pdf",
+      "chunk_index": 1,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.77750814,
+      "importance": 0.815886378288269,
+      "final_score": 0.777508020401001
+    },
+    {
+      "id": "9e0c9a661fd7c0fcc752445f",
+      "qdrant_id": "02b89d18-4b0d-5280-9bb7-54ad6d5725dc",
+      "text": "hair\" (16667). I am of course very interested in these effects of language resonating between eardrum and skull and hair, all the more because they differ in tone and context from Irigaray's otherwise similar language resonating between mouth and ear. Is Kristeva's engagement in body writing peculiar to a woman giving birth, to the pre-oedipal sonorous connection between mother and child? Earlier I cited Kristeva's association of the semiotic with the Greek sémeion, with that which remains \"unnameable, improbable, hybrid, anterior to naming, to the One, to the father, and consequently, maternally connoted. . . .\" I bring up this question of maternal connotations because Kristeva has been criticized for her ideas about pre-oedipal language and maternal inscriptions. 4 And my own ideas about the semiotic disposition of feminist calls to write the body can hardly escape related suspicions t…",
+      "source": "[SUNY Series in Feminist Criticism and Theory] Ruth Salvaggio - The Sounds of Feminist Theory (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 282,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7759602,
+      "importance": 0.8048806190490723,
+      "final_score": 0.7759601473808289
+    },
+    {
+      "id": "13fcee4e1b2c21d9995a2e8e",
+      "qdrant_id": "243f6850-c190-5e70-9ccd-c45a6f525fb6",
+      "text": "to love our mothers. I am less sure that we can reject patriarchy and retain maternal authority, or that this kind of maternal authority is compatible with mothers speaking in a maternal voice. But these are questions that Muraro’s invaluable work can help us to think through. With the publication of this translation, English-speaking readers will at last be able to engage with Muraro’s ideas and think through their possibilities and implications. Alison Stone Lancaster University Notes 1. However, Muraro also makes central use of Kristeva’s conception of the semiotic, the realm of intimate and already significant body-to-body relationships between mother and infant. Whereas for Kristeva the symbolic involves a break from the semiotic (an always incomplete break, though), for Muraro the semiotic in principle extends continuously into the symbolic, albeit that our patriarchal s…",
+      "source": "(SUNY series in Contemporary Italian Philosophy) Luisa Muraro_ Timothy S. Murphy - The Symbolic Order of the Mother-SUNY Press (2018).pdf",
+      "chunk_index": 29,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7726498,
+      "importance": 0.7975701093673706,
+      "final_score": 0.7726498246192932
+    },
+    {
+      "id": "9ec271de8a30e71c67c1b7f4",
+      "qdrant_id": "782a4c93-f7c7-551d-8048-43c57332389f",
+      "text": "112 1. Dreaming of the Chora: Poetic Language and the Mother 115 2. From Speaking Subject to Semiotic Chora 121 3. Plato’s Chora: Kristeva, Democritus, and Derrida 129 4. Chora, Khôra, \u0001\u0003æÆ 146 5. Conclusion 159 3 Platonic Ero¯ s: Kristeva Sends Her Love to Foucault and Lacan 164 1. This Love Train Requires a Transfer 169 2. Manic Masculine Ero¯ s and the Maternal Sublime 177 3. The Third Man Theme: Socrates, Alcibiades, and Agathon in Lacan 196 4. The Erotics of Reciprocity: True Love in Plato and Foucault 201 5. Conclusion 207",
+      "source": "[Classics in theory] Miller, Paul Allen - Diotima at the barricades _ French feminists read Plato (2016, Oxford University Press) - libgen.li.pdf",
+      "chunk_index": 30,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.77090347,
+      "importance": 0.8029541373252869,
+      "final_score": 0.7709033489227295
+    },
+    {
+      "id": "4e58d236a1c7eb433db6e883",
+      "qdrant_id": "102167f8-d77e-5919-914e-c5fb37044628",
+      "text": "Julia Kristeva and Feminist Thought 22 the central message of the feminist project, I want to suggest that one of Kristeva’s most important contributions to contemporary feminist thought – indeed, to critical theory in general – lies in her persistent attention to the traversal between the personal and the political, affect and signiﬁ cation, body and meaning. This aspect of Kristeva’s thought is a guiding thread of my overall analysis of her work that I begin to map in this chapter, where I sketch those elements of her work that have received considerable attention from her feminist readers. This includes an outline of her theory of language and the speaking subject, a discussion of her concepts of the semiotic and the symbolic, and with it, an assessment of the status of negativity. It will be followed by an overview of Kristeva’s concept of the subject and its signiﬁ cance…",
+      "source": "Birgit Schippers - Julia Kristeva and Feminist Thought (2011, Edinburgh University Press) [10.1515_9780748646067] - libgen.li.pdf",
+      "chunk_index": 69,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.77086025,
+      "importance": 0.7999416589736938,
+      "final_score": 0.7708602547645569
+    },
+    {
+      "id": "8343fd5ea5c8255cbd10506b",
+      "qdrant_id": "cc2f438b-c42f-5a1d-98ed-cedf900f8d72",
+      "text": "material drives “prior-to” language and culture are reconceived as “reiterations” of the continual (re)production of language and culture. Thus Butler’s section on “The Body Politics of Julia Kristeva” takes issue with what she regards as a strain of essentialism in Kristeva’s potentially “subversive” concepts (1999, 101-119). According to her reading, Kristeva’s emphasis on the semiotic as the movement of instinctual, pre-Oedipal drives sets up a divided conceptual structure where the maternal function and body are attributed an “ontological status” prior to culture, and the paternal law which governs this culture is a purely repressive agent. Butler argues that this has two politically problematic consequences. Firstly, it raises doubts as to whether the maternal ontology is a “viable construct” or “even a knowable experience”, because it lies beyond the symbolic realm of …",
+      "source": "Lydia Rainford - She Changes by Intrigue_ Irony, Femininity and Feminism (Genus 6) (Genus_ Gender in Modern Culture) (2005) - libgen.li (1).pdf",
+      "chunk_index": 83,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7701156,
+      "importance": 0.8002687692642212,
+      "final_score": 0.7701157331466675
+    },
+    {
+      "id": "9ee43f353436716cd56b0652",
+      "qdrant_id": "8ae83357-3c61-5ea8-ac21-3c10c809d900",
+      "text": "INTRODUCTION 21 Reproduction of Mothering. This appropriation of psychoanalysis is not represented in this book, but some of the disputation it led to is discussed in the next section. 6 Jane Gallop’s The Daughter’s Seduction (London: Macmillan, 1982) is one example. Other names that come to mind here are Naomi Schor, Peggy Kamuf, Nancy Miller, and Susan Suleiman. 7 Kristeva, like Mitchell, is also an analyst. However, Kristeva’s views on the symbolic and psychosis as its unattractivea Iternative antedate her becoming an analyst; they figure in La Révolution du langue poétique (Paris: Seuil, 1974), Revolution in Poetic Language, trans. M.Waller (New York: Columbia University Press, 1984). Mitchell has a different rajectory. Her concern with the symbolic comes later and in some sense marks a reversal on her position in Psychoanalysis and Feminism. See pp. 8–9. 8 In her recent work Kristeva continues to call on a variety of analytic sources,",
+      "source": "Between Feminism and Psychoanalysis (Teresa Brennan) (Z-Library).pdf",
+      "chunk_index": 91,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7697747,
+      "importance": 0.7977864742279053,
+      "final_score": 0.7697749137878418
+    },
+    {
+      "id": "2be9b72e46d356aed0729295",
+      "qdrant_id": "953cf757-9668-5bd2-802c-46e1bb6da99c",
+      "text": "inventing sounds, they had tapped into their emotions and conveyed them purely, unhindered by words that limited or defined.”[41] Iliana’s recollection is reminiscent of Julia Kristeva’s notion of the semiotic, the pre-Oedipal realm of communication between mother and child through instinct and sound before separation and entrance into the realm of the symbolic, the Law of the Father.[42] Iliana admits, in fact, that she has separated from her mother and attempted to gain access to the symbolic, suppressing the special language that her mother had taught her as a child: “Iliana’s tongue had since lost that magic. It rested heavy, burdened by a need to speak like others, trapped by an education which had early on impressed upon her the need for clarity. As if life itself were clear. As if anything in this world were delineated and easily discernible.”[43] Unlike the mother in Soledad who …",
+      "source": "Lisa B. Kröger, Melanie Anderson - The Ghostly and the Ghosted in Literature and Film_ Spectral Identities (2013).pdf",
+      "chunk_index": 376,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.76838017,
+      "importance": 0.7952582240104675,
+      "final_score": 0.7683802247047424
+    },
+    {
+      "id": "6b5067b889d2593124dd5824",
+      "qdrant_id": "df961237-a40c-5e79-a004-c652e0f9c859",
+      "text": "1980b, 275-6).7 This intrinsic “texture” of signification, and the belatedness of its phantasmatic structure, defeats the possibility of either a hegemonic Symbolic or a separate place or “space” of the maternal semiotic. The contamination of the boundary of each by the other precludes an absolute actuality of either. It is, instead, the translation of this perpetually contaminating topography into the terms of rational 7 Kristeva is quoting Freud’s “Sexuality and the Neuroses”.",
+      "source": "Lydia Rainford - She Changes by Intrigue_ Irony, Femininity and Feminism (Genus 6) (Genus_ Gender in Modern Culture) (2005) - libgen.li.pdf",
+      "chunk_index": 95,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7679291,
+      "importance": 0.7995285987854004,
+      "final_score": 0.7679290771484375
+    },
+    {
+      "id": "70f9faa3f95529a9ccf2b469",
+      "qdrant_id": "b600a3fd-f4d2-54d6-81cc-b5a68d838c9e",
+      "text": "rhythms and gestures that she alludes to can be seen as emblems of women’s sexually specific spatial relation to a symbolic that is infinitely more elastic than Lacan and others imagine it to be.28 The topological shift toward this elastic positionality has structured (or destructured) my exploration of the maternal body. Throughout this book I have sought to problematise the spatial arrangements and agreements that",
+      "source": "Michelle Boulous Walker - Philosophy and the Maternal Body_ Reading Silence-Routledge (1998).pdf",
+      "chunk_index": 143,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.76708114,
+      "importance": 0.8037500977516174,
+      "final_score": 0.767081081867218
+    },
+    {
+      "id": "72e468fe165ee5c56e965821",
+      "qdrant_id": "303055a1-637d-57b7-b681-971144f4c26d",
+      "text": "and \"semicolasm.\"22 (1971) In this essay, and in many of her other early essays, when she does use \"semiotic\" it refers to the science of signifying practice (semanalysis), not its heterogeneous element per se. She first fully develops the notion of the semiotic in Revolution in Poetic Language. There she proposes that both psychoanalysis and linguistics need to account for what is heterogeneous to/within signification, the semiotic. The semiotic disposition that makes its way into language is the rhythm, intonation, and echolalias of the mother-child symbiosis. (1976, 157) The semiotic disposition is based on the primal mother-child relationship. It is the rhythms and sounds of their bodies together fused into one. For Kristeva, this is not merely an imaginary union. Rather, at this point, it is also a real union. The child is physically dependent on its union with the mother. The…",
+      "source": "Kelly Oliver - Reading Kristeva-Indiana University Press (1993).pdf",
+      "chunk_index": 134,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7663311,
+      "importance": 0.7910802960395813,
+      "final_score": 0.7663310766220093
+    },
+    {
+      "id": "44a10bb075319dfd38b2db8b",
+      "qdrant_id": "b216d01a-e03f-53fd-9ed0-7a7f601e436a",
+      "text": "Tbe Language of Desire: A Semiotic Approach to Lilerature and Art, ed. and trans., L S. Roudiez (Oxford: Blackwell, 1981), pp. 6--7, 159 tf., 36 tf. 43 Kristeva, 'On melancholic imagination', p. 22. 44 ibid., p. 13. 45 ibid.,..p. 13 (my italics). 46 ibid., p. 13. 47 ibid., p. 14. 48 ibid. 49 ibid., p. 1 s. 50 ibid., pp. 15, 23. 51 ibid., p. 15. Kristeva adds: The father-figure of ~is symbolic .~ium~h is not, however, the well known oedipal father but, mdeed, that tmagmary father\", father of personal pre-history that for Freud guaranteed SO<alled primary identification.' 52 ibid., p. 16. 53 ibid. 54 Julia Kristeva, Solei/ noir: depression et melancolie (Paris: Gallimard, 1987). p. 200 (my italics). Kristeva elabora~es o~ the i~plic;ations of t~is p~ocess thus: L'imaginaire est cet etrange heu ou le suJet nsque son tdenttte, se perd jusqu'au seuil du mal, du crime o…",
+      "source": "[Perspectives in Continental Philosophy] Richard Kearney - Poetics of Imagining_ Modern and Post-modern (1998, Fordham University Press) - libgen.li.pdf",
+      "chunk_index": 702,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.76564175,
+      "importance": 0.8032470345497131,
+      "final_score": 0.7656416296958923
+    },
+    {
+      "id": "eeb1e78cbad5e00aeba65a59",
+      "qdrant_id": "b2aca534-6e9c-5fe8-ae7c-81cd3d55c17d",
+      "text": "Introduction The semiotic project In 1966 Paris witnessed not only the publication of Jacques Lacan's Ecrits and Michel Foucault's Les Mots et les choses (The Order of Th but also the arrival of a young linguist from Bulgaria. At the age of 25, Julia Kristeva, equipped with a doctoral research fellowship, embarked on her intellectual encounter with the French capital. It would seem that she took the Left Bank by storm. By the spring of 1967 her articles were already appearing in its most prestigious reviews: Critique, Langages - and, not least, Tel Quel.1 Kristeva's linguistic research was soon to lead to the publication of two important books, Le Texte du roman and Semeiotike, and to culminate with the publication of her massive doctoral thesis, La Revolution du langage poetique, in 1974. Th theoretical production earned her a chair in linguistics at the University of Paris VII. In 1966, initially helped by her compatriot Tzvdtan Todorov, Kristeva",
+      "source": "Julia Kristeva (author), Toril Moi (editor) - The Kristeva Reader (1986, Columbia University Press) - libgen.li.pdf",
+      "chunk_index": 11,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7653693,
+      "importance": 0.7986103892326355,
+      "final_score": 0.7653692960739136
+    },
+    {
+      "id": "d012d86f30e3c3922f6f1f47",
+      "qdrant_id": "e778455c-fa69-5454-88c5-e99ffff9349a",
+      "text": "spinning this complex web or why we are spun into it? How can we differently weave the connections between absence, the succoring love of the mother and the beyond? The abject at the heart of subjectivity and language Addressing these questions I wish to continue this chapter by providing further background to Julia Kristeva’s work. Listening to this particular woman’s voice will help us to understand the connections between gender, subjectivity and ‘the beyond.’ Like Cavell, Kristeva is deeply worried by the misunderstanding that language and subjectivity are simply there. She probes the possibility of language and discovers (like Cavell) that the ‘symbolic’ (the world of counting and accounting, as we could say in Cavellian language) is made possible by something prior and beyond symbolism. Kristeva calls this the ‘semiotic.’ In contrast to the symbolic, the semiotic relates t…",
+      "source": "Ludger H. Viefhues-Bailey - Beyond the Philosopher's Fear (Intersections_ Continental and Analytic Philosophy) (2007) - libgen.li.pdf",
+      "chunk_index": 644,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7651495,
+      "importance": 0.7965642809867859,
+      "final_score": 0.7651494741439819
+    },
+    {
+      "id": "9d83d8d2f328d08cd3ba298a",
+      "qdrant_id": "17a17033-8f89-549f-81a4-53bf061b3adb",
+      "text": "Page vi Susan David Bernstein 6. Confessional Feminisms: Rhetorical Dimensions of First­Person Theorizing 173 Sangeeta Ray 7. The Postcolonial Critic: Shifting Subjects, Changing Paradigms 207 Part Three: The Power of Masculinist Metaphors: Words That Keep Women in Place Natalie Alexander 8. Sublime Impersonation: The Rhetoric of Personificationin Kant 243 Andrea Nyc 9. Frege's Metaphors 271 Roberta Weston 10. Free Gift or Forced Figure? Derrida's Usage of Hymen in \"The Double Session\" 299 Part Four: The Power of Feminist Metaphors: Words That Open Spaces for Women Ewa Plonowska Ziarek 11. At the Limits of Discourse: Heterogeneity, Alterity, and the Maternal Body in Kristeva's Thought 323 Lisa Walsh 12. Writing (into) the Symbolic: The Maternal Metaphor in Hélène Cixous 347 Cynthia Baker 13. Language and the Space of the Feminine: Julia Kristeva and Luce Irigaray 367 About the Co…",
+      "source": "[SUNY series in contemporary continental philosophy] Christina Hendricks, Kelly Oliver - Language and Liberation_ Feminism, Philosophy, and Language (1999, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 4,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.765146,
+      "importance": 0.7954158186912537,
+      "final_score": 0.7651459574699402
+    },
+    {
+      "id": "24f78fa60b42ffb665265b98",
+      "qdrant_id": "31ecc9ca-139c-5cc5-8dc0-fbd7b2513751",
+      "text": "hood described by Melanie Klein. The semiotic consists of elementary functions that bind and orient the body of the baby in relation to the mother. At this stage there is no subject/object, and we cannot speak of an order either. But there are processes that have rhythm, and they follow a sort of regulation due to the biological and social constraints mediated by the mother’s body. Most of Kristeva’s theory deals with the relations between semi- otic and symbolic in poetic production, which we can set aside except for those parts emphasizing the importance of the semiotic not only for the acquisition but also for the actual life of language. But always from within the symbolic: in fact, the semiotic is practically contained in the symbolic and mediated by it. And for this reason, it is not directly accessible to us. Kristeva repeatedly confirms that between semiotic and symboli…",
+      "source": "(SUNY series in Contemporary Italian Philosophy) Luisa Muraro_ Timothy S. Murphy - The Symbolic Order of the Mother-SUNY Press (2018).pdf",
+      "chunk_index": 206,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.76455265,
+      "importance": 0.7925035953521729,
+      "final_score": 0.7645527720451355
+    },
+    {
+      "id": "8f01ea36e3590f9bb2d05b12",
+      "qdrant_id": "9f70ce8b-3fb6-58c5-8c3f-f6b244a76093",
+      "text": "the mother-child intersubjective space is not only mirrored, symbiotic and jouissant, but is in itself a third space. Helene Rouch, interviewed by Luce Irigaray (1992), points out that mother/child relations through the placenta, which are presented in the imaginary as a fusion, are in fact “strangely ordered and respect- ful of the lives of both”. Viewing these concepts in metaphoric terms, we could say that the placenta is then more a mediating and regulating system than an element of fusion and lack of differen- tiation. This also generates the question as to whether separation is an exclusively traumatic condition or whether it includes a pleasurable element. These ideas are aimed at recognizing the symbolizing, creative capacities in the mother-child space: a concept of a maternity able to promote the child’s autonomy and separation, which aims to establish the bases of a symbolic,…",
+      "source": "Leticia Glocer Fiorini - Deconstructing the Feminine_ Psychoanalysis, Gender and Theories of Complexity (2008, Karnac Books) - libgen.li.pdf",
+      "chunk_index": 284,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.76418203,
+      "importance": 0.7958786487579346,
+      "final_score": 0.7641820907592773
+    },
+    {
+      "id": "2d1a71402b76cc14acfd98ea",
+      "qdrant_id": "dce30a4a-c8a2-5c9e-93fe-daf0a10f8293",
+      "text": "At ﬁrst glance, Julia Kristeva seems to be of two minds about things. She revels in the revolutionary potential of poetic language, yet she is careful not to take its “asymbolia” (loss of meaning) too far. She conjures up a radically new understanding of maternal, “heretical” (that is, subversive to the established order, unorthodox) ethics, yet she does so within a discourse (psychoanalysis) that is steeped in paternal authority. She documents how people are both fascinated and repelled by the foreigners in their midst, but she sees this attitude toward “foreignness” as a necessary and constitutive feature of our self- identity. She points to the importance of biological drives and energy, but notes that they can only be apprehended via our language and culture. She writes with feminist intent, but she is critical of the move- ment known as feminism. No wonder, then, that Kristeva has…",
+      "source": "[Routledge Critical Thinkers] Noelle McAfee - Julia Kristeva (2003, Routledge) - libgen.li.pdf",
+      "chunk_index": 26,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7634475,
+      "importance": 0.7925896644592285,
+      "final_score": 0.763447642326355
+    },
+    {
+      "id": "ff33ff031a501621274e6ecb",
+      "qdrant_id": "aeb6ea30-ef9a-5a35-9540-d3fecabb8879",
+      "text": "by the existing scholarship on Kristeva’s novels. Among the academic studies of Kristeva’s fiction, Szu-Chin Hestia Chen’s French Feminist Theory Exemplified Through the Novels of Julia Kristeva (2008) deserves special mention as the only book so far dedicated to Kristeva’s fiction, and as a predecessor of this collection. Chen gives a chronological account of Kristeva’s thoughts on the novel, from her earliest writings influenced by for- malist linguistics to her later writings influenced by Lacanian psychoanalysis. In her account, she also suggests that the object of analysis of Kristeva’s theory and fiction remains the same, although Kristeva gives different names to this object: to wit the semiotic mode of signification and poetic language.25 Chen claims that the distinction between theory and fiction proves problematic for Kristeva, and she states that her novels may “simpl…",
+      "source": "[Suny Series, Insinuations_ Philosophy, Psychoanalysis, Literature] Kristeva, Julia_ Kristeva, Julia_ Trigo, Benigno - Kristeva's Fiction (2013, State University of New York Press) - libgen.li.pdf",
+      "chunk_index": 72,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7627906,
+      "importance": 0.7957563996315002,
+      "final_score": 0.7627906799316406
+    },
+    {
+      "id": "387497b1588c2a12578c5f1e",
+      "qdrant_id": "f50c365d-b1f3-5f7c-abf5-2f20b8a14fdf",
+      "text": "Body Politics of Julia Kristeva,” has also been collected in Kelly Oliver’s anthology, Ethics, Politics, and Difference in Julia Kristeva’s Writing. Butler takes issue with the way theorists, Kristeva included, attempt to “ﬁx” gender identities. Butler thinks Kristeva does this by way of tying the semiotic mode of signiﬁcation to the feminine, maternal body. Chanter, Tina and Ewa Ziarek (eds) (forthcoming) Between Revolt and Melancholia: The Unstable Boundaries of Kristeva’s Polis. Albany: State University of New York Press. 134 F U R T H E R R E A D I N G",
+      "source": "[Routledge Critical Thinkers] Noelle McAfee - Julia Kristeva (2003, Routledge) - libgen.li.pdf",
+      "chunk_index": 404,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7625836,
+      "importance": 0.7965277433395386,
+      "final_score": 0.7625836133956909
+    },
+    {
+      "id": "09f9846c3cc864a5e57ce749",
+      "qdrant_id": "6aa5087c-2d35-5bea-8a29-8fc730f78737",
+      "text": "(tantamount to Freudian slips) and in the script of experience readable only after the event that connection occurs. Brief scrutiny of the post-‘le texte clos’ phase in Kristeva’s work highlights such transmissions less as theory but more as praxis. Chinese woman, the maternal and the in-between (‘l’entre-deux’) The issue in Kristeva’s oeuvre which has provoked most feminist critical attention and ire is the maternal. For Doane and Hodges for example, Kristeva’s psychoanalytic work on the maternal and the pre-semiotic almost blithely ignores women’s sociopolitical contexts: ‘A signifying practice like Kristeva’s, a discourse that refuses to discuss the social, political and economic situation of women (except as symptoms or an archaic relation to a maternal object) can offer little insight into the complex sources of female depression and little hope for a cure’ (77). For Lisa Lowe, ‘…",
+      "source": "Stacy Gillis, Gillian Howie, Rebecca Munford - Third Wave Feminism_ A Critical Exploration (2004) - libgen.li.pdf",
+      "chunk_index": 121,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.76191235,
+      "importance": 0.7913307547569275,
+      "final_score": 0.7619122266769409
+    },
+    {
+      "id": "83974a8045b9424afc997f11",
+      "qdrant_id": "e32cad1d-695d-541a-baed-7b3516e11e5a",
+      "text": "and experiences of diverse and marginalised communi- ties, a pluralism of views, a rejection of the separation of ethics and epistemology, and a rejection of the idea of a neutral, objective observer. Furthermore, pragma- tist feminism recognises that ‘speciﬁc, practical ends are set by various communities of interest, the members of which are best situated to name, resist, and overcome op- pressions of class, sex, race, and gender’ (37), and locates women as a marginalised subject with a unique frame of reference from which to start thinking and practice. Since the publication of her book there has been a burgeoning interest in pragmatist approaches. Semiotic: feminist postmodernist Julia Kristeva deﬁnes the semiotic as one of two elements of language (the other is the symbolic). The semiotic is the rhythm and tone of language through which ‘bodily drives are discharged’ (Kristeva and Oliver, 1997: xiv). The semiotic are the ‘meaningful parts of language and yet do not rep-",
+      "source": "Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li (1).pdf",
+      "chunk_index": 319,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7611475,
+      "importance": 0.7962013483047485,
+      "final_score": 0.7611474990844727
+    },
+    {
+      "id": "2cbd36c62e9b94584f61935c",
+      "qdrant_id": "a6f8f767-027c-5983-b0db-c22683c4e232",
+      "text": "ﬁrst contact with ‘authority’ is with the maternal authority when the child learns, through interaction with the mother, about its body: the shape of the body, the clean and unclean, the proper and improper areas of the body. Kristeva refers to this process as a ‘primal mapping of the body’ which she calls ‘semiotic’. She distinguishes between maternal ‘authority’ and ‘paternal laws’: Maternal authority is the trustee of that mapping of the self’s clean and proper body; it is distinguished from paternal laws within which, with the phallic phase and acquisition of language, the destiny of man will take shape. (p. 72) In her discussion of rituals of deﬁlement in relation to the Indian caste system, Kristeva draws a distinction between the maternal authority and paternal law. She argues that the period of the ‘mapping of the self’s clean and proper body’ is characterised by the exercise of ‘authority without guilt’, a time when there is a ‘fusion between mother and nature’. However, the",
+      "source": "Mark Jancovich - Horror, The Film Reader (In Focus--Routledge Film Readers) (2001).pdf",
+      "chunk_index": 328,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.75598586,
+      "importance": 0.7860190868377686,
+      "final_score": 0.7559858560562134
+    },
+    {
+      "id": "c2c2dc285960978f0349927b",
+      "qdrant_id": "2aa356ea-f1c0-5701-bc11-d5e149ed34c4",
+      "text": "134 Exploring the maternal metaphor 135 Mother’s white ink: Hélène Cixous 138 Writing the mother: Melanie Klein 141 Mothers and the art of birth: Julia Kristeva 144 Toward a feminist poetics: writing (and) the mother’s body 149 From body to voice: labial logic 155 8 Mothers and daughters: speaking 159 Mothers and daughters writing 159 Reproduction and repetition 163 Mother—daughter poetics: Luce Irigaray 170",
+      "source": "Michelle Boulous Walker - Philosophy and the Maternal Body_ Reading Silence-Routledge (1998).pdf",
+      "chunk_index": 9,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7558067,
+      "importance": 0.7852932810783386,
+      "final_score": 0.7558069229125977
+    },
+    {
+      "id": "509629b2d8f78472572f3733",
+      "qdrant_id": "72be1d89-f3e4-518c-ac01-6e8d5929bb0e",
+      "text": "Julia Kristeva and Feminist Thought 196 Kant, I., 151, 166 Keltner, S.K., 80–1 Klein, M., 115–16, 119, 122, 139 Lacan, J., 25–6, 28, 40–1, 67 Lacanian, 10, 52n9, 62 Lacanian psychoanalysis, 32, 39 language, 7, 10, 41–2, 44, 64, 67, 79, 81, 88, 90–1, 94, 102, 111, 116, 127, 161 theory of language, 22–3, 89 life, 17, 107, 112, 115, 117–20, 122, 124–9, 132, 153, 167 bios, 128–30 narrated life, 121 zoe¯, 128–30, 132 see also Arendt; biography; genius Lloyd, M., 103 love, 108, 110, 123 transference love, 110–11 McAfee, N., 38, 91, 127 Margaroni, M., 2, 13, 33, 47 marginality, 64–5, 116, 131 the marginalised, 65, 103 masculine, the, 7, 26, 38, 44, 69–70, 91, 94, 97, 99, 101, 104, 106, 111 masculinity, 7, 29, 42, 69, 70 maternal, the, 26, 41, 63, 87, 93–4, 97, 99, 133, 142 maternal body, 3, 4, 22, 32, 45–7, 91, 98 maternal ethics, 16, 92, 96 maternal political practice, 96 maternal semi…",
+      "source": "Birgit Schippers - Julia Kristeva and Feminist Thought (2011, Edinburgh University Press) [10.1515_9780748646067] - libgen.li.pdf",
+      "chunk_index": 141,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.75415444,
+      "importance": 0.7845376133918762,
+      "final_score": 0.7541544437408447
+    },
+    {
+      "id": "ee33fffd9978b58478494cf7",
+      "qdrant_id": "b74618c5-8afb-538e-92cd-37d37d39369d",
+      "text": "when I move, the image moves; I see where I begin and end, so I am an indi- vidual, and that means that I am not continuous with my mother’s body, but separate from it.” This introduces the child to the idea that not only is she a person separate from the mother and from objects in the world, but also that persons and objects can be reflected back to her through representation, through images or figures that depict or describe persons and things, but which are not identical with those persons or things. This is the point at which encoded words become central. Because the child had not previously been aware of the world as a representational place of persons and objects, she had no connection with naming. But now, as she begins to cross from the semiotic—in which language was all movement, rhythm, sounds without ref- erent—into the symbolic—in which language points at persons and things and gives them a public meaning—she needs to know the names of persons",
+      "source": "(SUNY Series in Feminist Criticism and Theory) Deborah Caslav Covino - Amending the Abject Body_ Aesthetic Makeovers in Medicine and Culture-SUNY Press (2004).pdf",
+      "chunk_index": 65,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.75390065,
+      "importance": 0.7946657538414001,
+      "final_score": 0.7539006471633911
+    },
+    {
+      "id": "ea1e291d338011a559e6fa4c",
+      "qdrant_id": "26c89bf9-09c2-58f2-8f4c-fd4f10e27591",
+      "text": "adopted approaches generate a binocular view of the domestic space as depicted in the stories, whereby it emerges as a masochistic space. The psychological vector exposes the oppressive underbelly of superﬁcial stances of protectiveness towards the woman and reverence towards the mother-ﬁgure. Chapter 4, ‘The Literary Vector,’ presents a brief survey of the ﬁeld of feminist literary criticism before proceeding to tease out the spatial implications suggested by the conceptual schemes of selected critics. The conceptual schema of Jean Franco, Joseﬁna Ludmer, Sara Castro-Klaren, Nattie Golubov, Rachel Falconer, and Joy Ladin are examined in detail to extricate the spatial premises that emerge from their critical articulations. The literary vector thus crafted is used to explore Antigone’s unique location in kinship structures, de-differentiated and de-sedimented views of uniﬁed solidities, …",
+      "source": "Java Singh - Feminist Literary and Cultural Criticism_ An Analytical Approach to Space (2022, Springer) - libgen.li.pdf",
+      "chunk_index": 32,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7537967,
+      "importance": 0.7853983044624329,
+      "final_score": 0.7537966370582581
+    },
+    {
+      "id": "55a90f887a31682b51b8fdca",
+      "qdrant_id": "f066ba15-f6ed-51ad-a071-430f213dd637",
+      "text": "as 'the conceptions of a masculine, rational and (increasingly) artificial brain', and in which there is little room for the female body. If the female body and the maternal function appear at all, they are 'displaced onto masculine and corporate technological fertility', as in the example of the caring but psychotic computer HAL in the film 2001: A Space Odyssey or 'Mother', the computer in Alien. In comparison to the analysis put forward by Mary Ann Doane, Sofia argues that the female and maternal figure is indicative of masculine, rather than maternal, excess. From such a perspective, cyberspace itself can, therefore, be thought of as a female, maternal space to be 'penetrated, cut up and manipulated', presumably by predominantly male hackers. She argues that, ultimately, virtual reality and corporeality offer a 'misogynistic fantasy of escape from Earth, gravity, and mater…",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 66,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.75373757,
+      "importance": 0.7961995005607605,
+      "final_score": 0.7537374496459961
+    },
+    {
+      "id": "60aa764fe2026dbcd973c799",
+      "qdrant_id": "2598587a-8881-5ead-aeea-d12dc0042c26",
+      "text": "Contents PREFACE VIL GLOSSARY Ziv 1 Modern French philosophy 1 Kojeve, Hippolyte and Hegel 2 Phenomenology, marxism and structuralism 6 Althusser’s theory of ideology 12 Lacan and psychoanalysis 16 Derridean deconstruction 26 i) Julia Kristeva and the speaking subject 39 The speaking subject 41 Signifying practices 49 Women, mothers and femininity 63 3 Julia Kristeva: Abjection, motherhood and love 70 Abjection 71 Motherhood 78 The imaginary father and love 85 Heretical ethics 89 Women, feminism and the feminine 91 ay Luce Irigaray and sexual difference 100 Kristeva and Irigaray 102 Phallic sameness 104 Woman as castrated other 107 Language, power and bodies 110 Morphology and anatomy 113 Mother-daughter relations and the genealogy of women 119 Discourse and domination 126 Hysteria and mimesis 132",
+      "source": "Sexual subversions_ three French feminists -- Grosz, Elizabeth -- 1989 -- Sydney ; Boston_ Allen & Unwin -- 9780043012925 -- 25695bee28a7aac24c50c9d308e6604e -- Anna’s Archive.pdf",
+      "chunk_index": 5,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7528834,
+      "importance": 0.7888675928115845,
+      "final_score": 0.7528831958770752
+    },
+    {
+      "id": "ec22b5540d4689083e57d436",
+      "qdrant_id": "794e204b-4cb5-564a-9bc5-df6ab7bfff29",
+      "text": "Frames of Anime 14 Kristeva accords the chora as “part of the discourse of representation that offers it as evidence,” she concludes that it can never acquire an “axiomatic form.” This is so as the receptacle-space is conditioned to be everywhere and yet nowhere. Because the forefront is occupied by a paternal functional symbolic where linguistic structures are the means and the make-up of its operational milieu, the chora is reduced to the semiotic realm where the psychical, rhythmic, and maternal are some of its salient characteristics. According to Kristeva, both the symbolic and the semiotic are in a dialectical relationship and the significance is in this heterogeneous process. Another French philosopher, Maurice Merleau-Ponty, proposes a “theory of reversibility” by which he stresses the intersubjectivity and interactiveness of human communication that are already set within a pre-established social-historical world. As language",
+      "source": "Tze Hu - Frames of Anime_ Culture and Image-Building-Hong Kong University Press (2010).pdf",
+      "chunk_index": 64,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.7524979,
+      "importance": 0.7858633399009705,
+      "final_score": 0.7524977326393127
+    },
+    {
+      "id": "3c7dbdff70fdab47d949ffb6",
+      "qdrant_id": "b4f33d44-db8b-51d8-94ff-a69238b6e64c",
+      "text": "Preface The discipline of semiotics - or semiology - is now well established in Europe, or at least in the French and Italian university and intellectual systems. It has become much better known in the last decade in Anglo-Saxon countries - especially in film studies - although it is not always treated with the respect it has achieved on the Continent. Julia Kristeva's work, the subject of this book, derives much from the development of modern semiotics, even if it is also distanced from it to a certain extent. Although enough of an introductory nature has now been written on semiotics,1 a brief remark about its nature and scope are appropriate in order that we may better take our bearings in relation to Kristeva's work. Seminal texts explaining the nature of the discipline of semiotics, such as those of Barthes2 and Eco,3 apart from showing how it is dependent on a theory …",
+      "source": "[RLE_ Feminist Theory Vol. 19] John Lechte - Julia Kristeva (2012, Routledge) - libgen.li (2).pdf",
+      "chunk_index": 22,
+      "page": null,
+      "seed_hits": [
+        "barthes-mythologies-semiotics-punctum-studium",
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.77314776,
+      "importance": 0.8080245852470398,
+      "final_score": 0.7503455281257629
+    },
+    {
+      "id": "c52e4c66b1c6db630afc7185",
+      "qdrant_id": "19f49b35-69e2-5f17-9195-8eb728cb102b",
+      "text": "somewhere to feel at home, a body, an identity, a signifier, that would turn concrete and real and allow us to know who or even what we are when we speak or act, make love, give birth, or give a lecture. (A passing homage to Joan Riviere and all other intellectual hysterics.) But we must resist this longing because it can only be the desire for an identification which is as impossible as it is destructive: identification with the only place there can be: the Mother, or rather the maternal body or her idealisation in pseudo-religious terms, as the Great Goddess. Both these figurations of the Maternal are inherently phallic since this configuration is premised on the severed dialectic of subject/(m)Other. In Julia Kristeva’s work the distinction is crucial. Feminism, with its dangerous proclivities towards religion might become a new cult of the Mother, but without abjection or sublimation…",
+      "source": "Griselda Pollock - Julia Kristeva 1966–96_ Aesthetics politics ethics (Parallax, Issue 8 July–September 1998) (1998) - libgen.li.pdf",
+      "chunk_index": 410,
+      "page": null,
+      "seed_hits": [
+        "julia-kristeva-chora-semiotic-maternal-space"
+      ],
+      "raw_score": 0.74965036,
+      "importance": 0.7827029824256897,
+      "final_score": 0.7496502995491028
+    },
+    {
+      "id": "34ae8820d0961baf3b8109db",
+      "qdrant_id": "d1f3052b-3765-52e8-a3b2-12d7cb75e28b",
+      "text": "desire for her presence. Language represents an effort to control through representation the traumatic separation that one must inevita- bly undergo; it is therefore always restless with desire for a presence it can only symbolize but never achieve. Because language is predicated upon the pain of absence, pain is inseparable from the pleasures of signiﬁcation. But emphasizing that pain underlying signiﬁcation—representing the gaps in language rather than representing that which is desired— offers the distinct pleasure of foregrounding the presence of language itself. One might prefer the representation of maternal absence to pres- ence, sunset to sunrise, pain to pleasure because it makes one conscious of the fact that one actually has language at hand (or a spool in hand). One may well achieve some abstract, “inﬁnite Aurora” in heaven, and that aurora may ultimately compensate for the p…",
+      "source": "Marianne Noble - The Masochistic Pleasures of Sentimental Literature (2000, PrincetonUP) - libgen.li.pdf",
+      "chunk_index": 151,
+      "page": null,
+      "seed_hits": [
+        "elaine-scarry-the-body-in-pain-representation"
+      ],
+      "raw_score": 0.7550858,
+      "importance": 0.797237753868103,
+      "final_score": 0.7283111214637756
+    },
+    {
+      "id": "ba94d83debda266c05e23fb9",
+      "qdrant_id": "0e776301-5b86-5714-89e1-f18d21411a72",
+      "text": "those same skills that comprise the methodology of the oppressed, which including the technologies of 'semiotics,' 'deconstruction,' 'meta-ideologizing,' 'democratics,' and 'differential movement.' It is these technologies that permit the constant, differential repositioning necessary for perception and action from what Haraway identifies as 'the standpoints of the subjugated.' Indeed, Haraway's essay on cyborg feminism identifies all five of these technologies (if only in passing) as ways to bring about what she hopes will become a new feminist methodology. Of the first 'semiotic' technology, for example, Haraway writes that 'self knowledge requires a semiotic-material technology linking meanings and bodies ... the opening of non-isomorphic subjects, agents, and territories to 257",
+      "source": "Jenny Wolmark - Cybersexualities_ A Reader in Feminist Theory, Cyborgs and Cyberspace (1999, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 176,
+      "page": null,
+      "seed_hits": [
+        "donna-haraway-cyborg-feminism-companion-species-situated-knowledges"
+      ],
+      "raw_score": 0.7855739,
+      "importance": 0.8176240921020508,
+      "final_score": 0.726940393447876
+    },
+    {
+      "id": "0c6165e62fe8c4e2d2a0e818",
+      "qdrant_id": "feec7b5a-ef95-5c61-9c14-0f1146d4c6a8",
+      "text": "Contents Acknowledgments vii Introduction 1 1 Semiotics of Exile in Photography 7 2 Poetics of Exile 33 3 Semiotics of Exile in Tragedy 91 4 E’criture Feminine and the Semiotics of Exile 115 5 Cosmic Exile and the Fourth Dimension in Escher, Borges, and Proust 129 6 Artist in Exile: Divinely and Demoniacally Possessed 141 Notes 165 Bibliography 171 Index 175",
+      "source": "Hong Zeng (auth.) - The Semiotics of Exile in Literature (2010, Palgrave Macmillan) [10.1057_9780230113114] - libgen.li.pdf",
+      "chunk_index": 3,
+      "page": null,
+      "seed_hits": [
+        "susan-sontag-on-photography-against-interpretation-illness-as-metaphor"
+      ],
+      "raw_score": 0.7232218,
+      "importance": 0.7783382534980774,
+      "final_score": 0.7251005172729492
+    },
+    {
+      "id": "ec33ec4b7e130ed94d77fdab",
+      "qdrant_id": "421a1906-f603-54bf-9ae1-e823b5396cb9",
+      "text": "of how, in Braidotti's words in Nomadic Subjects, to 'figure out how to respect cultural diversity without falling into relativism or political despair'. The 'situatedness' envisaged here, however, isno simple affair. It is in the first place a position which insists on the embodied and therefore sexually differentiated nature of the female subject. But embodiment does not, in this context, mean 'essentialism', where essentialism is defined as implying a fixed and monolithic essence to female identity \"which is beyond historical and cultural change. The embodied female subject envisaged here is, on the contrary, a 'nomadic' subject, to use Braidotti's terminology. That is, she is 'the site of multiple, complex, and potentially contradictory sets of experiences, defined by overlapping variables such as class, race, age, lifestyle, sexual preference, and others'. Haraway goes further: in t…",
+      "source": "The Routledge companion to postmodernism (2001, Routledge) - libgen.li.pdf",
+      "chunk_index": 176,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.792459,
+      "importance": 0.8229739665985107,
+      "final_score": 0.7193491458892822
+    },
+    {
+      "id": "dcf1b49a94828885066e44ff",
+      "qdrant_id": "8ed9f09e-0d7a-5b2c-b18c-f3ff8f6cb4f5",
+      "text": "flashes of meaning: power, love, control, violence, political, personal, pri- vate, friendship, community, sexual, work, pain, pleasure, self, integrity... When we become acutely, disturbingly aware of the language we are using and that is using us, we begin to grasp a material resource that women have never before collectively attempted to repossess (though we were its inven­ tors, and though individual writers like Dickinson, Woolf, Stein, H.D., have approached language as transforming power) (1979d:247). In the context of her total discourse, a central textual strategy in Rich obeys the desire to redirect this negativity; from the diachronic readings of Rich's work previously outlined (Diaz-Diocaretz 1983a, 1984a) it is evident that the poet's struggle is to break the socially received and programmed con­ straining frames and stereotypes and the former ideological structures that have shaped women's consciousness in the past.15 The underlying ideological",
+      "source": "[Critical theory 2] Rich, Adrienne Cecile_ Díaz-Diocaretz, Myriam - Translating poetic discourse _ questions on feminist strategies in Adrienne Rich (1985, John Benjamins Publishing Company) - libgen.li.pdf",
+      "chunk_index": 226,
+      "page": null,
+      "seed_hits": [
+        "audre-lorde-the-erotic-as-power-poetry-survival"
+      ],
+      "raw_score": 0.6958609,
+      "importance": 0.7682583928108215,
+      "final_score": 0.715441107749939
+    },
+    {
+      "id": "9b91815afa2add75e2696b60",
+      "qdrant_id": "b9aa33b8-86ff-5d7e-87a2-a66d1d091a62",
+      "text": "and satirical, working, as it were, of itself without the intervention of the writer. To achieve her purpose, to bring the underlying puzzled, mobile \"tropisms\" to life, she also experimented with time dimensions: whereas for the \"outer\" situations she narrows the field of vision, setting up sche- matically devised frames, the brief plunges into the unspoken are drawn out and balloon, extending the time- and space-frames of the incident. Paradoxically moving from outside in, from a narrow frame inward, she leads the reader to a sense of a limitless world, maintaining an aura of ambiguity without censorship, changing the expected order of presenta- tion of the narrative. Her method is associative, not logical. But the struc- tures adopted are not gratuitous. For according to Sarraute, their aim is to disclose certain truths. The contrast between the two spaces and their relation,…",
+      "source": "[Princeton Legacy Library_ 960 1992-dec 31] Friedman, Ellen G. (editor)_Fuchs, Miriam (editor) - Breaking the Sequence_ Women's Experimental Fiction (1992, Princeton University Press) [10.1515_9781400859948] - libg.pdf",
+      "chunk_index": 147,
+      "page": null,
+      "seed_hits": [
+        "autotheory-maggie-nelson-the-argonauts"
+      ],
+      "raw_score": 0.6007836,
+      "importance": 0.7713369727134705,
+      "final_score": 0.7148891091346741
+    },
+    {
+      "id": "fa3caf074b2a6b49c1e68e8c",
+      "qdrant_id": "9ee538b8-6503-547c-b812-0a742b2c0f4d",
+      "text": "Introduction 9 and other, and the space between them. This space is a space of sharing in which, Nancy claims, noise resonates: ‘in a body that opens up and closes at the same time, that arranges itself and exposes itself with others, the noise of its sharing (with itself, with others) resounds’ (41). While Chion’s work is foundational to any inquiry considering sound within the cinematic medium, Nancy’s thinking allows me to move past Chion’s somewhat taxonomic approach and go further in elaborating a less reified listening subject than the spectator posited by Chion, in ways that resonate with the differing and dispersed bodies that contemporary cinema seeks out. My own engagement goes beyond the usual references to Chion’s concepts of ‘syncresis’, or the ‘acousmêtre’ to consider a broader range of theories and observations from Chion’s work and demonstrates how they resonate with Nancy’s own reflections on sound, using Chion’s concepts to bridge the",
+      "source": "Emilija Talijan - Resonant Bodies in Contemporary European Art Cinema (2022, Edinburgh University Press) - libgen.li.pdf",
+      "chunk_index": 41,
+      "page": null,
+      "seed_hits": [
+        "michel-serres-the-five-senses-noise-parasite"
+      ],
+      "raw_score": 0.711456,
+      "importance": 0.7674714922904968,
+      "final_score": 0.7056411504745483
+    },
+    {
+      "id": "1b8e97f139f9d7c063c94ea8",
+      "qdrant_id": "01d198b8-1a06-5668-8ce7-6f4694ed916a",
+      "text": "I turn now to the work of some contemporary women artists and photographers, who, like Solomon, have begun to change the inherited gaze of female beauty. In an interview about her show at the Horodner Romley Gallery (), Mira Schor talks about the history behind a series of paintings in which she used punctuation marks to visualize the boundaries between public and private experience.11 In one she wrote out P U B (L) I C to evoke the pubic/public boundary so prominent in the Anita Hill/Clarence Thomas affair. “That led,” Schor explains, to painting incarnated punctuation marks: cunts, breasts, and penises framed by quote marks; red commas and semicolons set into pubic hair, embedded in ﬂesh. Gender positions, no matter how gory their physicality,are put into question by the quotation marks.Markers of printed language are sexualized, and text, which had been so dominant over visuality in fem- inist theory and art in the s,is presented for its visual seduc-",
+      "source": "Nancy K. Miller - But Enough About Me_ Why We Read Other People's Lives (2002, Columbia University Press) [10.7312_mill12522] - libgen.li.pdf",
+      "chunk_index": 243,
+      "page": null,
+      "seed_hits": [
+        "kathy-acker-body-writing-cut-up"
+      ],
+      "raw_score": 0.6349257,
+      "importance": 0.75636225938797,
+      "final_score": 0.6969099044799805
+    },
+    {
+      "id": "a4dfc2068fd1c179a559276d",
+      "qdrant_id": "8824e8e2-68cc-5c26-ac95-7b5118538ec8",
+      "text": "ceptual analysis. We are already in place. Not simply the room I currently write in, but the condition of there being a place at all. How does this room envelop me? How do I hold myself in this room? To what extent will this room become a significant aspect of my future memories? At which point did I cease feeling a visitor in this room and more a fundamental part of it? Such questions for the most part remain dormant, rising to the surface only when places either lose their familiarity or are otherwise destroyed and lost. The complexity surrounding the topic of place is vast, and the aim of this book is to offer a contribution to the body of phenomenological work con- tending with the idiosyncrasies of memory and materiality, of which an im- pressive library is already in existence (Backhaus and Murungi 2005; Behnke 1997; Brown and Toadvine 2003; Carr 1991; Casey 1993, 2000b, 2007; Cresswell 2004; Entrikin 1991; Hayden 1997; Kolb 2008; Light and Smith",
+      "source": "(Series In Continental Thought (Book 41)) Dylan Trigg - The Memory of Place_ A Phenomenology of the Uncanny-Ohio University Press (2012).pdf",
+      "chunk_index": 81,
+      "page": null,
+      "seed_hits": [
+        "jasbir-puar-debility-capacity-assemblage"
+      ],
+      "raw_score": 0.6739305,
+      "importance": 0.7697451114654541,
+      "final_score": 0.6916682720184326
+    },
+    {
+      "id": "a2fed63201de063832937ad9",
+      "qdrant_id": "1c49539c-8ba6-5e90-996f-7701109bb46f",
+      "text": "assumption that there is at least an ontologically fuzzy or third space in between the pure image-object on the screen and the pure material thing in front of the camera. This fuzzy space is built up by specific interactions or operations that derive fi-om the interplay of (1) the photo mechanic machinery of cinematography, as material and real as it is, (2) the material objects that surroimd this machinery and to which the camera is directed, and (3) the physical body of the spectator and the operations of perception and action that can be ascribed to this body (Voss 2006,2013). At the very core, it is precisely the cameras pure and mechanical recording or registering of the light as it is refracted by the object in front of the camera, of the movement or gesture the object Moving Images as Ontographic Images 143 is subject to, and of the movements or gestures of the spectator. The automatic nature of the recording process, as underlined in Kracauer",
+      "source": "[Thinking Media] Bernd Herzogenrath (ed.) - Media matter_ the materiality of media, matter as medium (2015, Bloomsbury Academic) - libgen.li.pdf",
+      "chunk_index": 360,
+      "page": null,
+      "seed_hits": [
+        "vilém-flusser-technical-image-apparatus"
+      ],
+      "raw_score": 0.69023824,
+      "importance": 0.7714262008666992,
+      "final_score": 0.6902382969856262
+    },
+    {
+      "id": "025f270b2d3a9f34517da90b",
+      "qdrant_id": "9ad2d5a0-2294-5848-9301-ff4bee45fc13",
+      "text": "C O N C LU S I O N 109 living matter, is interrelated. Crucially, however, the capsule model acknowl- edges the subjective experience of containment and (highly permeable) boundaries, even as it gestures toward interconnection and absorption. When installed as a complete series, the photographs are arranged in a spherical and nonchronological format that encircles spectators at the center of the panorama — neatly recalling Mori’s own embedded and encapsuled position. In short, the work instantiates an encapsulated posthuman self- hood: located and embodied viewers continuously interwoven and immersed amid other encapsulated bodies. A Capsule Aesthetic at the Interface This book has proposed that the new media installations of artists such as Pipilotti Rist, Patricia Piccinini, and Mariko Mori, similar to the new theoretical materialisms inaugurated by feminist scholars of techno…",
+      "source": "Kate Mondloch - A Capsule Aesthetic_ Feminist Materialisms in New Media Art (2018, University of Minnesota Press) - libgen.li.pdf",
+      "chunk_index": 346,
+      "page": null,
+      "seed_hits": [
+        "rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism"
+      ],
+      "raw_score": 0.7619807,
+      "importance": 0.795331597328186,
+      "final_score": 0.6836351752281189
+    }
+  ]
+}

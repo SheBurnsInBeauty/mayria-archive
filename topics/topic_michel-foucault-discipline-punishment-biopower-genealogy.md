@@ -1,0 +1,887 @@
+---
+generated_utc: '2025-09-18T12:11:03Z'
+model: BAAI/bge-base-en-v1.5
+collection: visceral_synthesis_archive
+vector_name: <unnamed>
+parameters:
+  per_query: 220
+  canon_total: 5000
+  topic_k: 80
+  mmr_lambda: 0.58
+  near_dup_cos: 0.96
+  topic_sim_threshold: 0.34
+  min_chars: 220
+  max_chars: 2000
+  max_per_source_total: 35
+  max_per_source_topic: 3
+  mode: all-data
+  default_seed_weight: 1.0
+  mmr_relevance_alpha: 0.6
+  max_core_mb: 5.0
+seeds:
+- hauntology and cancelled futures (Mark Fisher, Derrida)
+- abjection Kristeva Powers of Horror
+- Irigaray two lips sexual difference fluids
+- "Lispector \xC1gua Viva presence stream of consciousness"
+- autotheory Maggie Nelson The Argonauts
+- Cixous Laugh of the Medusa writing the body white ink
+- Duras minimalism absence presence The Malady of Death
+- archive fever Derrida
+- Deleuze Guattari rhizome assemblage desire
+- Eugene Thacker horror of philosophy cosmic pessimism
+- Rosi Braidotti posthuman nomadic theory feminist new materialism
+- Judith Butler gender performativity Gender Trouble bodies
+- Sara Ahmed affect theory orientation phenomenology feminist killjoy
+- Donna Haraway cyborg feminism companion species situated knowledges
+- Roland Barthes lover's discourse punctum Camera Lucida
+- Susan Sontag On Photography Against Interpretation Illness as Metaphor
+- Walter Benjamin aura mechanical reproduction archive
+- Giorgio Agamben bare life state of exception homo sacer
+- Catherine Malabou plasticity the new wounded
+- Jean-Luc Nancy being singular plural
+- Maurice Merleau-Ponty phenomenology of perception the flesh
+- Emmanuel Levinas face of the other ethics
+- Michel Foucault discipline punishment biopower genealogy
+- Lauren Berlant cruel optimism affect
+- bell hooks all about love feminist love ethics
+- Audre Lorde the erotic as power poetry survival
+- Gayatri Spivak strategic essentialism subaltern can the subaltern speak
+- Elizabeth Grosz volatile bodies corporeal feminism
+- Karen Barad agential realism intra-action entanglement
+- Stacy Alaimo trans-corporeality material feminism
+- Jasbir Puar debility capacity assemblage
+- Elaine Scarry The Body in Pain representation
+- Michel Serres The Five Senses noise parasite
+- Laura Mulvey visual pleasure narrative cinema male gaze
+- Kathy Acker body writing cut-up
+- Chris Kraus I Love Dick autotheory
+- Maggie Nelson Bluets blue as methodology
+- Anne Carson Eros the Bittersweet fragments
+- Georges Bataille eroticism expenditure general economy
+- Maurice Blanchot The Writing of the Disaster space of literature
+- "H\xE9l\xE8ne Cixous Book of Promethea love as world-creation"
+- Julia Kristeva chora semiotic maternal space
+- Luce Irigaray This Sex Which Is Not One speculum
+- Clarice Lispector The Passion According to G.H. cockroach becoming
+- Mark Fisher capitalist realism depression hauntology
+- Rosi Braidotti affirmative ethics vitalist materialism
+- Eugene Thacker In the Dust of This Planet negative theology
+- Sontag Against Interpretation erotic of art
+- Barthes Mythologies semiotics punctum studium
+- Agamben Profanations potentiality
+- media archaeology Kittler apparatus inscription
+- Bernard Stiegler technics memory pharmacology
+- "Vil\xE9m Flusser technical image apparatus"
+- Achille Mbembe necropolitics postcolony
+- Paul B. Preciado Testo Junkie pharmacopornographic regime
+- Deleuze cinema time-image movement-image
+- Claire Colebrook Deleuze feminism extinction
+- Lacan mirror stage desire lack
+title: michel-foucault-discipline-punishment-biopower-genealogy
+counts:
+  excerpts: 80
+---
+
+# Knowledge Pack
+
+Use ONLY this file when answering. Maintain Mayria’s voice. Do not invent references not present below.
+
+## Excerpt 1
+- id: da8e961bc57ff333393581ef
+- qdrant_id: b4483b5e-5352-531a-8466-5dfe3c409057
+- source: Sergei Prozorov - Foucault, Freedom and Sovereignty-Ashgate (2007).pdf
+- chunk_index: 47
+- importance: 0.8019
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+etc. – Foucault’s writings create an impression of an endless vertigo of governmental activity of doctors, teachers, wardens, judges, social workers that might make one wish for Agamben’s abandonment. The objects of a Foucauldian power are never abandoned but rather permanently abducted by myriad governmental agencies, simultaneously conﬁned in the restricted domains of power and rendered productive in accordance with their rationalities. This form of power that Foucault has famously termed ‘biopolitics’ does not oscillate between killing and abandoning to a permanently insecure life; instead, in a formula that we ﬁnd no less disconcerting, it makes live (cf. Foucault 1990a, 138). The crucial point here is that, contrary to some overly enthusiastic readings (Hardt and Negri 2000, 2004), biopolitical power does not foster, augment, extend and nurture ‘life-as-such’ (which, in its very ‘as- suchness’ should be able to do perfectly well without biopower) but only the forms
+
+## Excerpt 2
+- id: d7527af77eb395c28a7217ba
+- qdrant_id: eb17ac64-f4ec-5a2b-bd29-789ec7b2a556
+- source: Infocracy Digitization and the Crisis of Democracy (Byung-Chul Han) (Z-Library).pdf
+- chunk_index: 26
+- importance: 0.7964
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Notes 1. Michel Foucault, Discipline and Punish: The Birth of the Prison, New York: Vintage, 1995, p. 135. 2. Ibid., p. 136. 3. Ibid., p. 237 (transl. modified). 4. Michel Foucault, ‘The Birth of Social Medicine’, in Essential Works of Foucault 1954–1984: Vol. 3, Power, ed. James D. Faubion, New York: The New Press, 2000, pp. 134–56; here: p. 137. 5. Foucault, Discipline and Punish, p. 217. 6. Ibid., p. 187. 7. Ibid., p. 201. 8. Vilém Flusser, Dinge und Undinge: Phänomenologische Skizzen, Munich: Hanser, 1993, p. 87. 9. Hannah Arendt, The Origins of Totalitarianism, London: André Deutsch, 1986, p. 470. 10. Marshall McLuhan and Barrington Nevitt, ‘The Electronic World Affects Identity Images’, Modern Office Procedures (December 1975), pp. 12–16; here: p. 16. 11. Ibid. 12. Walter Benjamin, ‘The Work of Art in the Age of Its Technological Reproducibility’, in The Work of Art in the Age of I…
+
+## Excerpt 3
+- id: c3f97a9139ddfaea5fff782d
+- qdrant_id: e4527670-f047-5881-b28e-621870889bd9
+- source: [Routledge Studies in Social and Political Thought, 113] Ann Brooks - Genealogies of Emotions, Intimacies, and Desire_ Theories of Changes in Emotional Regimes from Medieval Society to Late Modernit (2017, Routle.pdf
+- chunk_index: 207
+- importance: 0.8047
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+tions of disciplinary power while also opening up new analyses of biopower and, in a more radical turn, bringing certain ethical problems to the fore” (Lynch 2013: 154). As Lynch goes on to show, Foucault in holding this position, is grounding sexuality in another crucial phenomenon—power relations: In order to define sexuality as an effect and correlate of power relations, Foucault has to recast our understanding of the basic modes of how power is exercised: power is not top-down, or principally a form of repression but emerges, from micro-interactions, and is profoundly productive, con- stitutive of our very identities. (Lynch 2013: 158) This interpretation of power is central in understanding genealogy in Fou- cault’s philosophy, as Fraser (1989) shows: Foucault’s most valuable accomplishment consists of a rich empirical account of the early stages in the emergence of some dist…
+
+## Excerpt 4
+- id: 439820e5b54e970c1d6ee9e0
+- qdrant_id: 532758b9-502f-59d2-9830-85bad6eabd3c
+- source: Ann Laura Stoler - Race and the Education of Desire_ Foucault’s History of Sexuality and the Colonial Order of Things-Duke University Press Books (1995).pdf
+- chunk_index: 313
+- importance: 0.7920
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+82 Toward a Genealogy of Racisms at stake is the biological existence of a population. If genocide is in­ deed the dream of modern powers, this is not because of a recent return of the ancient right to kill; it is because power is situated and exercised at the level of life, the species, the race, and the large-scale phenomena of the population. (HS:137) Foucault traces this emergent form of biopower in the seventeenth and eighteenth century through those "techniques of power that were essen­ tially centered on . . . the individual body" (TM:39). These are the disci­ plinary technologies familiar to us from Discipline and Punish and to a lesser extent from The History of Sexuality. But here Foucault draws a distinction not made in his earlier work: namely, the development of a new technology of biopower in the mid-eighteenth century, that of regularization. This is not a vari…
+
+## Excerpt 5
+- id: 41002fd37514a6a525519cda
+- qdrant_id: 394a64a9-df5d-526e-bdde-a84395a346ee
+- source: Critical theory and poststructuralism (Mark Poster) (Z-Library).pdf
+- chunk_index: 417
+- importance: 0.7797
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+technology of power" the principle of both the institution of the prison and the social science that studies it? Foucault employs the term 9Foucault, Discipline and Punish: The Birth of the Prison, trans. Alan Sheridan (New York: Pantheon, 1977), p. 23.
+
+## Excerpt 6
+- id: 7f24b19ad3c43abdcf48cc02
+- qdrant_id: f6ac19d0-9438-53ad-80c0-0b24d6937395
+- source: Alan D. Schrift - The History of Continental Philosophy, 8 volumes (2010, University Of Chicago Press) - libgen.li.pdf
+- chunk_index: 420
+- importance: 0.7976
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+tions. In the context of the prison, Foucault argues that the history of modern techniques of surveillance, punishment, and discipline are part of the genealogy of the “modern ‘soul’” (DP 29). Th is soul, which we can take to be one form of modern subjectivity, is merely “the present correlative of a certain technology of power over the body” (DP 29). But, at this stage of Foucault’s work, it is by no means merely a correlative phenomenon. Th e “soul” is in fact the “prison” of the body: not only an eff ect of power and domination, but also its instrument. Th roughout Discipline and Punish, from its detailed exposition of the disci- plinary regimes of schools and barracks, to its central analysis of Bentham’s blueprint for a total disciplinary institution (the Panopticon), the reader has a sense that Foucault is giving us not just a history of our distant past, but some- thing th…
+
+## Excerpt 7
+- id: 1ecec8010e849ef6f4fb20df
+- qdrant_id: ee0cbf8a-b9ec-5ea2-81a0-90f0f10d5919
+- source: [Interventions] François Debrix, Alexander D. Barder - Beyond Biopolitics_ Theory, Violence, and Horror in World Politics (2012, Routledge) - libgen.li (1).pdf
+- chunk_index: 243
+- importance: 0.7916
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+When Foucault addresses sovereignty and the formation of modern state apparatuses, he seeks to introduce the notion of biopower, in part to mark a break from the Hobbesian conception of sovereignty, as suggested above.39 With Foucault’s concept of biopower (described in the “Introduction” to this volume), the point of reference is no longer the forceful, centralized, or awe- inspiring rule of the sovereign. But it is also not just the patchwork of sites and regimes (the asylum, the hospital, the prison, the school, the factory, and so on) that seem to characterize disciplinary power, as Foucault ﬁrst intro- duced the concept.40 Rather, and to repeat some points stated earlier in this book, the object of biopower is the population of a given territory in its entirety, and the main preoccupation of this power is the population’s proper governance. This shift from a centralized sovereign mo…
+
+## Excerpt 8
+- id: cdf0844058a62b5957f3e488
+- qdrant_id: 8ee1efd4-33e1-5c6c-8bcb-12446dbd3bd4
+- source: [Intervention Series] Jean Baudrillard, Ames Hodges, Sylvère Lotringer - The Agony of Power (2010, Semiotext(e)) - libgen.li.pdf
+- chunk_index: 21
+- importance: 0.7903
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+and transcends vulgar human existence. Eng life or letting live are the sovereign’s funda- Stat attributes. But only when he actually kills Foucault introduced the concept of “bio-power” in his lectures at the College de France. Their con- ----even tyrannically, unjustly—does C-Xéff his Symbolic rights over the sovereign life. Foucault frontation in For et Foucault, one year later, could ed that the punishment was all the more
+
+## Excerpt 9
+- id: eefb2fa837fddc4573b7e905
+- qdrant_id: fc400e42-37c1-56e6-905c-c0621fd284f0
+- source: Haven, Kornee van der_Macsotay, Tomas_Vanhaesebrouck, Karel - The hurt (ful) body_ Performing and beholding pain, 1600–1800 (2018, Manchester University Press) - libgen.li.pdf
+- chunk_index: 106
+- importance: 0.7903
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Neuzeit (Hannover: Wehrhahn, 2008), pp. 205–30. 32 Michel Foucault, Discipline and Punish: The Birth of the Prison, trans. Alan Sheridan (London: Penguin Books, 1979), p. 47. 33 Michel Foucault, Security, Territory, Population. Lectures at the Collège de France 1977–1978, ed. M. Senellart (Basingstoke: Palgrave Macmillan, 2009), pp. 184–5.
+
+## Excerpt 10
+- id: e6c4ab58d7b77e79386339a8
+- qdrant_id: 5d993e62-b686-584f-85e9-d89772d4fc83
+- source: [Fordham Perspectives in Continental Philosophy] Jeremy Biles, Kent Brintnall - Negative ecstasies_ Georges Bataille and the study of religion (2015, Fordham University Press) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.7876
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+especially Foucault. To think about Bataille, Foucault, and religion, it is important to read the older project forward into Foucault’s books of the 1970s—to volume 1 of his History of Sexuality, of course, but, more im- mediately, more strikingly, to Surveiller et punir, which we know in English as Discipline and Punish. Foucault’s Sacred Sociology Discipline and Punish opens with a grisly tableau, the prolonged public torture of Damiens, condemned in 1757 for attempting to assassinate Louis XV. The first twelve paragraphs of the book are extended quota- tions from archival descriptions of the public torture—the published trial proceedings, a newspaper account, firsthand testimony by a police official. Their combined effect is to afhx this gruesome image to the front of the book—just where Acéphale liked to put its image of the disemboweled priest-victim. Or to remind us of B…
+
+## Excerpt 11
+- id: a0b08c20ef43b204eeacf6ce
+- qdrant_id: b00de813-d540-5638-a5ff-c2b444b73d51
+- source: Lewis Call - Postmodern Anarchism (2003, Lexington Books) - libgen.li.pdf
+- chunk_index: 299
+- importance: 0.7908
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+tion from which to launch a campaign against the modem sexual subject and its discursive practices. This campaign will in tum make possible an antihumanist anarchism far more powerful than any previous anarchist theory. Foucault' s other great genealogy is Discipline and Punish. This book be­ gins with a vivid description of premodern torture and execution techniques; Foucault then contrasts these with the "gentler" penal techniques which devel­ oped in the wake of the Enlightenment' s penal reforms. Again, the effect of Foucault's method is to historicize a discourse and an institution which too of­ ten appear to be universal and omnipresent-in this case, the prison . As with Foucault's analysis of sexuality, the genealogy of the prison can be read as anar-
+
+## Excerpt 12
+- id: c6ac5662328ab2935031ce81
+- qdrant_id: f953d1e2-d093-5a54-a8cb-ab40314572f5
+- source: Canuel, Mark - Justice, Dissent, and the Sublime (2012, Johns Hopkins University Press) - libgen.li.pdf
+- chunk_index: 361
+- importance: 0.7895
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+M R ecent political theorizing has taken a surprising, often unrecognized interest in the legal and political innova- tions of the late eighteenth century. Michel Foucault certainly brought atten- tion to the disciplinary technology of prisons—and their pervasive, intrigu- ingly transferable social structures—many years ago. But his still later interest in biopolitics—which shifted emphasis from the disciplinary work on bodies to the biological functions of and within bodies—has inspired yet another wave of fascinating thought about the evolution of modern institutions. And with even more force than the disciplinary model, his thought has renewed interest in the problems surrounding the notions of political right that served as the foundation of liberal and radical political and legal discourse during the French Revolution and its aftermath. If biopolitics is the name for the interpenetration of law and the body to
+
+## Excerpt 13
+- id: bc6025545772cf8a71d8a75c
+- qdrant_id: ef4b42fb-69a0-509a-ae10-653c3b5bba93
+- source: [SUNY Series in Contemporary Continental Philosophy] Margaret A. McLaren - Feminism, Foucault, and Embodied Subjectivity (2002, State University of New York Press) - libgen.li.pdf
+- chunk_index: 26
+- importance: 0.7876
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+local and specific histories. But unlike traditional histories, genealogies focus on discontinuities and ruptures, rather than continuities. Because of this focus on dis- continuity, Foucault’s genealogies challenge the notion of progress. Foucault’s ge- nealogies reveal the contingency involved in the development of practices and institutions. For instance, in Discipline and Punish Foucault focuses on the changes in the way that criminals are punished; he traces the shift from execution to incar- ceration.The genealogical method raises questions about how current practices, in- stitutions, and categories came to be the way they are. It is primarily in his genealogical work that Foucault develops his conception of power. His conception of power, which I discuss in detail in chapter two, departs significantly from a tra- ditional notion of power. For Foucault, power is not unilateral; it …
+
+## Excerpt 14
+- id: e162c5d977976fcfc13951b3
+- qdrant_id: 6a9e87bc-7b8a-52a4-aa88-16377f19e2fc
+- source: [Routledge Advances In Criminology] Magnus Hörnqvist - The Pleasure Of Punishment (2021, Routledge _ Taylor & Francis) - libgen.li.pdf
+- chunk_index: 130
+- importance: 0.7904
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+subjugated into accountability, slowly moulded and made predictable through painful interventions. Punishment was not the only instrument, according to Nietzsche, as political tyranny and the morality of customs worked in the same direction, to constitute useful subjects. Punishment was a clear- cut instantiation of power, as it relied on pain, approached individuals as an exterior force, which compelled them to do things against their will, and in addition symbolically manifested the futility of their attempts to resist. After 1970, Michel Foucault picked up the same theme of subject formation, while reframing the relationship in terms of productivity (Foucault 1998). The individual was not an independent entity, later subdued by exterior forces, in the process of manifesting their super- iority. Instead, the individual was ‘one of power’s first effects’ (Foucault 2003: 30). That was the deeper meaning of the famous reference in Discipline
+
+## Excerpt 15
+- id: 96f4d2adfa8e88dacce776e9
+- qdrant_id: fbc9b402-8035-5179-867d-599946e26987
+- source: Zuzanna Ladyga - The Labour of Laziness in Twentieth-Century American Literature (2022, Edinburgh University Press) [10.1515_9781474442947] - libgen.li.pdf
+- chunk_index: 62
+- importance: 0.7861
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+﻿Introduction﻿ / 11 The intersection of the discipline of the body and control of the pop- ulation is where Foucault locates his famous concept of the ‘norm’ as a tactic of governance that serves biopower by disseminating state control among multiple networks and sites of micro-power, such as the family or community, to render the disciplining process natural and transparent. The norm serves the role of a biopolitical mask for the conflation of biological life and political life, a mask which conceals the disciplining work of macro-power apparatuses. In the case of the regime of productivity, this discipline is maintained by the regulation of free time, control of geographical mobility and investment in the subjected bodies’ vitality resources, all of which are possible through the mobilisation of discourse that stigmatises rest, idleness and lack of vigour. Like all stigmas, …
+
+## Excerpt 16
+- id: ca018bfe1dbc44f3e12f721f
+- qdrant_id: de56ec9f-c01a-51ad-90a2-06fce34a3231
+- source: [Liverpool Science Fiction Texts and Studies 41] Sara Wasson (editor), Emily Alder (editor) - Gothic Science Fiction 1980-2010 (2011, Liverpool University Press) - libgen.li (1).pdf
+- chunk_index: 78
+- importance: 0.7927
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+INTRODUCTION 11 to extrapolate their potential impact on human communities and ontology. In particular, bio- and information technologies call into question the status of the body, and Gothic representations proliferate when depicting bodies being controlled, manipulated and dissolved. Michel Foucault’s concept of ‘biopower’ is often used to analyse the power mechanisms that operate in the relations between individuals and social, scientific and medical establishments, relations that saturate health and social management with ‘numerous and diverse techniques for achiev- ing the subjugation of bodies and the control of populations’ (History of Sexuality 140). Biopower understands the position of human health and living in established Western social and political structures as part of a web of knowledge and power around technology, especially medical technology and its capacity to transform, direct, and control lived experience. Elaine
+
+## Excerpt 17
+- id: 2d49eda8803d5c1caff45237
+- qdrant_id: 7d1952e5-68c8-5e0e-8d49-1565e9bbe3b9
+- source: [Continuum Literary Studies] Brian Baker - Masculinity in Fiction and Film_ Representing men in popular genres, 1945-2000 (2006, Bloomsbury Academic) - libgen.li.pdf
+- chunk_index: 127
+- importance: 0.7863
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+In Discipline and Punish (1975), Foucault distinguishes between a system of social control (it may be non-judicial or para-legal) which relies on the spectacle of punishment — 'men will remember public execution, the pillory, torture and pain duly observed' (Foucault 1991:34) — and one which relies upon the intemalization of prohibitions on behaviour which make a system of explicit punishment redundant. Curiously, Foucault uses the figure of the soldier in the late-eighteenth century to characterize the 'disciplined' body: 'the machine required can be constructed; posture is gradually corrected; a calculated restraint runs slowly through each part of the body, mastering it, making it pliable, ready at all times, turning into the automatism of habit' (Foucault 1991:135). The institution of the army — like other disciplinary institutions that Foucault analyses, such as the prison or the asylu produces the disciplinary subject. Just as Foucault uses such institutions as a
+
+## Excerpt 18
+- id: 9fdf92bdfe6b01be402852bd
+- qdrant_id: 3a8f71f0-2ae7-5492-9be9-afa41f0edf0b
+- source: Brian Massumi - Ontopower_ War, Powers, and the State of Perception (2015, Duke University Press) [10.1515_9780822375197] - libgen.li.pdf
+- chunk_index: 79
+- importance: 0.7859
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+emerge, as a consequence. Disciplinary power is no longer an imper- ative molding in conformity with an a priori moral or ­legal model. It becomes a correctional reuptake mechanism for emergent norma- tive variation. This annexes disciplinary power ­wholesale to bio- power’s regulatory operation. The new tenor of discipline resulting from this Foucault names “normation,” as opposed to “normaliza- tion” (2007, 57). When disciplinary power is annexed in this way to regulatory biopower, the mode of operation of the continuum of power as a ­whole assumes a new cast. Foucault calls this global mode of operation “governmentality.” It is at this point in his logic of interacting regimes of power that Foucault comes around to asking ­whether we are still dealing with natu­ral subjects. Is an economized subject still a natu­ral sub- ject? In The Birth of Biopolitics (2008), Foucault’s answer in many passages would on the face of it appear to be no. The neoliberal
+
+## Excerpt 19
+- id: 72b44c7bffda33a5a907c20a
+- qdrant_id: a42fc89d-5584-5d5e-be16-4cf5a29ded1b
+- source: Mary Eagleton - A Concise Companion to Feminist Theory (Concise Companions to Literature and Culture) (2003) - libgen.li.pdf
+- chunk_index: 135
+- importance: 0.7874
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Foucault argues in Discipline and Punish (1977), is about the political currency that is attributed to certain meanings, or systems of meaning, in such a way as to invest them with scientiﬁc legitimacy: there is nothing neutral or given about it. Thus, a deconstructivist approach to the analysis of power and discourse highlights the links that exist between scientiﬁc truth and discursive currency or power relations. As Feminist Philosophies 203
+
+## Excerpt 20
+- id: a440bf0e8ebe48cf0d3349fa
+- qdrant_id: 27ee2557-b8bd-5819-895d-91e7ecdd8c35
+- source: Critical theory and poststructuralism (Mark Poster) (Z-Library).pdf
+- chunk_index: 408
+- importance: 0.7866
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+reconstitution of critical theory, a reformulation that can unlock the forms of domination inherent in diverse linguistic experiences, reveal the significance of new forms of protest particular to the present conjuncture and imagine the shape of a democratic future that is possible as a transformation of the present situation. Foucault's Discipline and Punish exemplifies the advances and hesita¬ tions of poststructuralism in relation to the mode of information. The book presents a detotalized view of the social field. It examines the formation of new mechanisms of punishment without ontologizing that mode of domination as the key to total freedom or the "riddle of history." Discipline and Punish traces the emergence of a new "technol¬ ogy of power" in the nineteenth century without claiming that it is the base upon which everything else rests, without consigning histories of other aspects of the nineteenth century to the status of epiphenomena
+
+## Excerpt 21
+- id: c16ab88c6577fe143fd3522a
+- qdrant_id: 94665dbe-e624-5af4-9faa-30255f98a943
+- source: Randolph C. Wheeler (editor) - Passion in Philosophy_ Essays in Honor of Alphonso Lingis (2016, Lexington Books) - libgen.li.pdf
+- chunk_index: 417
+- importance: 0.7945
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+28. Judith Butler, “Foucault and the Paradox of Bodily Inscriptions,” 308. As in The Psychic Life of Power, Butler cites Discipline and Punish and The History of Sexuality: Volume 1, trans. Robert Hurley (New York: Vintage Books, 1990). Here she additional- ly considers “Nietzsche, Genealogy, History,” in Language, Counter-Memory, Practice: Selected Essays and Interviews, ed. Donald F. Bouchard and trans. Donald F. Bouchard and Sherry Simon (Ithaca: Cornell University Press, 1977), 139–64. 29. Ibid., 308. 30. Ibid., 307. 31. See especially Foucault, “Nietzsche, Genealogy, and History,” 148. 32. Butler, The Psychic Life of Power: Theories in Subjection, 11. 33. Butler, “Foucault and the Paradox of Bodily Inscriptions,” 307. 34. Foucault, “Nietzsche, Genealogy, and History,” 153. 35. Ibid., 154. 36. Davis, Are Prisons Obsolete?, 84; Mike Davis, “Hell Factories in the Field: A Prison-Industrial Complex,” The Nation 260.7, February 20, 1995.
+
+## Excerpt 22
+- id: ebd47ae8f63ea867b0b94d03
+- qdrant_id: f10736db-2a79-589b-8e14-a4d55839b67c
+- source: Ann Laura Stoler - Race and the Education of Desire_ Foucault’s History of Sexuality and the Colonial Order of Things-Duke University Press Books (1995).pdf
+- chunk_index: 14
+- importance: 0.7840
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+(New York: Pantheon. 1993) 354. Foucault refers to it as a "sequel" to Discipline and Punish in page one of his unpublished talk on infantile sexuality available at the Saulchoir Library. 4· Reproduced in Nicholas Dirks, Geoff Eley. and Sherry Ortner, eds., Culture/Power/History (Princeton: Princeton UP. 1993) 200. 5· John Rajchman. Michel Foucault: The Freedom of Philosphy (New York: Columbia UP, 1985) 52. Preface xi problems about the technology of the self".6 Thus, just as many of us were beginning to digest how we might use his insights on the relationship between the "truth" of the self and the discourse on sexuality, Foucault seemed to dismiss the value of such a project. But laying bare the scope and limits of his work is impossible if we think about it in linear terms as the abandonment of. for example, the "archaeological" method as he developed his new genealogical…
+
+## Excerpt 23
+- id: 7fb9c2d41ee14cbdb8c0d746
+- qdrant_id: 08a89213-c305-56d4-9286-13d0373f7d92
+- source: [Signale_ modern German letters cultures and thought_ Cornell scholarship online] Höcker, Arne - The Case of Literature_ Forensic Narratives from Goethe to Kafka (2021, Cornell University Press and Cornell Universi.pdf
+- chunk_index: 38
+- importance: 0.7807
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+knowledge derived from the observation of the individual. In a fa- mous passage in Discipline and Punish, Foucault introduces the case as a new form of documentation by which an individual is made accessible as “an object for a branch of knowledge and as a hold for a branch of power.”25 In Discipline and Punish, the case appears 24. See also Arne Höcker, Jeannie Moser, and Philippe Weber, eds., Wissen: Er- zählen: Narrative der Humanwissenschaften (Bielefeld: transcript, 2006), 11–16. 25. Michel Foucault, Discipline and Punish: The Birth of the Prison, trans. Alan Sheridan (New York: Vintage, 1977), 191.
+
+## Excerpt 24
+- id: 603bd89d63eed9946ea3a720
+- qdrant_id: 1ca85612-9141-5eb2-882f-139ad6722cab
+- source: David Couzens Hoy - Critical Resistance_ From Poststructuralism to Post-Critique (2004).pdf
+- chunk_index: 90
+- importance: 0.7811
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+the global or generic body, and discipline is more focused on the individualized body, bio-power is more obviously a matter of state regulation and it involves a certain biologiz- ing discourse. Racism is thus the paradigm that Foucault had been lecturing on that year. Of course, something like
+
+## Excerpt 25
+- id: b49bdae529fec6f825082619
+- qdrant_id: a633ce52-562a-5c9e-a761-9e75636e27fb
+- source: [Very Short Introductions №73 2002-nov 28] Belsey, Catherine - Poststructuralism_ A Very Short Introduction (2002, Oxford University Press) [10.1093_actrade_9780192801807.001.0001] - libgen.li.pdf
+- chunk_index: 141
+- importance: 0.7822
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+who rejected their norms. In absolutist France, for instance, criminals were publicly tortured and executed, and the book begins with a detailed and thoroughly gruesome account of the punishment of a regicide in 1757. Foucault immediately juxtaposes this with a list of regulations of an institution for young offenders in the mid-19th century. The rules prescribe the exact distribution of their time: up at six; five minutes to dress in silence; another five to make their beds; work until ten and then a meal, after washing their hands; school at twenty to eleven for two hours; and so on, until bed-time at half-past eight. If the public execution was a spectacle in which the state demonstrated its cruel power to punish those who challenged the sovereign, the institution looks more humane, more lenient, and more constructive. And so, of course, in an obvious sense, it is. But it…
+
+## Excerpt 26
+- id: 6594bc0767b05819531af987
+- qdrant_id: f2504777-9048-5f3b-ab12-5327a510aedd
+- source: Diana Coole, Samantha Frost (editors) - New Materialisms_ Ontology, Agency, and Politics (2010, Duke University Press Books) - libgen.li.pdf
+- chunk_index: 658
+- importance: 0.7879
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+also be interesting to analyze the currency granted to both legal and illegal drugs in contemporary culture, which blurs the boundaries between self- destruction and fashionable behavior and forces a reconsideration ofwhat is the value of"life itself." The second consequence concerns the status of social and political theory itself. It is urgent to assess the state of the theoretical debates on biopower after Foucault, especially in terms of its legal, political, and ethical implications. Several positions have emerged in recent biopower research. Some thinkers stress the role ofmoral accountability as aform of biopolitical citizenship, thus inscribing the notion of"life" as "bios;' that is to say, an instance ofgovernmentality that is as empowering as it is confin- ing.14 This school ofthought locates the political moment in the relational and self-regulating accountability of a bioethi…
+
+## Excerpt 27
+- id: 947c63dcfbd2cb23371e37ce
+- qdrant_id: e42b3d73-e2e7-516d-b772-4aef331bdaf2
+- source: Elizabeth Rottenberg - For the Love of Psychoanalysis_ The Play of Chance in Freud and Derrida (2019, Fordham University Press) - libgen.li.pdf
+- chunk_index: 938
+- importance: 0.7862
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+12. Michel Foucault, The Punitive Society: Lectures at the Collège de France, 1972–1973, ed. Bernard E. Harcourt, trans. Graham Burchell (New York: Palgrave Macmillan, 2015), 11; La société punitive: Cours au Collège de France, 1972–1973, ed. Bernard E. Harcourt (Paris: Seuil/Gallimard, 2013), 12. 13. It is interesting to note that the work of the Groupe dʼinformation sur les prisons (GIP) to which Foucault alludes in Discipline and Punish (DP 30–31/35) had, as its working principle, to expose the material conditions of prison life to the public (“to make the invisible visible,” as my colleague Kevin Thompson has put it). Though this work of revealing the deplorable conditions of detention (overcrowding, poor sanitation, lack of medical care, lack of privacy, etc.) certainly did make “visible” what was “hidden” and “invisible” to the public, the notions of visibility/publicity to which the GIP
+
+## Excerpt 28
+- id: 41d9a6e0d7f1145461a19138
+- qdrant_id: d030d04c-812c-57f5-b639-a9632f94e7c0
+- source: Audronė Žukauskaitė - Organism-Oriented Ontology (2023, Edinburgh University Press) [10.1515_9781399510561] - libgen.li.pdf
+- chunk_index: 376
+- importance: 0.7915
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+it with the plastic, contingent and arbitrary character of ‘biological reason’. The biologisation of reason allows one to think beyond formal structures and universal values and, as Malabou writes, ‘authorizes subjects to shape and form themselves as such’ (Malabou 2019: 131). In this respect, the biologisation of reason might be seen as a successful strategy of resistance to biopolitical power. Both Foucault and Deleuze argued that when biopo- litical power takes life as its object, it is the vital power of life that allows us to resist power. In a similar vein, Malabou argues that recent developments in biology, such as epigenetics, cloning or gene editing, demonstrate that the biological dimension of our lives should be understood not as determina- tion but as a potential for freedom and change. In her text ‘One Life Only: Biological Resistance, Political Resistance’, Malabo…
+
+## Excerpt 29
+- id: 76c048760138b8f13703e0c2
+- qdrant_id: cbdde0d4-3926-51a2-91b6-9894b68237e9
+- source: Nancy McHugh - Feminist Philosophies A–Z (2007, Edinburgh University Press) [10.1515_9780748629497] - libgen.li (1).pdf
+- chunk_index: 43
+- importance: 0.7783
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+FEMINIST PHILOSOPHIES A–Z 13 Biopower: French philosopher Michel Foucault used the term biopower to denote the exercise of control over bodies through regulatory systems and practices. In the History of Sexuality (1990) Foucault argues that the rise of capi- talism and modern government necessitated a greater reg- ulation of bodies that wasn’t needed under sovereign rule because sovereign power needed only to threaten death to control its population. The state employs a series of regulatory controls over the population in the guise of protecting life. In doing so the state effectively guaran- tees its ability to inhibit certain kinds of life choices and in certain cases ends lives. Examples of biopower are those practices that seek to regulate family, health, sexuality, birth, death, security or movement. For example, Fou- cault points to census taking and heteronormative train- ing as examples of biopower. Further reading: Foucault (1990); McWhorter (1999)
+
+## Excerpt 30
+- id: c97eae4f2e2105ad58114e95
+- qdrant_id: 24e2a52e-fcb5-5a21-99ca-e2c4af48b20c
+- source: [Key Concepts] John Scott - Power (2002, Polity) - libgen.li.pdf
+- chunk_index: 276
+- importance: 0.7770
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+a territory also involves the management of its population through regulating the life processes through which they live, work, and relate to each other. This is what Foucault (1976) called 'bio-politics', a term that he uses very widely to refer to controls over the biological conditions of birth, health, illness, sex, and death, and over the cultural and environ- mental conditions that shape human biology. Disciplinary power, in the form of bio-politics, is that specific aspect of modern systems of government that is concerned with con- trolling individual human bodies and, therefore, the agents whose bodies they are. There is, Foucault claimed, an 'ana torno-politics' of the human body itself at the heart of modern regimes of government. In its most general meaning, discipline is the control that is exercised over people through systems of rules that are not
+
+## Excerpt 31
+- id: d5805c84c69b3078ec0a90a0
+- qdrant_id: 5d825610-dc7c-5ab6-956d-3dc2d5490e01
+- source: [Interventions] François Debrix, Alexander D. Barder - Beyond Biopolitics_ Theory, Violence, and Horror in World Politics (2012, Routledge) - libgen.li (1).pdf
+- chunk_index: 382
+- importance: 0.7870
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+show the importance attached to this representation of alterity within the critical paradigm that has been called biopolitical sovereignty. To be sure, Foucault’s various genealogies uncover the hidden alterities that lie beyond the norm and that, in fact, help to constitute the norm (whether they are alterities found in criminals, delinquents, vagrants, mentally challenged indi- viduals, or racial others). The presentation and production of these alterities give credibility to the implementation and proliferation of biopolitical prac- tices, techniques, and dispositifs with a view to governing the tendency towards violence supposedly present in individual bodies or groups. But, as we have seen in previous chapters, attempts to delineate conceptual boundaries, be they between war and politics, normality and fear, or spaces of law and order versus states or conditions of exception, still …
+
+## Excerpt 32
+- id: 484c00c75e9db9c2eb250a5d
+- qdrant_id: 7c61a1db-db20-5c64-834d-bba0bf175b0a
+- source: Linnie Blake_ Xavier Aldana Reyes (editors) - Digital Horror_ Haunted Technologies, Network Panic and the Found Footage Phenomenon (2016, I.B. Tauris) [10.5040_9780755603718] - libgen.li.pdf
+- chunk_index: 147
+- importance: 0.7814
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+5. Foucault, Discipline and Punish, p. 201. 6. Foucault, Discipline and Punish, p. 195. 7. Paul Jackson, Hosein Gharavi and Jane Klobas, ‘Technologies of the self: virtual work and the inner Panopticon’, Information Technology & People xix/3 (2006), pp. 219–43 (pp. 221–2). 8. Foucault, Discipline and Punish, p. 201. 9. Foucault, Discipline and Punish, p. 200. See also Michel Foucault, ‘The eye of power’, in Colin Gordon (ed.), Power/Knowledge: Selected Interviews and Other Writings 1972– 1977 (New York: Pantheon Books, 1980), pp. 146–65 (pp. 152–7). Here, Foucault makes the distinction that Bentham ‘thinks of a visibility organised entirely around a dominating, overseeing gaze’. Foucault shares the view that the gaze replaces the need for physical violence but conceives of the panoptical system as ‘a machine in which everyone [observer and observed] is caught’. 10. Emphasis in original. 11. John to Jeff (Angus Macfadyen) in Saw III (Darren Lynn Bousman, 2006).
+
+## Excerpt 33
+- id: 2a2672ae29bfbc625cba73cf
+- qdrant_id: 620b761c-c471-5eec-a6cc-fe76eaf64f07
+- source: Histories Of Sexuality Antiquity To Sexual Revolution (Stephen Garton) (Z-Library).pdf
+- chunk_index: 72
+- importance: 0.7792
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+of power. Until the late-eighteenth century power was largely juridical – the force of the ‘monarch’s will’ and the ‘law’, framed around ideas of crime, obedience and punishment. Infractions of the law required retributive justice and harsh punishments designed to deter others from offending. But capitalism, individualism, the collapse of absolutism and the rise of democracy worked to forge new modes of power; specically disciplinary powers that sought to regulate behaviour, movement and thoughts. This notion of a shift from juridical to disciplinary modes of power highlights one of the weaknesses in Foucault’s penchant for dramatic juxtaposition (most evident in the opening section of Discipline and Pun- ish). It is all too obvious that while disciplinary power has ourished, juridical forms of power have similarly continued and even strength- ened their hold. Nonetheless, F…
+
+## Excerpt 34
+- id: 901c0e53511d0f21be0f16f0
+- qdrant_id: ada188ca-fbe3-5b93-be0d-2b5101ed7495
+- source: [Routledge International Handbooks] Bryan S. Turner (ed.) - Routledge Handbook of Body Studies (2012, Routledge) - libgen.li.pdf
+- chunk_index: 56
+- importance: 0.7897
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+fork or spittoon, were important features of the regulation of manners through the training of the body. Elias’s work emphasized the complex entanglements between physiology, training and deportment in dif- ferent civilizational complexes (see Chapter 3 by Mike Atkinson). However, Michel Foucault has in more recent research been a dominant inﬂuence in late twentieth-century historical and sociological approaches. His research on sexuality, medicine and discipline gave rise to a general theory of the government of the body (see Chapter 7 by Nikki Sullivan) and my own work on diet was deeply inﬂuenced by Foucault’s historical work on discipline (Turner, 1982). The distinction between the discipline of the individual body (‘the anatomo-politics of the body’) and regulatory controls (‘a bio-politics of the population’) in The History of Sexuality (Foucault, 1979) stimulated a general sociolo…
+
+## Excerpt 35
+- id: 1dc3dceb2e8246058450e004
+- qdrant_id: 64b08b35-4fd4-5825-ab3e-3c19fea15634
+- source: Zoë Roth - Formal Matters_ Embodied Experience in Modern Literature (2022, Edinburgh University Press) - libgen.li.pdf
+- chunk_index: 111
+- importance: 0.7789
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Bouchard and Sherry Simon (Ithaca, NY: Cornell University Press, 1977). 66 Foucault, Discipline and Punish, 25. 67 Foucault, Discipline and Punish, 150–152. 68 Foucault writes that “power and knowledge directly imply one another; that there is no power relation without the correlative constitution of a field of knowledge, nor any knowledge that does not presuppose and constitute at the same time power relations,” in Discipline and Punish, 27. Equally, one cannot possess power; it is only realized in its exercise. 69 The three volumes are Michel Foucault, The History of Sexuality, Vol. 1: An Introduction, trans. Robert Hurley (New York: Vintage, 1990); Foucault, The History of Sexuality, Vol. 2: The Use of Pleasure, trans. Robert Hurley (New York: Vintage Books, 1990); and Foucault, The History of Sexuality, Vol. 3: The Care of the Self, trans. Robert Hurley (New York: Vintage, 1990). 70 Foucault, The Use of Pleasure, 5.
+
+## Excerpt 36
+- id: a2ba41eaa52b563cbb0e2c59
+- qdrant_id: 90b6f9fa-ea16-5a01-9275-14de656dc00c
+- source: Guido Giacomo Preparata (auth.) - The Ideology of Tyranny_ Bataille, Foucault, and the Postmodern Corruption of Political Dissent-Palgrave Macmillan US (2007).pdf
+- chunk_index: 132
+- importance: 0.7850
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+offered historical verification of any sort. Bataille had attempted to poison the well by telling a twisted tale of twisted truth, but with Foucault, the system had shifted gears: the elite came, in fact, to commission a novel from a theorist (Foucault), who ripped off the theory of a novelist (Bataille). In Discipline and Punish, the body politic became the collection of our human bodies shaped by power and stamped with knowledge—the Power/Knowledge of the Leviathan-State.94 But since power was supposedly diffused, the tension, again, found no solution. Power obtruded, power coerced, and the inherent virtues of heterogeneity, thus squeezed and constrained, exploded, spitting the victims back at the oppressor in a collective reflux of defiance. Dialectics, again. To the Bataillean Foucault, carnality is life, blood is life; and these new, victimized, tamed, and feeble bodies of modernity…
+
+## Excerpt 37
+- id: aa580ba5984d918aacc66230
+- qdrant_id: 292f9686-e8c8-509c-9cf3-d0c2a4255e92
+- source: Jago Morrison - Contemporary Fiction (2003, Routledge) - libgen.li.pdf
+- chunk_index: 69
+- importance: 0.7779
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+decision, a treaty, a reign, or a battle, but the reversal of a relationship of forces, the usurpation of power, the appropriation of a vocabulary turned against those who had once used it, a feeble domination that poisons itself as it grows lax’ (Foucault, 1971, p. 88). Just as a biochemist might attempt to trace the evolution and, perhaps, marginalisation and extinction of a particular micro-organism, so genealogy involves tracing the development of discourses and power relations, and their struggle to institutionalise themselves and to colonise bodies and subjects. In literary studies, Foucauldian methods of analysis have been amongst the most inﬂuential of the past three decades. Developed by critics such as Stephen Greenblatt, they formed one of the key co-ordinates of the movement known as New Historicism. Within feminism and gender studies too, whilst Foucault has been critiqued b…
+
+## Excerpt 38
+- id: 0fc9a58bceb2c5b15c5b6fb4
+- qdrant_id: c0923dd2-0a2e-57d7-a121-afba778415b6
+- source: [SUNY Series in Contemporary Continental Philosophy] Margaret A. McLaren - Feminism, Foucault, and Embodied Subjectivity (2002, State University of New York Press) - libgen.li.pdf
+- chunk_index: 131
+- importance: 0.7739
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+GENEALOGY AS CRITIQUE Even a cursory reading of Discipline and Punish and The History of Sexuality Volume One reveals a critical stance towards the penal system and the institution of sexuality.33 Foucault’s genealogies interweave descriptive and prescriptive aspects, producing what one might call “critical description.”34 This critical description offers a perspective on historical events that differs from the established account. The ge- nealogical method is not simply history, but functions as social criticism. Discussing his research project in “Two Lectures,” Foucault describes genealogies as antisciences because they challenge the unity of theoretical, historical, or scientific knowledge. 30 FEMINISM, FOUCAULT, AND EMBODIED SUBJECTIVITY
+
+## Excerpt 39
+- id: 0360e206e0140a9f9cd75234
+- qdrant_id: ea0e22d1-6b4c-53ef-876d-44eb566dda23
+- source: Matthew Calarco, Steven DeCaroli - Giorgio Agamben_ sovereignty and life (2007, Stanford University Press) - libgen.li.pdf
+- chunk_index: 152
+- importance: 0.7746
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+technologies. 54· Michel Foucauh, "On the Genealogy of Ethics: An Overview of Work in Progress," in Ethics: Subjectivity and Truth, edited by Paul Rabinow, vol. 1 of Essen­ tial Works of Michel Foucault, 1954-1984, translated by Robert Hurley et al. (Lon­ don: Penguin Books, 1997), 253-80. 55· See RA. AGAMBEN AND FOUCAULT ON BIOPOWER AND BIOPOLITICS 1. Michel Foucauh, "Society Must Be Defended": Lectures at the College de France, 1975-1976, edited by Mauro Bertani and Alessandro Fontana, translated by D. Macey (London: Allen Lane, 2003); Securite, Territoire, Population: Cours au College de France, 1977-1978 (Paris: Gallimard/Seuil, 2004); Naissance de Ia biopoli­ tique: Cours au College de France, 1978-1979 (Paris: Gallimard/Seuil, 2004). 2. "J'avais pense pouvoir vous faire cette annee un cours sur Ia biopolirique. J'essaierai de vous montrer comment rous les problcmcs que j'c:ssak de: repcrcr lit
+
+## Excerpt 40
+- id: 3dc032dd77de51c20721dd8a
+- qdrant_id: fb53b089-8082-54d9-8f3f-14b99634a958
+- source: Driscoll, Mark W. - Absolute erotic, absolute grotesque _ the living, dead, and undead in Japan’s imperialism, 1895-1945-Duke University Press (2010).pdf
+- chunk_index: 79
+- importance: 0.7842
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Introduction 13 tem featured a trade-​off: living biopower provides systemic dynamism, while universality grants identity and logothetic rationality to dynamic life. Nevertheless, these aspects share a great deal with Minakata’s em- phasis on ecological life as the productive energy grounding all socio- political systems. The notion of the immunologically mutual contamination of hege- monic power with subjective freedom that I find in Tanabe’s dialectical philosophy and Minakata’s biophilosophy finds a contemporary corre- late in Michel Foucault’s theory of power. Intending to delineate a mod- ern form of power following on the heels of the breakdown of early modern disciplinary power (which solicited docility and demanded con- finement), Foucault’s understanding of biopolitics is, in my view, con- sistent with the philosophical architecture of Minakata and Tanabe. Although he later deployed his theory of power in multiple ways, the
+
+## Excerpt 41
+- id: 2b014263410c50bfb59822b4
+- qdrant_id: 2aa0aca7-8f25-5844-99d7-97b2424c975a
+- source: Randolph C. Wheeler (editor) - Passion in Philosophy_ Essays in Honor of Alphonso Lingis (2016, Lexington Books) - libgen.li.pdf
+- chunk_index: 375
+- importance: 0.7909
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+juxtaposes them. It purports to punish one (life) and, somehow, not the other (body). How else could this new mode of punishment, a shifting of public torture to the tortures of confinement, ever have been conceived as “non-corporal”?7 This interest in the punishment of life leads some to wonder whether Discipline and Punish attests to the power of bodies at all. Perhaps, some wonder, as it is life which becomes the site of punishment, bodies are shaped and trained in ways that no life could possibly remain transpar- ent enough to herself to want to resist. A life on this view could be constrained, its possibilities for self-direction thwarted, even as the body in question becomes, grows, according to cultural valuations of that body. But this is to forget that Foucault’s point is precisely the folly of distinguishing between life and body. In contrast to this tendency to wonder where the powers of bodies are, given the ubiquity of their disciplinary normalization, the readings of
+
+## Excerpt 42
+- id: ec2dcc10791c6f61dc5d0039
+- qdrant_id: a21f62f4-cd25-553e-a48b-cf536fa124e5
+- source: Martha C. Nussbaum (editor)_ Juha Sihvola (editor) - The Sleep of Reason_ Erotic Experience and Sexual Ethics in Ancient Greece and Rome (2013, University of Chicago Press) [10.7208_9780226923314] - libgen.li.pdf
+- chunk_index: 114
+- importance: 0.7772
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+forgetting foucault 29 heuristic device for foregrounding what is distinctive about modern tech- niques of social and sexual regulation. As such, it points to a historical de- velopment that will need to be properly explored in its own right (as Fou- cault intended to do in a separate volume), and it dramatizes the larger themes of Foucault’s History: the historical triumph of normalization over law, the decentralization and dispersion of the mechanisms of regulation, the disciplining of the modern subject, the traversal of sexuality by relations of power, the productivity of power, and the displacement of state coercion by the technical and bureaucratic administration of life (“biopower”). By documenting the existence of both a discursive and a temporal gap between two dissimilar styles of deﬁning, and disqualifying, male same-sex sexual ex- pression, Foucault highlights the historical and political speciﬁcity of “sex-
+
+## Excerpt 43
+- id: 167c50b05240de79fa1de907
+- qdrant_id: b7fa6c7d-7d02-5802-8b3e-195547cee5ce
+- source: [Continuum Literary Studies] Claire Colebrook - Milton, Evil and Literary History (2008, Continuum) - libgen.li.pdf
+- chunk_index: 484
+- importance: 0.7824
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+science. Moral action is not added onto life but is life in its proper form: 'not performing cannot live'. Weakened as we are by having turned away from our better reason, something other than reason, law and justice is required to restore our inward harmony. Time cannot, then, be a sequence but must be marked by an event that will enable us to develop rationally. Our relation to time alters with a certain historical event. Once our reason is redeemed we are capable of determining history for ourselves. The word that Michael uses - 'disciplined' - allows us to think here about Milton's conception of history in relation to modernity. As Michel Foucault argued in Discipline and Punish, modernity occurs not when power acts as an external force on the body but through discipline, and this is achieved through practice. Bodies act in a certain way, and through processes of self-observation, re…
+
+## Excerpt 44
+- id: 3589c1ec3bd2cb3e0b2f56a8
+- qdrant_id: 1537f1be-e683-55b7-b60a-5fcff6120824
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 442
+- importance: 0.7879
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+which give priority to heterosexual relations between adult couples. We find our bodies out there in descriptions of torture practices in the seventeenth cen- tury or of prisons in the eighteenth century as we experience resistances to power and motions of power in which we find ourselves empowered. Many readers experience resistances to the “groundlessness” of Foucault’s descrip- tions, to the lack of a teleological framework or to the feeling of exposure with regard to what they are used to understand as their intimate self. But the reader of Foucault’s “dismantling” description of panopticism may also feel herself em- powered by the fact that she has seen through this mechanism, as if this knowl- edge gave her a new freedom. By pointing to the way Foucault’s genealogy affects us I am moving to a way of speaking that draws from what we usually would call subjective experi- ences. Foucault clearly avoids such ways of speaking, which means that I am
+
+## Excerpt 45
+- id: 096f8d890788d31373eb970c
+- qdrant_id: 270faf1c-b337-5ac2-8858-c9dc4f69f816
+- source: Max Henninger, Giuseppina Mecchia, and Timothy S. Murphy, Christian Marazzi, Paolo Virno, Antonio Negri, Franco Berardi, Michael Goddard, Maurizio Lazzarato, Antonella Corsani, Seth Graebner - SubStan.pdf
+- chunk_index: 496
+- importance: 0.7850
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Notes 1. This article is dedicated to the memory of my grandmothers Amelia and Gabriella, to my young son Tom, and to my friend François Matheron. I would particularly like to thank Thomas Berns for his attentive reading and his advice, as well as the editors of this issue who, by inviting me to contribute, have also given me the opportunity for a new reflection on my experiences and my journey. 2. In the chapter “Docile Bodies” in Discipline and Punish, trans. Alan Sheridan (New York: Vintage, 1977), Michel Foucault writes: “The first of the great operations of discipline is, therefore, the constitution of ‘tableaux vivants,’ which transform the confused, useless or dangerous multitudes into ordered multiplicities” (148). 3. For a critique of Deleuze’s “becoming-woman,” see in particular Beatriz Preciado, Manifeste Contra-Sexuel (Paris: Balland, 2000). 4. Wittig 1992 (56). (Translator’s note: the citation has been modified to conform to Corsani’s translation.)
+
+## Excerpt 46
+- id: 2d6170623ef8866249d72124
+- qdrant_id: 50ad8c65-0a1a-5d6e-aa56-22e3fab2458c
+- source: [Untimely Meditations] Byung-Chul Han, Amanda DeMarco - Topology of Violence (2018, The MIT Press) - libgen.li.pdf
+- chunk_index: 298
+- importance: 0.7723
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+145 NOTES TO PART II different local practices, carefully codified. … Torture was a strict judicial game.” Michel Foucault, Discipline and Punish, trans. Alan Sheridan (New York: Vintage, 1977), 40. Foucault directs his attention only to the administrative and bureau- cratic rigor, which he believes characterizes modern power technologies. The torturer becomes a bureaucrat of pain who carries out his duties in the name of the truth. Actually, torture follows the economy of pleasure more than that of the truth. In the end, it doesn’t come down to the confession. Language itself is often emptied of all communicative func- tion and used as a truncheon. 26. Foucault, The History of Sexuality, vol. 1, An Introduction, 138–139. 27. Giorgio Agamben, Homo Sacer: Sovereign Power and Bare Life, trans. Daniel Heller-Roazen (Stanford, CA: Stanford University Press, 1998), 10. 28. Foucault…
+
+## Excerpt 47
+- id: a5d790655be6525d01103b48
+- qdrant_id: f0793d47-0649-51a8-b101-17d5c01bbed0
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 447
+- importance: 0.7832
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+d. The Outside of Power-Knowledge Relations In the classification of different ways of targeting and conceiving—and thus producing—bodies, which I just offered, I have followed Foucault in his predilection for structures and classifications. Foucault’s practice of dividing and classifying different elements in his genealogical accounts reveals a disci- pline whose mechanisms he analyzes in his texts. These mechanisms charac- terize disciplinary practices that go along with the formation and development of the human sciences since the eighteenth century. Foucault exposes them, for instance, in the model of the panopticon: Single cells divide the subjects that thus can become objects of scientific experiments and observation that may lead to classify forms of behavior and other things. There certainly remains a significant difference between these sciences and Foucault’s practice of system- atization and classification: In Foucault these practices are not guided by a uni-
+
+## Excerpt 48
+- id: 55bf7f7b0df914bc1e711f2c
+- qdrant_id: ea903bb1-973f-5e21-b36b-516ff1df5dc5
+- source: [Key Concepts] John Scott - Power (2002, Polity) - libgen.li.pdf
+- chunk_index: 269
+- importance: 0.7724
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+5 Discipline and Expertise The central figure in the second-stream view of power today is, undoubtedly, Michel Foucault, who has stressed that any form of power, other than mere force and physical repres- sion, depends on the formation of individuals into subjects with appropriate motives and desires. Through processes of signification, Foucault argued, individuals become socialised members of groups and are interpellated - incorporated - into power relations. Their power or lack of power derives, quite literally, from their empowerment or disempowerment by the groups of which they are members. Foucault's par- ticular contribution was to explore these issues in r.elation to those processes of social control that he called 'discipline'. There is a repressive aspect to discipline, but there is also a more important 'productive' side through which individuals are formed as subj…
+
+## Excerpt 49
+- id: 565b5f321fa49ac8be34124c
+- qdrant_id: 3acbbe2d-c962-5bb3-93bc-57eb2fc730ad
+- source: Elisabeth Roudinesco, Rachel Bowlby - Why Psychoanalysis_ (European Perspectives_ A Series in Social Thought and Cultural Criticism) (2004, Columbia University Press) - libgen.li.pdf
+- chunk_index: 388
+- importance: 0.7620
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Discipline and Punish. And after the philosopher's death, he was to stress the extent to which Foucault was seeking the explana- tion of certain practices in forms of power, where strenuous ef- forts had been made to find the backup for those practices in sci-
+
+## Excerpt 50
+- id: 8f86ee2006de0969571a6fda
+- qdrant_id: fa059ec1-6c65-5fbd-b681-21b22554ccf3
+- source: [Semiotext(e) foreign agents] Franco _Bifo_ Berardi - The soul at work_ from alienation to autonomy (2009, Semiotext(e)) - libgen.li.pdf
+- chunk_index: 399
+- importance: 0.7710
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+that accompany the victory of monetary neo-libetalism clearing away all rules, so that only the rules of the economic nate, uncontested. The only legitimate rule is now the strictest, most violent, the most cynical, the most irrational of all the rules: law of economic jungle. In the works that Foucault devoted to the genealogy of power formations, the key concept was discipline, understood as modeling of the bodies in the Fordist context. In his eatIv '"ri,rim,,,, whete he studied the formation of the modern disciplinary tures-mental hospitals, clinics, prisons-Foucault built a theory modern power that included a theory of subject formation. Now that the despotic regime of liberalist detegulation has developed itself, the discourse Foucault developed in his early ings needs to be updated. Foucault himself tealized it, as we can in The Birth of Biopolitics, the subsequently…
+
+## Excerpt 51
+- id: ddefd96e13c41f96d3edebd1
+- qdrant_id: e420b848-ec10-5437-9e40-6653b11a35d1
+- source: Elizabeth Rottenberg - For the Love of Psychoanalysis_ The Play of Chance in Freud and Derrida (2019, Fordham University Press) - libgen.li.pdf
+- chunk_index: 674
+- importance: 0.7827
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+in Derrida’s language of “virtualization” another way of pushing Foucault to think “beyond the power principle,” as it were. Now before I jump to the phantasmatic scene of execution in the penultimate chapter of The Death Penalty, Volume I, I would like to turn briey to a strange moment in Discipline and Punish where Foucault describes the “real subjugation [assujettissement réel]” that results from a “ctitious relation [relation ctive]” (DP 202/204). In this passage, which is remarkable in many ways, one might say that Foucault sees without seeing, and knows without being able to take into account, what Derrida has been saying all along, namely that “capital punishment remains fundamentally [en son fond] … a spectacle”—and just to make my point in advance, I will tell you that this last quotation comes not from Derrida’s Death Penalty seminars but from Discipline and Punish. What Foucault describes in this passage is a ctional, a
+
+## Excerpt 52
+- id: f80bd6ce5a40e08548ed9e4f
+- qdrant_id: b89d7063-fe95-57e6-b235-fc2266e3e01c
+- source: Sophia Phoca - Introducing Postfeminism (1999, Totem Books) - libgen.li.pdf
+- chunk_index: 71
+- importance: 0.7681
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Foucault locates two historical events of particular "genealogical" significance to this regulatory system. The first is the reorganization of the city as a result of the plague at the end of the 17th century. A system of power was introduced in which individuals were required to comply with a set of surveillance techniques contrived to assess people according to their moral and physical health. The rise of a modern prison system, allied to the disciplinary surveillance of health, was exemplified by the panopticon, as we'll now see. 95
+
+## Excerpt 53
+- id: 71e08de47450cf1e96e95231
+- qdrant_id: adc1feae-b54b-5c01-939b-fe333efec46c
+- source: (Studies in the Phenomenology of Oppression) Sandra Lee Bartky - Femininity and Domination-Routledge (1990).pdf
+- chunk_index: 253
+- importance: 0.7762
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+5 Foucault, Femininity, and the Modernization of Patriarchal Power I In a striking critique of modern society, Michel Foucault has argued that the rise of parliamentary institutions and of new conceptions of political liberty was accompanied by a darker counter-movement, by the emergence of a new and unprecedented discipline directed against the body. More is required of the body now than mere political allegiance or the appropriation of the products of its labor: The new discipline invades the body and seeks to regulate its very forces and operations, the economy and efficiency of its movements. The disciplinary practices Foucault describes are tied to peculiarly modern forms of the army, the school, the hospital, the prison, and the manufactory; the aim of these disciplines is to increase the utility of the body, to augment its forces: What was then being formed was a policy of coercio…
+
+## Excerpt 54
+- id: 1f5e00097b696e6c46da1214
+- qdrant_id: 4cb8acec-501e-52f0-b988-009d8b42dca4
+- source: (Genders and Sexuality in History) Christopher E. Forth, Elinor Accampo - Confronting Modernity in Fin-de-Siecle France (Genders and Sexuality in History)-Palgrave Macmillan (2010).pdf
+- chunk_index: 68
+- importance: 0.7652
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+12 Confronting Modernity in Fin-de-Siècle France 4. Among Michel Foucault’s most influential works are Discipline and Punish: the Birth of the Prison, trans. Alan Sheridan (New York: Pantheon, 1977) and The History of Sexuality, vol. 1, trans. Robert Hurley (New York: Vintage, 1980). Foucault, of course, contributed heavily to the ‘cultural turn’ in historiography pioneered by Hayden White and deeply influenced by theorists such as Clifford Geertz, Roland Barthes, Jacques Derrida, Pierre Bourdieu, and many others. For a helpful overview and analysis of this subject, see Victoria E. Bonnell and Lynn Hunt (eds), Beyond the Cultural Turn (Berkeley: University of California Press, 1999), pp. 1–32. 5. Michel Foucault, ‘Truth and Power,’ in Power/Knowledge: Selected Interviews and Other Writings, 1972–1977, Collin Gordon (ed.) (New York: Pantheon, 1980), p. 131. 6. Georges Vigarello, Le Corps …
+
+## Excerpt 55
+- id: 8cf9794e352b03b191e494ca
+- qdrant_id: c6cf7276-f6a9-559d-860c-c07628317929
+- source: [Interventions] François Debrix, Alexander D. Barder - Beyond Biopolitics_ Theory, Violence, and Horror in World Politics (2012, Routledge) - libgen.li (1).pdf
+- chunk_index: 582
+- importance: 0.7712
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+David Pan, “Carl Schmitt on Culture and Violence in the Political Decision,” Telos Vol. 142 (2008), pp. 49–72. 13 This is the case in Agamben’s work, but also in writings by Michael Hardt and Antonio Negri. See Hardt and Negri, Empire (Cambridge: Harvard University Press, 2001); and Hardt and Negri, Multitude. 14 Achille Mbembe, “Necropolitics,” Public Culture Vol. 15 (2003), p. 22. 15 Astrid Deuber-Mankowsky, “Nothing Is Political, Everything Can Be Politicized: On the Concept of the Political in Michel Foucault and Carl Schmitt,” Telos Vol. 142 (2008), pp. 154–55. 16 Mouﬀe, “Carl Schmitt and the Paradox of Liberal Democracy,” p. 42. 17 See, in particular, Michel Foucault, Discipline and Punish: The Birth of the Prison (New York: Vintage Books, 1979). 18 Agamben, Homo Sacer, p. 9. 19 For another problematization of Agamben’s treatment of Foucault’s biopower, see Paul Patton, “Agamben an…
+
+## Excerpt 56
+- id: c3587b506417e54a2ae54f98
+- qdrant_id: 8b0dea41-dd70-505c-8dc9-10bbc2135a68
+- source: May, Todd - The political philosophy of poststructuralist anarchism (1994, Penn State University Press_Pennsylvania State University Press) - libgen.li.pdf
+- chunk_index: 368
+- importance: 0.7673
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+origin and scattered location, which overlap, repeat, or imitate one an• other according to their domain of application, converge and gradually produce the blueprint of a general method .• ,. It is the purpose of gene• alogies precisely to study those processes and their effects. One might object that it is possible to conceive of a practice that we might want to call "psychological" that would not have such effects, even in our society. Foucault's genealogy of the modem soul provides no proof against this possibility, nor is it designed to. What Discipline and Punish traces are not possible psychological practices, but actual ones. Foucault seeks to show the relationships of power within which our current practices are immersed. As such, he offers some reason to abandon psychological practice as we know it, but no reason in principle to reject the possibility of a nonoppressive psychological practice. This
+
+## Excerpt 57
+- id: 732e427ee63824ea76b2138b
+- qdrant_id: 63f6859d-7ea5-51ab-bc07-524c40925472
+- source: Lewis Call - Postmodern Anarchism (2003, Lexington Books) - libgen.li.pdf
+- chunk_index: 302
+- importance: 0.7672
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+from Voltaire's "infamous thing," the tyranny of priests and aristocrats. And perhaps in some sense it did so. But at precisely the same time, it was also in­ stalling disciplinary regimes in all major social institutions: in the anny bar­ racks, in the schools, in the hospitals, and in the prisons. These disciplinary systems, revealed for the first time by Foucault' s genealogy, make a mockery of the Enlightenment' s claims to have created a utopia based upon fonnal political rights. As with sexual power, the creation of a certain kind of subjectivity is essen­ tial to the development of disciplinary power: "the individual is no doubt the fictitious atom of an ' ideological' representation of society; but he is also a real­ ity fabricated by this specific technology of power than I have called ' discipline . '"65 Foucault refers to the particular kind of subjectivity created by …
+
+## Excerpt 58
+- id: 69d42d151ac89a649c261637
+- qdrant_id: d70a5b9e-8bae-53ae-be79-7a77eca07123
+- source: John Protevi - The Edinburgh Dictionary of Continental Philosophy (2005, Edinburgh University Press) [10.1515_9780748626236] - libgen.li.pdf
+- chunk_index: 151
+- importance: 0.7712
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+including Madness and Civilisation (1961), The Birth of the Clinic (1963), Discipline and Punish: The Birth of the Prison (1975) and The History of Sexuality, Volume One (1976). His most influential study in this regard is Discipline and Punish, wherein he shows how modern power functions as ‘normalisation’, identifying and rendering all individuals measurable according to statistical norms. The third mode of subjectivisation Foucault identifies and studies encompasses methods, routines, practices and disciplines that a person undertakes more or less consciously in an attempt to alter his or her own subjectivity. Very generally these self-shaping activities or tech- niques of the self might be called ethical practices, because they are engaged in as a way of establishing oneself in an ethos, a more or less chosen, self-aware way of life. Foucault’s last works are devoted to the study of such practices. These include the second and third volumes in
+
+## Excerpt 59
+- id: c4eab2499e1ddcf47a69344d
+- qdrant_id: 8c703df7-e9bf-5e56-b4b8-9b403c9ea5c1
+- source: Elliott, Anthony - Concepts of the Self (Key Concepts) (2020, Wiley) - libgen.li.pdf
+- chunk_index: 85
+- importance: 0.7702
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+in structuralist-inspired social theory, specifically the organizing principles of personal identity, on the one hand, and social differences, on the other. Chapter 3 examines the contribution of the late French philosopher and historian Michel Foucault to the analysis of the self, power and language or discourse. Foucault’s attempts to identify the systems of power through which individuals imprison themselves at the level of the self and individual subjectivity are discussed. His audaciously original argument that the relationship of the individual to society and history can be traced to a whole technology of the self is critically appraised, as is his emphasis on modern forms of psychotherapy for the coercive management of the self. The chapter concludes by considering the work of other scholars influenced by Foucault, including the so-called school of governmentalities, for theorizing the relation between self and society.
+
+## Excerpt 60
+- id: ad9dedab1164241f7ca0be28
+- qdrant_id: 3e562271-1458-5549-9dff-b0218129fd0d
+- source: Alan D. Schrift - The History of Continental Philosophy, 8 volumes (2010, University Of Chicago Press) - libgen.li.pdf
+- chunk_index: 422
+- importance: 0.7657
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+by political philosophers, including, among others, Jürgen Habermas, Nancy Fraser, and Charles Taylor.36 Th e central problem for these critics is that Foucault 34. Michel Foucault, Discipline and Punish: Th e Birth of the Prison, Alan Sheridan (trans.) (New York: Vintage, 1977), 27. Hereaft er cited as DP followed by the page number. 35. Michel Foucault, “Truth and Power,” in Th e Essential Works of Foucault, 1954–1984. Volume 3: Power, James D. Faubion (ed.), Robert Hurley (trans.) (New York: New Press, 2000), 131. 36. See, for example, Jürgen Habermas, Th e Philosophical Discourse of Modernity: Twelve Lectures, Frederick Lawrence (trans.) (Cambridge, MA: MIT Press, 1987); Nancy Fraser, Unruly Practices: Power, Discourse and Gender in Contemporary Social Th eory (Minneapolis, MN: University of Minnesota Press, 1989); Charles Taylor, “Foucault on Freedom and Truth,” Political…
+
+## Excerpt 61
+- id: 78b0c479bfc07c3efaa826a3
+- qdrant_id: ce747ec2-51fd-590c-abfe-2d4c4f829f6d
+- source: Elisabeth Roudinesco, Rachel Bowlby - Why Psychoanalysis_ (European Perspectives_ A Series in Social Thought and Cultural Criticism) (2004, Columbia University Press) - libgen.li.pdf
+- chunk_index: 397
+- importance: 0.7729
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+logie" [Scientific research and psychology] (1957), in Dits et écrits [Spoken and written words], vol. (Paris: Gallimard, 1994), pp. 153-54. Jean Delumeau and Daniel Roche, eds., Histoire des pères et de la paternité LA history of fathers and paternity] (Paris: Larousse, 1990). Michel Foucault also thinks that psychoanalysis was the in- strument of a new control over incestuous relations in the middle- class family. See Les anormaux: Cours au Collège de Prance, 1974-5 [The abnormal: Collège de France seminars, '974-51 (Paris: Galhmard/Seuil, 1999). IO. On the family as a universal model, see chapter 9. I. See further the great American psychoanalyst Leonard Shengold's fine book, Soul Murder: The Effects of Childhood Abuse and Deprivation (New Haven: Yale University Press,
+
+## Excerpt 62
+- id: 1cef9f1484fff0104963bd94
+- qdrant_id: 9d12659d-93ef-54b6-bc83-ebb2de1eb77d
+- source: Elizabeth Rottenberg - For the Love of Psychoanalysis_ The Play of Chance in Freud and Derrida (2019, Fordham University Press) - libgen.li.pdf
+- chunk_index: 668
+- importance: 0.7696
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+began to wear body cameras on their uniforms: “‘Everybody acts better on lm,’ said police Supt. Gary McCarthy, who said the [police body-camera pilot] program was ‘o| to a great start’”). The rst example is from The Death Penalty, Volume I, and it is the only explicit reference to Foucault in the whole rst year of the seminar. Though Derrida praises Discipline and Punish (“it is a rich and important book, a very precious one for us, which I recommend you read or reread” [ DP1 42/74]), though he quotes its opening pages and uses the last words of poor Damiens, “Pardon, Lord,” to connect his own past seminars on “perjury and pardon” to his present seminar on the death penalty, he cannot help but point to a visibility beyond visibility that complicates the orderly, historical sequence of Discipline and Punish: 15 p. 161 16 Foucault’s book [Discipline and Punish] is not a book on the death penalty, but it is a book that deals
+
+## Excerpt 63
+- id: 799a97c70ea9c275fdb3f795
+- qdrant_id: b7d3a382-2fad-50a7-8872-00a6aa900f1d
+- source: (Very Short Introductions) Christopher Butler - Postmodernism - A Very Short Introduction-Oxford University Press, USA (2003).pdf
+- chunk_index: 138
+- importance: 0.7652
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+The most inﬂuential analysis of this relationship between discourse and power was given by Michel Foucault in his studies of the history of practices in law, penology, and medicine. Such powerful discourses are rather obviously designed to exclude and control people, such as those diagnosed as criminally insane or ill. And these exclusions arise for Foucault in a classically Marxist manner: The general juridical form that guaranteed a system of rights that were egalitarian in principle was unsupported by these ﬁne, everyday, physical mechanisms, by all those systems of micro-power that are essentially non-egalitarian and asymmetrical that we call the ‘disciplines’ such as exams, hospitals, prisons, the regulation of workshops, schools, the army. Michel Foucault, Discipline and Punish: The Birth of the Prison (1977) Foucault adopts the victim’s position, and analyses power from the bottom…
+
+## Excerpt 64
+- id: c27cacf09c1947b6805b9323
+- qdrant_id: 9df2895c-bc58-525f-862f-cee773cc734a
+- source: Randolph C. Wheeler (editor) - Passion in Philosophy_ Essays in Honor of Alphonso Lingis (2016, Lexington Books) - libgen.li.pdf
+- chunk_index: 418
+- importance: 0.7622
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Resisting Individuality 117 37. Foucault, “Nietzsche, Genealogy, and History,” 163. 38. Ibid. 39. Ibid., 153. 40. Foucault, Discipline and Punish: The Birth of the Prison, 29. 41. Foucault, “Nietzsche, Genealogy, and History,” 158. 42. Davis, Are Prisons Obsolete?, 16. 43. Lingis, Foreign Bodies, 54. 44. Ibid., 54. 45. Ibid. 46. Ibid., vii. 47. Ibid., 60. 48. Ibid., 58–60. 49. Ibid., 60. 50. Ibid., 62. 51. Davis, Are Prisons Obsolete?, 30. 52. Jared Sexton, “Racial Profiling and the Societies of Control” in Warfare in the American Homeland: Policing and Prison in a Penal Democracy, ed. Joy James, 200. 53. Ibid., 199. 54. Lingis, Foreign Bodies, 63. 55. Ibid., 68. 56. Foucault, Discipline and Punish: The Birth of the Prison, 7. 57. Lingis, Foreign Bodies, 58–59. 58. Sexton, “Racial Profiling and the Societies of Control,” 198. 59. Foucault, “Nietzsche, Genealogy, and History,” 153. 60. Foucault, Discipline and Punish: The Birth of the Prison, 29. BIBLIOGRAPHY
+
+## Excerpt 65
+- id: 9a4aff0516ebcfabc7efeef5
+- qdrant_id: 7aa2e681-d6d8-5ff9-9d03-fad890cc1c68
+- source: Richard Rushton - Deleuze and Lola Montès (2021, Bloomsbury Academic) [10.5040_9781501345791] - libgen.li.pdf
+- chunk_index: 77
+- importance: 0.7636
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Foucault is trying to highlight the ways in which our very conceptions of the world, of how the world works, and even of what “people” are, of what makes a human being a human being, can change. An even more famous example of this kind of change was mapped out by Foucault in terms of a transition in notions of criminal punishment and imprisonment from the late eighteenth into the nineteenth century. In his book called Discipline and Punish (first published in 1975), Foucault argued that the practices of criminal punishment changed during this period so that, where previously criminals had typically been punished by way of overt bodily injury—such as having one’s fingers chopped off as a punishment for theft—at the end of the nineteenth century it became more accepted for criminals to be placed in prison rather than to be physically punished.6 The logic of this practice of c…
+
+## Excerpt 66
+- id: 3efd01b97076183e5057a136
+- qdrant_id: d484cbe6-0ed5-595f-b34c-bbe422410cf2
+- source: (Philosophy of Antonio Negri) Murphy, Timothy S._ Mustapha, Abdul-Karim_ Negri, Antonio - The philosophy of Antonio Negri. _ Vol. 2, Revolution in theory-Pluto Press (2007).pdf
+- chunk_index: 146
+- importance: 0.7683
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+as a critical method, but, starting from the decision of the inexistence of universals, to ask what history one can make. (Foucault 2004: 5) Such pronouncements have prompted Ian Hacking to write that ‘Foucault’s dynamic nominalism is a historicized nominalism’ (Hacking 2002: 49; see also Balibar 1992). How is this methodological nominalism reflected in the introduction of the theory of biopolitics? In the first place, we can see it at work in the manner in which Foucault poses the problem of biopolitics, to wit, how did a domain of ‘social life’ come to be constituted as an object for knowledge and as a correlate of certain regulatory practices of power? How did an entity both epistemic and material, such as the ‘population’— possibly the pivotal category of biopolitics—emerge at the intersection of statistical knowledge and epidemiological power? Note that Foucault’s nominali…
+
+## Excerpt 67
+- id: 6aff4c12c24590160c8d6fd1
+- qdrant_id: 19698c61-e4cb-558c-a664-14992c4ad6b5
+- source: Eva Illouz - The End of Love_ A Sociology of Negative Relations-Oxford University Press (2019) (1).pdf
+- chunk_index: 39
+- importance: 0.7667
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+A final possible objection to my query has to do with the looming presence of the work of Michel Foucault in the human and social sciences. His Discipline and Punish,26 has been widely influential, spreading the suspicion that democratic freedom was a ploy to mask the processes of surveillance and disciplining entailed by new forms of knowledge and control of human beings. Sociologists devoted their attention to surveillance and viewed, à la Foucault, freedom as a liberal illusion, undergirded by a powerful system of discipline and control. In that sense, freedom as such was a less interesting object of study than the illusion of subjectivity that freedom creates. Yet, at the end of his life, in his Cours at the Collège de France, Foucault increasingly paid attention to the relationship between freedom and governmentality, that is, to the ways in which the idea of freedom in the market h…
+
+## Excerpt 68
+- id: f36860cdaccc80071345bab2
+- qdrant_id: 560e87a7-044a-5010-9c9b-3553a353c17e
+- source: [Key Concepts] John Scott - Power (2002, Polity) - libgen.li.pdf
+- chunk_index: 279
+- importance: 0.7600
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+govern populations.2 The various bodies of specialist, techni- cal knowledge that proliferated with the growth of modern government - economics, law, accounting, medicine, psychia- try, criminology, and so on - all contributed, in their contra- dictory ways, to the building of the system of discipline. Each has defined the particular categories of the population to which their specific forms of discipline are appropriate. For example, criminology conceptualised criminals, social admin- istration the poor, and psychiatry the mentally ill as the objects of their respective discourses and forms of discipline. Together they inform the organisations and practices through which these groups are governed. The expert application of discipline, Foucault argued, required the establishment of specific structures and mecha-
+
+## Excerpt 69
+- id: 712c3d76fb390cca486ec92f
+- qdrant_id: 5363dd78-4732-53da-bbe6-f9e3c9353992
+- source: David Collings - Disastrous Subjectivities_ Romaniticism, Modernity, and the Real (2019, University of Toronto Press) [10.3138_9781487533373] - libgen.li.pdf
+- chunk_index: 67
+- importance: 0.7693
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+unreason (a term emphasized in the title of his first major work, Folie et Déraison , translated as Madness and Civilization ), in a gesture that, rather than separating reason from what it negates, stitches them together so that the latter is henceforth inscribed within reason itself. 25 Thus, rather than writing a positive history of psychiatry in that work or endors- ing its claims to knowledge, Foucault embarks on a genealogy of this continual reinscription, showing how the discourses of that discipline perpetually retrace the boundaries of unreason. 26 Through this rede- scription of rationality – and his later genealogies of penal discipline, medical knowledge, and the discourses of sexuality – Foucault attempts to trace the internal limit of disciplinary knowledge, as well as of the secular historical narrative such knowledge uses to justify itself, and thereby to fore…
+
+## Excerpt 70
+- id: ce6ee94cf1148eaa895a864c
+- qdrant_id: f123d60f-097b-58b1-a67a-6e21724cb8ee
+- source: Ann Laura Stoler - Race and the Education of Desire_ Foucault’s History of Sexuality and the Colonial Order of Things-Duke University Press Books (1995).pdf
+- chunk_index: 119
+- importance: 0.7680
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+controlled. It was, "these new measures that would become the anchorage points for the different varieties of racism of the nineteenth and twenti­ eth centuries" (HS:26). In describing the rupture between a medicine of sex and the biology of reproduction in the nineteenth century. Foucault describes how the scientific arbitrators of sex authorized the "hygienic necessity" of cleansing and invigorating the social body in forms that "jus­ tified the racisms of the state, which at the time were on the horizon" (HS:54). Note that here racism is a potential waiting to be born, not yet on the terra firma that produced the rigid racial taxonomies of the late nineteenth century. In colonial perspectIve, we could easily offer a different chronology with other prefigurings, of which Foucault was clearly aware. Colonial tech­ nologies of rule bear witness to earlier. explicit raCially-base…
+
+## Excerpt 71
+- id: e8a08c92d4972a51a8e4e133
+- qdrant_id: dc5afd86-0e0e-53c0-a5fd-1ecc2a743941
+- source: Daniela Vallega-Neu - The Bodily Dimension In Thinking (S U N Y Series in Contemporary Continental Philosophy) (2005) - libgen.li.pdf
+- chunk_index: 433
+- importance: 0.7686
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+briefly look at the various ways in which, especially in Discipline and Punish and The History of Sexuality, Foucault thinks of bodies. c. Bodies as Sites of Power-Knowledge Relations In Discipline and Punish and The History of Sexuality (vol. 1) Foucault thinks bodies in the manifold ways in which they are objectified through different Exorbitant Gazes 109
+
+## Excerpt 72
+- id: 2bedff78f9f3b8b035094cc8
+- qdrant_id: 6000743b-d975-5236-9543-02c460a76eb2
+- source: [a John Hope Franklin Center Book] Timothy Campbell_ Adam Sitze (eds.) - Biopolitics_ A Reader (2013, Duke University Press) - libgen.li.pdf
+- chunk_index: 106
+- importance: 0.7676
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+would submit, is another iteration of the remarkable way that biopolitics is the name for a certain technique of retelling. Not only is it the case that energy implicit in Foucault’s narrative spurs its own retelling; it is also the case that the energy from Foucault’s narrative spurs the retelling of certain familiar stories, such as the history of po liti cal thought. For its part, Michael Hardt and Antonio Negri’s rereading of Foucault stands at the polar opposite of Agamben’s. In the fi rst of their texts we include here, a selection titled “Biopo liti cal Production” from their 2000 book Em- pire, Hardt and Negri interpret “the biopo liti cal nature of the new paradigm of power,” as a form of power “that regulates social life from its interior.” To do so they decisively shift the ultimate horizon for biopolitics and biopower to society and the social space in which life a…
+
+## Excerpt 73
+- id: aefb618384e580da32ccee11
+- qdrant_id: 0cbe6d1f-9c3a-565d-acfa-bc2b1c7f4a9e
+- source: Wolfgang Streit - Joyce Foucault_ Sexual Confessions-University of Michigan Press (2004).pdf
+- chunk_index: 24
+- importance: 0.7618
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+Introduction body as being potentially hysterical (HS I 103-5). At this point Foucault refines his analytic instrument. He describes this process as a centuries- long, uncompleted movement during which the "right" or "power of death" (HS I I37) has been increasingly supplanted by the expanding "power over life" or "bio-power" (HS II 39-40), which carries the will to knowledge. These two impersonal forces gain validity through mecha- nisms he calls deployments. In the Middle Ages, the predominant forms of power asserted themselves as the power of death and blood. Opposition to the sovereignty could incur the death penalty, which was carried out if normative limits were exceeded; and due to the power, property, and sta- tus ascribed to blood, the nobility devoted their utmost attention to main- taining its purity among themselves. Since sovereignties propagated them- selves through allianc…
+
+## Excerpt 74
+- id: f71fc9c0929a1da63a707340
+- qdrant_id: c548743c-f7cf-5d77-b7eb-44f7c78248cb
+- source: Pynchon and Philosophy Wittgenstein, Foucault and Adorno (Martin Paul Eve (auth.)) (Z-Library) (2).pdf
+- chunk_index: 124
+- importance: 0.7626
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+himself regarded as central to his project. There are also some preliminary difficulties that should be dis- cussed regarding the level of acceptable abstraction to meta-analysis. For instance, the continuing relevance of Foucault’s historico-social surface has been addressed by Todd May who concurs with Deleuze31 that Foucault never intended his epistemes to stand in historical per- petuity.32 For instance, Discipline and Punish specifies that the era of disciplinary prisons is, itself, already ‘losing something of [its] purpose’ (306). Instead, then, of being absolutely specific to their historical situation, according to May, Foucault’s methodologies and practices are to be regarded as valid, useful historiographical and cultural tools.33 Conversely, though, Timothy O’Leary sees, in Foucault’s genealogies, an identity between the historic and the contemporary, particularly as it relates to Foucault’s late writings on ipseic ethics: Foucault’s histories
+
+## Excerpt 75
+- id: 2bfef592fd1ba85517e6d3aa
+- qdrant_id: 34329aea-3d2a-538a-bd3a-4f0b979f9fba
+- source: Lois McNay - FOUCAULT AND FEMINISM_ Power, Gender and the Self (2019) - libgen.li.pdf
+- chunk_index: 51
+- importance: 0.7636
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+genealogy. Adopting Nietzsche's conception of the primacy of force over meaning, Foucault opposes 'the hazardous play of domina¬ tions' and 'the exteriority of accidents' to the conception of an immanent direction to history. History is not the continuous de¬ velopment and working through of an ideal schema, rather it is based on a constant struggle between different power blocks which attempt to impose their own system of domination. These different systems of domination are always in the process of being displaced, overthrown, superseded. The task of the historian is to uncover the contingent and violent emergence of these regimes in order to shatter their aura of legitimacy. The structuring of social relations is perceived in terms of warfare (Foucault 1980: 90-1, 114). 'Hu¬ manity does not gradually progress from combat to combat until it arrives at universal reciprocity…
+
+## Excerpt 76
+- id: 9e5401c11d22dea0a6ad8dfc
+- qdrant_id: 2856af6b-1c0e-54ec-b52e-501ddc1d154f
+- source: Lewis Call - Postmodern Anarchism (2003, Lexington Books) - libgen.li.pdf
+- chunk_index: 327
+- importance: 0.7614
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+53. Nietzsche, Genealogy of Morals, preface, section 3. 54. Ibid., 20. 55. As J. Daniel Schubert notes, this politicized genealogy also has important implications for intellectuals and for academic practice. See Schubert, "From a Politics of Transgression," I 006. 56. Foucault, Language, Countermemory, Practice, 1 52. 57. Ibid., 1 47. 58. Foucault, Ethics, Subjectivity, and Truth, 1 77. 59. Ibid., 228. 60. Ibid., 278. 6 1 . Foucault, History of Sexuality, volume I, 92. 62. Ibid., 1 03. 63. Foucault, Discipline and Punish, 222. 64. Ibid. 65. Ibid., 1 94. 66. Kropotkin, "Anarchist Communism: Its Basis and Principles" in Fugitive Writings, 9 1 -92. 67. Foucault, Discipline and Punish, 1 96. 68. Ibid., 20 I . 69. See Rawls, A Theory of Justice and Nozick, A narchy, State, and Utopia. 70. Foucault, Language, Countermemory, Practice, 2 1 4. 7 1 . Foucault, Discipline an…
+
+## Excerpt 77
+- id: cb61cff620be19077a140a6a
+- qdrant_id: 2bf58acf-b5ec-5618-a5dd-7970fa4a279a
+- source: Jon Murdoch - Post-structuralist Geography_ A Guide to Relational Space (2005, Sage Publications Ltd) - libgen.li.pdf
+- chunk_index: 132
+- importance: 0.7640
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+12. In a similar vein, Deleuze (1988: 25) says in his commentary on Foucault’s legacy: ‘power is not homogeneous but can be defined only through the particular points through which it passes’. SPACES OF DISCIPLINE AND GOVERNMENT 55
+
+## Excerpt 78
+- id: f3b9e9340b0b813522ffb4d1
+- qdrant_id: d633ff18-41b8-575e-b2b5-df2673d66c07
+- source: Rosi Braidotti and Simone Bignall - Posthuman Ecologies _ Complexity and Process After Deleuze (2019, Rowman & Littlefield) - libgen.li.pdf
+- chunk_index: 69
+- importance: 0.7678
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+and H. Tomlinson. London: Verso. Deleuze, G., and Guattari, F. (1987). A Thousand Plateaus. Translated by Brian Massumi. Minneapolis: University of Minnesota Press. Deloria, V. (1972). God is Red: A Native View of Religion. Golden, CO: Fulcrum. Foucault, M. (1995). Discipline and Punish: The Birth of the Prison. Translated by Alan Sheridan. New York: Vintage Books. Foucault, M. (2008). The Birth of Biopolitics: Lectures at the Collège de France, 1978–1979. Translated by Graham Burchell. New York: Palgrave Macmillan. Grosz, E. (2011). Becoming Undone: Darwinian reflections on Life, Politics and Art. Durham, NC: Duke University Press. Grosz, E., Yusoff, K., and Clark, N. (2017). ‘An Interview with Elizabeth Grosz: Geopower, Inhumanism and the Biopolitical’, Theory, Culture and Society, 34(2–3), 129–46. Guattari, F. (2000) The Three Ecologies. London: Athlone. Haraway, D. (1988). ‘S…
+
+## Excerpt 79
+- id: 63a9641cfe30781db49ba98b
+- qdrant_id: 2cf29b8b-edff-51ca-be77-c23b1ecbfbf0
+- source: Ontologies of Sex Philosophy in Sexual Politics (Zeynep Direk) (Z-Library).pdf
+- chunk_index: 151
+- importance: 0.7646
+- seed_hits: michel-foucault-discipline-punishment-biopower-genealogy
+
+out of it, there is no room for emancipation from oppression. Butler rejects the modernist view that subjectivity is given on the grounds that we are human beings. This is an idea based on the modern philosophy of subjectivity and the humanism that stems from it. For Foucault the prisoner becomes the model for thinking the constitution of the subject. In Discipline and Punish, Foucault holds that power is not exercised from the outside to regulate the prisoner. The prisoner does not pre-exist as an individual who is then subordinated to the regulations of the institution. The prisoner becomes a prisoner as discourse confers an “identity” on him as prisoner. In Butler’s words:
+
+## Excerpt 80
+- id: 3d5327ad349c3cabe0da9ce2
+- qdrant_id: b55d5a88-8ddd-5fe8-9469-6134d66f0e55
+- source: [European Perspectives_ A Series in Social Thought and Cultural Criticism] Barthes, Roland_ Nietzsche, Friedrich Wilhelm_ Sartre, Jean-Paul - The philosopher's touch _ Sartre, Nietzsche, and Barthes at the piano .pdf
+- chunk_index: 348
+- importance: 0.7823
+- seed_hits: roland-barthes-lover-s-discourse-punctum-camera-lucida
+
+Barthes by Roland Barthes , he fulﬁ lls, to be sure, his biographical obligations by presenting his family album. But, all the while, he constantly plays on the irony of the reﬂ ecting image. The labels he attaches to these photos mischievously inﬂ ect any pretention to
