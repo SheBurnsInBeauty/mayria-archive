@@ -1,15 +1,15 @@
 ﻿{
-    "title":  "Mayria Archive — Link Index (GitHub Edition)",
-    "created_utc":  "\"2025-09-18 21:23:48.055411\"",
+    "title":  "Mayria Archive - Compact Link Index (normalized)",
+    "created_utc":  "2025-09-18T22:25:49Z",
     "items":  [
                   {
                       "name":  "persona.json",
-                      "kind":  "persona",
+                      "kind":  "other",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/persona.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/persona.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/persona.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/persona.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/persona.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/persona.json"
                                   }
                   },
                   {
@@ -17,129 +17,29 @@
                       "kind":  "index",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/index.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/index.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/index.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/index.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/index.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/index.json"
                                   }
                   },
                   {
-                      "name":  "core_canon_chunk_001.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_001.json",
+                      "name":  "INDEX.json",
+                      "kind":  "index",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/INDEX.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_chunk_001.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_001.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_chunk_001.json"
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/INDEX.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/INDEX.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/INDEX.json"
                                   }
                   },
                   {
-                      "name":  "core_canon_chunk_002.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_002.json",
+                      "name":  "index_links.json",
+                      "kind":  "other",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/index_links.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_chunk_002.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_002.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_chunk_002.json"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-001.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.json",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-001.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-001.json"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-001.md",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.md",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-001.md",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-001.md"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-002.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.json",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-002.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-002.json"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-002.md",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.md",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-002.md",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-002.md"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-003.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.json",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-003.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-003.json"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-003.md",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.md",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-003.md",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-003.md"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-004.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.json",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-004.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-004.json"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-004.md",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.md",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-004.md",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-004.md"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-005.json",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.json",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-005.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-005.json"
-                                  }
-                  },
-                  {
-                      "name":  "core_canon_part-005.md",
-                      "kind":  "core_part",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.md",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-005.md",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-005.md"
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/index_links.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/index_links.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/index_links.json"
                                   }
                   },
                   {
@@ -147,9 +47,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_abjection-kristeva-powers-of-horror.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_abjection-kristeva-powers-of-horror.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_abjection-kristeva-powers-of-horror.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_abjection-kristeva-powers-of-horror.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_abjection-kristeva-powers-of-horror.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_abjection-kristeva-powers-of-horror.json"
                                   }
                   },
                   {
@@ -157,9 +57,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_abjection-kristeva-powers-of-horror.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_abjection-kristeva-powers-of-horror.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_abjection-kristeva-powers-of-horror.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_abjection-kristeva-powers-of-horror.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_abjection-kristeva-powers-of-horror.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_abjection-kristeva-powers-of-horror.md"
                                   }
                   },
                   {
@@ -167,9 +67,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_achille-mbembe-necropolitics-postcolony.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_achille-mbembe-necropolitics-postcolony.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_achille-mbembe-necropolitics-postcolony.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_achille-mbembe-necropolitics-postcolony.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_achille-mbembe-necropolitics-postcolony.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_achille-mbembe-necropolitics-postcolony.json"
                                   }
                   },
                   {
@@ -177,9 +77,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_achille-mbembe-necropolitics-postcolony.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_achille-mbembe-necropolitics-postcolony.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_achille-mbembe-necropolitics-postcolony.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_achille-mbembe-necropolitics-postcolony.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_achille-mbembe-necropolitics-postcolony.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_achille-mbembe-necropolitics-postcolony.md"
                                   }
                   },
                   {
@@ -187,9 +87,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_agamben-profanations-potentiality.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_agamben-profanations-potentiality.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_agamben-profanations-potentiality.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_agamben-profanations-potentiality.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_agamben-profanations-potentiality.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_agamben-profanations-potentiality.json"
                                   }
                   },
                   {
@@ -197,9 +97,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_agamben-profanations-potentiality.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_agamben-profanations-potentiality.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_agamben-profanations-potentiality.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_agamben-profanations-potentiality.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_agamben-profanations-potentiality.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_agamben-profanations-potentiality.md"
                                   }
                   },
                   {
@@ -207,9 +107,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_anne-carson-eros-the-bittersweet-fragments.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_anne-carson-eros-the-bittersweet-fragments.json"
                                   }
                   },
                   {
@@ -217,9 +117,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_anne-carson-eros-the-bittersweet-fragments.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_anne-carson-eros-the-bittersweet-fragments.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_anne-carson-eros-the-bittersweet-fragments.md"
                                   }
                   },
                   {
@@ -227,9 +127,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_archive-fever-derrida.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_archive-fever-derrida.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_archive-fever-derrida.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_archive-fever-derrida.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_archive-fever-derrida.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_archive-fever-derrida.json"
                                   }
                   },
                   {
@@ -237,9 +137,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_archive-fever-derrida.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_archive-fever-derrida.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_archive-fever-derrida.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_archive-fever-derrida.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_archive-fever-derrida.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_archive-fever-derrida.md"
                                   }
                   },
                   {
@@ -247,9 +147,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.json"
                                   }
                   },
                   {
@@ -257,9 +157,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_audre-lorde-the-erotic-as-power-poetry-survival.md"
                                   }
                   },
                   {
@@ -267,9 +167,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_autotheory-maggie-nelson-the-argonauts.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_autotheory-maggie-nelson-the-argonauts.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_autotheory-maggie-nelson-the-argonauts.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_autotheory-maggie-nelson-the-argonauts.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_autotheory-maggie-nelson-the-argonauts.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_autotheory-maggie-nelson-the-argonauts.json"
                                   }
                   },
                   {
@@ -277,9 +177,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_autotheory-maggie-nelson-the-argonauts.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_autotheory-maggie-nelson-the-argonauts.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_autotheory-maggie-nelson-the-argonauts.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_autotheory-maggie-nelson-the-argonauts.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_autotheory-maggie-nelson-the-argonauts.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_autotheory-maggie-nelson-the-argonauts.md"
                                   }
                   },
                   {
@@ -287,9 +187,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_barthes-mythologies-semiotics-punctum-studium.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_barthes-mythologies-semiotics-punctum-studium.json"
                                   }
                   },
                   {
@@ -297,9 +197,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_barthes-mythologies-semiotics-punctum-studium.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_barthes-mythologies-semiotics-punctum-studium.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_barthes-mythologies-semiotics-punctum-studium.md"
                                   }
                   },
                   {
@@ -307,9 +207,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.json"
                                   }
                   },
                   {
@@ -317,9 +217,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bell-hooks-all-about-love-feminist-love-ethics.md"
                                   }
                   },
                   {
@@ -327,9 +227,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bernard-stiegler-technics-memory-pharmacology.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bernard-stiegler-technics-memory-pharmacology.json"
                                   }
                   },
                   {
@@ -337,9 +237,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bernard-stiegler-technics-memory-pharmacology.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_bernard-stiegler-technics-memory-pharmacology.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_bernard-stiegler-technics-memory-pharmacology.md"
                                   }
                   },
                   {
@@ -347,9 +247,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_catherine-malabou-plasticity-the-new-wounded.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_catherine-malabou-plasticity-the-new-wounded.json"
                                   }
                   },
                   {
@@ -357,9 +257,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_catherine-malabou-plasticity-the-new-wounded.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_catherine-malabou-plasticity-the-new-wounded.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_catherine-malabou-plasticity-the-new-wounded.md"
                                   }
                   },
                   {
@@ -367,9 +267,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_chris-kraus-i-love-dick-autotheory.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_chris-kraus-i-love-dick-autotheory.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_chris-kraus-i-love-dick-autotheory.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_chris-kraus-i-love-dick-autotheory.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_chris-kraus-i-love-dick-autotheory.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_chris-kraus-i-love-dick-autotheory.json"
                                   }
                   },
                   {
@@ -377,9 +277,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_chris-kraus-i-love-dick-autotheory.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_chris-kraus-i-love-dick-autotheory.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_chris-kraus-i-love-dick-autotheory.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_chris-kraus-i-love-dick-autotheory.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_chris-kraus-i-love-dick-autotheory.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_chris-kraus-i-love-dick-autotheory.md"
                                   }
                   },
                   {
@@ -387,9 +287,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.json"
                                   }
                   },
                   {
@@ -397,9 +297,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_cixous-laugh-of-the-medusa-writing-the-body-white-ink.md"
                                   }
                   },
                   {
@@ -407,9 +307,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_claire-colebrook-deleuze-feminism-extinction.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_claire-colebrook-deleuze-feminism-extinction.json"
                                   }
                   },
                   {
@@ -417,9 +317,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_claire-colebrook-deleuze-feminism-extinction.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_claire-colebrook-deleuze-feminism-extinction.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_claire-colebrook-deleuze-feminism-extinction.md"
                                   }
                   },
                   {
@@ -427,9 +327,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.json"
                                   }
                   },
                   {
@@ -437,9 +337,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_clarice-lispector-the-passion-according-to-g-h-cockroach-becoming.md"
                                   }
                   },
                   {
@@ -447,9 +347,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-cinema-time-image-movement-image.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-cinema-time-image-movement-image.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-cinema-time-image-movement-image.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-cinema-time-image-movement-image.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-cinema-time-image-movement-image.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-cinema-time-image-movement-image.json"
                                   }
                   },
                   {
@@ -457,9 +357,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-cinema-time-image-movement-image.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-cinema-time-image-movement-image.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-cinema-time-image-movement-image.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-cinema-time-image-movement-image.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-cinema-time-image-movement-image.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-cinema-time-image-movement-image.md"
                                   }
                   },
                   {
@@ -467,9 +367,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.json"
                                   }
                   },
                   {
@@ -477,9 +377,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_deleuze-guattari-rhizome-assemblage-desire.md"
                                   }
                   },
                   {
@@ -487,9 +387,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.json"
                                   }
                   },
                   {
@@ -497,9 +397,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_donna-haraway-cyborg-feminism-companion-species-situated-knowledges.md"
                                   }
                   },
                   {
@@ -507,9 +407,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.json"
                                   }
                   },
                   {
@@ -517,9 +417,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_duras-minimalism-absence-presence-the-malady-of-death.md"
                                   }
                   },
                   {
@@ -527,9 +427,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elaine-scarry-the-body-in-pain-representation.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elaine-scarry-the-body-in-pain-representation.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elaine-scarry-the-body-in-pain-representation.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elaine-scarry-the-body-in-pain-representation.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elaine-scarry-the-body-in-pain-representation.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elaine-scarry-the-body-in-pain-representation.json"
                                   }
                   },
                   {
@@ -537,9 +437,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elaine-scarry-the-body-in-pain-representation.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elaine-scarry-the-body-in-pain-representation.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elaine-scarry-the-body-in-pain-representation.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elaine-scarry-the-body-in-pain-representation.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elaine-scarry-the-body-in-pain-representation.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elaine-scarry-the-body-in-pain-representation.md"
                                   }
                   },
                   {
@@ -547,9 +447,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.json"
                                   }
                   },
                   {
@@ -557,9 +457,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_elizabeth-grosz-volatile-bodies-corporeal-feminism.md"
                                   }
                   },
                   {
@@ -567,9 +467,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.json"
                                   }
                   },
                   {
@@ -577,9 +477,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_emmanuel-levinas-face-of-the-other-ethics.md"
                                   }
                   },
                   {
@@ -587,9 +487,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.json"
                                   }
                   },
                   {
@@ -597,9 +497,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-horror-of-philosophy-cosmic-pessimism.md"
                                   }
                   },
                   {
@@ -607,9 +507,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.json"
                                   }
                   },
                   {
@@ -617,9 +517,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_eugene-thacker-in-the-dust-of-this-planet-negative-theology.md"
                                   }
                   },
                   {
@@ -627,9 +527,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.json"
                                   }
                   },
                   {
@@ -637,9 +537,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_gayatri-spivak-strategic-essentialism-subaltern-can-the-subaltern-speak.md"
                                   }
                   },
                   {
@@ -647,9 +547,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.json"
                                   }
                   },
                   {
@@ -657,9 +557,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_georges-bataille-eroticism-expenditure-general-economy.md"
                                   }
                   },
                   {
@@ -667,9 +567,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.json"
                                   }
                   },
                   {
@@ -677,29 +577,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.md"
-                                  }
-                  },
-                  {
-                      "name":  "topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
-                      "kind":  "topic",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json"
-                                  }
-                  },
-                  {
-                      "name":  "topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
-                      "kind":  "topic",
-                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
-                      "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
-                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_giorgio-agamben-bare-life-state-of-exception-homo-sacer.md"
                                   }
                   },
                   {
@@ -707,9 +587,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_hauntology-and-cancelled-futures.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_hauntology-and-cancelled-futures.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_hauntology-and-cancelled-futures.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_hauntology-and-cancelled-futures.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_hauntology-and-cancelled-futures.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_hauntology-and-cancelled-futures.json"
                                   }
                   },
                   {
@@ -717,9 +597,29 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_hauntology-and-cancelled-futures.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_hauntology-and-cancelled-futures.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_hauntology-and-cancelled-futures.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_hauntology-and-cancelled-futures.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_hauntology-and-cancelled-futures.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_hauntology-and-cancelled-futures.md"
+                                  }
+                  },
+                  {
+                      "name":  "topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
+                      "kind":  "topic",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.json"
+                                  }
+                  },
+                  {
+                      "name":  "topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
+                      "kind":  "topic",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_h_l_ne-cixous-book-of-promethea-love-as-world-creation.md"
                                   }
                   },
                   {
@@ -727,9 +627,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_irigaray-two-lips-sexual-difference-fluids.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_irigaray-two-lips-sexual-difference-fluids.json"
                                   }
                   },
                   {
@@ -737,9 +637,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_irigaray-two-lips-sexual-difference-fluids.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_irigaray-two-lips-sexual-difference-fluids.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_irigaray-two-lips-sexual-difference-fluids.md"
                                   }
                   },
                   {
@@ -747,9 +647,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jasbir-puar-debility-capacity-assemblage.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jasbir-puar-debility-capacity-assemblage.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jasbir-puar-debility-capacity-assemblage.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jasbir-puar-debility-capacity-assemblage.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jasbir-puar-debility-capacity-assemblage.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jasbir-puar-debility-capacity-assemblage.json"
                                   }
                   },
                   {
@@ -757,9 +657,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jasbir-puar-debility-capacity-assemblage.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jasbir-puar-debility-capacity-assemblage.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jasbir-puar-debility-capacity-assemblage.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jasbir-puar-debility-capacity-assemblage.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jasbir-puar-debility-capacity-assemblage.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jasbir-puar-debility-capacity-assemblage.md"
                                   }
                   },
                   {
@@ -767,9 +667,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jean-luc-nancy-being-singular-plural.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jean-luc-nancy-being-singular-plural.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jean-luc-nancy-being-singular-plural.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jean-luc-nancy-being-singular-plural.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jean-luc-nancy-being-singular-plural.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jean-luc-nancy-being-singular-plural.json"
                                   }
                   },
                   {
@@ -777,9 +677,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jean-luc-nancy-being-singular-plural.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jean-luc-nancy-being-singular-plural.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_jean-luc-nancy-being-singular-plural.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jean-luc-nancy-being-singular-plural.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_jean-luc-nancy-being-singular-plural.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_jean-luc-nancy-being-singular-plural.md"
                                   }
                   },
                   {
@@ -787,9 +687,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.json"
                                   }
                   },
                   {
@@ -797,9 +697,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_judith-butler-gender-performativity-gender-trouble-bodies.md"
                                   }
                   },
                   {
@@ -807,9 +707,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.json"
                                   }
                   },
                   {
@@ -817,9 +717,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_julia-kristeva-chora-semiotic-maternal-space.md"
                                   }
                   },
                   {
@@ -827,9 +727,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.json"
                                   }
                   },
                   {
@@ -837,9 +737,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_karen-barad-agential-realism-intra-action-entanglement.md"
                                   }
                   },
                   {
@@ -847,9 +747,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_kathy-acker-body-writing-cut-up.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_kathy-acker-body-writing-cut-up.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_kathy-acker-body-writing-cut-up.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_kathy-acker-body-writing-cut-up.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_kathy-acker-body-writing-cut-up.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_kathy-acker-body-writing-cut-up.json"
                                   }
                   },
                   {
@@ -857,9 +757,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_kathy-acker-body-writing-cut-up.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_kathy-acker-body-writing-cut-up.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_kathy-acker-body-writing-cut-up.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_kathy-acker-body-writing-cut-up.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_kathy-acker-body-writing-cut-up.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_kathy-acker-body-writing-cut-up.md"
                                   }
                   },
                   {
@@ -867,9 +767,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lacan-mirror-stage-desire-lack.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lacan-mirror-stage-desire-lack.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lacan-mirror-stage-desire-lack.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lacan-mirror-stage-desire-lack.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lacan-mirror-stage-desire-lack.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lacan-mirror-stage-desire-lack.json"
                                   }
                   },
                   {
@@ -877,9 +777,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lacan-mirror-stage-desire-lack.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lacan-mirror-stage-desire-lack.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lacan-mirror-stage-desire-lack.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lacan-mirror-stage-desire-lack.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lacan-mirror-stage-desire-lack.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lacan-mirror-stage-desire-lack.md"
                                   }
                   },
                   {
@@ -887,9 +787,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.json"
                                   }
                   },
                   {
@@ -897,9 +797,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_laura-mulvey-visual-pleasure-narrative-cinema-male-gaze.md"
                                   }
                   },
                   {
@@ -907,9 +807,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lauren-berlant-cruel-optimism-affect.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lauren-berlant-cruel-optimism-affect.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lauren-berlant-cruel-optimism-affect.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lauren-berlant-cruel-optimism-affect.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lauren-berlant-cruel-optimism-affect.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lauren-berlant-cruel-optimism-affect.json"
                                   }
                   },
                   {
@@ -917,9 +817,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lauren-berlant-cruel-optimism-affect.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lauren-berlant-cruel-optimism-affect.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lauren-berlant-cruel-optimism-affect.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lauren-berlant-cruel-optimism-affect.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lauren-berlant-cruel-optimism-affect.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lauren-berlant-cruel-optimism-affect.md"
                                   }
                   },
                   {
@@ -927,9 +827,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.json"
                                   }
                   },
                   {
@@ -937,9 +837,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_lispector-_gua-viva-presence-stream-of-consciousness.md"
                                   }
                   },
                   {
@@ -947,9 +847,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.json"
                                   }
                   },
                   {
@@ -957,9 +857,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_luce-irigaray-this-sex-which-is-not-one-speculum.md"
                                   }
                   },
                   {
@@ -967,9 +867,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maggie-nelson-bluets-blue-as-methodology.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maggie-nelson-bluets-blue-as-methodology.json"
                                   }
                   },
                   {
@@ -977,9 +877,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maggie-nelson-bluets-blue-as-methodology.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maggie-nelson-bluets-blue-as-methodology.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maggie-nelson-bluets-blue-as-methodology.md"
                                   }
                   },
                   {
@@ -987,9 +887,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.json"
                                   }
                   },
                   {
@@ -997,9 +897,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_mark-fisher-capitalist-realism-depression-hauntology.md"
                                   }
                   },
                   {
@@ -1007,9 +907,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.json"
                                   }
                   },
                   {
@@ -1017,9 +917,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-blanchot-the-writing-of-the-disaster-space-of-literature.md"
                                   }
                   },
                   {
@@ -1027,9 +927,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.json"
                                   }
                   },
                   {
@@ -1037,9 +937,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_maurice-merleau-ponty-phenomenology-of-perception-the-flesh.md"
                                   }
                   },
                   {
@@ -1047,9 +947,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_media-archaeology-kittler-apparatus-inscription.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_media-archaeology-kittler-apparatus-inscription.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_media-archaeology-kittler-apparatus-inscription.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_media-archaeology-kittler-apparatus-inscription.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_media-archaeology-kittler-apparatus-inscription.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_media-archaeology-kittler-apparatus-inscription.json"
                                   }
                   },
                   {
@@ -1057,9 +957,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_media-archaeology-kittler-apparatus-inscription.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_media-archaeology-kittler-apparatus-inscription.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_media-archaeology-kittler-apparatus-inscription.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_media-archaeology-kittler-apparatus-inscription.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_media-archaeology-kittler-apparatus-inscription.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_media-archaeology-kittler-apparatus-inscription.md"
                                   }
                   },
                   {
@@ -1067,9 +967,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.json"
                                   }
                   },
                   {
@@ -1077,9 +977,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-foucault-discipline-punishment-biopower-genealogy.md"
                                   }
                   },
                   {
@@ -1087,9 +987,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-serres-the-five-senses-noise-parasite.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-serres-the-five-senses-noise-parasite.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-serres-the-five-senses-noise-parasite.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-serres-the-five-senses-noise-parasite.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-serres-the-five-senses-noise-parasite.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-serres-the-five-senses-noise-parasite.json"
                                   }
                   },
                   {
@@ -1097,9 +997,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-serres-the-five-senses-noise-parasite.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-serres-the-five-senses-noise-parasite.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_michel-serres-the-five-senses-noise-parasite.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-serres-the-five-senses-noise-parasite.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_michel-serres-the-five-senses-noise-parasite.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_michel-serres-the-five-senses-noise-parasite.md"
                                   }
                   },
                   {
@@ -1107,9 +1007,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.json"
                                   }
                   },
                   {
@@ -1117,9 +1017,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_paul-b-preciado-testo-junkie-pharmacopornographic-regime.md"
                                   }
                   },
                   {
@@ -1127,9 +1027,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.json"
                                   }
                   },
                   {
@@ -1137,9 +1037,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_roland-barthes-lover-s-discourse-punctum-camera-lucida.md"
                                   }
                   },
                   {
@@ -1147,9 +1047,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.json"
                                   }
                   },
                   {
@@ -1157,9 +1057,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-affirmative-ethics-vitalist-materialism.md"
                                   }
                   },
                   {
@@ -1167,9 +1067,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.json"
                                   }
                   },
                   {
@@ -1177,9 +1077,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_rosi-braidotti-posthuman-nomadic-theory-feminist-new-materialism.md"
                                   }
                   },
                   {
@@ -1187,9 +1087,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.json"
                                   }
                   },
                   {
@@ -1197,9 +1097,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sara-ahmed-affect-theory-orientation-phenomenology-feminist-killjoy.md"
                                   }
                   },
                   {
@@ -1207,9 +1107,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sontag-against-interpretation-erotic-of-art.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sontag-against-interpretation-erotic-of-art.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sontag-against-interpretation-erotic-of-art.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sontag-against-interpretation-erotic-of-art.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sontag-against-interpretation-erotic-of-art.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sontag-against-interpretation-erotic-of-art.json"
                                   }
                   },
                   {
@@ -1217,9 +1117,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sontag-against-interpretation-erotic-of-art.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sontag-against-interpretation-erotic-of-art.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_sontag-against-interpretation-erotic-of-art.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sontag-against-interpretation-erotic-of-art.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_sontag-against-interpretation-erotic-of-art.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_sontag-against-interpretation-erotic-of-art.md"
                                   }
                   },
                   {
@@ -1227,9 +1127,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.json"
                                   }
                   },
                   {
@@ -1237,9 +1137,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_stacy-alaimo-trans-corporeality-material-feminism.md"
                                   }
                   },
                   {
@@ -1247,9 +1147,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.json"
                                   }
                   },
                   {
@@ -1257,9 +1157,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_susan-sontag-on-photography-against-interpretation-illness-as-metaphor.md"
                                   }
                   },
                   {
@@ -1267,9 +1167,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_vil_m-flusser-technical-image-apparatus.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_vil_m-flusser-technical-image-apparatus.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_vil_m-flusser-technical-image-apparatus.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_vil_m-flusser-technical-image-apparatus.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_vil_m-flusser-technical-image-apparatus.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_vil_m-flusser-technical-image-apparatus.json"
                                   }
                   },
                   {
@@ -1277,9 +1177,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_vil_m-flusser-technical-image-apparatus.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_vil_m-flusser-technical-image-apparatus.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_vil_m-flusser-technical-image-apparatus.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_vil_m-flusser-technical-image-apparatus.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_vil_m-flusser-technical-image-apparatus.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_vil_m-flusser-technical-image-apparatus.md"
                                   }
                   },
                   {
@@ -1287,9 +1187,9 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.json",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.json",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.json",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.json"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.json"
                                   }
                   },
                   {
@@ -1297,9 +1197,129 @@
                       "kind":  "topic",
                       "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.md",
                       "mirrors":  {
-                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.md",
                                       "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.md",
-                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.md"
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/topics/topic_walter-benjamin-aura-mechanical-reproduction-archive.md"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_chunk_001.json",
+                      "kind":  "core_chunk",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_001.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_001.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_chunk_001.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_chunk_001.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_chunk_002.json",
+                      "kind":  "core_chunk",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_002.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_chunk_002.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_chunk_002.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_chunk_002.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-001.json",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-001.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-001.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-001.md",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.md",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-001.md",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-001.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-001.md"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-002.json",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-002.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-002.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-002.md",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.md",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-002.md",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-002.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-002.md"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-003.json",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-003.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-003.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-003.md",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.md",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-003.md",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-003.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-003.md"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-004.json",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-004.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-004.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-004.md",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.md",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-004.md",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-004.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-004.md"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-005.json",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.json",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.json",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-005.json",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-005.json"
+                                  }
+                  },
+                  {
+                      "name":  "core_canon_part-005.md",
+                      "kind":  "core_part",
+                      "url":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.md",
+                      "mirrors":  {
+                                      "raw_refs":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/refs/heads/main/core/core_canon_part-005.md",
+                                      "raw_main":  "https://raw.githubusercontent.com/SheBurnsInBeauty/mayria-archive/main/core/core_canon_part-005.md",
+                                      "jsdelivr":  "https://cdn.jsdelivr.net/gh/SheBurnsInBeauty/mayria-archive@main/core/core_canon_part-005.md"
                                   }
                   }
               ]
